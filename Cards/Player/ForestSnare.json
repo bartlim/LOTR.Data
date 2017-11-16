@@ -3,7 +3,7 @@
     "Id": "ForestSnare",
     "Owner": "Player",
     "CardType": 1,
-    "ShopType": null,
+    "ShopType": "Valor",
     "Cost": 3,
     "QuestPoints": 0,
     "Attack": 0,
@@ -11,8 +11,8 @@
     "Health": 0,
     "Trait": "Special",
     "Rarity": 0,
-    "Sphere": 0,
-    "SphereLevel": 0,
+    "Sphere": 1,
+    "SphereLevel": 1,
     "Revision": ""
   },
   "Localization": {

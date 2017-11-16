@@ -3,7 +3,7 @@
     "Id": "BarlimanButterbur",
     "Owner": "Player",
     "CardType": 0,
-    "ShopType": null,
+    "ShopType": "Valor",
     "Cost": 2,
     "QuestPoints": 0,
     "Attack": 1,
@@ -11,8 +11,8 @@
     "Health": 3,
     "Trait": "Bree",
     "Rarity": 0,
-    "Sphere": 0,
-    "SphereLevel": 0,
+    "Sphere": 3,
+    "SphereLevel": 1,
     "Revision": ""
   },
   "Localization": {

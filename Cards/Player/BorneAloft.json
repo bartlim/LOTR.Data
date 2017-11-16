@@ -3,7 +3,7 @@
     "Id": "BorneAloft",
     "Owner": "Player",
     "CardType": 4,
-    "ShopType": null,
+    "ShopType": "Valor",
     "Cost": 1,
     "QuestPoints": 0,
     "Attack": 0,
@@ -11,8 +11,8 @@
     "Health": 0,
     "Trait": null,
     "Rarity": 0,
-    "Sphere": 0,
-    "SphereLevel": 0,
+    "Sphere": 3,
+    "SphereLevel": 1,
     "Revision": ""
   },
   "Localization": {

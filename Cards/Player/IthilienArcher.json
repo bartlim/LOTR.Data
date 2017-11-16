@@ -3,7 +3,7 @@
     "Id": "IthilienArcher",
     "Owner": "Player",
     "CardType": 0,
-    "ShopType": null,
+    "ShopType": "Pack_02",
     "Cost": 4,
     "QuestPoints": 0,
     "Attack": 1,
@@ -11,8 +11,8 @@
     "Health": 4,
     "Trait": "Gondor",
     "Rarity": 0,
-    "Sphere": 0,
-    "SphereLevel": 0,
+    "Sphere": 1,
+    "SphereLevel": 2,
     "Revision": ""
   },
   "Localization": {

@@ -3,7 +3,7 @@
     "Id": "EscortFromEdoras",
     "Owner": "Player",
     "CardType": 0,
-    "ShopType": null,
+    "ShopType": "Starter",
     "Cost": 1,
     "QuestPoints": 0,
     "Attack": 1,
@@ -11,8 +11,8 @@
     "Health": 1,
     "Trait": "Rohan",
     "Rarity": 0,
-    "Sphere": 0,
-    "SphereLevel": 0,
+    "Sphere": 3,
+    "SphereLevel": 2,
     "Revision": ""
   },
   "Localization": {

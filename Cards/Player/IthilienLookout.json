@@ -3,7 +3,7 @@
     "Id": "IthilienLookout",
     "Owner": "Player",
     "CardType": 0,
-    "ShopType": null,
+    "ShopType": "Starter",
     "Cost": 3,
     "QuestPoints": 0,
     "Attack": 1,
@@ -11,8 +11,8 @@
     "Health": 2,
     "Trait": "Gondor",
     "Rarity": 0,
-    "Sphere": 0,
-    "SphereLevel": 0,
+    "Sphere": 1,
+    "SphereLevel": 1,
     "Revision": ""
   },
   "Localization": {

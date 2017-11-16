@@ -3,7 +3,7 @@
     "Id": "BurstIntoSong",
     "Owner": "Player",
     "CardType": 4,
-    "ShopType": null,
+    "ShopType": "Pack_03",
     "Cost": 0,
     "QuestPoints": 0,
     "Attack": 0,
@@ -11,8 +11,8 @@
     "Health": 0,
     "Trait": null,
     "Rarity": 0,
-    "Sphere": 0,
-    "SphereLevel": 0,
+    "Sphere": 1,
+    "SphereLevel": 1,
     "Revision": ""
   },
   "Localization": {

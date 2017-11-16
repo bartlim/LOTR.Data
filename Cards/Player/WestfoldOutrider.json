@@ -3,7 +3,7 @@
     "Id": "WestfoldOutrider",
     "Owner": "Player",
     "CardType": 0,
-    "ShopType": null,
+    "ShopType": "Valor",
     "Cost": 2,
     "QuestPoints": 0,
     "Attack": 2,
@@ -11,8 +11,8 @@
     "Health": 2,
     "Trait": "Rohan",
     "Rarity": 0,
-    "Sphere": 0,
-    "SphereLevel": 0,
+    "Sphere": 4,
+    "SphereLevel": 1,
     "Revision": ""
   },
   "Localization": {

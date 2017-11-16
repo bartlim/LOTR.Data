@@ -3,7 +3,7 @@
     "Id": "HobbitCloak",
     "Owner": "Player",
     "CardType": 1,
-    "ShopType": null,
+    "ShopType": "Pack_01",
     "Cost": 1,
     "QuestPoints": 0,
     "Attack": 0,
@@ -11,8 +11,8 @@
     "Health": 0,
     "Trait": "Special",
     "Rarity": 0,
-    "Sphere": 0,
-    "SphereLevel": 0,
+    "Sphere": 1,
+    "SphereLevel": 2,
     "Revision": ""
   },
   "Localization": {

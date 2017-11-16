@@ -3,7 +3,7 @@
     "Id": "Faramir",
     "Owner": "Player",
     "CardType": 5,
-    "ShopType": null,
+    "ShopType": "Pack_02",
     "Cost": 10,
     "QuestPoints": 0,
     "Attack": 1,
@@ -11,7 +11,7 @@
     "Health": 10,
     "Trait": "Gondor",
     "Rarity": 0,
-    "Sphere": 0,
+    "Sphere": 1,
     "SphereLevel": 0,
     "Revision": ""
   },

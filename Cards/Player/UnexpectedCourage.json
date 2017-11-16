@@ -3,7 +3,7 @@
     "Id": "UnexpectedCourage",
     "Owner": "Player",
     "CardType": 1,
-    "ShopType": null,
+    "ShopType": "Pack_01",
     "Cost": 2,
     "QuestPoints": 0,
     "Attack": 0,
@@ -11,8 +11,8 @@
     "Health": 0,
     "Trait": "Weapon",
     "Rarity": 0,
-    "Sphere": 0,
-    "SphereLevel": 0,
+    "Sphere": 3,
+    "SphereLevel": 1,
     "Revision": ""
   },
   "Localization": {
