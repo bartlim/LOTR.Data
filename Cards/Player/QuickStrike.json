@@ -1,0 +1,22 @@
+{
+  "CardData": {
+    "Id": "QuickStrike",
+    "Owner": "Player",
+    "CardType": 4,
+    "ShopType": null,
+    "Cost": 2,
+    "QuestPoints": 0,
+    "Attack": 0,
+    "Willpower": 0,
+    "Health": 0,
+    "Trait": null,
+    "Rarity": 0,
+    "Sphere": 0,
+    "SphereLevel": 0,
+    "Revision": ""
+  },
+  "Localization": {
+    "Title": "Quick Strike",
+    "Text": "Action: Choose a character to make an attack. That character gains Quick for this attack."
+  }
+}

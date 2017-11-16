@@ -1,0 +1,22 @@
+{
+  "CardData": {
+    "Id": "Legolas",
+    "Owner": "Player",
+    "CardType": 5,
+    "ShopType": null,
+    "Cost": 10,
+    "QuestPoints": 0,
+    "Attack": 2,
+    "Willpower": 1,
+    "Health": 10,
+    "Trait": "Silvan",
+    "Rarity": 0,
+    "Sphere": 0,
+    "SphereLevel": 0,
+    "Revision": ""
+  },
+  "Localization": {
+    "Title": "Legolas",
+    "Text": "Ranged. Upkeep: Deal 1 damage to an enemy."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "CardData": {
+    "Id": "BillThePony",
+    "Owner": "Player",
+    "CardType": 0,
+    "ShopType": null,
+    "Cost": 2,
+    "QuestPoints": 0,
+    "Attack": 1,
+    "Willpower": 1,
+    "Health": 2,
+    "Trait": "Creature",
+    "Rarity": 0,
+    "Sphere": 0,
+    "SphereLevel": 0,
+    "Revision": ""
+  },
+  "Localization": {
+    "Title": "Bill the Pony",
+    "Text": "While you control Sam Gamgee, Bill the Pony is cost -1. Upkeep: Gain 1 resource."
+  }
+}

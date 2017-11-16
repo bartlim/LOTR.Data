@@ -1,0 +1,22 @@
+{
+  "CardData": {
+    "Id": "IthilienArcher",
+    "Owner": "Player",
+    "CardType": 0,
+    "ShopType": null,
+    "Cost": 4,
+    "QuestPoints": 0,
+    "Attack": 1,
+    "Willpower": 2,
+    "Health": 4,
+    "Trait": "Gondor",
+    "Rarity": 0,
+    "Sphere": 0,
+    "SphereLevel": 0,
+    "Revision": ""
+  },
+  "Localization": {
+    "Title": "Ithilien Archer",
+    "Text": "Ranged. Ithilien Archer gets +1 ATK for each exhausted enemy."
+  }
+}

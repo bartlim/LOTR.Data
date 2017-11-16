@@ -1,0 +1,22 @@
+{
+  "CardData": {
+    "Id": "SamGamgee",
+    "Owner": "Player",
+    "CardType": 5,
+    "ShopType": null,
+    "Cost": 7,
+    "QuestPoints": 0,
+    "Attack": 1,
+    "Willpower": 2,
+    "Health": 8,
+    "Trait": "Hobbit",
+    "Rarity": 0,
+    "Sphere": 0,
+    "SphereLevel": 0,
+    "Revision": ""
+  },
+  "Localization": {
+    "Title": "Sam Gamgee",
+    "Text": "Stealth. While Sauron has 0 resources, Sam Gamgee loses Stealth, gets +1 WP and +1 ATK, and Stalwart."
+  }
+}

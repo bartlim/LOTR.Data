@@ -1,0 +1,22 @@
+{
+  "CardData": {
+    "Id": "HobbitCloak",
+    "Owner": "Player",
+    "CardType": 1,
+    "ShopType": null,
+    "Cost": 1,
+    "QuestPoints": 0,
+    "Attack": 0,
+    "Willpower": 0,
+    "Health": 0,
+    "Trait": "Special",
+    "Rarity": 0,
+    "Sphere": 0,
+    "SphereLevel": 0,
+    "Revision": ""
+  },
+  "Localization": {
+    "Title": "Hobbit Cloak",
+    "Text": "Attach to a Hobbit. While Sauron has 0 resources, attached character gains Block 1."
+  }
+}

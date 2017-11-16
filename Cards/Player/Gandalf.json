@@ -1,0 +1,22 @@
+{
+  "CardData": {
+    "Id": "Gandalf",
+    "Owner": "Player",
+    "CardType": 0,
+    "ShopType": null,
+    "Cost": 5,
+    "QuestPoints": 0,
+    "Attack": 4,
+    "Willpower": 4,
+    "Health": 5,
+    "Trait": "Istari",
+    "Rarity": 0,
+    "Sphere": 0,
+    "SphereLevel": 0,
+    "Revision": ""
+  },
+  "Localization": {
+    "Title": "Gandalf",
+    "Text": "Fleeting. Arrival: Choose one: Draw 3 cards, reduce your threat by 3, or deal 3 damage to an enemy."
+  }
+}
