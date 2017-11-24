@@ -1,0 +1,167 @@
+{
+  "Id": "AdventuresInWilderland",
+  "Name": "Adventures in Wilderland",
+  "Quests": [
+    {
+      "Id": "PassageThroughMirkwood",
+      "Name": "Passage Through Mirkwood",
+      "Description": "You are carrying a message from King Brand to Grimbeorn through Mirkwood forest.",
+      "Stages": [
+        {
+          "Id": "STAGE_ForestGate",
+          "StageName": "Forest Gate",
+          "StoryText": "The King of Dale has entrusted you with an urgent letter for Grimbeorn the Old, chieftain of the Beornings that dwell in the Anduin Vale. To reach his house you must journey through the shadowy forest of Mirkwood. Not long after entering the forest, you are surrounded by evil creatures.",
+          "ObjectiveText": "Make your way through Mirkwood Forest."
+        },
+        {
+          "Id": "STAGE_EnchantedStream",
+          "StageName": "Captured by Spiders",
+          "StoryText": "Giant spiders have captured one of your companions. You watch in horror as they bind him in webbed cords to be dragged away and devoured. You cannot abandon him to such a fate.",
+          "ObjectiveText": "Overcome \"Cocoon\" and rescue the captive Hero to allow travel."
+        },
+        {
+          "Id": "STAGE_MountainsOfMirkwood",
+          "StageName": "Stand and Fight",
+          "StoryText": "You have rescued your friend, but the creatures of Mirkwood continue to swarm around you. \"We cannot outrun these beasts,\" cries a Hero. \"We must fight!\" he shouts.",
+          "ObjectiveText": "Defeat each Enemy in play to allow travel."
+        },
+        {
+          "Id": "STAGE_TheSpidersGlade",
+          "StageName": "Turn and Flee",
+          "StoryText": "You have rescued your friend, but the creatures of Mirkwood continue to swarm around you. \"We cannot fight these beasts forever,\" cries a Hero. \"We must make a run for it!\" he shouts.",
+          "ObjectiveText": "Overcome \"Find the Path\" to allow travel."
+        },
+        {
+          "Id": "STAGE_OldForestRoad",
+          "StageName": "The Enchanted Stream",
+          "StoryText": "As you hurry along the forest path, a wide, dark river stops your progress. \"We must find a way across,\" says a Hero. But as you search for a place to ford, a giant spider blocks your way.",
+          "ObjectiveText": "Defeat \"Ungoliant's Spawn\" to complete the Quest."
+        }
+      ]
+    },
+    {
+      "Id": "FliesAndSpiders",
+      "Name": "Flies and Spiders",
+      "Description": "You wake up from a poisoned sleep wrapped in webs and surrounded by spiders.",
+      "Stages": [
+        {
+          "Id": "DarkForest",
+          "StageName": "Dark Forest",
+          "StoryText": "You wake from a troubled sleep to find yourself alone in Mirkwood Forest. The last thing you remember is the sound of countless legs scuttling around your camp and hundreds of bulbous eyes peering from the dark. You realize that the giant spiders of Mirkwood have captured your friends in the night, and it�s up to you to find them!",
+          "ObjectiveText": "Overcome \"Find Your Friends\" to unlock travel."
+        },
+        {
+          "Id": "TheSpidersLair",
+          "StageName": "The Spiders' Lair",
+          "StoryText": "You have succeeded in rescuing some of your companions, but others remain cocooned. The spiders are now aware of your presence and descend from the trees that surround their lair.",
+          "ObjectiveText": "Overcome \"Rescue Your Friends\" to unlock travel."
+        },
+        {
+          "Id": "TheSpidersWebs",
+          "StageName": "The Spiders' Webs",
+          "StoryText": "The last of your companions has been cut free, but the spiders are determined to recapture you. They spin giant webs from tree to tree, trapping you in their den. You will have to cut your way through them in order to escape.",
+          "ObjectiveText": "Overcome \"Escape the Spiders\" to unlock travel."
+        },
+        {
+          "Id": "ForestGlade",
+          "StageName": "Forest Glade",
+          "StoryText": "You have cut your way through the spiders� webs, when an enormous queen spider appears and blocks your path. Her many offspring gather behind you. There is no turning back. You must defeat the giant spider.",
+          "ObjectiveText": "Defeat \"The Spider Queen\" to complete the Quest."
+        }
+      ]
+    },
+    {
+      "Id": "LostInMirkwood",
+      "Name": "Lost in Mirkwood",
+      "Description": "You have escaped from the spiders only to become lost in Mirkwood Forest.",
+      "Stages": [
+        {
+          "Id": "MirkwoodForest",
+          "StageName": "Mirkwood Forest",
+          "StoryText": "You have escaped from the spiders� dark colony, only to find yourself lost in the vastness of Mirkwood. Discovering the way out may be your greatest challenge yet.",
+          "ObjectiveText": "Overcome \"Follow the Stream\" to advance immediately to Forest Stream OR overcome \"Climb the Hill\" to advance immediately to Bare Hilltop."
+        },
+        {
+          "Id": "ForestStream",
+          "StageName": "Forest Stream",
+          "StoryText": "The forest of Mirkwood is dark and vast, which makes it nearly impossible to know which direction to travel. You must find some landmarks to get your bearings.",
+          "ObjectiveText": "Overcome \"Continue Downstream\" to advance immediately to Mirkwood Swamp OR overcome \"Search for a Path\" to advance immediately to Overgrown Trail."
+        },
+        {
+          "Id": "BareHilltop",
+          "StageName": "Bare Hilltop",
+          "StoryText": "The forest of Mirkwood is dark and vast, which makes it nearly impossible to know which direction to travel. You must find some landmarks to get your bearings.",
+          "ObjectiveText": "Overcome \"Investigate the Smoke\" to advance immediately to Abandoned Village OR overcome \"Search for a Path\" to advance immediately to Overgrown Trail."
+        },
+        {
+          "Id": "MirkwoodSwamp",
+          "StageName": "Mirkwood Swamp",
+          "StoryText": "The forest of Mirkwood is dark and vast, which makes it nearly impossible to know which direction to travel. You must find some landmarks to get your bearings.",
+          "ObjectiveText": "Defeat \"Marsh Adder\" to complete the Quest."
+        },
+        {
+          "Id": "OvergrownTrail",
+          "StageName": "Overgrown Trail",
+          "StoryText": "The forest of Mirkwood is dark and vast, which makes it nearly impossible to know which direction to travel. You must find some landmarks to get your bearings.",
+          "ObjectiveText": "Overcome \"Escape the Forest\" to complete the Quest."
+        },
+        {
+          "Id": "AbandonedVillage",
+          "StageName": "Abandoned Village",
+          "StoryText": "The forest around you has become lighter and there is more space between the trees. You believe you have neared the edge of the woods, but you haven�t escaped from Mirkwood just yet. Tired as you are from your long journey, one last push is required to find your way out from under the trees.",
+          "ObjectiveText": "Defeat the last Enemy in play to complete the Quest."
+        }
+      ]
+    },
+    {
+      "Id": "JourneyDownTheAnduin",
+      "Name": "Journey Down the Anduin",
+      "Description": "You have found the mighty Anduin but you must still journey down river to Grimbeorn.",
+      "Stages": [
+        {
+          "Id": "WoodedRiverbank",
+          "StageName": "To the River",
+          "StoryText": "Emerging from Mirkwood Forest with an urgent message for Lady Galadriel, you must make your way south along the Anduin River in order to reach the forest of L�rien. As you approach the location of a small raft stashed on the riverbank, a fearsome Hill Troll emerges from behind a grouping of rocks, and attacks!",
+          "ObjectiveText": "Defeat the Hill Troll."
+        },
+        {
+          "Id": "TheAnduinRiver",
+          "StageName": "Anduin Passage",
+          "StoryText": "Having defeated the Troll, you board a small raft and float downriver. As you depart, your enemies pursue, harassing the small vessel as you attempt to navigate the river.",
+          "ObjectiveText": "Make it down the river."
+        },
+        {
+          "Id": "GrassyRiverbank",
+          "StageName": "Ambush on the Shore",
+          "StoryText": "The ongoing harassment from your enemies has forced your raft to shore, and you must now confront their ambush head on. If you survive this attack, your path to L�rien should be open before you.",
+          "ObjectiveText": "Defeat the last Enemy in play to complete the Quest."
+        }
+      ]
+    },
+    {
+      "Id": "ConflictAtTheCarrock",
+      "Name": "Conflict at the Carrock",
+      "Description": "You have reached the Carrock but you find Grimbeorn under attack by four monstrous Trolls.",
+      "Stages": [
+        {
+          "Id": "TheOldFord",
+          "StageName": "Searching for Grimbeorn",
+          "StoryText": "The Anduin river has carried you south from the Forest Gate to the land of the Beornings, where you hope to deliver King Brand�s message to their chieftain, Grimbeorn. However, when you pull your raft to shore, the Beornings tell you that Grimbeorn was last seen roaming toward the Carrock as a great bear. To find Grimbeorn, you must continue south along the riverbank.",
+          "ObjectiveText": "Follow Grimbeorn�s trail."
+        },
+        {
+          "Id": "TrollCamp",
+          "StageName": "The Troll's Dinner",
+          "StoryText": "After a day spent following Grimbeorn's trail, you make a startling discovery: a group of trolls has captured the great chieftain, and plans to eat him! \"We must save Grimbeorn!\" says one of your Heroes.",
+          "ObjectiveText": "Rescue Grimbeorn."
+        },
+        {
+          "Id": "TheCarrock",
+          "StageName": "Fight with the Trolls",
+          "StoryText": "Once freed from his chains, Grimbeorn joins you in your fight with the trolls. \"A barrel of beer to the one who brings me a troll�s head!\" he roars while swinging a mighty blow at the nearest one.",
+          "ObjectiveText": "Defeat the Trolls."
+        }
+      ]
+    }
+  ]
+}
