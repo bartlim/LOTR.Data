@@ -293,7 +293,7 @@
       "IconSprite": "Sprites/Quest/icon_q3",
       "ArtSprite": "Sprites/Quest/quest_3",
       "VictoryVoice": "Q3_Victory",
-      "DefeatVoice": "",
+      "DefeatVoice": "Q1_Defeat",
       "ResolutionArtSprite": null,
       "Stages": [
         {
@@ -347,39 +347,23 @@
       ],
       "SauronDeck": [
         {
-          "Id": "OrcMarauder",
+          "Id": "BlackForestBats",
           "Amount": 2
         },
         {
-          "Id": "MirkwoodFlock",
+          "Id": "DolGuldurOrcs",
           "Amount": 2
         },
         {
-          "Id": "Wargs",
+          "Id": "EastBightPatrol",
           "Amount": 2
         },
         {
-          "Id": "WildBear",
+          "Id": "Enfeebled",
           "Amount": 2
         },
         {
-          "Id": "WargRiders",
-          "Amount": 2
-        },
-        {
-          "Id": "SpookedHorses",
-          "Amount": 2
-        },
-        {
-          "Id": "Tribulation",
-          "Amount": 2
-        },
-        {
-          "Id": "ThickWebs",
-          "Amount": 2
-        },
-        {
-          "Id": "UnderTheWatchfulEye",
+          "Id": "DrivenByShadow",
           "Amount": 2
         },
         {
@@ -387,11 +371,15 @@
           "Amount": 2
         },
         {
-          "Id": "AccursedForest",
+          "Id": "MirkwoodPatrol",
           "Amount": 2
         },
         {
-          "Id": "CreatureOfDarkness",
+          "Id": "ThickWebs",
+          "Amount": 2
+        },
+        {
+          "Id": "Tribulation",
           "Amount": 2
         }
       ]
