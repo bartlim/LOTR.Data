@@ -10,6 +10,12 @@
         {
           "Id": "Location101",
           "StageName": "Forest2",
+          "StoryText": "Story desc...",
+          "ObjectiveText": "Objective.."
+        },
+        {
+          "Id": null,
+          "StageName": "NewStage",
           "StoryText": "",
           "ObjectiveText": ""
         }
