@@ -146,88 +146,82 @@
           "SceneName": "Forest2",
           "IntroVoice": "Q3L1_MirkwoodForest",
           "IntroSprite": "Sprites/Locations/Quest3_Stage01",
-          "SoloGameSetup": null,
-          "NextStageId": null
+          "SoloGameSetup": [
+            "FollowTheStream",
+            "ClimbTheHill",
+            "BlackForestBats",
+            "GiantSpider",
+            "WildBear"
+          ],
+          "NextStageId": ""
         },
         {
           "Id": "ForestStream",
           "SceneName": "The_Spiders_Lair",
           "IntroVoice": "Q3L2-3_Various",
           "IntroSprite": "Sprites/Locations/Quest3_Stage02A",
-          "SoloGameSetup": null,
-          "NextStageId": null
+          "SoloGameSetup": [
+            "ContinueDownstream",
+            "SearchForAPath",
+            "WildBear",
+            "MuckAdder",
+            "PackOfWargs"
+          ],
+          "NextStageId": ""
         },
         {
           "Id": "BareHilltop",
           "SceneName": "The_Spiders_Lair",
           "IntroVoice": "Q3L2-3_Various",
           "IntroSprite": "Sprites/Locations/Quest3_Stage02B",
-          "SoloGameSetup": null,
-          "NextStageId": null
+          "SoloGameSetup": [
+            "InvestigateSmoke",
+            "SearchForAPath",
+            "WargRiders",
+            "Wargs"
+          ],
+          "NextStageId": ""
         },
         {
           "Id": "MirkwoodSwamp",
           "SceneName": "The_Spiders_Lair",
           "IntroVoice": "Q3L2-3_Various",
           "IntroSprite": "Sprites/Locations/Quest3_Stage03A",
-          "SoloGameSetup": null,
-          "NextStageId": null
+          "SoloGameSetup": [
+            "MarshAdder",
+            "ForestFlies",
+            "MuckAdder"
+          ],
+          "NextStageId": ""
         },
         {
           "Id": "OvergrownTrail",
           "SceneName": "The_Spiders_Lair",
           "IntroVoice": "Q3L2-3_Various",
           "IntroSprite": "Sprites/Locations/Quest3_Stage03B",
-          "SoloGameSetup": null,
-          "NextStageId": null
+          "SoloGameSetup": [
+            "EscapeTheForest",
+            "WildBear",
+            "ForestFlies",
+            "KingSpider"
+          ],
+          "NextStageId": ""
         },
         {
           "Id": "AbandonedVillage",
           "SceneName": "The_Spiders_Lair",
           "IntroVoice": "Q3L3_AbandonedVillage",
           "IntroSprite": "Sprites/Locations/Quest3_Stage03C",
-          "SoloGameSetup": null,
-          "NextStageId": null
+          "SoloGameSetup": [
+            "EliteDolGuldurOrcs",
+            "OrcMarauder",
+            "VeteranPatrol",
+            "EastBightPatrol"
+          ],
+          "NextStageId": ""
         }
       ],
-      "SauronDeck": [
-        {
-          "Id": "BlackForestBats",
-          "Amount": 2
-        },
-        {
-          "Id": "DolGuldurOrcs",
-          "Amount": 2
-        },
-        {
-          "Id": "EastBightPatrol",
-          "Amount": 2
-        },
-        {
-          "Id": "Enfeebled",
-          "Amount": 2
-        },
-        {
-          "Id": "DrivenByShadow",
-          "Amount": 2
-        },
-        {
-          "Id": "GoblinSniper",
-          "Amount": 2
-        },
-        {
-          "Id": "MirkwoodPatrol",
-          "Amount": 2
-        },
-        {
-          "Id": "ThickWebs",
-          "Amount": 2
-        },
-        {
-          "Id": "Tribulation",
-          "Amount": 2
-        }
-      ]
+      "SauronDeck": []
     },
     {
       "Id": "JourneyDownTheAnduin",
