@@ -143,7 +143,7 @@
       "Stages": [
         {
           "Id": "MirkwoodForest",
-          "SceneName": "Forest2",
+          "SceneName": "quest3_Lost in Mirkwood_Location1",
           "IntroVoice": "Q3L1_MirkwoodForest",
           "IntroSprite": "Sprites/Locations/Quest3_Stage01",
           "SoloGameSetup": [
@@ -157,7 +157,7 @@
         },
         {
           "Id": "ForestStream",
-          "SceneName": "The_Spiders_Lair",
+          "SceneName": "Quest3_locatioin02a_Forest_Stream",
           "IntroVoice": "Q3L2-3_Various",
           "IntroSprite": "Sprites/Locations/Quest3_Stage02A",
           "SoloGameSetup": [
@@ -171,7 +171,7 @@
         },
         {
           "Id": "BareHilltop",
-          "SceneName": "The_Spiders_Lair",
+          "SceneName": "Quest3_Locatioin 02b_Bare_Hilltop",
           "IntroVoice": "Q3L2-3_Various",
           "IntroSprite": "Sprites/Locations/Quest3_Stage02B",
           "SoloGameSetup": [
@@ -184,7 +184,7 @@
         },
         {
           "Id": "MirkwoodSwamp",
-          "SceneName": "The_Spiders_Lair",
+          "SceneName": "quest3_Mirkwood Swamp_card_Location03a",
           "IntroVoice": "Q3L2-3_Various",
           "IntroSprite": "Sprites/Locations/Quest3_Stage03A",
           "SoloGameSetup": [
@@ -196,7 +196,7 @@
         },
         {
           "Id": "OvergrownTrail",
-          "SceneName": "The_Spiders_Lair",
+          "SceneName": "Quest3_locatioin03b_Overgrown_Trail",
           "IntroVoice": "Q3L2-3_Various",
           "IntroSprite": "Sprites/Locations/Quest3_Stage03B",
           "SoloGameSetup": [
@@ -209,7 +209,7 @@
         },
         {
           "Id": "AbandonedVillage",
-          "SceneName": "The_Spiders_Lair",
+          "SceneName": "Quest3_locatioin03c_Abandoned_Village",
           "IntroVoice": "Q3L3_AbandonedVillage",
           "IntroSprite": "Sprites/Locations/Quest3_Stage03C",
           "SoloGameSetup": [
