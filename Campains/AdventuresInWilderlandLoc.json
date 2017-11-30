@@ -53,20 +53,20 @@
         {
           "Id": "TheSpidersLair",
           "StageName": "The Spiders' Lair",
-          "StoryText": "You have succeeded in rescuing some of your companions, but others remain cocooned. The spiders are now aware of your presence and descend from the trees that surround their lair.",
+          "StoryText": "You find your friends within a dark glade surrounded by giant spider webs. They have been bound and wrapped in cocoons of strong cords. They beg you to cut them free, but before you can the spiders descend from the trees to attack you.",
           "ObjectiveText": "Overcome \"Rescue Your Friends\" to unlock travel."
         },
         {
           "Id": "TheSpidersWebs",
           "StageName": "The Spiders' Webs",
-          "StoryText": "The last of your companions has been cut free, but the spiders are determined to recapture you. They spin giant webs from tree to tree, trapping you in their den. You will have to cut your way through them in order to escape.",
+          "StoryText": "Your companions have been cut free, but the spiders are determined to recapture you. They spin giant webs from tree to tree, trapping you in their den. You will have to cut your way through them in order to escape.",
           "ObjectiveText": "Overcome \"Escape the Spiders\" to unlock travel."
         },
         {
           "Id": "ForestGlade",
           "StageName": "Forest Glade",
-          "StoryText": "You have cut your way through the spiders’ webs, when an enormous queen spider appears and blocks your path. Her many offspring gather behind you. There is no turning back. You must defeat the giant spider.",
-          "ObjectiveText": "Defeat \"The Spider Queen\" to complete the Quest."
+          "StoryText": "You have cut your way through the spiders’ webs when an enormous queen spider appears and blocks your path. Her many offspring gather behind you. There is no turning back. You must defeat the giant spider.",
+          "ObjectiveText": "Defeat \"Ungoliant's Spawn\" to complete the Quest."
         }
       ]
     },
