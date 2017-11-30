@@ -121,19 +121,19 @@
         {
           "Id": "WoodedRiverbank",
           "StageName": "To the River",
-          "StoryText": "Emerging from Mirkwood Forest with an urgent message for Lady Galadriel, you must make your way south along the Anduin River in order to reach the forest of Lórien. As you approach the location of a small raft stashed on the riverbank, a fearsome Hill Troll emerges from behind a grouping of rocks, and attacks!",
+          "StoryText": "Emerging from Mirkwood Forest with an urgent message for Grimbeorn, you must make your way south along the Anduin River in order to reach the Carrock. As you approach the location of a small raft stashed on the riverbank, a fearsome Hill Troll emerges from behind a grouping of rocks, and attacks!",
           "ObjectiveText": "Defeat the Hill Troll."
         },
         {
           "Id": "TheAnduinRiver",
           "StageName": "Anduin Passage",
-          "StoryText": "Having defeated the Troll, you board a small raft and float downriver. As you depart, your enemies pursue, harassing the small vessel as you attempt to navigate the river.",
+          "StoryText": "Having defeated the Troll, you board a raft and float downriver. Yet your enemies pursue, harassing the small vessel as you attempt to navigate the river.",
           "ObjectiveText": "Make it down the river."
         },
         {
           "Id": "GrassyRiverbank",
           "StageName": "Ambush on the Shore",
-          "StoryText": "The ongoing harassment from your enemies has forced your raft to shore, and you must now confront their ambush head on. If you survive this attack, your path to Lórien should be open before you.",
+          "StoryText": "Ongoing harassment from your enemies forces your raft to the shore. You must confront their ambush head on. If you survive this attack, the rest of your journey down the Anduin should be clear.",
           "ObjectiveText": "Defeat the last Enemy in play to complete the Quest."
         }
       ]
