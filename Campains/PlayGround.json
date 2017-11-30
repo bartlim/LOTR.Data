@@ -6,8 +6,8 @@
   "Quests": [
     {
       "Id": "PlayGroundQuest01",
-      "IconSprite": "Sprites/Quest/icon_q1",
-      "ArtSprite": "Sprites/Quest/quest_1",
+      "IconSprite": "/CampaignEditor/Icons/PlayGroundQuest01icon",
+      "ArtSprite": "/CampaignEditor/BGs/PlayGroundQuest01",
       "VictoryVoice": "Q1_Victory",
       "DefeatVoice": "Q1_Defeat",
       "ResolutionArtSprite": null,
