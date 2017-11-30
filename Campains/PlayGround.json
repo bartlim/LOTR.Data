@@ -18,7 +18,7 @@
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
-            "ExploreTheCave"
+            "AmbushOnTheShore"
           ],
           "NextStageId": null
         },
@@ -28,16 +28,6 @@
           "IntroVoice": null,
           "IntroSprite": null,
           "SoloGameSetup": null,
-          "NextStageId": null
-        },
-        {
-          "Id": "TheOathStage2",
-          "SceneName": null,
-          "IntroVoice": "",
-          "IntroSprite": "",
-          "SoloGameSetup": [
-            "AmbushOnTheShore"
-          ],
           "NextStageId": null
         }
       ],
