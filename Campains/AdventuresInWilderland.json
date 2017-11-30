@@ -153,7 +153,7 @@
       "IconSprite": "Sprites/Quest/icon_q2",
       "ArtSprite": "Sprites/Quest/quest_2",
       "VictoryVoice": "Q2_Victory",
-      "DefeatVoice": "",
+      "DefeatVoice": "Q1_Defeat",
       "ResolutionArtSprite": null,
       "Stages": [
         {
@@ -191,27 +191,15 @@
       ],
       "SauronDeck": [
         {
-          "Id": "BlackForestBats",
+          "Id": "VeteranPatrol",
           "Amount": 1
         },
         {
-          "Id": "HiveGuardian",
+          "Id": "DolGuldurOrcs",
           "Amount": 2
         },
         {
-          "Id": "ForestFlies",
-          "Amount": 2
-        },
-        {
-          "Id": "ForestSpider",
-          "Amount": 3
-        },
-        {
-          "Id": "MirkwoodFlock",
-          "Amount": 2
-        },
-        {
-          "Id": "KingSpider",
+          "Id": "GiantSpider",
           "Amount": 2
         },
         {
@@ -219,63 +207,27 @@
           "Amount": 2
         },
         {
-          "Id": "UngoliantsBrood",
-          "Amount": 1
-        },
-        {
-          "Id": "GiantSpider",
-          "Amount": 1
+          "Id": "EliteDolGuldurOrcs",
+          "Amount": 2
         },
         {
           "Id": "WatchfulEyes",
           "Amount": 2
         },
         {
-          "Id": "ThickWebs",
+          "Id": "DrivenByShadow",
           "Amount": 2
         },
         {
-          "Id": "LowOnSupplies",
+          "Id": "UnderTheShadow",
           "Amount": 2
         },
         {
-          "Id": "AccursedForest",
+          "Id": "Unwavering",
           "Amount": 2
         },
         {
-          "Id": "Enfeebled",
-          "Amount": 2
-        },
-        {
-          "Id": "CaughtInAWeb",
-          "Amount": 1
-        },
-        {
-          "Id": "EyesOfTheForest",
-          "Amount": 2
-        },
-        {
-          "Id": "Devoured",
-          "Amount": 2
-        },
-        {
-          "Id": "SpiderQueen",
-          "Amount": 2
-        },
-        {
-          "Id": "HatchlingSpider",
-          "Amount": 1
-        },
-        {
-          "Id": "Hunted",
-          "Amount": 2
-        },
-        {
-          "Id": "PoisonedBySpiders",
-          "Amount": 2
-        },
-        {
-          "Id": "CreatureOfDarkness",
+          "Id": "Veteran",
           "Amount": 2
         },
         {
@@ -283,12 +235,56 @@
           "Amount": 2
         },
         {
+          "Id": "CreatureOfDarkness",
+          "Amount": 2
+        },
+        {
           "Id": "Despair",
           "Amount": 2
         },
         {
-          "Id": "GoblinSniper",
+          "Id": "Devoured",
           "Amount": 2
+        },
+        {
+          "Id": "EyesOfTheForest",
+          "Amount": 2
+        },
+        {
+          "Id": "TheNecromancersReach",
+          "Amount": 2
+        },
+        {
+          "Id": "Tribulation",
+          "Amount": 2
+        },
+        {
+          "Id": "VileSpawn",
+          "Amount": 2
+        },
+        {
+          "Id": "OrcBeastmaster",
+          "Amount": 2
+        },
+        {
+          "Id": "ChieftainUfthak",
+          "Amount": 2
+        },
+        {
+          "Id": "OrcHound",
+          "Amount": 2
+        },
+        {
+          "Id": "LowOnSupplies",
+          "Amount": 2
+        },
+        {
+          "Id": "Hunted",
+          "Amount": 2
+        },
+        {
+          "Id": "AccursedForest",
+          "Amount": 1
         }
       ]
     },
