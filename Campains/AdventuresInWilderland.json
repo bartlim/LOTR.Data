@@ -17,80 +17,66 @@
           "SceneName": "Forest2",
           "IntroVoice": "Q1L1_ForestGate",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
-          "SoloGameSetup": null,
-          "NextStageId": null
+          "SoloGameSetup": [
+            "HiddenPath",
+            "DolGuldurOrcs",
+            "EastBightPatrol",
+            "EliteDolGuldurOrcs",
+            "BlockedPath"
+          ],
+          "NextStageId": ""
         },
         {
           "Id": "STAGE_EnchantedStream",
           "SceneName": "Forest_Captured_by_Spiders",
           "IntroVoice": "Q1L2_CapturedBySpiders",
           "IntroSprite": "Sprites/Locations/Quest1_Stage02",
-          "SoloGameSetup": null,
-          "NextStageId": null
+          "SoloGameSetup": [
+            "ForestFlies",
+            "KingSpider",
+            "KingSpider"
+          ],
+          "NextStageId": ""
         },
         {
           "Id": "STAGE_MountainsOfMirkwood",
           "SceneName": "Forest_Stand_and_Fight",
           "IntroVoice": "Q1L3A_StandAndFight",
           "IntroSprite": "Sprites/Locations/Quest1_Stage03A",
-          "SoloGameSetup": null,
-          "NextStageId": null
+          "SoloGameSetup": [
+            "WatchfulScout",
+            "OrcHound",
+            "OrcHound",
+            "EliteDolGuldurOrcs"
+          ],
+          "NextStageId": ""
         },
         {
           "Id": "STAGE_TheSpidersGlade",
           "SceneName": "Turn_and_Flee",
           "IntroVoice": "Q1L3B_TurnAndFlee",
           "IntroSprite": "Sprites/Locations/Quest1_Stage03B",
-          "SoloGameSetup": null,
-          "NextStageId": null
+          "SoloGameSetup": [
+            "FindThePath",
+            "KingSpider",
+            "KingSpider",
+            "SpidersOfMirkwood"
+          ],
+          "NextStageId": ""
         },
         {
           "Id": "STAGE_OldForestRoad",
           "SceneName": "Enchanted_Stream_forest",
           "IntroVoice": "Q1L4_TheEnchantedStream",
           "IntroSprite": "Sprites/Locations/Quest1_Stage04",
-          "SoloGameSetup": null,
-          "NextStageId": null
+          "SoloGameSetup": [
+            "Kingsfoil",
+            "UngoliantsSpawn"
+          ],
+          "NextStageId": ""
         }
       ],
-      "SauronDeck": [
-        {
-          "Id": "BlackForestBats",
-          "Amount": 2
-        },
-        {
-          "Id": "DolGuldurOrcs",
-          "Amount": 2
-        },
-        {
-          "Id": "EastBightPatrol",
-          "Amount": 2
-        },
-        {
-          "Id": "Enfeebled",
-          "Amount": 2
-        },
-        {
-          "Id": "DrivenByShadow",
-          "Amount": 2
-        },
-        {
-          "Id": "GoblinSniper",
-          "Amount": 2
-        },
-        {
-          "Id": "MirkwoodPatrol",
-          "Amount": 2
-        },
-        {
-          "Id": "ThickWebs",
-          "Amount": 2
-        },
-        {
-          "Id": "Tribulation",
-          "Amount": 2
-        }
-      ]
+      "SauronDeck": []
     },
     {
       "Id": "FliesAndSpiders",
