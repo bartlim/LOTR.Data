@@ -2,7 +2,7 @@
   "Id": "300230",
   "IconSprite": "Sprites/Quest/icon_q1",
   "MapPosX": 0.0,
-  "MapPosY": 0.0,
+  "MapPosY": -13.0,
   "Quests": [
     {
       "Id": "300230Quest01",
@@ -10,7 +10,7 @@
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,
       "DefeatVoice": null,
-      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "Location101",
@@ -21,7 +21,7 @@
             "FindThePath",
             "VeteranPatrol"
           ],
-          "NextStageId": ""
+          "NextStageId": null
         }
       ],
       "SauronDeck": [
@@ -69,7 +69,7 @@
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,
       "DefeatVoice": null,
-      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "Location201",
@@ -80,7 +80,7 @@
             "FindThePath",
             "VeteranPatrol"
           ],
-          "NextStageId": ""
+          "NextStageId": null
         }
       ],
       "SauronDeck": [
@@ -128,7 +128,7 @@
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,
       "DefeatVoice": null,
-      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "Location301",
@@ -139,7 +139,7 @@
             "FindThePath",
             "VeteranPatrol"
           ],
-          "NextStageId": ""
+          "NextStageId": null
         }
       ],
       "SauronDeck": [
@@ -187,7 +187,7 @@
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,
       "DefeatVoice": null,
-      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "Location401",
@@ -198,7 +198,7 @@
             "FindThePath",
             "VeteranPatrol"
           ],
-          "NextStageId": ""
+          "NextStageId": null
         }
       ],
       "SauronDeck": [
@@ -246,7 +246,7 @@
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,
       "DefeatVoice": null,
-      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "Location501",
@@ -257,7 +257,7 @@
             "FindThePath",
             "VeteranPatrol"
           ],
-          "NextStageId": ""
+          "NextStageId": null
         }
       ],
       "SauronDeck": [
