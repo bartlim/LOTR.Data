@@ -47,7 +47,7 @@
         {
           "Id": "DarkForest",
           "StageName": "Dark Forest",
-          "StoryText": "You wake from a troubled sleep to find yourself alone in Mirkwood Forest. The last thing you remember is the sound of countless legs scuttling around your camp and hundreds of bulbous eyes peering from the dark. You realize that the giant spiders of Mirkwood have captured your friends in the night, and it�s up to you to find them!",
+          "StoryText": "You wake from a troubled sleep to find yourself alone in Mirkwood Forest. The last thing you remember is the sound of countless legs scuttling around your camp and hundreds of bulbous eyes peering from the dark. You realize that the giant spiders of Mirkwood have captured your friends in the night, and it’s up to you to find them!",
           "ObjectiveText": "Overcome \"Find Your Friends\" to unlock travel."
         },
         {
@@ -65,7 +65,7 @@
         {
           "Id": "ForestGlade",
           "StageName": "Forest Glade",
-          "StoryText": "You have cut your way through the spiders� webs, when an enormous queen spider appears and blocks your path. Her many offspring gather behind you. There is no turning back. You must defeat the giant spider.",
+          "StoryText": "You have cut your way through the spiders’ webs, when an enormous queen spider appears and blocks your path. Her many offspring gather behind you. There is no turning back. You must defeat the giant spider.",
           "ObjectiveText": "Defeat \"The Spider Queen\" to complete the Quest."
         }
       ]
@@ -78,7 +78,7 @@
         {
           "Id": "MirkwoodForest",
           "StageName": "Mirkwood Forest",
-          "StoryText": "You have escaped from the spiders� dark colony, only to find yourself lost in the vastness of Mirkwood. Discovering the way out may be your greatest challenge yet.",
+          "StoryText": "You have escaped from the spiders’ dark colony, only to find yourself lost in the vastness of Mirkwood. Discovering the way out may be your greatest challenge yet.",
           "ObjectiveText": "Overcome \"Follow the Stream\" to advance immediately to Forest Stream OR overcome \"Climb the Hill\" to advance immediately to Bare Hilltop."
         },
         {
@@ -108,7 +108,7 @@
         {
           "Id": "AbandonedVillage",
           "StageName": "Abandoned Village",
-          "StoryText": "The forest around you has become lighter and there is more space between the trees. You believe you have neared the edge of the woods, but you haven�t escaped from Mirkwood just yet. Tired as you are from your long journey, one last push is required to find your way out from under the trees.",
+          "StoryText": "The forest around you has become lighter and there is more space between the trees. You believe you have neared the edge of the woods, but you haven’t escaped from Mirkwood just yet. Tired as you are from your long journey, one last push is required to find your way out from under the trees.",
           "ObjectiveText": "Defeat the last Enemy in play to complete the Quest."
         }
       ]
@@ -121,7 +121,7 @@
         {
           "Id": "WoodedRiverbank",
           "StageName": "To the River",
-          "StoryText": "Emerging from Mirkwood Forest with an urgent message for Lady Galadriel, you must make your way south along the Anduin River in order to reach the forest of L�rien. As you approach the location of a small raft stashed on the riverbank, a fearsome Hill Troll emerges from behind a grouping of rocks, and attacks!",
+          "StoryText": "Emerging from Mirkwood Forest with an urgent message for Lady Galadriel, you must make your way south along the Anduin River in order to reach the forest of Lórien. As you approach the location of a small raft stashed on the riverbank, a fearsome Hill Troll emerges from behind a grouping of rocks, and attacks!",
           "ObjectiveText": "Defeat the Hill Troll."
         },
         {
@@ -133,7 +133,7 @@
         {
           "Id": "GrassyRiverbank",
           "StageName": "Ambush on the Shore",
-          "StoryText": "The ongoing harassment from your enemies has forced your raft to shore, and you must now confront their ambush head on. If you survive this attack, your path to L�rien should be open before you.",
+          "StoryText": "The ongoing harassment from your enemies has forced your raft to shore, and you must now confront their ambush head on. If you survive this attack, your path to Lórien should be open before you.",
           "ObjectiveText": "Defeat the last Enemy in play to complete the Quest."
         }
       ]
@@ -141,13 +141,13 @@
     {
       "Id": "ConflictAtTheCarrock",
       "Name": "Conflict at the Carrock",
-      "Description": "You have reached the Carrock but you find Grimbeorn under attack by four monstrous Trolls.",
+      "Description": "You reach the Carrock only to discover that Grimbeorn has been captured by Trolls!",
       "Stages": [
         {
           "Id": "TheOldFord",
           "StageName": "Searching for Grimbeorn",
-          "StoryText": "The Anduin river has carried you south from the Forest Gate to the land of the Beornings, where you hope to deliver King Brand�s message to their chieftain, Grimbeorn. However, when you pull your raft to shore, the Beornings tell you that Grimbeorn was last seen roaming toward the Carrock as a great bear. To find Grimbeorn, you must continue south along the riverbank.",
-          "ObjectiveText": "Follow Grimbeorn�s trail."
+          "StoryText": "The Anduin river has carried you south from the Forest Gate to the land of the Beornings, where you hope to deliver King Brand’s message to their chieftain, Grimbeorn. However, when you pull your raft to shore, the Beornings tell you that Grimbeorn was last seen roaming toward the Carrock as a great bear. To find Grimbeorn, you must continue south along the riverbank.",
+          "ObjectiveText": "Follow Grimbeorn’s trail."
         },
         {
           "Id": "TrollCamp",
@@ -158,7 +158,7 @@
         {
           "Id": "TheCarrock",
           "StageName": "Fight with the Trolls",
-          "StoryText": "Once freed from his chains, Grimbeorn joins you in your fight with the trolls. \"A barrel of beer to the one who brings me a troll�s head!\" he roars while swinging a mighty blow at the nearest one.",
+          "StoryText": "Once freed from his chains, Grimbeorn joins you in your fight with the trolls. \"A barrel of beer to the one who brings me a troll’s head!\" he roars while swinging a mighty blow at the nearest one.",
           "ObjectiveText": "Defeat the Trolls."
         }
       ]
