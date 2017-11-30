@@ -8,8 +8,8 @@
       "Id": "NewCamp01Quest01",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
-      "VictoryVoice": null,
-      "DefeatVoice": null,
+      "VictoryVoice": "Q1_Victory",
+      "DefeatVoice": "Q1_Defeat",
       "ResolutionArtSprite": null,
       "Stages": [
         {
@@ -26,19 +26,27 @@
       ],
       "SauronDeck": [
         {
-          "Id": "BlackForestBats",
-          "Amount": 2
+          "Id": "VeteranPatrol",
+          "Amount": 1
         },
         {
           "Id": "DolGuldurOrcs",
           "Amount": 2
         },
         {
-          "Id": "EastBightPatrol",
+          "Id": "GiantSpider",
           "Amount": 2
         },
         {
-          "Id": "Enfeebled",
+          "Id": "SpidersOfMirkwood",
+          "Amount": 2
+        },
+        {
+          "Id": "EliteDolGuldurOrcs",
+          "Amount": 2
+        },
+        {
+          "Id": "WatchfulEyes",
           "Amount": 2
         },
         {
@@ -46,20 +54,72 @@
           "Amount": 2
         },
         {
-          "Id": "GoblinSniper",
+          "Id": "UnderTheShadow",
           "Amount": 2
         },
         {
-          "Id": "MirkwoodPatrol",
+          "Id": "Unwavering",
           "Amount": 2
         },
         {
-          "Id": "ThickWebs",
+          "Id": "Veteran",
+          "Amount": 2
+        },
+        {
+          "Id": "ViciousSpeed",
+          "Amount": 2
+        },
+        {
+          "Id": "CreatureOfDarkness",
+          "Amount": 2
+        },
+        {
+          "Id": "Despair",
+          "Amount": 2
+        },
+        {
+          "Id": "Devoured",
+          "Amount": 2
+        },
+        {
+          "Id": "EyesOfTheForest",
+          "Amount": 2
+        },
+        {
+          "Id": "TheNecromancersReach",
           "Amount": 2
         },
         {
           "Id": "Tribulation",
           "Amount": 2
+        },
+        {
+          "Id": "VileSpawn",
+          "Amount": 2
+        },
+        {
+          "Id": "OrcBeastmaster",
+          "Amount": 2
+        },
+        {
+          "Id": "ChieftainUfthak",
+          "Amount": 2
+        },
+        {
+          "Id": "OrcHound",
+          "Amount": 2
+        },
+        {
+          "Id": "LowOnSupplies",
+          "Amount": 2
+        },
+        {
+          "Id": "Hunted",
+          "Amount": 2
+        },
+        {
+          "Id": "AccursedForest",
+          "Amount": 1
         }
       ]
     },
