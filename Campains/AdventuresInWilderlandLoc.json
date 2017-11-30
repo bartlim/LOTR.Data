@@ -16,25 +16,25 @@
         {
           "Id": "STAGE_EnchantedStream",
           "StageName": "Captured by Spiders",
-          "StoryText": "Giant spiders have captured one of your companions. You watch in horror as they bind him in webbed cords to be dragged away and devoured. You cannot abandon him to such a fate.",
+          "StoryText": "Giant spiders have captured one of your companions. You watch in horror as your friend is bound in webbed cords to be dragged away and devoured. You cannot abandon your companion to such a fate.",
           "ObjectiveText": "Overcome \"Cocoon\" and rescue the captive Hero to allow travel."
         },
         {
           "Id": "STAGE_MountainsOfMirkwood",
           "StageName": "Stand and Fight",
-          "StoryText": "You have rescued your friend, but the creatures of Mirkwood continue to swarm around you. \"We cannot outrun these beasts,\" cries a Hero. \"We must fight!\" he shouts.",
+          "StoryText": "You have rescued your friend, but the creatures of Mirkwood continue to swarm around you. Realizing that you cannot outrun the beasts, you stand and fight!",
           "ObjectiveText": "Defeat each Enemy in play to allow travel."
         },
         {
           "Id": "STAGE_TheSpidersGlade",
           "StageName": "Turn and Flee",
-          "StoryText": "You have rescued your friend, but the creatures of Mirkwood continue to swarm around you. \"We cannot fight these beasts forever,\" cries a Hero. \"We must make a run for it!\" he shouts.",
+          "StoryText": "You have rescued your friend, but the creatures of Mirkwood continue to swarm around you. Realizing you are in danger of being overwhelmed, you decide to make a run for it!",
           "ObjectiveText": "Overcome \"Find the Path\" to allow travel."
         },
         {
           "Id": "STAGE_OldForestRoad",
           "StageName": "The Enchanted Stream",
-          "StoryText": "As you hurry along the forest path, a wide, dark river stops your progress. \"We must find a way across,\" says a Hero. But as you search for a place to ford, a giant spider blocks your way.",
+          "StoryText": "You hurry along the forest path only to find that a wide, dark river stops your progress. As you search for a place to ford, a giant creature emerges to block your way.",
           "ObjectiveText": "Defeat \"Ungoliant's Spawn\" to complete the Quest."
         }
       ]
