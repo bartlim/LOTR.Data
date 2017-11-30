@@ -24,7 +24,7 @@
             "EliteDolGuldurOrcs",
             "BlockedPath"
           ],
-          "NextStageId": ""
+          "NextStageId": "STAGE_EnchantedStream"
         },
         {
           "Id": "STAGE_EnchantedStream",
@@ -36,7 +36,7 @@
             "KingSpider",
             "KingSpider"
           ],
-          "NextStageId": ""
+          "NextStageId": "STAGE_MountainsOfMirkwood"
         },
         {
           "Id": "STAGE_MountainsOfMirkwood",
@@ -49,7 +49,7 @@
             "OrcHound",
             "EliteDolGuldurOrcs"
           ],
-          "NextStageId": ""
+          "NextStageId": "STAGE_TheSpidersGlade"
         },
         {
           "Id": "STAGE_TheSpidersGlade",
@@ -62,7 +62,7 @@
             "KingSpider",
             "SpidersOfMirkwood"
           ],
-          "NextStageId": ""
+          "NextStageId": "STAGE_OldForestRoad"
         },
         {
           "Id": "STAGE_OldForestRoad",
