@@ -281,7 +281,7 @@
       "Stages": [
         {
           "Id": "TheOldFord",
-          "SceneName": "Forest2",
+          "SceneName": "Quest5_SearchingforGrimbeorn_Location_01",
           "IntroVoice": "Q5L1_SearchingForGrimbeorn",
           "IntroSprite": "Sprites/Locations/Quest5_Stage01",
           "SoloGameSetup": [
@@ -294,7 +294,7 @@
         },
         {
           "Id": "TrollCamp",
-          "SceneName": "The_Spiders_Lair",
+          "SceneName": "Quest5_TheTroll’sDinner_Location02",
           "IntroVoice": "Q5L2_TheTrollsDinner",
           "IntroSprite": "Sprites/Locations/Quest5_Stage02",
           "SoloGameSetup": [
@@ -307,7 +307,7 @@
         },
         {
           "Id": "TheCarrock",
-          "SceneName": "The_Spiders_Lair",
+          "SceneName": "Quest5_Location03_Defeat_the_trolls",
           "IntroVoice": "Q5L3_FightWithTheTrolls",
           "IntroSprite": "Sprites/Locations/Quest5_Stage03",
           "SoloGameSetup": [
