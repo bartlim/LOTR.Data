@@ -94,7 +94,7 @@
           "SoloGameSetup": [
             "FindYourFriends"
           ],
-          "NextStageId": ""
+          "NextStageId": "TheSpidersLair"
         },
         {
           "Id": "TheSpidersLair",
@@ -106,7 +106,7 @@
             "HiveGuardian",
             "HatchlingSpider"
           ],
-          "NextStageId": ""
+          "NextStageId": "TheSpidersWebs"
         },
         {
           "Id": "TheSpidersWebs",
@@ -117,7 +117,7 @@
             "EscapeTheSpidersLair",
             "SpidersOfMirkwood"
           ],
-          "NextStageId": ""
+          "NextStageId": "ForestGlade"
         },
         {
           "Id": "ForestGlade",
