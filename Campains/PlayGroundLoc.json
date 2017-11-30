@@ -1,0 +1,71 @@
+{
+  "Id": "PlayGround",
+  "Name": "PlayGround",
+  "Quests": [
+    {
+      "Id": "PlayGroundQuest01",
+      "Name": "PlayGroundQuest01",
+      "Description": "",
+      "Stages": [
+        {
+          "Id": "Location101",
+          "StageName": "Forest2",
+          "StoryText": "",
+          "ObjectiveText": ""
+        }
+      ]
+    },
+    {
+      "Id": "PlayGroundQuest02",
+      "Name": "PlayGroundQuest02",
+      "Description": "",
+      "Stages": [
+        {
+          "Id": "Location201",
+          "StageName": "Forest2",
+          "StoryText": "",
+          "ObjectiveText": ""
+        }
+      ]
+    },
+    {
+      "Id": "PlayGroundQuest03",
+      "Name": "PlayGroundQuest03",
+      "Description": "",
+      "Stages": [
+        {
+          "Id": "Location301",
+          "StageName": "Forest2",
+          "StoryText": "",
+          "ObjectiveText": ""
+        }
+      ]
+    },
+    {
+      "Id": "PlayGroundQuest04",
+      "Name": "PlayGroundQuest04",
+      "Description": "",
+      "Stages": [
+        {
+          "Id": "Location401",
+          "StageName": "Forest2",
+          "StoryText": "",
+          "ObjectiveText": ""
+        }
+      ]
+    },
+    {
+      "Id": "PlayGroundQuest05",
+      "Name": "PlayGroundQuest05",
+      "Description": "",
+      "Stages": [
+        {
+          "Id": "Location501",
+          "StageName": "Forest2",
+          "StoryText": "",
+          "ObjectiveText": ""
+        }
+      ]
+    }
+  ]
+}
