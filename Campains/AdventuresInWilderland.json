@@ -233,7 +233,7 @@
       "Stages": [
         {
           "Id": "WoodedRiverbank",
-          "SceneName": "Forest2",
+          "SceneName": "Quest4_TotheRiver_Location_01",
           "IntroVoice": "Q4L1_ToTheRiver",
           "IntroSprite": "Sprites/Locations/Quest4_Stage01",
           "SoloGameSetup": [
@@ -245,7 +245,7 @@
         },
         {
           "Id": "TheAnduinRiver",
-          "SceneName": "The_Spiders_Lair",
+          "SceneName": "Quest4_Location02_Anduin_Passage",
           "IntroVoice": "Q4L2_AnduinPassage",
           "IntroSprite": "Sprites/Locations/Quest4_Stage02",
           "SoloGameSetup": [
@@ -257,7 +257,7 @@
         },
         {
           "Id": "GrassyRiverbank",
-          "SceneName": "The_Spiders_Lair",
+          "SceneName": "Quest4_AmbushOnTheShore_Location03",
           "IntroVoice": "Q4L3_AmbushOnTheShore",
           "IntroSprite": "Sprites/Locations/Quest4_Stage03",
           "SoloGameSetup": [
