@@ -91,72 +91,47 @@
           "SceneName": "Forest2",
           "IntroVoice": "Q2L1_DarkForest",
           "IntroSprite": "Sprites/Locations/Quest2_Stage01",
-          "SoloGameSetup": null,
-          "NextStageId": null
+          "SoloGameSetup": [
+            "FindYourFriends"
+          ],
+          "NextStageId": ""
         },
         {
           "Id": "TheSpidersLair",
           "SceneName": "The_Spiders_Lair",
           "IntroVoice": "Q2L2_SpidersLair",
           "IntroSprite": "Sprites/Locations/Quest2_Stage02",
-          "SoloGameSetup": null,
-          "NextStageId": null
+          "SoloGameSetup": [
+            "RescueYourFriends",
+            "HiveGuardian",
+            "HatchlingSpider"
+          ],
+          "NextStageId": ""
         },
         {
           "Id": "TheSpidersWebs",
           "SceneName": "Tangled_in_Webs",
           "IntroVoice": "Q2L3_SpidersWebs",
           "IntroSprite": "Sprites/Locations/Quest2_Stage03",
-          "SoloGameSetup": null,
-          "NextStageId": null
+          "SoloGameSetup": [
+            "EscapeTheSpidersLair",
+            "SpidersOfMirkwood"
+          ],
+          "NextStageId": ""
         },
         {
           "Id": "ForestGlade",
           "SceneName": "The_Spider_Queen",
           "IntroVoice": "Q2L4_ForestGlade",
           "IntroSprite": "Sprites/Locations/Quest2_Stage04",
-          "SoloGameSetup": null,
-          "NextStageId": null
+          "SoloGameSetup": [
+            "SpiderQueen",
+            "GiantSpider"
+          ],
+          "NextStageId": ""
         }
       ],
-      "SauronDeck": [
-        {
-          "Id": "BlackForestBats",
-          "Amount": 2
-        },
-        {
-          "Id": "DolGuldurOrcs",
-          "Amount": 2
-        },
-        {
-          "Id": "EastBightPatrol",
-          "Amount": 2
-        },
-        {
-          "Id": "Enfeebled",
-          "Amount": 2
-        },
-        {
-          "Id": "DrivenByShadow",
-          "Amount": 2
-        },
-        {
-          "Id": "GoblinSniper",
-          "Amount": 2
-        },
-        {
-          "Id": "MirkwoodPatrol",
-          "Amount": 2
-        },
-        {
-          "Id": "ThickWebs",
-          "Amount": 2
-        },
-        {
-          "Id": "Tribulation",
-          "Amount": 2
-        }
-      ]
+      "SauronDeck": []
     },
     {
       "Id": "LostInMirkwood",
