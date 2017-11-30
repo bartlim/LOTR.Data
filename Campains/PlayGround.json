@@ -129,8 +129,8 @@
       "Id": "PlayGroundQuest03",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
-      "VictoryVoice": null,
-      "DefeatVoice": null,
+      "VictoryVoice": "Q1_Victory",
+      "DefeatVoice": "Q1_Defeat",
       "ResolutionArtSprite": null,
       "Stages": [
         {
