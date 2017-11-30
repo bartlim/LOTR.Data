@@ -443,71 +443,103 @@
       ],
       "SauronDeck": [
         {
-          "Id": "Devoured",
+          "Id": "BlackForestBats",
+          "Amount": 1
+        },
+        {
+          "Id": "HiveGuardian",
           "Amount": 2
         },
         {
-          "Id": "BlockedPath",
+          "Id": "ForestFlies",
           "Amount": 2
         },
         {
-          "Id": "EastBightPatrol",
-          "Amount": 2
-        },
-        {
-          "Id": "EliteDolGuldurOrcs",
-          "Amount": 2
-        },
-        {
-          "Id": "EvilStorm",
-          "Amount": 2
-        },
-        {
-          "Id": "GrowingDarkness",
-          "Amount": 2
-        },
-        {
-          "Id": "Hunted",
-          "Amount": 2
+          "Id": "ForestSpider",
+          "Amount": 3
         },
         {
           "Id": "MirkwoodFlock",
           "Amount": 2
         },
         {
-          "Id": "MirkwoodPatrol",
+          "Id": "KingSpider",
           "Amount": 2
         },
         {
-          "Id": "OrcBeastmaster",
+          "Id": "SpidersOfMirkwood",
           "Amount": 2
         },
         {
-          "Id": "OrcHound",
-          "Amount": 2
-        },
-        {
-          "Id": "VeteranPatrol",
-          "Amount": 2
-        },
-        {
-          "Id": "WargRiders",
-          "Amount": 2
-        },
-        {
-          "Id": "PackOfWargs",
+          "Id": "UngoliantsBrood",
           "Amount": 1
         },
         {
-          "Id": "SpookedHorses",
-          "Amount": 2
-        },
-        {
-          "Id": "Tribulation",
-          "Amount": 2
+          "Id": "GiantSpider",
+          "Amount": 1
         },
         {
           "Id": "WatchfulEyes",
+          "Amount": 2
+        },
+        {
+          "Id": "ThickWebs",
+          "Amount": 2
+        },
+        {
+          "Id": "LowOnSupplies",
+          "Amount": 2
+        },
+        {
+          "Id": "AccursedForest",
+          "Amount": 2
+        },
+        {
+          "Id": "Enfeebled",
+          "Amount": 2
+        },
+        {
+          "Id": "CaughtInAWeb",
+          "Amount": 1
+        },
+        {
+          "Id": "EyesOfTheForest",
+          "Amount": 2
+        },
+        {
+          "Id": "Devoured",
+          "Amount": 2
+        },
+        {
+          "Id": "SpiderQueen",
+          "Amount": 2
+        },
+        {
+          "Id": "HatchlingSpider",
+          "Amount": 1
+        },
+        {
+          "Id": "Hunted",
+          "Amount": 2
+        },
+        {
+          "Id": "PoisonedBySpiders",
+          "Amount": 2
+        },
+        {
+          "Id": "CreatureOfDarkness",
+          "Amount": 2
+        },
+        {
+          "Id": "ViciousSpeed",
+          "Amount": 2
+        },
+        {
+          "Id": "Despair",
+          "Amount": 2
+        },
+        {
+          "Id": "GoblinSniper",
           "Amount": 2
         }
       ]
