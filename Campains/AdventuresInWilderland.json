@@ -153,7 +153,7 @@
             "GiantSpider",
             "WildBear"
           ],
-          "NextStageId": ""
+          "NextStageId": "ForestStream"
         },
         {
           "Id": "ForestStream",
@@ -167,7 +167,7 @@
             "MuckAdder",
             "PackOfWargs"
           ],
-          "NextStageId": ""
+          "NextStageId": "BareHilltop"
         },
         {
           "Id": "BareHilltop",
@@ -180,7 +180,7 @@
             "WargRiders",
             "Wargs"
           ],
-          "NextStageId": ""
+          "NextStageId": "MirkwoodSwamp"
         },
         {
           "Id": "MirkwoodSwamp",
@@ -192,7 +192,7 @@
             "ForestFlies",
             "MuckAdder"
           ],
-          "NextStageId": ""
+          "NextStageId": "OvergrownTrail"
         },
         {
           "Id": "OvergrownTrail",
@@ -205,7 +205,7 @@
             "ForestFlies",
             "KingSpider"
           ],
-          "NextStageId": ""
+          "NextStageId": "AbandonedVillage"
         },
         {
           "Id": "AbandonedVillage",
