@@ -1,8 +1,8 @@
 {
   "Id": "PlayGround",
   "IconSprite": "Sprites/Quest/icon_q1",
-  "MapPosX": 0.0,
-  "MapPosY": -16.0,
+  "MapPosX": -9.0,
+  "MapPosY": -8.0,
   "Quests": [
     {
       "Id": "PlayGroundQuest01",
@@ -18,11 +18,7 @@
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
-            "HiddenPath",
-            "DolGuldurOrcs",
-            "EastBightPatrol",
-            "EliteDolGuldurOrcs",
-            "BlockedPath"
+            "AmbushOnTheShore"
           ],
           "NextStageId": null
         }
