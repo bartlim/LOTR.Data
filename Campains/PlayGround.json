@@ -18,8 +18,11 @@
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
-            "FindThePath",
-            "VeteranPatrol"
+            "HiddenPath",
+            "DolGuldurOrcs",
+            "EastBightPatrol",
+            "EliteDolGuldurOrcs",
+            "BlockedPath"
           ],
           "NextStageId": null
         }
