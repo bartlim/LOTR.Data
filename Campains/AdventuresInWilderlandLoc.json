@@ -10,19 +10,19 @@
         {
           "Id": "STAGE_ForestGate",
           "StageName": "Forest Gate",
-          "StoryText": "The King of Dale has entrusted you with an urgent letter for Grimbeorn the Old, chieftain of the Beornings that dwell in the Anduin Vale. To reach his house you must journey through the shadowy forest of Mirkwood. Not long after entering the forest, you are surrounded by evil creatures.\r",
-          "ObjectiveText": "Make your way through Mirkwood Forest.\r"
+          "StoryText": "The King of Dale has entrusted you with an urgent letter for Grimbeorn the Old, chieftain of the Beornings that dwell in the Anduin Vale. To reach his house you must journey through the shadowy forest of Mirkwood. Not long after entering the forest, you are surrounded by evil creatures.",
+          "ObjectiveText": "Make your way through Mirkwood Forest."
         },
         {
           "Id": "STAGE_EnchantedStream",
           "StageName": "Captured by Spiders",
-          "StoryText": "Giant spiders have captured one of your companions. You watch in horror as your friend is bound in webbed cords to be dragged away and devoured. You cannot abandon your companion to such a fate.\r",
-          "ObjectiveText": "Overcome \"Cocoon\" and rescue the captive Hero to allow travel.\r"
+          "StoryText": "Giant spiders have captured one of your companions. You watch in horror as your friend is bound in webbed cords to be dragged away and devoured. You cannot abandon your companion to such a fate.",
+          "ObjectiveText": "Overcome \"Cocoon\" and rescue the captive Hero to allow travel."
         },
         {
           "Id": "STAGE_MountainsOfMirkwood",
           "StageName": "Stand and Fight",
-          "StoryText": "You have rescued your friend, but the creatures of Mirkwood continue to swarm around you. Realizing that you cannot outrun the beasts, you stand and fight!\r",
+          "StoryText": "You have rescued your friend, but the creatures of Mirkwood continue to swarm around you. Realizing that you cannot outrun the beasts, you stand and fight!",
           "ObjectiveText": "Defeat each Enemy in play to allow travel."
         },
         {
@@ -33,9 +33,9 @@
         },
         {
           "Id": "STAGE_OldForestRoad",
-          "StageName": "The Enchanted Stream\r",
-          "StoryText": "You hurry along the forest path only to find that a wide, dark river stops your progress. As you search for a place to ford, a giant creature emerges to block your way.\r",
-          "ObjectiveText": "Defeat \"Ungoliant's Spawn\" to complete the Quest.\r"
+          "StageName": "The Enchanted Stream",
+          "StoryText": "You hurry along the forest path only to find that a wide, dark river stops your progress. As you search for a place to ford, a giant creature emerges to block your way.",
+          "ObjectiveText": "Defeat \"Ungoliant's Spawn\" to complete the Quest."
         }
       ]
     },
