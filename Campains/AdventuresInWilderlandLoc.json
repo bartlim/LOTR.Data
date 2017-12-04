@@ -78,26 +78,26 @@
         {
           "Id": "MirkwoodForest",
           "StageName": "Mirkwood Forest",
-          "StoryText": "You have escaped from the spiders’ dark colony, only to find yourself lost in the vastness of Mirkwood. The forest is so dark and tangled that it is impossible to know which direction you should go. You must find some landmarks to get your bearings.",
-          "ObjectiveText": "Overcome \"Follow the Stream\" to advance immediately to Forest Stream OR overcome \"Climb the Hill\" to advance immediately to Bare Hilltop."
+          "StoryText": "You have escaped from the spiders’ dark colony, only to find yourself lost in the vastness of Mirkwood. The forest is so dark and tangled that it is impossible to know which direction you should go. You must find some landmarks to get your bearings.\r",
+          "ObjectiveText": "Overcome \"Follow the Stream\" to advance immediately to Forest Stream OR overcome \"Climb the Hill\" to advance immediately to Bare Hilltop.\r"
         },
         {
           "Id": "ForestStream",
           "StageName": "Forest Stream",
-          "StoryText": "The twisted roots of ancient trees crowd the riverbank as the stream winds its way through the dense forest. Traveling this way is hard work. You wonder if you should continue or search for a better path.",
-          "ObjectiveText": "Overcome \"Continue Downstream\" to advance immediately to Mirkwood Swamp OR overcome \"Search for a Path\" to advance immediately to Overgrown Trail."
+          "StoryText": "The twisted roots of ancient trees crowd the riverbank as the stream winds its way through the dense forest. Traveling this way is hard work. You wonder if you should continue or search for a better path.\r",
+          "ObjectiveText": "Overcome \"Continue Downstream\" to advance immediately to Mirkwood Swamp OR overcome \"Search for a Path\" to advance immediately to Overgrown Trail.\r"
         },
         {
           "Id": "BareHilltop",
           "StageName": "Bare Hilltop",
-          "StoryText": "From your view atop a low hill, you feel lost in a sea of green. Treetops are the only things visible for miles in any direction. As your eyes scan the horizon, you notice a light grey trail of smoke rising in the distance. Should you investigate the smoke? Or do you keep searching for a path out of the forest?",
-          "ObjectiveText": "Overcome \"Investigate the Smoke\" to advance immediately to Abandoned Village OR overcome \"Search for a Path\" to advance immediately to Overgrown Trail."
+          "StoryText": "From your view atop a low hill, you feel lost in a sea of green. Treetops are the only things visible for miles in any direction. As your eyes scan the horizon, you notice a light grey trail of smoke rising in the distance. Should you investigate the smoke? Or do you keep searching for a path out of the forest?\r",
+          "ObjectiveText": "Overcome \"Investigate the Smoke\" to advance immediately to Abandoned Village OR overcome \"Search for a Path\" to advance immediately to Overgrown Trail.\r"
         },
         {
           "Id": "MirkwoodSwamp",
           "StageName": "Mirkwood Swamp",
-          "StoryText": "At long last, the stream you have been following leads you to a wide bog. You must be near the Anduin River vale — but, to reach the mighty river, you must first cross the swamp. Who knows what dangers lie in wait?",
-          "ObjectiveText": "Defeat \"Marsh Adder\" to complete the Quest."
+          "StoryText": "At long last, the stream you have been following leads you to a wide bog. You must be near the Anduin River vale — but, to reach the mighty river, you must first cross the swamp. Who knows what dangers lie in wait?\r",
+          "ObjectiveText": "Defeat \"Marsh Adder\" to complete the Quest.\r"
         },
         {
           "Id": "OvergrownTrail",
@@ -108,8 +108,8 @@
         {
           "Id": "AbandonedVillage",
           "StageName": "Abandoned Village",
-          "StoryText": "After navigating the forest toward the smoke, you find yourself near the eaves of Mirkwood. Before you lies the remains of an old Woodmen village. Instead of Woodmen, however, the village overrun is with Orcs! As they spot your weary group, it becomes clear that you must fight to reach the Anduin vale. ",
-          "ObjectiveText": "Defeat the last Enemy in play to complete the Quest."
+          "StoryText": "After navigating the forest toward the smoke, you find yourself near the eaves of Mirkwood. Before you lies the remains of an old Woodmen village. Instead of Woodmen, however, the village overrun is with Orcs! As they spot your weary group, it becomes clear that you must fight to reach the Anduin vale. \r",
+          "ObjectiveText": "Defeat the last Enemy in play to complete the Quest.\r"
         }
       ]
     },
