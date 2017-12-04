@@ -14,13 +14,13 @@
       "Stages": [
         {
           "Id": "TheOathStage1",
-          "SceneName": "Forest2",
+          "SceneName": "Quest4_TotheRiver_Location_01",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
             "AmbushOnTheShore"
           ],
-          "NextStageId": null
+          "NextStageId": ""
         },
         {
           "Id": "",
