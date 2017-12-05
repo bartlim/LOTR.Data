@@ -10,95 +10,117 @@
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": "Q1_Victory",
       "DefeatVoice": "Q1_Defeat",
-      "ResolutionArtSprite": null,
+      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
-          "Id": "STAGE_ForestGate",
-          "SceneName": "Forest2",
+          "Id": "ForestGate",
+          "SceneName": "Q01_L01_ForestGate",
           "IntroVoice": "Q1L1_ForestGate",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
-          "SoloGameSetup": [
-            "HiddenPath",
-            "DolGuldurOrcs",
-            "EastBightPatrol",
-            "EliteDolGuldurOrcs",
-            "BlockedPath"
-          ],
-          "NextStageId": "STAGE_EnchantedStream"
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         },
         {
-          "Id": "STAGE_EnchantedStream",
-          "SceneName": "Forest_Captured_by_Spiders",
+          "Id": "CapturedBySpiders",
+          "SceneName": "Q01_L02_CapturedBySpiders",
           "IntroVoice": "Q1L2_CapturedBySpiders",
           "IntroSprite": "Sprites/Locations/Quest1_Stage02",
-          "SoloGameSetup": [
-            "ForestFlies",
-            "KingSpider",
-            "KingSpider"
-          ],
-          "NextStageId": "STAGE_MountainsOfMirkwood"
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         },
         {
-          "Id": "STAGE_MountainsOfMirkwood",
-          "SceneName": "Forest_Stand_and_Fight",
+          "Id": "StandAndFight",
+          "SceneName": "Q01_L03a_StandAndFight",
           "IntroVoice": "Q1L3A_StandAndFight",
           "IntroSprite": "Sprites/Locations/Quest1_Stage03A",
-          "SoloGameSetup": [
-            "WatchfulScout",
-            "OrcHound",
-            "OrcHound",
-            "EliteDolGuldurOrcs"
-          ],
-          "NextStageId": "STAGE_TheSpidersGlade"
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         },
         {
-          "Id": "STAGE_TheSpidersGlade",
-          "SceneName": "Turn_and_Flee",
+          "Id": "TurnAndFlee",
+          "SceneName": "Q01_L03b_TurnAndFlee",
           "IntroVoice": "Q1L3B_TurnAndFlee",
           "IntroSprite": "Sprites/Locations/Quest1_Stage03B",
-          "SoloGameSetup": [
-            "FindThePath",
-            "KingSpider",
-            "KingSpider",
-            "SpidersOfMirkwood"
-          ],
-          "NextStageId": "STAGE_OldForestRoad"
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         },
         {
-          "Id": "STAGE_OldForestRoad",
-          "SceneName": "Enchanted_Stream_forest",
+          "Id": "TheEnchantedStream",
+          "SceneName": "Q01_L04_TheEnchantedStream",
           "IntroVoice": "Q1L4_TheEnchantedStream",
           "IntroSprite": "Sprites/Locations/Quest1_Stage04",
-          "SoloGameSetup": [
-            "Kingsfoil",
-            "UngoliantsSpawn"
-          ],
-          "NextStageId": ""
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         }
       ],
       "SauronDeck": [
         {
-          "Id": "OrcMarauder",
+          "Id": "VeteranPatrol",
           "Amount": 2
         },
         {
-          "Id": "MirkwoodFlock",
+          "Id": "DolGuldurOrcs",
           "Amount": 2
         },
         {
-          "Id": "Wargs",
+          "Id": "GiantSpider",
           "Amount": 2
         },
         {
-          "Id": "WildBear",
+          "Id": "SpidersOfMirkwood",
           "Amount": 2
         },
         {
-          "Id": "WargRiders",
+          "Id": "EliteDolGuldurOrcs",
           "Amount": 2
         },
         {
-          "Id": "SpookedHorses",
+          "Id": "WatchfulEyes",
+          "Amount": 2
+        },
+        {
+          "Id": "DrivenByShadow",
+          "Amount": 2
+        },
+        {
+          "Id": "UnderTheShadow",
+          "Amount": 2
+        },
+        {
+          "Id": "Unwavering",
+          "Amount": 2
+        },
+        {
+          "Id": "Veteran",
+          "Amount": 2
+        },
+        {
+          "Id": "ViciousSpeed",
+          "Amount": 2
+        },
+        {
+          "Id": "CreatureOfDarkness",
+          "Amount": 2
+        },
+        {
+          "Id": "Despair",
+          "Amount": 2
+        },
+        {
+          "Id": "Devoured",
+          "Amount": 2
+        },
+        {
+          "Id": "EyesOfTheForest",
+          "Amount": 2
+        },
+        {
+          "Id": "TheNecromancersReach",
           "Amount": 2
         },
         {
@@ -106,24 +128,32 @@
           "Amount": 2
         },
         {
-          "Id": "ThickWebs",
+          "Id": "VileSpawn",
           "Amount": 2
         },
         {
-          "Id": "UnderTheWatchfulEye",
+          "Id": "OrcBeastmaster",
           "Amount": 2
         },
         {
-          "Id": "GoblinSniper",
+          "Id": "ChieftainUfthak",
+          "Amount": 2
+        },
+        {
+          "Id": "OrcHound",
+          "Amount": 2
+        },
+        {
+          "Id": "LowOnSupplies",
+          "Amount": 2
+        },
+        {
+          "Id": "Hunted",
           "Amount": 2
         },
         {
           "Id": "AccursedForest",
-          "Amount": 2
-        },
-        {
-          "Id": "CreatureOfDarkness",
-          "Amount": 2
+          "Amount": 1
         }
       ]
     },
@@ -132,81 +162,85 @@
       "IconSprite": "Sprites/Quest/icon_q2",
       "ArtSprite": "Sprites/Quest/quest_2",
       "VictoryVoice": "Q2_Victory",
-      "DefeatVoice": "Q1_Defeat",
-      "ResolutionArtSprite": null,
+      "DefeatVoice": "Q3_Defeat",
+      "ResolutionArtSprite": "Sprites/Quest/Quest2_Resolution",
       "Stages": [
         {
           "Id": "DarkForest",
-          "SceneName": "Forest2",
+          "SceneName": "Q02_L01_DarkForest",
           "IntroVoice": "Q2L1_DarkForest",
           "IntroSprite": "Sprites/Locations/Quest2_Stage01",
-          "SoloGameSetup": [
-            "FindYourFriends"
-          ],
-          "NextStageId": "TheSpidersLair"
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         },
         {
           "Id": "TheSpidersLair",
-          "SceneName": "The_Spiders_Lair",
+          "SceneName": "Q02_L02_TheSpidersLair",
           "IntroVoice": "Q2L2_SpidersLair",
           "IntroSprite": "Sprites/Locations/Quest2_Stage02",
-          "SoloGameSetup": [
-            "RescueYourFriends",
-            "HiveGuardian",
-            "HatchlingSpider"
-          ],
-          "NextStageId": "TheSpidersWebs"
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         },
         {
           "Id": "TheSpidersWebs",
-          "SceneName": "Tangled_in_Webs",
+          "SceneName": "Q02_L03_TheSpidersWebs",
           "IntroVoice": "Q2L3_SpidersWebs",
           "IntroSprite": "Sprites/Locations/Quest2_Stage03",
-          "SoloGameSetup": [
-            "EscapeTheSpidersLair",
-            "SpidersOfMirkwood"
-          ],
-          "NextStageId": "ForestGlade"
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         },
         {
           "Id": "ForestGlade",
-          "SceneName": "The_Spider_Queen",
+          "SceneName": "Q02_L04_ForestGlade",
           "IntroVoice": "Q2L4_ForestGlade",
           "IntroSprite": "Sprites/Locations/Quest2_Stage04",
-          "SoloGameSetup": [
-            "SpiderQueen",
-            "GiantSpider"
-          ],
-          "NextStageId": ""
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         }
       ],
       "SauronDeck": [
         {
-          "Id": "OrcMarauder",
+          "Id": "BlackForestBats",
+          "Amount": 1
+        },
+        {
+          "Id": "HiveGuardian",
           "Amount": 2
+        },
+        {
+          "Id": "ForestFlies",
+          "Amount": 2
+        },
+        {
+          "Id": "ForestSpider",
+          "Amount": 3
         },
         {
           "Id": "MirkwoodFlock",
           "Amount": 2
         },
         {
-          "Id": "Wargs",
+          "Id": "KingSpider",
           "Amount": 2
         },
         {
-          "Id": "WildBear",
+          "Id": "SpidersOfMirkwood",
           "Amount": 2
         },
         {
-          "Id": "WargRiders",
-          "Amount": 2
+          "Id": "UngoliantsBrood",
+          "Amount": 1
         },
         {
-          "Id": "SpookedHorses",
-          "Amount": 2
+          "Id": "GiantSpider",
+          "Amount": 1
         },
         {
-          "Id": "Tribulation",
+          "Id": "WatchfulEyes",
           "Amount": 2
         },
         {
@@ -214,11 +248,7 @@
           "Amount": 2
         },
         {
-          "Id": "UnderTheWatchfulEye",
-          "Amount": 2
-        },
-        {
-          "Id": "GoblinSniper",
+          "Id": "LowOnSupplies",
           "Amount": 2
         },
         {
@@ -226,7 +256,51 @@
           "Amount": 2
         },
         {
+          "Id": "Enfeebled",
+          "Amount": 2
+        },
+        {
+          "Id": "CaughtInAWeb",
+          "Amount": 1
+        },
+        {
+          "Id": "EyesOfTheForest",
+          "Amount": 2
+        },
+        {
+          "Id": "Devoured",
+          "Amount": 2
+        },
+        {
+          "Id": "SpiderQueen",
+          "Amount": 2
+        },
+        {
+          "Id": "HatchlingSpider",
+          "Amount": 1
+        },
+        {
+          "Id": "Hunted",
+          "Amount": 2
+        },
+        {
+          "Id": "PoisonedBySpiders",
+          "Amount": 2
+        },
+        {
           "Id": "CreatureOfDarkness",
+          "Amount": 2
+        },
+        {
+          "Id": "ViciousSpeed",
+          "Amount": 2
+        },
+        {
+          "Id": "Despair",
+          "Amount": 2
+        },
+        {
+          "Id": "GoblinSniper",
           "Amount": 2
         }
       ]
@@ -236,87 +310,62 @@
       "IconSprite": "Sprites/Quest/icon_q3",
       "ArtSprite": "Sprites/Quest/quest_3",
       "VictoryVoice": "Q3_Victory",
-      "DefeatVoice": "Q1_Defeat",
-      "ResolutionArtSprite": null,
+      "DefeatVoice": "Q3_Defeat",
+      "ResolutionArtSprite": "Sprites/Quest/Quest3_Resolution",
       "Stages": [
         {
           "Id": "MirkwoodForest",
-          "SceneName": "quest3_Lost in Mirkwood_Location1",
+          "SceneName": "Q03_L01_MirkwoodForest",
           "IntroVoice": "Q3L1_MirkwoodForest",
           "IntroSprite": "Sprites/Locations/Quest3_Stage01",
-          "SoloGameSetup": [
-            "FollowTheStream",
-            "ClimbTheHill",
-            "BlackForestBats",
-            "GiantSpider",
-            "WildBear"
-          ],
-          "NextStageId": "ForestStream"
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         },
         {
           "Id": "ForestStream",
-          "SceneName": "Quest3_locatioin02a_Forest_Stream",
+          "SceneName": "Q03_L02a_ForestStream",
           "IntroVoice": "Q3L2-3_Various",
           "IntroSprite": "Sprites/Locations/Quest3_Stage02A",
-          "SoloGameSetup": [
-            "ContinueDownstream",
-            "SearchForAPath",
-            "WildBear",
-            "MuckAdder",
-            "PackOfWargs"
-          ],
-          "NextStageId": "BareHilltop"
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         },
         {
           "Id": "BareHilltop",
-          "SceneName": "Quest3_Locatioin 02b_Bare_Hilltop",
+          "SceneName": "Q03_L02b_BareHilltop",
           "IntroVoice": "Q3L2-3_Various",
           "IntroSprite": "Sprites/Locations/Quest3_Stage02B",
-          "SoloGameSetup": [
-            "InvestigateSmoke",
-            "SearchForAPath",
-            "WargRiders",
-            "Wargs"
-          ],
-          "NextStageId": "MirkwoodSwamp"
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         },
         {
           "Id": "MirkwoodSwamp",
-          "SceneName": "quest3_Mirkwood Swamp_card_Location03a",
+          "SceneName": "Q03_L03a_MirkwoodSwamp",
           "IntroVoice": "Q3L2-3_Various",
           "IntroSprite": "Sprites/Locations/Quest3_Stage03A",
-          "SoloGameSetup": [
-            "MarshAdder",
-            "ForestFlies",
-            "MuckAdder"
-          ],
-          "NextStageId": "OvergrownTrail"
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         },
         {
           "Id": "OvergrownTrail",
-          "SceneName": "Quest3_locatioin03b_Overgrown_Trail",
+          "SceneName": "Q03_L03b_OvergrownTrail",
           "IntroVoice": "Q3L2-3_Various",
           "IntroSprite": "Sprites/Locations/Quest3_Stage03B",
-          "SoloGameSetup": [
-            "EscapeTheForest",
-            "WildBear",
-            "ForestFlies",
-            "KingSpider"
-          ],
-          "NextStageId": "AbandonedVillage"
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         },
         {
           "Id": "AbandonedVillage",
-          "SceneName": "Quest3_locatioin03c_Abandoned_Village",
+          "SceneName": "Q03_L03c_AbandonedVillage",
           "IntroVoice": "Q3L3_AbandonedVillage",
           "IntroSprite": "Sprites/Locations/Quest3_Stage03C",
-          "SoloGameSetup": [
-            "EliteDolGuldurOrcs",
-            "OrcMarauder",
-            "VeteranPatrol",
-            "EastBightPatrol"
-          ],
-          "NextStageId": ""
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         }
       ],
       "SauronDeck": [
@@ -367,6 +416,10 @@
         {
           "Id": "CreatureOfDarkness",
           "Amount": 2
+        },
+        {
+          "Id": "DarkSorcery",
+          "Amount": 1
         }
       ]
     },
@@ -376,94 +429,52 @@
       "ArtSprite": "Sprites/Quest/quest_4",
       "VictoryVoice": "Q4_Victory",
       "DefeatVoice": "Q4_Defeat",
-      "ResolutionArtSprite": null,
+      "ResolutionArtSprite": "Sprites/Quest/Quest4_Resolution",
       "Stages": [
         {
-          "Id": "WoodedRiverbank",
-          "SceneName": "Quest4_TotheRiver_Location_01",
+          "Id": "ToTheRiver",
+          "SceneName": "Q04_L01_ToTheRiver",
           "IntroVoice": "Q4L1_ToTheRiver",
           "IntroSprite": "Sprites/Locations/Quest4_Stage01",
-          "SoloGameSetup": [
-            "FindTheRaft",
-            "DolGuldurOrcs",
-            "HillTroll"
-          ],
-          "NextStageId": "TheAnduinRiver"
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         },
         {
-          "Id": "TheAnduinRiver",
-          "SceneName": "Quest4_Location02_Anduin_Passage",
+          "Id": "AnduinPassage",
+          "SceneName": "Q04_L02_AnduinPassage",
           "IntroVoice": "Q4L2_AnduinPassage",
           "IntroSprite": "Sprites/Locations/Quest4_Stage02",
-          "SoloGameSetup": [
-            "NavigateTheRiver",
-            "GoblinSniper",
-            "WargRiders"
-          ],
-          "NextStageId": "GrassyRiverbank"
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         },
         {
-          "Id": "GrassyRiverbank",
-          "SceneName": "Quest4_AmbushOnTheShore_Location03",
+          "Id": "AmbushOnTheShore",
+          "SceneName": "Q04_L03_AmbushOnTheShore",
           "IntroVoice": "Q4L3_AmbushOnTheShore",
           "IntroSprite": "Sprites/Locations/Quest4_Stage03",
-          "SoloGameSetup": [
-            "AmbushOnTheShore",
-            "OrcMarauder",
-            "Wargs",
-            "EliteDolGuldurOrcs"
-          ],
-          "NextStageId": ""
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         }
       ],
       "SauronDeck": [
         {
-          "Id": "OrcMarauder",
-          "Amount": 2
+          "Id": "BlackForestBats",
+          "Amount": 4
         },
         {
-          "Id": "MirkwoodFlock",
-          "Amount": 2
+          "Id": "EastBightPatrol",
+          "Amount": 5
         },
         {
-          "Id": "Wargs",
-          "Amount": 2
-        },
-        {
-          "Id": "WildBear",
-          "Amount": 2
-        },
-        {
-          "Id": "WargRiders",
-          "Amount": 2
-        },
-        {
-          "Id": "SpookedHorses",
-          "Amount": 2
-        },
-        {
-          "Id": "Tribulation",
-          "Amount": 2
-        },
-        {
-          "Id": "ThickWebs",
-          "Amount": 2
+          "Id": "ForestFlies",
+          "Amount": 5
         },
         {
           "Id": "UnderTheWatchfulEye",
-          "Amount": 2
-        },
-        {
-          "Id": "GoblinSniper",
-          "Amount": 2
-        },
-        {
-          "Id": "AccursedForest",
-          "Amount": 2
-        },
-        {
-          "Id": "CreatureOfDarkness",
-          "Amount": 2
+          "Amount": 10
         }
       ]
     },
@@ -473,54 +484,83 @@
       "ArtSprite": "Sprites/Quest/quest_5",
       "VictoryVoice": "Q5_Victory",
       "DefeatVoice": "Q5_Defeat",
-      "ResolutionArtSprite": null,
+      "ResolutionArtSprite": "Sprites/Quest/Quest5_Resolution",
       "Stages": [
         {
-          "Id": "TheOldFord",
-          "SceneName": "Quest5_SearchingforGrimbeorn_Location_01",
+          "Id": "SearchingForGrimbeorn",
+          "SceneName": "Q05_L01_SearchingForGrimbeorn",
           "IntroVoice": "Q5L1_SearchingForGrimbeorn",
           "IntroSprite": "Sprites/Locations/Quest5_Stage01",
-          "SoloGameSetup": [
-            "FollowGrimbeornsTrail",
-            "WildBear",
-            "MirkwoodFlock",
-            "Wargs"
-          ],
-          "NextStageId": "TrollCamp"
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         },
         {
-          "Id": "TrollCamp",
-          "SceneName": "Quest5_TheTroll’sDinner_Location02",
+          "Id": "TheTrollsDinner",
+          "SceneName": "Q05_L02_TheTrollsDinner",
           "IntroVoice": "Q5L2_TheTrollsDinner",
           "IntroSprite": "Sprites/Locations/Quest5_Stage02",
-          "SoloGameSetup": [
-            "RescueGrimbeorn",
-            "HillTroll",
-            "AnduinTrollSpawn",
-            "BlackForestBats"
-          ],
-          "NextStageId": "TheCarrock"
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         },
         {
-          "Id": "TheCarrock",
-          "SceneName": "Quest5_Location03_Defeat_the_trolls",
+          "Id": "FightWithTheTrolls",
+          "SceneName": "Q05_L03_FightWithTheTrolls",
           "IntroVoice": "Q5L3_FightWithTheTrolls",
           "IntroSprite": "Sprites/Locations/Quest5_Stage03",
-          "SoloGameSetup": [
-            "Louis",
-            "Stuart",
-            "Rupert"
-          ],
-          "NextStageId": ""
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         }
       ],
       "SauronDeck": [
+        {
+          "Id": "AnduinTrollSpawn",
+          "Amount": 2
+        },
+        {
+          "Id": "BlockedPath",
+          "Amount": 2
+        },
+        {
+          "Id": "BlackBlood",
+          "Amount": 2
+        },
+        {
+          "Id": "Devoured",
+          "Amount": 2
+        },
+        {
+          "Id": "GoblinSniper",
+          "Amount": 2
+        },
+        {
+          "Id": "MuckAdder",
+          "Amount": 2
+        },
+        {
+          "Id": "OrcHound",
+          "Amount": 2
+        },
         {
           "Id": "OrcMarauder",
           "Amount": 2
         },
         {
-          "Id": "MirkwoodFlock",
+          "Id": "PackOfWargs",
+          "Amount": 1
+        },
+        {
+          "Id": "SquashedIntoJelly",
+          "Amount": 2
+        },
+        {
+          "Id": "SpookedHorses",
+          "Amount": 1
+        },
+        {
+          "Id": "Tribulation",
           "Amount": 2
         },
         {
@@ -529,38 +569,6 @@
         },
         {
           "Id": "WildBear",
-          "Amount": 2
-        },
-        {
-          "Id": "WargRiders",
-          "Amount": 2
-        },
-        {
-          "Id": "SpookedHorses",
-          "Amount": 2
-        },
-        {
-          "Id": "Tribulation",
-          "Amount": 2
-        },
-        {
-          "Id": "ThickWebs",
-          "Amount": 2
-        },
-        {
-          "Id": "UnderTheWatchfulEye",
-          "Amount": 2
-        },
-        {
-          "Id": "GoblinSniper",
-          "Amount": 2
-        },
-        {
-          "Id": "AccursedForest",
-          "Amount": 2
-        },
-        {
-          "Id": "CreatureOfDarkness",
           "Amount": 2
         }
       ]
