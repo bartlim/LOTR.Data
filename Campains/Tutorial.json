@@ -18,7 +18,7 @@
           "IntroVoice": "",
           "IntroSprite": "Sprites/Locations/Quest3_Stage01",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "Tutorial_Stage_02",
           "BGM": null
         },
         {
@@ -27,7 +27,7 @@
           "IntroVoice": "",
           "IntroSprite": "Sprites/Locations/Quest3_Stage03B",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "",
           "BGM": null
         }
       ],
