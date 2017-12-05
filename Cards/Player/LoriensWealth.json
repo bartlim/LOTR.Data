@@ -2,8 +2,8 @@
   "CardData": {
     "Id": "LoriensWealth",
     "Owner": "Player",
-    "CardType": 0,
-    "ShopType": "",
+    "CardType": 4,
+    "ShopType": "Favor",
     "Cost": 0,
     "QuestPoints": 0,
     "Attack": 0,
@@ -11,7 +11,7 @@
     "Health": 0,
     "Trait": "",
     "Rarity": 0,
-    "Sphere": 0,
+    "Sphere": 2,
     "SphereLevel": 0,
     "Revision": "test"
   },
