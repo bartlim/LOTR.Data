@@ -18,7 +18,7 @@
           "IntroVoice": "Q1L1_ForestGate",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "CapturedBySpiders",
           "BGM": null
         },
         {
@@ -27,7 +27,7 @@
           "IntroVoice": "Q1L2_CapturedBySpiders",
           "IntroSprite": "Sprites/Locations/Quest1_Stage02",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "StandAndFight,TurnAndFlee",
           "BGM": null
         },
         {
@@ -36,7 +36,7 @@
           "IntroVoice": "Q1L3A_StandAndFight",
           "IntroSprite": "Sprites/Locations/Quest1_Stage03A",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "TheEnchantedStream",
           "BGM": null
         },
         {
@@ -45,7 +45,7 @@
           "IntroVoice": "Q1L3B_TurnAndFlee",
           "IntroSprite": "Sprites/Locations/Quest1_Stage03B",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "TheEnchantedStream",
           "BGM": null
         },
         {
@@ -54,7 +54,7 @@
           "IntroVoice": "Q1L4_TheEnchantedStream",
           "IntroSprite": "Sprites/Locations/Quest1_Stage04",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "",
           "BGM": null
         }
       ],
@@ -171,7 +171,7 @@
           "IntroVoice": "Q2L1_DarkForest",
           "IntroSprite": "Sprites/Locations/Quest2_Stage01",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "TheSpidersLair",
           "BGM": null
         },
         {
@@ -180,7 +180,7 @@
           "IntroVoice": "Q2L2_SpidersLair",
           "IntroSprite": "Sprites/Locations/Quest2_Stage02",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "TheSpidersWebs",
           "BGM": null
         },
         {
@@ -189,7 +189,7 @@
           "IntroVoice": "Q2L3_SpidersWebs",
           "IntroSprite": "Sprites/Locations/Quest2_Stage03",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "ForestGlade",
           "BGM": null
         },
         {
@@ -198,7 +198,7 @@
           "IntroVoice": "Q2L4_ForestGlade",
           "IntroSprite": "Sprites/Locations/Quest2_Stage04",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "",
           "BGM": null
         }
       ],
@@ -319,7 +319,7 @@
           "IntroVoice": "Q3L1_MirkwoodForest",
           "IntroSprite": "Sprites/Locations/Quest3_Stage01",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "",
           "BGM": null
         },
         {
@@ -328,7 +328,7 @@
           "IntroVoice": "Q3L2-3_Various",
           "IntroSprite": "Sprites/Locations/Quest3_Stage02A",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "",
           "BGM": null
         },
         {
@@ -337,7 +337,7 @@
           "IntroVoice": "Q3L2-3_Various",
           "IntroSprite": "Sprites/Locations/Quest3_Stage02B",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "",
           "BGM": null
         },
         {
@@ -346,7 +346,7 @@
           "IntroVoice": "Q3L2-3_Various",
           "IntroSprite": "Sprites/Locations/Quest3_Stage03A",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "",
           "BGM": null
         },
         {
@@ -355,7 +355,7 @@
           "IntroVoice": "Q3L2-3_Various",
           "IntroSprite": "Sprites/Locations/Quest3_Stage03B",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "",
           "BGM": null
         },
         {
@@ -364,7 +364,7 @@
           "IntroVoice": "Q3L3_AbandonedVillage",
           "IntroSprite": "Sprites/Locations/Quest3_Stage03C",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "",
           "BGM": null
         }
       ],
@@ -437,7 +437,7 @@
           "IntroVoice": "Q4L1_ToTheRiver",
           "IntroSprite": "Sprites/Locations/Quest4_Stage01",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "AnduinPassage",
           "BGM": null
         },
         {
@@ -446,7 +446,7 @@
           "IntroVoice": "Q4L2_AnduinPassage",
           "IntroSprite": "Sprites/Locations/Quest4_Stage02",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "AmbushOnTheShore",
           "BGM": null
         },
         {
@@ -455,7 +455,7 @@
           "IntroVoice": "Q4L3_AmbushOnTheShore",
           "IntroSprite": "Sprites/Locations/Quest4_Stage03",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "",
           "BGM": null
         }
       ],
@@ -492,7 +492,7 @@
           "IntroVoice": "Q5L1_SearchingForGrimbeorn",
           "IntroSprite": "Sprites/Locations/Quest5_Stage01",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "TheTrollsDinner",
           "BGM": null
         },
         {
@@ -501,7 +501,7 @@
           "IntroVoice": "Q5L2_TheTrollsDinner",
           "IntroSprite": "Sprites/Locations/Quest5_Stage02",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "FightWithTheTrolls",
           "BGM": null
         },
         {
@@ -510,7 +510,7 @@
           "IntroVoice": "Q5L3_FightWithTheTrolls",
           "IntroSprite": "Sprites/Locations/Quest5_Stage03",
           "SoloGameSetup": null,
-          "NextStageId": null,
+          "NextStageId": "",
           "BGM": null
         }
       ],
