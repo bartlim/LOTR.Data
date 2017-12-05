@@ -1,0 +1,37 @@
+{
+  "Id": "Tutorial",
+  "IconSprite": "Sprites/Quest/icon_q1",
+  "MapPosX": -76.0,
+  "MapPosY": -95.0,
+  "Quests": [
+    {
+      "Id": "Tutorial",
+      "IconSprite": "Sprites/Quest/icon_q2",
+      "ArtSprite": "Sprites/Quest/quest_2",
+      "VictoryVoice": "",
+      "DefeatVoice": "",
+      "ResolutionArtSprite": null,
+      "Stages": [
+        {
+          "Id": "Tutorial_Stage_01",
+          "SceneName": "Q01_L04_TheEnchantedStream",
+          "IntroVoice": "",
+          "IntroSprite": "Sprites/Locations/Quest3_Stage01",
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
+        },
+        {
+          "Id": "Tutorial_Stage_02",
+          "SceneName": "Q01_L04_TheEnchantedStream",
+          "IntroVoice": "",
+          "IntroSprite": "Sprites/Locations/Quest3_Stage03B",
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
+        }
+      ],
+      "SauronDeck": null
+    }
+  ]
+}
