@@ -4,7 +4,7 @@
     "Owner": "Player",
     "CardType": 1,
     "ShopType": "Pack_04",
-    "Cost": 1,
+    "Cost": 2,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
@@ -13,10 +13,10 @@
     "Rarity": 0,
     "Sphere": 4,
     "SphereLevel": 2,
-    "Revision": ""
+    "Revision": "test"
   },
   "Localization": {
     "Title": "Bow of the Galadhrim",
-    "Text": "Attach to a Ranged character. Attached character gets +1 ATK (+2 ATK if the target enemy is damaged)."
+    "Text": "Attach to a Ranged character. Attached character gets +1 ATK and gains Quick."
   }
 }
