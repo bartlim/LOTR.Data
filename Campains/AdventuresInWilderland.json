@@ -142,18 +142,18 @@
       "Stages": [
         {
           "Id": "DarkForest",
-          "SceneName": "Forest2",
+          "SceneName": "Q02_L01_DarkForest",
           "IntroVoice": "Q2L1_DarkForest",
           "IntroSprite": "Sprites/Locations/Quest2_Stage01",
           "SoloGameSetup": [
             "FindYourFriends"
           ],
           "NextStageId": "TheSpidersLair",
-          "BGM": null
+          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
         },
         {
           "Id": "TheSpidersLair",
-          "SceneName": "The_Spiders_Lair",
+          "SceneName": "Q02_L02_TheSpidersLair",
           "IntroVoice": "Q2L2_SpidersLair",
           "IntroSprite": "Sprites/Locations/Quest2_Stage02",
           "SoloGameSetup": [
@@ -162,11 +162,11 @@
             "HatchlingSpider"
           ],
           "NextStageId": "TheSpidersWebs",
-          "BGM": null
+          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
         },
         {
           "Id": "TheSpidersWebs",
-          "SceneName": "Tangled_in_Webs",
+          "SceneName": "Q02_L03_TheSpidersWebs",
           "IntroVoice": "Q2L3_SpidersWebs",
           "IntroSprite": "Sprites/Locations/Quest2_Stage03",
           "SoloGameSetup": [
@@ -174,11 +174,11 @@
             "SpidersOfMirkwood"
           ],
           "NextStageId": "ForestGlade",
-          "BGM": null
+          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
         },
         {
           "Id": "ForestGlade",
-          "SceneName": "The_Spider_Queen",
+          "SceneName": "Q02_L04_ForestGlade",
           "IntroVoice": "Q2L4_ForestGlade",
           "IntroSprite": "Sprites/Locations/Quest2_Stage04",
           "SoloGameSetup": [
@@ -186,7 +186,7 @@
             "GiantSpider"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
         }
       ],
       "SauronDeck": [
