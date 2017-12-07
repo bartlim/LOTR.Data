@@ -3,13 +3,19 @@
   "Name": "Test_FFI",
   "Quests": [
     {
-      "Id": "Test_FFIQuest01",
-      "Name": "Test_FFIQuest01",
-      "Description": "",
+      "Id": "Test_FFI",
+      "Name": "Test_FFI",
+      "Description": "Fun.",
       "Stages": [
         {
           "Id": "Location101",
-          "StageName": "Forest2",
+          "StageName": "location fun",
+          "StoryText": "",
+          "ObjectiveText": ""
+        },
+        {
+          "Id": "Location101",
+          "StageName": "location fun",
           "StoryText": "",
           "ObjectiveText": ""
         }
