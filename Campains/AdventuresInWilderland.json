@@ -394,8 +394,8 @@
       "ResolutionArtSprite": null,
       "Stages": [
         {
-          "Id": "WoodedRiverbank",
-          "SceneName": "Quest4_TotheRiver_Location_01",
+          "Id": "ToTheRiver",
+          "SceneName": "Q04_L01_ToTheRiver",
           "IntroVoice": "Q4L1_ToTheRiver",
           "IntroSprite": "Sprites/Locations/Quest4_Stage01",
           "SoloGameSetup": [
@@ -403,12 +403,12 @@
             "DolGuldurOrcs",
             "HillTroll"
           ],
-          "NextStageId": "TheAnduinRiver",
-          "BGM": null
+          "NextStageId": "AnduinPassage",
+          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
         },
         {
-          "Id": "TheAnduinRiver",
-          "SceneName": "Quest4_Location02_Anduin_Passage",
+          "Id": "AnduinPassage",
+          "SceneName": "Q04_L02_AnduinPassage",
           "IntroVoice": "Q4L2_AnduinPassage",
           "IntroSprite": "Sprites/Locations/Quest4_Stage02",
           "SoloGameSetup": [
@@ -416,12 +416,12 @@
             "GoblinSniper",
             "WargRiders"
           ],
-          "NextStageId": "GrassyRiverbank",
-          "BGM": null
+          "NextStageId": "AmbushOnTheShore",
+          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
         },
         {
-          "Id": "GrassyRiverbank",
-          "SceneName": "Quest4_AmbushOnTheShore_Location03",
+          "Id": "AmbushOnTheShore",
+          "SceneName": "Q04_L03_AmbushOnTheShore",
           "IntroVoice": "Q4L3_AmbushOnTheShore",
           "IntroSprite": "Sprites/Locations/Quest4_Stage03",
           "SoloGameSetup": [
@@ -431,7 +431,7 @@
             "EliteDolGuldurOrcs"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
         }
       ],
       "SauronDeck": [
