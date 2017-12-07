@@ -21,7 +21,7 @@
             "FindThePath",
             "VeteranPatrol"
           ],
-          "NextStageId": ""
+          "NextStageId": "location102"
         },
         {
           "Id": "",
@@ -30,6 +30,17 @@
           "IntroSprite": null,
           "SoloGameSetup": null,
           "NextStageId": null
+        },
+        {
+          "Id": "Location101",
+          "SceneName": "Forest2",
+          "IntroVoice": "OpeningMirkwood_01",
+          "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+          "SoloGameSetup": [
+            "FindThePath",
+            "VeteranPatrol"
+          ],
+          "NextStageId": "location102"
         }
       ],
       "SauronDeck": []
