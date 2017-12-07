@@ -1,8 +1,8 @@
 {
   "Id": "test",
   "IconSprite": "Sprites/Quest/icon_q1",
-  "MapPosX": 0.0,
-  "MapPosY": 0.0,
+  "MapPosX": 4.0,
+  "MapPosY": -15.0,
   "Quests": [
     {
       "Id": "testQuest01",
@@ -10,7 +10,7 @@
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,
       "DefeatVoice": null,
-      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "Location101",
@@ -70,7 +70,7 @@
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,
       "DefeatVoice": null,
-      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "Location201",
@@ -130,7 +130,7 @@
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,
       "DefeatVoice": null,
-      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "Location301",
@@ -190,7 +190,7 @@
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,
       "DefeatVoice": null,
-      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "Location401",
@@ -250,7 +250,7 @@
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,
       "DefeatVoice": null,
-      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "Location501",
