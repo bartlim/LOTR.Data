@@ -8,8 +8,8 @@
       "Id": "Test_FFIQuest01",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
-      "VictoryVoice": null,
-      "DefeatVoice": null,
+      "VictoryVoice": "Victory",
+      "DefeatVoice": "Defeat",
       "ResolutionArtSprite": null,
       "Stages": [
         {
@@ -22,46 +22,17 @@
             "VeteranPatrol"
           ],
           "NextStageId": ""
+        },
+        {
+          "Id": "",
+          "SceneName": null,
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": null,
+          "NextStageId": null
         }
       ],
-      "SauronDeck": [
-        {
-          "Id": "BlackForestBats",
-          "Amount": 2
-        },
-        {
-          "Id": "DolGuldurOrcs",
-          "Amount": 2
-        },
-        {
-          "Id": "EastBightPatrol",
-          "Amount": 2
-        },
-        {
-          "Id": "Enfeebled",
-          "Amount": 2
-        },
-        {
-          "Id": "DrivenByShadow",
-          "Amount": 2
-        },
-        {
-          "Id": "GoblinSniper",
-          "Amount": 2
-        },
-        {
-          "Id": "MirkwoodPatrol",
-          "Amount": 2
-        },
-        {
-          "Id": "ThickWebs",
-          "Amount": 2
-        },
-        {
-          "Id": "Tribulation",
-          "Amount": 2
-        }
-      ]
+      "SauronDeck": []
     },
     {
       "Id": "Test_FFIQuest02",
