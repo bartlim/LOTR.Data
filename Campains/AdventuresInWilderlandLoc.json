@@ -152,19 +152,19 @@
       "Description": "You reach the Carrock only to discover that Grimbeorn has been captured by Trolls!",
       "Stages": [
         {
-          "Id": "TheOldFord",
+          "Id": "SearchingForGrimbeorn",
           "StageName": "Searching for Grimbeorn",
           "StoryText": "The Anduin river has carried you south from the Forest Gate to the land of the Beornings, where you hope to deliver King Brand’s message to their chieftain, Grimbeorn. However, when you pull your raft to shore, the Beornings tell you that Grimbeorn was last seen roaming as a great bear toward the Carrock. You continue south along the riverbank in order to find him.",
           "ObjectiveText": "Follow Grimbeorn’s trail."
         },
         {
-          "Id": "TrollCamp",
+          "Id": "TheTrollsDinner",
           "StageName": "The Troll's Dinner",
           "StoryText": "After a day spent following Grimbeorn's trail, you make a startling discovery: a group of trolls has captured the great chieftain, and plans to eat him! You draw your weapons and rush to his rescue.",
           "ObjectiveText": "Rescue Grimbeorn."
         },
         {
-          "Id": "TheCarrock",
+          "Id": "FightWithTheTrolls",
           "StageName": "Fight with the Trolls",
           "StoryText": "Once freed from his chains, Grimbeorn joins you in your battle against his captors. “A barrel of beer to the one who brings me a troll’s head!” he roars while swinging a mighty blow at the nearest foe. But the trolls only laugh and say, \"Look, boys - more food! We're going to eat well tonight!\"",
           "ObjectiveText": "Defeat the Trolls."
