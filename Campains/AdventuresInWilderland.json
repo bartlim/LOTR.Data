@@ -494,8 +494,8 @@
       "ResolutionArtSprite": null,
       "Stages": [
         {
-          "Id": "TheOldFord",
-          "SceneName": "Quest5_SearchingforGrimbeorn_Location_01",
+          "Id": "SearchingForGrimbeorn",
+          "SceneName": "Q05_L01_SearchingForGrimbeorn",
           "IntroVoice": "Q5L1_SearchingForGrimbeorn",
           "IntroSprite": "Sprites/Locations/Quest5_Stage01",
           "SoloGameSetup": [
@@ -504,12 +504,12 @@
             "MirkwoodFlock",
             "Wargs"
           ],
-          "NextStageId": "TrollCamp",
-          "BGM": null
+          "NextStageId": "TheTrollsDinner",
+          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
         },
         {
-          "Id": "TrollCamp",
-          "SceneName": "Quest5_TheTroll’sDinner_Location02",
+          "Id": "TheTrollsDinner",
+          "SceneName": "Q05_L02_TheTrollsDinner",
           "IntroVoice": "Q5L2_TheTrollsDinner",
           "IntroSprite": "Sprites/Locations/Quest5_Stage02",
           "SoloGameSetup": [
@@ -518,12 +518,12 @@
             "AnduinTrollSpawn",
             "BlackForestBats"
           ],
-          "NextStageId": "TheCarrock",
-          "BGM": null
+          "NextStageId": "FightWithTheTrolls",
+          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
         },
         {
-          "Id": "TheCarrock",
-          "SceneName": "Quest5_Location03_Defeat_the_trolls",
+          "Id": "FightWithTheTrolls",
+          "SceneName": "Q05_L03_FightWithTheTrolls",
           "IntroVoice": "Q5L3_FightWithTheTrolls",
           "IntroSprite": "Sprites/Locations/Quest5_Stage03",
           "SoloGameSetup": [
@@ -532,7 +532,7 @@
             "Rupert"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
         }
       ],
       "SauronDeck": [
