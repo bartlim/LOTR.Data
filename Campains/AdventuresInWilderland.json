@@ -25,7 +25,7 @@
             "BlockedPath"
           ],
           "NextStageId": "CapturedBySpiders",
-          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
+          "BGM": "mus_theWilderlands"
         },
         {
           "Id": "CapturedBySpiders",
@@ -38,7 +38,7 @@
             "KingSpider"
           ],
           "NextStageId": "StandAndFight,TurnAndFlee",
-          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
+          "BGM": "mus_dungeon"
         },
         {
           "Id": "StandAndFight",
@@ -52,7 +52,7 @@
             "EliteDolGuldurOrcs"
           ],
           "NextStageId": "TheEnchantedStream",
-          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
+          "BGM": "mus_theWilderlands"
         },
         {
           "Id": "TurnAndFlee",
@@ -66,7 +66,7 @@
             "SpidersOfMirkwood"
           ],
           "NextStageId": "TheEnchantedStream",
-          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
+          "BGM": "mus_mirkwood"
         },
         {
           "Id": "TheEnchantedStream",
@@ -78,7 +78,7 @@
             "UngoliantsSpawn"
           ],
           "NextStageId": "",
-          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
+          "BGM": "mus_theWilderlands"
         }
       ],
       "SauronDeck": [
