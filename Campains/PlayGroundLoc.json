@@ -13,7 +13,9 @@
           "StoryText": "Story desc...",
           "ObjectiveText": "Objective.."
         }
-      ]
+      ],
+      "VictoryText": null,
+      "DefeatText": null
     },
     {
       "Id": "PlayGroundQuest02",
@@ -26,7 +28,9 @@
           "StoryText": "Story...",
           "ObjectiveText": "Objective..."
         }
-      ]
+      ],
+      "VictoryText": null,
+      "DefeatText": null
     },
     {
       "Id": "PlayGroundQuest03",
@@ -39,7 +43,9 @@
           "StoryText": "Story...",
           "ObjectiveText": "Objective..."
         }
-      ]
+      ],
+      "VictoryText": null,
+      "DefeatText": null
     },
     {
       "Id": "PlayGroundQuest04",
@@ -52,7 +58,9 @@
           "StoryText": "Story...",
           "ObjectiveText": "Objective..."
         }
-      ]
+      ],
+      "VictoryText": null,
+      "DefeatText": null
     },
     {
       "Id": "PlayGroundQuest05",
@@ -65,7 +73,9 @@
           "StoryText": "Story...",
           "ObjectiveText": "Objective..."
         }
-      ]
+      ],
+      "VictoryText": null,
+      "DefeatText": null
     }
   ]
 }
