@@ -143,8 +143,8 @@
           "ObjectiveText": "Defeat the last Enemy in play to complete the Quest."
         }
       ],
-      "VictoryText": null,
-      "DefeatText": null
+      "VictoryText": "You have driven back your pursuers and are free to continue your journey downriver.",
+      "DefeatText": " Your journey has come to a tragic end."
     },
     {
       "Id": "ConflictAtTheCarrock",
