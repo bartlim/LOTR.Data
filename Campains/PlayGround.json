@@ -14,13 +14,14 @@
       "Stages": [
         {
           "Id": "TheOathStage1",
-          "SceneName": "Quest4_TotheRiver_Location_01",
-          "IntroVoice": "OpeningMirkwood_01",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": "Q1L1_ForestGate",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
             "AmbushOnTheShore"
           ],
-          "NextStageId": ""
+          "NextStageId": "",
+          "BGM": "mus_mirkwood"
         },
         {
           "Id": "",
@@ -28,10 +29,16 @@
           "IntroVoice": null,
           "IntroSprite": null,
           "SoloGameSetup": null,
-          "NextStageId": null
+          "NextStageId": null,
+          "BGM": null
         }
       ],
-      "SauronDeck": []
+      "SauronDeck": [
+        {
+          "Id": "BlackForestBats",
+          "Amount": 5
+        }
+      ]
     },
     {
       "Id": "PlayGroundQuest02",
@@ -49,7 +56,8 @@
           "SoloGameSetup": [
             "EscapeTheForest"
           ],
-          "NextStageId": null
+          "NextStageId": null,
+          "BGM": null
         }
       ],
       "SauronDeck": []
@@ -70,7 +78,8 @@
           "SoloGameSetup": [
             "MarshAdder"
           ],
-          "NextStageId": null
+          "NextStageId": null,
+          "BGM": null
         }
       ],
       "SauronDeck": []
@@ -91,7 +100,8 @@
           "SoloGameSetup": [
             "SpiderQueen"
           ],
-          "NextStageId": null
+          "NextStageId": null,
+          "BGM": null
         }
       ],
       "SauronDeck": []
@@ -112,7 +122,8 @@
           "SoloGameSetup": [
             "UngoliantsSpawn"
           ],
-          "NextStageId": null
+          "NextStageId": null,
+          "BGM": null
         }
       ],
       "SauronDeck": []
