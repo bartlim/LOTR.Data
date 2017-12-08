@@ -105,7 +105,7 @@
             "FindYourFriends"
           ],
           "NextStageId": "TheSpidersLair",
-          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
+          "BGM": "mus_mirkwood"
         },
         {
           "Id": "TheSpidersLair",
@@ -118,7 +118,7 @@
             "HatchlingSpider"
           ],
           "NextStageId": "TheSpidersWebs",
-          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
+          "BGM": "mus_dungeon"
         },
         {
           "Id": "TheSpidersWebs",
@@ -130,7 +130,7 @@
             "SpidersOfMirkwood"
           ],
           "NextStageId": "ForestGlade",
-          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
+          "BGM": "mus_dungeon"
         },
         {
           "Id": "ForestGlade",
