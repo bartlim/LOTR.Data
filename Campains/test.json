@@ -14,7 +14,7 @@
       "Stages": [
         {
           "Id": "Location101",
-          "SceneName": "Forest2",
+          "SceneName": "Q01_L01_ForestGate",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -22,7 +22,7 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
         }
       ],
       "SauronDeck": [
@@ -74,7 +74,7 @@
       "Stages": [
         {
           "Id": "Location201",
-          "SceneName": "Forest2",
+          "SceneName": "Q01_L01_ForestGate",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -82,7 +82,7 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
         }
       ],
       "SauronDeck": [
@@ -134,7 +134,7 @@
       "Stages": [
         {
           "Id": "Location301",
-          "SceneName": "Forest2",
+          "SceneName": "Q01_L01_ForestGate",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -142,7 +142,7 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
         }
       ],
       "SauronDeck": [
@@ -194,7 +194,7 @@
       "Stages": [
         {
           "Id": "Location401",
-          "SceneName": "Forest2",
+          "SceneName": "Q01_L01_ForestGate",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -202,7 +202,7 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
         }
       ],
       "SauronDeck": [
@@ -254,7 +254,7 @@
       "Stages": [
         {
           "Id": "Location501",
-          "SceneName": "Forest2",
+          "SceneName": "Q01_L01_ForestGate",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -262,7 +262,7 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
         }
       ],
       "SauronDeck": [
