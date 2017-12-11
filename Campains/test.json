@@ -6,11 +6,11 @@
   "Quests": [
     {
       "Id": "testQuest01",
-      "IconSprite": "Sprites/Quest/icon_q1",
-      "ArtSprite": "Sprites/Quest/quest_1",
-      "VictoryVoice": null,
-      "DefeatVoice": null,
-      "ResolutionArtSprite": null,
+      "IconSprite": "testQuest01QuestIcon",
+      "ArtSprite": "testQuest01QuestArt",
+      "VictoryVoice": "testQuest01VictoryVoice",
+      "DefeatVoice": "testQuest01DefeatVoice",
+      "ResolutionArtSprite": "testQuest01QuestResolution",
       "Stages": [
         {
           "Id": "Location101",
