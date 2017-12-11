@@ -15,14 +15,14 @@
         {
           "Id": "Location101",
           "SceneName": "Q01_L01_ForestGate",
-          "IntroVoice": "OpeningMirkwood_01",
-          "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+          "IntroVoice": "testQuest01Location101IntroVoice",
+          "IntroSprite": "testQuest01Location101IntroSprite",
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
-          "NextStageId": "",
-          "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
+          "NextStageId": "test",
+          "BGM": "mus_cave"
         }
       ],
       "SauronDeck": [
