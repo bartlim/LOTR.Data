@@ -5,7 +5,7 @@
     {
       "Id": "testQuest01",
       "Name": "testQuest01",
-      "Description": "",
+      "Description": "desc",
       "Stages": [
         {
           "Id": "Location101",
@@ -14,8 +14,8 @@
           "ObjectiveText": ""
         }
       ],
-      "VictoryText": null,
-      "DefeatText": null
+      "VictoryText": "victory",
+      "DefeatText": "defeat"
     },
     {
       "Id": "testQuest02",
