@@ -50,17 +50,22 @@
       "Stages": [
         {
           "Id": "Location201",
-          "SceneName": "Forest2",
+          "SceneName": "Q01_L01_ForestGate",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
             "EscapeTheForest"
           ],
-          "NextStageId": null,
-          "BGM": null
+          "NextStageId": "",
+          "BGM": "mus_mirkwood"
         }
       ],
-      "SauronDeck": []
+      "SauronDeck": [
+        {
+          "Id": "BlackForestBats",
+          "Amount": 5
+        }
+      ]
     },
     {
       "Id": "PlayGroundQuest03",
@@ -72,17 +77,22 @@
       "Stages": [
         {
           "Id": "Location301",
-          "SceneName": "Forest2",
+          "SceneName": "Q01_L01_ForestGate",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
             "MarshAdder"
           ],
-          "NextStageId": null,
-          "BGM": null
+          "NextStageId": "",
+          "BGM": "mus_mirkwood"
         }
       ],
-      "SauronDeck": []
+      "SauronDeck": [
+        {
+          "Id": "BlackForestBats",
+          "Amount": 5
+        }
+      ]
     },
     {
       "Id": "PlayGroundQuest04",
@@ -94,17 +104,22 @@
       "Stages": [
         {
           "Id": "Location401",
-          "SceneName": "Forest2",
+          "SceneName": "Q01_L01_ForestGate",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
             "SpiderQueen"
           ],
-          "NextStageId": null,
-          "BGM": null
+          "NextStageId": "",
+          "BGM": "mus_mirkwood"
         }
       ],
-      "SauronDeck": []
+      "SauronDeck": [
+        {
+          "Id": "BlackForestBats",
+          "Amount": 5
+        }
+      ]
     },
     {
       "Id": "PlayGroundQuest05",
@@ -116,17 +131,22 @@
       "Stages": [
         {
           "Id": "Location501",
-          "SceneName": "Forest2",
+          "SceneName": "Q01_L01_ForestGate",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
             "UngoliantsSpawn"
           ],
-          "NextStageId": null,
-          "BGM": null
+          "NextStageId": "",
+          "BGM": "mus_mirkwood"
         }
       ],
-      "SauronDeck": []
+      "SauronDeck": [
+        {
+          "Id": "BlackForestBats",
+          "Amount": 5
+        }
+      ]
     }
   ]
 }
