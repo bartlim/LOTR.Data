@@ -595,8 +595,8 @@
               "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
               "Id": "Location101",
               "StageName": "Forest2",
-              "StoryText": "",
-              "ObjectiveText": ""
+              "StoryText": "desc",
+              "ObjectiveText": "objective"
             }
           ],
           "VictoryText": "victory",
