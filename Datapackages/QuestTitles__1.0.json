@@ -1,0 +1,15 @@
+{
+  "$type": "LOTR.SharedData.Package.DataPackage`1[[System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "DataSet": [
+    "testQuest01",
+    "testQuest02",
+    "testQuest03",
+    "testQuest04",
+    "testQuest05"
+  ],
+  "Version": "20171211150841894",
+  "Key": "QuestTitles",
+  "SubKey": null,
+  "RequiredClientVersion": "1.0",
+  "InternalKey": "QuestTitles_20171211150841894"
+}
