@@ -1,0 +1,903 @@
+{
+  "$type": "LOTR.SharedData.Package.DataPackage`1[[System.Collections.Generic.List`1[[LOTR.SharedData.Quests.CampaignLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "DataSet": [
+    {
+      "$type": "LOTR.SharedData.Quests.CampaignLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Id": "051133",
+      "Name": "051133",
+      "Quests": [
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "051133Quest01",
+          "Name": "051133Quest01",
+          "Description": "desc",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location101",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": "victory descvictory descvictory descvictory descvictory descvictory descvictory desc",
+          "DefeatText": "defeat descdefeat descdefeat descdefeat descdefeat descdefeat descdefeat desc"
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "051133Quest02",
+          "Name": "051133Quest02",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location201",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "051133Quest03",
+          "Name": "051133Quest03",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location301",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "051133Quest04",
+          "Name": "051133Quest04",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location401",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "051133Quest05",
+          "Name": "051133Quest05",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location501",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        }
+      ]
+    },
+    {
+      "$type": "LOTR.SharedData.Quests.CampaignLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Id": "200320",
+      "Name": "200320",
+      "Quests": [
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "200320Quest01",
+          "Name": "200320_Quest01",
+          "Description": "200320Quest01Desc",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location101",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "200320Quest02",
+          "Name": "200320Quest02",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location201",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "200320Quest03",
+          "Name": "200320Quest03",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location301",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "200320Quest04",
+          "Name": "200320Quest04",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location401",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "200320Quest05",
+          "Name": "200320Quest05",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location501",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        }
+      ]
+    },
+    {
+      "$type": "LOTR.SharedData.Quests.CampaignLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Id": "271100",
+      "Name": "271100",
+      "Quests": [
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "271100Quest01",
+          "Name": "271100Quest01",
+          "Description": "desc",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location101",
+              "StageName": "Forest2",
+              "StoryText": "desc",
+              "ObjectiveText": "object"
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "271100Quest02",
+          "Name": "271100Quest02",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location201",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "271100Quest03",
+          "Name": "271100Quest03",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location301",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "271100Quest04",
+          "Name": "271100Quest04",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location401",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "271100Quest05",
+          "Name": "271100Quest05",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location501",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Qurest5Stage2",
+              "StageName": "NewStage",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        }
+      ]
+    },
+    {
+      "$type": "LOTR.SharedData.Quests.CampaignLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Id": "AdventuresInWilderland",
+      "Name": "Adventures in Wilderland",
+      "Quests": [
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "PassageThroughMirkwood",
+          "Name": "Passage Through Mirkwood",
+          "Description": "You are carrying a message from King Brand to Grimbeorn through Mirkwood Forest.",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ForestGate",
+              "StageName": "Forest Gate",
+              "StoryText": "The King of Dale has entrusted you with an urgent letter for Grimbeorn the Old, chieftain of the Beornings that dwell in the Anduin Vale. To reach his house you must journey through the shadowy forest of Mirkwood. Not long after entering the forest, you are surrounded by evil creatures.",
+              "ObjectiveText": "Make your way through Mirkwood Forest."
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "CapturedBySpiders",
+              "StageName": "Captured by Spiders",
+              "StoryText": "Giant spiders have captured one of your companions. You watch in horror as your friend is bound in webbed cords to be dragged away and devoured. You cannot abandon your companion to such a fate.",
+              "ObjectiveText": "Overcome \"Cocoon\" and rescue the captive Hero to allow travel."
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "StandAndFight",
+              "StageName": "Stand and Fight",
+              "StoryText": "You have rescued your friend, but the creatures of Mirkwood continue to swarm around you. Realizing that you cannot outrun the beasts, you stand and fight!",
+              "ObjectiveText": "Defeat each Enemy in play to allow travel."
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "TurnAndFlee",
+              "StageName": "Turn and Flee",
+              "StoryText": "You have rescued your friend, but the creatures of Mirkwood continue to swarm around you. Realizing you are in danger of being overwhelmed, you decide to make a run for it!",
+              "ObjectiveText": "Overcome \"Find the Path\" to allow travel."
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "TheEnchantedStream",
+              "StageName": "The Enchanted Stream",
+              "StoryText": "You hurry along the forest path only to find that a wide, dark river stops your progress. As you search for a place to ford, a giant creature emerges to block your way.",
+              "ObjectiveText": "Defeat \"Ungoliant's Spawn\" to complete the Quest."
+            }
+          ],
+          "VictoryText": "You have made it across the enchanted river. With its dark waters between you and your pursuers, you are free to continue your journey through Mirkwood Forest.",
+          "DefeatText": "Your journey has come to a tragic end."
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "FliesAndSpiders",
+          "Name": "Flies and Spiders",
+          "Description": "You awaken to find that giant spiders have captured your friends.",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DarkForest",
+              "StageName": "Dark Forest",
+              "StoryText": "You wake from a troubled sleep to find yourself alone in Mirkwood Forest. The last thing you remember is the sound of countless legs scuttling around your camp and hundreds of bulbous eyes peering from the dark. You realize that the giant spiders of Mirkwood have captured your friends in the night, and it��s up to you to find them!",
+              "ObjectiveText": "Overcome \"Find Your Friends\" to unlock travel."
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "TheSpidersLair",
+              "StageName": "The Spiders' Lair",
+              "StoryText": "You find your friends within a dark glade surrounded by giant spider webs. They have been bound and wrapped in cocoons of strong cords. They beg you to cut them free, but before you can the spiders descend from the trees to attack you.",
+              "ObjectiveText": "Overcome \"Rescue Your Friends\" to unlock travel."
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "TheSpidersWebs",
+              "StageName": "The Spiders' Webs",
+              "StoryText": "Your companions have been cut free, but the spiders are determined to recapture you. They spin giant webs from tree to tree, trapping you in their den. You will have to cut your way through them in order to escape.",
+              "ObjectiveText": "Overcome \"Escape the Spiders\" to unlock travel."
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ForestGlade",
+              "StageName": "Forest Glade",
+              "StoryText": "You have cut your way through the spiders�� webs when an enormous queen spider appears and blocks your path. Her many offspring gather behind you. There is no turning back. You must defeat the giant spider.",
+              "ObjectiveText": "Defeat \"Ungoliant's Spawn\" to complete the Quest."
+            }
+          ],
+          "VictoryText": "You have defeated Ungoliant's spawn and rescued your friends.",
+          "DefeatText": "Your journey has come to a tragic end."
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "LostInMirkwood",
+          "Name": "Lost in Mirkwood",
+          "Description": "After escaping giant spiders, you find yourself lost in the vastness of Mirkwood.",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodForest",
+              "StageName": "Mirkwood Forest",
+              "StoryText": "You have escaped from the spiders�� dark colony, only to find yourself lost in the vastness of Mirkwood. The forest is so dark and tangled that it is impossible to know which direction you should go. You must find some landmarks to get your bearings.",
+              "ObjectiveText": "Overcome \"Follow the Stream\" to advance immediately to Forest Stream OR overcome \"Climb the Hill\" to advance immediately to Bare Hilltop."
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ForestStream",
+              "StageName": "Forest Stream",
+              "StoryText": "The twisted roots of ancient trees crowd the riverbank as the stream winds its way through the dense forest. Traveling this way is hard work. You wonder if you should continue or search for a better path.",
+              "ObjectiveText": "Overcome \"Continue Downstream\" to advance immediately to Mirkwood Swamp OR overcome \"Search for a Path\" to advance immediately to Overgrown Trail."
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BareHilltop",
+              "StageName": "Bare Hilltop",
+              "StoryText": "From your view atop a low hill, you feel lost in a sea of green. Treetops are the only things visible for miles in any direction. As your eyes scan the horizon, you notice a light grey trail of smoke rising in the distance. Should you investigate the smoke? Or do you keep searching for a path out of the forest?",
+              "ObjectiveText": "Overcome \"Investigate the Smoke\" to advance immediately to Abandoned Village OR overcome \"Search for a Path\" to advance immediately to Overgrown Trail."
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodSwamp",
+              "StageName": "Mirkwood Swamp",
+              "StoryText": "At long last, the stream you have been following leads you to a wide bog. You must be near the Anduin River vale �� but, to reach the mighty river, you must first cross the swamp. Who knows what dangers lie in wait?",
+              "ObjectiveText": "Defeat \"Marsh Adder\" to complete the Quest."
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "OvergrownTrail",
+              "StageName": "Overgrown Trail",
+              "StoryText": "After a long, desperate search you have found a path out of Mirkwood. The trail is overgrown and littered with animal tracks, but you believe it leads to the Anduin vale.",
+              "ObjectiveText": "Overcome \"Escape the Forest\" to complete the Quest."
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "AbandonedVillage",
+              "StageName": "Abandoned Village",
+              "StoryText": "After navigating the forest toward the smoke, you find yourself near the eaves of Mirkwood. Before you lies the remains of an old Woodmen village. Instead of Woodmen, however, the village overrun is with Orcs! As they spot your weary group, it becomes clear that you must fight to reach the Anduin vale.",
+              "ObjectiveText": "Defeat the last Enemy in play to complete the Quest."
+            }
+          ],
+          "VictoryText": "Against all odds, you have escaped from Mirkwood Forest and reached the vales of Anduin on the western end. The next leg of your journey will take you down the Anduin River to the land of the Beornings.",
+          "DefeatText": "Your journey has come to a tragic end."
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "JourneyDownTheAnduin",
+          "Name": "Journey Down the Anduin",
+          "Description": "You have found the mighty Anduin but you must still journey downriver to Grimbeorn.",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ToTheRiver",
+              "StageName": "To the River",
+              "StoryText": "Emerging from Mirkwood Forest with an urgent message for Grimbeorn, you must make your way south along the Anduin River in order to reach the Carrock. As you approach the location of a small raft stashed on the riverbank, a fearsome Hill Troll emerges from behind a grouping of rocks, and attacks!",
+              "ObjectiveText": "Defeat the Hill Troll."
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "AnduinPassage",
+              "StageName": "Anduin Passage",
+              "StoryText": "Having defeated the Troll, you board a raft and float downriver. Yet your enemies pursue, harassing the small vessel as you attempt to navigate the river.",
+              "ObjectiveText": "Make it down the river."
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "AmbushOnTheShore",
+              "StageName": "Ambush on the Shore",
+              "StoryText": "Ongoing harassment from your enemies forces your raft to the shore. You must confront their ambush head on. If you survive this attack, the rest of your journey down the Anduin should be clear.",
+              "ObjectiveText": "Defeat the last Enemy in play to complete the Quest."
+            }
+          ],
+          "VictoryText": "You have driven back your pursuers and are free to continue your journey downriver.",
+          "DefeatText": " Your journey has come to a tragic end."
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "ConflictAtTheCarrock",
+          "Name": "Conflict at the Carrock",
+          "Description": "You reach the Carrock only to discover that Grimbeorn has been captured by Trolls!",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "SearchingForGrimbeorn",
+              "StageName": "Searching for Grimbeorn",
+              "StoryText": "The Anduin river has carried you south from the Forest Gate to the land of the Beornings, where you hope to deliver King Brand��s message to their chieftain, Grimbeorn. However, when you pull your raft to shore, the Beornings tell you that Grimbeorn was last seen roaming as a great bear toward the Carrock. You continue south along the riverbank in order to find him.",
+              "ObjectiveText": "Follow Grimbeorn��s trail."
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "TheTrollsDinner",
+              "StageName": "The Troll's Dinner",
+              "StoryText": "After a day spent following Grimbeorn's trail, you make a startling discovery: a group of trolls has captured the great chieftain, and plans to eat him! You draw your weapons and rush to his rescue.",
+              "ObjectiveText": "Rescue Grimbeorn."
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "FightWithTheTrolls",
+              "StageName": "Fight with the Trolls",
+              "StoryText": "Once freed from his chains, Grimbeorn joins you in your battle against his captors. ��A barrel of beer to the one who brings me a troll��s head!�� he roars while swinging a mighty blow at the nearest foe. But the trolls only laugh and say, \"Look, boys - more food! We're going to eat well tonight!\"",
+              "ObjectiveText": "Defeat the Trolls."
+            }
+          ],
+          "VictoryText": "\"That was fine work, lads,\" exclaims Grimbeorn after the last troll falls to the ground. You have defeated the trolls and rescued the Beorning's chieftain. At long last you can deliver King Brand's message to him. Your journey through Wilderland has reached its completion.",
+          "DefeatText": "Your journey has come to a tragic end."
+        }
+      ]
+    },
+    {
+      "$type": "LOTR.SharedData.Quests.CampaignLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Id": "PlayGround",
+      "Name": "Shadows of Mirkwood-TEST",
+      "Quests": [
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "PlayGroundQuest01",
+          "Name": "The Oath",
+          "Description": "This is a story about the oath, which is unbreakable untill...",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "TheOathStage1",
+              "StageName": "Forest",
+              "StoryText": "Story desc...",
+              "ObjectiveText": "Objective.."
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "PlayGroundQuest02",
+          "Name": "The Caves of Nibin-dum",
+          "Description": "You have tracked the Orc raiders to their hold in the caves of Nibin-dum.",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location201",
+              "StageName": "The Cave",
+              "StoryText": "Story...",
+              "ObjectiveText": "Objective..."
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "PlayGroundQuest03",
+          "Name": "Journey to Rhosgobel",
+          "Description": "You have rescued the captured Woodmen, but you aren't safe yet.",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location301",
+              "StageName": "The Jungle",
+              "StoryText": "Story...",
+              "ObjectiveText": "Objective..."
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "PlayGroundQuest04",
+          "Name": "The Necromancer's Reach",
+          "Description": "Orcs attack Rhosgobel after you arrive with the Woodmen villagers.",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location401",
+              "StageName": "The Ranch",
+              "StoryText": "Story...",
+              "ObjectiveText": "Objective..."
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "PlayGroundQuest05",
+          "Name": "Escape from Dol Guldur",
+          "Description": "Radagast asks you to investigate Dol Guldur for the source of the growing evil in Mirkwood.",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location501",
+              "StageName": "The Escape",
+              "StoryText": "Story...",
+              "ObjectiveText": "Objective..."
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        }
+      ]
+    },
+    {
+      "$type": "LOTR.SharedData.Quests.CampaignLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Id": "test",
+      "Name": "test",
+      "Quests": [
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "testQuest01",
+          "Name": "testQuest01",
+          "Description": "desc",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location101",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": "victory",
+          "DefeatText": "defeat"
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "testQuest02",
+          "Name": "testQuest02",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location201",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "testQuest03",
+          "Name": "testQuest03",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location301",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "testQuest04",
+          "Name": "testQuest04",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location401",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "testQuest05",
+          "Name": "testQuest05",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location501",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        }
+      ]
+    },
+    {
+      "$type": "LOTR.SharedData.Quests.CampaignLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Id": "TESTspeeples",
+      "Name": "TESTspeeples",
+      "Quests": [
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "TESTspeeplesQuest01",
+          "Name": "TESTspeeplesQuest01",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location101",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "TESTspeeplesQuest02",
+          "Name": "TESTspeeplesQuest02",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location201",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "TESTspeeplesQuest03",
+          "Name": "TESTspeeplesQuest03",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location301",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "TESTspeeplesQuest04",
+          "Name": "TESTspeeplesQuest04",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location401",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "TESTspeeplesQuest05",
+          "Name": "TESTspeeplesQuest05",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location501",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        }
+      ]
+    },
+    {
+      "$type": "LOTR.SharedData.Quests.CampaignLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Id": "Test_FFI",
+      "Name": "Test_FFI",
+      "Quests": [
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "Test_FFI",
+          "Name": "Test_FFI",
+          "Description": "Fun.",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location101",
+              "StageName": "location fun",
+              "StoryText": "",
+              "ObjectiveText": ""
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location101",
+              "StageName": "location fun",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "Test_FFIQuest02",
+          "Name": "Test_FFIQuest02",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location201",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "Test_FFIQuest03",
+          "Name": "Test_FFIQuest03",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location301",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "Test_FFIQuest04",
+          "Name": "Test_FFIQuest04",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location401",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "Test_FFIQuest05",
+          "Name": "Test_FFIQuest05",
+          "Description": "",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location501",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        }
+      ]
+    },
+    {
+      "$type": "LOTR.SharedData.Quests.CampaignLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Id": "Tutorial",
+      "Name": "Tutorial",
+      "Quests": [
+        {
+          "$type": "LOTR.SharedData.Quests.QuestLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "Tutorial",
+          "Name": "Tutorial",
+          "Description": "Start your journey.",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tutorial_Stage_01",
+              "StageName": "Mirkwood Forest",
+              "StoryText": "",
+              "ObjectiveText": "<b>Overcome</b>:Defeat all Enemies."
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tutorial_Stage_02",
+              "StageName": "The Forest Trail",
+              "StoryText": "",
+              "ObjectiveText": "<b>Aragorn</b> and <b>Elrond</> venture deeper into the forest."
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        }
+      ]
+    }
+  ],
+  "Version": "1.0",
+  "Key": "CampaignLocKitEn",
+  "SubKey": null,
+  "RequiredClientVersion": "1.0",
+  "InternalKey": "CampaignLocKitEn_1.0"
+}
