@@ -1,0 +1,2776 @@
+{
+  "$type": "LOTR.SharedData.Package.DataPackage`1[[System.Collections.Generic.List`1[[LOTR.SharedData.Quests.CampaignInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "DataSet": [
+    {
+      "$type": "LOTR.SharedData.Quests.CampaignInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Id": "051133",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "MapPosX": 0.0,
+      "MapPosY": -14.0,
+      "Quests": [
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "051133Quest01",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": "051133Quest01VictoryVoice",
+          "DefeatVoice": "051133Quest01DefeatVoice",
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location101",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": "mus_dungeon"
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "051133Quest02",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location201",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "051133Quest03",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location301",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "051133Quest04",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location401",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "051133Quest05",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location501",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "LOTR.SharedData.Quests.CampaignInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Id": "200320",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "MapPosX": -10.0,
+      "MapPosY": -16.0,
+      "Quests": [
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "200320Quest01",
+          "IconSprite": "/CampaignEditor/Icons/200320Quest01icon",
+          "ArtSprite": "/CampaignEditor/BGs/200320Quest01",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location101",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": null,
+              "NextStageId": null,
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "200320Quest02",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location201",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": null,
+              "NextStageId": null,
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "200320Quest03",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location301",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": null,
+              "NextStageId": null,
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "200320Quest04",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location401",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": null,
+              "NextStageId": null,
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "200320Quest05",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location501",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": null,
+              "NextStageId": null,
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "LOTR.SharedData.Quests.CampaignInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Id": "271100",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "MapPosX": 0.0,
+      "MapPosY": -16.0,
+      "Quests": [
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "271100Quest01",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": "271100Quest01",
+          "DefeatVoice": "Q1_Defeat",
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location101",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "AmbushOnTheShore"
+              ],
+              "NextStageId": null,
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "271100Quest02",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location201",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "EscapeTheForest"
+              ],
+              "NextStageId": null,
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "271100Quest03",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location301",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "MarshAdder"
+              ],
+              "NextStageId": null,
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "271100Quest04",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location401",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "SpiderQueen"
+              ],
+              "NextStageId": null,
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "271100Quest05",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location501",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "VeteranPatrol"
+              ],
+              "NextStageId": null,
+              "BGM": null
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Qurest5Stage2",
+              "SceneName": null,
+              "IntroVoice": "",
+              "IntroSprite": "",
+              "SoloGameSetup": [
+                "UngoliantsSpawn"
+              ],
+              "NextStageId": null,
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "LOTR.SharedData.Quests.CampaignInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Id": "AdventuresInWilderland",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "MapPosX": 3.8,
+      "MapPosY": -8.0,
+      "Quests": [
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "PassageThroughMirkwood",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": "Q1_Victory",
+          "DefeatVoice": "Q1_Defeat",
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ForestGate",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "Q1L1_ForestGate",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "HiddenPath",
+                "DolGuldurOrcs",
+                "EastBightPatrol",
+                "EliteDolGuldurOrcs",
+                "BlockedPath"
+              ],
+              "NextStageId": "CapturedBySpiders",
+              "BGM": "mus_theWilderlands"
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "CapturedBySpiders",
+              "SceneName": "Q01_L02_CapturedBySpiders",
+              "IntroVoice": "Q1L2_CapturedBySpiders",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage02",
+              "SoloGameSetup": [
+                "ForestFlies",
+                "KingSpider",
+                "KingSpider"
+              ],
+              "NextStageId": "StandAndFight,TurnAndFlee",
+              "BGM": "mus_dungeon"
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "StandAndFight",
+              "SceneName": "Q01_L03a_StandAndFight",
+              "IntroVoice": "Q1L3A_StandAndFight",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage03A",
+              "SoloGameSetup": [
+                "WatchfulScout",
+                "OrcHound",
+                "OrcHound",
+                "EliteDolGuldurOrcs"
+              ],
+              "NextStageId": "TheEnchantedStream",
+              "BGM": "mus_theWilderlands"
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "TurnAndFlee",
+              "SceneName": "Q01_L03b_TurnAndFlee",
+              "IntroVoice": "Q1L3B_TurnAndFlee",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage03B",
+              "SoloGameSetup": [
+                "FindThePath",
+                "KingSpider",
+                "KingSpider",
+                "SpidersOfMirkwood"
+              ],
+              "NextStageId": "TheEnchantedStream",
+              "BGM": "mus_mirkwood"
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "TheEnchantedStream",
+              "SceneName": "Q01_L04_TheEnchantedStream",
+              "IntroVoice": "Q1L4_TheEnchantedStream",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage04",
+              "SoloGameSetup": [
+                "Kingsfoil",
+                "UngoliantsSpawn"
+              ],
+              "NextStageId": "",
+              "BGM": "mus_saurontheme"
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 5
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "FliesAndSpiders",
+          "IconSprite": "Sprites/Quest/icon_q2",
+          "ArtSprite": "Sprites/Quest/quest_2",
+          "VictoryVoice": "Q2_Victory",
+          "DefeatVoice": "Q1_Defeat",
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DarkForest",
+              "SceneName": "Q02_L01_DarkForest",
+              "IntroVoice": "Q2L1_DarkForest",
+              "IntroSprite": "Sprites/Locations/Quest2_Stage01",
+              "SoloGameSetup": [
+                "FindYourFriends"
+              ],
+              "NextStageId": "TheSpidersLair",
+              "BGM": "mus_mirkwood"
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "TheSpidersLair",
+              "SceneName": "Q02_L02_TheSpidersLair",
+              "IntroVoice": "Q2L2_SpidersLair",
+              "IntroSprite": "Sprites/Locations/Quest2_Stage02",
+              "SoloGameSetup": [
+                "RescueYourFriends",
+                "HiveGuardian",
+                "HatchlingSpider"
+              ],
+              "NextStageId": "TheSpidersWebs",
+              "BGM": "mus_dungeon"
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "TheSpidersWebs",
+              "SceneName": "Q02_L03_TheSpidersWebs",
+              "IntroVoice": "Q2L3_SpidersWebs",
+              "IntroSprite": "Sprites/Locations/Quest2_Stage03",
+              "SoloGameSetup": [
+                "EscapeTheSpidersLair",
+                "SpidersOfMirkwood"
+              ],
+              "NextStageId": "ForestGlade",
+              "BGM": "mus_dungeon"
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ForestGlade",
+              "SceneName": "Q02_L04_ForestGlade",
+              "IntroVoice": "Q2L4_ForestGlade",
+              "IntroSprite": "Sprites/Locations/Quest2_Stage04",
+              "SoloGameSetup": [
+                "SpiderQueen",
+                "GiantSpider"
+              ],
+              "NextStageId": "",
+              "BGM": "mus_saurontheme"
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 5
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "LostInMirkwood",
+          "IconSprite": "Sprites/Quest/icon_q3",
+          "ArtSprite": "Sprites/Quest/quest_3",
+          "VictoryVoice": "Q3_Victory",
+          "DefeatVoice": "Q1_Defeat",
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodForest",
+              "SceneName": "Q03_L01_MirkwoodForest",
+              "IntroVoice": "Q3L1_MirkwoodForest",
+              "IntroSprite": "Sprites/Locations/Quest3_Stage01",
+              "SoloGameSetup": [
+                "FollowTheStream",
+                "ClimbTheHill",
+                "BlackForestBats",
+                "GiantSpider",
+                "WildBear"
+              ],
+              "NextStageId": "ForestStream",
+              "BGM": "mus_mirkwood"
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ForestStream",
+              "SceneName": "Q03_L02a_ForestStream",
+              "IntroVoice": "Q3L2-3_Various",
+              "IntroSprite": "Sprites/Locations/Quest3_Stage02A",
+              "SoloGameSetup": [
+                "ContinueDownstream",
+                "SearchForAPath",
+                "WildBear",
+                "MuckAdder",
+                "PackOfWargs"
+              ],
+              "NextStageId": "BareHilltop",
+              "BGM": "mus_mirkwood"
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BareHilltop",
+              "SceneName": "Q03_L02b_BareHilltop",
+              "IntroVoice": "Q3L2-3_Various",
+              "IntroSprite": "Sprites/Locations/Quest3_Stage02B",
+              "SoloGameSetup": [
+                "InvestigateSmoke",
+                "SearchForAPath",
+                "WargRiders",
+                "Wargs"
+              ],
+              "NextStageId": "MirkwoodSwamp",
+              "BGM": "mus_mirkwood"
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodSwamp",
+              "SceneName": "Q03_L03a_MirkwoodSwamp",
+              "IntroVoice": "Q3L2-3_Various",
+              "IntroSprite": "Sprites/Locations/Quest3_Stage03A",
+              "SoloGameSetup": [
+                "MarshAdder",
+                "ForestFlies",
+                "MuckAdder"
+              ],
+              "NextStageId": "OvergrownTrail",
+              "BGM": "mus_mirkwood"
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "OvergrownTrail",
+              "SceneName": "Q03_L03b_OvergrownTrail",
+              "IntroVoice": "Q3L2-3_Various",
+              "IntroSprite": "Sprites/Locations/Quest3_Stage03B",
+              "SoloGameSetup": [
+                "EscapeTheForest",
+                "WildBear",
+                "ForestFlies",
+                "KingSpider"
+              ],
+              "NextStageId": "AbandonedVillage",
+              "BGM": "mus_mirkwood"
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "AbandonedVillage",
+              "SceneName": "Q03_L03c_AbandonedVillage",
+              "IntroVoice": "Q3L3_AbandonedVillage",
+              "IntroSprite": "Sprites/Locations/Quest3_Stage03C",
+              "SoloGameSetup": [
+                "EliteDolGuldurOrcs",
+                "OrcMarauder",
+                "VeteranPatrol",
+                "EastBightPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": "mus_saurontheme"
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 5
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "JourneyDownTheAnduin",
+          "IconSprite": "Sprites/Quest/icon_q4",
+          "ArtSprite": "Sprites/Quest/quest_4",
+          "VictoryVoice": "Q4_Victory",
+          "DefeatVoice": "Q4_Defeat",
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ToTheRiver",
+              "SceneName": "Q04_L01_ToTheRiver",
+              "IntroVoice": "Q4L1_ToTheRiver",
+              "IntroSprite": "Sprites/Locations/Quest4_Stage01",
+              "SoloGameSetup": [
+                "FindTheRaft",
+                "DolGuldurOrcs",
+                "HillTroll"
+              ],
+              "NextStageId": "AnduinPassage",
+              "BGM": "mus_mirkwood"
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "AnduinPassage",
+              "SceneName": "Q04_L02_AnduinPassage",
+              "IntroVoice": "Q4L2_AnduinPassage",
+              "IntroSprite": "Sprites/Locations/Quest4_Stage02",
+              "SoloGameSetup": [
+                "NavigateTheRiver",
+                "GoblinSniper",
+                "WargRiders"
+              ],
+              "NextStageId": "AmbushOnTheShore",
+              "BGM": "mus_mirkwood"
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "AmbushOnTheShore",
+              "SceneName": "Q04_L03_AmbushOnTheShore",
+              "IntroVoice": "Q4L3_AmbushOnTheShore",
+              "IntroSprite": "Sprites/Locations/Quest4_Stage03",
+              "SoloGameSetup": [
+                "AmbushOnTheShore",
+                "OrcMarauder",
+                "Wargs",
+                "EliteDolGuldurOrcs"
+              ],
+              "NextStageId": "",
+              "BGM": "mus_saurontheme"
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 5
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "ConflictAtTheCarrock",
+          "IconSprite": "Sprites/Quest/icon_q5",
+          "ArtSprite": "Sprites/Quest/quest_5",
+          "VictoryVoice": "Q5_Victory",
+          "DefeatVoice": "Q5_Defeat",
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "SearchingForGrimbeorn",
+              "SceneName": "Q05_L01_SearchingForGrimbeorn",
+              "IntroVoice": "Q5L1_SearchingForGrimbeorn",
+              "IntroSprite": "Sprites/Locations/Quest5_Stage01",
+              "SoloGameSetup": [
+                "FollowGrimbeornsTrail",
+                "WildBear",
+                "MirkwoodFlock",
+                "Wargs"
+              ],
+              "NextStageId": "TheTrollsDinner",
+              "BGM": "mus_theWilderlands"
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "TheTrollsDinner",
+              "SceneName": "Q05_L02_TheTrollsDinner",
+              "IntroVoice": "Q5L2_TheTrollsDinner",
+              "IntroSprite": "Sprites/Locations/Quest5_Stage02",
+              "SoloGameSetup": [
+                "RescueGrimbeorn",
+                "HillTroll",
+                "AnduinTrollSpawn",
+                "BlackForestBats"
+              ],
+              "NextStageId": "FightWithTheTrolls",
+              "BGM": "mus_theWilderlands"
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "FightWithTheTrolls",
+              "SceneName": "Q05_L03_FightWithTheTrolls",
+              "IntroVoice": "Q5L3_FightWithTheTrolls",
+              "IntroSprite": "Sprites/Locations/Quest5_Stage03",
+              "SoloGameSetup": [
+                "Louis",
+                "Stuart",
+                "Rupert"
+              ],
+              "NextStageId": "",
+              "BGM": "mus_saurontheme"
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "LOTR.SharedData.Quests.CampaignInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Id": "PlayGround",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "MapPosX": 0.0,
+      "MapPosY": -16.0,
+      "Quests": [
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "PlayGroundQuest01",
+          "IconSprite": "/CampaignEditor/Icons/PlayGroundQuest01icon",
+          "ArtSprite": "/CampaignEditor/BGs/PlayGroundQuest01",
+          "VictoryVoice": "Q1_Victory",
+          "DefeatVoice": "Q1_Defeat",
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "TheOathStage1",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "Q1L1_ForestGate",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "AmbushOnTheShore",
+                "CaughtInAWeb"
+              ],
+              "NextStageId": "",
+              "BGM": "mus_mirkwood"
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "",
+              "SceneName": null,
+              "IntroVoice": null,
+              "IntroSprite": null,
+              "SoloGameSetup": null,
+              "NextStageId": null,
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 5
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "PlayGroundQuest02",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": "Q1_Victory",
+          "DefeatVoice": "Q1_Defeat",
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location201",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "EscapeTheForest"
+              ],
+              "NextStageId": "",
+              "BGM": "mus_mirkwood"
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 5
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "PlayGroundQuest03",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": "Q1_Victory",
+          "DefeatVoice": "Q1_Defeat",
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location301",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "MarshAdder"
+              ],
+              "NextStageId": "",
+              "BGM": "mus_mirkwood"
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 5
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "PlayGroundQuest04",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": "Q1_Victory",
+          "DefeatVoice": "Q1_Defeat",
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location401",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "SpiderQueen"
+              ],
+              "NextStageId": "",
+              "BGM": "mus_mirkwood"
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 5
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "PlayGroundQuest05",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": "Q1_Victory",
+          "DefeatVoice": "Q1_Defeat",
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location501",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "UngoliantsSpawn"
+              ],
+              "NextStageId": "",
+              "BGM": "mus_mirkwood"
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "LOTR.SharedData.Quests.CampaignInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Id": "test",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "MapPosX": 4.0,
+      "MapPosY": -15.0,
+      "Quests": [
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "testQuest01",
+          "IconSprite": "testQuest01QuestIcon",
+          "ArtSprite": "testQuest01QuestArt",
+          "VictoryVoice": "testQuest01VictoryVoice",
+          "DefeatVoice": "testQuest01DefeatVoice",
+          "ResolutionArtSprite": "testQuest01QuestResolution",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location101",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "testQuest02",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location201",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "testQuest03",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location301",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "testQuest04",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location401",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "testQuest05",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location501",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": "FFG_LotR_MainMenuTheme_v5.7_(B)_(Loop)"
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "LOTR.SharedData.Quests.CampaignInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Id": "TESTspeeples",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "MapPosX": 0.0,
+      "MapPosY": 0.0,
+      "Quests": [
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "TESTspeeplesQuest01",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location101",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "TESTspeeplesQuest02",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location201",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "TESTspeeplesQuest03",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location301",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "TESTspeeplesQuest04",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location401",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "TESTspeeplesQuest05",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location501",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "LOTR.SharedData.Quests.CampaignInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Id": "Test_FFI",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "MapPosX": -12.0,
+      "MapPosY": -17.0,
+      "Quests": [
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "Test_FFI",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": "Victory",
+          "DefeatVoice": "Defeat",
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location101",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "location102",
+              "BGM": null
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "",
+              "SceneName": null,
+              "IntroVoice": null,
+              "IntroSprite": null,
+              "SoloGameSetup": null,
+              "NextStageId": null,
+              "BGM": null
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location101",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "location102",
+              "BGM": null
+            }
+          ],
+          "SauronDeck": []
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "Test_FFIQuest02",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location201",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "Test_FFIQuest03",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location301",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "Test_FFIQuest04",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location401",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        },
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "Test_FFIQuest05",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Location501",
+              "SceneName": "Forest2",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "LOTR.SharedData.Quests.CampaignInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Id": "Tutorial",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "MapPosX": -76.0,
+      "MapPosY": -95.0,
+      "Quests": [
+        {
+          "$type": "LOTR.SharedData.Quests.QuestInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "Tutorial",
+          "IconSprite": "Sprites/Quest/icon_q2",
+          "ArtSprite": "Sprites/Quest/quest_2",
+          "VictoryVoice": "",
+          "DefeatVoice": "",
+          "ResolutionArtSprite": null,
+          "Stages": [
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tutorial_Stage_01",
+              "SceneName": "Q01_L04_TheEnchantedStream",
+              "IntroVoice": "",
+              "IntroSprite": "Sprites/Locations/Quest3_Stage01",
+              "SoloGameSetup": null,
+              "NextStageId": "Tutorial_Stage_02",
+              "BGM": null
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.StageInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tutorial_Stage_02",
+              "SceneName": "Q01_L04_TheEnchantedStream",
+              "IntroVoice": "",
+              "IntroSprite": "Sprites/Locations/Quest3_Stage03B",
+              "SoloGameSetup": null,
+              "NextStageId": "",
+              "BGM": null
+            }
+          ],
+          "SauronDeck": null
+        }
+      ]
+    }
+  ],
+  "Version": "1.0",
+  "Key": "CampaignInfo",
+  "SubKey": null,
+  "RequiredClientVersion": "1.0",
+  "InternalKey": "CampaignInfo_1.0"
+}
