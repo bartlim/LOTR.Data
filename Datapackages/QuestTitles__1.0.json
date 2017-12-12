@@ -1,15 +1,20 @@
 {
   "$type": "LOTR.SharedData.Package.DataPackage`1[[System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
   "DataSet": [
+    "ConflictAtTheCarrock",
+    "FliesAndSpiders",
+    "JourneyDownTheAnduin",
+    "LostInMirkwood",
+    "PassageThroughMirkwood",
     "testQuest01",
     "testQuest02",
     "testQuest03",
     "testQuest04",
     "testQuest05"
   ],
-  "Version": "1.0",
+  "Version": "20171212091703032",
   "Key": "QuestTitles",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "QuestTitles_1.0"
+  "InternalKey": "QuestTitles_20171212091703032"
 }
