@@ -10,10 +10,18 @@
     "Willpower": 0,
     "Health": 0,
     "Trait": "",
-    "Rarity": 0,
+    "Rarity": 1,
     "Sphere": 0,
     "SphereLevel": 1,
-    "Revision": "test"
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": null,
+    "ArtistName": null
   },
   "Localization": {
     "Title": "The Tree People",
