@@ -4,7 +4,7 @@
     "Owner": "Player",
     "CardType": 5,
     "ShopType": "Pack_04",
-    "Cost": 10,
+    "Cost": 9,
     "QuestPoints": 0,
     "Attack": 2,
     "Willpower": 1,
@@ -13,7 +13,15 @@
     "Rarity": 0,
     "Sphere": 4,
     "SphereLevel": 0,
-    "Revision": "test"
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": null,
+    "ArtistName": null
   },
   "Localization": {
     "Title": "Legolas",
