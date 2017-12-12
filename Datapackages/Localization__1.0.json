@@ -479,7 +479,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "AmbushOnTheShore",
       "Title": "Ambush On The Shore",
-      "Text": "Players cannot attack this objective while an enemy is in play.\u000bUpkeep: Sauron gains 1 resource per player. Defeat this objective to win the game."
+      "Text": "Guarded. Upkeep: Sauron gains 1 Resource per player."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -767,7 +767,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "LostInTheWilderness",
       "Title": "Lost In The Wilderness",
-      "Text": "Capture 2 random cards from each player’s hand. \u000b(Note: This puts the Find Your Bearings objective into play, which allows players to get their cards back.)"
+      "Text": "Capture 2 random cards from each player's hand."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -1058,9 +1058,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20171211230014088",
+  "Version": "20171212064631755",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20171211230014088"
+  "InternalKey": "Localization_20171212064631755"
 }
