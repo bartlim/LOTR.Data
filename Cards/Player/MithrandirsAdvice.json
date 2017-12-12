@@ -9,11 +9,19 @@
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": null,
+    "Trait": "",
     "Rarity": 0,
     "Sphere": 1,
     "SphereLevel": 1,
-    "Revision": ""
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "",
+    "ArtistName": null
   },
   "Localization": {
     "Title": "Mithrandir's Advice",
