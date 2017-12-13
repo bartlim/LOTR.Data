@@ -521,19 +521,19 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Cocoon",
       "Title": "Cocoon",
-      "Text": "Save your trapped comrade."
+      "Text": "Resolve: Rescue your trapped comrade."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "ContinueDownstream",
       "Title": "Continue Downstream",
-      "Text": "Immediately travel to Mirkwood Swamp."
+      "Text": "Travel immediately to Mirkwood Swamp."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "CreatureOfDarkness",
       "Title": "Creature of Darkness",
-      "Text": "End of round: increase Threat by 1."
+      "Text": "Attach to an Enemy Character. The Character gains Threatening."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -1052,9 +1052,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20171213170657406",
+  "Version": "20171213171233820",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20171213170657406"
+  "InternalKey": "Localization_20171213171233820"
 }
