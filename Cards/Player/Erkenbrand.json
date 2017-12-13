@@ -13,7 +13,15 @@
     "Rarity": 1,
     "Sphere": 0,
     "SphereLevel": 1,
-    "Revision": ""
+    "Revision": "test",
+    "PlayVFX": "Effect_HeroCardLight 1",
+    "PlaySFX": "ally_ent_both01_e",
+    "AttackVFX": "Effect_Attack_Swore",
+    "AttackSFX": "event_attack_sword_e",
+    "DeathVFX": "Effect_Death3",
+    "DeathSFX": "die_both_e",
+    "FlavorText": null,
+    "ArtistName": null
   },
   "Localization": {
     "Title": "Erkenbrand",
