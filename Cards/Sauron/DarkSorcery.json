@@ -9,14 +9,14 @@
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": null,
+    "Trait": "",
     "Rarity": 0,
-    "Sphere": 0,
+    "Sphere": 2,
     "SphereLevel": 0,
-    "Revision": ""
+    "Revision": "test"
   },
   "Localization": {
     "Title": "Dark Sorcery",
-    "Text": "Preparation: Cancel the next event played."
+    "Text": "Preparation: Cancel the next player Event played."
   }
 }
