@@ -13,7 +13,15 @@
     "Rarity": 0,
     "Sphere": 0,
     "SphereLevel": 1,
-    "Revision": "test"
+    "Revision": "test",
+    "PlayVFX": "Effect_HeroCardLight 1",
+    "PlaySFX": "ally_ent_both01_e",
+    "AttackVFX": "Effect_Attack_AXE",
+    "AttackSFX": "event_attack_axe_e",
+    "DeathVFX": "Effect_Death3",
+    "DeathSFX": "die_both_e",
+    "FlavorText": null,
+    "ArtistName": null
   },
   "Localization": {
     "Title": "Zigil Miner",
