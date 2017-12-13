@@ -11,17 +11,9 @@
     "Health": 4,
     "Trait": "Spider",
     "Rarity": 0,
-    "Sphere": 0,
+    "Sphere": 2,
     "SphereLevel": 0,
-    "Revision": "test",
-    "PlayVFX": "Effect_EnemyCardLight02",
-    "PlaySFX": "enemy_cardlight_spider_e",
-    "AttackVFX": "Effect_Attack_Swore",
-    "AttackSFX": "event_attack_sword_e",
-    "DeathVFX": "Effect_Death3",
-    "DeathSFX": "die_both_e",
-    "FlavorText": null,
-    "ArtistName": null
+    "Revision": "test"
   },
   "Localization": {
     "Title": "Spiders of Mirkwood",
