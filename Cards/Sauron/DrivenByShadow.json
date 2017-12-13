@@ -11,12 +11,12 @@
     "Health": 0,
     "Trait": "Shadow",
     "Rarity": 0,
-    "Sphere": 0,
+    "Sphere": 2,
     "SphereLevel": 0,
     "Revision": "test"
   },
   "Localization": {
     "Title": "Driven By Shadow",
-    "Text": "Attached enemy gets +2 ATK."
+    "Text": "Attach (Enemy). Attached Character gains +2 Attack."
   }
 }

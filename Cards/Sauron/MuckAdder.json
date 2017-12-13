@@ -9,14 +9,14 @@
     "Attack": 2,
     "Willpower": 0,
     "Health": 2,
-    "Trait": "",
+    "Trait": "Creature",
     "Rarity": 0,
-    "Sphere": 0,
+    "Sphere": 2,
     "SphereLevel": 0,
     "Revision": "test"
   },
   "Localization": {
     "Title": "Muck Adder",
-    "Text": "Quick. Muck Adder attacks the character with the fewest remaining hit points."
+    "Text": "Quick. Muck Adder attacks the Character with the lowest current Health."
   }
 }
