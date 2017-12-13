@@ -10,7 +10,71 @@
         {
           "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
           "Id": "BlackForestBats",
-          "Quantity": 5,
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "DolGuldurOrcs",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "EastBightPatrol",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "Enfeebled",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "DrivenByShadow",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "GoblinSniper",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "MirkwoodPatrol",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "ThickWebs",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "Tribulation",
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -223,9 +287,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20171212104246823",
+  "Version": "20171213015148255",
   "Key": "MainQuest",
   "SubKey": "FliesAndSpiders",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_FliesAndSpiders_20171212104246823"
+  "InternalKey": "MainQuest_FliesAndSpiders_20171213015148255"
 }
