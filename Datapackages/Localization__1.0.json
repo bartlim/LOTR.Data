@@ -467,25 +467,25 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "AccursedForest",
       "Title": "Accursed Forest",
-      "Text": "Upkeep: Discard the top 3 cards of each player’s deck."
+      "Text": "Upkeep: Discard the top 3 cards from each player’s deck."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "AmbushOnTheShore",
-      "Title": "Ambush On The Shore",
+      "Title": "Ambush on the Shore",
       "Text": "Guarded. Upkeep: Sauron gains 1 Resource per player."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "AnduinTrollSpawn",
       "Title": "Anduin Troll Spawn",
-      "Text": "Block 1."
+      "Text": "Block."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "BlackBlood",
       "Title": "Black Blood",
-      "Text": "Heal 2 damage from each Troll enemy."
+      "Text": "Heal 2 damage from each Troll Enemy."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -497,7 +497,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "BlockedPath",
       "Title": "Blocked Path",
-      "Text": "No progress on other objectives is possible"
+      "Text": "Progress on other Objectives is not possible."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -509,7 +509,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "ChieftainUfthak",
       "Title": "Chieftain Ufthak",
-      "Text": "Unique. Pursuit. End of turn: Add 1 Dol Goldur Orcs."
+      "Text": "Pursuit. End of round: Add 1 Dol Goldur Orcs at no cost."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -1052,9 +1052,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20171213115543737",
+  "Version": "20171213170144000",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20171213115543737"
+  "InternalKey": "Localization_20171213170144000"
 }
