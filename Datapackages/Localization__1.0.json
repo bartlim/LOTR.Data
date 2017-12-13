@@ -149,7 +149,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "FavorOfTheLady",
       "Title": "Favor of the Lady",
-      "Text": "Attach to a Character. Attached Character gets +1 Willpower."
+      "Text": "Attach: Gain +1 Willpower."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -353,7 +353,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "RoundShield",
       "Title": "Round Shield",
-      "Text": "Attach to a Character. Attached Character gains Block."
+      "Text": "Attach: Gain Block."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -449,7 +449,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "WarriorSword",
       "Title": "Warrior Sword",
-      "Text": "Attach to a Character. Attached Character gains +1 Attack."
+      "Text": "Attach: Gain +1 Attack."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -1064,9 +1064,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20171213210748582",
+  "Version": "20171213213154732",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20171213210748582"
+  "InternalKey": "Localization_20171213213154732"
 }
