@@ -118,7 +118,7 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Eowyn",
-      "Title": "?owyn",
+      "Title": "Eowyn",
       "Text": "Response: The first time a character is destroyed each round, Eowyn gains +2 Willpower until the end of the round."
     },
     {
@@ -1052,9 +1052,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20171213112814775",
+  "Version": "20171213115543737",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20171213112814775"
+  "InternalKey": "Localization_20171213115543737"
 }
