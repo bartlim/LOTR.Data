@@ -9,11 +9,19 @@
     "Attack": 2,
     "Willpower": 0,
     "Health": 9,
-    "Trait": "Troll",
+    "Trait": "",
     "Rarity": 0,
-    "Sphere": 2,
+    "Sphere": 0,
     "SphereLevel": 0,
-    "Revision": "test"
+    "Revision": "test",
+    "PlayVFX": "Effect_EnemyCardLight",
+    "PlaySFX": "enemy_cardlight_both_e",
+    "AttackVFX": "Effect_Attack_AXE",
+    "AttackSFX": "event_attack_axe_e",
+    "DeathVFX": "Effect_Death3",
+    "DeathSFX": "die_both_e",
+    "FlavorText": null,
+    "ArtistName": null
   },
   "Localization": {
     "Title": "Morris",
