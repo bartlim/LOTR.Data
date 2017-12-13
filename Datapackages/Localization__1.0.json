@@ -5,13 +5,13 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "AdvanceWarning",
       "Title": "Advance Warning",
-      "Text": "Preparation: Exhaust the next enemy that enter's play."
+      "Text": "Preparation: Exhaust the next Enemy that Sauron plays."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "AgainstTheShadow",
       "Title": "Against the Shadow",
-      "Text": "Action: Reduce your threat by 1 for each exhausted enemy."
+      "Text": "Power: Reduce your Threat by 1 for each Enemy in play."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -23,7 +23,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Aragorn",
       "Title": "Aragorn",
-      "Text": "Super Power: Spend 1 resource to ready Aragorn."
+      "Text": "Power: Spend 1 resource to ready Aragorn."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -35,7 +35,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "AWatchfulPeace",
       "Title": "A Watchful Peace",
-      "Text": "Action: Reduce a player's threat by 3"
+      "Text": "Power: Reduce a player's Threat by 3."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -59,7 +59,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "BillThePony",
       "Title": "Bill the Pony",
-      "Text": "While you control Sam Gamgee, Bill the Pony is cost -2. Upkeep: Gain 1 resource."
+      "Text": "While you control Sam Gamgee, Bill the Pony has -2 cost. Upkeep: Gain 1 Resource."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -77,7 +77,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "BowOfTheGaladhrim",
       "Title": "Bow of the Galadhrim",
-      "Text": "Attach to a Ranged character. Attached character gets +1 ATK and gains Quick."
+      "Text": "Attach to a Ranged character. Attached character gains +1 Attack and Quick."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -118,8 +118,8 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Eowyn",
-      "Title": "Eowyn",
-      "Text": "Response: The first time a character is destroyed each round, Eowyn gets +2 WP until the end fo the round."
+      "Title": "Éowyn",
+      "Text": "Response: The first time a character is destroyed each round, Eowyn gains +2 Willpower until the end of the round."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -131,7 +131,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "EscortFromEdoras",
       "Title": "Escort from Edoras",
-      "Text": "Moribund: Ready a chracter you control."
+      "Text": "Moribund: Ready a Character that you control."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -143,19 +143,19 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Faramir",
       "Title": "Faramir",
-      "Text": "Ranged. Vanquish: Draw 1 card. (Vanquish triggers after this character defeates an enemy or objective.)"
+      "Text": "Ranged. Vanquish: Draw 1 card."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "FavorOfTheLady",
       "Title": "Favor of the Lady",
-      "Text": "Attached character gets +1 WP."
+      "Text": "Attach to a Character. Attached Character gets +1 Willpower."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Feint",
       "Title": "Feint",
-      "Text": "Power: Reduce a non-unique enemy's ATK to 0 until the end of the phase."
+      "Text": "Power: Reduce a non-unique Enemy to 0 Attack until the end of the phase."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -173,19 +173,19 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Frodo",
       "Title": "Frodo",
-      "Text": "Stealth. While Sauron has 0 resources, Frodo gets +2 WP."
+      "Text": "Stealth. While Sauron has 0 resources, Frodo gets +2 Willpower."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "GainingStrength",
       "Title": "Gaining Strength",
-      "Text": "Action: Gain 1 resource."
+      "Text": "Power: Gain 1 resource."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "GaladhonArcher",
       "Title": "Galadhon Archer",
-      "Text": "Ranged. Arrival: Deal 1 damage to an enemy."
+      "Text": "Ranged. Arrival: Deal 1 damage to an Enemy."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -197,7 +197,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Gandalf",
       "Title": "Gandalf",
-      "Text": "Fleeting. Arrival: Choose one: Draw 3 cards, reduce your threat by 3, or deal 3 damage to an enemy."
+      "Text": "Fleeting. Arrival: Choose one: Draw 3 cards, reduce your Threat by 3, or deal 3 damage to an Enemy."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -215,13 +215,13 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Gimli",
       "Title": "Gimli",
-      "Text": "Stalwart. Response: The first time Gimli takes damage each round, he gets +2 ATK until the end of the round."
+      "Text": "Stalwart. Response: After Gimli takes damage, he gains +2 Attack until the end of the round."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "GondorianShield",
       "Title": "Gondorian Shield",
-      "Text": "Attach to a Gondor character. Attached character gets +2 hit points and Block 1."
+      "Text": "Attach to a Gondor character. Attached character gets +2 Health and Block."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -251,7 +251,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "HobbitCloak",
       "Title": "Hobbit Cloak",
-      "Text": "Attach to a Hobbit. Upkeep: Sauron loses 1 resouce."
+      "Text": "Attach to a Hobbit Hero. Upkeep: Sauron loses 1 Resource."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -263,7 +263,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "ImladrisCaregiver",
       "Title": "Imladris Caregiver",
-      "Text": "Arrival: Heal 2 damage from a character."
+      "Text": "Arrival: Heal 2 damage from a Character."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -287,7 +287,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Legolas",
       "Title": "Legolas",
-      "Text": "Ranged. Upkeep: Deal 1 damage to an enemy."
+      "Text": "Ranged. Upkeep: Deal 1 damage to an Enemy."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -305,7 +305,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "MithrandirsAdvice",
       "Title": "Mithrandir's Advice",
-      "Text": "Action: Draw 2 cards."
+      "Text": "Power: Draw 2 cards."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -335,7 +335,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "RangerSpear",
       "Title": "Ranger Spear",
-      "Text": "Attached character gets +1 ATK. Response: When attached character is attacked, deal 1 damage to attacking enemy."
+      "Text": "Attach to a Character. Attached Character gains +1 Attack. Response: When attached Character is attacked, deal 1 damage to attacking Enemy."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -347,25 +347,25 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "RoundShield",
       "Title": "Round Shield",
-      "Text": "Attached character gains Block 1."
+      "Text": "Attach to a Character. Attached Character gains Block."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "SamGamgee",
       "Title": "Sam Gamgee",
-      "Text": "Stalwart. While Sauron has 0 resources, Sam Gamgee gets +1 WP and +1 ATK, and Vigilant."
+      "Text": "Stalwart. While Sauron has 0 resources, Sam Gamgee gets +1 Attack, +1 Willpower, and Vigilant."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "SecretPaths",
       "Title": "Secret Paths",
-      "Text": "Action: Place 2 progress on an objective."
+      "Text": "Power: Apply 2 progress on an Objective."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "SelfPreservation",
       "Title": "Self Preservation",
-      "Text": "Attach to a character. Upkeep: Heal 1 damage from attached character."
+      "Text": "Attach to a Character. Upkeep: Heal 1 damage from attached Character."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -383,7 +383,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "SneakAttack",
       "Title": "Sneak Attack",
-      "Text": "Action: Put a random ally into play under your control. That ally gains Fleeting."
+      "Text": "Power: Put a random Ally into play under your control. That Ally gains Fleeting."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -395,19 +395,19 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "SternerThanSteel",
       "Title": "Sterner than Steel",
-      "Text": "Preparation: When a character is attacked, give that chracter Protect."
+      "Text": "Preparation: When a Character is attacked, that Character gains Protect."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "TasteItAgain",
       "Title": "Taste it Again!",
-      "Text": "Preparation: When an enemy attacks, deal damage to it equal to the targe character's ATK. (This damage is dealt before the enemy attack resolves.)"
+      "Text": "Preparation: When an Enemy attacks, it takes damage equal to the target Character's Attack value. This damage is dealt before the Enemy's attack resolves."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "TheTreePeople",
       "Title": "The Tree People",
-      "Text": "Action: Return a Silvan ally to hand to summon a random Silvan ally."
+      "Text": "Power: Return a Silvan Ally to the player's hand to put a random Silvan Ally into play."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -431,7 +431,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "WanderingTook",
       "Title": "Wandering Took",
-      "Text": null
+      "Text": ""
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -455,13 +455,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "WoodlandCourier",
       "Title": "Woodland Courier",
-      "Text": "Arrival. Place 1 progress on an objective."
-    },
-    {
-      "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "CardId": "WoodlandCourrier",
-      "Title": "Woodland Courier",
-      "Text": "Arrival. Place 1 progress on an objective."
+      "Text": "Arrival: Apply 1 progress to an Objective."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -1058,9 +1052,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20171212104349374",
+  "Version": "20171213015230948",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20171212104349374"
+  "InternalKey": "Localization_20171213015230948"
 }
