@@ -509,13 +509,13 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "ChieftainUfthak",
       "Title": "Chieftain Ufthak",
-      "Text": "Pursuit. End of round: Add 1 Dol Goldur Orcs at no cost."
+      "Text": "Unique. Pursuit. End of round: Add 1 Dol Goldur Orcs at 0 cost."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "ClimbTheHill",
       "Title": "Climb the Hill",
-      "Text": "Immediately travel to Bare Hilltop."
+      "Text": "Resolve: Travel immediately to Bare Hilltop."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -1052,9 +1052,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20171213170144000",
+  "Version": "20171213170657406",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20171213170144000"
+  "InternalKey": "Localization_20171213170657406"
 }
