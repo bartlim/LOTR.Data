@@ -35,7 +35,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "AWatchfulPeace",
       "Title": "A Watchful Peace",
-      "Text": "Power: Reduce a player's Threat by 3."
+      "Text": "Reduce a player's Threat by 3."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -155,7 +155,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Feint",
       "Title": "Feint",
-      "Text": "Power: Reduce a non-unique Enemy to 0 Attack until the end of the phase."
+      "Text": "Reduce a non-unique Enemy to 0 Attack until the end of the phase."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -179,7 +179,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "GainingStrength",
       "Title": "Gaining Strength",
-      "Text": "Power: Gain 1 resource."
+      "Text": "Gain 1 Resource."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -197,7 +197,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Gandalf",
       "Title": "Gandalf",
-      "Text": "Fleeting. Arrival: Choose one: Draw 3 cards, reduce your Threat by 3, or deal 3 damage to an Enemy."
+      "Text": "Fleeting. Arrival: Choose: Draw 3 cards, reduce your Threat by 3, or deal 3 damage to an Enemy."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -311,7 +311,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "MithrandirsAdvice",
       "Title": "Mithrandir's Advice",
-      "Text": "Power: Draw 2 cards."
+      "Text": "Draw 2 cards."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -365,7 +365,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "SecretPaths",
       "Title": "Secret Paths",
-      "Text": "Power: Apply 2 progress on an Objective."
+      "Text": "Apply 2 progress on an Objective."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -389,7 +389,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "SneakAttack",
       "Title": "Sneak Attack",
-      "Text": "Power: Put a random Ally into play under your control. That Ally gains Fleeting."
+      "Text": "Put a random Ally into play under your control. That Ally gains Fleeting."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -1064,9 +1064,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20171213213154732",
+  "Version": "20171213213831648",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20171213213154732"
+  "InternalKey": "Localization_20171213213831648"
 }
