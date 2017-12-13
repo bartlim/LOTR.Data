@@ -9,19 +9,11 @@
     "Attack": 2,
     "Willpower": 0,
     "Health": 4,
-    "Trait": "",
+    "Trait": "Orc",
     "Rarity": 0,
-    "Sphere": 0,
+    "Sphere": 2,
     "SphereLevel": 0,
-    "Revision": "test",
-    "PlayVFX": "Effect_EnemyCardLight",
-    "PlaySFX": "enemy_cardlight_both_e",
-    "AttackVFX": "Effect_Attack_AXE",
-    "AttackSFX": "event_attack_axe_e",
-    "DeathVFX": "Effect_Death3",
-    "DeathSFX": "die_both_e",
-    "FlavorText": null,
-    "ArtistName": null
+    "Revision": "test"
   },
   "Localization": {
     "Title": "Orc Marauder",
