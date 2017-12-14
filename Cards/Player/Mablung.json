@@ -13,7 +13,15 @@
     "Rarity": 0,
     "Sphere": 1,
     "SphereLevel": 2,
-    "Revision": "test"
+    "Revision": "test",
+    "PlayVFX": "Effect_HeroCardLight 1",
+    "PlaySFX": "ally_ent_both01_e",
+    "AttackVFX": "Effect_ranged attack 01-2",
+    "AttackSFX": "event_attack_arrow_e",
+    "DeathVFX": "Effect_Death3",
+    "DeathSFX": "die_both_e",
+    "FlavorText": null,
+    "ArtistName": null
   },
   "Localization": {
     "Title": "Mablung",
