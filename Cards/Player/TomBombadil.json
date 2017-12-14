@@ -1,0 +1,22 @@
+{
+  "CardData": {
+    "Id": "TomBombadil",
+    "Owner": "Player",
+    "CardType": 0,
+    "ShopType": "Valor",
+    "Cost": 4,
+    "QuestPoints": 0,
+    "Attack": 3,
+    "Willpower": 3,
+    "Health": 4,
+    "Trait": "Legend",
+    "Rarity": 0,
+    "Sphere": 2,
+    "SphereLevel": 0,
+    "Revision": "test"
+  },
+  "Localization": {
+    "Title": "Tom Bombadil",
+    "Text": "Fleeting. Arrival: Discard a non-unique Enemy."
+  }
+}
