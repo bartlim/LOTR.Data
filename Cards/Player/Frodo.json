@@ -13,7 +13,15 @@
     "Rarity": 0,
     "Sphere": 3,
     "SphereLevel": 0,
-    "Revision": "test"
+    "Revision": "test",
+    "PlayVFX": "Effect_HeroCardLight 3",
+    "PlaySFX": "ally_ent_both03_e",
+    "AttackVFX": "Effect_Attack_Foot",
+    "AttackSFX": "event_attack_feet_e",
+    "DeathVFX": "Effect_Death3",
+    "DeathSFX": "die_both_e",
+    "FlavorText": null,
+    "ArtistName": null
   },
   "Localization": {
     "Title": "Frodo",
