@@ -13,10 +13,18 @@
     "Rarity": 0,
     "Sphere": 2,
     "SphereLevel": 0,
-    "Revision": "test"
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": null,
+    "ArtistName": null
   },
   "Localization": {
     "Title": "Find the Raft",
-    "Text": "Guarded (Hill Troll). Resolve: Allow travel from this location."
+    "Text": "Guarded (Hill Troll). Resolve: Allow travel from this Location."
   }
 }
