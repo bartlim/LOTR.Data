@@ -435,9 +435,15 @@
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "CardId": "TomBombadil",
+      "Title": "Tom Bombadil",
+      "Text": "Fleeting. Arrival: Discard a non-unique Enemy."
+    },
+    {
+      "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "TrollshawScout",
       "Title": "Trollshaw Scout",
-      "Text": "Moribund: Exhaust a random enemy."
+      "Text": "Moribund: Exhaust a random Enemy."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -479,7 +485,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "WestfoldOutrider",
       "Title": "Westfold Outrider",
-      "Text": "Arrival: Deal 2 damage to an adjacent enemy."
+      "Text": "Arrival: Deal 2 damage to an undamaged Enemy."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -491,7 +497,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "ZigilMiner",
       "Title": "Zigil Miner",
-      "Text": "Action: Exhaust Zigil Miner to gain 1 resource."
+      "Text": "Power: Activate Zigil Miner to gain 1 Resource."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -1082,9 +1088,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20171214021717271",
+  "Version": "20171214023024392",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20171214021717271"
+  "InternalKey": "Localization_20171214023024392"
 }
