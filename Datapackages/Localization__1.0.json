@@ -27,6 +27,12 @@
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "CardId": "Arwen",
+      "Title": "‰ Arwen   ",
+      "Text": "Upkeep: Heal 1 damage from a Character."
+    },
+    {
+      "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "AWatchfulPeace",
       "Title": "A Watchful Peace",
       "Text": "Reduce a player's Threat by 3."
@@ -1082,9 +1088,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20171215090652515",
+  "Version": "20171215095308619",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20171215090652515"
+  "InternalKey": "Localization_20171215095308619"
 }
