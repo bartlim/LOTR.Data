@@ -28,7 +28,7 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Arwen",
-      "Title": "‰ Arwen   ",
+      "Title": "‰Arwen   ",
       "Text": "Upkeep: Heal 1 damage from a Character."
     },
     {
@@ -96,12 +96,6 @@
       "CardId": "Elrond",
       "Title": "Elrond",
       "Text": "Upkeep: Heal 1 damage from a character."
-    },
-    {
-      "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "CardId": "ElrondsCouncil",
-      "Title": "Elrond's Council",
-      "Text": "Action: Reduce your Threat by 2."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -1088,9 +1082,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20171215095308619",
+  "Version": "20171215103237514",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20171215095308619"
+  "InternalKey": "Localization_20171215103237514"
 }
