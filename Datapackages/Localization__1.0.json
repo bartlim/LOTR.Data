@@ -545,7 +545,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "ChieftainUfthak",
       "Title": "Chieftain Ufthak",
-      "Text": "Unique. Pursuit. End of round: Add 1 Dol Goldur Orcs at 0 cost."
+      "Text": "Pursuit. End of round: Add 1 Dol Goldur Orcs at 0 cost."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -677,7 +677,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "FindTheRaft",
       "Title": "Find the Raft",
-      "Text": "Guarded (Hill Troll). Resolve: Allow travel from this location."
+      "Text": "Guarded (Hill Troll). Resolve: Allow travel from this Location."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -803,7 +803,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Louis",
       "Title": "Louis",
-      "Text": "Unique. Each Troll Enemy gains Stalwart."
+      "Text": "Each Troll Enemy gains Stalwart."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -815,7 +815,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "MarshAdder",
       "Title": "Marsh Adder",
-      "Text": "Unique. Stalwart. Vigilant. Forced: When Marsh Adder attacks, the defending player's Threat increases by 1."
+      "Text": "Stalwart. Vigilant. Forced: When Marsh Adder attacks, the defending player's Threat increases by 1."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -833,7 +833,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Morris",
       "Title": "Morris",
-      "Text": "Unique. Each Troll Enemy gains Block."
+      "Text": "Each Troll Enemy gains Block."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -911,7 +911,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Rupert",
       "Title": "Rupert",
-      "Text": "Unique. Each Troll Enemy gains +1 Attack."
+      "Text": "Each Troll Enemy gains +1 Attack."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -941,7 +941,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "SpiderQueen",
       "Title": "Spider Queen",
-      "Text": "Unique. Each Hatchling Spider gains +1 Attack and Sentinel. Upkeep: Add 1 Hatchling Spider at 0 cost."
+      "Text": "Each Hatchling Spider gains +1 Attack and Sentinel. Upkeep: Add 1 Hatchling Spider at 0 cost."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -965,7 +965,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Stuart",
       "Title": "Stuart",
-      "Text": "Unique. Upkeep: Heal 1 damage from each Troll Enemy."
+      "Text": "Upkeep: Heal 1 damage from each Troll Enemy."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -1025,7 +1025,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "UngoliantsSpawn",
       "Title": "Ungoliant's Spawn",
-      "Text": "Unique. Stalwart. Vigilant."
+      "Text": "Stalwart. Vigilant."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -1088,9 +1088,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20171214163722216",
+  "Version": "20171215021451186",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20171214163722216"
+  "InternalKey": "Localization_20171215021451186"
 }
