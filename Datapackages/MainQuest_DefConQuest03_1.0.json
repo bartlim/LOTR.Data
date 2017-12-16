@@ -1,0 +1,146 @@
+{
+  "$type": "LOTR.SharedData.Package.DataPackage`1[[LOTR.SharedData.Quests.MainQuest, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "DataSet": {
+    "$type": "LOTR.SharedData.Quests.MainQuest, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Title": "DefConQuest03",
+    "SauronDeckInfo": {
+      "$type": "LOTR.SharedData.Decks.SauronDeckInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Id": null,
+      "DeckList": [
+        {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "BlackForestBats",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "DolGuldurOrcs",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "EastBightPatrol",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "Enfeebled",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "DrivenByShadow",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "GoblinSniper",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "MirkwoodPatrol",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "ThickWebs",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+          "Id": "Tribulation",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        }
+      ]
+    },
+    "Stages": [
+      {
+        "$type": "LOTR.SharedData.Quests.QuestStage, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "Title": "Location301",
+        "SoloGameSetup": [
+          {
+            "$type": "LOTR.SharedData.Cards.CardObjective, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "QuestPoints": 6,
+            "Id": "FindThePath",
+            "CardType": "Objective",
+            "ShopType": "Starter",
+            "Trait": "",
+            "CardRarity": "Common",
+            "Cost": 0,
+            "ScriptSource": "# Card Id: Find the Path\n# Card Text: Allow travel from this location.\n# Author: Chen Meiyi\n\nclass FindThePath:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  # Triggers when this card is defeated\n  def whenLeavesPlay(self, thisCard):\n    AllowTravel()",
+            "PlayVFX": null,
+            "PlaySFX": null,
+            "AttackVFX": null,
+            "AttackSFX": null,
+            "DeathVFX": null,
+            "DeathSFX": null,
+            "FlavorText": null,
+            "ArtistName": null,
+            "Status": null
+          },
+          {
+            "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "Attack": 2,
+            "Health": 4,
+            "Id": "VeteranPatrol",
+            "CardType": "Enemy",
+            "ShopType": "Starter",
+            "Trait": "Orc",
+            "CardRarity": "Common",
+            "Cost": 4,
+            "ScriptSource": "#\n# Card Id: VeteranPatrol\n# Card Text: Sentinel\n# Author: Bart Lim\n\nclass VeteranPatrol:\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  # Triggers when a card enters play\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsSentinel)",
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_both_e",
+            "AttackVFX": "Effect_Attack_Swore",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
+            "FlavorText": null,
+            "ArtistName": null,
+            "Status": null
+          }
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ]
+      }
+    ],
+    "Sequences": [],
+    "Stories": []
+  },
+  "Version": "20171216082501527",
+  "Key": "MainQuest",
+  "SubKey": "DefConQuest03",
+  "RequiredClientVersion": "1.0",
+  "InternalKey": "MainQuest_DefConQuest03_20171216082501527"
+}
