@@ -113,7 +113,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Eowyn",
       "Title": "‰Éowyn   ",
-      "Text": "Response: The first time a Character is defeated each round, Eowyn gains +2 Willpower until the end of the round."
+      "Text": "Response: After the first Character is defeated each round, Éowyn gains +2 Willpower until end of the round."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -538,7 +538,7 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "ChieftainUfthak",
-      "Title": "Chieftain Ufthak",
+      "Title": "‰Chieftain Ufthak",
       "Text": "Pursuit. End of round: Add 1 Dol Goldur Orcs at 0 cost."
     },
     {
@@ -796,7 +796,7 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Louis",
-      "Title": "Louis",
+      "Title": "‰Louis",
       "Text": "Each Troll Enemy gains Stalwart."
     },
     {
@@ -808,7 +808,7 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "MarshAdder",
-      "Title": "Marsh Adder",
+      "Title": "‰Marsh Adder",
       "Text": "Stalwart. Vigilant. Forced: When Marsh Adder attacks, the defending player's Threat increases by 1."
     },
     {
@@ -826,7 +826,7 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Morris",
-      "Title": "Morris",
+      "Title": "‰Morris",
       "Text": "Each Troll Enemy gains Block."
     },
     {
@@ -904,7 +904,7 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Rupert",
-      "Title": "Rupert",
+      "Title": "‰Rupert",
       "Text": "Each Troll Enemy gains +1 Attack."
     },
     {
@@ -958,7 +958,7 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Stuart",
-      "Title": "Stuart",
+      "Title": "‰Stuart",
       "Text": "Upkeep: Heal 1 damage from each Troll Enemy."
     },
     {
@@ -1018,7 +1018,7 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "UngoliantsSpawn",
-      "Title": "Ungoliant's Spawn",
+      "Title": "‰Ungoliant's Spawn",
       "Text": "Stalwart. Vigilant."
     },
     {
@@ -1082,9 +1082,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20171215120156329",
+  "Version": "20171216195758467",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20171215120156329"
+  "InternalKey": "Localization_20171216195758467"
 }
