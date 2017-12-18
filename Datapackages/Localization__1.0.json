@@ -815,7 +815,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "MarshAdder",
       "Title": "‰Marsh Adder",
-      "Text": "Stalwart. Vigilant. Forced: When Marsh Adder attacks, the defending player's Threat increases by 1."
+      "Text": "Stalwart. Vigilant."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -1025,7 +1025,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "UngoliantsSpawn",
       "Title": "‰Ungoliant's Spawn",
-      "Text": "Stalwart. Vigilant."
+      "Text": "Each Hatchling Spider gains +1 Attack and Sentinel. Upkeep: Add 1 Hatchling Spider at 0 cost."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -1088,9 +1088,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20171218183642524",
+  "Version": "20171218184706073",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20171218183642524"
+  "InternalKey": "Localization_20171218184706073"
 }
