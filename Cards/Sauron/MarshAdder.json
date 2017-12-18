@@ -2,13 +2,13 @@
   "CardData": {
     "Id": "MarshAdder",
     "Owner": "Sauron",
-    "CardType": 3,
+    "CardType": 2,
     "ShopType": "Starter",
     "Cost": 0,
     "QuestPoints": 0,
-    "Attack": 3,
+    "Attack": 5,
     "Willpower": 0,
-    "Health": 8,
+    "Health": 15,
     "Trait": "Creature",
     "Rarity": 0,
     "Sphere": 2,
@@ -21,7 +21,8 @@
     "DeathVFX": "Effect_Death3",
     "DeathSFX": "die_both_e",
     "FlavorText": null,
-    "ArtistName": null
+    "ArtistName": null,
+    "Status": null
   },
   "Localization": {
     "Title": "‰Marsh Adder",
