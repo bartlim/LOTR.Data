@@ -45,7 +45,7 @@
               "Id": "TheEnchantedStream",
               "StageName": "The Enchanted Stream",
               "StoryText": "You hurry along the forest path only to find that a wide, dark river stops your progress. As you search for a place to ford, a giant creature emerges to block your way.",
-              "ObjectiveText": "Defeat \"Ungoliant's Spawn\" to complete the Quest."
+              "ObjectiveText": "Defeat \"Marsh Adder\" to complete the Quest."
             }
           ],
           "VictoryText": "You have made it across the enchanted river. With its dark waters between you and your pursuers, you are free to continue your journey through Mirkwood Forest.",
@@ -83,7 +83,7 @@
               "Id": "ForestGlade",
               "StageName": "Forest Glade",
               "StoryText": "You have cut your way through the spiders’ webs when an enormous queen spider appears and blocks your path. Her many offspring gather behind you. There is no turning back. You must defeat the giant spider.",
-              "ObjectiveText": "Defeat \"Spider Queen\" to complete the Quest."
+              "ObjectiveText": "Defeat \"Ungoliant's Spawn\" to complete the Quest."
             }
           ],
           "VictoryText": "You have defeated Ungoliant's spawn and rescued your friends.",
@@ -121,7 +121,7 @@
               "Id": "MirkwoodSwamp",
               "StageName": "Mirkwood Swamp",
               "StoryText": "At long last, the stream you have been following leads you to a wide bog. You must be near the Anduin River vale — but, to reach the mighty river, you must first cross the swamp. Who knows what dangers lie in wait?",
-              "ObjectiveText": "Defeat \"Marsh Adder\" to complete the Quest."
+              "ObjectiveText": "Defeat \"Giant Marsh Worm\" to complete the Quest."
             },
             {
               "$type": "LOTR.SharedData.Quests.StageLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
