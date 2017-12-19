@@ -75,7 +75,7 @@
           "IntroSprite": "Sprites/Locations/Quest1_Stage04",
           "SoloGameSetup": [
             "Kingsfoil",
-            "UngoliantsSpawn"
+            "MarshAdder"
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme"
@@ -84,7 +84,39 @@
       "SauronDeck": [
         {
           "Id": "BlackForestBats",
-          "Amount": 5
+          "Amount": 2
+        },
+        {
+          "Id": "DolGuldurOrcs",
+          "Amount": 2
+        },
+        {
+          "Id": "EastBightPatrol",
+          "Amount": 2
+        },
+        {
+          "Id": "Enfeebled",
+          "Amount": 2
+        },
+        {
+          "Id": "DrivenByShadow",
+          "Amount": 2
+        },
+        {
+          "Id": "GoblinSniper",
+          "Amount": 2
+        },
+        {
+          "Id": "MirkwoodPatrol",
+          "Amount": 2
+        },
+        {
+          "Id": "ThickWebs",
+          "Amount": 2
+        },
+        {
+          "Id": "Tribulation",
+          "Amount": 2
         }
       ]
     },
@@ -138,7 +170,7 @@
           "IntroVoice": "Q2L4_ForestGlade",
           "IntroSprite": "Sprites/Locations/Quest2_Stage04",
           "SoloGameSetup": [
-            "SpiderQueen",
+            "UngoliantsSpawn",
             "GiantSpider"
           ],
           "NextStageId": "",
@@ -242,7 +274,7 @@
           "IntroVoice": "Q3L2-3_Various",
           "IntroSprite": "Sprites/Locations/Quest3_Stage03A",
           "SoloGameSetup": [
-            "MarshAdder",
+            "GiantMarshWorm",
             "ForestFlies",
             "MuckAdder"
           ],
