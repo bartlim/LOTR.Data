@@ -103,7 +103,8 @@
             "DeathVFX": null,
             "DeathSFX": null,
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           }
         ],
         "CoopGameSetup": [],
@@ -133,7 +134,8 @@
             "DeathVFX": null,
             "DeathSFX": null,
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -146,14 +148,15 @@
             "CardRarity": "Common",
             "Cost": 2,
             "ScriptSource": "#\n# Card Id: HiveGuardian\n# Card Text: Sentinel. Counter 1.\n# Author: Chen Meiyi\nclass HiveGuardian:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsSentinel)\n\n  def afterDefends(self, thisCard, attacker):\n      thisCard.ModifyAttack(1)\n",
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
+            "PlayVFX": "Effect_EnemyCardLight02",
+            "PlaySFX": "enemy_cardlight_spider_e",
+            "AttackVFX": "Effect_Attack_Swore",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -166,14 +169,15 @@
             "CardRarity": "Common",
             "Cost": 1,
             "ScriptSource": null,
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
+            "PlayVFX": "Effect_EnemyCardLight02",
+            "PlaySFX": "enemy_cardlight_spider_e",
+            "AttackVFX": "Effect_Attack_Swore",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           }
         ],
         "CoopGameSetup": [],
@@ -203,7 +207,8 @@
             "DeathVFX": null,
             "DeathSFX": null,
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -216,14 +221,15 @@
             "CardRarity": "Common",
             "Cost": 3,
             "ScriptSource": "#\n# Card Id: SpidersOfMirkwood\n# Card Text: Sentinel\n# Author: Bart Lim\n\nclass SpidersOfMirkwood:\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  # Triggers when a card enters play\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsSentinel)",
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
+            "PlayVFX": "Effect_EnemyCardLight02",
+            "PlaySFX": "enemy_cardlight_spider_e",
+            "AttackVFX": "Effect_Attack_Swore",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           }
         ],
         "CoopGameSetup": [],
@@ -240,21 +246,22 @@
             "$type": "LOTR.SharedData.Cards.CardBoss, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
             "Attack": 4,
             "Health": 8,
-            "Id": "SpiderQueen",
+            "Id": "UngoliantsSpawn",
             "CardType": "Boss",
             "ShopType": "Starter",
             "Trait": "Spider",
             "CardRarity": "Common",
             "Cost": 0,
-            "ScriptSource": "#\n# Card Id: SpiderQueen\n# Card Text: Unique.  Spider Hatchlings get +1 ATK and Sentinel.Upkeep: Put a Spider Hatchlings into play.\n# Author: Bart Lim\n\n\nclass SpiderQueen:\n  # Default initialization for the script\n  def __init__(self):\n    self.spiderUids = {}\n\n  # Triggers when a card enters play\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsUnique)\n    \n  def atUpkeep(self, thisCard):\n    hatchlingSpider = _encounters.AddEncounter(\"HatchlingSpider\")\n    self.spiderUids[hatchlingSpider.Uid] = False\n    for enemy in _encounters.GetEncounters():\n      if enemy.CardId == \"HatchlingSpider\":\n        if (enemy.Uid in self.spiderUids and not self.spiderUids[enemy.Uid]) or enemy.Uid not in self.spiderUids:\n          enemy.ModifyAttack(1)\n          enemy.AddAttribute(StagingCardAttribute.IsSentinel)\n          self.spiderUids[enemy.Uid] = True\n\n  # Triggers when this card is defeated\n  def whenLeavesPlay(self, thisCard):\n      WinGame()",
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
+            "ScriptSource": "class UngoliantsSpawn: \n    def __init__(self):\n        pass\n\n    def afterCardPlayed(self, thisCard, playedCard):\n        if (playedCard.CardId) == (\"HatchlingSpider\"):\n            playedCard.ModifyAttack(1)\n            playedCard.AddAttribute(StagingCardAttribute.IsSentinel)\n\n    def atUpkeep(self, thisCard):\n        _encounters.AddEncounter(\"HatchlingSpider\")\n\n    def whenLeavesPlay(self, thisCard):\n        for var in _encounters.GetEnemies():\n            if (var.CardId) == (\"HatchlingSpider\"):\n                var.ModifyAttack(-1)\n                var.RemoveAttribute(StagingCardAttribute.IsSentinel)\n\n    def whenPlayed(self, thisCard):\n        thisCard.AddAttribute(StagingCardAttribute.IsUnique)\n        for var in _encounters.GetEnemies():\n            if (var.CardId) == (\"HatchlingSpider\"):\n                var.ModifyAttack(1)\n                var.AddAttribute(StagingCardAttribute.IsSentinel)\n",
+            "PlayVFX": "Effect_EnemyCardLight02",
+            "PlaySFX": "enemy_cardlight_spider_e",
+            "AttackVFX": "Effect_Attack_Swore",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -267,14 +274,15 @@
             "CardRarity": "Common",
             "Cost": 5,
             "ScriptSource": "#\n# Card Id: GiantSpider\n# Card Text: Sentinel\n# Author: Bart Lim\n\nclass GiantSpider:\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  # Triggers when a card enters play\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsSentinel)",
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
+            "PlayVFX": "Effect_EnemyCardLight02",
+            "PlaySFX": "enemy_cardlight_spider_e",
+            "AttackVFX": "Effect_Attack_Swore",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           }
         ],
         "CoopGameSetup": [],
@@ -287,9 +295,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20171213071844594",
+  "Version": "20171219020013248",
   "Key": "MainQuest",
   "SubKey": "FliesAndSpiders",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_FliesAndSpiders_20171213071844594"
+  "InternalKey": "MainQuest_FliesAndSpiders_20171219020013248"
 }
