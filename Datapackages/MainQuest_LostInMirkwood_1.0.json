@@ -103,7 +103,8 @@
             "DeathVFX": null,
             "DeathSFX": null,
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardObjective, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -122,7 +123,8 @@
             "DeathVFX": null,
             "DeathSFX": null,
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -131,18 +133,19 @@
             "Id": "BlackForestBats",
             "CardType": "Enemy",
             "ShopType": "Starter",
-            "Trait": "",
+            "Trait": "Creature",
             "CardRarity": "Common",
             "Cost": 1,
             "ScriptSource": null,
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_both_e",
+            "AttackVFX": "Effect_Attack_Foot",
+            "AttackSFX": "event_attack_feet_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -155,14 +158,15 @@
             "CardRarity": "Common",
             "Cost": 5,
             "ScriptSource": "#\n# Card Id: GiantSpider\n# Card Text: Sentinel\n# Author: Bart Lim\n\nclass GiantSpider:\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  # Triggers when a card enters play\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsSentinel)",
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
+            "PlayVFX": "Effect_EnemyCardLight02",
+            "PlaySFX": "enemy_cardlight_spider_e",
+            "AttackVFX": "Effect_Attack_Swore",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -171,7 +175,7 @@
             "Id": "WildBear",
             "CardType": "Enemy",
             "ShopType": "Starter",
-            "Trait": "",
+            "Trait": "Creature",
             "CardRarity": "Common",
             "Cost": 3,
             "ScriptSource": "#\n# Card Id: WildBear\n# Card Text: Pursuit. Stalwart.\n# Author: Chen Meiyi\nclass WildBear:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsPursuit)\n    thisCard.AddAttribute(StagingCardAttribute.IsStalwart)",
@@ -182,7 +186,8 @@
             "DeathVFX": null,
             "DeathSFX": null,
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           }
         ],
         "CoopGameSetup": [],
@@ -212,7 +217,8 @@
             "DeathVFX": null,
             "DeathSFX": null,
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardObjective, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -220,7 +226,7 @@
             "Id": "SearchForAPath",
             "CardType": "Objective",
             "ShopType": "Starter",
-            "Trait": null,
+            "Trait": "",
             "CardRarity": "Common",
             "Cost": 0,
             "ScriptSource": "# Card Id: SearchForAPath\n# Card Text: Immediately travel to Overgrown Trail.\n# Author: Chen Meiyi\n\nclass SearchForAPath:\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  # Triggers when this card is defeated\n  def afterDefeated(self, thisCard, attacker):\n    StartTravel(\"OvergrownTrail\", True)\n    ",
@@ -231,7 +237,8 @@
             "DeathVFX": null,
             "DeathSFX": null,
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -240,7 +247,7 @@
             "Id": "WildBear",
             "CardType": "Enemy",
             "ShopType": "Starter",
-            "Trait": "",
+            "Trait": "Creature",
             "CardRarity": "Common",
             "Cost": 3,
             "ScriptSource": "#\n# Card Id: WildBear\n# Card Text: Pursuit. Stalwart.\n# Author: Chen Meiyi\nclass WildBear:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsPursuit)\n    thisCard.AddAttribute(StagingCardAttribute.IsStalwart)",
@@ -251,7 +258,8 @@
             "DeathVFX": null,
             "DeathSFX": null,
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -260,18 +268,19 @@
             "Id": "MuckAdder",
             "CardType": "Enemy",
             "ShopType": "Starter",
-            "Trait": "",
+            "Trait": "Creature",
             "CardRarity": "Common",
             "Cost": 2,
             "ScriptSource": "#\n# Card Id: MuckAdder\n# Card Text: Quick. Muck Adder attacks the character with the fewest remaining hit points.\n# Author: Chen Meiyi\nclass MuckAdder:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsQuick)\n\n  def determineDefender(self, thisCard):\n    characters = _playerParty.GetCharacters()\n    if len(characters) > 0:\n      minHP = characters[0].CurrentHealth\n      defender = characters[0]\n      for character in characters:\n        if minHP > character.CurrentHealth:\n          minHP = character.CurrentHealth\n          defender = character\n    return defender",
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_both_e",
+            "AttackVFX": "Effect_Attack_Swore",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -280,7 +289,7 @@
             "Id": "PackOfWargs",
             "CardType": "Enemy",
             "ShopType": "Starter",
-            "Trait": "",
+            "Trait": "Creature",
             "CardRarity": "Common",
             "Cost": 5,
             "ScriptSource": "#\n# Card Id: PackOfWargs\n# Card Text: Pursuit. Upkeep: Pack of Wargs gets +1 HP.\n# Author: Chen Meiyi\nclass PackOfWargs:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsPursuit)\n\n  def atUpkeep(self, thisCard):\n      thisCard.Heal(1)\n",
@@ -291,7 +300,8 @@
             "DeathVFX": null,
             "DeathSFX": null,
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           }
         ],
         "CoopGameSetup": [],
@@ -321,7 +331,8 @@
             "DeathVFX": null,
             "DeathSFX": null,
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardObjective, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -329,7 +340,7 @@
             "Id": "SearchForAPath",
             "CardType": "Objective",
             "ShopType": "Starter",
-            "Trait": null,
+            "Trait": "",
             "CardRarity": "Common",
             "Cost": 0,
             "ScriptSource": "# Card Id: SearchForAPath\n# Card Text: Immediately travel to Overgrown Trail.\n# Author: Chen Meiyi\n\nclass SearchForAPath:\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  # Triggers when this card is defeated\n  def afterDefeated(self, thisCard, attacker):\n    StartTravel(\"OvergrownTrail\", True)\n    ",
@@ -340,7 +351,8 @@
             "DeathVFX": null,
             "DeathSFX": null,
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -353,14 +365,15 @@
             "CardRarity": "Common",
             "Cost": 5,
             "ScriptSource": "#\n# Card Id: WargRiders\n# Card Text: Pursuit. All Orcs gain Pursuit.\n# Author: Bart Lim\n\nclass WargRiders:\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  # Triggers when a card enters play\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsPursuit)",
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_both_e",
+            "AttackVFX": "Effect_Attack_Swore",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -369,18 +382,19 @@
             "Id": "Wargs",
             "CardType": "Enemy",
             "ShopType": "Starter",
-            "Trait": "",
+            "Trait": "Creature",
             "CardRarity": "Common",
             "Cost": 2,
             "ScriptSource": "#\n# Card Id: Wargs\n# Card Text: Vigilant. Aggressive 1.\n# Author: Chen Meiyi\nclass Wargs:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n    \n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsVigilant)\n    \n  def beforeAttacks(self, thisCard, defender):\n    thisCard.ModifyAttack(1)\n\n  def afterCombats(self, thisCard, defender):\n    thisCard.SetAttack(thisCard.BaseAttack)",
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_both_e",
+            "AttackVFX": "Effect_Attack_Swore",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           }
         ],
         "CoopGameSetup": [],
@@ -394,24 +408,25 @@
         "Title": "MirkwoodSwamp",
         "SoloGameSetup": [
           {
-            "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "$type": "LOTR.SharedData.Cards.CardBoss, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
             "Attack": 3,
             "Health": 8,
-            "Id": "MarshAdder",
-            "CardType": "Enemy",
+            "Id": "GiantMarshWorm",
+            "CardType": "Boss",
             "ShopType": "Starter",
-            "Trait": "",
+            "Trait": "Creature",
             "CardRarity": "Common",
             "Cost": 0,
-            "ScriptSource": "#\n# Card Id: MarshAdder\n# Card Text: Unique. Stalwart. Vigilant. Forced: When Marsh Adder attacks, raise the defending player’s threat by 1.\n# Author: Chen Meiyi\nclass MarshAdder:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsUnique)\n    thisCard.AddAttribute(StagingCardAttribute.IsStalwart)\n    thisCard.AddAttribute(StagingCardAttribute.IsVigilant)\n\n  def afterAttacks(self, thisCard, defender):\n    ModifyThreatMeter(1)\n\n  # Triggers when this card is defeated\n  def whenLeavesPlay(self, thisCard):\n    WinGame()",
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
+            "ScriptSource": "class GiantMarshWorm: \n    def __init__(self):\n        pass\n\n    def afterAttacks(self, thisCard, defender):\n        ModifyThreatMeter(1)\n\n    def whenPlayed(self, thisCard):\n        thisCard.AddAttribute(StagingCardAttribute.IsStalwart)\n        thisCard.AddAttribute(StagingCardAttribute.IsVigilant)\n        thisCard.AddAttribute(StagingCardAttribute.IsUnique)\n",
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_boss_e",
+            "AttackVFX": "Effect_Attack_03",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "boss_die_both_e",
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -420,18 +435,19 @@
             "Id": "ForestFlies",
             "CardType": "Enemy",
             "ShopType": "Starter",
-            "Trait": "",
+            "Trait": "Creature",
             "CardRarity": "Common",
             "Cost": 2,
             "ScriptSource": "#\n# Card Id: ForestFlies\n# Card Text: At the end of round add Forest Flies\n# Author: Bart Lim\n\nclass ForestFlies:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  # Triggers at the end of each round while the card is in play\n  def atEndOfRound(self, thisCard):\n    _encounters.AddEncounter(\"ForestFlies\")",
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_both_e",
+            "AttackVFX": "Effect_Attack_Swore",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -440,18 +456,19 @@
             "Id": "MuckAdder",
             "CardType": "Enemy",
             "ShopType": "Starter",
-            "Trait": "",
+            "Trait": "Creature",
             "CardRarity": "Common",
             "Cost": 2,
             "ScriptSource": "#\n# Card Id: MuckAdder\n# Card Text: Quick. Muck Adder attacks the character with the fewest remaining hit points.\n# Author: Chen Meiyi\nclass MuckAdder:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsQuick)\n\n  def determineDefender(self, thisCard):\n    characters = _playerParty.GetCharacters()\n    if len(characters) > 0:\n      minHP = characters[0].CurrentHealth\n      defender = characters[0]\n      for character in characters:\n        if minHP > character.CurrentHealth:\n          minHP = character.CurrentHealth\n          defender = character\n    return defender",
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_both_e",
+            "AttackVFX": "Effect_Attack_Swore",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           }
         ],
         "CoopGameSetup": [],
@@ -481,7 +498,8 @@
             "DeathVFX": null,
             "DeathSFX": null,
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -490,7 +508,7 @@
             "Id": "WildBear",
             "CardType": "Enemy",
             "ShopType": "Starter",
-            "Trait": "",
+            "Trait": "Creature",
             "CardRarity": "Common",
             "Cost": 3,
             "ScriptSource": "#\n# Card Id: WildBear\n# Card Text: Pursuit. Stalwart.\n# Author: Chen Meiyi\nclass WildBear:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsPursuit)\n    thisCard.AddAttribute(StagingCardAttribute.IsStalwart)",
@@ -501,7 +519,8 @@
             "DeathVFX": null,
             "DeathSFX": null,
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -510,18 +529,19 @@
             "Id": "ForestFlies",
             "CardType": "Enemy",
             "ShopType": "Starter",
-            "Trait": "",
+            "Trait": "Creature",
             "CardRarity": "Common",
             "Cost": 2,
             "ScriptSource": "#\n# Card Id: ForestFlies\n# Card Text: At the end of round add Forest Flies\n# Author: Bart Lim\n\nclass ForestFlies:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  # Triggers at the end of each round while the card is in play\n  def atEndOfRound(self, thisCard):\n    _encounters.AddEncounter(\"ForestFlies\")",
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_both_e",
+            "AttackVFX": "Effect_Attack_Swore",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -534,14 +554,15 @@
             "CardRarity": "Common",
             "Cost": 3,
             "ScriptSource": null,
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
+            "PlayVFX": "Effect_EnemyCardLight02",
+            "PlaySFX": "enemy_cardlight_spider_e",
+            "AttackVFX": "Effect_Attack_Swore",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           }
         ],
         "CoopGameSetup": [],
@@ -565,14 +586,15 @@
             "CardRarity": "Common",
             "Cost": 4,
             "ScriptSource": "#\n# Card Id: EliteDolGuldurOrcs\n# Card Text: Vigilant\n# Author: Bart Lim\n\nclass EliteDolGuldurOrcs:\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  # Triggers when a card enters play\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsVigilant)",
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_both_e",
+            "AttackVFX": "Effect_Attack_AXE",
+            "AttackSFX": "event_attack_axe_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -581,18 +603,19 @@
             "Id": "OrcMarauder",
             "CardType": "Enemy",
             "ShopType": "Starter",
-            "Trait": "",
+            "Trait": "Orc",
             "CardRarity": "Common",
             "Cost": 3,
             "ScriptSource": "#\n# Card Id: OrcMarauder\n# Card Text: Forced: When this enemy attacks, Sauron gains a resource.\n# Author: Chen Meiyi\nclass OrcMarauder:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  def afterAttacks(self, thisCard, defender):\n    ModifySauronResources(1)",
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_both_e",
+            "AttackVFX": "Effect_Attack_AXE",
+            "AttackSFX": "event_attack_axe_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -605,14 +628,15 @@
             "CardRarity": "Common",
             "Cost": 4,
             "ScriptSource": "#\n# Card Id: VeteranPatrol\n# Card Text: Sentinel\n# Author: Bart Lim\n\nclass VeteranPatrol:\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  # Triggers when a card enters play\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsSentinel)",
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_both_e",
+            "AttackVFX": "Effect_Attack_Swore",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           },
           {
             "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -625,14 +649,15 @@
             "CardRarity": "Common",
             "Cost": 2,
             "ScriptSource": null,
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_both_e",
+            "AttackVFX": "Effect_Attack_Swore",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
             "FlavorText": null,
-            "ArtistName": null
+            "ArtistName": null,
+            "Status": null
           }
         ],
         "CoopGameSetup": [],
@@ -645,9 +670,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20171213071848977",
+  "Version": "20171219020018439",
   "Key": "MainQuest",
   "SubKey": "LostInMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_LostInMirkwood_20171213071848977"
+  "InternalKey": "MainQuest_LostInMirkwood_20171219020018439"
 }
