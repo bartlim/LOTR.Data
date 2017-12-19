@@ -49,12 +49,12 @@
         {
           "Id": "DarkForest",
           "StageName": "Dark Forest",
-          "StoryText": "You wake from a troubled sleep to find yourself alone in Mirkwood Forest. The last thing you remember is the sound of countless legs scuttling around your camp and hundreds of bulbous eyes peering from the dark. You realize that the giant spiders of Mirkwood have captured your friends in the night, and it��s up to you to find them!",
+          "StoryText": "You wake from a troubled sleep to find yourself alone in Mirkwood Forest. The last thing you remember is the sound of countless legs scuttling around your camp and hundreds of bulbous eyes peering from the dark. You realize that the giant spiders of Mirkwood have captured your friends in the night, and it??s up to you to find them!",
           "ObjectiveText": "Overcome \"Find Your Friends\" to unlock travel."
         },
         {
           "Id": "TheSpidersLair",
-          "StageName": "The Spiders�� Lair",
+          "StageName": "The Spiders?? Lair",
           "StoryText": "You find your friends within a dark glade surrounded by giant spider webs. They have been bound and wrapped in cocoons of strong cords. They beg you to cut them free, but before you can the spiders descend from the trees to attack you.",
           "ObjectiveText": "Overcome \"Rescue Your Friends\" to unlock travel."
         },
@@ -67,7 +67,7 @@
         {
           "Id": "ForestGlade",
           "StageName": "Forest Glade",
-          "StoryText": "You have cut your way through the spiders�� webs when an enormous queen spider appears and blocks your path. Her many offspring gather behind you. There is no turning back. You must defeat the giant spider.",
+          "StoryText": "You have cut your way through the spiders?? webs when an enormous queen spider appears and blocks your path. Her many offspring gather behind you. There is no turning back. You must defeat the giant spider.",
           "ObjectiveText": "Defeat \"Ungoliant's Spawn\" to complete the Quest."
         }
       ],
@@ -82,7 +82,7 @@
         {
           "Id": "MirkwoodForest",
           "StageName": "Mirkwood Forest",
-          "StoryText": "You have escaped from the spiders�� dark colony, only to find yourself lost in the vastness of Mirkwood. The forest is so dark and tangled that it is impossible to know which direction you should go. You must find some landmarks to get your bearings.",
+          "StoryText": "You have escaped from the spiders?? dark colony, only to find yourself lost in the vastness of Mirkwood. The forest is so dark and tangled that it is impossible to know which direction you should go. You must find some landmarks to get your bearings.",
           "ObjectiveText": "Overcome \"Follow the Stream\" to advance immediately to Forest Stream OR overcome \"Climb the Hill\" to advance immediately to Bare Hilltop."
         },
         {
@@ -100,7 +100,7 @@
         {
           "Id": "MirkwoodSwamp",
           "StageName": "Mirkwood Swamp",
-          "StoryText": "At long last, the stream you have been following leads you to a wide bog. You must be near the Anduin River vale �� but, to reach the mighty river, you must first cross the swamp. Who knows what dangers lie in wait?",
+          "StoryText": "At long last, the stream you have been following leads you to a wide bog. You must be near the Anduin River vale ?? but, to reach the mighty river, you must first cross the swamp. Who knows what dangers lie in wait?",
           "ObjectiveText": "Defeat \"Giant Marsh Worm\" to complete the Quest."
         },
         {
@@ -154,8 +154,8 @@
         {
           "Id": "SearchingForGrimbeorn",
           "StageName": "Searching for Grimbeorn",
-          "StoryText": "The Anduin river has carried you south from the Forest Gate to the land of the Beornings, where you hope to deliver King Brand��s message to their chieftain, Grimbeorn. However, when you pull your raft to shore, the Beornings tell you that Grimbeorn was last seen roaming as a great bear toward the Carrock. You continue south along the riverbank in order to find him.",
-          "ObjectiveText": "Follow Grimbeorn��s trail."
+          "StoryText": "The Anduin river has carried you south from the Forest Gate to the land of the Beornings, where you hope to deliver King Brand??s message to their chieftain, Grimbeorn. However, when you pull your raft to shore, the Beornings tell you that Grimbeorn was last seen roaming as a great bear toward the Carrock. You continue south along the riverbank in order to find him.",
+          "ObjectiveText": "Follow Grimbeorn??s trail."
         },
         {
           "Id": "TheTrollsDinner",
@@ -166,7 +166,7 @@
         {
           "Id": "FightWithTheTrolls",
           "StageName": "Fight with the Trolls",
-          "StoryText": "Once freed from his chains, Grimbeorn joins you in your battle against his captors. ��A barrel of beer to the one who brings me a troll��s head!�� he roars while swinging a mighty blow at the nearest foe. But the trolls only laugh and say, \"Look, boys - more food! We're going to eat well tonight!\"",
+          "StoryText": "Once freed from his chains, Grimbeorn joins you in your battle against his captors. ??A barrel of beer to the one who brings me a troll??s head!?? he roars while swinging a mighty blow at the nearest foe. But the trolls only laugh and say, \"Look, boys - more food! We're going to eat well tonight!\"",
           "ObjectiveText": "Defeat the Trolls."
         }
       ],
