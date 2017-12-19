@@ -9,11 +9,20 @@
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": null,
+    "Trait": "",
     "Rarity": 0,
     "Sphere": 2,
     "SphereLevel": 0,
-    "Revision": ""
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": null,
+    "ArtistName": null,
+    "Status": null
   },
   "Localization": {
     "Title": "Beorn's Hospitality",
