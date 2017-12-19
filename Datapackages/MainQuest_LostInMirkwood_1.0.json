@@ -72,52 +72,83 @@
     "Stages": [
       {
         "Title": "MirkwoodForest",
-        "SoloGameSetup": [],
+        "SoloGameSetup": [
+          "FollowTheStream",
+          "ClimbTheHill",
+          "BlackForestBats",
+          "GiantSpider",
+          "WildBear"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "ForestStream"
         ]
       },
       {
         "Title": "ForestStream",
-        "SoloGameSetup": [],
+        "SoloGameSetup": [
+          "ContinueDownstream",
+          "SearchForAPath",
+          "WildBear",
+          "MuckAdder",
+          "PackOfWargs"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "BareHilltop"
         ]
       },
       {
         "Title": "BareHilltop",
-        "SoloGameSetup": [],
+        "SoloGameSetup": [
+          "InvestigateSmoke",
+          "SearchForAPath",
+          "WargRiders",
+          "Wargs"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "MirkwoodSwamp"
         ]
       },
       {
         "Title": "MirkwoodSwamp",
-        "SoloGameSetup": [],
+        "SoloGameSetup": [
+          "GiantMarshWorm",
+          "ForestFlies",
+          "MuckAdder"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "OvergrownTrail"
         ]
       },
       {
         "Title": "OvergrownTrail",
-        "SoloGameSetup": [],
+        "SoloGameSetup": [
+          "EscapeTheForest",
+          "WildBear",
+          "ForestFlies",
+          "KingSpider"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "AbandonedVillage"
         ]
       },
       {
         "Title": "AbandonedVillage",
-        "SoloGameSetup": [],
+        "SoloGameSetup": [
+          "EliteDolGuldurOrcs",
+          "OrcMarauder",
+          "VeteranPatrol",
+          "EastBightPatrol"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
@@ -128,9 +159,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20171219145604806",
+  "Version": "20171219180900980",
   "Key": "MainQuest",
   "SubKey": "LostInMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_LostInMirkwood_20171219145604806"
+  "InternalKey": "MainQuest_LostInMirkwood_20171219180900980"
 }
