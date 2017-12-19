@@ -9,7 +9,7 @@
     "Attack": 3,
     "Willpower": 1,
     "Health": 6,
-    "Trait": "",
+    "Trait": "Beorning",
     "Rarity": 0,
     "Sphere": 2,
     "SphereLevel": 0,
@@ -21,7 +21,8 @@
     "DeathVFX": "Effect_Death3",
     "DeathSFX": "die_both_e",
     "FlavorText": null,
-    "ArtistName": null
+    "ArtistName": null,
+    "Status": null
   },
   "Localization": {
     "Title": "Grimbeorn",
