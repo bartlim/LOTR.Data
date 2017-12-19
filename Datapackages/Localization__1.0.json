@@ -76,6 +76,11 @@
       "Text": "Preparation: The next time a Character you control would take damage, cancel that damage."
     },
     {
+      "CardId": "DelCardTest",
+      "Title": "To be deleted",
+      "Text": "test bug LRIT-794"
+    },
+    {
       "CardId": "Elrond",
       "Title": "Elrond",
       "Text": "Upkeep: Heal 1 damage from a character."
@@ -906,9 +911,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20171219183321217",
+  "Version": "20171219111735527",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization20171219183321217"
+  "InternalKey": "Localization20171219111735527"
 }
