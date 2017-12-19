@@ -85,7 +85,7 @@
               "IntroSprite": "Sprites/Locations/Quest1_Stage04",
               "SoloGameSetup": [
                 "Kingsfoil",
-                "UngoliantsSpawn"
+                "MarshAdder"
               ],
               "NextStageId": "",
               "BGM": "mus_saurontheme"
@@ -95,7 +95,47 @@
             {
               "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
               "Id": "BlackForestBats",
-              "Amount": 5
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "$type": "LOTR.SharedData.Quests.SauronCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+              "Id": "Tribulation",
+              "Amount": 2
             }
           ]
         },
@@ -154,7 +194,7 @@
               "IntroVoice": "Q2L4_ForestGlade",
               "IntroSprite": "Sprites/Locations/Quest2_Stage04",
               "SoloGameSetup": [
-                "SpiderQueen",
+                "UngoliantsSpawn",
                 "GiantSpider"
               ],
               "NextStageId": "",
@@ -272,7 +312,7 @@
               "IntroVoice": "Q3L2-3_Various",
               "IntroSprite": "Sprites/Locations/Quest3_Stage03A",
               "SoloGameSetup": [
-                "MarshAdder",
+                "GiantMarshWorm",
                 "ForestFlies",
                 "MuckAdder"
               ],
