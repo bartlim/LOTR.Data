@@ -72,25 +72,39 @@
     "Stages": [
       {
         "Title": "SearchingForGrimbeorn",
-        "SoloGameSetup": [],
+        "SoloGameSetup": [
+          "FollowGrimbeornsTrail",
+          "WildBear",
+          "MirkwoodFlock",
+          "Wargs"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "TheTrollsDinner"
         ]
       },
       {
         "Title": "TheTrollsDinner",
-        "SoloGameSetup": [],
+        "SoloGameSetup": [
+          "RescueGrimbeorn",
+          "HillTroll",
+          "AnduinTrollSpawn",
+          "BlackForestBats"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "FightWithTheTrolls"
         ]
       },
       {
         "Title": "FightWithTheTrolls",
-        "SoloGameSetup": [],
+        "SoloGameSetup": [
+          "Louis",
+          "Stuart",
+          "Rupert"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
@@ -101,9 +115,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20171219145612381",
+  "Version": "20171219180908371",
   "Key": "MainQuest",
   "SubKey": "ConflictAtTheCarrock",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ConflictAtTheCarrock_20171219145612381"
+  "InternalKey": "MainQuest_ConflictAtTheCarrock_20171219180908371"
 }
