@@ -617,7 +617,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "EscapeTheForest",
       "Title": "Escape the Forest",
-      "Text": "Resolve this Objective to complete the Quest."
+      "Text": "Resolve: Complete the Quest."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -875,7 +875,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "PoisonedBySpiders",
       "Title": "Poisoned by Spiders",
-      "Text": "Prep: The next Character damaged but not defeated by a Spider attack cannot ready next round."
+      "Text": "Prep: The next Character damaged but not defeated by a Spider attack cannot ready this round or next Upkeep."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -1088,9 +1088,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20171219194114240",
+  "Version": "20171219224929243",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20171219194114240"
+  "InternalKey": "Localization_20171219224929243"
 }
