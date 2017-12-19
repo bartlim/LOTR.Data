@@ -87,16 +87,26 @@
       },
       {
         "Title": "CapturedBySpiders",
-        "SoloGameSetup": [],
+        "SoloGameSetup": [
+          "ForestFlies",
+          "KingSpider",
+          "KingSpider"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "StandAndFight",
+          "TurnAndFlee"
         ]
       },
       {
         "Title": "StandAndFight",
-        "SoloGameSetup": [],
+        "SoloGameSetup": [
+          "WatchfulScout",
+          "OrcHound",
+          "OrcHound",
+          "EliteDolGuldurOrcs"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
@@ -105,7 +115,12 @@
       },
       {
         "Title": "TurnAndFlee",
-        "SoloGameSetup": [],
+        "SoloGameSetup": [
+          "FindThePath",
+          "KingSpider",
+          "KingSpider",
+          "SpidersOfMirkwood"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
@@ -114,7 +129,10 @@
       },
       {
         "Title": "TheEnchantedStream",
-        "SoloGameSetup": [],
+        "SoloGameSetup": [
+          "Kingsfoil",
+          "MarshAdder"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
@@ -125,9 +143,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20171219145557184",
+  "Version": "20171219180853293",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20171219145557184"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20171219180853293"
 }
