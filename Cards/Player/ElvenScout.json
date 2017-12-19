@@ -9,7 +9,7 @@
     "Attack": 3,
     "Willpower": 0,
     "Health": 6,
-    "Trait": "",
+    "Trait": "Silvan",
     "Rarity": 0,
     "Sphere": 0,
     "SphereLevel": 0,
@@ -21,7 +21,8 @@
     "DeathVFX": "Effect_Death3",
     "DeathSFX": "die_both_e",
     "FlavorText": null,
-    "ArtistName": null
+    "ArtistName": null,
+    "Status": null
   },
   "Localization": {
     "Title": "Elven Scout",
