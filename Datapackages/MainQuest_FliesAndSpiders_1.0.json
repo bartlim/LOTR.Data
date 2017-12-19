@@ -1,14 +1,10 @@
 {
-  "$type": "LOTR.SharedData.Package.DataPackage`1[[LOTR.SharedData.Quests.MainQuest, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
   "DataSet": {
-    "$type": "LOTR.SharedData.Quests.MainQuest, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
     "Title": "FliesAndSpiders",
     "SauronDeckInfo": {
-      "$type": "LOTR.SharedData.Decks.SauronDeckInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Id": null,
       "DeckList": [
         {
-          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
           "Id": "BlackForestBats",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -16,7 +12,6 @@
           "MaxDifficulty": 4
         },
         {
-          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
           "Id": "DolGuldurOrcs",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -24,7 +19,6 @@
           "MaxDifficulty": 4
         },
         {
-          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
           "Id": "EastBightPatrol",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -32,7 +26,6 @@
           "MaxDifficulty": 4
         },
         {
-          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
           "Id": "Enfeebled",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -40,7 +33,6 @@
           "MaxDifficulty": 4
         },
         {
-          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
           "Id": "DrivenByShadow",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -48,7 +40,6 @@
           "MaxDifficulty": 4
         },
         {
-          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
           "Id": "GoblinSniper",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -56,7 +47,6 @@
           "MaxDifficulty": 4
         },
         {
-          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
           "Id": "MirkwoodPatrol",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -64,7 +54,6 @@
           "MaxDifficulty": 4
         },
         {
-          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
           "Id": "ThickWebs",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -72,7 +61,6 @@
           "MaxDifficulty": 4
         },
         {
-          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
           "Id": "Tribulation",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -83,208 +71,35 @@
     },
     "Stages": [
       {
-        "$type": "LOTR.SharedData.Quests.QuestStage, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
         "Title": "DarkForest",
-        "SoloGameSetup": [
-          {
-            "$type": "LOTR.SharedData.Cards.CardObjective, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "QuestPoints": 4,
-            "Id": "FindYourFriends",
-            "CardType": "Objective",
-            "ShopType": "Starter",
-            "Trait": "",
-            "CardRarity": "Common",
-            "Cost": 0,
-            "ScriptSource": "# Card Id: Find Your Friends\n# Card Text: Allow travel from this location.\n# Author: Bart Lim\n\nclass FindYourFriends:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  # Triggers when this card is defeated\n  def whenLeavesPlay(self, thisCard):\n    AllowTravel()",
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
-            "FlavorText": null,
-            "ArtistName": null,
-            "Status": null
-          }
-        ],
+        "SoloGameSetup": [],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          "TheSpidersLair"
+          ""
         ]
       },
       {
-        "$type": "LOTR.SharedData.Quests.QuestStage, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
         "Title": "TheSpidersLair",
-        "SoloGameSetup": [
-          {
-            "$type": "LOTR.SharedData.Cards.CardObjective, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "QuestPoints": 4,
-            "Id": "RescueYourFriends",
-            "CardType": "Objective",
-            "ShopType": "Starter",
-            "Trait": "",
-            "CardRarity": "Common",
-            "Cost": 0,
-            "ScriptSource": "# Card Id: Rescue Your Friends\n# Card Text: Return each captured hero to its owner’s hand.\n# Author: Bart Lim\n\nclass RescueYourFriends:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  # Triggers when this card is defeated\n  def whenLeavesPlay(self, thisCard):\n    ReleaseCapturedCards(CardType.Hero)\n    AllowTravel()",
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
-            "FlavorText": null,
-            "ArtistName": null,
-            "Status": null
-          },
-          {
-            "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "Attack": 1,
-            "Health": 4,
-            "Id": "HiveGuardian",
-            "CardType": "Enemy",
-            "ShopType": "Starter",
-            "Trait": "Spider",
-            "CardRarity": "Common",
-            "Cost": 2,
-            "ScriptSource": "#\n# Card Id: HiveGuardian\n# Card Text: Sentinel. Counter 1.\n# Author: Chen Meiyi\nclass HiveGuardian:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsSentinel)\n\n  def afterDefends(self, thisCard, attacker):\n      thisCard.ModifyAttack(1)\n",
-            "PlayVFX": "Effect_EnemyCardLight02",
-            "PlaySFX": "enemy_cardlight_spider_e",
-            "AttackVFX": "Effect_Attack_Swore",
-            "AttackSFX": "event_attack_sword_e",
-            "DeathVFX": "Effect_Death3",
-            "DeathSFX": "die_both_e",
-            "FlavorText": null,
-            "ArtistName": null,
-            "Status": null
-          },
-          {
-            "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "Attack": 1,
-            "Health": 3,
-            "Id": "HatchlingSpider",
-            "CardType": "Enemy",
-            "ShopType": "Starter",
-            "Trait": "Spider",
-            "CardRarity": "Common",
-            "Cost": 1,
-            "ScriptSource": null,
-            "PlayVFX": "Effect_EnemyCardLight02",
-            "PlaySFX": "enemy_cardlight_spider_e",
-            "AttackVFX": "Effect_Attack_Swore",
-            "AttackSFX": "event_attack_sword_e",
-            "DeathVFX": "Effect_Death3",
-            "DeathSFX": "die_both_e",
-            "FlavorText": null,
-            "ArtistName": null,
-            "Status": null
-          }
-        ],
+        "SoloGameSetup": [],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          "TheSpidersWebs"
+          ""
         ]
       },
       {
-        "$type": "LOTR.SharedData.Quests.QuestStage, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
         "Title": "TheSpidersWebs",
-        "SoloGameSetup": [
-          {
-            "$type": "LOTR.SharedData.Cards.CardObjective, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "QuestPoints": 8,
-            "Id": "EscapeTheSpidersLair",
-            "CardType": "Objective",
-            "ShopType": "Starter",
-            "Trait": "",
-            "CardRarity": "Common",
-            "Cost": 0,
-            "ScriptSource": "# Card Id: EscapeTheSpidersLair\n# Card Text: Allow travel from this location.\n# Author: Bart Lim\n\nclass EscapeTheSpidersLair:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  # Triggers when this card is defeated\n  def whenLeavesPlay(self, thisCard):\n    AllowTravel()",
-            "PlayVFX": null,
-            "PlaySFX": null,
-            "AttackVFX": null,
-            "AttackSFX": null,
-            "DeathVFX": null,
-            "DeathSFX": null,
-            "FlavorText": null,
-            "ArtistName": null,
-            "Status": null
-          },
-          {
-            "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "Attack": 3,
-            "Health": 4,
-            "Id": "SpidersOfMirkwood",
-            "CardType": "Enemy",
-            "ShopType": "Starter",
-            "Trait": "Spider",
-            "CardRarity": "Common",
-            "Cost": 3,
-            "ScriptSource": "#\n# Card Id: SpidersOfMirkwood\n# Card Text: Sentinel\n# Author: Bart Lim\n\nclass SpidersOfMirkwood:\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  # Triggers when a card enters play\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsSentinel)",
-            "PlayVFX": "Effect_EnemyCardLight02",
-            "PlaySFX": "enemy_cardlight_spider_e",
-            "AttackVFX": "Effect_Attack_Swore",
-            "AttackSFX": "event_attack_sword_e",
-            "DeathVFX": "Effect_Death3",
-            "DeathSFX": "die_both_e",
-            "FlavorText": null,
-            "ArtistName": null,
-            "Status": null
-          }
-        ],
+        "SoloGameSetup": [],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          "ForestGlade"
+          ""
         ]
       },
       {
-        "$type": "LOTR.SharedData.Quests.QuestStage, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
         "Title": "ForestGlade",
-        "SoloGameSetup": [
-          {
-            "$type": "LOTR.SharedData.Cards.CardBoss, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "Attack": 4,
-            "Health": 8,
-            "Id": "UngoliantsSpawn",
-            "CardType": "Boss",
-            "ShopType": "Starter",
-            "Trait": "Spider",
-            "CardRarity": "Common",
-            "Cost": 0,
-            "ScriptSource": "class UngoliantsSpawn: \n    def __init__(self):\n        pass\n\n    def afterCardPlayed(self, thisCard, playedCard):\n        if (playedCard.CardId) == (\"HatchlingSpider\"):\n            playedCard.ModifyAttack(1)\n            playedCard.AddAttribute(StagingCardAttribute.IsSentinel)\n\n    def atUpkeep(self, thisCard):\n        _encounters.AddEncounter(\"HatchlingSpider\")\n\n    def whenLeavesPlay(self, thisCard):\n        for var in _encounters.GetEnemies():\n            if (var.CardId) == (\"HatchlingSpider\"):\n                var.ModifyAttack(-1)\n                var.RemoveAttribute(StagingCardAttribute.IsSentinel)\n\n    def whenPlayed(self, thisCard):\n        thisCard.AddAttribute(StagingCardAttribute.IsUnique)\n        for var in _encounters.GetEnemies():\n            if (var.CardId) == (\"HatchlingSpider\"):\n                var.ModifyAttack(1)\n                var.AddAttribute(StagingCardAttribute.IsSentinel)\n",
-            "PlayVFX": "Effect_EnemyCardLight02",
-            "PlaySFX": "enemy_cardlight_spider_e",
-            "AttackVFX": "Effect_Attack_Swore",
-            "AttackSFX": "event_attack_sword_e",
-            "DeathVFX": "Effect_Death3",
-            "DeathSFX": "die_both_e",
-            "FlavorText": null,
-            "ArtistName": null,
-            "Status": null
-          },
-          {
-            "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "Attack": 2,
-            "Health": 8,
-            "Id": "GiantSpider",
-            "CardType": "Enemy",
-            "ShopType": "Starter",
-            "Trait": "Spider",
-            "CardRarity": "Common",
-            "Cost": 5,
-            "ScriptSource": "#\n# Card Id: GiantSpider\n# Card Text: Sentinel\n# Author: Bart Lim\n\nclass GiantSpider:\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  # Triggers when a card enters play\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsSentinel)",
-            "PlayVFX": "Effect_EnemyCardLight02",
-            "PlaySFX": "enemy_cardlight_spider_e",
-            "AttackVFX": "Effect_Attack_Swore",
-            "AttackSFX": "event_attack_sword_e",
-            "DeathVFX": "Effect_Death3",
-            "DeathSFX": "die_both_e",
-            "FlavorText": null,
-            "ArtistName": null,
-            "Status": null
-          }
-        ],
+        "SoloGameSetup": [],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
@@ -295,9 +110,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20171219020013248",
+  "Version": "20171219145601226",
   "Key": "MainQuest",
   "SubKey": "FliesAndSpiders",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_FliesAndSpiders_20171219020013248"
+  "InternalKey": "MainQuest_FliesAndSpiders_20171219145601226"
 }
