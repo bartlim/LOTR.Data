@@ -6,63 +6,7 @@
       "DeckList": [
         {
           "Id": "BlackForestBats",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "DolGuldurOrcs",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "EastBightPatrol",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Enfeebled",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "DrivenByShadow",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "GoblinSniper",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "MirkwoodPatrol",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "ThickWebs",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Tribulation",
-          "Quantity": 2,
+          "Quantity": 5,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -72,25 +16,38 @@
     "Stages": [
       {
         "Title": "ToTheRiver",
-        "SoloGameSetup": [],
+        "SoloGameSetup": [
+          "FindTheRaft",
+          "DolGuldurOrcs",
+          "HillTroll"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "AnduinPassage"
         ]
       },
       {
         "Title": "AnduinPassage",
-        "SoloGameSetup": [],
+        "SoloGameSetup": [
+          "NavigateTheRiver",
+          "GoblinSniper",
+          "WargRiders"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "AmbushOnTheShore"
         ]
       },
       {
         "Title": "AmbushOnTheShore",
-        "SoloGameSetup": [],
+        "SoloGameSetup": [
+          "AmbushOnTheShore",
+          "OrcMarauder",
+          "Wargs",
+          "EliteDolGuldurOrcs"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
@@ -101,9 +58,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20171219145608408",
+  "Version": "20171219180904746",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20171219145608408"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20171219180904746"
 }
