@@ -245,7 +245,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "HiddenCache",
       "Title": "Hidden Cache",
-      "Text": "Action: Gain 1 Resource."
+      "Text": "Gain 1 Resource."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -305,7 +305,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "LoriensWealth",
       "Title": "Lorien's Wealth",
-      "Text": "Action: Draw Two Cards."
+      "Text": "Draw 2 cards."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -473,7 +473,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "WatersOfNimrodel",
       "Title": "Waters of Nimrodel",
-      "Text": "Action: Heal 3 damage to a Character."
+      "Text": "Heal 3 damage from a Character."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -1088,9 +1088,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20171221155834896",
+  "Version": "20171221161624131",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20171221155834896"
+  "InternalKey": "Localization_20171221161624131"
 }
