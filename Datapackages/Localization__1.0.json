@@ -719,7 +719,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "GiantMarshWorm",
       "Title": "‰Giant Marsh Worm",
-      "Text": "Stalwart. Vigilant. Forced: When Giant Marsh Worm attacks, defending player's Threat increases by 1."
+      "Text": "C_GIANTMARSHWORM_TEXT"
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -815,7 +815,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "MarshAdder",
       "Title": "‰Marsh Adder",
-      "Text": "Stalwart. Vigilant."
+      "Text": "Stalwart. Vigilant. Forced: When Marsh Adder attacks, the defending player's Threat increases by 1."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -1088,9 +1088,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20171221194908284",
+  "Version": "20171221203410110",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20171221194908284"
+  "InternalKey": "Localization_20171221203410110"
 }
