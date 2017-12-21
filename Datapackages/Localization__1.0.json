@@ -202,7 +202,7 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Ghanburighan",
-      "Title": "‰Ghan-buri-ghan",
+      "Title": "?Gh?n-buri-Gh?n",
       "Text": "Stealth. X Willpower (X equals the number of Objectives in play)."
     },
     {
@@ -1088,9 +1088,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20171221153551947",
+  "Version": "20171221155834896",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20171221153551947"
+  "InternalKey": "Localization_20171221155834896"
 }
