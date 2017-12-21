@@ -305,7 +305,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "LoriensWealth",
       "Title": "Lorien's Wealth",
-      "Text": "Draw 2 cards."
+      "Text": "Draw 2 Cards"
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -1088,9 +1088,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20171221203410110",
+  "Version": "20171221215357039",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20171221203410110"
+  "InternalKey": "Localization_20171221215357039"
 }
