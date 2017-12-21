@@ -1,5 +1,10 @@
 {
   "DataSet": [
+    "210600Quest01",
+    "210600Quest02",
+    "210600Quest03",
+    "210600Quest04",
+    "210600Quest05",
     "ConflictAtTheCarrock",
     "FliesAndSpiders",
     "JourneyDownTheAnduin",
@@ -11,9 +16,9 @@
     "TestPoisonedBySpiderQuest04",
     "TestPoisonedBySpiderQuest05"
   ],
-  "Version": "1.0",
+  "Version": "20171221180401422",
   "Key": "QuestTitles",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "QuestTitles1.0"
+  "InternalKey": "QuestTitles20171221180401422"
 }
