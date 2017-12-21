@@ -178,6 +178,87 @@
       ]
     },
     {
+      "Id": "TestPoisonedBySpider",
+      "Name": "TestPoisonedBySpider",
+      "Quests": [
+        {
+          "Id": "TestPoisonedBySpiderQuest01",
+          "Name": "TestPoisonedBySpiderQuest01",
+          "Description": "",
+          "Stages": [
+            {
+              "Id": "Location101",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "Id": "TestPoisonedBySpiderQuest02",
+          "Name": "TestPoisonedBySpiderQuest02",
+          "Description": "",
+          "Stages": [
+            {
+              "Id": "Location201",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "Id": "TestPoisonedBySpiderQuest03",
+          "Name": "TestPoisonedBySpiderQuest03",
+          "Description": "",
+          "Stages": [
+            {
+              "Id": "Location301",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "Id": "TestPoisonedBySpiderQuest04",
+          "Name": "TestPoisonedBySpiderQuest04",
+          "Description": "",
+          "Stages": [
+            {
+              "Id": "Location401",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        },
+        {
+          "Id": "TestPoisonedBySpiderQuest05",
+          "Name": "TestPoisonedBySpiderQuest05",
+          "Description": "",
+          "Stages": [
+            {
+              "Id": "Location501",
+              "StageName": "Forest2",
+              "StoryText": "",
+              "ObjectiveText": ""
+            }
+          ],
+          "VictoryText": null,
+          "DefeatText": null
+        }
+      ]
+    },
+    {
       "Id": "Tutorial",
       "Name": "Tutorial",
       "Quests": [
