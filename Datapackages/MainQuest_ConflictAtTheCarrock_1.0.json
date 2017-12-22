@@ -1,10 +1,14 @@
 {
+  "$type": "LOTR.SharedData.Package.DataPackage`1[[LOTR.SharedData.Quests.MainQuest, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
   "DataSet": {
+    "$type": "LOTR.SharedData.Quests.MainQuest, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
     "Title": "ConflictAtTheCarrock",
     "SauronDeckInfo": {
+      "$type": "LOTR.SharedData.Decks.SauronDeckInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Id": null,
       "DeckList": [
         {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
           "Id": "BlackForestBats",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -12,6 +16,7 @@
           "MaxDifficulty": 4
         },
         {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
           "Id": "DolGuldurOrcs",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -19,6 +24,7 @@
           "MaxDifficulty": 4
         },
         {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
           "Id": "EastBightPatrol",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -26,6 +32,7 @@
           "MaxDifficulty": 4
         },
         {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
           "Id": "Enfeebled",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -33,6 +40,7 @@
           "MaxDifficulty": 4
         },
         {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
           "Id": "DrivenByShadow",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -40,6 +48,7 @@
           "MaxDifficulty": 4
         },
         {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
           "Id": "GoblinSniper",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -47,6 +56,7 @@
           "MaxDifficulty": 4
         },
         {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
           "Id": "MirkwoodPatrol",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -54,6 +64,7 @@
           "MaxDifficulty": 4
         },
         {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
           "Id": "ThickWebs",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -61,6 +72,7 @@
           "MaxDifficulty": 4
         },
         {
+          "$type": "LOTR.SharedData.Decks.SauronDeckCardInfo, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
           "Id": "Tribulation",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -71,12 +83,92 @@
     },
     "Stages": [
       {
+        "$type": "LOTR.SharedData.Quests.QuestStage, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
         "Title": "SearchingForGrimbeorn",
         "SoloGameSetup": [
-          "FollowGrimbeornsTrail",
-          "WildBear",
-          "MirkwoodFlock",
-          "Wargs"
+          {
+            "$type": "LOTR.SharedData.Cards.CardObjective, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "QuestPoints": 6,
+            "Id": "FollowGrimbeornsTrail",
+            "CardType": "Objective",
+            "ShopType": "Starter",
+            "Trait": "",
+            "CardRarity": "Common",
+            "Cost": 0,
+            "ScriptSource": "# Card Id: FollowGrimbeornsTrail\n# Card Text: Allow travel from this location.\n# Author: Chen Meiyi\n\nclass FollowGrimbeornsTrail:\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  # Triggers when this card is defeated\n  def whenLeavesPlay(self, thisCard):\n    AllowTravel()\n    ",
+            "PlayVFX": null,
+            "PlaySFX": null,
+            "AttackVFX": null,
+            "AttackSFX": null,
+            "DeathVFX": null,
+            "DeathSFX": null,
+            "FlavorText": null,
+            "ArtistName": null,
+            "Status": null
+          },
+          {
+            "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "Attack": 3,
+            "Health": 4,
+            "Id": "WildBear",
+            "CardType": "Enemy",
+            "ShopType": "Starter",
+            "Trait": "Creature",
+            "CardRarity": "Common",
+            "Cost": 3,
+            "ScriptSource": "#\n# Card Id: WildBear\n# Card Text: Pursuit. Stalwart.\n# Author: Chen Meiyi\nclass WildBear:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsPursuit)\n    thisCard.AddAttribute(StagingCardAttribute.IsStalwart)",
+            "PlayVFX": null,
+            "PlaySFX": null,
+            "AttackVFX": null,
+            "AttackSFX": null,
+            "DeathVFX": null,
+            "DeathSFX": null,
+            "FlavorText": null,
+            "ArtistName": null,
+            "Status": null
+          },
+          {
+            "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "Attack": 1,
+            "Health": 1,
+            "Id": "MirkwoodFlock",
+            "CardType": "Enemy",
+            "ShopType": "Starter",
+            "Trait": "Creature",
+            "CardRarity": "Common",
+            "Cost": 1,
+            "ScriptSource": "#\n# Card Id: MirkwoodFlock\n# Card Text: Moribund: Sauron gains 1 resource.\n# Author: Chen Meiyi\nclass MirkwoodFlock:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  def whenLeavesPlay(self, thisCard):\n      ModifySauronResources(1)\n",
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_both_e",
+            "AttackVFX": "Effect_Attack_Swore",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
+            "FlavorText": null,
+            "ArtistName": null,
+            "Status": null
+          },
+          {
+            "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "Attack": 1,
+            "Health": 4,
+            "Id": "Wargs",
+            "CardType": "Enemy",
+            "ShopType": "Starter",
+            "Trait": "Creature",
+            "CardRarity": "Common",
+            "Cost": 2,
+            "ScriptSource": "#\n# Card Id: Wargs\n# Card Text: Vigilant. Aggressive 1.\n# Author: Chen Meiyi\nclass Wargs:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n    \n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsVigilant)\n    \n  def beforeAttacks(self, thisCard, defender):\n    thisCard.ModifyAttack(1)\n\n  def afterCombats(self, thisCard, defender):\n    thisCard.SetAttack(thisCard.BaseAttack)",
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_both_e",
+            "AttackVFX": "Effect_Attack_Swore",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
+            "FlavorText": null,
+            "ArtistName": null,
+            "Status": null
+          }
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -85,12 +177,92 @@
         ]
       },
       {
+        "$type": "LOTR.SharedData.Quests.QuestStage, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
         "Title": "TheTrollsDinner",
         "SoloGameSetup": [
-          "RescueGrimbeorn",
-          "HillTroll",
-          "AnduinTrollSpawn",
-          "BlackForestBats"
+          {
+            "$type": "LOTR.SharedData.Cards.CardObjective, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "QuestPoints": 8,
+            "Id": "RescueGrimbeorn",
+            "CardType": "Objective",
+            "ShopType": "Starter",
+            "Trait": "",
+            "CardRarity": "Common",
+            "Cost": 0,
+            "ScriptSource": "# Card Id: Rescue Grimbeorn\n# Card Text: Take control of the Grimbeorn ally and immediately travel to The Carrock.\n# Author: Chen Meiyi\n\nclass RescueGrimbeorn:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  # Triggers when this card is defeated\n  def afterDefeated(self, thisCard, attacker):\n      _playerParty.AddCharacter(\"Grimbeorn\")\n      StartTravel(\"FightWithTheTrolls\", True)",
+            "PlayVFX": null,
+            "PlaySFX": null,
+            "AttackVFX": null,
+            "AttackSFX": null,
+            "DeathVFX": null,
+            "DeathSFX": null,
+            "FlavorText": null,
+            "ArtistName": null,
+            "Status": null
+          },
+          {
+            "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "Attack": 3,
+            "Health": 8,
+            "Id": "HillTroll",
+            "CardType": "Enemy",
+            "ShopType": "Starter",
+            "Trait": "Troll",
+            "CardRarity": "Common",
+            "Cost": 6,
+            "ScriptSource": null,
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_both_e",
+            "AttackVFX": "Effect_Attack_AXE",
+            "AttackSFX": "event_attack_axe_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
+            "FlavorText": null,
+            "ArtistName": null,
+            "Status": null
+          },
+          {
+            "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "Attack": 2,
+            "Health": 5,
+            "Id": "AnduinTrollSpawn",
+            "CardType": "Enemy",
+            "ShopType": "Starter",
+            "Trait": "Troll",
+            "CardRarity": "Common",
+            "Cost": 4,
+            "ScriptSource": "#\n# Card Id: AnduinTrollSpawn\n# Card Text: Block 1.\n# Author: Chen Meiyi\nclass AnduinTrollSpawn:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  def whenPlayed(self, thisCard):\n    thisCard.BlockX = 1",
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_both_e",
+            "AttackVFX": "Effect_Attack_AXE",
+            "AttackSFX": "event_attack_axe_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
+            "FlavorText": null,
+            "ArtistName": null,
+            "Status": null
+          },
+          {
+            "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "Attack": 1,
+            "Health": 1,
+            "Id": "BlackForestBats",
+            "CardType": "Enemy",
+            "ShopType": "Starter",
+            "Trait": "Creature",
+            "CardRarity": "Common",
+            "Cost": 1,
+            "ScriptSource": null,
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_both_e",
+            "AttackVFX": "Effect_Attack_Foot",
+            "AttackSFX": "event_attack_feet_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
+            "FlavorText": null,
+            "ArtistName": null,
+            "Status": null
+          }
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -99,11 +271,72 @@
         ]
       },
       {
+        "$type": "LOTR.SharedData.Quests.QuestStage, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
         "Title": "FightWithTheTrolls",
         "SoloGameSetup": [
-          "Louis",
-          "Stuart",
-          "Rupert"
+          {
+            "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "Attack": 2,
+            "Health": 9,
+            "Id": "Louis",
+            "CardType": "Enemy",
+            "ShopType": "Starter",
+            "Trait": "Troll",
+            "CardRarity": "Common",
+            "Cost": 0,
+            "ScriptSource": "#\n# Card Id: Louis\n# Card Text: Unique. Each Troll enemy has Stalwart\n# Author: Chen Meiyi\nclass Louis:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsUnique)\n    enemies = _encounters.GetEnemies()\n    for enemy in enemies:\n      if enemy.ConfigData.Trait == \"Troll\":\n        enemy.AddAttribute(StagingCardAttribute.IsStalwart)\n\n  def whenLeavesPlay(self, thisCard):\n    enemies = _encounters.GetEnemies()\n    for enemy in enemies:\n      if enemy.ConfigData.Trait == \"Troll\":\n        enemy.RemoveAttribute(StagingCardAttribute.IsStalwart)",
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_both_e",
+            "AttackVFX": "Effect_Attack_AXE",
+            "AttackSFX": "event_attack_axe_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
+            "FlavorText": null,
+            "ArtistName": null,
+            "Status": null
+          },
+          {
+            "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "Attack": 2,
+            "Health": 9,
+            "Id": "Stuart",
+            "CardType": "Enemy",
+            "ShopType": "Starter",
+            "Trait": "Troll",
+            "CardRarity": "Common",
+            "Cost": 0,
+            "ScriptSource": "#\n# Card Id: Stuart\n# Card Text: Unique. Upkeep: Heal 1 damage from each Troll enemy.\n# Author: Chen Meiyi\nclass Stuart:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsUnique)\n    \n  def atUpkeep(self, thisCard):\n    enemies = _encounters.GetEnemies()\n    for enemy in enemies:\n      if enemy.ConfigData.Trait == \"Troll\":\n        enemy.Heal(1)",
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_both_e",
+            "AttackVFX": "Effect_Attack_Swore",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
+            "FlavorText": null,
+            "ArtistName": null,
+            "Status": null
+          },
+          {
+            "$type": "LOTR.SharedData.Cards.CardEnemy, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "Attack": 2,
+            "Health": 9,
+            "Id": "Rupert",
+            "CardType": "Enemy",
+            "ShopType": "Starter",
+            "Trait": "Troll",
+            "CardRarity": "Common",
+            "Cost": 0,
+            "ScriptSource": "#\n# Card Id: Rupert\n# Card Text: Unique. Each Troll enemy has +1 ATK.\n# Author: Chen Meiyi\nclass Rupert:\n\n  # Default initialization for the script\n  def __init__(self):\n    pass\n\n  def whenPlayed(self, thisCard):\n    thisCard.AddAttribute(StagingCardAttribute.IsUnique)\n    enemies = _encounters.GetEnemies()\n    for enemy in enemies:\n      if enemy.ConfigData.Trait == \"Troll\":\n        enemy.ModifyAttack(1)\n\n  def whenLeavesPlay(self, thisCard):\n    enemies = _encounters.GetEnemies()\n    for enemy in enemies:\n      if enemy.ConfigData.Trait == \"Troll\":\n        enemy.ModifyAttack(-1)",
+            "PlayVFX": "Effect_EnemyCardLight",
+            "PlaySFX": "enemy_cardlight_both_e",
+            "AttackVFX": "Effect_Attack_Swore",
+            "AttackSFX": "event_attack_sword_e",
+            "DeathVFX": "Effect_Death3",
+            "DeathSFX": "die_both_e",
+            "FlavorText": null,
+            "ArtistName": null,
+            "Status": null
+          }
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -115,9 +348,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20171219183234058",
+  "Version": "20171222084122105",
   "Key": "MainQuest",
   "SubKey": "ConflictAtTheCarrock",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ConflictAtTheCarrock_20171219183234058"
+  "InternalKey": "MainQuest_ConflictAtTheCarrock_20171222084122105"
 }
