@@ -125,7 +125,7 @@
     },
     {
       "Id": "AdventuresInWilderland",
-      "IconSprite": "Sprites/Quest/icon_q1",
+      "IconSprite": null,
       "MapPosX": 3.8,
       "MapPosY": -8.0,
       "Quests": [
@@ -237,10 +237,6 @@
             },
             {
               "Id": "ThickWebs",
-              "Amount": 2
-            },
-            {
-              "Id": "Tribulation",
               "Amount": 2
             }
           ]
