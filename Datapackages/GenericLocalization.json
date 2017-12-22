@@ -1,146 +1,3522 @@
 [
   {
-    "Id": "Q_CAMPAIGN_210600_NAME",
-    "Text": "210600"
+    "Id": "U_GAME_TITLE",
+    "Text": "The Lord of the Rings Living Card Game"
   },
   {
-    "Id": "Q_QUEST_210600Quest01_NAME",
-    "Text": "Q_QUEST_210600QUEST01_NAME"
+    "Id": "U_MENU_COMMON_LOADING",
+    "Text": "Loading…"
   },
   {
-    "Id": "Q_QUEST_210600Quest01_DESCRIPTION",
-    "Text": "MyDesc"
+    "Id": "U_MENU_COMMON_CONNECTING",
+    "Text": "CONNECTING…"
   },
   {
-    "Id": "Q_QUEST_210600Quest01_VICTORY_TEXT",
-    "Text": "Q_QUEST_210600QUEST01_VICTORY_TEXT"
+    "Id": "U_MENU_COMMON_PURCHASING",
+    "Text": "Purchasing…"
   },
   {
-    "Id": "Q_QUEST_210600Quest01_DEFEAT_TEXT",
-    "Text": "Q_QUEST_210600QUEST01_DEFEAT_TEXT"
+    "Id": "U_MENU_COMMON_CONTINUE",
+    "Text": "Continue"
   },
   {
-    "Id": "Q_STAGE_Location101_NAME",
-    "Text": "Q_STAGE_LOCATION101_NAME"
+    "Id": "U_MENU_COMMON_YES",
+    "Text": "Yes"
   },
   {
-    "Id": " Q_STAGE_Location101_TEXT",
-    "Text": "Q_STAGE_LOCATION101_TEXT"
+    "Id": "U_MENU_COMMON_NO",
+    "Text": "No"
   },
   {
-    "Id": "Q_STAGE_Location101_OBJECTIVE",
-    "Text": "myObjective"
+    "Id": "U_MENU_COMMON_CONFIRM",
+    "Text": "Confirm"
   },
   {
-    "Id": "Q_QUEST_210600Quest02_NAME",
-    "Text": "Q_QUEST_210600QUEST02_NAME"
+    "Id": "U_MENU_COMMON_START",
+    "Text": "Start"
   },
   {
-    "Id": "Q_QUEST_210600Quest02_DESCRIPTION",
+    "Id": "U_MENU_COMMON_CANCEL",
+    "Text": "Cancel"
+  },
+  {
+    "Id": "U_MENU_COMMON_OK",
+    "Text": "OK"
+  },
+  {
+    "Id": "U_MENU_COMMON_BACK",
+    "Text": "BACK"
+  },
+  {
+    "Id": "U_ERROR_MSG_STRANGE",
+    "Text": "An error has occurred. Please check the error log and report everything strange to developers."
+  },
+  {
+    "Id": "U_MAINMENU_PLAY",
+    "Text": "PLAY"
+  },
+  {
+    "Id": "U_MAINMENU_DECKS",
+    "Text": "DECKS"
+  },
+  {
+    "Id": "U_MAINMENU_PALANTIR",
+    "Text": "PALANTIR"
+  },
+  {
+    "Id": "U_MAINMENU_VALOR",
+    "Text": "VALOR"
+  },
+  {
+    "Id": "U_MAINMENU_SHOP",
+    "Text": "SHOP"
+  },
+  {
+    "Id": "U_MAINMENU_PLAYER_DEFAULT_NAME",
+    "Text": "PLAYER NAME"
+  },
+  {
+    "Id": "U_OPTIONS_TITLE",
+    "Text": "GAME OPTION"
+  },
+  {
+    "Id": "U_OPTIONS_RESOLUTION",
+    "Text": "Resolution"
+  },
+  {
+    "Id": "U_OPTIONS_APPLY",
+    "Text": "APPLY"
+  },
+  {
+    "Id": "U_OPTIONS_FULLSCREEN",
+    "Text": "Fullscreen"
+  },
+  {
+    "Id": "U_OPTIONS_VOLUME",
+    "Text": "Volume"
+  },
+  {
+    "Id": "U_OPTIONS_SKIPTUTORIAL",
+    "Text": "SKIP TUTORIAL"
+  },
+  {
+    "Id": "U_OPTIONS_REPLAYTUTORIAL",
+    "Text": "REPLAY TUTORIAL"
+  },
+  {
+    "Id": "U_OPTIONS_MAINMENU",
+    "Text": "MAIN MENU"
+  },
+  {
+    "Id": "U_OPTIONS_QUITGAME",
+    "Text": "QUIT GAME"
+  },
+  {
+    "Id": "U_OPTIONS_GLOSSARRY",
+    "Text": "GLOSSARY"
+  },
+  {
+    "Id": "U_DECKMENU_DECKBUILDER",
+    "Text": "DECK BUILDER"
+  },
+  {
+    "Id": "U_DECKMENU_TAB_HERO",
+    "Text": "HEROES"
+  },
+  {
+    "Id": "U_DECKMENU_TAB_CARDS",
+    "Text": "CARDS"
+  },
+  {
+    "Id": "U_DECKMENU_TAB_FAVORCARDS",
+    "Text": "FAVOR CARDS"
+  },
+  {
+    "Id": "U_DECKMENU_TAB_SAURONCARDS",
+    "Text": "SAURON CARDS"
+  },
+  {
+    "Id": "U_DECKMENU_TAB_CARDBACKS",
+    "Text": "CARD BACKS"
+  },
+  {
+    "Id": "U_DECKMENU_SEARCH_FIELD",
+    "Text": "Search…"
+  },
+  {
+    "Id": "U_DECKMENU_SEARCH_NOMATCH",
+    "Text": "NO MATCHING CARD"
+  },
+  {
+    "Id": "U_DECKMENU_BUTTON_OWNED",
+    "Text": "OWNED"
+  },
+  {
+    "Id": "U_DECKMENU_FILTER_SPHERE_ALL",
+    "Text": "All Spheres"
+  },
+  {
+    "Id": "U_DECKMENU_FILTER_SPHERE_LEADERSHIP",
+    "Text": "Leadership"
+  },
+  {
+    "Id": "U_DECKMENU_FILTER_SPHERE_LORE",
+    "Text": "Lore"
+  },
+  {
+    "Id": "U_DECKMENU_FILTER_SPHERE_SPIRIT",
+    "Text": "Sprite"
+  },
+  {
+    "Id": "U_DECKMENU_FILTER_SPHERE_TACTICS",
+    "Text": "Tactics"
+  },
+  {
+    "Id": "U_DECKMENU_FILTER_SPHERE_NEUTRAL",
+    "Text": "Neutral"
+  },
+  {
+    "Id": "U_DECKMENU_BUTTON_ALL",
+    "Text": "ALL"
+  },
+  {
+    "Id": "U_DECKMENU_FILTER_TYPE_ALL",
+    "Text": "All Types"
+  },
+  {
+    "Id": "U_DECKMENU_FILTER_TYPE_ALLY",
+    "Text": "Ally"
+  },
+  {
+    "Id": "U_DECKMENU_FILTER_TYPE_ATTACHMENT",
+    "Text": "Attachment"
+  },
+  {
+    "Id": "U_DECKMENU_FILTER_TYPE_EVENT",
+    "Text": "Event"
+  },
+  {
+    "Id": "U_DECKMENT_COMINGSOON",
+    "Text": "COMING SOON"
+  },
+  {
+    "Id": "U_DECKMENT_PAGE_NUMBER",
+    "Text": "page {0}/{1}"
+  },
+  {
+    "Id": "U_DECKMENU_DECKLIST_TITLE",
+    "Text": "DECK LIST"
+  },
+  {
+    "Id": "U_DECKMENU_DECKLIST_NEWDECK",
+    "Text": "NEW DECK"
+  },
+  {
+    "Id": "U_DECKMENU_DECKLIST_RENAME",
+    "Text": "RENAME"
+  },
+  {
+    "Id": "U_DECKMENU_DECKLIST_RENAMEPOPUP",
+    "Text": "Enter new name"
+  },
+  {
+    "Id": "U_DECKMENU_DECKLIST_RENAME_DEFAULT",
+    "Text": "New Deck"
+  },
+  {
+    "Id": "U_DECKMENU_DECKLIST_DELETE",
+    "Text": "DELETE"
+  },
+  {
+    "Id": "U_DECKMENU_DECKLIST_SAVE",
+    "Text": "SAVE"
+  },
+  {
+    "Id": "U_DECKMENU_DECKLIST_REMOVEHERO",
+    "Text": "Removing this Hero will also remove from the deck any cards of the same Sphere. Are you sure you want to continue?"
+  },
+  {
+    "Id": "U_DECKMENU_CARDBACK_APPLY",
+    "Text": "APPLY"
+  },
+  {
+    "Id": "U_DECKMENU_CARDBACK_APPLIED",
+    "Text": "APPLIED"
+  },
+  {
+    "Id": "U_PALANTIR_SELECT_TO_GAZE",
+    "Text": "Select to gaze into the Palantir"
+  },
+  {
+    "Id": "U_PALANTIR_TITLE",
+    "Text": "PALANTIR VIEW"
+  },
+  {
+    "Id": "U_PALANTIR_VIEW_COUNT_1",
+    "Text": "{0} Palantir gaze"
+  },
+  {
+    "Id": "U_PALANTIR_VIEW_COUNT_2",
+    "Text": "{0} Palantir gazes"
+  },
+  {
+    "Id": "U_PALANTIR_MSG_BOOST_YOUR",
+    "Text": "BOOST YOUR COLLECTION"
+  },
+  {
+    "Id": "U_PALANTIR_BUY_BUTTON",
+    "Text": "Buy 1 view"
+  },
+  {
+    "Id": "U_PALANTIR_REWARD_TITLE",
+    "Text": "YOUR REWARD"
+  },
+  {
+    "Id": "U_PALANTIR_VALOR_COUNT",
+    "Text": "{0} Valor"
+  },
+  {
+    "Id": "U_SHOP_TAB_FEATURE",
+    "Text": "FEATURED"
+  },
+  {
+    "Id": "U_SHOP_TAB_QUESTPACKS",
+    "Text": "QUEST PACKS"
+  },
+  {
+    "Id": "U_SHOP_TAB_HEROPACKS",
+    "Text": "HERO PACKS"
+  },
+  {
+    "Id": "U_SHOP_TAB_VALOR",
+    "Text": "VALOR CARDS"
+  },
+  {
+    "Id": "U_SHOP_TAB_FAVORCARDS",
+    "Text": "FAVOR CARDS"
+  },
+  {
+    "Id": "U_SHOP_TAB_FILTERS",
+    "Text": "FILTERS"
+  },
+  {
+    "Id": "U_SHOP_TITLE",
+    "Text": "STORE"
+  },
+  {
+    "Id": "U_SHOP_OFF_TAG",
+    "Text": "{0}%Off"
+  },
+  {
+    "Id": "U_SHOP_FILTER_SEARCH",
+    "Text": "SEARCH"
+  },
+  {
+    "Id": "U_SHOP_FILTER_ONSALE",
+    "Text": "ON SALE"
+  },
+  {
+    "Id": "U_SHOP_FILTER_NOWOWNED",
+    "Text": "NOT OWNED"
+  },
+  {
+    "Id": "U_SHOP_FILTER_SEASON",
+    "Text": "SEASON {0}"
+  },
+  {
+    "Id": "U_SHOP_FILTER_SHOWALL",
+    "Text": "SHOW ALL"
+  },
+  {
+    "Id": "U_SHOP_SORTBY_RELEASE",
+    "Text": "RELEASE"
+  },
+  {
+    "Id": "U_SHOP_SORTBY_PRICE",
+    "Text": "PRICE"
+  },
+  {
+    "Id": "U_SHOP_SORTBY_DATE",
+    "Text": "DATE"
+  },
+  {
+    "Id": "U_SHOP_SORTBY_ALPHABETICAL",
+    "Text": "ALPHABETICAL"
+  },
+  {
+    "Id": "U_SHOP_BUY_BUTTON",
+    "Text": "BUY"
+  },
+  {
+    "Id": "U_SHOP_BUY_FREE_TOKEN_MSG",
+    "Text": "Receive one free Palantir gaze when you unlock this pack!"
+  },
+  {
+    "Id": "U_SHOP_BUY_CONFIRM_MSG",
+    "Text": "Are you sure to buy it with {0} VP?"
+  },
+  {
+    "Id": "U_SHOP_BUY_CONFIRM_MSG_2",
+    "Text": "Are you sure to buy {1} with {0} VP?"
+  },
+  {
+    "Id": "U_SHOP_CARD_CAN_GET_FROM",
+    "Text": "This card can be obtained from: {0}."
+  },
+  {
+    "Id": "U_SHOP_ADVENTURING_PACK_01_TITLE",
+    "Text": "MISSING CONTENT"
+  },
+  {
+    "Id": "U_SHOP_ADVENTURING_PACK_01_DESC",
+    "Text": "MISSING CONTENT"
+  },
+  {
+    "Id": "U_SHOP_CARDBACK_01_TITLE",
+    "Text": "MISSING CONTENT"
+  },
+  {
+    "Id": "U_SHOP_CARDBACK_01_DESC",
+    "Text": "MISSING CONTENT"
+  },
+  {
+    "Id": "U_QUEST_TITLE",
+    "Text": "Quest"
+  },
+  {
+    "Id": "U_QUEST_CHOOSEDECK",
+    "Text": "CHOOSE DECK"
+  },
+  {
+    "Id": "U_QUEST_PLAY_COOP",
+    "Text": "PLAY CO-OP"
+  },
+  {
+    "Id": "U_QUEST_PLAY_SINGLE",
+    "Text": "PLAY SINGLE"
+  },
+  {
+    "Id": "U_QUEST_DIFFICULTY_NORMAL",
+    "Text": "NORMAL"
+  },
+  {
+    "Id": "U_QUEST_DIFFICULTY_HARD",
+    "Text": "HARD"
+  },
+  {
+    "Id": "U_QUEST_DIFFICULTY_NIGHTMARE",
+    "Text": "NIGHTMARE"
+  },
+  {
+    "Id": "U_ASMODEE_TITLE",
+    "Text": "Asmodee Account"
+  },
+  {
+    "Id": "U_ASMODEE_USERNAME",
+    "Text": "User Name"
+  },
+  {
+    "Id": "U_ASMODEE_PASSWORD",
+    "Text": "Password"
+  },
+  {
+    "Id": "U_ASMODEE_EMAIL",
+    "Text": "Email Address"
+  },
+  {
+    "Id": "U_ASMODEE_REPEAT_PASSWORD",
+    "Text": "Repeat Password"
+  },
+  {
+    "Id": "U_ASMODEE_ACCEPT",
+    "Text": "Accept the Agreement"
+  },
+  {
+    "Id": "U_ASMODEE_LOGIN",
+    "Text": "LOGIN GAME"
+  },
+  {
+    "Id": "U_ASMODEE_CREATE",
+    "Text": "CREATE ACCOUNT"
+  },
+  {
+    "Id": "U_ASMODEE_PLAY_TUT",
+    "Text": "PLAY TUTORIAL AGAIN"
+  },
+  {
+    "Id": "U_ASMODEE_BACK",
+    "Text": "BACK TO MAIN MENU"
+  },
+  {
+    "Id": "U_ASMODEE_MSG_EMAILINVALID",
+    "Text": "E-mail address is invalid. Please check your input."
+  },
+  {
+    "Id": "U_ASMODEE_MSG_PASSWORDNOTSAME",
+    "Text": "Passwords are not the same. Please re-enter your password."
+  },
+  {
+    "Id": "U_ASMODEE_MSG_ACCOUNTEXIST",
+    "Text": "This account already exists, please login with this account."
+  },
+  {
+    "Id": "U_ASMODEE_MSG_ACCOUNTNOTFOUND",
+    "Text": "Account not found. Please check your user name."
+  },
+  {
+    "Id": "U_ASMODEE_MSG_ACCOUNTCREATED",
+    "Text": "Account created, a confirmation e-mail has been sent. Please complete the confirmation, then use this account to login."
+  },
+  {
+    "Id": "U_ASMODEE_MSG_CREATED_CONGRATES",
+    "Text": "<b>Congratulations on creating your account!</b>\nAs a thank you, in addition to the Heroes, cards, and other rewards, you also get a pre-constructed deck. \nYou can use this to start your adventures right away -- simply select PLAY to begin!\nIf you want to"
+  },
+  {
+    "Id": "U_INGAME_ENDROUND",
+    "Text": "End Round"
+  },
+  {
+    "Id": "U_INGAME_ENDPLANNING",
+    "Text": "End Planning"
+  },
+  {
+    "Id": "U_INGAME_ENDPHASE",
+    "Text": "END PHASE"
+  },
+  {
+    "Id": "U_INGAME_TRAVEL",
+    "Text": "Travel"
+  },
+  {
+    "Id": "U_INGAME_TUTORIALSKIP_CONFIRM",
+    "Text": "Confirmation Window\n\nAre you sure you want to skip the tutorial for now? you will receive a reward after you complete this tutorial.\n\nYou can also replay the tutorial at any time through the option menu."
+  },
+  {
+    "Id": "U_INGAME_SELECT_CARD_TO_DISCARD",
+    "Text": "Select cards to discard"
+  },
+  {
+    "Id": "U_INGAME_SELECT_CARD_TO_REPLACE",
+    "Text": "Choose cards to replace"
+  },
+  {
+    "Id": "U_INGAME_TELL_ME_WISH",
+    "Text": "TELL ME YOUR WISH"
+  },
+  {
+    "Id": "U_INGAME_CHOOST_YOUR_PATH",
+    "Text": "Choose your path"
+  },
+  {
+    "Id": "U_INGAME_POPUP_ATTACHMENT_REPLACE",
+    "Text": "This will replace the chosen Character’s current {0} Attachment."
+  },
+  {
+    "Id": "U_INGAME_OBJECTIVE_OVERCOME",
+    "Text": " <b>Overcome:</b> {0}"
+  },
+  {
+    "Id": "U_INGAME_POPUP_QUICK_STRIKE",
+    "Text": "Please select a self card to quick strike an enemy"
+  },
+  {
+    "Id": "U_INGAME_CARD_OPTION_DRAW",
+    "Text": "Draw {0} cards"
+  },
+  {
+    "Id": "U_INGAME_CARD_OPTION_REDUCE",
+    "Text": "Reduce Threat by {0}"
+  },
+  {
+    "Id": "U_INGAME_CARD_OPTION_DEAL",
+    "Text": "Deal {0} damage"
+  },
+  {
+    "Id": "U_INGAME_CARD_OPTION_RAISETHREAT",
+    "Text": "Raise your Threat by 1 for each Ally you control"
+  },
+  {
+    "Id": "U_INGAME_CARD_OPTION_DISCARDALLY",
+    "Text": "Discard one Ally you control"
+  },
+  {
+    "Id": "U_CARDTYPE_ALLY",
+    "Text": "Ally"
+  },
+  {
+    "Id": "U_CARDTYPE_EQUIPMENT",
+    "Text": "Equipment"
+  },
+  {
+    "Id": "U_CARDTYPE_BOSS",
+    "Text": "Boss"
+  },
+  {
+    "Id": "U_CARDTYPE_ENEMY",
+    "Text": "Enemy"
+  },
+  {
+    "Id": "U_CARDTYPE_EVENT",
+    "Text": "Event"
+  },
+  {
+    "Id": "U_CARDTYPE_HAZARD",
+    "Text": "Hazard"
+  },
+  {
+    "Id": "U_CARDTYPE_HERO",
+    "Text": "Hero"
+  },
+  {
+    "Id": "U_CARDTYPE_OBJECTIVE",
+    "Text": "Objective"
+  },
+  {
+    "Id": "U_CARDTYPE_PLAYER",
+    "Text": "Player"
+  },
+  {
+    "Id": "U_CARDTYPE_SHADOW",
+    "Text": "Shadow"
+  },
+  {
+    "Id": "U_CARDTYPE_TREACHERY",
+    "Text": "Treachery"
+  },
+  {
+    "Id": "U_CARDSPHERE_LEADERSHIP",
+    "Text": "Leadership"
+  },
+  {
+    "Id": "U_CARDSPHERE_LORE",
+    "Text": "Lore"
+  },
+  {
+    "Id": "U_CARDSPHERE_NEUTRAL",
+    "Text": "Neutral"
+  },
+  {
+    "Id": "U_CARDSPHERE_SPIRIT",
+    "Text": "Spirit"
+  },
+  {
+    "Id": "U_CARDSPHERE_TACTICS",
+    "Text": "Tactics"
+  },
+  {
+    "Id": "U_PLAYERID_PLAYERONE",
+    "Text": "PlayerOne"
+  },
+  {
+    "Id": "U_PLAYERID_PLAYERTWO",
+    "Text": "PlayerTwo"
+  },
+  {
+    "Id": "U_PLAYERID_SAURON",
+    "Text": "Sauron"
+  },
+  {
+    "Id": "U_TRAITTYPE_ARMOR",
+    "Text": "Armor"
+  },
+  {
+    "Id": "U_TRAITTYPE_BEORNING",
+    "Text": "Beorning"
+  },
+  {
+    "Id": "U_TRAITTYPE_BREE",
+    "Text": "Bree"
+  },
+  {
+    "Id": "U_TRAITTYPE_CREATURE",
+    "Text": "Creature"
+  },
+  {
+    "Id": "U_TRAITTYPE_DALE",
+    "Text": "Dale"
+  },
+  {
+    "Id": "U_TRAITTYPE_DUNEDAIN",
+    "Text": "Dunedain"
+  },
+  {
+    "Id": "U_TRAITTYPE_DWARF",
+    "Text": "Dwarf"
+  },
+  {
+    "Id": "U_TRAITTYPE_GONDOR",
+    "Text": "Gondor"
+  },
+  {
+    "Id": "U_TRAITTYPE_HOBBIT",
+    "Text": "Hobbit"
+  },
+  {
+    "Id": "U_TRAITTYPE_INSECT",
+    "Text": "Insect"
+  },
+  {
+    "Id": "U_TRAITTYPE_ISTARI",
+    "Text": "Istari"
+  },
+  {
+    "Id": "U_TRAITTYPE_LEGEND",
+    "Text": "Legend"
+  },
+  {
+    "Id": "U_TRAITTYPE_NOLDOR",
+    "Text": "Noldor"
+  },
+  {
+    "Id": "U_TRAITTYPE_ORC",
+    "Text": "Orc"
+  },
+  {
+    "Id": "U_TRAITTYPE_ROHAN",
+    "Text": "Rohan"
+  },
+  {
+    "Id": "U_TRAITTYPE_SILVAN",
+    "Text": "Silvan"
+  },
+  {
+    "Id": "U_TRAITTYPE_SPECIAL",
+    "Text": "Special"
+  },
+  {
+    "Id": "U_TRAITTYPE_SPIDER",
+    "Text": "Spider"
+  },
+  {
+    "Id": "U_TRAITTYPE_TROLL",
+    "Text": "Troll"
+  },
+  {
+    "Id": "U_TRAITTYPE_WEAPON",
+    "Text": "Weapon"
+  },
+  {
+    "Id": "U_TRAITTYPE_WOSE",
+    "Text": "Wose"
+  },
+  {
+    "Id": "U_DECKTYPE_PLAYER",
+    "Text": "Player"
+  },
+  {
+    "Id": "U_DECKTYPE_ENCOUNTER",
+    "Text": "Encounter"
+  },
+  {
+    "Id": "U_DECKTYPE_QUEST",
+    "Text": "Quest"
+  },
+  {
+    "Id": "U_TARGETGROUPTYPE_ENEMY",
+    "Text": "Enemy"
+  },
+  {
+    "Id": "U_TARGETGROUPTYPE_ALLY",
+    "Text": "Ally"
+  },
+  {
+    "Id": "U_TARGETGROUPTYPE_HERO",
+    "Text": "Hero"
+  },
+  {
+    "Id": "U_INGAME_SAURONSDECK",
+    "Text": "SAURON'S DECK"
+  },
+  {
+    "Id": "U_INGAME_CHOOSEHERO_AVOIDSPIDER",
+    "Text": "Choose One Hero to Avoid Spider Traps"
+  },
+  {
+    "Id": "U_INGAME_GAME_OVER",
+    "Text": "Game Over"
+  },
+  {
+    "Id": "U_INGAME_BACK_TO_LOBBY",
+    "Text": "Back to Lobby"
+  },
+  {
+    "Id": "U_INGAME_MAIN_OBJECTIVE",
+    "Text": "Main Objective"
+  },
+  {
+    "Id": "U_INGAME_NEW_ROUND",
+    "Text": "NEW ROUND"
+  },
+  {
+    "Id": "U_INGAME_SAURON_PLANS",
+    "Text": "Sauron Plans"
+  },
+  {
+    "Id": "U_INGAME_SAURON_PASSES",
+    "Text": "Sauron Passes"
+  },
+  {
+    "Id": "U_INGAME_SAURONS_TURN",
+    "Text": "Sauron's Turn"
+  },
+  {
+    "Id": "U_DECKMENU_ILLUSTRATOR",
+    "Text": "ILLUS."
+  },
+  {
+    "Id": "U_QUEST_GOAL",
+    "Text": "Resolve this Objective to complete the Quest."
+  },
+  {
+    "Id": "U_INGAME_DEFEAT_HERO_DEAD",
+    "Text": "Your last Hero falls, bringing your journey to a tragic end."
+  },
+  {
+    "Id": "U_INGAME_DEFEAT_THREAT_FULL",
+    "Text": "You draw Sauron's full attention, bringing your journey to a tragic end."
+  },
+  {
+    "Id": "U_SHOP_HEROPACK_TITLE_RANGER",
+    "Text": "The Rangers of Gondor"
+  },
+  {
+    "Id": "U_SHOP_HEROPACK_TITLE_SERVANT",
+    "Text": "Faithful Servant"
+  },
+  {
+    "Id": "U_SHOP_HEROPACK_TITLE_MAIDEN",
+    "Text": "Shieldmaiden of Rohan"
+  },
+  {
+    "Id": "U_SHOP_HEROPACK_TITLE_PRINCE",
+    "Text": "Prince of Mirkwood"
+  },
+  {
+    "Id": "U_SHOP_COST",
+    "Text": "COST"
+  },
+  {
+    "Id": "CHOICETEXT_GANDALF_GANDALFCHOICE00",
+    "Text": "Draw 3 cards."
+  },
+  {
+    "Id": "CHOICETEXT_GANDALF_GANDALFCHOICE01",
+    "Text": "Reduce your Threat by 3."
+  },
+  {
+    "Id": "CHOICETEXT_GANDALF_GANDALFCHOICE02",
+    "Text": "Deal 3 damage to an Enemy."
+  },
+  {
+    "Id": "CHOICETEXT_HUNTED_HUNTEDCHOICE00",
+    "Text": "Raise your threat by 1 for each ally you control."
+  },
+  {
+    "Id": "CHOICETEXT_HUNTED_HUNTEDCHOICE01",
+    "Text": "Discard an ally you control."
+  },
+  {
+    "Id": "Q_CAMPAIGN_ADVENTURESINWILDERLAND_NAME",
+    "Text": "Adventures in Wilderland"
+  },
+  {
+    "Id": "Q_CAMPAIGN_TUTORIAL_NAME",
+    "Text": "Tutorial"
+  },
+  {
+    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_NAME",
+    "Text": "Passage Through Mirkwood"
+  },
+  {
+    "Id": "Q_QUEST_FLIESANDSPIDERS_NAME",
+    "Text": "Flies and Spiders"
+  },
+  {
+    "Id": "Q_QUEST_LOSTINMIRKWOOD_NAME",
+    "Text": "Lost in Mirkwood"
+  },
+  {
+    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_NAME",
+    "Text": "Journey Down the Anduin"
+  },
+  {
+    "Id": "Q_QUEST_CONFLICTATTHECARROCK_NAME",
+    "Text": "Conflict at the Carrock"
+  },
+  {
+    "Id": "Q_QUEST_TUTORIAL_NAME",
+    "Text": "Tutorial"
+  },
+  {
+    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_DESCRIPTION",
+    "Text": "You are carrying a message from King Brand to Grimbeorn through Mirkwood Forest."
+  },
+  {
+    "Id": "Q_QUEST_FLIESANDSPIDERS_DESCRIPTION",
+    "Text": "You awaken to find that giant spiders have captured your friends."
+  },
+  {
+    "Id": "Q_QUEST_LOSTINMIRKWOOD_DESCRIPTION",
+    "Text": "After escaping giant spiders, you find yourself lost in the vastness of Mirkwood."
+  },
+  {
+    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_DESCRIPTION",
+    "Text": "You have found the mighty Anduin but you must still journey downriver to Grimbeorn."
+  },
+  {
+    "Id": "Q_QUEST_CONFLICTATTHECARROCK_DESCRIPTION",
+    "Text": "You reach the Carrock only to discover that Grimbeorn has been captured by Trolls!"
+  },
+  {
+    "Id": "Q_QUEST_TUTORIAL_DESCRIPTION",
+    "Text": "Start your journey."
+  },
+  {
+    "Id": "Q_STAGE_FORESTGATE_NAME",
+    "Text": "Forest Gate"
+  },
+  {
+    "Id": "Q_STAGE_CAPTUREDBYSPIDERS_NAME",
+    "Text": "Captured by Spiders"
+  },
+  {
+    "Id": "Q_STAGE_STANDANDFIGHT_NAME",
+    "Text": "Stand and Fight"
+  },
+  {
+    "Id": "Q_STAGE_TURNANDFLEE_NAME",
+    "Text": "Turn and Flee"
+  },
+  {
+    "Id": "Q_STAGE_THEENCHANTEDSTREAM_NAME",
+    "Text": "The Enchanted Stream"
+  },
+  {
+    "Id": "Q_STAGE_DARKFOREST_NAME",
+    "Text": "Dark Forest"
+  },
+  {
+    "Id": "Q_STAGE_THESPIDERSLAIR_NAME",
+    "Text": "The Spiders’ Lair"
+  },
+  {
+    "Id": "Q_STAGE_THESPIDERSWEBS_NAME",
+    "Text": "The Spiders' Webs"
+  },
+  {
+    "Id": "Q_STAGE_FORESTGLADE_NAME",
+    "Text": "Forest Glade"
+  },
+  {
+    "Id": "Q_STAGE_MIRKWOODFOREST_NAME",
+    "Text": "Mirkwood Forest"
+  },
+  {
+    "Id": "Q_STAGE_FORESTSTREAM_NAME",
+    "Text": "Forest Stream"
+  },
+  {
+    "Id": "Q_STAGE_BAREHILLTOP_NAME",
+    "Text": "Bare Hilltop"
+  },
+  {
+    "Id": "Q_STAGE_MIRKWOODSWAMP_NAME",
+    "Text": "Mirkwood Swamp"
+  },
+  {
+    "Id": "Q_STAGE_OVERGROWNTRAIL_NAME",
+    "Text": "Overgrown Trail"
+  },
+  {
+    "Id": "Q_STAGE_ABANDONEDVILLAGE_NAME",
+    "Text": "Abandoned Village"
+  },
+  {
+    "Id": "Q_STAGE_TOTHERIVER_NAME",
+    "Text": "To the River"
+  },
+  {
+    "Id": "Q_STAGE_ANDUINPASSAGE_NAME",
+    "Text": "Anduin Passage"
+  },
+  {
+    "Id": "Q_STAGE_AMBUSHONTHESHORE_NAME",
+    "Text": "Ambush on the Shore"
+  },
+  {
+    "Id": "Q_STAGE_SEARCHINGFORGRIMBEORN_NAME",
+    "Text": "Searching for Grimbeorn"
+  },
+  {
+    "Id": "Q_STAGE_THETROLLSDINNER_NAME",
+    "Text": "The Trolls' Dinner"
+  },
+  {
+    "Id": "Q_STAGE_FIGHTWITHTHETROLLS_NAME",
+    "Text": "Fight with the Trolls"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_01_NAME",
+    "Text": "Mirkwood Forest"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_02_NAME",
+    "Text": "The Forest Trail"
+  },
+  {
+    "Id": "Q_STAGE_FORESTGATE_TEXT",
+    "Text": "The King of Dale has entrusted you with an urgent letter for Grimbeorn the Old, chieftain of the Beornings that dwell in the Anduin Vale. To reach his house you must journey through the shadowy forest of Mirkwood. Not long after entering the forest, you are surrounded by evil creatures."
+  },
+  {
+    "Id": "Q_STAGE_CAPTUREDBYSPIDERS_TEXT",
+    "Text": "Giant spiders have captured one of your companions. You watch in horror as your friend is bound in webbed cords to be dragged away and devoured. You cannot abandon your companion to such a fate."
+  },
+  {
+    "Id": "Q_STAGE_STANDANDFIGHT_TEXT",
+    "Text": "You have rescued your friend, but the creatures of Mirkwood continue to swarm around you. Realizing that you cannot outrun the beasts, you stand and fight!"
+  },
+  {
+    "Id": "Q_STAGE_TURNANDFLEE_TEXT",
+    "Text": "You have rescued your friend, but the creatures of Mirkwood continue to swarm around you. Realizing you are in danger of being overwhelmed, you decide to make a run for it!"
+  },
+  {
+    "Id": "Q_STAGE_THEENCHANTEDSTREAM_TEXT",
+    "Text": "You hurry along the forest path only to find that a wide, dark river stops your progress. As you search for a place to ford, a giant creature emerges to block your way."
+  },
+  {
+    "Id": "Q_STAGE_DARKFOREST_TEXT",
+    "Text": "You wake from a troubled sleep to find yourself alone in Mirkwood Forest. The last thing you remember is the sound of countless legs scuttling around your camp and hundreds of bulbous eyes peering from the dark. You realize that the giant spiders of Mirkwood have captured your friends in the night, and it’s up to you to find them!"
+  },
+  {
+    "Id": "Q_STAGE_THESPIDERSLAIR_TEXT",
+    "Text": "You find your friends within a dark glade surrounded by giant spider webs. They have been bound and wrapped in cocoons of strong cords. They beg you to cut them free, but before you can the spiders descend from the trees to attack you."
+  },
+  {
+    "Id": "Q_STAGE_THESPIDERSWEBS_TEXT",
+    "Text": "Your companions have been cut free, but the spiders are determined to recapture you. They spin giant webs from tree to tree, trapping you in their den. You will have to cut your way through them in order to escape."
+  },
+  {
+    "Id": "Q_STAGE_FORESTGLADE_TEXT",
+    "Text": "You have cut your way through the spiders’ webs when an enormous spider appears and blocks your path. Her many offspring gather behind you. There is no turning back. You must defeat Ungoliant's spawn."
+  },
+  {
+    "Id": "Q_STAGE_MIRKWOODFOREST_TEXT",
+    "Text": "You have escaped from the spiders’ dark colony, only to find yourself lost in the vastness of Mirkwood. The forest is so dark and tangled that it is impossible to know which direction to travel. You must find some landmarks to get your bearings."
+  },
+  {
+    "Id": "Q_STAGE_FORESTSTREAM_TEXT",
+    "Text": "A stream winds between the twisted roots of ancient trees that crowd the riverbank. Traveling this way is hard work. You wonder if you should continue or search for a better path."
+  },
+  {
+    "Id": "Q_STAGE_BAREHILLTOP_TEXT",
+    "Text": "A sea of green spreads for miles in all directions from your view atop a low hill. Scanning the horizon, you notice a faint trail of grey smoke rising in the distance. Do you head for the smoke, or do you keep searching for a path out of the forest?"
+  },
+  {
+    "Id": "Q_STAGE_MIRKWOODSWAMP_TEXT",
+    "Text": "At long last, the stream you have been following leads to a wide bog. You must be near the Anduin River vale — but reaching the mighty river requires crossing the swamp. Who knows what dangers lie in wait?"
+  },
+  {
+    "Id": "Q_STAGE_OVERGROWNTRAIL_TEXT",
+    "Text": "After a long, desperate search you find a trail at last. Though it is overgrown and littered with animal tracks, you believe this path leads to the Anduin vale."
+  },
+  {
+    "Id": "Q_STAGE_ABANDONEDVILLAGE_TEXT",
+    "Text": "Navigating toward the smoke as best you can through the dense forest, you find the remains of an old Woodmen village near the eaves of Mirkwood. Yet your relief is short-lived — the village overrun is with Orcs! As they spot your weary group, it becomes clear that you must fight to reach the Anduin vale."
+  },
+  {
+    "Id": "Q_STAGE_TOTHERIVER_TEXT",
+    "Text": "Emerging from Mirkwood Forest with an urgent message for Grimbeorn, you must make your way south along the Anduin River in order to reach the Carrock. As you approach the location of a small raft stashed on the riverbank, a fearsome Hill Troll emerges from behind a grouping of rocks, and attacks!"
+  },
+  {
+    "Id": "Q_STAGE_ANDUINPASSAGE_TEXT",
+    "Text": "Having defeated the Troll, you board a raft and float downriver. Yet your enemies pursue, harassing the small vessel as you attempt to navigate the river."
+  },
+  {
+    "Id": "Q_STAGE_AMBUSHONTHESHORE_TEXT",
+    "Text": "Ongoing harassment from your enemies forces your raft to the shore. You must confront their ambush head on. If you survive this attack, the rest of your journey down the Anduin should be clear."
+  },
+  {
+    "Id": "Q_STAGE_SEARCHINGFORGRIMBEORN_TEXT",
+    "Text": "The Anduin river has carried you south from the Forest Gate to the land of the Beornings, where you hope to deliver King Brand’s message to their chieftain, Grimbeorn. However, when you pull your raft to shore, the Beornings tell you that Grimbeorn was last seen roaming as a great bear toward the Carrock. You continue south along the riverbank in order to find him."
+  },
+  {
+    "Id": "Q_STAGE_THETROLLSDINNER_TEXT",
+    "Text": "After a day spent following Grimbeorn's trail, you make a startling discovery: a group of Trolls has captured the great chieftain, and plans to eat him! You draw your weapons and rush to his rescue."
+  },
+  {
+    "Id": "Q_STAGE_FIGHTWITHTHETROLLS_TEXT",
+    "Text": "Once freed from his chains, Grimbeorn joins you in your battle against the Trolls. “A barrel of beer to the one who brings me a Troll’s head!” he roars while swinging a mighty blow at the nearest foe."
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_01_TEXT",
     "Text": ""
   },
   {
-    "Id": "Q_QUEST_210600Quest02_VICTORY_TEXT",
-    "Text": "Q_QUEST_210600QUEST02_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_210600Quest02_DEFEAT_TEXT",
-    "Text": "Q_QUEST_210600QUEST02_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_Location201_NAME",
-    "Text": "Q_STAGE_LOCATION201_NAME"
-  },
-  {
-    "Id": " Q_STAGE_Location201_TEXT",
-    "Text": "Q_STAGE_LOCATION201_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_Location201_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION201_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_210600Quest03_NAME",
-    "Text": "Q_QUEST_210600QUEST03_NAME"
-  },
-  {
-    "Id": "Q_QUEST_210600Quest03_DESCRIPTION",
+    "Id": "Q_STAGE_TUTORIAL_STAGE_02_TEXT",
     "Text": ""
   },
   {
-    "Id": "Q_QUEST_210600Quest03_VICTORY_TEXT",
-    "Text": "Q_QUEST_210600QUEST03_VICTORY_TEXT"
+    "Id": "Q_STAGE_FORESTGATE_OBJECTIVE",
+    "Text": "Make your way through Mirkwood Forest."
   },
   {
-    "Id": "Q_QUEST_210600Quest03_DEFEAT_TEXT",
-    "Text": "Q_QUEST_210600QUEST03_DEFEAT_TEXT"
+    "Id": "Q_STAGE_CAPTUREDBYSPIDERS_OBJECTIVE",
+    "Text": "Overcome \"Cocoon\" and rescue the captive Hero to allow travel."
   },
   {
-    "Id": "Q_STAGE_Location301_NAME",
-    "Text": "Q_STAGE_LOCATION301_NAME"
+    "Id": "Q_STAGE_STANDANDFIGHT_OBJECTIVE",
+    "Text": "Defeat each Enemy in play to allow travel."
   },
   {
-    "Id": " Q_STAGE_Location301_TEXT",
-    "Text": "Q_STAGE_LOCATION301_TEXT"
+    "Id": "Q_STAGE_TURNANDFLEE_OBJECTIVE",
+    "Text": "Overcome \"Find the Path\" to allow travel."
   },
   {
-    "Id": "Q_STAGE_Location301_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION301_OBJECTIVE"
+    "Id": "Q_STAGE_THEENCHANTEDSTREAM_OBJECTIVE",
+    "Text": "Defeat \"Marsh Adder\" to complete the Quest."
   },
   {
-    "Id": "Q_QUEST_210600Quest04_NAME",
-    "Text": "Q_QUEST_210600QUEST04_NAME"
+    "Id": "Q_STAGE_DARKFOREST_OBJECTIVE",
+    "Text": "Overcome \"Find Your Friends\" to unlock travel."
   },
   {
-    "Id": "Q_QUEST_210600Quest04_DESCRIPTION",
+    "Id": "Q_STAGE_THESPIDERSLAIR_OBJECTIVE",
+    "Text": "Overcome \"Rescue Your Friends\" to unlock travel."
+  },
+  {
+    "Id": "Q_STAGE_THESPIDERSWEBS_OBJECTIVE",
+    "Text": "Overcome \"Escape the Spiders\" to unlock travel."
+  },
+  {
+    "Id": "Q_STAGE_FORESTGLADE_OBJECTIVE",
+    "Text": "Defeat \"Ungoliant's Spawn\" to complete the Quest."
+  },
+  {
+    "Id": "Q_STAGE_MIRKWOODFOREST_OBJECTIVE",
+    "Text": "Overcome \"Follow the Stream\" to advance immediately to Forest Stream OR overcome \"Climb the Hill\" to advance immediately to Bare Hilltop."
+  },
+  {
+    "Id": "Q_STAGE_FORESTSTREAM_OBJECTIVE",
+    "Text": "Overcome \"Continue Downstream\" to advance immediately to Mirkwood Swamp OR overcome \"Search for a Path\" to advance immediately to Overgrown Trail."
+  },
+  {
+    "Id": "Q_STAGE_BAREHILLTOP_OBJECTIVE",
+    "Text": "Overcome \"Investigate the Smoke\" to advance immediately to Abandoned Village OR overcome \"Search for a Path\" to advance immediately to Overgrown Trail."
+  },
+  {
+    "Id": "Q_STAGE_MIRKWOODSWAMP_OBJECTIVE",
+    "Text": "Defeat \"Giant Marsh Worm\" to complete the Quest."
+  },
+  {
+    "Id": "Q_STAGE_OVERGROWNTRAIL_OBJECTIVE",
+    "Text": "Overcome \"Escape the Forest\" to complete the Quest."
+  },
+  {
+    "Id": "Q_STAGE_ABANDONEDVILLAGE_OBJECTIVE",
+    "Text": "Defeat the last Enemy in play to complete the Quest."
+  },
+  {
+    "Id": "Q_STAGE_TOTHERIVER_OBJECTIVE",
+    "Text": "Defeat the Hill Troll."
+  },
+  {
+    "Id": "Q_STAGE_ANDUINPASSAGE_OBJECTIVE",
+    "Text": "Make it down the river."
+  },
+  {
+    "Id": "Q_STAGE_AMBUSHONTHESHORE_OBJECTIVE",
+    "Text": "Defeat the last Enemy in play to complete the Quest."
+  },
+  {
+    "Id": "Q_STAGE_SEARCHINGFORGRIMBEORN_OBJECTIVE",
+    "Text": "Follow Grimbeorn’s trail."
+  },
+  {
+    "Id": "Q_STAGE_THETROLLSDINNER_OBJECTIVE",
+    "Text": "Rescue Grimbeorn."
+  },
+  {
+    "Id": "Q_STAGE_FIGHTWITHTHETROLLS_OBJECTIVE",
+    "Text": "Defeat the Trolls."
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_01_OBJECTIVE",
+    "Text": "<b>Overcome</b>:Defeat all Enemies."
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_02_OBJECTIVE",
+    "Text": "<b>Aragorn</b> and <b>Elrond</> venture deeper into the forest."
+  },
+  {
+    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_VICTORY_TEXT",
+    "Text": "You have made it across the enchanted river. With its dark waters between you and your pursuers, you are free to continue your journey through Mirkwood Forest."
+  },
+  {
+    "Id": "Q_QUEST_FLIESANDSPIDERS_VICTORY_TEXT",
+    "Text": "You have defeated Ungoliant's spawn and rescued your friends."
+  },
+  {
+    "Id": "Q_QUEST_LOSTINMIRKWOOD_VICTORY_TEXT",
+    "Text": "Against all odds, you have escaped from Mirkwood Forest and reached the vales of Anduin on the western end. The next leg of your journey will take you down the Anduin River to the land of the Beornings."
+  },
+  {
+    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_VICTORY_TEXT",
+    "Text": "You have driven back your pursuers and are free to continue your journey downriver."
+  },
+  {
+    "Id": "Q_QUEST_CONFLICTATTHECARROCK_VICTORY_TEXT",
+    "Text": "\"That was fine work,\" exclaims Grimbeorn after the last Troll falls. Having rescued the Beorning's chieftain, at long last you can deliver King Brand's message and complete your mission."
+  },
+  {
+    "Id": "Q_QUEST_TUTORIAL_VICTORY_TEXT",
+    "Text": "null"
+  },
+  {
+    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_DEFEAT_TEXT",
+    "Text": "Your journey has come to a tragic end."
+  },
+  {
+    "Id": "Q_QUEST_FLIESANDSPIDERS_DEFEAT_TEXT",
+    "Text": "Your journey has come to a tragic end."
+  },
+  {
+    "Id": "Q_QUEST_LOSTINMIRKWOOD_DEFEAT_TEXT",
+    "Text": "Your journey has come to a tragic end."
+  },
+  {
+    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_DEFEAT_TEXT",
+    "Text": " Your journey has come to a tragic end."
+  },
+  {
+    "Id": "Q_QUEST_CONFLICTATTHECARROCK_DEFEAT_TEXT",
+    "Text": "Your journey has come to a tragic end."
+  },
+  {
+    "Id": "Q_QUEST_TUTORIAL_DEFEAT_TEXT",
+    "Text": "null"
+  },
+  {
+    "Id": "C_ACCURSEDFOREST_TEXT",
+    "Text": "Upkeep: Discard the top 3 cards from each player’s deck."
+  },
+  {
+    "Id": "C_ACCURSEDFOREST_TITLE",
+    "Text": "Accursed Forest"
+  },
+  {
+    "Id": "C_ADVANCEWARNING_TEXT",
+    "Text": "Prep: Exhaust the next Enemy that Sauron plays."
+  },
+  {
+    "Id": "C_ADVANCEWARNING_TITLE",
+    "Text": "Advance Warning"
+  },
+  {
+    "Id": "C_AGAINSTTHESHADOW_TEXT",
+    "Text": "Reduce your Threat by 1 for each Enemy in play."
+  },
+  {
+    "Id": "C_AGAINSTTHESHADOW_TITLE",
+    "Text": "Against the Shadow"
+  },
+  {
+    "Id": "C_AMBUSH_TEXT",
+    "Text": "Exhaust an Enemy."
+  },
+  {
+    "Id": "C_AMBUSH_TITLE",
+    "Text": "Ambush"
+  },
+  {
+    "Id": "C_AMBUSHONTHESHORE_TEXT",
+    "Text": "Guarded. Upkeep: Sauron gains 1 Resource per player."
+  },
+  {
+    "Id": "C_AMBUSHONTHESHORE_TITLE",
+    "Text": "Ambush on the Shore"
+  },
+  {
+    "Id": "C_ANDUINTROLLSPAWN_TEXT",
+    "Text": "Block."
+  },
+  {
+    "Id": "C_ANDUINTROLLSPAWN_TITLE",
+    "Text": "Anduin Troll Spawn"
+  },
+  {
+    "Id": "C_ARAGORN_TEXT",
+    "Text": "Power: Spend 1 Resource to ready Aragorn."
+  },
+  {
+    "Id": "C_ARAGORN_TITLE",
+    "Text": "‰Aragorn  "
+  },
+  {
+    "Id": "C_ARWEN_TEXT",
+    "Text": "Upkeep: Heal 1 damage from a Character."
+  },
+  {
+    "Id": "C_ARWEN_TITLE",
+    "Text": "‰Arwen   "
+  },
+  {
+    "Id": "C_AWATCHFULPEACE_TEXT",
+    "Text": "Reduce a player's Threat by 3."
+  },
+  {
+    "Id": "C_AWATCHFULPEACE_TITLE",
+    "Text": "A Watchful Peace"
+  },
+  {
+    "Id": "C_BARLIMANBUTTERBUR_TEXT",
+    "Text": "Upkeep: 50% chance to draw 1 card."
+  },
+  {
+    "Id": "C_BARLIMANBUTTERBUR_TITLE",
+    "Text": "‰Barliman Butterbur"
+  },
+  {
+    "Id": "C_BEORN_TEXT",
+    "Text": "Stalwart. Cannot have Attachments. Beorn gains +1 Attack for each point he is below maximum Health."
+  },
+  {
+    "Id": "C_BEORN_TITLE",
+    "Text": "‰Beorn  "
+  },
+  {
+    "Id": "C_BEORNSHOSPITALITY_TEXT",
+    "Text": "Heal 3 damage to a Character."
+  },
+  {
+    "Id": "C_BEORNSHOSPITALITY_TITLE",
+    "Text": "Beorn's Hospitality"
+  },
+  {
+    "Id": "C_BILLTHEPONY_TEXT",
+    "Text": "While you control Sam Gamgee, Bill the Pony has -2 cost. Upkeep: Gain 1 Resource."
+  },
+  {
+    "Id": "C_BILLTHEPONY_TITLE",
+    "Text": "‰Bill the Pony "
+  },
+  {
+    "Id": "C_BLACKBLOOD_TEXT",
+    "Text": "Heal 2 damage from each Troll Enemy."
+  },
+  {
+    "Id": "C_BLACKBLOOD_TITLE",
+    "Text": "Black Blood"
+  },
+  {
+    "Id": "C_BLACKFORESTBATS_TEXT",
     "Text": ""
   },
   {
-    "Id": "Q_QUEST_210600Quest04_VICTORY_TEXT",
-    "Text": "Q_QUEST_210600QUEST04_VICTORY_TEXT"
+    "Id": "C_BLACKFORESTBATS_TITLE",
+    "Text": "Black Forest Bats"
   },
   {
-    "Id": "Q_QUEST_210600Quest04_DEFEAT_TEXT",
-    "Text": "Q_QUEST_210600QUEST04_DEFEAT_TEXT"
+    "Id": "C_BLADEOFGONDOLIN_TEXT",
+    "Text": "Attach: Gain +1 Attack."
   },
   {
-    "Id": "Q_STAGE_Location401_NAME",
-    "Text": "Q_STAGE_LOCATION401_NAME"
+    "Id": "C_BLADEOFGONDOLIN_TITLE",
+    "Text": "Blade of Gondolin"
   },
   {
-    "Id": " Q_STAGE_Location401_TEXT",
-    "Text": "Q_STAGE_LOCATION401_TEXT"
+    "Id": "C_BLOCKEDPATH_TEXT",
+    "Text": "Cannot make progress on other Objectives."
   },
   {
-    "Id": "Q_STAGE_Location401_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION401_OBJECTIVE"
+    "Id": "C_BLOCKEDPATH_TITLE",
+    "Text": "Blocked Path"
   },
   {
-    "Id": "Q_QUEST_210600Quest05_NAME",
-    "Text": "Q_QUEST_210600QUEST05_NAME"
+    "Id": "C_BORNEALOFT_TEXT",
+    "Text": "Prep: When your next Ally would be defeated, it returns to your hand instead."
   },
   {
-    "Id": "Q_QUEST_210600Quest05_DESCRIPTION",
+    "Id": "C_BORNEALOFT_TITLE",
+    "Text": "Borne Aloft"
+  },
+  {
+    "Id": "C_BOWOFTHEGALADHRIM_TEXT",
+    "Text": "Attach (Ranged): Gain +1 Attack and Quick."
+  },
+  {
+    "Id": "C_BOWOFTHEGALADHRIM_TITLE",
+    "Text": "Bow of the Galadhrim"
+  },
+  {
+    "Id": "C_BURSTINTOSONG_TEXT",
+    "Text": "Prep: After a Character you control takes damage, move it."
+  },
+  {
+    "Id": "C_BURSTINTOSONG_TITLE",
+    "Text": "Burst into Song"
+  },
+  {
+    "Id": "C_CAUGHTINAWEB_TEXT",
+    "Text": "One of your party is trapped in a cocoon."
+  },
+  {
+    "Id": "C_CAUGHTINAWEB_TITLE",
+    "Text": "Caught in a Web"
+  },
+  {
+    "Id": "C_CHIEFTAINUFTHAK_TEXT",
+    "Text": "Pursuit. End of round: Add 1 Dol Goldur Orcs at 0 cost."
+  },
+  {
+    "Id": "C_CHIEFTAINUFTHAK_TITLE",
+    "Text": "‰Chieftain Ufthak"
+  },
+  {
+    "Id": "C_CLIMBTHEHILL_TEXT",
+    "Text": "Resolve: Travel immediately to Bare Hilltop."
+  },
+  {
+    "Id": "C_CLIMBTHEHILL_TITLE",
+    "Text": "Climb the Hill"
+  },
+  {
+    "Id": "C_CLOSECALL_TEXT",
+    "Text": "Prep: The next time a Character you control would take damage, cancel that damage."
+  },
+  {
+    "Id": "C_CLOSECALL_TITLE",
+    "Text": "Close Call"
+  },
+  {
+    "Id": "C_COCOON_TEXT",
+    "Text": "Resolve: The Character is rescued and returns to the play area."
+  },
+  {
+    "Id": "C_COCOON_TITLE",
+    "Text": "Cocoon"
+  },
+  {
+    "Id": "C_CONTINUEDOWNSTREAM_TEXT",
+    "Text": "Resolve: Travel immediately to Mirkwood Swamp."
+  },
+  {
+    "Id": "C_CONTINUEDOWNSTREAM_TITLE",
+    "Text": "Continue Downstream"
+  },
+  {
+    "Id": "C_CREATUREOFDARKNESS_TEXT",
+    "Text": "Attach (Enemy): Gain Threatening."
+  },
+  {
+    "Id": "C_CREATUREOFDARKNESS_TITLE",
+    "Text": "Creature of Darkness"
+  },
+  {
+    "Id": "C_DARKSORCERY_TEXT",
+    "Text": "Prep: Cancel the next player Event played."
+  },
+  {
+    "Id": "C_DARKSORCERY_TITLE",
+    "Text": "Dark Sorcery"
+  },
+  {
+    "Id": "C_DESPAIR_TEXT",
+    "Text": "Attach (Enemy): After Character attacks, increase target's Threat by 1."
+  },
+  {
+    "Id": "C_DESPAIR_TITLE",
+    "Text": "Despair"
+  },
+  {
+    "Id": "C_DEVOURED_TEXT",
+    "Text": "Destroy a random Attachment on a Hero."
+  },
+  {
+    "Id": "C_DEVOURED_TITLE",
+    "Text": "Devoured"
+  },
+  {
+    "Id": "C_DOLGULDURORCS_TEXT",
+    "Text": "Sentinel."
+  },
+  {
+    "Id": "C_DOLGULDURORCS_TITLE",
+    "Text": "Dol Guldur Orcs"
+  },
+  {
+    "Id": "C_DRIVENBYSHADOW_TEXT",
+    "Text": "Attach (Enemy): Gain +2 Attack."
+  },
+  {
+    "Id": "C_DRIVENBYSHADOW_TITLE",
+    "Text": "Driven By Shadow"
+  },
+  {
+    "Id": "C_EASTBIGHTPATROL_TEXT",
     "Text": ""
   },
   {
-    "Id": "Q_QUEST_210600Quest05_VICTORY_TEXT",
-    "Text": "Q_QUEST_210600QUEST05_VICTORY_TEXT"
+    "Id": "C_EASTBIGHTPATROL_TITLE",
+    "Text": "East Bight Patrol"
   },
   {
-    "Id": "Q_QUEST_210600Quest05_DEFEAT_TEXT",
-    "Text": "Q_QUEST_210600QUEST05_DEFEAT_TEXT"
+    "Id": "C_ELITEDOLGULDURORCS_TEXT",
+    "Text": "Vigilant."
   },
   {
-    "Id": "Q_STAGE_Location501_NAME",
-    "Text": "Q_STAGE_LOCATION501_NAME"
+    "Id": "C_ELITEDOLGULDURORCS_TITLE",
+    "Text": "Elite Dol Guldur Orcs"
   },
   {
-    "Id": " Q_STAGE_Location501_TEXT",
-    "Text": "Q_STAGE_LOCATION501_TEXT"
+    "Id": "C_ELROND_TEXT",
+    "Text": "Upkeep: Heal 1 damage from a character."
   },
   {
-    "Id": "Q_STAGE_Location501_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION501_OBJECTIVE"
+    "Id": "C_ELROND_TITLE",
+    "Text": "Elrond"
+  },
+  {
+    "Id": "C_ELRONDSCOUNSEL_TEXT",
+    "Text": "Reduce your Threat by 2."
+  },
+  {
+    "Id": "C_ELRONDSCOUNSEL_TITLE",
+    "Text": "Elrond's Counsel"
+  },
+  {
+    "Id": "C_ELVENSCOUT_TEXT",
+    "Text": "Ranged."
+  },
+  {
+    "Id": "C_ELVENSCOUT_TITLE",
+    "Text": "Elven Scout"
+  },
+  {
+    "Id": "C_ENFEEBLED_TEXT",
+    "Text": "Deal 1 damage to each exhausted player Character."
+  },
+  {
+    "Id": "C_ENFEEBLED_TITLE",
+    "Text": "Enfeebled"
+  },
+  {
+    "Id": "C_EOWYN_TEXT",
+    "Text": "After the first Character is defeated each round, Éowyn gains +2 Willpower until end of the round."
+  },
+  {
+    "Id": "C_EOWYN_TITLE",
+    "Text": "‰Éowyn   "
+  },
+  {
+    "Id": "C_ERKENBRAND_TEXT",
+    "Text": "Block. Sentinel."
+  },
+  {
+    "Id": "C_ERKENBRAND_TITLE",
+    "Text": "‰Erkenbrand  "
+  },
+  {
+    "Id": "C_ESCAPETHEFOREST_TEXT",
+    "Text": "Resolve: Complete the Quest."
+  },
+  {
+    "Id": "C_ESCAPETHEFOREST_TITLE",
+    "Text": "Escape the Forest"
+  },
+  {
+    "Id": "C_ESCAPETHESPIDERSLAIR_TEXT",
+    "Text": "Resolve: Allow travel from this Location."
+  },
+  {
+    "Id": "C_ESCAPETHESPIDERSLAIR_TITLE",
+    "Text": "Escape the Spiders’ Lair"
+  },
+  {
+    "Id": "C_ESCORTFROMEDORAS_TEXT",
+    "Text": "Moribund: Ready a Character that you control."
+  },
+  {
+    "Id": "C_ESCORTFROMEDORAS_TITLE",
+    "Text": "Escort from Edoras"
+  },
+  {
+    "Id": "C_EVERVIGILANT_TEXT",
+    "Text": "Ready a Character you control."
+  },
+  {
+    "Id": "C_EVERVIGILANT_TITLE",
+    "Text": "Ever Vigilant"
+  },
+  {
+    "Id": "C_EVILSTORM_TEXT",
+    "Text": "Discard all Event cards in each player's hand."
+  },
+  {
+    "Id": "C_EVILSTORM_TITLE",
+    "Text": "Evil Storm"
+  },
+  {
+    "Id": "C_EXHAUSTION_TEXT",
+    "Text": "Exhaust all wounded player Characters."
+  },
+  {
+    "Id": "C_EXHAUSTION_TITLE",
+    "Text": "Exhaustion"
+  },
+  {
+    "Id": "C_EXPLORETHECAVE_TEXT",
+    "Text": "Resolve: Allow travel from this Location."
+  },
+  {
+    "Id": "C_EXPLORETHECAVE_TITLE",
+    "Text": "Explore the Cave"
+  },
+  {
+    "Id": "C_EYESOFTHEFOREST_TEXT",
+    "Text": "Sauron gains 1 Resource for each Ally in play."
+  },
+  {
+    "Id": "C_EYESOFTHEFOREST_TITLE",
+    "Text": "Eyes of the Forest"
+  },
+  {
+    "Id": "C_FARAMIR_TEXT",
+    "Text": "Ranged. Vanquish: Draw 1 card."
+  },
+  {
+    "Id": "C_FARAMIR_TITLE",
+    "Text": "‰Faramir   "
+  },
+  {
+    "Id": "C_FAVOROFTHELADY_TEXT",
+    "Text": "Attach: Gain +1 Willpower."
+  },
+  {
+    "Id": "C_FAVOROFTHELADY_TITLE",
+    "Text": "Favor of the Lady"
+  },
+  {
+    "Id": "C_FEINT_TEXT",
+    "Text": "Reduce a non-unique Enemy to 0 Attack until the end of the round."
+  },
+  {
+    "Id": "C_FEINT_TITLE",
+    "Text": "Feint"
+  },
+  {
+    "Id": "C_FINDSAFEPASSAGE_TEXT",
+    "Text": "Resolve: Allow travel from this Location."
+  },
+  {
+    "Id": "C_FINDSAFEPASSAGE_TITLE",
+    "Text": "Find Safe Passage"
+  },
+  {
+    "Id": "C_FINDSHELTER_TEXT",
+    "Text": "Resolve: Progress to the next Location."
+  },
+  {
+    "Id": "C_FINDSHELTER_TITLE",
+    "Text": "Find Shelter"
+  },
+  {
+    "Id": "C_FINDTHEPATH_TEXT",
+    "Text": "Resolve: Allow travel from this Location."
+  },
+  {
+    "Id": "C_FINDTHEPATH_TITLE",
+    "Text": "Find the Path"
+  },
+  {
+    "Id": "C_FINDTHERAFT_TEXT",
+    "Text": "Guarded (Hill Troll). Resolve: Allow travel from this Location."
+  },
+  {
+    "Id": "C_FINDTHERAFT_TITLE",
+    "Text": "Find the Raft"
+  },
+  {
+    "Id": "C_FINDYOURBEARINGS_TEXT",
+    "Text": "Resolve: The captured cards return to their owner's hand."
+  },
+  {
+    "Id": "C_FINDYOURBEARINGS_TITLE",
+    "Text": "Find Your Bearings"
+  },
+  {
+    "Id": "C_FINDYOURFRIENDS_TEXT",
+    "Text": "Resolve: Allow travel from this Location."
+  },
+  {
+    "Id": "C_FINDYOURFRIENDS_TITLE",
+    "Text": "Find Your Friends"
+  },
+  {
+    "Id": "C_FOLLOWGRIMBEORNSTRAIL_TEXT",
+    "Text": "Resolve: Allow travel from this Location."
+  },
+  {
+    "Id": "C_FOLLOWGRIMBEORNSTRAIL_TITLE",
+    "Text": "Follow Grimbeorn’s Trail"
+  },
+  {
+    "Id": "C_FOLLOWTHESTREAM_TEXT",
+    "Text": "Resolve: Travel immediately to Forest Stream."
+  },
+  {
+    "Id": "C_FOLLOWTHESTREAM_TITLE",
+    "Text": "Follow the Stream"
+  },
+  {
+    "Id": "C_FORESTFLIES_TEXT",
+    "Text": "End of round: Add 1 Forest Flies at 0 cost."
+  },
+  {
+    "Id": "C_FORESTFLIES_TITLE",
+    "Text": "Forest Flies"
+  },
+  {
+    "Id": "C_FORESTSNARE_TEXT",
+    "Text": "Attach (non-unique Enemy): Enemy is exhausted."
+  },
+  {
+    "Id": "C_FORESTSNARE_TITLE",
+    "Text": "Forest Snare"
+  },
+  {
+    "Id": "C_FORESTSPIDER_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "C_FORESTSPIDER_TITLE",
+    "Text": "Forest Spider"
+  },
+  {
+    "Id": "C_FREETOCHOOSE_TEXT",
+    "Text": "Action: Reduce your Threat by 2."
+  },
+  {
+    "Id": "C_FREETOCHOOSE_TITLE",
+    "Text": "Elrond's Council"
+  },
+  {
+    "Id": "C_FRODO_TEXT",
+    "Text": "Stealth. While Sauron has 0 Resources, Frodo gains +2 Willpower."
+  },
+  {
+    "Id": "C_FRODO_TITLE",
+    "Text": "‰Frodo   "
+  },
+  {
+    "Id": "C_GAININGSTRENGTH_TEXT",
+    "Text": "Gain 1 Resource."
+  },
+  {
+    "Id": "C_GAININGSTRENGTH_TITLE",
+    "Text": "Gaining Strength"
+  },
+  {
+    "Id": "C_GALADHONARCHER_TEXT",
+    "Text": "Ranged. Arrival: Deal 1 damage to an Enemy."
+  },
+  {
+    "Id": "C_GALADHONARCHER_TITLE",
+    "Text": "Galadhon Archer"
+  },
+  {
+    "Id": "C_GALADRIELSHANDMAIDEN_TEXT",
+    "Text": "Arrival: Reduce your Threat by 1."
+  },
+  {
+    "Id": "C_GALADRIELSHANDMAIDEN_TITLE",
+    "Text": "Galadriel's Handmaiden"
+  },
+  {
+    "Id": "C_GANDALF_TEXT",
+    "Text": "Fleeting. Arrival (choose): Draw 3 cards, reduce your Threat by 3, or deal 3 damage to an Enemy."
+  },
+  {
+    "Id": "C_GANDALF_TITLE",
+    "Text": "Gandalf"
+  },
+  {
+    "Id": "C_GANDALFSSEARCH_TEXT",
+    "Text": "Action: Draw 2 cards."
+  },
+  {
+    "Id": "C_GANDALFSSEARCH_TITLE",
+    "Text": "Gandalf's Search"
+  },
+  {
+    "Id": "C_GATHERINGGLOOM_TEXT",
+    "Text": "Reduce each Ally to 0 Willpower until the end of the round."
+  },
+  {
+    "Id": "C_GATHERINGGLOOM_TITLE",
+    "Text": "Gathering Gloom"
+  },
+  {
+    "Id": "C_GHANBURIGHAN_TEXT",
+    "Text": "Stealth. X Willpower (X equals the number of Objectives in play)."
+  },
+  {
+    "Id": "C_GHANBURIGHAN_TITLE",
+    "Text": "‰Ghan-buri-ghan"
+  },
+  {
+    "Id": "C_GIANTMARSHWORM_TEXT",
+    "Text": "Stalwart. Vigilant. Forced: When Giant Marsh Worm attacks, defending player's Threat increases by 1."
+  },
+  {
+    "Id": "C_GIANTMARSHWORM_TITLE",
+    "Text": "‰Giant Marsh Worm"
+  },
+  {
+    "Id": "C_GIANTSPIDER_TEXT",
+    "Text": "Sentinel."
+  },
+  {
+    "Id": "C_GIANTSPIDER_TITLE",
+    "Text": "Giant Spider"
+  },
+  {
+    "Id": "C_GIMLI_TEXT",
+    "Text": "Stalwart. After Gimli takes damage, he gains +2 Attack until the end of the round."
+  },
+  {
+    "Id": "C_GIMLI_TITLE",
+    "Text": "‰Gimli   "
+  },
+  {
+    "Id": "C_GOBLINSNIPER_TEXT",
+    "Text": "Ranged. Stealth. \u000bUpkeep: Deal 1 damage to a random player Character."
+  },
+  {
+    "Id": "C_GOBLINSNIPER_TITLE",
+    "Text": "Goblin Sniper"
+  },
+  {
+    "Id": "C_GONDORIANSHIELD_TEXT",
+    "Text": "Attach (Gondor): Gain +2 Health and Block."
+  },
+  {
+    "Id": "C_GONDORIANSHIELD_TITLE",
+    "Text": "Gondorian Shield"
+  },
+  {
+    "Id": "C_GRIMBEORN_TEXT",
+    "Text": "Block. Stalwart."
+  },
+  {
+    "Id": "C_GRIMBEORN_TITLE",
+    "Text": "Grimbeorn"
+  },
+  {
+    "Id": "C_GROWINGDARKNESS_TEXT",
+    "Text": "Upkeep: Sauron gains 1 Resource."
+  },
+  {
+    "Id": "C_GROWINGDARKNESS_TITLE",
+    "Text": "Growing Darkness"
+  },
+  {
+    "Id": "C_GUARDOFTHECITADEL_TEXT",
+    "Text": "Sentinel."
+  },
+  {
+    "Id": "C_GUARDOFTHECITADEL_TITLE",
+    "Text": "Guard of the Citadel"
+  },
+  {
+    "Id": "C_HALFLINGDETERMINATION_TEXT",
+    "Text": "Heal 4 damage from each Hobbit Character."
+  },
+  {
+    "Id": "C_HALFLINGDETERMINATION_TITLE",
+    "Text": "Halfling Determination"
+  },
+  {
+    "Id": "C_HASTYSTROKE_TEXT",
+    "Text": "Choose a Character with a weapon Attachment to gain Protect."
+  },
+  {
+    "Id": "C_HASTYSTROKE_TITLE",
+    "Text": "Hasty Stroke"
+  },
+  {
+    "Id": "C_HATCHLINGSPIDER_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "C_HATCHLINGSPIDER_TITLE",
+    "Text": "Hatchling Spider"
+  },
+  {
+    "Id": "C_HIDDENCACHE_TEXT",
+    "Text": "Action: Gain 1 Resource."
+  },
+  {
+    "Id": "C_HIDDENCACHE_TITLE",
+    "Text": "Hidden Cache"
+  },
+  {
+    "Id": "C_HIDDENPATH_TEXT",
+    "Text": "Resolve: Allow travel from this Location."
+  },
+  {
+    "Id": "C_HIDDENPATH_TITLE",
+    "Text": "Hidden Path"
+  },
+  {
+    "Id": "C_HILLTROLL_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "C_HILLTROLL_TITLE",
+    "Text": "Hill Troll"
+  },
+  {
+    "Id": "C_HIVEGUARDIAN_TEXT",
+    "Text": "Counter 1. Sentinel."
+  },
+  {
+    "Id": "C_HIVEGUARDIAN_TITLE",
+    "Text": "Hive Guardian"
+  },
+  {
+    "Id": "C_HOBBITCLOAK_TEXT",
+    "Text": "Attach (Hobbit Hero). Upkeep: Sauron loses 1 Resource."
+  },
+  {
+    "Id": "C_HOBBITCLOAK_TITLE",
+    "Text": "Hobbit Cloak"
+  },
+  {
+    "Id": "C_HORSEBACKARCHER_TEXT",
+    "Text": "Ranged."
+  },
+  {
+    "Id": "C_HORSEBACKARCHER_TITLE",
+    "Text": "Horseback Archer"
+  },
+  {
+    "Id": "C_HOUSESOFHEALING_TEXT",
+    "Text": "Choose a Hero in your discard pile. That Hero returns to play exhausted."
+  },
+  {
+    "Id": "C_HOUSESOFHEALING_TITLE",
+    "Text": "Houses of Healing"
+  },
+  {
+    "Id": "C_HUMMERHORNS_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "C_HUMMERHORNS_TITLE",
+    "Text": "Hummerhorns"
+  },
+  {
+    "Id": "C_HUNTED_TEXT",
+    "Text": "Choose: Raise your Threat by 1 for each Ally you control, or discard an Ally you control."
+  },
+  {
+    "Id": "C_HUNTED_TITLE",
+    "Text": "Hunted"
+  },
+  {
+    "Id": "C_IMLADRISCAREGIVER_TEXT",
+    "Text": "Arrival: Heal 2 damage from a Character."
+  },
+  {
+    "Id": "C_IMLADRISCAREGIVER_TITLE",
+    "Text": "Imladris Caregiver"
+  },
+  {
+    "Id": "C_INVESTIGATESMOKE_TEXT",
+    "Text": "Resolve: Travel immediately to Abandoned Village."
+  },
+  {
+    "Id": "C_INVESTIGATESMOKE_TITLE",
+    "Text": "Investigate Smoke"
+  },
+  {
+    "Id": "C_ITHILIENARCHER_TEXT",
+    "Text": "Ranged. Ithilien Archer gains +1 Attack for each exhausted Enemy."
+  },
+  {
+    "Id": "C_ITHILIENARCHER_TITLE",
+    "Text": "Ithilien Archer"
+  },
+  {
+    "Id": "C_ITHILIENLOOKOUT_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "C_ITHILIENLOOKOUT_TITLE",
+    "Text": "Ithilien Lookout"
+  },
+  {
+    "Id": "C_KINGSFOIL_TEXT",
+    "Text": "Resolve: Heal 2 damage from all player Characters."
+  },
+  {
+    "Id": "C_KINGSFOIL_TITLE",
+    "Text": "Kingsfoil"
+  },
+  {
+    "Id": "C_KINGSPIDER_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "C_KINGSPIDER_TITLE",
+    "Text": "King Spider"
+  },
+  {
+    "Id": "C_LEGACYBLADE_TEXT",
+    "Text": "Attach: Gain +1 Attack for each Resource in your pool (limit +3 Attack)."
+  },
+  {
+    "Id": "C_LEGACYBLADE_TITLE",
+    "Text": "Legacy Blade"
+  },
+  {
+    "Id": "C_LEGOLAS_TEXT",
+    "Text": "Ranged. Upkeep: Deal 1 damage to an Enemy."
+  },
+  {
+    "Id": "C_LEGOLAS_TITLE",
+    "Text": "‰Legolas   "
+  },
+  {
+    "Id": "C_LEMBAS_TEXT",
+    "Text": "Ready a Character and heal 2 damage from it."
+  },
+  {
+    "Id": "C_LEMBAS_TITLE",
+    "Text": "Lembas"
+  },
+  {
+    "Id": "C_LORIENSWEALTH_TEXT",
+    "Text": "Action: Draw Two Cards."
+  },
+  {
+    "Id": "C_LORIENSWEALTH_TITLE",
+    "Text": "Lorien's Wealth"
+  },
+  {
+    "Id": "C_LOSTINTHEWILDERNESS_TEXT",
+    "Text": "Capture 2 random cards from each player's hand."
+  },
+  {
+    "Id": "C_LOSTINTHEWILDERNESS_TITLE",
+    "Text": "Lost in the Wilderness"
+  },
+  {
+    "Id": "C_LOUIS_TEXT",
+    "Text": "Each Troll Enemy gains Stalwart."
+  },
+  {
+    "Id": "C_LOUIS_TITLE",
+    "Text": "‰Louis"
+  },
+  {
+    "Id": "C_LOWONSUPPLIES_TEXT",
+    "Text": "Forced: After a player plays a card, that player's Threat increases by 1."
+  },
+  {
+    "Id": "C_LOWONSUPPLIES_TITLE",
+    "Text": "Low on Supplies"
+  },
+  {
+    "Id": "C_MABLUNG_TEXT",
+    "Text": "Ranged. Arrival: Exhaust a non-unique Enemy."
+  },
+  {
+    "Id": "C_MABLUNG_TITLE",
+    "Text": "‰Mablung   "
+  },
+  {
+    "Id": "C_MARSHADDER_TEXT",
+    "Text": "Stalwart. Vigilant."
+  },
+  {
+    "Id": "C_MARSHADDER_TITLE",
+    "Text": "‰Marsh Adder"
+  },
+  {
+    "Id": "C_MIRKWOODFLOCK_TEXT",
+    "Text": "Moribund: Sauron gains 1 Resource."
+  },
+  {
+    "Id": "C_MIRKWOODFLOCK_TITLE",
+    "Text": "Mirkwood Flock"
+  },
+  {
+    "Id": "C_MIRKWOODPATROL_TEXT",
+    "Text": "Sentinel."
+  },
+  {
+    "Id": "C_MIRKWOODPATROL_TITLE",
+    "Text": "Mirkwood Patrol"
+  },
+  {
+    "Id": "C_MITHRANDIRSADVICE_TEXT",
+    "Text": "Draw 2 cards."
+  },
+  {
+    "Id": "C_MITHRANDIRSADVICE_TITLE",
+    "Text": "Mithrandir's Advice"
+  },
+  {
+    "Id": "C_MORRIS_TEXT",
+    "Text": "Each Troll Enemy gains Block."
+  },
+  {
+    "Id": "C_MORRIS_TITLE",
+    "Text": "‰Morris"
+  },
+  {
+    "Id": "C_MUCKADDER_TEXT",
+    "Text": "Quick. Muck Adder attacks the player Character with the lowest current Health."
+  },
+  {
+    "Id": "C_MUCKADDER_TITLE",
+    "Text": "Muck Adder"
+  },
+  {
+    "Id": "C_NAVIGATETHERIVER_TEXT",
+    "Text": "Resolve: Allow travel from this Location."
+  },
+  {
+    "Id": "C_NAVIGATETHERIVER_TITLE",
+    "Text": "Navigate the River"
+  },
+  {
+    "Id": "C_ORCBEASTMASTER_TEXT",
+    "Text": "Arrival: Add 1 Orc Hound at 0 cost."
+  },
+  {
+    "Id": "C_ORCBEASTMASTER_TITLE",
+    "Text": "Orc Beastmaster"
+  },
+  {
+    "Id": "C_ORCHOUND_TEXT",
+    "Text": "Pursuit. All Orcs gain Pursuit."
+  },
+  {
+    "Id": "C_ORCHOUND_TITLE",
+    "Text": "Orc Hound"
+  },
+  {
+    "Id": "C_ORCMARAUDER_TEXT",
+    "Text": "Forced: When Orc Marauder attacks, Sauron gains 1 Resource."
+  },
+  {
+    "Id": "C_ORCMARAUDER_TITLE",
+    "Text": "Orc Marauder"
+  },
+  {
+    "Id": "C_PACKOFWARGS_TEXT",
+    "Text": "Pursuit. Upkeep: Pack of Wargs gains +1 Health."
+  },
+  {
+    "Id": "C_PACKOFWARGS_TITLE",
+    "Text": "Pack of Wargs"
+  },
+  {
+    "Id": "C_PARTINGGIFTS_TEXT",
+    "Text": "Action: Gain 1 Resource."
+  },
+  {
+    "Id": "C_PARTINGGIFTS_TITLE",
+    "Text": "Parting Gifts"
+  },
+  {
+    "Id": "C_POISONEDBYSPIDERS_TEXT",
+    "Text": "Prep: The next Character damaged but not defeated by a Spider attack cannot ready this round or next Upkeep."
+  },
+  {
+    "Id": "C_POISONEDBYSPIDERS_TITLE",
+    "Text": "Poisoned by Spiders"
+  },
+  {
+    "Id": "C_PURSUEDBYSHADOW_TEXT",
+    "Text": "Prep: Exhaust the next Ally that enters play."
+  },
+  {
+    "Id": "C_PURSUEDBYSHADOW_TITLE",
+    "Text": "Pursued by Shadow"
+  },
+  {
+    "Id": "C_PURSUITONTHESHORE_TEXT",
+    "Text": "Deal 1 damage to a random player Character in play. Repeat this effect for each Enemy in play."
+  },
+  {
+    "Id": "C_PURSUITONTHESHORE_TITLE",
+    "Text": "Pursuit on the Shore"
+  },
+  {
+    "Id": "C_QUICKERTHANSIGHT_TEXT",
+    "Text": "Prep: Discard the next Attachment that Sauron plays."
+  },
+  {
+    "Id": "C_QUICKERTHANSIGHT_TITLE",
+    "Text": "Quicker than Sight"
+  },
+  {
+    "Id": "C_QUICKSTRIKE_TEXT",
+    "Text": "Choose a Character. That Character gains Quick for their next attack."
+  },
+  {
+    "Id": "C_QUICKSTRIKE_TITLE",
+    "Text": "Quick Strike"
+  },
+  {
+    "Id": "C_RAIMENTOFWAR_TEXT",
+    "Text": "Attach: Gain +1 Attack, +2 Health, and Block."
+  },
+  {
+    "Id": "C_RAIMENTOFWAR_TITLE",
+    "Text": "Raiment of War"
+  },
+  {
+    "Id": "C_RAINOFARROWS_TEXT",
+    "Text": "Deal 1 damage to each Enemy in play."
+  },
+  {
+    "Id": "C_RAINOFARROWS_TITLE",
+    "Text": "Rain of Arrows"
+  },
+  {
+    "Id": "C_RANGERSPEAR_TEXT",
+    "Text": "Attach: Gain +1 Attack. When attacked, deal 1 damage to the attacking Enemy."
+  },
+  {
+    "Id": "C_RANGERSPEAR_TITLE",
+    "Text": "Ranger Spear"
+  },
+  {
+    "Id": "C_REINFORCEMENTS_TEXT",
+    "Text": "Put a copy of a random non-unique Ally from your deck into play."
+  },
+  {
+    "Id": "C_REINFORCEMENTS_TITLE",
+    "Text": "Reinforcements"
+  },
+  {
+    "Id": "C_RESCUEGRIMBEORN_TEXT",
+    "Text": "Resolve: Take control of Grimbeorn and travel immediately to The Carrock."
+  },
+  {
+    "Id": "C_RESCUEGRIMBEORN_TITLE",
+    "Text": "Rescue Grimbeorn"
+  },
+  {
+    "Id": "C_RESCUETHEHORSES_TEXT",
+    "Text": "Resolve: Each player gains 2 Resources."
+  },
+  {
+    "Id": "C_RESCUETHEHORSES_TITLE",
+    "Text": "Rescue the Horses"
+  },
+  {
+    "Id": "C_RESCUEYOURFRIENDS_TEXT",
+    "Text": "Resolve: Return each captured Hero to its owner's play area."
+  },
+  {
+    "Id": "C_RESCUEYOURFRIENDS_TITLE",
+    "Text": "Rescue Your Friends"
+  },
+  {
+    "Id": "C_ROUNDSHIELD_TEXT",
+    "Text": "Attach: Gain Block."
+  },
+  {
+    "Id": "C_ROUNDSHIELD_TITLE",
+    "Text": "Round Shield"
+  },
+  {
+    "Id": "C_RUPERT_TEXT",
+    "Text": "Each Troll Enemy gains +1 Attack."
+  },
+  {
+    "Id": "C_RUPERT_TITLE",
+    "Text": "‰Rupert"
+  },
+  {
+    "Id": "C_SACKED_TEXT",
+    "Text": "One random player Character is captured in a Troll Sack."
+  },
+  {
+    "Id": "C_SACKED_TITLE",
+    "Text": "Sacked!"
+  },
+  {
+    "Id": "C_SAMGAMGEE_TEXT",
+    "Text": "Stalwart. While Sauron has 0 Resources, Sam Gamgee gains +1 Attack, +1 Willpower, and Vigilant."
+  },
+  {
+    "Id": "C_SAMGAMGEE_TITLE",
+    "Text": "‰Sam Gamgee "
+  },
+  {
+    "Id": "C_SEARCHFORAPATH_TEXT",
+    "Text": "Resolve: Travel immediately to Overgrown Trail."
+  },
+  {
+    "Id": "C_SEARCHFORAPATH_TITLE",
+    "Text": "Search for a Path"
+  },
+  {
+    "Id": "C_SEARCHTHEAREA_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "C_SEARCHTHEAREA_TITLE",
+    "Text": "Search the Area"
+  },
+  {
+    "Id": "C_SECRETPATHS_TEXT",
+    "Text": "Apply 2 progress to an Objective."
+  },
+  {
+    "Id": "C_SECRETPATHS_TITLE",
+    "Text": "Secret Paths"
+  },
+  {
+    "Id": "C_SELFPRESERVATION_TEXT",
+    "Text": "Attach. Upkeep: Heal 1 damage from the attached Character."
+  },
+  {
+    "Id": "C_SELFPRESERVATION_TITLE",
+    "Text": "Self-Preservation"
+  },
+  {
+    "Id": "C_SHIELDOFROHAN_TEXT",
+    "Text": "Attach (Rohan): Gain +2 Health and Stalwart."
+  },
+  {
+    "Id": "C_SHIELDOFROHAN_TITLE",
+    "Text": "Shield of Rohan"
+  },
+  {
+    "Id": "C_SILVANTRACKER_TEXT",
+    "Text": "Arrival: Choose a character to gain Stealth until the end of the round."
+  },
+  {
+    "Id": "C_SILVANTRACKER_TITLE",
+    "Text": "Silvan Tracker"
+  },
+  {
+    "Id": "C_SNEAKATTACK_TEXT",
+    "Text": "Put a random Ally into play under your control. That Ally gains Fleeting."
+  },
+  {
+    "Id": "C_SNEAKATTACK_TITLE",
+    "Text": "Sneak Attack"
+  },
+  {
+    "Id": "C_SPIDERGUARD_TEXT",
+    "Text": "Sentinel."
+  },
+  {
+    "Id": "C_SPIDERGUARD_TITLE",
+    "Text": "Spider Guard"
+  },
+  {
+    "Id": "C_SPIDERQUEEN_TEXT",
+    "Text": "Each Hatchling Spider gains +1 Attack and Sentinel. Upkeep: Add 1 Hatchling Spider at 0 cost."
+  },
+  {
+    "Id": "C_SPIDERQUEEN_TITLE",
+    "Text": "Spider Queen"
+  },
+  {
+    "Id": "C_SPIDERSOFMIRKWOOD_TEXT",
+    "Text": "Sentinel."
+  },
+  {
+    "Id": "C_SPIDERSOFMIRKWOOD_TITLE",
+    "Text": "Spiders of Mirkwood"
+  },
+  {
+    "Id": "C_SPOOKEDHORSES_TEXT",
+    "Text": "Each player loses 2 Resources."
+  },
+  {
+    "Id": "C_SPOOKEDHORSES_TITLE",
+    "Text": "Spooked Horses"
+  },
+  {
+    "Id": "C_SQUASHEDINTOJELLY_TEXT",
+    "Text": "Discard all Troll Sacks. Each player's Threat increases by 2 for each Troll Sack discarded."
+  },
+  {
+    "Id": "C_SQUASHEDINTOJELLY_TITLE",
+    "Text": "Squashed into Jelly"
+  },
+  {
+    "Id": "C_STARBROOCH_TEXT",
+    "Text": "Attach: Gain Vigilant."
+  },
+  {
+    "Id": "C_STARBROOCH_TITLE",
+    "Text": "Star Brooch"
+  },
+  {
+    "Id": "C_STERNERTHANSTEEL_TEXT",
+    "Text": "Prep: When a Character is attacked, that Character gains Protect."
+  },
+  {
+    "Id": "C_STERNERTHANSTEEL_TITLE",
+    "Text": "Sterner than Steel"
+  },
+  {
+    "Id": "C_STUART_TEXT",
+    "Text": "Upkeep: Heal 1 damage from each Troll Enemy."
+  },
+  {
+    "Id": "C_STUART_TITLE",
+    "Text": "‰Stuart"
+  },
+  {
+    "Id": "C_TASTEITAGAIN_TEXT",
+    "Text": "Prep: The next attacking Enemy takes damage equal to the target's Attack (damage is dealt before the Enemy attack resolves)."
+  },
+  {
+    "Id": "C_TASTEITAGAIN_TITLE",
+    "Text": "Taste it Again!"
+  },
+  {
+    "Id": "C_THENECROMANCERSREACH_TEXT",
+    "Text": "Each Enemy in play gains +1 Attack permanently."
+  },
+  {
+    "Id": "C_THENECROMANCERSREACH_TITLE",
+    "Text": "The Necromancer's Reach"
+  },
+  {
+    "Id": "C_THETREEPEOPLE_TEXT",
+    "Text": "Return a Silvan Ally to the player's hand to put a random Silvan Ally into play."
+  },
+  {
+    "Id": "C_THETREEPEOPLE_TITLE",
+    "Text": "The Tree People"
+  },
+  {
+    "Id": "C_THICKWEBS_TEXT",
+    "Text": "Forced: Each Ally that enters play is exhausted immediately."
+  },
+  {
+    "Id": "C_THICKWEBS_TITLE",
+    "Text": "Thick Webs"
+  },
+  {
+    "Id": "C_TOMBOMBADIL_TEXT",
+    "Text": "Fleeting. Arrival: Discard a non-unique Enemy."
+  },
+  {
+    "Id": "C_TOMBOMBADIL_TITLE",
+    "Text": "‰Tom Bombadil"
+  },
+  {
+    "Id": "C_TREACHEROUSFOG_TEXT",
+    "Text": "Prep: After a player plays a card, discard 1 random card from their hand."
+  },
+  {
+    "Id": "C_TREACHEROUSFOG_TITLE",
+    "Text": "Treacherous Fog"
+  },
+  {
+    "Id": "C_TRIBULATION_TEXT",
+    "Text": "Deal 1 damage to each Ally in play."
+  },
+  {
+    "Id": "C_TRIBULATION_TITLE",
+    "Text": "Tribulation"
+  },
+  {
+    "Id": "C_TROLLSACK_TEXT",
+    "Text": "Resolve: The Character is rescued and returns to the play area."
+  },
+  {
+    "Id": "C_TROLLSACK_TITLE",
+    "Text": "Troll Sack"
+  },
+  {
+    "Id": "C_TROLLSHAWSCOUT_TEXT",
+    "Text": "Moribund: Exhaust a random Enemy."
+  },
+  {
+    "Id": "C_TROLLSHAWSCOUT_TITLE",
+    "Text": "Trollshaw Scout"
+  },
+  {
+    "Id": "C_TURNEDAROUND_TEXT",
+    "Text": "Restore each Objective in play to its starting Quest value."
+  },
+  {
+    "Id": "C_TURNEDAROUND_TITLE",
+    "Text": "Turned Around"
+  },
+  {
+    "Id": "C_UNDERTHESHADOW_TEXT",
+    "Text": "Attach (Enemy): Gain +2 Health."
+  },
+  {
+    "Id": "C_UNDERTHESHADOW_TITLE",
+    "Text": "Under the Shadow"
+  },
+  {
+    "Id": "C_UNDERTHEWATCHFULEYE_TEXT",
+    "Text": "Reduce each player's hand size to 5 cards."
+  },
+  {
+    "Id": "C_UNDERTHEWATCHFULEYE_TITLE",
+    "Text": "Under the Watchful Eye"
+  },
+  {
+    "Id": "C_UNEXPECTEDCOURAGE_TEXT",
+    "Text": "Attach: Ready if attached Character defeats an Enemy or resolves an Objective."
+  },
+  {
+    "Id": "C_UNEXPECTEDCOURAGE_TITLE",
+    "Text": "Unexpected Courage"
+  },
+  {
+    "Id": "C_UNGOLIANTSBROOD_TEXT",
+    "Text": "End of round: Each Spider in play gains +1 Health."
+  },
+  {
+    "Id": "C_UNGOLIANTSBROOD_TITLE",
+    "Text": "Ungoliant's Brood"
+  },
+  {
+    "Id": "C_UNGOLIANTSSPAWN_TEXT",
+    "Text": "Each Hatchling Spider gains +1 Attack and Sentinel. Upkeep: Add 1 Hatchling Spider at 0 cost."
+  },
+  {
+    "Id": "C_UNGOLIANTSSPAWN_TITLE",
+    "Text": "‰Ungoliant's Spawn"
+  },
+  {
+    "Id": "C_UNWAVERING_TEXT",
+    "Text": "Attach (Enemy): Gain Stalwart."
+  },
+  {
+    "Id": "C_UNWAVERING_TITLE",
+    "Text": "Unwavering"
+  },
+  {
+    "Id": "C_VETERAN_TEXT",
+    "Text": "Attach (Enemy): Gain Block."
+  },
+  {
+    "Id": "C_VETERAN_TITLE",
+    "Text": "Veteran"
+  },
+  {
+    "Id": "C_VETERANAXEHAND_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "C_VETERANAXEHAND_TITLE",
+    "Text": "Veteran Axehand"
+  },
+  {
+    "Id": "C_VETERANPATROL_TEXT",
+    "Text": "Sentinel."
+  },
+  {
+    "Id": "C_VETERANPATROL_TITLE",
+    "Text": "Veteran Patrol"
+  },
+  {
+    "Id": "C_VICIOUSSPEED_TEXT",
+    "Text": "Attach (Enemy): Gain Vigilant."
+  },
+  {
+    "Id": "C_VICIOUSSPEED_TITLE",
+    "Text": "Vicious Speed"
+  },
+  {
+    "Id": "C_VILESPAWN_TEXT",
+    "Text": "Ungoliant's Spawn heals all current damage."
+  },
+  {
+    "Id": "C_VILESPAWN_TITLE",
+    "Text": "Vile Spawn"
+  },
+  {
+    "Id": "C_WANDERINGTOOK_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "C_WANDERINGTOOK_TITLE",
+    "Text": "Wandering Took"
+  },
+  {
+    "Id": "C_WARDENOFANNUMINAS_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "C_WARDENOFANNUMINAS_TITLE",
+    "Text": "Warden of Annuminas"
+  },
+  {
+    "Id": "C_WARGRIDERS_TEXT",
+    "Text": "Pursuit. Each Orc gains Pursuit."
+  },
+  {
+    "Id": "C_WARGRIDERS_TITLE",
+    "Text": "Warg Riders"
+  },
+  {
+    "Id": "C_WARGS_TEXT",
+    "Text": "Aggressive 1. Vigilant."
+  },
+  {
+    "Id": "C_WARGS_TITLE",
+    "Text": "Wargs"
+  },
+  {
+    "Id": "C_WARRIORSWORD_TEXT",
+    "Text": "Attach: Gain +1 Attack."
+  },
+  {
+    "Id": "C_WARRIORSWORD_TITLE",
+    "Text": "Warrior Sword"
+  },
+  {
+    "Id": "C_WATCHFULEYES_TEXT",
+    "Text": "Threatening."
+  },
+  {
+    "Id": "C_WATCHFULEYES_TITLE",
+    "Text": "Watchful Eyes"
+  },
+  {
+    "Id": "C_WATCHFULSCOUT_TEXT",
+    "Text": "Resolve: Take control of Elven Scout."
+  },
+  {
+    "Id": "C_WATCHFULSCOUT_TITLE",
+    "Text": "Watchful Scout"
+  },
+  {
+    "Id": "C_WATERSOFNIMRODEL_TEXT",
+    "Text": "Action: Heal 3 damage to a Character."
+  },
+  {
+    "Id": "C_WATERSOFNIMRODEL_TITLE",
+    "Text": "Waters of Nimrodel"
+  },
+  {
+    "Id": "C_WESTFOLDOUTRIDER_TEXT",
+    "Text": "Arrival: Deal 2 damage to an undamaged Enemy."
+  },
+  {
+    "Id": "C_WESTFOLDOUTRIDER_TITLE",
+    "Text": "Westfold Outrider"
+  },
+  {
+    "Id": "C_WILDBEAR_TEXT",
+    "Text": "Pursuit. Stalwart."
+  },
+  {
+    "Id": "C_WILDBEAR_TITLE",
+    "Text": "Wild Bear"
+  },
+  {
+    "Id": "C_WOODLANDCOURIER_TEXT",
+    "Text": "Arrival: Apply 1 progress to an Objective."
+  },
+  {
+    "Id": "C_WOODLANDCOURIER_TITLE",
+    "Text": "Woodland Courier"
+  },
+  {
+    "Id": "C_ZIGILMINER_TEXT",
+    "Text": "Power: Activate Zigil Miner to gain 1 Resource."
+  },
+  {
+    "Id": "C_ZIGILMINER_TITLE",
+    "Text": "Zigil Miner"
+  },
+  {
+    "Id": "T_TUTORIAL01",
+    "Text": "Welcome to <b>The Lord of the Rings Living Card Game</b>!"
+  },
+  {
+    "Id": "T_TUTORIAL02",
+    "Text": "<b>Aragorn</b> and <b>Arwen</b> are ambushed while traveling through Mirkwood Forest"
+  },
+  {
+    "Id": "T_TUTORIAL03",
+    "Text": "<b>Aragorn</b> and <b>Arwen</b> are <i>Heroes</i>. They begin the game in play. Heroes are powerful, but your journey will come to an end if they are all defeated"
+  },
+  {
+    "Id": "T_TUTORIAL04",
+    "Text": "This is an <i>Enemy</i>. You will encounter many of them during your adventures"
+  },
+  {
+    "Id": "T_TUTORIAL05",
+    "Text": "This is a <i>Main Objective</i>. Every Location has one. It tells you what you must do to move on to the next stage of your Quest"
+  },
+  {
+    "Id": "T_TUTORIAL06",
+    "Text": "The game is played in rounds, which have two phases: <i>Planning</i> and <i>Adventure</i>. Sauron goes first in each. On your turn in the Planning phase, you play cards to boost your Characters' abilities or prepare against Sauron"
+  },
+  {
+    "Id": "T_TUTORIAL07",
+    "Text": "To play a card, select and drag it to the play area. Play <b>Mithrandir's Advice</b>"
+  },
+  {
+    "Id": "T_TUTORIAL08",
+    "Text": "Playing a card requires spending <i>Resources</i> equal to the cost in its upper left corner. You get Resources at the start of each round, and by playing certain cards. Play <b>Gaining Strength</b> to get a Resource"
+  },
+  {
+    "Id": "T_TUTORIAL09",
+    "Text": "<i>Allies</i> help your Heroes. Play <b>Guard of the Citadel </b>to your player area"
+  },
+  {
+    "Id": "T_TUTORIAL10",
+    "Text": "You have played all the cards you can for now. Select the <b>END PHASE</b> button"
+  },
+  {
+    "Id": "T_TUTORIAL11",
+    "Text": "After you finish Planning, the Adventure phase begins. You take turns with Sauron during this phase, and may attack Enemies or engage Objectives"
+  },
+  {
+    "Id": "T_TUTORIAL12",
+    "Text": "In an attack, attacker and defender inflict damage on one another equal to their <i>Attack </i>values. Both Characters are then exhausted. A Character reduced to 0 <i>Health</i> is defeated"
+  },
+  {
+    "Id": "T_TUTORIAL13",
+    "Text": "Now it's your turn! Use <b>Aragorn</b> to attack the <b>East Bight Patrol</b>"
+  },
+  {
+    "Id": "T_TUTORIAL14",
+    "Text": "<b>Aragorn</b>'s 2 Attack value drops the <b>East Bight Patrol</b> to 0 Health. The Enemy is defeated"
+  },
+  {
+    "Id": "T_TUTORIAL15",
+    "Text": "Once you overcome a Main Objective, you may travel to the next Location"
+  },
+  {
+    "Id": "T_TUTORIAL16",
+    "Text": "Select the <b>TRAVEL</b> button to continue your Quest"
+  },
+  {
+    "Id": "T_TUTORIAL17",
+    "Text": "This is the <i>Threat</i> meter. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, your Quest fails"
+  },
+  {
+    "Id": "T_TUTORIAL18",
+    "Text": "<b>Aragorn</b> and <b>Arwen</b> venture deeper into the forest"
+  },
+  {
+    "Id": "T_TUTORIAL19",
+    "Text": "<i>Upkeep</i> occurs at the start of each round. Some Characters have abilities that you may use at this time. Use <b>Arwen</b>'s ability to heal <b>Aragorn</b>"
+  },
+  {
+    "Id": "T_TUTORIAL20",
+    "Text": "In addition to Enemies, Sauron can also play <i>Attachments</i> and <i>Events</i>. These cards have a variety of effects, from impeding your progress to damaging your Characters directly"
+  },
+  {
+    "Id": "T_TUTORIAL21",
+    "Text": "Some cards have <i>keywords</i>, which grant additional abilities. Play <b>Horseback Archer</b>, which has the Ranged keyword"
+  },
+  {
+    "Id": "T_TUTORIAL22",
+    "Text": "When making a ranged attack on an exhausted target, the attacker takes no damage. Use <b>Horseback Archer</b> to finish off the<b> Hatchling Spider</b>"
+  },
+  {
+    "Id": "T_TUTORIAL23",
+    "Text": "Use <b>Aragorn</b> to defeat the last Enemy"
+  },
+  {
+    "Id": "T_TUTORIAL24",
+    "Text": "Some cards have special <i>Powers</i>. Select <b>Aragorn</b>, then select his Power to spend 1 Resource and ready him"
+  },
+  {
+    "Id": "T_TUTORIAL25",
+    "Text": "You use <i>Willpower</i> to engage an Objective. Select <b>Aragorn</b> and drag him to <b>Search the Area</b"
+  },
+  {
+    "Id": "T_TUTORIAL26",
+    "Text": "Your Characters are exhausted. Select the <b>END ROUND</b> button"
+  },
+  {
+    "Id": "T_TUTORIAL27",
+    "Text": "A new round has begun. Use <b>Arwen</b>'s ability to heal one of your Characters"
+  },
+  {
+    "Id": "T_TUTORIAL28",
+    "Text": "A Character with the Sentinel keyword must be defeated before you can target other Enemies or Objectives"
+  },
+  {
+    "Id": "T_TUTORIAL29",
+    "Text": "You can use Attachments to enhance Characters. To equip an Attachment, play the card, then select a Hero or Ally. Equip <b>Aragorn</b> with the <b>Warrior Sword</b>"
+  },
+  {
+    "Id": "T_TUTORIAL30",
+    "Text": "Use what you've learned to defeat the <b>Dol Guldur Orcs </b>and <b>Search the Area</b>"
+  },
+  {
+    "Id": "T_TUTORIAL31",
+    "Text": "Excellent work! Now, finish off the Orcs to complete your Quest"
+  },
+  {
+    "Id": "T_TUTORIAL32",
+    "Text": "Excellent work! Now you can <b>Search the Area</b> to complete your Quest"
+  },
+  {
+    "Id": "T_TUTORIAL33",
+    "Text": "Congratulations! You have completed the tutorial, but that was merely the beginning. Create an Asmodee.net account now to unlock Heroes, Quests, and more. Here is all that you shall receive to start your own adventures in Middle-earth…"
+  },
+  {
+    "Id": "T_SPLASH_Item_01",
+    "Text": "4 Heroes"
+  },
+  {
+    "Id": "T_SPLASH_Item_02",
+    "Text": "5 Leadership cards x2"
+  },
+  {
+    "Id": "T_SPLASH_Item_03",
+    "Text": "5 Lore cards x2"
+  },
+  {
+    "Id": "T_SPLASH_Item_04",
+    "Text": "5 Spirit cards x2"
+  },
+  {
+    "Id": "T_SPLASH_Item_05",
+    "Text": "5 Tactics cards x2"
+  },
+  {
+    "Id": "T_SPLASH_Item_06",
+    "Text": "1 Neutral card x2"
+  },
+  {
+    "Id": "T_SPLASH_Item_07",
+    "Text": "1 Card back"
+  },
+  {
+    "Id": "T_SPLASH_Item_08",
+    "Text": "1 Palantir gaze"
+  },
+  {
+    "Id": "T_SPLASH_Item_09",
+    "Text": "1 Beacon Torch"
+  },
+  {
+    "Id": "T_SPLASH_Item_10",
+    "Text": "1 Campaign Star"
+  },
+  {
+    "Id": "T_SPLASH_Item_11",
+    "Text": "Access to the <i>Adventures in Wilderland</i>"
+  },
+  {
+    "Id": "T_SPLASH_Item_12",
+    "Text": "Campaign - including the first Quest free!"
+  },
+  {
+    "Id": "T_TITLE",
+    "Text": "TUTORIAL"
+  },
+  {
+    "Id": "T_DESC",
+    "Text": "Start your journey."
+  },
+  {
+    "Id": "G_001_DESC",
+    "Text": "You take turns with Sauron during this phase, and may attack Enemies or engage Objectives. "
+  },
+  {
+    "Id": "G_001_TERM",
+    "Text": "<b>Adventure Phase: </b>"
+  },
+  {
+    "Id": "G_002_DESC",
+    "Text": "The first Campaign in The Lord of the Rings Living Card Game."
+  },
+  {
+    "Id": "G_002_TERM",
+    "Text": "<b>Adventures in Wilderland: </b>"
+  },
+  {
+    "Id": "G_003_DESC",
+    "Text": "When a Character with this keyword attacks, it gains an additional Attack value equal to the number listed with it."
+  },
+  {
+    "Id": "G_003_TERM",
+    "Text": "<b>Aggressive: </b>"
+  },
+  {
+    "Id": "G_004_DESC",
+    "Text": "A card type representing friends, followers, creatures, and hirelings that assist your Heroes on their Quest. Allies play from your hand and remain in play until they are defeated or removed from play by a card effect."
+  },
+  {
+    "Id": "G_004_TERM",
+    "Text": "<b>Ally: </b>"
+  },
+  {
+    "Id": "G_005_DESC",
+    "Text": "The keyword for a card ability that triggers immediately after a Character enters play."
+  },
+  {
+    "Id": "G_005_TERM",
+    "Text": "<b>Arrival: </b>"
+  },
+  {
+    "Id": "G_006_DESC",
+    "Text": "A keyword which indicates a card must be attached to a Character."
+  },
+  {
+    "Id": "G_006_TERM",
+    "Text": "<b>Attach: </b>"
+  },
+  {
+    "Id": "G_007_DESC",
+    "Text": "A card type representing armor, weapons, items, or special abilities. Unless the Attachment states otherwise, it modifies or influences only the Character to which it is equipped. If a card with an Attachment leaves play, the Attachment is discarded as well."
+  },
+  {
+    "Id": "G_007_TERM",
+    "Text": "<b>Attachment: </b>"
+  },
+  {
+    "Id": "G_008_DESC",
+    "Text": "A Character's effectiveness when attacking or defending in combat."
+  },
+  {
+    "Id": "G_008_TERM",
+    "Text": "<b>Attack: </b>"
+  },
+  {
+    "Id": "G_009_DESC",
+    "Text": "The icon shown in your profile."
+  },
+  {
+    "Id": "G_009_TERM",
+    "Text": "<b>Avatar: </b>"
+  },
+  {
+    "Id": "G_010_DESC",
+    "Text": "A reward available in the Palantir or when playing on Hard difficulty. You can use 5 Beacon Torches to unlock a Hero Pack of your choice."
+  },
+  {
+    "Id": "G_010_TERM",
+    "Text": "<b>Beacon Torch: </b>"
+  },
+  {
+    "Id": "G_011_DESC",
+    "Text": "Each time a Character with this keyword takes damage, it reduces by 1 the damage applied."
+  },
+  {
+    "Id": "G_011_TERM",
+    "Text": "<b>Block: </b>"
+  },
+  {
+    "Id": "G_012_DESC",
+    "Text": "A series of 5 Quests that tell a larger story. "
+  },
+  {
+    "Id": "G_012_TERM",
+    "Text": "<b>Campaign: </b>"
+  },
+  {
+    "Id": "G_013_DESC",
+    "Text": "The first time a player logs into the game every 24 hours, the game generates a random challenge tied to a random unlocked Quest. The player receives a Valor reward (and potential additional rewards) for completing each daily challenge."
+  },
+  {
+    "Id": "G_013_TERM",
+    "Text": "<b>Challenge, Daily: </b>"
+  },
+  {
+    "Id": "G_014_DESC",
+    "Text": "Also called in-game achievements, these are passive achievements tracked over the lifetime of a player's account."
+  },
+  {
+    "Id": "G_014_TERM",
+    "Text": "<b>Challenge, Epic: </b>"
+  },
+  {
+    "Id": "G_015_DESC",
+    "Text": "A card type that refers to all Heroes and Allies. When you have the option to select a Character, you can choose any Hero or Ally in play. Enemies are also considered Characters, and may also be valid choices for certain effects that target Characters."
+  },
+  {
+    "Id": "G_015_TERM",
+    "Text": "<b>Character: </b>"
+  },
+  {
+    "Id": "G_016_DESC",
+    "Text": "All player and Sauron cards have a cost in the upper-left hand corner. This is the number of Resources that must be spent in order to play the card. Hero cards do not have a cost, since they begin the game in play."
+  },
+  {
+    "Id": "G_016_TERM",
+    "Text": "<b>Cost: </b>"
+  },
+  {
+    "Id": "G_017_DESC",
+    "Text": "When a Character with this keyword defends, it gains an additional Attack value equal to the number listed with it."
+  },
+  {
+    "Id": "G_017_TERM",
+    "Text": "<b>Counter: </b>"
+  },
+  {
+    "Id": "G_018_DESC",
+    "Text": "The term for when a Character is removed from play, whether by falling to 0 Health or some other means."
+  },
+  {
+    "Id": "G_018_TERM",
+    "Text": "<b>Defeated: </b>"
+  },
+  {
+    "Id": "G_019_DESC",
+    "Text": "A rating of how challenging Sauron will be in the Quest. There are three difficulty ratings: Easy, Normal, and Hard. Sauron's Resources increase as the difficulty goes up, but you can gain greater rewards — if you survive the Quest!"
+  },
+  {
+    "Id": "G_019_TERM",
+    "Text": "<b>Difficulty: </b>"
+  },
+  {
+    "Id": "G_020_DESC",
+    "Text": "Men of the West, who settled mainly in Arnor and Gondor. "
+  },
+  {
+    "Id": "G_020_TERM",
+    "Text": "<b>Dúnedain: </b>"
+  },
+  {
+    "Id": "G_021_DESC",
+    "Text": "The act of committing a Character to an Objective. "
+  },
+  {
+    "Id": "G_021_TERM",
+    "Text": "<b>Engage: </b>"
+  },
+  {
+    "Id": "G_022_DESC",
+    "Text": "A card type that covers any tactical action, scheme, twist of fate, or other effect that occurs during the game. An Event resolves immediately when played; the card is then discarded."
+  },
+  {
+    "Id": "G_022_TERM",
+    "Text": "<b>Event: </b>"
+  },
+  {
+    "Id": "G_023_DESC",
+    "Text": "A card is exhausted when it is used. All exhausted cards ready during Upkeep."
+  },
+  {
+    "Id": "G_023_TERM",
+    "Text": "<b>Exhausted: </b>"
+  },
+  {
+    "Id": "G_024_DESC",
+    "Text": "This is an expendable card that you can use to get an immediate in-game effect. You can add a single Favor Card to your deck at the start of a Quest."
+  },
+  {
+    "Id": "G_024_TERM",
+    "Text": "<b>Favor Card: </b>"
+  },
+  {
+    "Id": "G_025_DESC",
+    "Text": "A Character with this keyword leaves play and is discarded at the end of the round."
+  },
+  {
+    "Id": "G_025_TERM",
+    "Text": "<b>Fleeting: </b>"
+  },
+  {
+    "Id": "G_026_DESC",
+    "Text": "This keyword refers to an ability that cannot be canceled or avoided."
+  },
+  {
+    "Id": "G_026_TERM",
+    "Text": "<b>Forced: </b>"
+  },
+  {
+    "Id": "G_027_DESC",
+    "Text": "Anyone not under Sauron’s rule."
+  },
+  {
+    "Id": "G_027_TERM",
+    "Text": "<b>Free Peoples, The: </b>"
+  },
+  {
+    "Id": "G_028_DESC",
+    "Text": "A race of Middle-earth. All Goblins are Orcs, but not all Orcs are Goblins. "
+  },
+  {
+    "Id": "G_028_TERM",
+    "Text": "<b>Goblins: </b>"
+  },
+  {
+    "Id": "G_029_DESC",
+    "Text": "The most prominent kingdom of Men in Middle-earth."
+  },
+  {
+    "Id": "G_029_TERM",
+    "Text": "<b>Gondor: </b>"
+  },
+  {
+    "Id": "G_030_DESC",
+    "Text": "Players cannot engage an Objective with this keyword while an Enemy is in play."
+  },
+  {
+    "Id": "G_030_TERM",
+    "Text": "<b>Guarded: </b>"
+  },
+  {
+    "Id": "G_031_DESC",
+    "Text": "The amount of damage a Character can suffer before being defeated."
+  },
+  {
+    "Id": "G_031_TERM",
+    "Text": "<b>Health: </b>"
+  },
+  {
+    "Id": "G_032_DESC",
+    "Text": "A Hero is a main Character that you control during a Quest. Heroes can engage Enemies or Objectives, and may have additional Powers that you can use. Heroes also form the foundation of each deck you create: the Heroes you choose determine the Spheres from which you can choose cards to build your deck. Heroes start the game in play, and have a Threat value instead of a cost. If all your Heroes are defeated, you fail the Quest."
+  },
+  {
+    "Id": "G_032_TERM",
+    "Text": "<b>Hero: </b>"
+  },
+  {
+    "Id": "G_033_DESC",
+    "Text": "A fixed pack of 5 cards. Each pack includes 1 Hero, plus 1 card from each Sphere of Influence. "
+  },
+  {
+    "Id": "G_033_TERM",
+    "Text": "<b>Hero Pack: </b>"
+  },
+  {
+    "Id": "G_034_DESC",
+    "Text": "A race of gentle beings who have a reputation for preferring a settled life over excitement and adventure."
+  },
+  {
+    "Id": "G_034_TERM",
+    "Text": "<b>Hobbit: </b>"
+  },
+  {
+    "Id": "G_035_DESC",
+    "Text": "Wizards such as Gandalf and Saruman who are more than mortal and possessed of great age and power.  "
+  },
+  {
+    "Id": "G_035_TERM",
+    "Text": "<b>Istari: </b>"
+  },
+  {
+    "Id": "G_036_DESC",
+    "Text": "This Sphere of Influence emphasizes charismatic and inspirational influence. It represents the potential to lead, inspire, and command Allies and other Heroes alike."
+  },
+  {
+    "Id": "G_036_TERM",
+    "Text": "<b>Leadership: </b>"
+  },
+  {
+    "Id": "G_037_DESC",
+    "Text": "A distinct stage of a Quest. Completing a Quest requires advancing through a series of Locations."
+  },
+  {
+    "Id": "G_037_TERM",
+    "Text": "<b>Location: </b>"
+  },
+  {
+    "Id": "G_038_DESC",
+    "Text": "This Sphere of Influence emphasizes the mind's potential. Intellect, wisdom, experience, and specialized knowledge are all under the domain of Lore."
+  },
+  {
+    "Id": "G_038_TERM",
+    "Text": "<b>Lore: </b>"
+  },
+  {
+    "Id": "G_039_DESC",
+    "Text": "One of the races of Middle-earth; the term is not gender-specific."
+  },
+  {
+    "Id": "G_039_TERM",
+    "Text": "<b>Men: </b>"
+  },
+  {
+    "Id": "G_040_DESC",
+    "Text": "The land in which the many adventures of The Lord of the Rings take place. "
+  },
+  {
+    "Id": "G_040_TERM",
+    "Text": "<b>Middle-earth: </b>"
+  },
+  {
+    "Id": "G_041_DESC",
+    "Text": "The keyword for a card ability that triggers immediately when a Character is defeated."
+  },
+  {
+    "Id": "G_041_TERM",
+    "Text": "<b>Moribund: </b>"
+  },
+  {
+    "Id": "G_042_DESC",
+    "Text": "Powerful lieutenants of Sauron."
+  },
+  {
+    "Id": "G_042_TERM",
+    "Text": "<b>Nazgûl: </b>"
+  },
+  {
+    "Id": "G_043_DESC",
+    "Text": "The second clan of the Elves. "
+  },
+  {
+    "Id": "G_043_TERM",
+    "Text": "<b>Noldor: </b>"
+  },
+  {
+    "Id": "G_044_DESC",
+    "Text": "This represents a task that you may face in the course of a Quest. Objectives can hinder or complicate your path to victory, and must often be overcome before you can advance to the next Location. Overcoming Objectives requires using Willpower and/or defeating an Enemy. "
+  },
+  {
+    "Id": "G_044_TERM",
+    "Text": "<b>Objective: </b>"
+  },
+  {
+    "Id": "G_045_DESC",
+    "Text": "This is the primary goal you must complete before you can advance to the next Location. "
+  },
+  {
+    "Id": "G_045_TERM",
+    "Text": "<b>Objective, Main: </b>"
+  },
+  {
+    "Id": "G_046_DESC",
+    "Text": "A race of Middle-earth."
+  },
+  {
+    "Id": "G_046_TERM",
+    "Text": "<b>Orc: </b>"
+  },
+  {
+    "Id": "G_047_DESC",
+    "Text": "You can use Palantir views to gain rewards such as cards and Valor Points."
+  },
+  {
+    "Id": "G_047_TERM",
+    "Text": "<b>Palantir: </b>"
+  },
+  {
+    "Id": "G_048_DESC",
+    "Text": "During this phase, you and Sauron take turns playing Allies, Attachments, and Events from your respective hands."
+  },
+  {
+    "Id": "G_048_TERM",
+    "Text": "<b>Planning Phase: </b>"
+  },
+  {
+    "Id": "G_049_DESC",
+    "Text": "These are any Ally, Attachment, and Event cards you use throughout a Quest. Each player card belongs to one of the four Spheres — Leadership, Lore, Spirit, Tactics — or is neutral."
+  },
+  {
+    "Id": "G_049_TERM",
+    "Text": "<b>Player Cards: </b>"
+  },
+  {
+    "Id": "G_050_DESC",
+    "Text": "This is a combination of Ally, Attachment, and Event cards from which you draw your cards throughout a Quest. Each deck has 30 cards, and cannot have more than 2 copies of any individual card. A player deck is based on 3 Heroes of your choice, which determine the Spheres from which you can choose cards for your deck."
+  },
+  {
+    "Id": "G_050_TERM",
+    "Text": "<b>Player Deck: </b>"
+  },
+  {
+    "Id": "G_051_DESC",
+    "Text": "This is a card ability that you can activate manually on your turn. Depending on the description, a Power may be activated only once per round or multiple times."
+  },
+  {
+    "Id": "G_051_TERM",
+    "Text": "<b>Power: </b>"
+  },
+  {
+    "Id": "G_052_DESC",
+    "Text": "An abbreviated form of the \"Preparation\" keyword."
+  },
+  {
+    "Id": "G_052_TERM",
+    "Text": "<b>Prep: </b>"
+  },
+  {
+    "Id": "G_053_DESC",
+    "Text": "This applies to an Event card whose effect doesn't trigger immediately. Instead, it activates at a timing window or circumstance described in the card text."
+  },
+  {
+    "Id": "G_053_TERM",
+    "Text": "<b>Preparation: </b>"
+  },
+  {
+    "Id": "G_054_DESC",
+    "Text": "The amount by which an Objective's Quest points are reduced each time Willpower is applied."
+  },
+  {
+    "Id": "G_054_TERM",
+    "Text": "<b>Progress: </b>"
+  },
+  {
+    "Id": "G_055_DESC",
+    "Text": "The next time a Character with this keyword takes damage, that damage is canceled. This Character then loses Protect."
+  },
+  {
+    "Id": "G_055_TERM",
+    "Text": "<b>Protect: </b>"
+  },
+  {
+    "Id": "G_056_DESC",
+    "Text": "A specific adventure made up of between 3 and 5 Locations. "
+  },
+  {
+    "Id": "G_056_TERM",
+    "Text": "<b>Quest Pack: </b>"
+  },
+  {
+    "Id": "G_057_DESC",
+    "Text": "The amount of Willpower required to resolve an Objective."
+  },
+  {
+    "Id": "G_057_TERM",
+    "Text": "<b>Quest Points: </b>"
+  },
+  {
+    "Id": "G_058_DESC",
+    "Text": "A reward available in the Palantir or when playing on Hard difficulty. You can use 5 Quest Stars to unlock a Quest of your choice."
+  },
+  {
+    "Id": "G_058_TERM",
+    "Text": "<b>Quest Star: </b>"
+  },
+  {
+    "Id": "G_059_DESC",
+    "Text": "A Character with this keyword resolves their attack completely before the opposing Character's attack begins. If this defeats the opposing Character, its attack never occurs; otherwise, the opposing Character attack applies as normal."
+  },
+  {
+    "Id": "G_059_TERM",
+    "Text": "<b>Quick: </b>"
+  },
+  {
+    "Id": "G_060_DESC",
+    "Text": "A Character with this keyword does not take damage when attacking an exhausted target."
+  },
+  {
+    "Id": "G_060_TERM",
+    "Text": "<b>Ranged: </b>"
+  },
+  {
+    "Id": "G_061_DESC",
+    "Text": "All player cards belong to one of the listed rarities: Starter, Hero Pack, Common, Uncommon, Rare, Legendary. The less common a card is, the more potent its abilities."
+  },
+  {
+    "Id": "G_061_TERM",
+    "Text": "<b>Rarity: </b>"
+  },
+  {
+    "Id": "G_062_DESC",
+    "Text": "The act of completing, overcoming, or otherwise removing an Objective."
+  },
+  {
+    "Id": "G_062_TERM",
+    "Text": "<b>Resolve: </b>"
+  },
+  {
+    "Id": "G_063_DESC",
+    "Text": "This is a pool you can use during your turn to play cards from your deck. You start each game with 1 Resource for each Hero in your deck. During Upkeep every round, you also get 1 Resource for each Hero you have in play."
+  },
+  {
+    "Id": "G_063_TERM",
+    "Text": "<b>Resources: </b>"
+  },
+  {
+    "Id": "G_064_DESC",
+    "Text": "The kingdom between the Misty Mountains and White Mountains. Its people are known for their skill on horseback. "
+  },
+  {
+    "Id": "G_064_TERM",
+    "Text": "<b>Rohan: </b>"
+  },
+  {
+    "Id": "G_065_DESC",
+    "Text": "A Character with this keyword must be defeated before any non-Sentinel Characters can be attacked."
+  },
+  {
+    "Id": "G_065_TERM",
+    "Text": "<b>Sentinel: </b>"
+  },
+  {
+    "Id": "G_066_DESC",
+    "Text": "The second Campaign in The Lord of the Rings Living Card Game."
+  },
+  {
+    "Id": "G_066_TERM",
+    "Text": "<b>Shadows of Mirkwood: </b>"
+  },
+  {
+    "Id": "G_067_DESC",
+    "Text": "Woodland Elves. Less interested in knowledge than in combat, compared to their Noldor cousins."
+  },
+  {
+    "Id": "G_067_TERM",
+    "Text": "<b>Silvan: </b>"
+  },
+  {
+    "Id": "G_068_DESC",
+    "Text": "There are four Spheres of Influence: Leadership, Lore, Spirit, Tactics. Each focuses on the strengths of a particular personality aspect. Every Hero belongs to a Sphere, which dictates the cards you can include in a deck."
+  },
+  {
+    "Id": "G_068_TERM",
+    "Text": "<b>Sphere of Influence: </b>"
+  },
+  {
+    "Id": "G_069_DESC",
+    "Text": "This Sphere of Influence emphasizes strength of will and aspects of the supernatural. Determination, courage, loyalty, and heart all fall within this Sphere."
+  },
+  {
+    "Id": "G_069_TERM",
+    "Text": "<b>Spirit: </b>"
+  },
+  {
+    "Id": "G_070_DESC",
+    "Text": "A Character with this keyword does not exhaust the first time it is attacked."
+  },
+  {
+    "Id": "G_070_TERM",
+    "Text": "<b>Stalwart: </b>"
+  },
+  {
+    "Id": "G_071_DESC",
+    "Text": "A Character with this keyword cannot be attacked unless all of this player's non-Stealth Characters are exhausted."
+  },
+  {
+    "Id": "G_071_TERM",
+    "Text": "<b>Stealth: </b>"
+  },
+  {
+    "Id": "G_072_DESC",
+    "Text": "This Sphere of Influence emphasizes martial prowess, particularly as it relates to combat and overcoming tactical challenges that might arise during a Quest."
+  },
+  {
+    "Id": "G_072_TERM",
+    "Text": "<b>Tactics: </b>"
+  },
+  {
+    "Id": "G_073_DESC",
+    "Text": "The general term for a Character or Objective that is the object of an action. "
+  },
+  {
+    "Id": "G_073_TERM",
+    "Text": "<b>Target: </b>"
+  },
+  {
+    "Id": "G_074_DESC",
+    "Text": "This tracks the level of risk you take on during a Quest. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, you fail the Quest."
+  },
+  {
+    "Id": "G_074_TERM",
+    "Text": "<b>Threat Meter: </b>"
+  },
+  {
+    "Id": "G_075_DESC",
+    "Text": "Found only on Hero cards, this number is added to the Threat meter at the beginning of any Quest in which you use the Hero."
+  },
+  {
+    "Id": "G_075_TERM",
+    "Text": "<b>Threat Value: </b>"
+  },
+  {
+    "Id": "G_076_DESC",
+    "Text": "A card with this keyword increases each player's Threat by one additional point at the end of each round."
+  },
+  {
+    "Id": "G_076_TERM",
+    "Text": "<b>Threatening: </b>"
+  },
+  {
+    "Id": "G_077_DESC",
+    "Text": "This term is used to designate to which category a Character belongs, whether determined by species, clan, or other criteria. "
+  },
+  {
+    "Id": "G_077_TERM",
+    "Text": "<b>Trait: </b>"
+  },
+  {
+    "Id": "G_078_DESC",
+    "Text": "At the start of each round, upkeep occurs: your Threat increases by a minimum of 1, all exhausted cards ready, player and Sauron Resources are refreshed, and you draw 1 card from your player deck. Certain abilities may also activate at this time."
+  },
+  {
+    "Id": "G_078_TERM",
+    "Text": "<b>Upkeep: </b>"
+  },
+  {
+    "Id": "G_079_DESC",
+    "Text": "The great soldier-Orcs of Mordor and Isengard. An Anglicization of “Uruk-hai.”"
+  },
+  {
+    "Id": "G_079_TERM",
+    "Text": "<b>Uruk: </b>"
+  },
+  {
+    "Id": "G_080_DESC",
+    "Text": "The Black Speech term for Uruks. (See Uruk.) "
+  },
+  {
+    "Id": "G_080_TERM",
+    "Text": "<b>Uruk-hai: </b>"
+  },
+  {
+    "Id": "G_081_DESC",
+    "Text": "Bonus Valor Points awarded when playing on Hard difficulty."
+  },
+  {
+    "Id": "G_081_TERM",
+    "Text": "<b>Valor Boost: </b>"
+  },
+  {
+    "Id": "G_082_DESC",
+    "Text": "Rewards you get for completing Quests and daily challenges, or gain from Palantir views or other actions in the game. You can spend Valor Points on Quests, Heroes, cards, avatars, and more. "
+  },
+  {
+    "Id": "G_082_TERM",
+    "Text": "<b>Valor Points: </b>"
+  },
+  {
+    "Id": "G_083_DESC",
+    "Text": "This keyword refers to an ability that triggers when this card defeats another."
+  },
+  {
+    "Id": "G_083_TERM",
+    "Text": "<b>Vanquish: </b>"
+  },
+  {
+    "Id": "G_084_DESC",
+    "Text": "A Character with this keyword does not exhaust after it takes its first action. "
+  },
+  {
+    "Id": "G_084_TERM",
+    "Text": "<b>Vigilant: </b>"
+  },
+  {
+    "Id": "G_085_DESC",
+    "Text": "A region of Middle-earth."
+  },
+  {
+    "Id": "G_085_TERM",
+    "Text": "<b>Wilderland: </b>"
+  },
+  {
+    "Id": "G_086_DESC",
+    "Text": "A Character's effectiveness when engaging an Objective."
+  },
+  {
+    "Id": "G_086_TERM",
+    "Text": "<b>Willpower: </b>"
   }
 ]
