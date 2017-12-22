@@ -13,10 +13,19 @@
     "Rarity": 0,
     "Sphere": 2,
     "SphereLevel": 0,
-    "Revision": "test"
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": null,
+    "ArtistName": null,
+    "Status": "Ready"
   },
   "Localization": {
     "Title": "Waters of Nimrodel",
-    "Text": "Action: Heal 3 damage to a Character."
+    "Text": "Heal 3 damage from a Character."
   }
 }
