@@ -1,0 +1,123 @@
+{
+  "Id": "TestSauronAI1225",
+  "IconSprite": "Sprites/Quest/icon_q1",
+  "MapPosX": 0.0,
+  "MapPosY": 0.0,
+  "Quests": [
+    {
+      "Id": "TestSauronAI1225Quest01",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "ArtSprite": "Sprites/Quest/quest_1",
+      "VictoryVoice": null,
+      "DefeatVoice": null,
+      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "Stages": [
+        {
+          "Id": "Location101",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": "OpeningMirkwood_01",
+          "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+          "SoloGameSetup": [
+            "FindThePath",
+            "VeteranPatrol"
+          ],
+          "NextStageId": "",
+          "BGM": null
+        }
+      ],
+      "SauronDeck": []
+    },
+    {
+      "Id": "TestSauronAI1225Quest02",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "ArtSprite": "Sprites/Quest/quest_1",
+      "VictoryVoice": null,
+      "DefeatVoice": null,
+      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "Stages": [
+        {
+          "Id": "Location201",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": "OpeningMirkwood_01",
+          "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+          "SoloGameSetup": [
+            "FindThePath",
+            "VeteranPatrol"
+          ],
+          "NextStageId": "",
+          "BGM": null
+        }
+      ],
+      "SauronDeck": []
+    },
+    {
+      "Id": "TestSauronAI1225Quest03",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "ArtSprite": "Sprites/Quest/quest_1",
+      "VictoryVoice": null,
+      "DefeatVoice": null,
+      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "Stages": [
+        {
+          "Id": "Location301",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": "OpeningMirkwood_01",
+          "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+          "SoloGameSetup": [
+            "FindThePath",
+            "VeteranPatrol"
+          ],
+          "NextStageId": "",
+          "BGM": null
+        }
+      ],
+      "SauronDeck": []
+    },
+    {
+      "Id": "TestSauronAI1225Quest04",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "ArtSprite": "Sprites/Quest/quest_1",
+      "VictoryVoice": null,
+      "DefeatVoice": null,
+      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "Stages": [
+        {
+          "Id": "Location401",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": "OpeningMirkwood_01",
+          "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+          "SoloGameSetup": [
+            "FindThePath",
+            "VeteranPatrol"
+          ],
+          "NextStageId": "",
+          "BGM": null
+        }
+      ],
+      "SauronDeck": []
+    },
+    {
+      "Id": "TestSauronAI1225Quest05",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "ArtSprite": "Sprites/Quest/quest_1",
+      "VictoryVoice": null,
+      "DefeatVoice": null,
+      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "Stages": [
+        {
+          "Id": "Location501",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": "OpeningMirkwood_01",
+          "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+          "SoloGameSetup": [
+            "FindThePath",
+            "VeteranPatrol"
+          ],
+          "NextStageId": "",
+          "BGM": null
+        }
+      ],
+      "SauronDeck": []
+    }
+  ]
+}
