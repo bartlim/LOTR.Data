@@ -1,4 +1,8 @@
-[
+﻿[
+  {
+    "Id": "PlaceHolder1",
+    "Text": "A card type representing friends, followers, creatures, and hirelings that assist your Heroes on their Quest. Allies play from your hand and remain in play until they are defeated or removed from play by a card effect.from play by a card effect.from1232222"
+  },
   {
     "Id": "U_GAME_TITLE",
     "Text": "The Lord of the Rings Living Card Game"
@@ -61,7 +65,7 @@
   },
   {
     "Id": "U_MAINMENU_PALANTIR",
-    "Text": "PALANTIR"
+    "Text": "PALANTÍR"
   },
   {
     "Id": "U_MAINMENU_VALOR",
@@ -245,19 +249,23 @@
   },
   {
     "Id": "U_PALANTIR_SELECT_TO_GAZE",
-    "Text": "Select to gaze into the Palantir"
+    "Text": "Select to gaze into the Palantír"
   },
   {
-    "Id": "U_PALANTIR_TITLE",
-    "Text": "PALANTIR VIEW"
+    "Id": "U_PALANTIR_VIEW",
+    "Text": "PALANTÍR VIEW"
   },
   {
-    "Id": "U_PALANTIR_VIEW_COUNT_1",
-    "Text": "{0} Palantir gaze"
+    "Id": "U_PALANTIR_VIEWS",
+    "Text": "PALANTÍR VIEWS"
   },
   {
-    "Id": "U_PALANTIR_VIEW_COUNT_2",
-    "Text": "{0} Palantir gazes"
+    "Id": "U_PALANTIR_GAZE",
+    "Text": "{0} Palantír gaze"
+  },
+  {
+    "Id": "U_PALANTIR_GAZES",
+    "Text": "{0} Palantír gazes"
   },
   {
     "Id": "U_PALANTIR_MSG_BOOST_YOUR",
@@ -349,7 +357,7 @@
   },
   {
     "Id": "U_SHOP_BUY_FREE_TOKEN_MSG",
-    "Text": "Receive one free Palantir gaze when you unlock this pack!"
+    "Text": "Receive a free Palantír Token when you unlock this pack!"
   },
   {
     "Id": "U_SHOP_BUY_CONFIRM_MSG",
@@ -469,7 +477,7 @@
   },
   {
     "Id": "U_ASMODEE_MSG_CREATED_CONGRATES",
-    "Text": "<b>Congratulations on creating your account!</b>\nAs a thank you, in addition to the Heroes, cards, and other rewards, you also get a pre-constructed deck. \nYou can use this to start your adventures right away -- simply select PLAY to begin!\nIf you want to"
+    "Text": "<b>Congratulations on creating your account!</b>\nAs a thank you, in addition to the Heroes, cards, and other rewards, you also get a pre-constructed deck. \nYou can use this to start your adventures right away -- simply select PLAY to begin!\nIf you want to customize your own deck first, select DECKS to learn more about deck building."
   },
   {
     "Id": "U_INGAME_ENDROUND",
@@ -814,6 +822,10 @@
   {
     "Id": "CHOICETEXT_HUNTED_HUNTEDCHOICE01",
     "Text": "Discard an ally you control."
+  },
+  {
+    "Id": "PlaceHolder2",
+    "Text": "A card type representing friends, followers, creatures, and hirelings that assist your Heroes on their Quest. Allies play from your hand and remain in play until they are defeated or removed from play by a card effect.from play by a card effect.from1232222"
   },
   {
     "Id": "Q_CAMPAIGN_ADVENTURESINWILDERLAND_NAME",
@@ -1194,6 +1206,10 @@
   {
     "Id": "Q_QUEST_TUTORIAL_DEFEAT_TEXT",
     "Text": "null"
+  },
+  {
+    "Id": "PlaceHolder3",
+    "Text": "A card type representing friends, followers, creatures, and hirelings that assist your Heroes on their Quest. Allies play from your hand and remain in play until they are defeated or removed from play by a card effect.from play by a card effect.from1232222"
   },
   {
     "Id": "C_ACCURSEDFOREST_TEXT",
@@ -1853,7 +1869,7 @@
   },
   {
     "Id": "C_HIDDENCACHE_TEXT",
-    "Text": "Action: Gain 1 Resource."
+    "Text": "Gain 1 Resource."
   },
   {
     "Id": "C_HIDDENCACHE_TITLE",
@@ -1997,7 +2013,7 @@
   },
   {
     "Id": "C_LORIENSWEALTH_TEXT",
-    "Text": "Action: Draw Two Cards."
+    "Text": "Draw 2 Cards"
   },
   {
     "Id": "C_LORIENSWEALTH_TITLE",
@@ -2605,7 +2621,7 @@
   },
   {
     "Id": "C_WATERSOFNIMRODEL_TEXT",
-    "Text": "Action: Heal 3 damage to a Character."
+    "Text": "Heal 3 damage from a Character."
   },
   {
     "Id": "C_WATERSOFNIMRODEL_TITLE",
@@ -2644,132 +2660,136 @@
     "Text": "Zigil Miner"
   },
   {
+    "Id": "PlaceHolder4",
+    "Text": "A card type representing friends, followers, creatures, and hirelings that assist your Heroes on their Quest. Allies play from your hand and remain in play until they are defeated or removed from play by a card effect.from play by a card effect.from1232222"
+  },
+  {
     "Id": "T_TUTORIAL01",
     "Text": "Welcome to <b>The Lord of the Rings Living Card Game</b>!"
   },
   {
     "Id": "T_TUTORIAL02",
-    "Text": "<b>Aragorn</b> and <b>Arwen</b> are ambushed while traveling through Mirkwood Forest"
+    "Text": "<b>Aragorn</b> and <b>Arwen</b> are ambushed while traveling through Mirkwood Forest."
   },
   {
     "Id": "T_TUTORIAL03",
-    "Text": "<b>Aragorn</b> and <b>Arwen</b> are <i>Heroes</i>. They begin the game in play. Heroes are powerful, but your journey will come to an end if they are all defeated"
+    "Text": "<b>Aragorn</b> and <b>Arwen</b> are <i>Heroes</i>. They begin the game in play. Heroes are powerful, but your journey will come to an end if they are all defeated."
   },
   {
     "Id": "T_TUTORIAL04",
-    "Text": "This is an <i>Enemy</i>. You will encounter many of them during your adventures"
+    "Text": "This is an <i>Enemy</i>. You will encounter many of them during your adventures."
   },
   {
     "Id": "T_TUTORIAL05",
-    "Text": "This is a <i>Main Objective</i>. Every Location has one. It tells you what you must do to move on to the next stage of your Quest"
+    "Text": "This is a <i>Main Objective</i>. Every Location has one. It tells you what you must do to move on to the next stage of your Quest."
   },
   {
     "Id": "T_TUTORIAL06",
-    "Text": "The game is played in rounds, which have two phases: <i>Planning</i> and <i>Adventure</i>. Sauron goes first in each. On your turn in the Planning phase, you play cards to boost your Characters' abilities or prepare against Sauron"
+    "Text": "The game is played in rounds, which have two phases: <i>Planning</i> and <i>Adventure</i>. Sauron goes first in each. On your turn in the Planning phase, you play cards to boost your Characters' abilities or prepare against Sauron."
   },
   {
     "Id": "T_TUTORIAL07",
-    "Text": "To play a card, select and drag it to the play area. Play <b>Mithrandir's Advice</b>"
+    "Text": "To play a card, select and drag it to the play area. Play <b>Mithrandir's Advice</b>."
   },
   {
     "Id": "T_TUTORIAL08",
-    "Text": "Playing a card requires spending <i>Resources</i> equal to the cost in its upper left corner. You get Resources at the start of each round, and by playing certain cards. Play <b>Gaining Strength</b> to get a Resource"
+    "Text": "Playing a card requires spending <i>Resources</i> equal to the cost in its upper left corner. You get Resources at the start of each round, and by playing certain cards. Play <b>Gaining Strength</b> to get a Resource."
   },
   {
     "Id": "T_TUTORIAL09",
-    "Text": "<i>Allies</i> help your Heroes. Play <b>Guard of the Citadel </b>to your player area"
+    "Text": "<i>Allies</i> help your Heroes. Play <b>Guard of the Citadel </b>to your player area."
   },
   {
     "Id": "T_TUTORIAL10",
-    "Text": "You have played all the cards you can for now. Select the <b>END PHASE</b> button"
+    "Text": "You have played all the cards you can for now. Select the <b>END PHASE</b> button."
   },
   {
     "Id": "T_TUTORIAL11",
-    "Text": "After you finish Planning, the Adventure phase begins. You take turns with Sauron during this phase, and may attack Enemies or engage Objectives"
+    "Text": "After you finish Planning, the Adventure phase begins. You take turns with Sauron during this phase, and may attack Enemies or engage Objectives."
   },
   {
     "Id": "T_TUTORIAL12",
-    "Text": "In an attack, attacker and defender inflict damage on one another equal to their <i>Attack </i>values. Both Characters are then exhausted. A Character reduced to 0 <i>Health</i> is defeated"
+    "Text": "In an attack, attacker and defender inflict damage on one another equal to their <i>Attack </i>values. Both Characters are then exhausted. A Character reduced to 0 <i>Health</i> is defeated."
   },
   {
     "Id": "T_TUTORIAL13",
-    "Text": "Now it's your turn! Use <b>Aragorn</b> to attack the <b>East Bight Patrol</b>"
+    "Text": "Now it's your turn! Use <b>Aragorn</b> to attack the <b>East Bight Patrol</b>."
   },
   {
     "Id": "T_TUTORIAL14",
-    "Text": "<b>Aragorn</b>'s 2 Attack value drops the <b>East Bight Patrol</b> to 0 Health. The Enemy is defeated"
+    "Text": "<b>Aragorn</b>'s 2 Attack value drops the <b>East Bight Patrol</b> to 0 Health. The Enemy is defeated."
   },
   {
     "Id": "T_TUTORIAL15",
-    "Text": "Once you overcome a Main Objective, you may travel to the next Location"
+    "Text": "Once you overcome a Main Objective, you may travel to the next Location."
   },
   {
     "Id": "T_TUTORIAL16",
-    "Text": "Select the <b>TRAVEL</b> button to continue your Quest"
+    "Text": "Select the <b>TRAVEL</b> button to continue your Quest."
   },
   {
     "Id": "T_TUTORIAL17",
-    "Text": "This is the <i>Threat</i> meter. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, your Quest fails"
+    "Text": "This is the <i>Threat</i> meter. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, your Quest fails."
   },
   {
     "Id": "T_TUTORIAL18",
-    "Text": "<b>Aragorn</b> and <b>Arwen</b> venture deeper into the forest"
+    "Text": "<b>Aragorn</b> and <b>Arwen</b> venture deeper into the forest."
   },
   {
     "Id": "T_TUTORIAL19",
-    "Text": "<i>Upkeep</i> occurs at the start of each round. Some Characters have abilities that you may use at this time. Use <b>Arwen</b>'s ability to heal <b>Aragorn</b>"
+    "Text": "<i>Upkeep</i> occurs at the start of each round. Some Characters have abilities that you may use at this time. Use <b>Arwen</b>'s ability to heal <b>Aragorn</b>."
   },
   {
     "Id": "T_TUTORIAL20",
-    "Text": "In addition to Enemies, Sauron can also play <i>Attachments</i> and <i>Events</i>. These cards have a variety of effects, from impeding your progress to damaging your Characters directly"
+    "Text": "In addition to Enemies, Sauron can also play <i>Attachments</i> and <i>Events</i>. These cards have a variety of effects, from impeding your progress to damaging your Characters directly."
   },
   {
     "Id": "T_TUTORIAL21",
-    "Text": "Some cards have <i>keywords</i>, which grant additional abilities. Play <b>Horseback Archer</b>, which has the Ranged keyword"
+    "Text": "Some cards have <i>keywords</i>, which grant additional abilities. Play <b>Horseback Archer</b>, which has the Ranged keyword."
   },
   {
     "Id": "T_TUTORIAL22",
-    "Text": "When making a ranged attack on an exhausted target, the attacker takes no damage. Use <b>Horseback Archer</b> to finish off the<b> Hatchling Spider</b>"
+    "Text": "When making a ranged attack on an exhausted target, the attacker takes no damage. Use <b>Horseback Archer</b> to finish off the<b> Hatchling Spider</b>."
   },
   {
     "Id": "T_TUTORIAL23",
-    "Text": "Use <b>Aragorn</b> to defeat the last Enemy"
+    "Text": "Use <b>Aragorn</b> to defeat the last Enemy."
   },
   {
     "Id": "T_TUTORIAL24",
-    "Text": "Some cards have special <i>Powers</i>. Select <b>Aragorn</b>, then select his Power to spend 1 Resource and ready him"
+    "Text": "Some cards have special <i>Powers</i>. Select <b>Aragorn</b>, then select his Power to spend 1 Resource and ready him."
   },
   {
     "Id": "T_TUTORIAL25",
-    "Text": "You use <i>Willpower</i> to engage an Objective. Select <b>Aragorn</b> and drag him to <b>Search the Area</b"
+    "Text": "You use <i>Willpower</i> to engage an Objective. Select <b>Aragorn</b> and drag him to <b>Search the Area</b>."
   },
   {
     "Id": "T_TUTORIAL26",
-    "Text": "Your Characters are exhausted. Select the <b>END ROUND</b> button"
+    "Text": "Your Characters are exhausted. Select the <b>END ROUND</b> button."
   },
   {
     "Id": "T_TUTORIAL27",
-    "Text": "A new round has begun. Use <b>Arwen</b>'s ability to heal one of your Characters"
+    "Text": "A new round has begun. Use <b>Arwen</b>'s ability to heal one of your Characters."
   },
   {
     "Id": "T_TUTORIAL28",
-    "Text": "A Character with the Sentinel keyword must be defeated before you can target other Enemies or Objectives"
+    "Text": "A Character with the Sentinel keyword must be defeated before you can target other Enemies or Objectives."
   },
   {
     "Id": "T_TUTORIAL29",
-    "Text": "You can use Attachments to enhance Characters. To equip an Attachment, play the card, then select a Hero or Ally. Equip <b>Aragorn</b> with the <b>Warrior Sword</b>"
+    "Text": "You can use Attachments to enhance Characters. To equip an Attachment, play the card, then select a Hero or Ally. Equip <b>Aragorn</b> with the <b>Warrior Sword</b>."
   },
   {
     "Id": "T_TUTORIAL30",
-    "Text": "Use what you've learned to defeat the <b>Dol Guldur Orcs </b>and <b>Search the Area</b>"
+    "Text": "Use what you've learned to defeat the <b>Dol Guldur Orcs </b>and <b>Search the Area</b>."
   },
   {
     "Id": "T_TUTORIAL31",
-    "Text": "Excellent work! Now, finish off the Orcs to complete your Quest"
+    "Text": "Excellent work! Now, finish off the Orcs to complete your Quest."
   },
   {
     "Id": "T_TUTORIAL32",
-    "Text": "Excellent work! Now you can <b>Search the Area</b> to complete your Quest"
+    "Text": "Excellent work! Now you can <b>Search the Area</b> to complete your Quest."
   },
   {
     "Id": "T_TUTORIAL33",
@@ -2830,6 +2850,10 @@
   {
     "Id": "T_DESC",
     "Text": "Start your journey."
+  },
+  {
+    "Id": "PlaceHolder5",
+    "Text": "A card type representing friends, followers, creatures, and hirelings that assist your Heroes on their Quest. Allies play from your hand and remain in play until they are defeated or removed from play by a card effect.from play by a card effect.from1232222"
   },
   {
     "Id": "G_001_DESC",
@@ -2905,7 +2929,7 @@
   },
   {
     "Id": "G_010_DESC",
-    "Text": "A reward available in the Palantir or when playing on Hard difficulty. You can use 5 Beacon Torches to unlock a Hero Pack of your choice."
+    "Text": "A reward available in the Palantír or when playing on Hard difficulty. You can use 5 Beacon Torches to unlock a Hero Pack of your choice."
   },
   {
     "Id": "G_010_TERM",
@@ -3201,11 +3225,11 @@
   },
   {
     "Id": "G_047_DESC",
-    "Text": "You can use Palantir views to gain rewards such as cards and Valor Points."
+    "Text": "You can use Palantír views to gain rewards such as cards and Valor Points."
   },
   {
     "Id": "G_047_TERM",
-    "Text": "<b>Palantir: </b>"
+    "Text": "<b>Palantír: </b>"
   },
   {
     "Id": "G_048_DESC",
@@ -3289,7 +3313,7 @@
   },
   {
     "Id": "G_058_DESC",
-    "Text": "A reward available in the Palantir or when playing on Hard difficulty. You can use 5 Quest Stars to unlock a Quest of your choice."
+    "Text": "A reward available in the Palantír or when playing on Hard difficulty. You can use 5 Quest Stars to unlock a Quest of your choice."
   },
   {
     "Id": "G_058_TERM",
@@ -3481,7 +3505,7 @@
   },
   {
     "Id": "G_082_DESC",
-    "Text": "Rewards you get for completing Quests and daily challenges, or gain from Palantir views or other actions in the game. You can spend Valor Points on Quests, Heroes, cards, avatars, and more. "
+    "Text": "Rewards you get for completing Quests and daily challenges, or gain from Palantír views or other actions in the game. You can spend Valor Points on Quests, Heroes, cards, avatars, and more. "
   },
   {
     "Id": "G_082_TERM",
@@ -3518,149 +3542,5 @@
   {
     "Id": "G_086_TERM",
     "Text": "<b>Willpower: </b>"
-  },
-  {
-    "Id": "Q_CAMPAIGN_210600_NAME",
-    "Text": "210600"
-  },
-  {
-    "Id": "Q_QUEST_210600Quest01_NAME",
-    "Text": "Q_QUEST_210600QUEST01_NAME"
-  },
-  {
-    "Id": "Q_QUEST_210600Quest01_DESCRIPTION",
-    "Text": "MyDesc0219"
-  },
-  {
-    "Id": "Q_QUEST_210600Quest01_VICTORY_TEXT",
-    "Text": "Q_QUEST_210600QUEST01_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_210600Quest01_DEFEAT_TEXT",
-    "Text": "Q_QUEST_210600QUEST01_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_Location101_NAME",
-    "Text": "Q_STAGE_LOCATION101_NAME"
-  },
-  {
-    "Id": " Q_STAGE_Location101_TEXT",
-    "Text": "Q_STAGE_Location101_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_Location101_OBJECTIVE",
-    "Text": "myObjective"
-  },
-  {
-    "Id": "Q_QUEST_210600Quest02_NAME",
-    "Text": "Q_QUEST_210600QUEST02_NAME"
-  },
-  {
-    "Id": "Q_QUEST_210600Quest02_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_210600Quest02_VICTORY_TEXT",
-    "Text": "Q_QUEST_210600QUEST02_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_210600Quest02_DEFEAT_TEXT",
-    "Text": "Q_QUEST_210600QUEST02_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_Location201_NAME",
-    "Text": "Q_STAGE_LOCATION201_NAME"
-  },
-  {
-    "Id": " Q_STAGE_Location201_TEXT",
-    "Text": "Q_STAGE_Location201_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_Location201_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION201_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_210600Quest03_NAME",
-    "Text": "Q_QUEST_210600QUEST03_NAME"
-  },
-  {
-    "Id": "Q_QUEST_210600Quest03_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_210600Quest03_VICTORY_TEXT",
-    "Text": "Q_QUEST_210600QUEST03_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_210600Quest03_DEFEAT_TEXT",
-    "Text": "Q_QUEST_210600QUEST03_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_Location301_NAME",
-    "Text": "Q_STAGE_LOCATION301_NAME"
-  },
-  {
-    "Id": " Q_STAGE_Location301_TEXT",
-    "Text": "Q_STAGE_Location301_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_Location301_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION301_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_210600Quest04_NAME",
-    "Text": "Q_QUEST_210600QUEST04_NAME"
-  },
-  {
-    "Id": "Q_QUEST_210600Quest04_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_210600Quest04_VICTORY_TEXT",
-    "Text": "Q_QUEST_210600QUEST04_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_210600Quest04_DEFEAT_TEXT",
-    "Text": "Q_QUEST_210600QUEST04_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_Location401_NAME",
-    "Text": "Q_STAGE_LOCATION401_NAME"
-  },
-  {
-    "Id": " Q_STAGE_Location401_TEXT",
-    "Text": "Q_STAGE_Location401_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_Location401_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION401_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_210600Quest05_NAME",
-    "Text": "Q_QUEST_210600QUEST05_NAME"
-  },
-  {
-    "Id": "Q_QUEST_210600Quest05_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_210600Quest05_VICTORY_TEXT",
-    "Text": "Q_QUEST_210600QUEST05_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_210600Quest05_DEFEAT_TEXT",
-    "Text": "Q_QUEST_210600QUEST05_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_Location501_NAME",
-    "Text": "Q_STAGE_LOCATION501_NAME"
-  },
-  {
-    "Id": " Q_STAGE_Location501_TEXT",
-    "Text": "Q_STAGE_Location501_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_Location501_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION501_OBJECTIVE"
   }
 ]
