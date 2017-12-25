@@ -1,0 +1,30 @@
+{
+  "DataSet": {
+    "Title": "TestSauronAI1225Quest02",
+    "SauronDeckInfo": {
+      "Id": null,
+      "DeckList": []
+    },
+    "Stages": [
+      {
+        "Title": "Location201",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ]
+      }
+    ],
+    "Sequences": [],
+    "Stories": []
+  },
+  "Version": "20171225091457957",
+  "Key": "MainQuest",
+  "SubKey": "TestSauronAI1225Quest02",
+  "RequiredClientVersion": "1.0",
+  "InternalKey": "MainQuest_TestSauronAI1225Quest02_20171225091457957"
+}
