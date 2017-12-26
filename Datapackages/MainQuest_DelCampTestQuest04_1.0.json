@@ -1,0 +1,30 @@
+{
+  "DataSet": {
+    "Title": "DelCampTestQuest04",
+    "SauronDeckInfo": {
+      "Id": null,
+      "DeckList": []
+    },
+    "Stages": [
+      {
+        "Title": "Location401",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ]
+      }
+    ],
+    "Sequences": [],
+    "Stories": []
+  },
+  "Version": "20171226102207285",
+  "Key": "MainQuest",
+  "SubKey": "DelCampTestQuest04",
+  "RequiredClientVersion": "1.0",
+  "InternalKey": "MainQuest_DelCampTestQuest04_20171226102207285"
+}
