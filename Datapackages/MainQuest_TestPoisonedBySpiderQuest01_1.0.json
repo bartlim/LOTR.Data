@@ -3,78 +3,15 @@
     "Title": "TestPoisonedBySpiderQuest01",
     "SauronDeckInfo": {
       "Id": null,
-      "DeckList": [
-        {
-          "Id": "BlackForestBats",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "DolGuldurOrcs",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "EastBightPatrol",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Enfeebled",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "DrivenByShadow",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "GoblinSniper",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "MirkwoodPatrol",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "ThickWebs",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Tribulation",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        }
-      ]
+      "DeckList": []
     },
     "Stages": [
       {
         "Title": "Location101",
         "SoloGameSetup": [
           "FindThePath",
-          "VeteranPatrol"
+          "Forest Spider",
+          "ForestSpider"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -86,9 +23,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20171221042830771",
+  "Version": "20171227104947519",
   "Key": "MainQuest",
   "SubKey": "TestPoisonedBySpiderQuest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TestPoisonedBySpiderQuest01_20171221042830771"
+  "InternalKey": "MainQuest_TestPoisonedBySpiderQuest01_20171227104947519"
 }
