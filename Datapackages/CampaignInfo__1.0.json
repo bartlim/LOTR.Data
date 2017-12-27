@@ -1069,10 +1069,11 @@
               "IntroSprite": "Sprites/Locations/Quest1_Stage01",
               "SoloGameSetup": [
                 "FindThePath",
-                "VeteranPatrol"
+                "VeteranPatrol",
+                "ChieftainUfthak"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": "mus_cave"
             }
           ],
           "SauronDeck": []
