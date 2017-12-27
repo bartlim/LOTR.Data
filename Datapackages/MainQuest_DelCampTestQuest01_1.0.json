@@ -10,7 +10,7 @@
         "Title": "Location101",
         "SoloGameSetup": [
           "FindThePath",
-          "VeteranPatrol"
+          "TrollSack"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -22,9 +22,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20171226102230934",
+  "Version": "20171227092315849",
   "Key": "MainQuest",
   "SubKey": "DelCampTestQuest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_DelCampTestQuest01_20171226102230934"
+  "InternalKey": "MainQuest_DelCampTestQuest01_20171227092315849"
 }
