@@ -10,7 +10,8 @@
         "Title": "Location101",
         "SoloGameSetup": [
           "FindThePath",
-          "VeteranPatrol"
+          "VeteranPatrol",
+          "ChieftainUfthak"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -22,9 +23,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20171225091545099",
+  "Version": "20171227071158412",
   "Key": "MainQuest",
   "SubKey": "TestSauronAI1225Quest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TestSauronAI1225Quest01_20171225091545099"
+  "InternalKey": "MainQuest_TestSauronAI1225Quest01_20171227071158412"
 }
