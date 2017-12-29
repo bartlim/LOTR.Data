@@ -10,7 +10,7 @@
         "Title": "Location101",
         "SoloGameSetup": [
           "FindThePath",
-          "Forest Spider",
+          "ForestSpider",
           "ForestSpider"
         ],
         "CoopGameSetup": [],
@@ -23,9 +23,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20171227104947519",
+  "Version": "20171229085232791",
   "Key": "MainQuest",
   "SubKey": "TestPoisonedBySpiderQuest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TestPoisonedBySpiderQuest01_20171227104947519"
+  "InternalKey": "MainQuest_TestPoisonedBySpiderQuest01_20171229085232791"
 }
