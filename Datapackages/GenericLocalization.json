@@ -1,7 +1,7 @@
-[
+﻿[
   {
     "Id": "PlaceHolder1",
-    "Text": "A card type representing friends, followers, creatures, and hirelings that assist your Heroes on their Quest. Allies play from your hand and remain in play until they are defeated or removed from play by a card effect.from play by a card effect.from1232222"
+    "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
   {
     "Id": "U_GAME_TITLE",
@@ -200,12 +200,12 @@
     "Text": "Event"
   },
   {
-    "Id": "U_DECKMENT_COMINGSOON",
+    "Id": "U_DECKMENU_COMINGSOON",
     "Text": "COMING SOON"
   },
   {
-    "Id": "U_DECKMENT_PAGE_NUMBER",
-    "Text": "page {0}/{1}"
+    "Id": "U_DECKMENU_PAGE_NUMBER",
+    "Text": "PAGE {0}/{1}"
   },
   {
     "Id": "U_DECKMENU_DECKLIST_TITLE",
@@ -245,7 +245,7 @@
   },
   {
     "Id": "U_DECKMENU_CARDBACK_APPLIED",
-    "Text": "APPLIED"
+    "Text": "Card back applied."
   },
   {
     "Id": "U_PALANTIR_SELECT_TO_GAZE",
@@ -401,11 +401,15 @@
   },
   {
     "Id": "U_QUEST_PLAY_COOP",
-    "Text": "PLAY CO-OP"
+    "Text": "CO-OP"
   },
   {
     "Id": "U_QUEST_PLAY_SINGLE",
     "Text": "PLAY SINGLE"
+  },
+  {
+    "Id": "U_QUEST_DIFFICULTY_EASY",
+    "Text": "EASY"
   },
   {
     "Id": "U_QUEST_DIFFICULTY_NORMAL",
@@ -414,10 +418,6 @@
   {
     "Id": "U_QUEST_DIFFICULTY_HARD",
     "Text": "HARD"
-  },
-  {
-    "Id": "U_QUEST_DIFFICULTY_NIGHTMARE",
-    "Text": "NIGHTMARE"
   },
   {
     "Id": "U_ASMODEE_TITLE",
@@ -836,8 +836,124 @@
     "Text": "Card Played"
   },
   {
+    "Id": "U_DECKMENU_PURCHASE_INFO",
+    "Text": "This card can be obtained from: {0}"
+  },
+  {
+    "Id": "U_DECKMENU_NEED_ASMODEE",
+    "Text": "Please login with an Asmodee account first."
+  },
+  {
+    "Id": "U_DECKMENU_TOO_MUCH_DECK",
+    "Text": "You cannot have more than 9 decks."
+  },
+  {
+    "Id": "U_DECKMENU_CREATING_DECK",
+    "Text": "Creating deck..."
+  },
+  {
+    "Id": "U_DECKMENU_DECK_CREATED",
+    "Text": "New deck created."
+  },
+  {
+    "Id": "U_DECKMENU_APPLYING",
+    "Text": "Applying..."
+  },
+  {
+    "Id": "U_DECKMENU_ERROR_CARDBACK",
+    "Text": "Error in applying card back, please try again later."
+  },
+  {
+    "Id": "U_DECKMENU_PURCHASING_CARDBACK",
+    "Text": "Purchasing Card Back..."
+  },
+  {
+    "Id": "U_DECKMENU_SAVING_DECK",
+    "Text": "Saving deck..."
+  },
+  {
+    "Id": "U_DECKMENU_DECK_SAVED",
+    "Text": "Deck saved."
+  },
+  {
+    "Id": "U_DECKMENU_DELETING_DECK",
+    "Text": "Deleting deck..."
+  },
+  {
+    "Id": "U_DECKMENU_DECK_DELETED",
+    "Text": "Deck deleted."
+  },
+  {
+    "Id": "U_DECKMENU_RENAMING_DECK",
+    "Text": "Renaming deck..."
+  },
+  {
+    "Id": "U_DECKMENU_DECK_RENAMED",
+    "Text": "Deck renamed."
+  },
+  {
+    "Id": "U_DECKMENU_DECKBUILDER_ERROR",
+    "Text": "An error occurred when trying to access deck builder server. Please try again later."
+  },
+  {
+    "Id": "U_QUEST_YOUR_QUEST_LIST",
+    "Text": "YOUR DECK LIST"
+  },
+  {
+    "Id": "U_QUEST_SAURON_S_DECK",
+    "Text": "SAURON'S DECK"
+  },
+  {
+    "Id": "U_AVATAR_AVATARS",
+    "Text": "AVATARS"
+  },
+  {
+    "Id": "U_AVATAR_FRAMES",
+    "Text": "FRAMES"
+  },
+  {
+    "Id": "U_OPTIONS_GLOSSARY",
+    "Text": "GLOSSARY"
+  },
+  {
+    "Id": "U_OPTIONS_REPLAY_TUTORIAL",
+    "Text": "REPLAY TUTORIAL"
+  },
+  {
+    "Id": "U_OPTIONS_MAIN_MENU",
+    "Text": "MAIN MENU"
+  },
+  {
+    "Id": "U_OPTIONS_SKIP_TUTORIAL",
+    "Text": "SKIP TUTORIAL"
+  },
+  {
+    "Id": "U_BATTLE_UPKEEP",
+    "Text": "-UPKEEP-"
+  },
+  {
+    "Id": "U_BATTLE_PLANNING",
+    "Text": "-PLANNING-"
+  },
+  {
+    "Id": "U_BATTLE_ADVENTURE",
+    "Text": "-ADVENTURE-"
+  },
+  {
+    "Id": "U_BATTLE_NEW_ROUND",
+    "Text": "NEW ROUND"
+  },
+  {
+    "Id": "U_BATTLE_YOUR_TURN",
+    "Text": "YOUR TURN"
+  },
+  {
+    "Id": "U_BATTLE_SAURON_PASSES",
+    "Text": "SAURON PASSES"
+  },
+  {
     "Id": "PlaceHolder2",
-    "Text": "A card type representing friends, followers, creatures, and hirelings that assist your Heroes on their Quest. Allies play from your hand and remain in play until they are defeated or removed from play by a card effect.from play by a card effect.from1232222"
+    "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
   {
     "Id": "Q_CAMPAIGN_ADVENTURESINWILDERLAND_NAME",
@@ -1221,7 +1337,7 @@
   },
   {
     "Id": "PlaceHolder3",
-    "Text": "A card type representing friends, followers, creatures, and hirelings that assist your Heroes on their Quest. Allies play from your hand and remain in play until they are defeated or removed from play by a card effect.from play by a card effect.from1232222"
+    "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
   {
     "Id": "C_ACCURSEDFOREST_TEXT",
@@ -1285,7 +1401,7 @@
   },
   {
     "Id": "C_ARWEN_TITLE",
-    "Text": "�Arwen   "
+    "Text": "‰Arwen   "
   },
   {
     "Id": "C_AWATCHFULPEACE_TEXT",
@@ -2673,7 +2789,7 @@
   },
   {
     "Id": "PlaceHolder4",
-    "Text": "A card type representing friends, followers, creatures, and hirelings that assist your Heroes on their Quest. Allies play from your hand and remain in play until they are defeated or removed from play by a card effect.from play by a card effect.from1232222"
+    "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
   {
     "Id": "T_TUTORIAL01",
@@ -2865,7 +2981,7 @@
   },
   {
     "Id": "PlaceHolder5",
-    "Text": "A card type representing friends, followers, creatures, and hirelings that assist your Heroes on their Quest. Allies play from your hand and remain in play until they are defeated or removed from play by a card effect.from play by a card effect.from1232222"
+    "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
   {
     "Id": "G_001_DESC",
@@ -2873,7 +2989,7 @@
   },
   {
     "Id": "G_001_TERM",
-    "Text": "<b>Adventure Phase: </b>"
+    "Text": "Adventure Phase"
   },
   {
     "Id": "G_002_DESC",
@@ -2881,7 +2997,7 @@
   },
   {
     "Id": "G_002_TERM",
-    "Text": "<b>Adventures in Wilderland: </b>"
+    "Text": "Adventures in Wilderland"
   },
   {
     "Id": "G_003_DESC",
@@ -2889,7 +3005,7 @@
   },
   {
     "Id": "G_003_TERM",
-    "Text": "<b>Aggressive: </b>"
+    "Text": "Aggressive"
   },
   {
     "Id": "G_004_DESC",
@@ -2897,7 +3013,7 @@
   },
   {
     "Id": "G_004_TERM",
-    "Text": "<b>Ally: </b>"
+    "Text": "Ally"
   },
   {
     "Id": "G_005_DESC",
@@ -2905,7 +3021,7 @@
   },
   {
     "Id": "G_005_TERM",
-    "Text": "<b>Arrival: </b>"
+    "Text": "Arrival"
   },
   {
     "Id": "G_006_DESC",
@@ -2913,7 +3029,7 @@
   },
   {
     "Id": "G_006_TERM",
-    "Text": "<b>Attach: </b>"
+    "Text": "Attach"
   },
   {
     "Id": "G_007_DESC",
@@ -2921,7 +3037,7 @@
   },
   {
     "Id": "G_007_TERM",
-    "Text": "<b>Attachment: </b>"
+    "Text": "Attachment"
   },
   {
     "Id": "G_008_DESC",
@@ -2929,7 +3045,7 @@
   },
   {
     "Id": "G_008_TERM",
-    "Text": "<b>Attack: </b>"
+    "Text": "Attack"
   },
   {
     "Id": "G_009_DESC",
@@ -2937,7 +3053,7 @@
   },
   {
     "Id": "G_009_TERM",
-    "Text": "<b>Avatar: </b>"
+    "Text": "Avatar"
   },
   {
     "Id": "G_010_DESC",
@@ -2945,7 +3061,7 @@
   },
   {
     "Id": "G_010_TERM",
-    "Text": "<b>Beacon Torch: </b>"
+    "Text": "Beacon Torch"
   },
   {
     "Id": "G_011_DESC",
@@ -2953,7 +3069,7 @@
   },
   {
     "Id": "G_011_TERM",
-    "Text": "<b>Block: </b>"
+    "Text": "Block"
   },
   {
     "Id": "G_012_DESC",
@@ -2961,7 +3077,7 @@
   },
   {
     "Id": "G_012_TERM",
-    "Text": "<b>Campaign: </b>"
+    "Text": "Campaign"
   },
   {
     "Id": "G_013_DESC",
@@ -2969,7 +3085,7 @@
   },
   {
     "Id": "G_013_TERM",
-    "Text": "<b>Challenge, Daily: </b>"
+    "Text": "Challenge, Daily"
   },
   {
     "Id": "G_014_DESC",
@@ -2977,7 +3093,7 @@
   },
   {
     "Id": "G_014_TERM",
-    "Text": "<b>Challenge, Epic: </b>"
+    "Text": "Challenge, Epic"
   },
   {
     "Id": "G_015_DESC",
@@ -2985,7 +3101,7 @@
   },
   {
     "Id": "G_015_TERM",
-    "Text": "<b>Character: </b>"
+    "Text": "Character"
   },
   {
     "Id": "G_016_DESC",
@@ -2993,7 +3109,7 @@
   },
   {
     "Id": "G_016_TERM",
-    "Text": "<b>Cost: </b>"
+    "Text": "Cost"
   },
   {
     "Id": "G_017_DESC",
@@ -3001,7 +3117,7 @@
   },
   {
     "Id": "G_017_TERM",
-    "Text": "<b>Counter: </b>"
+    "Text": "Counter"
   },
   {
     "Id": "G_018_DESC",
@@ -3009,7 +3125,7 @@
   },
   {
     "Id": "G_018_TERM",
-    "Text": "<b>Defeated: </b>"
+    "Text": "Defeated"
   },
   {
     "Id": "G_019_DESC",
@@ -3017,7 +3133,7 @@
   },
   {
     "Id": "G_019_TERM",
-    "Text": "<b>Difficulty: </b>"
+    "Text": "Difficulty"
   },
   {
     "Id": "G_020_DESC",
@@ -3025,7 +3141,7 @@
   },
   {
     "Id": "G_020_TERM",
-    "Text": "<b>Dúnedain: </b>"
+    "Text": "Dúnedain"
   },
   {
     "Id": "G_021_DESC",
@@ -3033,7 +3149,7 @@
   },
   {
     "Id": "G_021_TERM",
-    "Text": "<b>Engage: </b>"
+    "Text": "Engage"
   },
   {
     "Id": "G_022_DESC",
@@ -3041,7 +3157,7 @@
   },
   {
     "Id": "G_022_TERM",
-    "Text": "<b>Event: </b>"
+    "Text": "Event"
   },
   {
     "Id": "G_023_DESC",
@@ -3049,7 +3165,7 @@
   },
   {
     "Id": "G_023_TERM",
-    "Text": "<b>Exhausted: </b>"
+    "Text": "Exhausted"
   },
   {
     "Id": "G_024_DESC",
@@ -3057,7 +3173,7 @@
   },
   {
     "Id": "G_024_TERM",
-    "Text": "<b>Favor Card: </b>"
+    "Text": "Favor Card"
   },
   {
     "Id": "G_025_DESC",
@@ -3065,7 +3181,7 @@
   },
   {
     "Id": "G_025_TERM",
-    "Text": "<b>Fleeting: </b>"
+    "Text": "Fleeting"
   },
   {
     "Id": "G_026_DESC",
@@ -3073,7 +3189,7 @@
   },
   {
     "Id": "G_026_TERM",
-    "Text": "<b>Forced: </b>"
+    "Text": "Forced"
   },
   {
     "Id": "G_027_DESC",
@@ -3081,7 +3197,7 @@
   },
   {
     "Id": "G_027_TERM",
-    "Text": "<b>Free Peoples, The: </b>"
+    "Text": "Free Peoples, The"
   },
   {
     "Id": "G_028_DESC",
@@ -3089,7 +3205,7 @@
   },
   {
     "Id": "G_028_TERM",
-    "Text": "<b>Goblins: </b>"
+    "Text": "Goblins"
   },
   {
     "Id": "G_029_DESC",
@@ -3097,7 +3213,7 @@
   },
   {
     "Id": "G_029_TERM",
-    "Text": "<b>Gondor: </b>"
+    "Text": "Gondor"
   },
   {
     "Id": "G_030_DESC",
@@ -3105,7 +3221,7 @@
   },
   {
     "Id": "G_030_TERM",
-    "Text": "<b>Guarded: </b>"
+    "Text": "Guarded"
   },
   {
     "Id": "G_031_DESC",
@@ -3113,7 +3229,7 @@
   },
   {
     "Id": "G_031_TERM",
-    "Text": "<b>Health: </b>"
+    "Text": "Health"
   },
   {
     "Id": "G_032_DESC",
@@ -3121,7 +3237,7 @@
   },
   {
     "Id": "G_032_TERM",
-    "Text": "<b>Hero: </b>"
+    "Text": "Hero"
   },
   {
     "Id": "G_033_DESC",
@@ -3129,7 +3245,7 @@
   },
   {
     "Id": "G_033_TERM",
-    "Text": "<b>Hero Pack: </b>"
+    "Text": "Hero Pack"
   },
   {
     "Id": "G_034_DESC",
@@ -3137,7 +3253,7 @@
   },
   {
     "Id": "G_034_TERM",
-    "Text": "<b>Hobbit: </b>"
+    "Text": "Hobbit"
   },
   {
     "Id": "G_035_DESC",
@@ -3145,7 +3261,7 @@
   },
   {
     "Id": "G_035_TERM",
-    "Text": "<b>Istari: </b>"
+    "Text": "Istari"
   },
   {
     "Id": "G_036_DESC",
@@ -3153,7 +3269,7 @@
   },
   {
     "Id": "G_036_TERM",
-    "Text": "<b>Leadership: </b>"
+    "Text": "Leadership"
   },
   {
     "Id": "G_037_DESC",
@@ -3161,7 +3277,7 @@
   },
   {
     "Id": "G_037_TERM",
-    "Text": "<b>Location: </b>"
+    "Text": "Location"
   },
   {
     "Id": "G_038_DESC",
@@ -3169,7 +3285,7 @@
   },
   {
     "Id": "G_038_TERM",
-    "Text": "<b>Lore: </b>"
+    "Text": "Lore"
   },
   {
     "Id": "G_039_DESC",
@@ -3177,7 +3293,7 @@
   },
   {
     "Id": "G_039_TERM",
-    "Text": "<b>Men: </b>"
+    "Text": "Men"
   },
   {
     "Id": "G_040_DESC",
@@ -3185,7 +3301,7 @@
   },
   {
     "Id": "G_040_TERM",
-    "Text": "<b>Middle-earth: </b>"
+    "Text": "Middle-earth"
   },
   {
     "Id": "G_041_DESC",
@@ -3193,7 +3309,7 @@
   },
   {
     "Id": "G_041_TERM",
-    "Text": "<b>Moribund: </b>"
+    "Text": "Moribund"
   },
   {
     "Id": "G_042_DESC",
@@ -3201,7 +3317,7 @@
   },
   {
     "Id": "G_042_TERM",
-    "Text": "<b>Nazgûl: </b>"
+    "Text": "Nazgûl"
   },
   {
     "Id": "G_043_DESC",
@@ -3209,7 +3325,7 @@
   },
   {
     "Id": "G_043_TERM",
-    "Text": "<b>Noldor: </b>"
+    "Text": "Noldor"
   },
   {
     "Id": "G_044_DESC",
@@ -3217,7 +3333,7 @@
   },
   {
     "Id": "G_044_TERM",
-    "Text": "<b>Objective: </b>"
+    "Text": "Objective"
   },
   {
     "Id": "G_045_DESC",
@@ -3225,7 +3341,7 @@
   },
   {
     "Id": "G_045_TERM",
-    "Text": "<b>Objective, Main: </b>"
+    "Text": "Objective, Main"
   },
   {
     "Id": "G_046_DESC",
@@ -3233,7 +3349,7 @@
   },
   {
     "Id": "G_046_TERM",
-    "Text": "<b>Orc: </b>"
+    "Text": "Orc"
   },
   {
     "Id": "G_047_DESC",
@@ -3241,7 +3357,7 @@
   },
   {
     "Id": "G_047_TERM",
-    "Text": "<b>Palantír: </b>"
+    "Text": "Palantír"
   },
   {
     "Id": "G_048_DESC",
@@ -3249,7 +3365,7 @@
   },
   {
     "Id": "G_048_TERM",
-    "Text": "<b>Planning Phase: </b>"
+    "Text": "Planning Phase"
   },
   {
     "Id": "G_049_DESC",
@@ -3257,7 +3373,7 @@
   },
   {
     "Id": "G_049_TERM",
-    "Text": "<b>Player Cards: </b>"
+    "Text": "Player Cards"
   },
   {
     "Id": "G_050_DESC",
@@ -3265,7 +3381,7 @@
   },
   {
     "Id": "G_050_TERM",
-    "Text": "<b>Player Deck: </b>"
+    "Text": "Player Deck"
   },
   {
     "Id": "G_051_DESC",
@@ -3273,7 +3389,7 @@
   },
   {
     "Id": "G_051_TERM",
-    "Text": "<b>Power: </b>"
+    "Text": "Power"
   },
   {
     "Id": "G_052_DESC",
@@ -3281,7 +3397,7 @@
   },
   {
     "Id": "G_052_TERM",
-    "Text": "<b>Prep: </b>"
+    "Text": "Prep"
   },
   {
     "Id": "G_053_DESC",
@@ -3289,7 +3405,7 @@
   },
   {
     "Id": "G_053_TERM",
-    "Text": "<b>Preparation: </b>"
+    "Text": "Preparation"
   },
   {
     "Id": "G_054_DESC",
@@ -3297,7 +3413,7 @@
   },
   {
     "Id": "G_054_TERM",
-    "Text": "<b>Progress: </b>"
+    "Text": "Progress"
   },
   {
     "Id": "G_055_DESC",
@@ -3305,7 +3421,7 @@
   },
   {
     "Id": "G_055_TERM",
-    "Text": "<b>Protect: </b>"
+    "Text": "Protect"
   },
   {
     "Id": "G_056_DESC",
@@ -3313,7 +3429,7 @@
   },
   {
     "Id": "G_056_TERM",
-    "Text": "<b>Quest Pack: </b>"
+    "Text": "Quest Pack"
   },
   {
     "Id": "G_057_DESC",
@@ -3321,7 +3437,7 @@
   },
   {
     "Id": "G_057_TERM",
-    "Text": "<b>Quest Points: </b>"
+    "Text": "Quest Points"
   },
   {
     "Id": "G_058_DESC",
@@ -3329,7 +3445,7 @@
   },
   {
     "Id": "G_058_TERM",
-    "Text": "<b>Quest Star: </b>"
+    "Text": "Quest Star"
   },
   {
     "Id": "G_059_DESC",
@@ -3337,7 +3453,7 @@
   },
   {
     "Id": "G_059_TERM",
-    "Text": "<b>Quick: </b>"
+    "Text": "Quick"
   },
   {
     "Id": "G_060_DESC",
@@ -3345,7 +3461,7 @@
   },
   {
     "Id": "G_060_TERM",
-    "Text": "<b>Ranged: </b>"
+    "Text": "Ranged"
   },
   {
     "Id": "G_061_DESC",
@@ -3353,7 +3469,7 @@
   },
   {
     "Id": "G_061_TERM",
-    "Text": "<b>Rarity: </b>"
+    "Text": "Rarity"
   },
   {
     "Id": "G_062_DESC",
@@ -3361,7 +3477,7 @@
   },
   {
     "Id": "G_062_TERM",
-    "Text": "<b>Resolve: </b>"
+    "Text": "Resolve"
   },
   {
     "Id": "G_063_DESC",
@@ -3369,7 +3485,7 @@
   },
   {
     "Id": "G_063_TERM",
-    "Text": "<b>Resources: </b>"
+    "Text": "Resources"
   },
   {
     "Id": "G_064_DESC",
@@ -3377,7 +3493,7 @@
   },
   {
     "Id": "G_064_TERM",
-    "Text": "<b>Rohan: </b>"
+    "Text": "Rohan"
   },
   {
     "Id": "G_065_DESC",
@@ -3385,7 +3501,7 @@
   },
   {
     "Id": "G_065_TERM",
-    "Text": "<b>Sentinel: </b>"
+    "Text": "Sentinel"
   },
   {
     "Id": "G_066_DESC",
@@ -3393,7 +3509,7 @@
   },
   {
     "Id": "G_066_TERM",
-    "Text": "<b>Shadows of Mirkwood: </b>"
+    "Text": "Shadows of Mirkwood"
   },
   {
     "Id": "G_067_DESC",
@@ -3401,7 +3517,7 @@
   },
   {
     "Id": "G_067_TERM",
-    "Text": "<b>Silvan: </b>"
+    "Text": "Silvan"
   },
   {
     "Id": "G_068_DESC",
@@ -3409,7 +3525,7 @@
   },
   {
     "Id": "G_068_TERM",
-    "Text": "<b>Sphere of Influence: </b>"
+    "Text": "Sphere of Influence"
   },
   {
     "Id": "G_069_DESC",
@@ -3417,7 +3533,7 @@
   },
   {
     "Id": "G_069_TERM",
-    "Text": "<b>Spirit: </b>"
+    "Text": "Spirit"
   },
   {
     "Id": "G_070_DESC",
@@ -3425,7 +3541,7 @@
   },
   {
     "Id": "G_070_TERM",
-    "Text": "<b>Stalwart: </b>"
+    "Text": "Stalwart"
   },
   {
     "Id": "G_071_DESC",
@@ -3433,7 +3549,7 @@
   },
   {
     "Id": "G_071_TERM",
-    "Text": "<b>Stealth: </b>"
+    "Text": "Stealth"
   },
   {
     "Id": "G_072_DESC",
@@ -3441,7 +3557,7 @@
   },
   {
     "Id": "G_072_TERM",
-    "Text": "<b>Tactics: </b>"
+    "Text": "Tactics"
   },
   {
     "Id": "G_073_DESC",
@@ -3449,7 +3565,7 @@
   },
   {
     "Id": "G_073_TERM",
-    "Text": "<b>Target: </b>"
+    "Text": "Target"
   },
   {
     "Id": "G_074_DESC",
@@ -3457,7 +3573,7 @@
   },
   {
     "Id": "G_074_TERM",
-    "Text": "<b>Threat Meter: </b>"
+    "Text": "Threat Meter"
   },
   {
     "Id": "G_075_DESC",
@@ -3465,7 +3581,7 @@
   },
   {
     "Id": "G_075_TERM",
-    "Text": "<b>Threat Value: </b>"
+    "Text": "Threat Value"
   },
   {
     "Id": "G_076_DESC",
@@ -3473,7 +3589,7 @@
   },
   {
     "Id": "G_076_TERM",
-    "Text": "<b>Threatening: </b>"
+    "Text": "Threatening"
   },
   {
     "Id": "G_077_DESC",
@@ -3481,7 +3597,7 @@
   },
   {
     "Id": "G_077_TERM",
-    "Text": "<b>Trait: </b>"
+    "Text": "Trait"
   },
   {
     "Id": "G_078_DESC",
@@ -3489,7 +3605,7 @@
   },
   {
     "Id": "G_078_TERM",
-    "Text": "<b>Upkeep: </b>"
+    "Text": "Upkeep"
   },
   {
     "Id": "G_079_DESC",
@@ -3497,7 +3613,7 @@
   },
   {
     "Id": "G_079_TERM",
-    "Text": "<b>Uruk: </b>"
+    "Text": "Uruk"
   },
   {
     "Id": "G_080_DESC",
@@ -3505,7 +3621,7 @@
   },
   {
     "Id": "G_080_TERM",
-    "Text": "<b>Uruk-hai: </b>"
+    "Text": "Uruk-hai"
   },
   {
     "Id": "G_081_DESC",
@@ -3513,7 +3629,7 @@
   },
   {
     "Id": "G_081_TERM",
-    "Text": "<b>Valor Boost: </b>"
+    "Text": "Valor Boost"
   },
   {
     "Id": "G_082_DESC",
@@ -3521,7 +3637,7 @@
   },
   {
     "Id": "G_082_TERM",
-    "Text": "<b>Valor Points: </b>"
+    "Text": "Valor Points"
   },
   {
     "Id": "G_083_DESC",
@@ -3529,7 +3645,7 @@
   },
   {
     "Id": "G_083_TERM",
-    "Text": "<b>Vanquish: </b>"
+    "Text": "Vanquish"
   },
   {
     "Id": "G_084_DESC",
@@ -3537,7 +3653,7 @@
   },
   {
     "Id": "G_084_TERM",
-    "Text": "<b>Vigilant: </b>"
+    "Text": "Vigilant"
   },
   {
     "Id": "G_085_DESC",
@@ -3545,7 +3661,7 @@
   },
   {
     "Id": "G_085_TERM",
-    "Text": "<b>Wilderland: </b>"
+    "Text": "Wilderland"
   },
   {
     "Id": "G_086_DESC",
@@ -3553,14 +3669,6 @@
   },
   {
     "Id": "G_086_TERM",
-    "Text": "<b>Willpower: </b>"
-  },
-  {
-    "Id": "C_ARWEN_FLAVOR",
-    "Text": "t"
-  },
-  {
-    "Id": "C_ADVANCEWARNING_FLAVOR",
-    "Text": null
+    "Text": "Willpower"
   }
 ]
