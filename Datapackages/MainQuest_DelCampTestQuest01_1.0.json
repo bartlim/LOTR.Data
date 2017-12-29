@@ -10,7 +10,9 @@
         "Title": "Location101",
         "SoloGameSetup": [
           "FindThePath",
-          "TrollSack"
+          "Louis",
+          "Morris",
+          "Rupert"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -22,9 +24,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20171227092315849",
+  "Version": "20171229060908711",
   "Key": "MainQuest",
   "SubKey": "DelCampTestQuest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_DelCampTestQuest01_20171227092315849"
+  "InternalKey": "MainQuest_DelCampTestQuest01_20171229060908711"
 }
