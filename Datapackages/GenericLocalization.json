@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PlaceHolder1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -369,7 +369,7 @@
   },
   {
     "Id": "U_SHOP_BUY_CONFIRM_MSG_3",
-    "Text": "Please confirm your purchase below."
+    "Text": "Are you sure to buy {0} with {1} {2}?"
   },
   {
     "Id": "U_SHOP_CARD_CAN_GET_FROM",
@@ -952,6 +952,46 @@
     "Text": "SAURON PASSES"
   },
   {
+    "Id": "U_SHOP_FAILED_PURCHASE_PALANTIR_CHECK",
+    "Text": "Failed to purchase Palantír views. Please check the legality of your account."
+  },
+  {
+    "Id": "U_SHOP_BUY_CAMPAIGN_MSG",
+    "Text": "Buy the full Campaign - includes the first Quest free!"
+  },
+  {
+    "Id": "U_SHOP_BUY_FAVOR_CARD_MAX",
+    "Text": "You cannot purchase more copies of this card!"
+  },
+  {
+    "Id": "U_SHOP_CHOOSE_FAVOR_CARD",
+    "Text": "Please choose a favor card!"
+  },
+  {
+    "Id": "U_SHOP_SELECT_FAVOR_CARD_SPEND_TOKEN",
+    "Text": "Select a Favor card to spend a Token."
+  },
+  {
+    "Id": "U_SHOP_SELECT_OPTION_FAVOR_TOKEN",
+    "Text": "Select a purchase option to get 6 Favor Tokens."
+  },
+  {
+    "Id": "U_SHOP_PLEASE_BUY_ONE_VIEW",
+    "Text": "Please buy one View."
+  },
+  {
+    "Id": "U_SHOP_FAILED_PURCHASE_ITEM",
+    "Text": "Failed to purchase item."
+  },
+  {
+    "Id": "U_SHOP_FAILED_PURCHASE_PALANTIR",
+    "Text": "Failed to purchase Palantír Views."
+  },
+  {
+    "Id": "U_SHOP_FAILED_PALANTIR_REWARD",
+    "Text": "Failed to get Palantír rewards."
+  },
+  {
     "Id": "PlaceHolder2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
@@ -1401,7 +1441,7 @@
   },
   {
     "Id": "C_ARWEN_TITLE",
-    "Text": "�Arwen     "
+    "Text": "‰Arwen   "
   },
   {
     "Id": "C_AWATCHFULPEACE_TEXT",
@@ -3670,157 +3710,5 @@
   {
     "Id": "G_086_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "C_ARWEN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "Q_CAMPAIGN_DELCAMPTEST_NAME",
-    "Text": "Q_CAMPAIGN_DELCAMPTEST_NAME"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST01_NAME",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST01_NAME"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST01_DESCRIPTION",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST01_DESCRIPTION"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST01_VICTORY_TEXT",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST01_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST01_DEFEAT_TEXT",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST01_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_NAME",
-    "Text": "Q_STAGE_LOCATION101_NAME"
-  },
-  {
-    "Id": " Q_STAGE_LOCATION101_TEXT",
-    "Text": "Q_STAGE_LOCATION101_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION101_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST02_NAME",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST02_NAME"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST02_DESCRIPTION",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST02_DESCRIPTION"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST02_VICTORY_TEXT",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST02_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST02_DEFEAT_TEXT",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST02_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_NAME",
-    "Text": "Q_STAGE_LOCATION201_NAME"
-  },
-  {
-    "Id": " Q_STAGE_LOCATION201_TEXT",
-    "Text": "Q_STAGE_LOCATION201_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION201_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST03_NAME",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST03_NAME"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST03_DESCRIPTION",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST03_DESCRIPTION"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST03_VICTORY_TEXT",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST03_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST03_DEFEAT_TEXT",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST03_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_NAME",
-    "Text": "Q_STAGE_LOCATION301_NAME"
-  },
-  {
-    "Id": " Q_STAGE_LOCATION301_TEXT",
-    "Text": "Q_STAGE_LOCATION301_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION301_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST04_NAME",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST04_NAME"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST04_DESCRIPTION",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST04_DESCRIPTION"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST04_VICTORY_TEXT",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST04_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST04_DEFEAT_TEXT",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST04_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_NAME",
-    "Text": "Q_STAGE_LOCATION401_NAME"
-  },
-  {
-    "Id": " Q_STAGE_LOCATION401_TEXT",
-    "Text": "Q_STAGE_LOCATION401_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION401_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST05_NAME",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST05_NAME"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST05_DESCRIPTION",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST05_DESCRIPTION"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST05_VICTORY_TEXT",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST05_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST05_DEFEAT_TEXT",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST05_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_NAME",
-    "Text": "Q_STAGE_LOCATION501_NAME"
-  },
-  {
-    "Id": " Q_STAGE_LOCATION501_TEXT",
-    "Text": "Q_STAGE_LOCATION501_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION501_OBJECTIVE"
-  },
-  {
-    "Id": "C_ADVANCEWARNING_FLAVOR",
-    "Text": null
   }
 ]
