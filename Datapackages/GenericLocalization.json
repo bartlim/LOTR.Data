@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "Id": "PlaceHolder1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -484,16 +484,20 @@
     "Text": "Account created, a confirmation e-mail has been sent. Please complete the confirmation, then use this account to login."
   },
   {
-    "Id": "U_ASMODEE_MSG_CREATED_CONGRATES",
-    "Text": "<b>Congratulations on creating your account!</b>\nAs a thank you, in addition to the Heroes, cards, and other rewards, you also get a pre-constructed deck. \nYou can use this to start your adventures right away -- simply select PLAY to begin!\nIf you want to customize your own deck first, select DECKS to learn more about deck building."
+    "Id": "U_ASMODEE_MSG_CREATED_CONGRATES_1",
+    "Text": "<b>Congratulations on creating your account!</b>\nAs a thank you, in addition to the Heroes, cards, and other rewards, you also get a pre-constructed deck. "
+  },
+  {
+    "Id": "U_ASMODEE_MSG_CREATED_CONGRATES_2",
+    "Text": "You can use this to start your adventures right away -- simply select PLAY to begin!\nIf you want to customize your own deck first, select DECKS to learn more about deck building."
   },
   {
     "Id": "U_INGAME_ENDROUND",
-    "Text": "End Round"
+    "Text": "END ROUND"
   },
   {
     "Id": "U_INGAME_ENDPLANNING",
-    "Text": "End Planning"
+    "Text": "END PLANNING"
   },
   {
     "Id": "U_INGAME_ENDPHASE",
@@ -3722,5 +3726,17 @@
   {
     "Id": "G_086_TERM",
     "Text": "Willpower"
+  },
+  {
+    "Id": "C_ATEST181120_FLAVOR",
+    "Text": "test"
+  },
+  {
+    "Id": "C_ATEST181120_TITLE",
+    "Text": "C_ATEST181120_m"
+  },
+  {
+    "Id": "C_ATEST181120_TEXT",
+    "Text": "C_ATEST181120_m"
   }
 ]
