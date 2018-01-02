@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PlaceHolder1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -492,6 +492,10 @@
     "Text": "You can use this to start your adventures right away -- simply select PLAY to begin!\nIf you want to customize your own deck first, select DECKS to learn more about deck building."
   },
   {
+    "Id": "U_ASMODEE_MSG_USERNAMEEXISTED",
+    "Text": "The username has existed. Please try another one."
+  },
+  {
     "Id": "U_INGAME_ENDROUND",
     "Text": "END ROUND"
   },
@@ -970,6 +974,10 @@
   {
     "Id": "U_SHOP_BUY_FAVOR_CARD_MAX",
     "Text": "You cannot purchase more copies of this card!"
+  },
+  {
+    "Id": "U_SHOP_BUY_CONFIRM_PURCHASE",
+    "Text": "Please confirm your purchase below."
   },
   {
     "Id": "U_SHOP_CHOOSE_FAVOR_CARD",
@@ -3726,17 +3734,5 @@
   {
     "Id": "G_086_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "C_ATEST181120_FLAVOR",
-    "Text": "test"
-  },
-  {
-    "Id": "C_ATEST181120_TITLE",
-    "Text": "C_ATEST181120_m"
-  },
-  {
-    "Id": "C_ATEST181120_TEXT",
-    "Text": "C_ATEST181120_m"
   }
 ]
