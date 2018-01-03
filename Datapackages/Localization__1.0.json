@@ -57,12 +57,6 @@
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "CardId": "BeornsHospitality",
-      "Title": "Beorn's Hospitality",
-      "Text": "Heal 3 damage to a Character."
-    },
-    {
-      "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "BillThePony",
       "Title": "‰Bill the Pony ",
       "Text": "While you control Sam Gamgee, Bill the Pony has -2 cost. Upkeep: Gain 1 Resource."
@@ -436,8 +430,8 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "TomBombadil",
-      "Title": "‰Tom Bombadil",
-      "Text": "Fleeting. Arrival: Discard a non-unique Enemy."
+      "Title": "?Tom Bombadil",
+      "Text": "Fleeting. Arrival: Defeat a non-unique Enemy."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -1094,9 +1088,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20180103165711492",
+  "Version": "20180103231012707",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20180103165711492"
+  "InternalKey": "Localization_20180103231012707"
 }
