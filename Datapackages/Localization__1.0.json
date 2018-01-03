@@ -22,7 +22,7 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Aragorn",
-      "Title": "‰Aragorn  ",
+      "Title": "?Aragorn  ",
       "Text": "Power: Spend 1 Resource to ready Aragorn."
     },
     {
@@ -35,7 +35,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "ATest181120",
       "Title": "testing card",
-      "Text": "C_ATEST181120_TEXT"
+      "Text": "fasdf"
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -196,7 +196,7 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Gandalf",
-      "Title": "‰Gandalf",
+      "Title": "?Gandalf",
       "Text": "Fleeting. Arrival (choose): Draw 3 cards, reduce your Threat by 3, or deal 3 damage to an Enemy."
     },
     {
@@ -316,7 +316,7 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Mablung",
-      "Title": "‰Mablung   ",
+      "Title": "?Mablung   ",
       "Text": "Ranged. Arrival: Exhaust a non-unique Enemy."
     },
     {
@@ -1094,9 +1094,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20180102222029098",
+  "Version": "20180103165711492",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20180102222029098"
+  "InternalKey": "Localization_20180103165711492"
 }
