@@ -2345,7 +2345,7 @@
   },
   {
     "Id": "C_POISONEDBYSPIDERS_TEXT",
-    "Text": "Prep: The next Character damaged but not defeated by a Spider attack cannot ready this round or next Upkeep."
+    "Text": "Prep: Next Character a Spider attack damages but does not defeat cannot ready until after Upkeep."
   },
   {
     "Id": "C_POISONEDBYSPIDERS_TITLE",
@@ -3882,5 +3882,9 @@
   {
     "Id": "Q_STAGE_LOCATION501_OBJECTIVE",
     "Text": "Q_STAGE_LOCATION501_OBJECTIVE"
+  },
+  {
+    "Id": "C_POISONEDBYSPIDERS_FLAVOR",
+    "Text": null
   }
 ]
