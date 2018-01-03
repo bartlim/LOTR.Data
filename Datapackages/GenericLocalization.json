@@ -1020,6 +1020,14 @@
     "Text": "Please sign in with an Asmodee account!"
   },
   {
+    "Id": "U_BATTLE_HERO_DEFEATED",
+    "Text": "{0} has been defeated!"
+  },
+  {
+    "Id": "U_OPTION_QUIT_CONFIRM",
+    "Text": "Are you sure you want to quit the game?"
+  },
+  {
     "Id": "PlaceHolder2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
@@ -2992,51 +3000,51 @@
     "Text": "Congratulations! You have completed the tutorial, but that was merely the beginning. Create an Asmodee.net account now to unlock Heroes, Quests, and more. Here is all that you shall receive to start your own adventures in Middle-earth…"
   },
   {
-    "Id": "T_SPLASH_Item_01",
+    "Id": "T_SPLASH_ITEM_01",
     "Text": "4 Heroes"
   },
   {
-    "Id": "T_SPLASH_Item_02",
+    "Id": "T_SPLASH_ITEM_02",
     "Text": "5 Leadership cards x2"
   },
   {
-    "Id": "T_SPLASH_Item_03",
+    "Id": "T_SPLASH_ITEM_03",
     "Text": "5 Lore cards x2"
   },
   {
-    "Id": "T_SPLASH_Item_04",
+    "Id": "T_SPLASH_ITEM_04",
     "Text": "5 Spirit cards x2"
   },
   {
-    "Id": "T_SPLASH_Item_05",
+    "Id": "T_SPLASH_ITEM_05",
     "Text": "5 Tactics cards x2"
   },
   {
-    "Id": "T_SPLASH_Item_06",
+    "Id": "T_SPLASH_ITEM_06",
     "Text": "1 Neutral card x2"
   },
   {
-    "Id": "T_SPLASH_Item_07",
+    "Id": "T_SPLASH_ITEM_07",
     "Text": "1 Card back"
   },
   {
-    "Id": "T_SPLASH_Item_08",
+    "Id": "T_SPLASH_ITEM_08",
     "Text": "1 Palantir gaze"
   },
   {
-    "Id": "T_SPLASH_Item_09",
+    "Id": "T_SPLASH_ITEM_09",
     "Text": "1 Beacon Torch"
   },
   {
-    "Id": "T_SPLASH_Item_10",
+    "Id": "T_SPLASH_ITEM_10",
     "Text": "1 Campaign Star"
   },
   {
-    "Id": "T_SPLASH_Item_11",
+    "Id": "T_SPLASH_ITEM_11",
     "Text": "Access to the <i>Adventures in Wilderland</i>"
   },
   {
-    "Id": "T_SPLASH_Item_12",
+    "Id": "T_SPLASH_ITEM_12",
     "Text": "Campaign - including the first Quest free!"
   },
   {
