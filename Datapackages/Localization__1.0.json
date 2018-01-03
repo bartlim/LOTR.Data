@@ -28,14 +28,14 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Arwen",
-      "Title": "�Arwen     ",
+      "Title": "‰Arwen   ",
       "Text": "Upkeep: Heal 1 damage from a Character."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "ATest181120",
       "Title": "testing card",
-      "Text": "a card for testing"
+      "Text": "C_ATEST181120_TEXT"
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -100,7 +100,7 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Elrond",
-      "Title": "Elrond",
+      "Title": "‰Elrond",
       "Text": "Upkeep: Heal 1 damage from a character."
     },
     {
@@ -196,7 +196,7 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Gandalf",
-      "Title": "Gandalf",
+      "Title": "‰Gandalf",
       "Text": "Fleeting. Arrival (choose): Draw 3 cards, reduce your Threat by 3, or deal 3 damage to an Enemy."
     },
     {
@@ -208,13 +208,13 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Ghanburighan",
-      "Title": "?Gh?n-buri-Gh?n",
+      "Title": "‰Ghân-buri-Ghân",
       "Text": "Stealth. X Willpower (X equals the number of Objectives in play)."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "Gimli",
-      "Title": "?Gimli   ",
+      "Title": "‰Gimli   ",
       "Text": "Stalwart. After Gimli takes damage, he gains +2 Attack until the end of the round."
     },
     {
@@ -334,8 +334,8 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "QuickerThanSight",
-      "Title": "Quicker than SightT",
-      "Text": "Prep: Discard the next Attachment that Sauron plays.T"
+      "Title": "Quicker than Sight",
+      "Text": "Prep: Discard the next Attachment that Sauron plays."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -425,7 +425,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "TasteItAgain",
       "Title": "Taste it Again!",
-      "Text": "Prep: The next attacking Enemy takes damage equal to the target's Attack (damage is dealt before the Enemy attack resolves)."
+      "Text": "Prep: Next attacking Enemy takes damage equal to target's Attack (dealt before Enemy attack hits)."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -436,7 +436,7 @@
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "TomBombadil",
-      "Title": "?Tom Bombadil",
+      "Title": "‰Tom Bombadil",
       "Text": "Fleeting. Arrival: Discard a non-unique Enemy."
     },
     {
@@ -881,7 +881,7 @@
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "CardId": "PoisonedBySpiders",
       "Title": "Poisoned by Spiders",
-      "Text": "Prep: The next Character damaged but not defeated by a Spider attack cannot ready this round or next Upkeep."
+      "Text": "Prep: Next Character a Spider attack damages but does not defeat cannot ready until after Upkeep."
     },
     {
       "$type": "LOTR.SharedData.Cards.CardLocalization, LOTR.SharedData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -1094,9 +1094,9 @@
       "Text": "Pursuit. Stalwart."
     }
   ],
-  "Version": "20180102101912486",
+  "Version": "20180102222029098",
   "Key": "Localization",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "Localization_20180102101912486"
+  "InternalKey": "Localization_20180102222029098"
 }
