@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PlaceHolder1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -533,7 +533,7 @@
   },
   {
     "Id": "U_INGAME_POPUP_ATTACHMENT_REPLACE",
-    "Text": "This will replace the chosen Character’s current {0} Attachment."
+    "Text": "This will replace the current Attachment. Are you sure?"
   },
   {
     "Id": "U_INGAME_OBJECTIVE_OVERCOME",
@@ -661,7 +661,7 @@
   },
   {
     "Id": "U_TRAITTYPE_DUNEDAIN",
-    "Text": "Dunedain"
+    "Text": "Dúnedan"
   },
   {
     "Id": "U_TRAITTYPE_DWARF",
@@ -681,7 +681,7 @@
   },
   {
     "Id": "U_TRAITTYPE_ISTARI",
-    "Text": "Istari"
+    "Text": "Istar"
   },
   {
     "Id": "U_TRAITTYPE_LEGEND",
@@ -841,7 +841,7 @@
   },
   {
     "Id": "U_INGAME_SELECT_FOR_ATTACHMENT",
-    "Text": "Select a hero or ally to receive the attachment."
+    "Text": "Attach to a Character"
   },
   {
     "Id": "U_INGAME_HISTORY_CARDPLAYED",
@@ -1032,6 +1032,10 @@
     "Text": "PRESS ANY KEY"
   },
   {
+    "Id": "U_INGAME_GLOSSARY",
+    "Text": "Glossary"
+  },
+  {
     "Id": "PlaceHolder2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
@@ -1177,11 +1181,11 @@
   },
   {
     "Id": "Q_STAGE_TUTORIAL_STAGE_01_NAME",
-    "Text": "Mirkwood Forest"
+    "Text": "Tutorial"
   },
   {
     "Id": "Q_STAGE_TUTORIAL_STAGE_02_NAME",
-    "Text": "The Forest Trail"
+    "Text": "Tutorial"
   },
   {
     "Id": "Q_STAGE_FORESTGATE_TEXT",
@@ -1269,11 +1273,11 @@
   },
   {
     "Id": "Q_STAGE_TUTORIAL_STAGE_01_TEXT",
-    "Text": ""
+    "Text": "Welcome to <i>The Lord of the Rings Living Card Game</i>! <b>Aragorn</b> and <b>Arwen</b> are ambushed while traveling through Mirkwood Forest…"
   },
   {
     "Id": "Q_STAGE_TUTORIAL_STAGE_02_TEXT",
-    "Text": ""
+    "Text": "<b>Aragorn</b> and <b>Arwen</b> venture deeper into the forest…"
   },
   {
     "Id": "Q_STAGE_FORESTGATE_OBJECTIVE",
@@ -2881,63 +2885,63 @@
   },
   {
     "Id": "T_TUTORIAL03",
-    "Text": "<b>Aragorn</b> and <b>Arwen</b> are <i>Heroes</i>. They begin the game in play. Heroes are powerful, but your journey will come to an end if they are all defeated."
+    "Text": "<b>Aragorn</b> and <b>Arwen</b> are <i>Heroes</i>. \nThey begin the game in play. \nHeroes are powerful, but your \njourney will come to an \nend if they are all \ndefeated."
   },
   {
     "Id": "T_TUTORIAL04",
-    "Text": "This is an <i>Enemy</i>. You will encounter many of them during your adventures."
+    "Text": "This is an <i>Enemy</i>. \nYou will encounter many of them\n during your adventures."
   },
   {
     "Id": "T_TUTORIAL05",
-    "Text": "This is a <i>Main Objective</i>. Every Location has one. It tells you what you must do to move on to the next stage of your Quest."
+    "Text": "This is a <i>Main Objective</i>.\n Every Location has one.\n It tells you what you must\n do to move on to\n the next stage of\n your Quest."
   },
   {
     "Id": "T_TUTORIAL06",
-    "Text": "The game is played in rounds, which have two phases: <i>Planning</i> and <i>Adventure</i>. Sauron goes first in each. On your turn in the Planning phase, you play cards to boost your Characters' abilities or prepare against Sauron."
+    "Text": "The game is played in rounds, which\n have two phases: <i>Planning</i> and\n <i>Adventure</i>. Sauron goes first\n in each. On your turn in\n the Planning phase, you\n play cards to boost\n your Characters'\n abilities or prepare\n against Sauron."
   },
   {
     "Id": "T_TUTORIAL07",
-    "Text": "To play a card, select and drag it to the play area. Play <b>Mithrandir's Advice</b>."
+    "Text": "To play a card,\n select and drag it\n to the play area.\n Play <b>Mithrandir's Advice</b>."
   },
   {
     "Id": "T_TUTORIAL08",
-    "Text": "Playing a card requires spending <i>Resources</i> equal to the cost in its upper left corner. You get Resources at the start of each round, and by playing certain cards. Play <b>Gaining Strength</b> to get a Resource."
+    "Text": "Playing a card requires spending\n <i>Resources</i> equal to the cost in\n its upper left corner. You get\n Resources at the start of each\n round, and by playing certain cards. Play\n <b>Gaining Strength</b> to get a Resource."
   },
   {
     "Id": "T_TUTORIAL09",
-    "Text": "<i>Allies</i> help your Heroes. Play <b>Guard of the Citadel </b>to your player area."
+    "Text": "<i>Allies</i> help your Heroes.\n Play <b>Guard of the Citadel</b>\n to your player area."
   },
   {
     "Id": "T_TUTORIAL10",
-    "Text": "You have played all the cards you can for now. Select the <b>END PHASE</b> button."
+    "Text": "You have played all the cards\n you can for now. Select the\n <b>END PHASE</b> button."
   },
   {
     "Id": "T_TUTORIAL11",
-    "Text": "After you finish Planning, the Adventure phase begins. You take turns with Sauron during this phase, and may attack Enemies or engage Objectives."
+    "Text": "After you finish Planning, the\n Adventure phase begins.\n You take turns with Sauron\n during this phase, and may\n attack Enemies or\n engage Objectives."
   },
   {
     "Id": "T_TUTORIAL12",
-    "Text": "In an attack, attacker and defender inflict damage on one another equal to their <i>Attack </i>values. Both Characters are then exhausted. A Character reduced to 0 <i>Health</i> is defeated."
+    "Text": "In an attack, attacker and\n defender inflict damage on one\n another equal to their <i>Attack</i>\n values. Both Characters\n are then exhausted.\n A Character reduced\n to 0 <i>Health</i> is\n defeated."
   },
   {
     "Id": "T_TUTORIAL13",
-    "Text": "Now it's your turn! Use <b>Aragorn</b> to attack the <b>East Bight Patrol</b>."
+    "Text": "Now it's your turn!\n Use <b>Aragorn</b> to attack\n the <b>East Bight Patrol</b>."
   },
   {
     "Id": "T_TUTORIAL14",
-    "Text": "<b>Aragorn</b>'s 2 Attack value drops the <b>East Bight Patrol</b> to 0 Health. The Enemy is defeated."
+    "Text": "<b>Aragorn</b>'s 2 Attack value drops\n the <b>East Bight Patrol</b> to 0 Health.\n The Enemy is defeated."
   },
   {
     "Id": "T_TUTORIAL15",
-    "Text": "Once you overcome a Main Objective, you may travel to the next Location."
+    "Text": "Once you overcome\n a Main Objective, you may\n travel to the next Location."
   },
   {
     "Id": "T_TUTORIAL16",
-    "Text": "Select the <b>TRAVEL</b> button to continue your Quest."
+    "Text": "Select the <b>TRAVEL</b> button\n to continue your Quest."
   },
   {
     "Id": "T_TUTORIAL17",
-    "Text": "This is the <i>Threat</i> meter. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, your Quest fails."
+    "Text": "This is the <i>Threat</i> meter.\n Your Threat increases at the end of\n each round and when you travel.\n If you reach 50 Threat,\n your Quest fails."
   },
   {
     "Id": "T_TUTORIAL18",
@@ -2945,59 +2949,59 @@
   },
   {
     "Id": "T_TUTORIAL19",
-    "Text": "<i>Upkeep</i> occurs at the start of each round. Some Characters have abilities that you may use at this time. Use <b>Arwen</b>'s ability to heal <b>Aragorn</b>."
+    "Text": "<i>Upkeep</i> occurs at the start of\n each round. Some Characters have\n abilities that you may use at\n this time. Use <b>Arwen</b>'s\n ability to heal <b>Aragorn</b>."
   },
   {
     "Id": "T_TUTORIAL20",
-    "Text": "In addition to Enemies, Sauron can also play <i>Attachments</i> and <i>Events</i>. These cards have a variety of effects, from impeding your progress to damaging your Characters directly."
+    "Text": "In addition to Enemies, Sauron can\n also play <i>Attachments</i> and <i>Events</i>.\n These cards have a variety\n of effects, from impeding your\n progress to damaging your\n Characters directly."
   },
   {
     "Id": "T_TUTORIAL21",
-    "Text": "Some cards have <i>keywords</i>, which grant additional abilities. Play <b>Horseback Archer</b>, which has the Ranged keyword."
+    "Text": "Some cards have <i>keywords</i>,\n which grant additional abilities.\n Play <b>Horseback Archer</b>, which\n has the Ranged keyword."
   },
   {
     "Id": "T_TUTORIAL22",
-    "Text": "When making a ranged attack on an exhausted target, the attacker takes no damage. Use <b>Horseback Archer</b> to finish off the<b> Hatchling Spider</b>."
+    "Text": "When making a ranged attack on\n an exhausted target, the attacker\n takes no damage. Use\n <b>Horseback Archer</b> to finish off the\n<b> Hatchling Spider</b>."
   },
   {
     "Id": "T_TUTORIAL23",
-    "Text": "Use <b>Aragorn</b> to defeat the last Enemy."
+    "Text": "Use <b>Aragorn</b> to defeat\n the last Enemy."
   },
   {
     "Id": "T_TUTORIAL24",
-    "Text": "Some cards have special <i>Powers</i>. Select <b>Aragorn</b>, then select his Power to spend 1 Resource and ready him."
+    "Text": "Some cards have special <i>Powers</i>. \nSelect <b>Aragorn</b>, then select his\n Power to spend 1 Resource\n and ready him."
   },
   {
     "Id": "T_TUTORIAL25",
-    "Text": "You use <i>Willpower</i> to engage an Objective. Select <b>Aragorn</b> and drag him to <b>Search the Area</b>."
+    "Text": "You use <i>Willpower</i> to engage\n an Objective. Select <b>Aragorn</b> and\n drag him to <b>Search the Area</b>."
   },
   {
     "Id": "T_TUTORIAL26",
-    "Text": "Your Characters are exhausted. Select the <b>END PHASE</b> button."
+    "Text": "Your Characters are exhausted.\n Select the <b>END PHASE</b> button."
   },
   {
     "Id": "T_TUTORIAL27",
-    "Text": "A new round has begun. Use <b>Arwen</b>'s ability to heal one of your Characters."
+    "Text": "A new round has begun. Use\n <b>Arwen</b>'s ability to heal\n one of your Characters."
   },
   {
     "Id": "T_TUTORIAL28",
-    "Text": "A Character with the Sentinel keyword must be defeated before you can target other Enemies or Objectives."
+    "Text": "A Character with the Sentinel\n keyword must be defeated before\n you can target other Enemies\n or Objectives."
   },
   {
     "Id": "T_TUTORIAL29",
-    "Text": "You can use Attachments to enhance Characters. To equip an Attachment, play the card, then select a Hero or Ally. Equip <b>Aragorn</b> with the <b>Warrior Sword</b>."
+    "Text": "You can use Attachments to enhance\n Characters. To equip an Attachment,\n play the card, then select a Hero\n or Ally. Equip <b>Aragorn</b> with\n the <b>Warrior Sword</b>."
   },
   {
     "Id": "T_TUTORIAL30",
-    "Text": "Use what you've learned to defeat the <b>Dol Guldur Orcs </b>and <b>Search the Area</b>."
+    "Text": "Use what you've learned to defeat\n the <b>Dol Guldur Orcs </b>and\n <b>Search the Area</b>."
   },
   {
     "Id": "T_TUTORIAL31",
-    "Text": "Excellent work! Now, finish off the Orcs to complete your Quest."
+    "Text": "Excellent work!\n Now, finish off the Orcs to\n complete your Quest."
   },
   {
     "Id": "T_TUTORIAL32",
-    "Text": "Excellent work! Now you can <b>Search the Area</b> to complete your Quest."
+    "Text": "Excellent work!\n Now you can <b>Search the Area</b>\n to complete your Quest."
   },
   {
     "Id": "T_TUTORIAL33",
@@ -3113,7 +3117,7 @@
   },
   {
     "Id": "G_007_DESC",
-    "Text": "A card type representing armor, weapons, items, or special abilities. Unless the Attachment states otherwise, it modifies or influences only the Character to which it is equipped. If a card with an Attachment leaves play, the Attachment is discarded as well."
+    "Text": "A card type representing armor, weapons, or special abilities. Unless the Attachment states otherwise, it modifies or influences only the Character to which it is equipped. A Character can have only one Attachment of each trait at a time. If a card with an Attachment leaves play, the Attachment is discarded as well. "
   },
   {
     "Id": "G_007_TERM",
@@ -3129,642 +3133,666 @@
   },
   {
     "Id": "G_009_DESC",
-    "Text": "The icon shown in your profile."
+    "Text": "An Attachment trait. A Character can have only one Attachment of each trait at a time."
   },
   {
     "Id": "G_009_TERM",
-    "Text": "Avatar"
+    "Text": "Armor"
   },
   {
     "Id": "G_010_DESC",
-    "Text": "A reward available in the Palantír or when playing on Hard difficulty. You can use 5 Beacon Torches to unlock a Hero Pack of your choice."
+    "Text": "The icon shown in your profile."
   },
   {
     "Id": "G_010_TERM",
-    "Text": "Beacon Torch"
+    "Text": "Avatar"
   },
   {
     "Id": "G_011_DESC",
-    "Text": "Each time a Character with this keyword takes damage, it reduces by 1 the damage applied."
+    "Text": "A reward available in the Palantir or when playing on Hard difficulty. You can use 5 Beacon Torches to unlock a Hero Pack of your choice."
   },
   {
     "Id": "G_011_TERM",
-    "Text": "Block"
+    "Text": "Beacon Torch"
   },
   {
     "Id": "G_012_DESC",
-    "Text": "A series of 5 Quests that tell a larger story. "
+    "Text": "Each time a Character with this keyword takes damage, it reduces by 1 the damage applied."
   },
   {
     "Id": "G_012_TERM",
-    "Text": "Campaign"
+    "Text": "Block"
   },
   {
     "Id": "G_013_DESC",
-    "Text": "The first time a player logs into the game every 24 hours, the game generates a random challenge tied to a random unlocked Quest. The player receives a Valor reward (and potential additional rewards) for completing each daily challenge."
+    "Text": "A series of 5 Quests that tell a larger story. "
   },
   {
     "Id": "G_013_TERM",
-    "Text": "Challenge, Daily"
+    "Text": "Campaign"
   },
   {
     "Id": "G_014_DESC",
-    "Text": "Also called in-game achievements, these are passive achievements tracked over the lifetime of a player's account."
+    "Text": "The first time a player logs into the game every 24 hours, the game generates a random challenge tied to a random unlocked Quest. The player receives a Valor reward (and potential additional rewards) for completing each daily challenge."
   },
   {
     "Id": "G_014_TERM",
-    "Text": "Challenge, Epic"
+    "Text": "Challenge, Daily"
   },
   {
     "Id": "G_015_DESC",
-    "Text": "A card type that refers to all Heroes and Allies. When you have the option to select a Character, you can choose any Hero or Ally in play. Enemies are also considered Characters, and may also be valid choices for certain effects that target Characters."
+    "Text": "Also called in-game achievements, these are passive achievements tracked over the lifetime of a player's account."
   },
   {
     "Id": "G_015_TERM",
-    "Text": "Character"
+    "Text": "Challenge, Epic"
   },
   {
     "Id": "G_016_DESC",
-    "Text": "All player and Sauron cards have a cost in the upper-left hand corner. This is the number of Resources that must be spent in order to play the card. Hero cards do not have a cost, since they begin the game in play."
+    "Text": "A card type that refers to all Heroes and Allies. When you have the option to select a Character, you can choose any Hero or Ally in play. Enemies are also considered Characters, and may also be valid choices for certain effects that target Characters."
   },
   {
     "Id": "G_016_TERM",
-    "Text": "Cost"
+    "Text": "Character"
   },
   {
     "Id": "G_017_DESC",
-    "Text": "When a Character with this keyword defends, it gains an additional Attack value equal to the number listed with it."
+    "Text": "All player and Sauron cards have a cost in the upper-left hand corner. This is the number of Resources that must be spent in order to play the card. Hero cards do not have a cost, since they begin the game in play."
   },
   {
     "Id": "G_017_TERM",
-    "Text": "Counter"
+    "Text": "Cost"
   },
   {
     "Id": "G_018_DESC",
-    "Text": "The term for when a Character is removed from play, whether by falling to 0 Health or some other means."
+    "Text": "When a Character with this keyword defends, it gains an additional Attack value equal to the number listed with it."
   },
   {
     "Id": "G_018_TERM",
-    "Text": "Defeated"
+    "Text": "Counter"
   },
   {
     "Id": "G_019_DESC",
-    "Text": "A rating of how challenging Sauron will be in the Quest. There are three difficulty ratings: Easy, Normal, and Hard. Sauron's Resources increase as the difficulty goes up, but you can gain greater rewards — if you survive the Quest!"
+    "Text": "The term for when a Character is removed from play, whether by falling to 0 Health or some other means."
   },
   {
     "Id": "G_019_TERM",
-    "Text": "Difficulty"
+    "Text": "Defeated"
   },
   {
     "Id": "G_020_DESC",
-    "Text": "Men of the West, who settled mainly in Arnor and Gondor. "
+    "Text": "A rating of how challenging Sauron will be in the Quest. There are three difficulty ratings: Easy, Normal, and Hard. Sauron's Resources increase as the difficulty goes up, but you can gain greater rewards — if you survive the Quest!"
   },
   {
     "Id": "G_020_TERM",
-    "Text": "Dúnedain"
+    "Text": "Difficulty"
   },
   {
     "Id": "G_021_DESC",
-    "Text": "The act of committing a Character to an Objective. "
+    "Text": "Men of the West, who settled mainly in Arnor and Gondor. "
   },
   {
     "Id": "G_021_TERM",
-    "Text": "Engage"
+    "Text": "Dúnedain"
   },
   {
     "Id": "G_022_DESC",
-    "Text": "A card type that covers any tactical action, scheme, twist of fate, or other effect that occurs during the game. An Event resolves immediately when played; the card is then discarded."
+    "Text": "The act of committing a Character to an Objective. "
   },
   {
     "Id": "G_022_TERM",
-    "Text": "Event"
+    "Text": "Engage"
   },
   {
     "Id": "G_023_DESC",
-    "Text": "A card is exhausted when it is used. All exhausted cards ready during Upkeep."
+    "Text": "A card type that covers any tactical action, scheme, twist of fate, or other effect that occurs during the game. An Event resolves immediately when played; the card is then discarded."
   },
   {
     "Id": "G_023_TERM",
-    "Text": "Exhausted"
+    "Text": "Event"
   },
   {
     "Id": "G_024_DESC",
-    "Text": "This is an expendable card that you can use to get an immediate in-game effect. You can add a single Favor Card to your deck at the start of a Quest."
+    "Text": "A card is exhausted when it is used. All exhausted cards ready during Upkeep."
   },
   {
     "Id": "G_024_TERM",
-    "Text": "Favor Card"
+    "Text": "Exhausted"
   },
   {
     "Id": "G_025_DESC",
-    "Text": "A Character with this keyword leaves play and is discarded at the end of the round."
+    "Text": "This is an expendable card that you can use to get an immediate in-game effect. You can add a single Favor Card to your deck at the start of a Quest."
   },
   {
     "Id": "G_025_TERM",
-    "Text": "Fleeting"
+    "Text": "Favor Card"
   },
   {
     "Id": "G_026_DESC",
-    "Text": "This keyword refers to an ability that cannot be canceled or avoided."
+    "Text": "A Character with this keyword leaves play and is discarded at the end of the round."
   },
   {
     "Id": "G_026_TERM",
-    "Text": "Forced"
+    "Text": "Fleeting"
   },
   {
     "Id": "G_027_DESC",
-    "Text": "Anyone not under Sauron’s rule."
+    "Text": "This keyword refers to an ability that cannot be canceled or avoided."
   },
   {
     "Id": "G_027_TERM",
-    "Text": "Free Peoples, The"
+    "Text": "Forced"
   },
   {
     "Id": "G_028_DESC",
-    "Text": "A race of Middle-earth. All Goblins are Orcs, but not all Orcs are Goblins. "
+    "Text": "Anyone not under Sauron’s rule."
   },
   {
     "Id": "G_028_TERM",
-    "Text": "Goblins"
+    "Text": "Free Peoples, The"
   },
   {
     "Id": "G_029_DESC",
-    "Text": "The most prominent kingdom of Men in Middle-earth."
+    "Text": "A race of Middle-earth. All Goblins are Orcs, but not all Orcs are Goblins. "
   },
   {
     "Id": "G_029_TERM",
-    "Text": "Gondor"
+    "Text": "Goblins"
   },
   {
     "Id": "G_030_DESC",
-    "Text": "Players cannot engage an Objective with this keyword while an Enemy is in play."
+    "Text": "The most prominent kingdom of Men in Middle-earth."
   },
   {
     "Id": "G_030_TERM",
-    "Text": "Guarded"
+    "Text": "Gondor"
   },
   {
     "Id": "G_031_DESC",
-    "Text": "The amount of damage a Character can suffer before being defeated."
+    "Text": "Players cannot engage an Objective with this keyword while an Enemy is in play."
   },
   {
     "Id": "G_031_TERM",
-    "Text": "Health"
+    "Text": "Guarded"
   },
   {
     "Id": "G_032_DESC",
-    "Text": "A Hero is a main Character that you control during a Quest. Heroes can engage Enemies or Objectives, and may have additional Powers that you can use. Heroes also form the foundation of each deck you create: the Heroes you choose determine the Spheres from which you can choose cards to build your deck. Heroes start the game in play, and have a Threat value instead of a cost. If all your Heroes are defeated, you fail the Quest."
+    "Text": "The amount of damage a Character can suffer before being defeated."
   },
   {
     "Id": "G_032_TERM",
-    "Text": "Hero"
+    "Text": "Health"
   },
   {
     "Id": "G_033_DESC",
-    "Text": "A fixed pack of 5 cards. Each pack includes 1 Hero, plus 1 card from each Sphere of Influence. "
+    "Text": "A Hero is a main Character that you control during a Quest. Heroes can engage Enemies or Objectives, and may have additional Powers that you can use. Heroes also form the foundation of each deck you create: the Heroes you choose determine the Spheres from which you can choose cards to build your deck. Heroes start the game in play, and have a Threat value instead of a cost. If all your Heroes are defeated, you fail the Quest."
   },
   {
     "Id": "G_033_TERM",
-    "Text": "Hero Pack"
+    "Text": "Hero"
   },
   {
     "Id": "G_034_DESC",
-    "Text": "A race of gentle beings who have a reputation for preferring a settled life over excitement and adventure."
+    "Text": "A fixed pack of 5 cards. Each pack includes 1 Hero, plus 1 card from each Sphere of Influence. "
   },
   {
     "Id": "G_034_TERM",
-    "Text": "Hobbit"
+    "Text": "Hero Pack"
   },
   {
     "Id": "G_035_DESC",
-    "Text": "Wizards such as Gandalf and Saruman who are more than mortal and possessed of great age and power.  "
+    "Text": "A race of gentle beings who have a reputation for preferring a settled life over excitement and adventure."
   },
   {
     "Id": "G_035_TERM",
-    "Text": "Istari"
+    "Text": "Hobbit"
   },
   {
     "Id": "G_036_DESC",
-    "Text": "This Sphere of Influence emphasizes charismatic and inspirational influence. It represents the potential to lead, inspire, and command Allies and other Heroes alike."
+    "Text": "Wizards such as Gandalf and Saruman who are more than mortal and possessed of great age and power.  "
   },
   {
     "Id": "G_036_TERM",
-    "Text": "Leadership"
+    "Text": "Istari"
   },
   {
     "Id": "G_037_DESC",
-    "Text": "A distinct stage of a Quest. Completing a Quest requires advancing through a series of Locations."
+    "Text": "This Sphere of Influence emphasizes charismatic and inspirational influence. It represents the potential to lead, inspire, and command Allies and other Heroes alike."
   },
   {
     "Id": "G_037_TERM",
-    "Text": "Location"
+    "Text": "Leadership"
   },
   {
     "Id": "G_038_DESC",
-    "Text": "This Sphere of Influence emphasizes the mind's potential. Intellect, wisdom, experience, and specialized knowledge are all under the domain of Lore."
+    "Text": "A distinct stage of a Quest. Completing a Quest requires advancing through a series of Locations."
   },
   {
     "Id": "G_038_TERM",
-    "Text": "Lore"
+    "Text": "Location"
   },
   {
     "Id": "G_039_DESC",
-    "Text": "One of the races of Middle-earth; the term is not gender-specific."
+    "Text": "This Sphere of Influence emphasizes the mind's potential. Intellect, wisdom, experience, and specialized knowledge are all under the domain of Lore."
   },
   {
     "Id": "G_039_TERM",
-    "Text": "Men"
+    "Text": "Lore"
   },
   {
     "Id": "G_040_DESC",
-    "Text": "The land in which the many adventures of The Lord of the Rings take place. "
+    "Text": "One of the races of Middle-earth; the term is not gender-specific."
   },
   {
     "Id": "G_040_TERM",
-    "Text": "Middle-earth"
+    "Text": "Men"
   },
   {
     "Id": "G_041_DESC",
-    "Text": "The keyword for a card ability that triggers immediately when a Character is defeated."
+    "Text": "The land in which the many adventures of The Lord of the Rings take place. "
   },
   {
     "Id": "G_041_TERM",
-    "Text": "Moribund"
+    "Text": "Middle-earth"
   },
   {
     "Id": "G_042_DESC",
-    "Text": "Powerful lieutenants of Sauron."
+    "Text": "The keyword for a card ability that triggers immediately when a Character is defeated."
   },
   {
     "Id": "G_042_TERM",
-    "Text": "Nazgûl"
+    "Text": "Moribund"
   },
   {
     "Id": "G_043_DESC",
-    "Text": "The second clan of the Elves. "
+    "Text": "Powerful lieutenants of Sauron."
   },
   {
     "Id": "G_043_TERM",
-    "Text": "Noldor"
+    "Text": "Nazgûl"
   },
   {
     "Id": "G_044_DESC",
-    "Text": "This represents a task that you may face in the course of a Quest. Objectives can hinder or complicate your path to victory, and must often be overcome before you can advance to the next Location. Overcoming Objectives requires using Willpower and/or defeating an Enemy. "
+    "Text": "The second clan of the Elves. "
   },
   {
     "Id": "G_044_TERM",
-    "Text": "Objective"
+    "Text": "Noldor"
   },
   {
     "Id": "G_045_DESC",
-    "Text": "This is the primary goal you must complete before you can advance to the next Location. "
+    "Text": "This represents a task that you may face in the course of a Quest. Objectives can hinder or complicate your path to victory, and must often be overcome before you can advance to the next Location. Overcoming Objectives requires using Willpower and/or defeating an Enemy. "
   },
   {
     "Id": "G_045_TERM",
-    "Text": "Objective, Main"
+    "Text": "Objective"
   },
   {
     "Id": "G_046_DESC",
-    "Text": "A race of Middle-earth."
+    "Text": "This is the primary goal you must complete before you can advance to the next Location. "
   },
   {
     "Id": "G_046_TERM",
-    "Text": "Orc"
+    "Text": "Objective, Main"
   },
   {
     "Id": "G_047_DESC",
-    "Text": "You can use Palantír views to gain rewards such as cards and Valor Points."
+    "Text": "A race of Middle-earth."
   },
   {
     "Id": "G_047_TERM",
-    "Text": "Palantír"
+    "Text": "Orc"
   },
   {
     "Id": "G_048_DESC",
-    "Text": "During this phase, you and Sauron take turns playing Allies, Attachments, and Events from your respective hands."
+    "Text": "You can use Palantir views to gain rewards such as cards and Valor Points."
   },
   {
     "Id": "G_048_TERM",
-    "Text": "Planning Phase"
+    "Text": "Palantir"
   },
   {
     "Id": "G_049_DESC",
-    "Text": "These are any Ally, Attachment, and Event cards you use throughout a Quest. Each player card belongs to one of the four Spheres — Leadership, Lore, Spirit, Tactics — or is neutral."
+    "Text": "During this phase, you and Sauron take turns playing Allies, Attachments, and Events from your respective hands."
   },
   {
     "Id": "G_049_TERM",
-    "Text": "Player Cards"
+    "Text": "Planning Phase"
   },
   {
     "Id": "G_050_DESC",
-    "Text": "This is a combination of Ally, Attachment, and Event cards from which you draw your cards throughout a Quest. Each deck has 30 cards, and cannot have more than 2 copies of any individual card. A player deck is based on 3 Heroes of your choice, which determine the Spheres from which you can choose cards for your deck."
+    "Text": "These are any Ally, Attachment, and Event cards you use throughout a Quest. Each player card belongs to one of the four Spheres — Leadership, Lore, Spirit, Tactics — or is neutral."
   },
   {
     "Id": "G_050_TERM",
-    "Text": "Player Deck"
+    "Text": "Player Cards"
   },
   {
     "Id": "G_051_DESC",
-    "Text": "This is a card ability that you can activate manually on your turn. Depending on the description, a Power may be activated only once per round or multiple times."
+    "Text": "This is a combination of Ally, Attachment, and Event cards from which you draw your cards throughout a Quest. Each deck has 30 cards, and cannot have more than 2 copies of any individual card. A player deck is based on 3 Heroes of your choice, which determine the Spheres from which you can choose cards for your deck."
   },
   {
     "Id": "G_051_TERM",
-    "Text": "Power"
+    "Text": "Player Deck"
   },
   {
     "Id": "G_052_DESC",
-    "Text": "An abbreviated form of the \"Preparation\" keyword."
+    "Text": "This is a card ability that you can activate manually on your turn. Depending on the description, a Power may be activated only once per round or multiple times."
   },
   {
     "Id": "G_052_TERM",
-    "Text": "Prep"
+    "Text": "Power"
   },
   {
     "Id": "G_053_DESC",
-    "Text": "This applies to an Event card whose effect doesn't trigger immediately. Instead, it activates at a timing window or circumstance described in the card text."
+    "Text": "An abbreviated form of the \"Preparation\" keyword."
   },
   {
     "Id": "G_053_TERM",
-    "Text": "Preparation"
+    "Text": "Prep"
   },
   {
     "Id": "G_054_DESC",
-    "Text": "The amount by which an Objective's Quest points are reduced each time Willpower is applied."
+    "Text": "This applies to an Event card whose effect doesn't trigger immediately. Instead, it activates at a timing window or circumstance described in the card text."
   },
   {
     "Id": "G_054_TERM",
-    "Text": "Progress"
+    "Text": "Preparation"
   },
   {
     "Id": "G_055_DESC",
-    "Text": "The next time a Character with this keyword takes damage, that damage is canceled. This Character then loses Protect."
+    "Text": "The amount by which an Objective's Quest points are reduced each time Willpower is applied."
   },
   {
     "Id": "G_055_TERM",
-    "Text": "Protect"
+    "Text": "Progress"
   },
   {
     "Id": "G_056_DESC",
-    "Text": "A specific adventure made up of between 3 and 5 Locations. "
+    "Text": "The next time a Character with this keyword takes damage, that damage is canceled. This Character then loses Protect."
   },
   {
     "Id": "G_056_TERM",
-    "Text": "Quest Pack"
+    "Text": "Protect"
   },
   {
     "Id": "G_057_DESC",
-    "Text": "The amount of Willpower required to resolve an Objective."
+    "Text": "A Character with this keyword follows your Heroes from one Location to the next."
   },
   {
     "Id": "G_057_TERM",
-    "Text": "Quest Points"
+    "Text": "Pursuit"
   },
   {
     "Id": "G_058_DESC",
-    "Text": "A reward available in the Palantír or when playing on Hard difficulty. You can use 5 Quest Stars to unlock a Quest of your choice."
+    "Text": "A specific adventure made up of between 3 and 5 Locations. "
   },
   {
     "Id": "G_058_TERM",
-    "Text": "Quest Star"
+    "Text": "Quest Pack"
   },
   {
     "Id": "G_059_DESC",
-    "Text": "A Character with this keyword resolves their attack completely before the opposing Character's attack begins. If this defeats the opposing Character, its attack never occurs; otherwise, the opposing Character attack applies as normal."
+    "Text": "The amount of Willpower required to resolve an Objective."
   },
   {
     "Id": "G_059_TERM",
-    "Text": "Quick"
+    "Text": "Quest Points"
   },
   {
     "Id": "G_060_DESC",
-    "Text": "A Character with this keyword does not take damage when attacking an exhausted target."
+    "Text": "A reward available in the Palantir or when playing on Hard difficulty. You can use 5 Quest Stars to unlock a Quest of your choice."
   },
   {
     "Id": "G_060_TERM",
-    "Text": "Ranged"
+    "Text": "Quest Star"
   },
   {
     "Id": "G_061_DESC",
-    "Text": "All player cards belong to one of the listed rarities: Starter, Hero Pack, Common, Uncommon, Rare, Legendary. The less common a card is, the more potent its abilities."
+    "Text": "A Character with this keyword resolves their attack completely before the opposing Character's attack begins. If this defeats the opposing Character, its attack never occurs; otherwise, the opposing Character attack applies as normal."
   },
   {
     "Id": "G_061_TERM",
-    "Text": "Rarity"
+    "Text": "Quick"
   },
   {
     "Id": "G_062_DESC",
-    "Text": "The act of completing, overcoming, or otherwise removing an Objective."
+    "Text": "A Character with this keyword does not take damage when attacking an exhausted target."
   },
   {
     "Id": "G_062_TERM",
-    "Text": "Resolve"
+    "Text": "Ranged"
   },
   {
     "Id": "G_063_DESC",
-    "Text": "This is a pool you can use during your turn to play cards from your deck. You start each game with 1 Resource for each Hero in your deck. During Upkeep every round, you also get 1 Resource for each Hero you have in play."
+    "Text": "All player cards belong to one of the listed rarities: Starter, Hero Pack, Common, Uncommon, Rare, Legendary. The less common a card is, the more potent its abilities."
   },
   {
     "Id": "G_063_TERM",
-    "Text": "Resources"
+    "Text": "Rarity"
   },
   {
     "Id": "G_064_DESC",
-    "Text": "The kingdom between the Misty Mountains and White Mountains. Its people are known for their skill on horseback. "
+    "Text": "The act of completing, overcoming, or otherwise removing an Objective."
   },
   {
     "Id": "G_064_TERM",
-    "Text": "Rohan"
+    "Text": "Resolve"
   },
   {
     "Id": "G_065_DESC",
-    "Text": "A Character with this keyword must be defeated before any non-Sentinel Characters can be attacked."
+    "Text": "This is a pool you can use during your turn to play cards from your deck. You start each game with 1 Resource for each Hero in your deck. During Upkeep every round, you also get 1 Resource for each Hero you have in play."
   },
   {
     "Id": "G_065_TERM",
-    "Text": "Sentinel"
+    "Text": "Resources"
   },
   {
     "Id": "G_066_DESC",
-    "Text": "The second Campaign in The Lord of the Rings Living Card Game."
+    "Text": "This keyword refers to an effect that occurs in a specific timing window."
   },
   {
     "Id": "G_066_TERM",
-    "Text": "Shadows of Mirkwood"
+    "Text": "Response"
   },
   {
     "Id": "G_067_DESC",
-    "Text": "Woodland Elves. Less interested in knowledge than in combat, compared to their Noldor cousins."
+    "Text": "The kingdom between the Misty Mountains and White Mountains. Its people are known for their skill on horseback. "
   },
   {
     "Id": "G_067_TERM",
-    "Text": "Silvan"
+    "Text": "Rohan"
   },
   {
     "Id": "G_068_DESC",
-    "Text": "There are four Spheres of Influence: Leadership, Lore, Spirit, Tactics. Each focuses on the strengths of a particular personality aspect. Every Hero belongs to a Sphere, which dictates the cards you can include in a deck."
+    "Text": "A Character with this keyword must be defeated before any non-Sentinel Characters can be attacked."
   },
   {
     "Id": "G_068_TERM",
-    "Text": "Sphere of Influence"
+    "Text": "Sentinel"
   },
   {
     "Id": "G_069_DESC",
-    "Text": "This Sphere of Influence emphasizes strength of will and aspects of the supernatural. Determination, courage, loyalty, and heart all fall within this Sphere."
+    "Text": "The second Campaign in The Lord of the Rings Living Card Game."
   },
   {
     "Id": "G_069_TERM",
-    "Text": "Spirit"
+    "Text": "Shadows of Mirkwood"
   },
   {
     "Id": "G_070_DESC",
-    "Text": "A Character with this keyword does not exhaust the first time it is attacked."
+    "Text": "Woodland Elves. Less interested in knowledge than in combat, compared to their Noldor cousins."
   },
   {
     "Id": "G_070_TERM",
-    "Text": "Stalwart"
+    "Text": "Silvan"
   },
   {
     "Id": "G_071_DESC",
-    "Text": "A Character with this keyword cannot be attacked unless all of this player's non-Stealth Characters are exhausted."
+    "Text": "An Attachment trait. A Character can have only one Attachment of each trait at a time."
   },
   {
     "Id": "G_071_TERM",
-    "Text": "Stealth"
+    "Text": "Special"
   },
   {
     "Id": "G_072_DESC",
-    "Text": "This Sphere of Influence emphasizes martial prowess, particularly as it relates to combat and overcoming tactical challenges that might arise during a Quest."
+    "Text": "There are four Spheres of Influence: Leadership, Lore, Spirit, Tactics. Each focuses on the strengths of a particular personality aspect. Every Hero belongs to a Sphere, which dictates the cards you can include in a deck."
   },
   {
     "Id": "G_072_TERM",
-    "Text": "Tactics"
+    "Text": "Sphere of Influence"
   },
   {
     "Id": "G_073_DESC",
-    "Text": "The general term for a Character or Objective that is the object of an action. "
+    "Text": "This Sphere of Influence emphasizes strength of will and aspects of the supernatural. Determination, courage, loyalty, and heart all fall within this Sphere."
   },
   {
     "Id": "G_073_TERM",
-    "Text": "Target"
+    "Text": "Spirit"
   },
   {
     "Id": "G_074_DESC",
-    "Text": "This tracks the level of risk you take on during a Quest. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, you fail the Quest."
+    "Text": "A Character with this keyword does not exhaust the first time it is attacked."
   },
   {
     "Id": "G_074_TERM",
-    "Text": "Threat Meter"
+    "Text": "Stalwart"
   },
   {
     "Id": "G_075_DESC",
-    "Text": "Found only on Hero cards, this number is added to the Threat meter at the beginning of any Quest in which you use the Hero."
+    "Text": "A Character with this keyword cannot be attacked unless all of this player's non-Stealth Characters are exhausted."
   },
   {
     "Id": "G_075_TERM",
-    "Text": "Threat Value"
+    "Text": "Stealth"
   },
   {
     "Id": "G_076_DESC",
-    "Text": "A card with this keyword increases each player's Threat by one additional point at the end of each round."
+    "Text": "This Sphere of Influence emphasizes martial prowess, particularly as it relates to combat and overcoming tactical challenges that might arise during a Quest."
   },
   {
     "Id": "G_076_TERM",
-    "Text": "Threatening"
+    "Text": "Tactics"
   },
   {
     "Id": "G_077_DESC",
-    "Text": "This term is used to designate to which category a Character belongs, whether determined by species, clan, or other criteria. "
+    "Text": "The general term for a Character or Objective that is the object of an action. "
   },
   {
     "Id": "G_077_TERM",
-    "Text": "Trait"
+    "Text": "Target"
   },
   {
     "Id": "G_078_DESC",
-    "Text": "At the start of each round, upkeep occurs: your Threat increases by a minimum of 1, all exhausted cards ready, player and Sauron Resources are refreshed, and you draw 1 card from your player deck. Certain abilities may also activate at this time."
+    "Text": "This tracks the level of risk you take on during a Quest. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, you fail the Quest. "
   },
   {
     "Id": "G_078_TERM",
-    "Text": "Upkeep"
+    "Text": "Threat Meter"
   },
   {
     "Id": "G_079_DESC",
-    "Text": "The great soldier-Orcs of Mordor and Isengard. An Anglicization of “Uruk-hai.”"
+    "Text": "Found only on Hero cards, this number is added to the Threat meter at the beginning of any Quest in which you use the Hero."
   },
   {
     "Id": "G_079_TERM",
-    "Text": "Uruk"
+    "Text": "Threat Value"
   },
   {
     "Id": "G_080_DESC",
-    "Text": "The Black Speech term for Uruks. (See Uruk.) "
+    "Text": "A card with this keyword increases each player's Threat by one additional point at the end of each round."
   },
   {
     "Id": "G_080_TERM",
-    "Text": "Uruk-hai"
+    "Text": "Threatening"
   },
   {
     "Id": "G_081_DESC",
-    "Text": "Bonus Valor Points awarded when playing on Hard difficulty."
+    "Text": "This term is used to designate to which category a Character belongs, whether determined by species, clan, or other criteria. "
   },
   {
     "Id": "G_081_TERM",
-    "Text": "Valor Boost"
+    "Text": "Trait"
   },
   {
     "Id": "G_082_DESC",
-    "Text": "Rewards you get for completing Quests and daily challenges, or gain from Palantír views or other actions in the game. You can spend Valor Points on Quests, Heroes, cards, avatars, and more. "
+    "Text": "At the start of each round, upkeep occurs: your Threat increases by a minimum of 1, all exhausted cards ready, player and Sauron Resources are refreshed, and you draw 1 card from your player deck. Certain abilities may also activate at this time."
   },
   {
     "Id": "G_082_TERM",
-    "Text": "Valor Points"
+    "Text": "Upkeep"
   },
   {
     "Id": "G_083_DESC",
-    "Text": "This keyword refers to an ability that triggers when this card defeats another."
+    "Text": "The great soldier-Orcs of Mordor and Isengard. An Anglicization of “Uruk-hai.”"
   },
   {
     "Id": "G_083_TERM",
-    "Text": "Vanquish"
+    "Text": "Uruk"
   },
   {
     "Id": "G_084_DESC",
-    "Text": "A Character with this keyword does not exhaust after it takes its first action. "
+    "Text": "The Black Speech term for Uruks. (See Uruk.) "
   },
   {
     "Id": "G_084_TERM",
-    "Text": "Vigilant"
+    "Text": "Uruk-hai"
   },
   {
     "Id": "G_085_DESC",
-    "Text": "A region of Middle-earth."
+    "Text": "Bonus Valor Points awarded when playing on Hard difficulty."
   },
   {
     "Id": "G_085_TERM",
-    "Text": "Wilderland"
+    "Text": "Valor Boost"
   },
   {
     "Id": "G_086_DESC",
-    "Text": "A Character's effectiveness when engaging an Objective."
+    "Text": "Rewards you get for completing Quests and daily challenges, or gain from Palantir views or other actions in the game. You can spend Valor Points on Quests, Heroes, cards, avatars, and more. "
   },
   {
     "Id": "G_086_TERM",
+    "Text": "Valor Points"
+  },
+  {
+    "Id": "G_087_DESC",
+    "Text": "This keyword refers to an ability that triggers when this card defeats another."
+  },
+  {
+    "Id": "G_087_TERM",
+    "Text": "Vanquish"
+  },
+  {
+    "Id": "G_088_DESC",
+    "Text": "A Character with this keyword does not exhaust after it takes its first action. "
+  },
+  {
+    "Id": "G_088_TERM",
+    "Text": "Vigilant"
+  },
+  {
+    "Id": "G_089_DESC",
+    "Text": "An Attachment trait. A Character can have only one Attachment of each trait at a time."
+  },
+  {
+    "Id": "G_089_TERM",
+    "Text": "Weapon"
+  },
+  {
+    "Id": "G_090_DESC",
+    "Text": "A region of Middle-earth."
+  },
+  {
+    "Id": "G_090_TERM",
+    "Text": "Wilderland"
+  },
+  {
+    "Id": "G_091_DESC",
+    "Text": "A Character's effectiveness when engaging an Objective."
+  },
+  {
+    "Id": "G_091_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "C_ARAGORN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ATEST181120_TITLE",
-    "Text": "testing card"
-  },
-  {
-    "Id": "C_ATEST181120_TEXT",
-    "Text": "C_ATEST181120_TEXT"
-  },
-  {
-    "Id": "C_ATEST181120_FLAVOR",
-    "Text": "tester"
   }
 ]
