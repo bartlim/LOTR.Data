@@ -1008,7 +1008,7 @@
             {
               "Id": "Tutorial_Stage_01",
               "SceneName": "Q01_L04_TheEnchantedStream",
-              "IntroVoice": "Tutorial_01_02",
+              "IntroVoice": "",
               "IntroSprite": "Sprites/Locations/Quest3_Stage01",
               "SoloGameSetup": null,
               "NextStageId": "Tutorial_Stage_02",
@@ -1017,7 +1017,7 @@
             {
               "Id": "Tutorial_Stage_02",
               "SceneName": "Q01_L04_TheEnchantedStream",
-              "IntroVoice": "Tutorial_18",
+              "IntroVoice": "",
               "IntroSprite": "Sprites/Locations/Quest3_Stage03B",
               "SoloGameSetup": null,
               "NextStageId": "",
