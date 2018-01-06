@@ -841,7 +841,7 @@
   },
   {
     "Id": "U_INGAME_SELECT_FOR_ATTACHMENT",
-    "Text": "Attach to a Character"
+    "Text": "To equip this Attachment, select a highlighted Character."
   },
   {
     "Id": "U_INGAME_HISTORY_CARDPLAYED",
@@ -1036,6 +1036,10 @@
     "Text": "Glossary"
   },
   {
+    "Id": "U_AVATAR_CHANGED",
+    "Text": "Avatar Changed"
+  },
+  {
     "Id": "PlaceHolder2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
@@ -1105,7 +1109,7 @@
   },
   {
     "Id": "Q_STAGE_STANDANDFIGHT_NAME",
-    "Text": "Stand and Fight"
+    "Text": "Fight Your Way Forward"
   },
   {
     "Id": "Q_STAGE_TURNANDFLEE_NAME",
@@ -1193,39 +1197,39 @@
   },
   {
     "Id": "Q_STAGE_CAPTUREDBYSPIDERS_TEXT",
-    "Text": "Giant spiders have captured one of your companions. You watch in horror as your friend is bound in webbed cords to be dragged away and devoured. You cannot abandon your companion to such a fate."
+    "Text": "You are traveling deeper into Mirkwood along an overgrown trail when giant spiders ambush your party. They wrap one of your friends in a silken cocoon with horrifying speed, then drag their captive off to be devoured. You cannot abandon your companion to such a fate."
   },
   {
     "Id": "Q_STAGE_STANDANDFIGHT_TEXT",
-    "Text": "You have rescued your friend, but the creatures of Mirkwood continue to swarm around you. Realizing that you cannot outrun the beasts, you stand and fight!"
+    "Text": "You have rescued your friend, but you quickly decide that your only chance of escape is to fight your way out. You turn to face the swarm of spiders and begin your assault!"
   },
   {
     "Id": "Q_STAGE_TURNANDFLEE_TEXT",
-    "Text": "You have rescued your friend, but the creatures of Mirkwood continue to swarm around you. Realizing you are in danger of being overwhelmed, you decide to make a run for it!"
+    "Text": "You have rescued your friend, but the spiders of Mirkwood continue to swarm around you. Realizing you are in danger of being overwhelmed, you decide to make a run for it!"
   },
   {
     "Id": "Q_STAGE_THEENCHANTEDSTREAM_TEXT",
-    "Text": "You hurry along the forest path only to find that a wide, dark river stops your progress. As you search for a place to ford, a giant creature emerges to block your way."
+    "Text": "Though you have escaped the spiders—at least for now—you find yourself far from the main trail. Searching tirelessly, you at last spy the path on the far side of a dark, unnatural-looking stream. As you look for a place to ford, a giant creature emerges from the underbrush to attack!"
   },
   {
     "Id": "Q_STAGE_DARKFOREST_TEXT",
-    "Text": "You wake from a troubled sleep to find yourself alone in Mirkwood Forest. The last thing you remember is the sound of countless legs scuttling around your camp and hundreds of bulbous eyes peering from the dark. You realize that the giant spiders of Mirkwood have captured your friends in the night, and it’s up to you to find them!"
+    "Text": "Having traveled deep into Mirkwood on the mission to find Grimbeorn, your party camps for the night. You wake from a troubled sleep to find yourself very much alone. What you thought was but a dream—the sound of countless legs scuttling around your camp and hundreds of bulbous eyes peering from the dark—was all too real. The giant spiders of Mirkwood have carried off your friends while you slept. It is now up to you to rescue them!"
   },
   {
     "Id": "Q_STAGE_THESPIDERSLAIR_TEXT",
-    "Text": "You find your friends within a dark glade surrounded by giant spider webs. They have been bound and wrapped in cocoons of strong cords. They beg you to cut them free, but before you can the spiders descend from the trees to attack you."
+    "Text": "Searching through the night, you find your friends being held within a dark glade, surrounded by giant spider webs. They have been bound in cocoons made of strong webbed cords. They beg you to cut them free, but before you can try the spiders descend from the trees to attack you."
   },
   {
     "Id": "Q_STAGE_THESPIDERSWEBS_TEXT",
-    "Text": "Your companions have been cut free, but the spiders are determined to recapture you. They spin giant webs from tree to tree, trapping you in their den. You will have to cut your way through them in order to escape."
+    "Text": "You've managed to cut your companions loose, but the spiders are determined to recapture you. They spin giant webs from tree to tree, trapping you in their den. You will have to cut your way through them in order to escape."
   },
   {
     "Id": "Q_STAGE_FORESTGLADE_TEXT",
-    "Text": "You have cut your way through the spiders’ webs when an enormous spider appears and blocks your path. Her many offspring gather behind you. There is no turning back. You must defeat Ungoliant's spawn."
+    "Text": "You hack through the spiders’ webs but advance only a short distance when an enormous spider appears, blocking your escape! Her many offspring gather behind you, cutting off any retreat. There is no turning back. You must defeat Ungoliant's spawn."
   },
   {
     "Id": "Q_STAGE_MIRKWOODFOREST_TEXT",
-    "Text": "You have escaped from the spiders’ dark colony, only to find yourself lost in the vastness of Mirkwood. The forest is so dark and tangled that it is impossible to know which direction to travel. You must find some landmarks to get your bearings."
+    "Text": "You have escaped from the spiders’ dark colony, only to find yourself lost in the vastness of Mirkwood. The forest is so dark and tangled that it is impossible to know which direction to travel. You must find some landmarks to get your bearings."
   },
   {
     "Id": "Q_STAGE_FORESTSTREAM_TEXT",
@@ -1233,11 +1237,11 @@
   },
   {
     "Id": "Q_STAGE_BAREHILLTOP_TEXT",
-    "Text": "A sea of green spreads for miles in all directions from your view atop a low hill. Scanning the horizon, you notice a faint trail of grey smoke rising in the distance. Do you head for the smoke, or do you keep searching for a path out of the forest?"
+    "Text": "A sea of green spreads for miles in all directions from your view atop a low hill. Scanning the horizon, you notice a faint trail of grey smoke rising in the distance. Do you head for the smoke, or do you keep searching for a path out of the forest?"
   },
   {
     "Id": "Q_STAGE_MIRKWOODSWAMP_TEXT",
-    "Text": "At long last, the stream you have been following leads to a wide bog. You must be near the Anduin River vale — but reaching the mighty river requires crossing the swamp. Who knows what dangers lie in wait?"
+    "Text": "At long last, the stream you have been following leads to a wide bog. You must be near the Anduin River vale—but reaching the mighty river requires crossing the swamp. Who knows what dangers lie in wait?"
   },
   {
     "Id": "Q_STAGE_OVERGROWNTRAIL_TEXT",
@@ -1245,15 +1249,15 @@
   },
   {
     "Id": "Q_STAGE_ABANDONEDVILLAGE_TEXT",
-    "Text": "Navigating toward the smoke as best you can through the dense forest, you find the remains of an old Woodmen village near the eaves of Mirkwood. Yet your relief is short-lived — the village overrun is with Orcs! As they spot your weary group, it becomes clear that you must fight to reach the Anduin vale."
+    "Text": "Navigating toward the smoke as best you can through the dense forest, you find the remains of an old Woodmen village near the eaves of Mirkwood. Yet your relief is short-lived—the village overrun is with Orcs! As they spot your weary group, it becomes clear that you must fight to reach the Anduin vale. "
   },
   {
     "Id": "Q_STAGE_TOTHERIVER_TEXT",
-    "Text": "Emerging from Mirkwood Forest with an urgent message for Grimbeorn, you must make your way south along the Anduin River in order to reach the Carrock. As you approach the location of a small raft stashed on the riverbank, a fearsome Hill Troll emerges from behind a grouping of rocks, and attacks!"
+    "Text": "Emerging from Mirkwood Forest, you continue your mission to deliver an urgent message to Grimbeorn. You make your way south along the Anduin River toward the land of the Beornings. As you approach the location of a small raft stashed on the riverbank, a fearsome Hill Troll emerges from behind a grouping of rocks, and attacks!"
   },
   {
     "Id": "Q_STAGE_ANDUINPASSAGE_TEXT",
-    "Text": "Having defeated the Troll, you board a raft and float downriver. Yet your enemies pursue, harassing the small vessel as you attempt to navigate the river."
+    "Text": "Having defeated the Troll, you board a raft and float downriver. You barely have time to catch your breath before more enemies emerge along the river bank in pursuit, harassing the small vessel as you attempt to navigate the river."
   },
   {
     "Id": "Q_STAGE_AMBUSHONTHESHORE_TEXT",
@@ -1261,11 +1265,11 @@
   },
   {
     "Id": "Q_STAGE_SEARCHINGFORGRIMBEORN_TEXT",
-    "Text": "The Anduin river has carried you south from the Forest Gate to the land of the Beornings, where you hope to deliver King Brand’s message to their chieftain, Grimbeorn. However, when you pull your raft to shore, the Beornings tell you that Grimbeorn was last seen roaming as a great bear toward the Carrock. You continue south along the riverbank in order to find him."
+    "Text": "The Anduin river has carried you south from the Forest Gate to the land of the Beornings, where you hope to deliver King Brand’s message to their chieftain, Grimbeorn. However, when you pull your raft to shore, the Beornings tell you that Grimbeorn was last seen roaming as a great bear toward the Carrock. To find him, you must continue south along the riverbank."
   },
   {
     "Id": "Q_STAGE_THETROLLSDINNER_TEXT",
-    "Text": "After a day spent following Grimbeorn's trail, you make a startling discovery: a group of Trolls has captured the great chieftain, and plans to eat him! You draw your weapons and rush to his rescue."
+    "Text": "After a day spent following Grimbeorn's trail, you make a startling discovery: a group of Trolls has captured the great chieftain, and plans to eat him! You draw your weapons and rush to his rescue."
   },
   {
     "Id": "Q_STAGE_FIGHTWITHTHETROLLS_TEXT",
@@ -1989,7 +1993,7 @@
   },
   {
     "Id": "C_GHANBURIGHAN_TITLE",
-    "Text": "‰Ghan-buri-ghan"
+    "Text": "‰Ghân-buri-Ghân"
   },
   {
     "Id": "C_GIANTMARSHWORM_TEXT",
@@ -2037,7 +2041,7 @@
   },
   {
     "Id": "C_GRIMBEORN_TITLE",
-    "Text": "Grimbeorn"
+    "Text": "‰Grimbeorn"
   },
   {
     "Id": "C_GROWINGDARKNESS_TEXT",
