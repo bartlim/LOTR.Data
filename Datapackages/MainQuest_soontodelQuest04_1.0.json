@@ -1,0 +1,30 @@
+{
+  "DataSet": {
+    "Title": "soontodelQuest04",
+    "SauronDeckInfo": {
+      "Id": null,
+      "DeckList": []
+    },
+    "Stages": [
+      {
+        "Title": "Location401",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ]
+      }
+    ],
+    "Sequences": [],
+    "Stories": []
+  },
+  "Version": "20180108030925181",
+  "Key": "MainQuest",
+  "SubKey": "soontodelQuest04",
+  "RequiredClientVersion": "1.0",
+  "InternalKey": "MainQuest_soontodelQuest04_20180108030925181"
+}
