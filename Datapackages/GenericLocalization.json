@@ -3821,15 +3821,15 @@
   },
   {
     "Id": "Q_STAGE_LOCATION101_NAME",
-    "Text": "Q_STAGE_LOCATION101_NAME"
+    "Text": null
   },
   {
     "Id": " Q_STAGE_LOCATION101_TEXT",
-    "Text": "Q_STAGE_LOCATION101_TEXT"
+    "Text": null
   },
   {
     "Id": "Q_STAGE_LOCATION101_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION101_OBJECTIVE"
+    "Text": null
   },
   {
     "Id": "Q_QUEST_TESTNEWCAMP0108QUEST02_NAME",
@@ -3849,15 +3849,15 @@
   },
   {
     "Id": "Q_STAGE_LOCATION201_NAME",
-    "Text": "Q_STAGE_LOCATION201_NAME"
+    "Text": null
   },
   {
     "Id": " Q_STAGE_LOCATION201_TEXT",
-    "Text": "Q_STAGE_LOCATION201_TEXT"
+    "Text": null
   },
   {
     "Id": "Q_STAGE_LOCATION201_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION201_OBJECTIVE"
+    "Text": null
   },
   {
     "Id": "Q_QUEST_TESTNEWCAMP0108QUEST03_NAME",
@@ -3877,15 +3877,15 @@
   },
   {
     "Id": "Q_STAGE_LOCATION301_NAME",
-    "Text": "Q_STAGE_LOCATION301_NAME"
+    "Text": null
   },
   {
     "Id": " Q_STAGE_LOCATION301_TEXT",
-    "Text": "Q_STAGE_LOCATION301_TEXT"
+    "Text": null
   },
   {
     "Id": "Q_STAGE_LOCATION301_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION301_OBJECTIVE"
+    "Text": null
   },
   {
     "Id": "Q_QUEST_TESTNEWCAMP0108QUEST04_NAME",
@@ -3905,15 +3905,15 @@
   },
   {
     "Id": "Q_STAGE_LOCATION401_NAME",
-    "Text": "Q_STAGE_LOCATION401_NAME"
+    "Text": null
   },
   {
     "Id": " Q_STAGE_LOCATION401_TEXT",
-    "Text": "Q_STAGE_LOCATION401_TEXT"
+    "Text": null
   },
   {
     "Id": "Q_STAGE_LOCATION401_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION401_OBJECTIVE"
+    "Text": null
   },
   {
     "Id": "Q_QUEST_TESTNEWCAMP0108QUEST05_NAME",
@@ -3933,15 +3933,15 @@
   },
   {
     "Id": "Q_STAGE_LOCATION501_NAME",
-    "Text": "Q_STAGE_LOCATION501_NAME"
+    "Text": null
   },
   {
     "Id": " Q_STAGE_LOCATION501_TEXT",
-    "Text": "Q_STAGE_LOCATION501_TEXT"
+    "Text": null
   },
   {
     "Id": "Q_STAGE_LOCATION501_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION501_OBJECTIVE"
+    "Text": null
   },
   {
     "Id": " Q_STAGE_FORESTGATE_TEXT",
@@ -4026,5 +4026,89 @@
   {
     "Id": " Q_STAGE_FIGHTWITHTHETROLLS_TEXT",
     "Text": "Once freed from his chains, Grimbeorn joins you in your battle against the Trolls. “A barrel of beer to the one who brings me a Troll’s head!” he roars while swinging a mighty blow at the nearest foe."
+  },
+  {
+    "Id": "Q_CAMPAIGN_SOONTODEL_NAME",
+    "Text": "soontodel"
+  },
+  {
+    "Id": "Q_QUEST_SOONTODELQUEST01_NAME",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_SOONTODELQUEST01_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_SOONTODELQUEST01_VICTORY_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_SOONTODELQUEST01_DEFEAT_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_SOONTODELQUEST02_NAME",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_SOONTODELQUEST02_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_SOONTODELQUEST02_VICTORY_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_SOONTODELQUEST02_DEFEAT_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_SOONTODELQUEST03_NAME",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_SOONTODELQUEST03_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_SOONTODELQUEST03_VICTORY_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_SOONTODELQUEST03_DEFEAT_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_SOONTODELQUEST04_NAME",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_SOONTODELQUEST04_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_SOONTODELQUEST04_VICTORY_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_SOONTODELQUEST04_DEFEAT_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_SOONTODELQUEST05_NAME",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_SOONTODELQUEST05_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_SOONTODELQUEST05_VICTORY_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_SOONTODELQUEST05_DEFEAT_TEXT",
+    "Text": null
   }
 ]
