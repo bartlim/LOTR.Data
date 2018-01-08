@@ -1,0 +1,22 @@
+{
+  "CardData": {
+    "Id": "HousesOfHealing",
+    "Owner": "Player",
+    "CardType": 4,
+    "ShopType": "Pack_03",
+    "Cost": 5,
+    "QuestPoints": 0,
+    "Attack": 0,
+    "Willpower": 0,
+    "Health": 0,
+    "Trait": "",
+    "Rarity": 1,
+    "Sphere": 1,
+    "SphereLevel": 1,
+    "Revision": "test"
+  },
+  "Localization": {
+    "Title": "Houses Of Healing",
+    "Text": "Choose a Hero in your discard pile. That Hero returns to play exhausted."
+  }
+}
