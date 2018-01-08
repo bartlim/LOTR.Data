@@ -1,0 +1,30 @@
+{
+  "DataSet": {
+    "Title": "TestNewCamp0108Quest01",
+    "SauronDeckInfo": {
+      "Id": null,
+      "DeckList": []
+    },
+    "Stages": [
+      {
+        "Title": "Location101",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ]
+      }
+    ],
+    "Sequences": [],
+    "Stories": []
+  },
+  "Version": "20180108024548716",
+  "Key": "MainQuest",
+  "SubKey": "TestNewCamp0108Quest01",
+  "RequiredClientVersion": "1.0",
+  "InternalKey": "MainQuest_TestNewCamp0108Quest01_20180108024548716"
+}
