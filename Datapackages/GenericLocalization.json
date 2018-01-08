@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PlaceHolder1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -1040,6 +1040,26 @@
     "Text": "Avatar Changed"
   },
   {
+    "Id": "U_DECKMENU_ADD_FAIL_DECK_FULL",
+    "Text": "You Deck is already full!"
+  },
+  {
+    "Id": "U_DECKMENU_ADD_FAIL_NO_HERO",
+    "Text": "Add first a Hero of same Sphere to add this card."
+  },
+  {
+    "Id": "U_DECKMENU_ADD_FAIL_NO_2HERO",
+    "Text": "Add first 2 Heroes of same Sphere to add this card."
+  },
+  {
+    "Id": "U_DECKMENU_ADD_FAIL_LIMIT_REACHED",
+    "Text": "You already have maximum number of this card in Deck!"
+  },
+  {
+    "Id": "U_DECKMENU_CARD_TAB_DISABLED",
+    "Text": "Please choose 3 Heroes first before adding other cards."
+  },
+  {
     "Id": "PlaceHolder2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
@@ -1369,11 +1389,11 @@
   },
   {
     "Id": "Q_STAGE_TUTORIAL_STAGE_01_OBJECTIVE",
-    "Text": "<b>Overcome</b>:Defeat all Enemies."
+    "Text": "<b>Overcome</b>: Defeat all Enemies."
   },
   {
     "Id": "Q_STAGE_TUTORIAL_STAGE_02_OBJECTIVE",
-    "Text": "<b>Aragorn</b> and <b>Elrond</> venture deeper into the forest."
+    "Text": "<b>Overcome</b>: Defeat all Enemies and Search the Area."
   },
   {
     "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_VICTORY_TEXT",
@@ -3798,317 +3818,5 @@
   {
     "Id": "G_091_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "Q_CAMPAIGN_TESTNEWCAMP0108_NAME",
-    "Text": "TestNewCamp0108"
-  },
-  {
-    "Id": "Q_QUEST_TESTNEWCAMP0108QUEST01_NAME",
-    "Text": "Q_QUEST_TESTNEWCAMP0108QUEST01_NAME"
-  },
-  {
-    "Id": "Q_QUEST_TESTNEWCAMP0108QUEST01_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TESTNEWCAMP0108QUEST01_VICTORY_TEXT",
-    "Text": "Q_QUEST_TESTNEWCAMP0108QUEST01_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TESTNEWCAMP0108QUEST01_DEFEAT_TEXT",
-    "Text": "Q_QUEST_TESTNEWCAMP0108QUEST01_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_NAME",
-    "Text": "Q_STAGE_LOCATION101_NAME"
-  },
-  {
-    "Id": " Q_STAGE_LOCATION101_TEXT",
-    "Text": "Q_STAGE_LOCATION101_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION101_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_TESTNEWCAMP0108QUEST02_NAME",
-    "Text": "Q_QUEST_TESTNEWCAMP0108QUEST02_NAME"
-  },
-  {
-    "Id": "Q_QUEST_TESTNEWCAMP0108QUEST02_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TESTNEWCAMP0108QUEST02_VICTORY_TEXT",
-    "Text": "Q_QUEST_TESTNEWCAMP0108QUEST02_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TESTNEWCAMP0108QUEST02_DEFEAT_TEXT",
-    "Text": "Q_QUEST_TESTNEWCAMP0108QUEST02_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_NAME",
-    "Text": "Q_STAGE_LOCATION201_NAME"
-  },
-  {
-    "Id": " Q_STAGE_LOCATION201_TEXT",
-    "Text": "Q_STAGE_LOCATION201_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION201_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_TESTNEWCAMP0108QUEST03_NAME",
-    "Text": "Q_QUEST_TESTNEWCAMP0108QUEST03_NAME"
-  },
-  {
-    "Id": "Q_QUEST_TESTNEWCAMP0108QUEST03_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TESTNEWCAMP0108QUEST03_VICTORY_TEXT",
-    "Text": "Q_QUEST_TESTNEWCAMP0108QUEST03_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TESTNEWCAMP0108QUEST03_DEFEAT_TEXT",
-    "Text": "Q_QUEST_TESTNEWCAMP0108QUEST03_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_NAME",
-    "Text": "Q_STAGE_LOCATION301_NAME"
-  },
-  {
-    "Id": " Q_STAGE_LOCATION301_TEXT",
-    "Text": "Q_STAGE_LOCATION301_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION301_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_TESTNEWCAMP0108QUEST04_NAME",
-    "Text": "Q_QUEST_TESTNEWCAMP0108QUEST04_NAME"
-  },
-  {
-    "Id": "Q_QUEST_TESTNEWCAMP0108QUEST04_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TESTNEWCAMP0108QUEST04_VICTORY_TEXT",
-    "Text": "Q_QUEST_TESTNEWCAMP0108QUEST04_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TESTNEWCAMP0108QUEST04_DEFEAT_TEXT",
-    "Text": "Q_QUEST_TESTNEWCAMP0108QUEST04_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_NAME",
-    "Text": "Q_STAGE_LOCATION401_NAME"
-  },
-  {
-    "Id": " Q_STAGE_LOCATION401_TEXT",
-    "Text": "Q_STAGE_LOCATION401_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION401_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_TESTNEWCAMP0108QUEST05_NAME",
-    "Text": "Q_QUEST_TESTNEWCAMP0108QUEST05_NAME"
-  },
-  {
-    "Id": "Q_QUEST_TESTNEWCAMP0108QUEST05_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TESTNEWCAMP0108QUEST05_VICTORY_TEXT",
-    "Text": "Q_QUEST_TESTNEWCAMP0108QUEST05_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TESTNEWCAMP0108QUEST05_DEFEAT_TEXT",
-    "Text": "Q_QUEST_TESTNEWCAMP0108QUEST05_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_NAME",
-    "Text": "Q_STAGE_LOCATION501_NAME"
-  },
-  {
-    "Id": " Q_STAGE_LOCATION501_TEXT",
-    "Text": "Q_STAGE_LOCATION501_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION501_OBJECTIVE"
-  },
-  {
-    "Id": " Q_STAGE_FORESTGATE_TEXT",
-    "Text": "The King of Dale has entrusted you with an urgent letter for Grimbeorn the Old, chieftain of the Beornings that dwell in the Anduin Vale. To reach his house you must journey through the shadowy forest of Mirkwood. Not long after entering the forest, you are surrounded by evil creatures."
-  },
-  {
-    "Id": " Q_STAGE_CAPTUREDBYSPIDERS_TEXT",
-    "Text": "You are traveling deeper into Mirkwood along an overgrown trail when giant spiders ambush your party. They wrap one of your friends in a silken cocoon with horrifying speed, then drag their captive off to be devoured. You cannot abandon your companion to such a fate."
-  },
-  {
-    "Id": " Q_STAGE_STANDANDFIGHT_TEXT",
-    "Text": "You have rescued your friend, but you quickly decide that your only chance of escape is to fight your way out. You turn to face the swarm of spiders and begin your assault!"
-  },
-  {
-    "Id": " Q_STAGE_TURNANDFLEE_TEXT",
-    "Text": "You have rescued your friend, but the spiders of Mirkwood continue to swarm around you. Realizing you are in danger of being overwhelmed, you decide to make a run for it!"
-  },
-  {
-    "Id": " Q_STAGE_THEENCHANTEDSTREAM_TEXT",
-    "Text": "Though you have escaped the spiders—at least for now—you find yourself far from the main trail. Searching tirelessly, you at last spy the path on the far side of a dark, unnatural-looking stream. As you look for a place to ford, a giant creature emerges from the underbrush to attack!"
-  },
-  {
-    "Id": " Q_STAGE_DARKFOREST_TEXT",
-    "Text": "Having traveled deep into Mirkwood on the mission to find Grimbeorn, your party camps for the night. You wake from a troubled sleep to find yourself very much alone. What you thought was but a dream—the sound of countless legs scuttling around your camp and hundreds of bulbous eyes peering from the dark—was all too real. The giant spiders of Mirkwood have carried off your friends while you slept. It is now up to you to rescue them!"
-  },
-  {
-    "Id": " Q_STAGE_THESPIDERSLAIR_TEXT",
-    "Text": "Searching through the night, you find your friends being held within a dark glade, surrounded by giant spider webs. They have been bound in cocoons made of strong webbed cords. They beg you to cut them free, but before you can try the spiders descend from the trees to attack you."
-  },
-  {
-    "Id": " Q_STAGE_THESPIDERSWEBS_TEXT",
-    "Text": "You've managed to cut your companions loose, but the spiders are determined to recapture you. They spin giant webs from tree to tree, trapping you in their den. You will have to cut your way through them in order to escape."
-  },
-  {
-    "Id": " Q_STAGE_FORESTGLADE_TEXT",
-    "Text": "You hack through the spiders’ webs but advance only a short distance when an enormous spider appears, blocking your escape! Her many offspring gather behind you, cutting off any retreat. There is no turning back. You must defeat Ungoliant's spawn."
-  },
-  {
-    "Id": " Q_STAGE_MIRKWOODFOREST_TEXT",
-    "Text": "You have escaped from the spiders’ dark colony, only to find yourself lost in the vastness of Mirkwood. The forest is so dark and tangled that it is impossible to know which direction to travel. You must find some landmarks to get your bearings."
-  },
-  {
-    "Id": " Q_STAGE_FORESTSTREAM_TEXT",
-    "Text": "A stream winds between the twisted roots of ancient trees that crowd the riverbank. Traveling this way is hard work. You wonder if you should continue or search for a better path."
-  },
-  {
-    "Id": " Q_STAGE_BAREHILLTOP_TEXT",
-    "Text": "A sea of green spreads for miles in all directions from your view atop a low hill. Scanning the horizon, you notice a faint trail of grey smoke rising in the distance. Do you head for the smoke, or do you keep searching for a path out of the forest?"
-  },
-  {
-    "Id": " Q_STAGE_MIRKWOODSWAMP_TEXT",
-    "Text": "At long last, the stream you have been following leads to a wide bog. You must be near the Anduin River vale—but reaching the mighty river requires crossing the swamp. Who knows what dangers lie in wait?"
-  },
-  {
-    "Id": " Q_STAGE_OVERGROWNTRAIL_TEXT",
-    "Text": "After a long, desperate search you find a trail at last. Though it is overgrown and littered with animal tracks, you believe this path leads to the Anduin vale."
-  },
-  {
-    "Id": " Q_STAGE_ABANDONEDVILLAGE_TEXT",
-    "Text": "Navigating toward the smoke as best you can through the dense forest, you find the remains of an old Woodmen village near the eaves of Mirkwood. Yet your relief is short-lived—the village overrun is with Orcs! As they spot your weary group, it becomes clear that you must fight to reach the Anduin vale. "
-  },
-  {
-    "Id": " Q_STAGE_TOTHERIVER_TEXT",
-    "Text": "Emerging from Mirkwood Forest, you continue your mission to deliver an urgent message to Grimbeorn. You make your way south along the Anduin River toward the land of the Beornings. As you approach the location of a small raft stashed on the riverbank, a fearsome Hill Troll emerges from behind a grouping of rocks, and attacks!"
-  },
-  {
-    "Id": " Q_STAGE_ANDUINPASSAGE_TEXT",
-    "Text": "Having defeated the Troll, you board a raft and float downriver. You barely have time to catch your breath before more enemies emerge along the river bank in pursuit, harassing the small vessel as you attempt to navigate the river."
-  },
-  {
-    "Id": " Q_STAGE_AMBUSHONTHESHORE_TEXT",
-    "Text": "Ongoing harassment from your enemies forces your raft to the shore. You must confront their ambush head on. If you survive this attack, the rest of your journey down the Anduin should be clear."
-  },
-  {
-    "Id": " Q_STAGE_SEARCHINGFORGRIMBEORN_TEXT",
-    "Text": "The Anduin river has carried you south from the Forest Gate to the land of the Beornings, where you hope to deliver King Brand’s message to their chieftain, Grimbeorn. However, when you pull your raft to shore, the Beornings tell you that Grimbeorn was last seen roaming as a great bear toward the Carrock. To find him, you must continue south along the riverbank."
-  },
-  {
-    "Id": " Q_STAGE_THETROLLSDINNER_TEXT",
-    "Text": "After a day spent following Grimbeorn's trail, you make a startling discovery: a group of Trolls has captured the great chieftain, and plans to eat him! You draw your weapons and rush to his rescue."
-  },
-  {
-    "Id": " Q_STAGE_FIGHTWITHTHETROLLS_TEXT",
-    "Text": "Once freed from his chains, Grimbeorn joins you in your battle against the Trolls. “A barrel of beer to the one who brings me a Troll’s head!” he roars while swinging a mighty blow at the nearest foe."
-  },
-  {
-    "Id": "Q_CAMPAIGN_SOONTODEL_NAME",
-    "Text": "soontodel"
-  },
-  {
-    "Id": "Q_QUEST_SOONTODELQUEST01_NAME",
-    "Text": "Q_QUEST_SOONTODELQUEST01_NAME"
-  },
-  {
-    "Id": "Q_QUEST_SOONTODELQUEST01_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_SOONTODELQUEST01_VICTORY_TEXT",
-    "Text": "Q_QUEST_SOONTODELQUEST01_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_SOONTODELQUEST01_DEFEAT_TEXT",
-    "Text": "Q_QUEST_SOONTODELQUEST01_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_SOONTODELQUEST02_NAME",
-    "Text": "Q_QUEST_SOONTODELQUEST02_NAME"
-  },
-  {
-    "Id": "Q_QUEST_SOONTODELQUEST02_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_SOONTODELQUEST02_VICTORY_TEXT",
-    "Text": "Q_QUEST_SOONTODELQUEST02_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_SOONTODELQUEST02_DEFEAT_TEXT",
-    "Text": "Q_QUEST_SOONTODELQUEST02_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_SOONTODELQUEST03_NAME",
-    "Text": "Q_QUEST_SOONTODELQUEST03_NAME"
-  },
-  {
-    "Id": "Q_QUEST_SOONTODELQUEST03_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_SOONTODELQUEST03_VICTORY_TEXT",
-    "Text": "Q_QUEST_SOONTODELQUEST03_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_SOONTODELQUEST03_DEFEAT_TEXT",
-    "Text": "Q_QUEST_SOONTODELQUEST03_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_SOONTODELQUEST04_NAME",
-    "Text": "Q_QUEST_SOONTODELQUEST04_NAME"
-  },
-  {
-    "Id": "Q_QUEST_SOONTODELQUEST04_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_SOONTODELQUEST04_VICTORY_TEXT",
-    "Text": "Q_QUEST_SOONTODELQUEST04_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_SOONTODELQUEST04_DEFEAT_TEXT",
-    "Text": "Q_QUEST_SOONTODELQUEST04_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_SOONTODELQUEST05_NAME",
-    "Text": "Q_QUEST_SOONTODELQUEST05_NAME"
-  },
-  {
-    "Id": "Q_QUEST_SOONTODELQUEST05_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_SOONTODELQUEST05_VICTORY_TEXT",
-    "Text": "Q_QUEST_SOONTODELQUEST05_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_SOONTODELQUEST05_DEFEAT_TEXT",
-    "Text": "Q_QUEST_SOONTODELQUEST05_DEFEAT_TEXT"
   }
 ]
