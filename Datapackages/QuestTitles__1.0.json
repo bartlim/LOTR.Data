@@ -1,10 +1,5 @@
 {
   "DataSet": [
-    "210600Quest01",
-    "210600Quest02",
-    "210600Quest03",
-    "210600Quest04",
-    "210600Quest05",
     "ConflictAtTheCarrock",
     "DelCampTestQuest01",
     "DelCampTestQuest02",
@@ -15,16 +10,6 @@
     "JourneyDownTheAnduin",
     "LostInMirkwood",
     "PassageThroughMirkwood",
-    "soontodelQuest01",
-    "soontodelQuest02",
-    "soontodelQuest03",
-    "soontodelQuest04",
-    "soontodelQuest05",
-    "TestNewCamp0108Quest01",
-    "TestNewCamp0108Quest02",
-    "TestNewCamp0108Quest03",
-    "TestNewCamp0108Quest04",
-    "TestNewCamp0108Quest05",
     "TestPoisonedBySpiderQuest01",
     "TestPoisonedBySpiderQuest02",
     "TestPoisonedBySpiderQuest03",
@@ -36,9 +21,9 @@
     "TestSauronAI1225Quest04",
     "TestSauronAI1225Quest05"
   ],
-  "Version": "20180108040910257",
+  "Version": "1.0",
   "Key": "QuestTitles",
   "SubKey": null,
   "RequiredClientVersion": "1.0",
-  "InternalKey": "QuestTitles20180108040910257"
+  "InternalKey": "QuestTitles1.0"
 }
