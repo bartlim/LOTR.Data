@@ -1132,6 +1132,318 @@
     "Text": "Deck empty! No more cards can be drawn!"
   },
   {
+    "Id": "U_DECKMENU_RARITY_S",
+    "Text": "Starter"
+  },
+  {
+    "Id": "U_DECKMENU_RARITY_C",
+    "Text": "Common"
+  },
+  {
+    "Id": "U_DECKMENU_RARITY_U",
+    "Text": "Uncommon"
+  },
+  {
+    "Id": "U_DECKMENU_RARITY_R",
+    "Text": "Rare"
+  },
+  {
+    "Id": "U_DECKMENU_RARITY_L",
+    "Text": "Legendary"
+  },
+  {
+    "Id": "U_DECKMENU_RARITY_H",
+    "Text": "Hero Pack"
+  },
+  {
+    "Id": "U_DECKMENU_STARTER_DECK",
+    "Text": "Starter Deck"
+  },
+  {
+    "Id": "U_CREDITS_01",
+    "Text": "Published by Fantasy Flight Interactive and Asmodee Digital"
+  },
+  {
+    "Id": "U_CREDITS_02",
+    "Text": "CEO, Asmodee Group"
+  },
+  {
+    "Id": "U_CREDITS_03",
+    "Text": "CEO, Asmodee North America"
+  },
+  {
+    "Id": "U_CREDITS_04",
+    "Text": "CEO, Asmodee Digital"
+  },
+  {
+    "Id": "U_CREDITS_05",
+    "Text": "Head of Studio, Fantasy Flight Interactive"
+  },
+  {
+    "Id": "U_CREDITS_06",
+    "Text": "VP of Media & Interactive, Fantasy Flight Games"
+  },
+  {
+    "Id": "U_CREDITS_07",
+    "Text": "Production"
+  },
+  {
+    "Id": "U_CREDITS_08",
+    "Text": "Producer"
+  },
+  {
+    "Id": "U_CREDITS_09",
+    "Text": "Technical Director"
+  },
+  {
+    "Id": "U_CREDITS_10",
+    "Text": "Quality Assurance"
+  },
+  {
+    "Id": "U_CREDITS_11",
+    "Text": "QA Director"
+  },
+  {
+    "Id": "U_CREDITS_12",
+    "Text": "Senior QA Team Lead"
+  },
+  {
+    "Id": "U_CREDITS_13",
+    "Text": "Senior Game QA"
+  },
+  {
+    "Id": "U_CREDITS_14",
+    "Text": "Game QA"
+  },
+  {
+    "Id": "U_CREDITS_15",
+    "Text": "Design"
+  },
+  {
+    "Id": "U_CREDITS_16",
+    "Text": "Lead Game Designer"
+  },
+  {
+    "Id": "U_CREDITS_17",
+    "Text": "Art"
+  },
+  {
+    "Id": "U_CREDITS_18",
+    "Text": "Art Director"
+  },
+  {
+    "Id": "U_CREDITS_19",
+    "Text": "Lead 3D Artist"
+  },
+  {
+    "Id": "U_CREDITS_20",
+    "Text": "Level Artist"
+  },
+  {
+    "Id": "U_CREDITS_21",
+    "Text": "Senior UI/VFX Artist"
+  },
+  {
+    "Id": "U_CREDITS_22",
+    "Text": "Concept Artist"
+  },
+  {
+    "Id": "U_CREDITS_23",
+    "Text": "Technical Artist"
+  },
+  {
+    "Id": "U_CREDITS_24",
+    "Text": "Programming"
+  },
+  {
+    "Id": "U_CREDITS_25",
+    "Text": "Programmer"
+  },
+  {
+    "Id": "U_CREDITS_26",
+    "Text": "Game Design"
+  },
+  {
+    "Id": "U_CREDITS_27",
+    "Text": "LCG Design"
+  },
+  {
+    "Id": "U_CREDITS_28",
+    "Text": "Digital Design"
+  },
+  {
+    "Id": "U_CREDITS_29",
+    "Text": "Creative Content Development"
+  },
+  {
+    "Id": "U_CREDITS_30",
+    "Text": "Graphic Design"
+  },
+  {
+    "Id": "U_CREDITS_31",
+    "Text": "Lead Programmer"
+  },
+  {
+    "Id": "U_CREDITS_32",
+    "Text": "UI Designs"
+  },
+  {
+    "Id": "U_CREDITS_33",
+    "Text": "Executive Producer"
+  },
+  {
+    "Id": "U_CREDITS_34",
+    "Text": "Associate Producer"
+  },
+  {
+    "Id": "U_CREDITS_35",
+    "Text": "Community"
+  },
+  {
+    "Id": "U_CREDITS_36",
+    "Text": "Community Manager"
+  },
+  {
+    "Id": "U_CREDITS_37",
+    "Text": "Publisher"
+  },
+  {
+    "Id": "U_CREDITS_38",
+    "Text": "Chief Marketing Officer"
+  },
+  {
+    "Id": "U_CREDITS_39",
+    "Text": "Licensing"
+  },
+  {
+    "Id": "U_CREDITS_40",
+    "Text": "Licensing Manager"
+  },
+  {
+    "Id": "U_CREDITS_41",
+    "Text": "Licensing Coordinator"
+  },
+  {
+    "Id": "U_CREDITS_42",
+    "Text": "Marketing"
+  },
+  {
+    "Id": "U_CREDITS_43",
+    "Text": "VP of North American Marketing"
+  },
+  {
+    "Id": "U_CREDITS_44",
+    "Text": "Marketing Manager"
+  },
+  {
+    "Id": "U_CREDITS_45",
+    "Text": "Social Media/PR Coordinator"
+  },
+  {
+    "Id": "U_CREDITS_46",
+    "Text": "Software Development"
+  },
+  {
+    "Id": "U_CREDITS_47",
+    "Text": "VP of Information Technology"
+  },
+  {
+    "Id": "U_CREDITS_48",
+    "Text": "Web Frontend Developer"
+  },
+  {
+    "Id": "U_CREDITS_49",
+    "Text": "Web Backend Developer"
+  },
+  {
+    "Id": "U_CREDITS_50",
+    "Text": "Sales"
+  },
+  {
+    "Id": "U_CREDITS_51",
+    "Text": "e-Commerce Sales Manager"
+  },
+  {
+    "Id": "U_CREDITS_52",
+    "Text": "Chief Revenue & Marketing Officer"
+  },
+  {
+    "Id": "U_CREDITS_53",
+    "Text": "Chief Technology Officer"
+  },
+  {
+    "Id": "U_CREDITS_54",
+    "Text": "Head of Platforms"
+  },
+  {
+    "Id": "U_CREDITS_55",
+    "Text": "Lead Line Producer"
+  },
+  {
+    "Id": "U_CREDITS_56",
+    "Text": "Line Producer"
+  },
+  {
+    "Id": "U_CREDITS_57",
+    "Text": "Marketing Manager Europe"
+  },
+  {
+    "Id": "U_CREDITS_58",
+    "Text": "Senior Sales & Marketing Director US"
+  },
+  {
+    "Id": "U_CREDITS_59",
+    "Text": "Head of Player Communities"
+  },
+  {
+    "Id": "U_CREDITS_60",
+    "Text": "Analytics"
+  },
+  {
+    "Id": "U_CREDITS_61",
+    "Text": "Head of Analytics"
+  },
+  {
+    "Id": "U_CREDITS_62",
+    "Text": "Senior Analyst"
+  },
+  {
+    "Id": "U_CREDITS_63",
+    "Text": "Art Deputy Director"
+  },
+  {
+    "Id": "U_CREDITS_64",
+    "Text": "Marketing Assets Designer"
+  },
+  {
+    "Id": "U_CREDITS_65",
+    "Text": "Compatibility"
+  },
+  {
+    "Id": "U_CREDITS_66",
+    "Text": "Compatibility Project Manager"
+  },
+  {
+    "Id": "U_CREDITS_67",
+    "Text": "Compatibility Lead Tester"
+  },
+  {
+    "Id": "U_CREDITS_68",
+    "Text": "Compatibility Tester"
+  },
+  {
+    "Id": "U_CREDITS_69",
+    "Text": "Additional Contributions"
+  },
+  {
+    "Id": "U_CREDITS_70",
+    "Text": "Composer"
+  },
+  {
+    "Id": "U_CREDITS_71",
+    "Text": "Voice Actor"
+  },
+  {
     "Id": "PlaceHolder2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
@@ -3133,7 +3445,7 @@
   },
   {
     "Id": "T_SPLASH_ITEM_08",
-    "Text": "1 Palantir gaze"
+    "Text": "1 Palantír gaze"
   },
   {
     "Id": "T_SPLASH_ITEM_09",
@@ -3245,7 +3557,7 @@
   },
   {
     "Id": "G_011_DESC",
-    "Text": "A reward available in the Palantir or when playing on Hard difficulty. You can use 5 Beacon Torches to unlock a Hero Pack of your choice."
+    "Text": "A reward available in the Palantír or when playing on Hard difficulty. You can use 5 Beacon Torches to unlock a Hero Pack of your choice."
   },
   {
     "Id": "G_011_TERM",
@@ -3389,7 +3701,7 @@
   },
   {
     "Id": "G_029_DESC",
-    "Text": "A race of Middle-earth. All Goblins are Orcs, but not all Orcs are Goblins. "
+    "Text": "A race of Middle-earth. All Goblins are Orcs, but not all Orcs are Goblins."
   },
   {
     "Id": "G_029_TERM",
@@ -3509,7 +3821,7 @@
   },
   {
     "Id": "G_044_DESC",
-    "Text": "The second clan of the Elves. "
+    "Text": "The second clan of the Elves."
   },
   {
     "Id": "G_044_TERM",
@@ -3541,11 +3853,11 @@
   },
   {
     "Id": "G_048_DESC",
-    "Text": "You can use Palantir views to gain rewards such as cards and Valor Points."
+    "Text": "You can use Palantír views to gain rewards such as cards and Valor Points."
   },
   {
     "Id": "G_048_TERM",
-    "Text": "Palantir"
+    "Text": "Palantír"
   },
   {
     "Id": "G_049_DESC",
@@ -3637,7 +3949,7 @@
   },
   {
     "Id": "G_060_DESC",
-    "Text": "A reward available in the Palantir or when playing on Hard difficulty. You can use 5 Quest Stars to unlock a Quest of your choice."
+    "Text": "A reward available in the Palantír or when playing on Hard difficulty. You can use 5 Quest Stars to unlock a Quest of your choice."
   },
   {
     "Id": "G_060_TERM",
@@ -3845,7 +4157,7 @@
   },
   {
     "Id": "G_086_DESC",
-    "Text": "Rewards you get for completing Quests and daily challenges, or gain from Palantir views or other actions in the game. You can spend Valor Points on Quests, Heroes, cards, avatars, and more. "
+    "Text": "Rewards you get for completing Quests and daily challenges, or gain from Palantír views or other actions in the game. You can spend Valor Points on Quests, Heroes, cards, avatars, and more. "
   },
   {
     "Id": "G_086_TERM",
