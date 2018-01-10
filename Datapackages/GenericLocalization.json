@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PlaceHolder1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -85,7 +85,7 @@
   },
   {
     "Id": "U_OPTIONS_TITLE",
-    "Text": "GAME OPTION"
+    "Text": "GAME OPTIONS"
   },
   {
     "Id": "U_OPTIONS_RESOLUTION",
@@ -1058,6 +1058,78 @@
   {
     "Id": "U_DECKMENU_CARD_TAB_DISABLED",
     "Text": "Please choose 3 Heroes first before adding other cards."
+  },
+  {
+    "Id": "U_BATTLE_PLAY_AREA_FULL",
+    "Text": "Your play area is full. Choose an Ally to replace."
+  },
+  {
+    "Id": "U_OPTIONS_LANGUAGE",
+    "Text": "Language"
+  },
+  {
+    "Id": "U_OPTIONS_LANGUAGE_DE",
+    "Text": "Deutsch"
+  },
+  {
+    "Id": "U_OPTIONS_LANGUAGE_EN",
+    "Text": "English"
+  },
+  {
+    "Id": "U_OPTIONS_LANGUAGE_ES",
+    "Text": "Español"
+  },
+  {
+    "Id": "U_OPTIONS_LANGUAGE_FR",
+    "Text": "Français"
+  },
+  {
+    "Id": "U_OPTIONS_LANGUAGE_IT",
+    "Text": "Italiano"
+  },
+  {
+    "Id": "U_OPTIONS_LANGUAGE_PT_BR",
+    "Text": "Português"
+  },
+  {
+    "Id": "U_OPTIONS_LANGUAGE_ZH_CN",
+    "Text": "简体中文"
+  },
+  {
+    "Id": "U_OPTIONS_VIDEO_OPTIONS",
+    "Text": "VIDEO OPTIONS"
+  },
+  {
+    "Id": "U_OPTIONS_AUDIO_OPTIONS",
+    "Text": "AUDIO OPTIONS"
+  },
+  {
+    "Id": "U_OPTIONS_AUDIO_MASTER",
+    "Text": "Master Volume"
+  },
+  {
+    "Id": "U_OPTIONS_AUDIO_BGM",
+    "Text": "Music Volume"
+  },
+  {
+    "Id": "U_OPTIONS_AUDIO_SFX",
+    "Text": "Effects Volume"
+  },
+  {
+    "Id": "U_OPTIONS_AUDIO_VOICE",
+    "Text": "Voice Volume"
+  },
+  {
+    "Id": "U_OPTIONS_AUDIO_AMBIENT",
+    "Text": "Ambient Volume"
+  },
+  {
+    "Id": "U_BATTLE_CARDS_LEFT",
+    "Text": "Cards left in deck: {0}"
+  },
+  {
+    "Id": "U_BATTLE_DECK_EMPTY",
+    "Text": "Deck empty! No more cards can be drawn!"
   },
   {
     "Id": "PlaceHolder2",
@@ -2157,7 +2229,7 @@
   },
   {
     "Id": "C_HOUSESOFHEALING_TITLE",
-    "Text": "Houses Of Healing"
+    "Text": "Houses of Healing"
   },
   {
     "Id": "C_HUMMERHORNS_TEXT",
@@ -3818,29 +3890,5 @@
   {
     "Id": "G_091_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "C_HOUSESOFHEALING_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ATEST181120_TITLE",
-    "Text": "testing card"
-  },
-  {
-    "Id": "C_ATEST181120_TEXT",
-    "Text": "C_ATEST181120_TEXT"
-  },
-  {
-    "Id": "C_ATEST181120_FLAVOR",
-    "Text": "tester"
-  },
-  {
-    "Id": "C_TRIBULATION_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ARWEN_FLAVOR",
-    "Text": ""
   }
 ]
