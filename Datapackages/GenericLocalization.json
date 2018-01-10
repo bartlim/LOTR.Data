@@ -365,11 +365,11 @@
   },
   {
     "Id": "U_SHOP_BUY_CONFIRM_MSG",
-    "Text": "Are you sure to buy it with {0} VP?"
+    "Text": "Purchase with {X} Valor?"
   },
   {
     "Id": "U_SHOP_BUY_CONFIRM_MSG_2",
-    "Text": "Are you sure to buy {1} with {0} VP?"
+    "Text": "Purchase {1} with {0} VP?"
   },
   {
     "Id": "U_SHOP_BUY_CONFIRM_MSG_3",
@@ -378,22 +378,6 @@
   {
     "Id": "U_SHOP_CARD_CAN_GET_FROM",
     "Text": "This card can be obtained from: {0}."
-  },
-  {
-    "Id": "U_SHOP_ADVENTURING_PACK_01_TITLE",
-    "Text": "MISSING CONTENT"
-  },
-  {
-    "Id": "U_SHOP_ADVENTURING_PACK_01_DESC",
-    "Text": "MISSING CONTENT"
-  },
-  {
-    "Id": "U_SHOP_CARDBACK_01_TITLE",
-    "Text": "MISSING CONTENT"
-  },
-  {
-    "Id": "U_SHOP_CARDBACK_01_DESC",
-    "Text": "MISSING CONTENT"
   },
   {
     "Id": "U_QUEST_TITLE",
@@ -977,7 +961,7 @@
   },
   {
     "Id": "U_SHOP_BUY_FAVOR_CARD_MAX",
-    "Text": "You cannot purchase more copies of this card!"
+    "Text": "You cannot purchase more copies of this card."
   },
   {
     "Id": "U_SHOP_BUY_CONFIRM_PURCHASE",
@@ -1444,6 +1428,154 @@
     "Text": "Voice Actor"
   },
   {
+    "Id": "U_OPTIONS",
+    "Text": "Options"
+  },
+  {
+    "Id": "U_PROFILE",
+    "Text": "Profile"
+  },
+  {
+    "Id": "U_PLAYER_TAG",
+    "Text": "Player Tag"
+  },
+  {
+    "Id": "U_EMOTES",
+    "Text": "Emotes"
+  },
+  {
+    "Id": "U_PALANTIR",
+    "Text": "Palantír"
+  },
+  {
+    "Id": "U_MULTIPLAYER",
+    "Text": "Multiplayer"
+  },
+  {
+    "Id": "U_INCREASE_VIEW",
+    "Text": "Increase Your Views"
+  },
+  {
+    "Id": "U_PALANTIR_G",
+    "Text": "Palantir Gaze"
+  },
+  {
+    "Id": "U_PALANTIR_GS",
+    "Text": "Palantir Gazes"
+  },
+  {
+    "Id": "U_SINGLE_PLAYER",
+    "Text": "Single Player"
+  },
+  {
+    "Id": "U_SHOP_QUEST_SELECT",
+    "Text": "Select an individual Quest for more information and purchase options."
+  },
+  {
+    "Id": "U_SHOP_SELECT_OPTION",
+    "Text": "Select a purchase option."
+  },
+  {
+    "Id": "U_CURRENT_VP",
+    "Text": "Current Valor Points"
+  },
+  {
+    "Id": "U_SHOP_BUY_WITH_5_QS",
+    "Text": "Purchase with 5 Quest Stars?"
+  },
+  {
+    "Id": "U_CURRENT_QS",
+    "Text": "Current Quest Stars"
+  },
+  {
+    "Id": "U_DOOR_DURIN_OPEN",
+    "Text": "The Door of Durin opens!"
+  },
+  {
+    "Id": "U_QUEST_UNLOCK",
+    "Text": "Your Quest is unlocked. A new adventure awaits!"
+  },
+  {
+    "Id": "U_SORT_BY",
+    "Text": "Sort by"
+  },
+  {
+    "Id": "U_SEASON_1",
+    "Text": "Season 1"
+  },
+  {
+    "Id": "U_SHOP_BUY_HERO_BONUS_MSG",
+    "Text": "Select a purchase option. Every Hero Pack purchase includes a free Palantir View!"
+  },
+  {
+    "Id": "U_SHOP_BUY_WITH_5_BT",
+    "Text": "Purchase with 5 Beacon Torches?"
+  },
+  {
+    "Id": "U_CURRENT_BT",
+    "Text": "Current Beacon Torches"
+  },
+  {
+    "Id": "U_BG_LIT",
+    "Text": "The Beacon of Gondor is lit!"
+  },
+  {
+    "Id": "U_BG_HERO_RESPOND",
+    "Text": "Heroes respond when called!"
+  },
+  {
+    "Id": "U_SHOP_PURCHASE_CONFIRM",
+    "Text": "Purchase this item?"
+  },
+  {
+    "Id": "U_SHOP_PURCHASE_1_FT",
+    "Text": "Purchase with 1 Favor Token?"
+  },
+  {
+    "Id": "U_INGAME_DEFEAT_HERO_DEAD_TITLE",
+    "Text": "Defeat Notification (Heroes)"
+  },
+  {
+    "Id": "U_INGAME_DEFEAT_THREAT_FULL_TITLE",
+    "Text": "Defeat Notification (Threat)"
+  },
+  {
+    "Id": "U_CAMPAIGN_1",
+    "Text": "Campaign 1"
+  },
+  {
+    "Id": "U_QUEST_1",
+    "Text": "Quest 1"
+  },
+  {
+    "Id": "U_QUEST_VICTORY",
+    "Text": "Quest Victory"
+  },
+  {
+    "Id": "U_QUEST_2",
+    "Text": "Quest 2"
+  },
+  {
+    "Id": "U_QUEST_3",
+    "Text": "Quest 3"
+  },
+  {
+    "Id": "U_QUEST_4",
+    "Text": "Quest 4"
+  },
+  {
+    "Id": "U_QUEST_5",
+    "Text": "Quest 5"
+  },
+  {
+    "Id": "U_CAMPAIGN_2",
+    "Text": "Campaign 2"
+  },
+  {
+    "Id": "",
+    "Text": ""
+  },
+  {
     "Id": "PlaceHolder2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
@@ -1529,7 +1661,7 @@
   },
   {
     "Id": "Q_STAGE_THESPIDERSLAIR_NAME",
-    "Text": "The Spiders’ Lair"
+    "Text": "The Spiders' Lair"
   },
   {
     "Id": "Q_STAGE_THESPIDERSWEBS_NAME",
@@ -1633,7 +1765,7 @@
   },
   {
     "Id": "Q_STAGE_MIRKWOODFOREST_TEXT",
-    "Text": "You have escaped from the spiders’ dark colony, only to find yourself lost in the vastness of Mirkwood. The forest is so dark and tangled that it is impossible to know which direction to travel. You must find some landmarks to get your bearings."
+    "Text": "You have escaped from the spiders’ dark colony, only to find yourself lost in the vastness of Mirkwood. The forest is so dark and tangled that it is impossible to know which direction to travel. You must find some landmarks to get your bearings."
   },
   {
     "Id": "Q_STAGE_FORESTSTREAM_TEXT",
@@ -1653,7 +1785,7 @@
   },
   {
     "Id": "Q_STAGE_ABANDONEDVILLAGE_TEXT",
-    "Text": "Navigating toward the smoke as best you can through the dense forest, you find the remains of an old Woodmen village near the eaves of Mirkwood. Yet your relief is short-lived—the village overrun is with Orcs! As they spot your weary group, it becomes clear that you must fight to reach the Anduin vale. "
+    "Text": "Navigating toward the smoke as best you can through the dense forest, you find the remains of an old Woodmen village near the eaves of Mirkwood. Yet your relief is short-lived—the village overrun is with Orcs! As they spot your weary group, it becomes clear that you must fight to reach the Anduin vale."
   },
   {
     "Id": "Q_STAGE_TOTHERIVER_TEXT",
@@ -1833,7 +1965,7 @@
   },
   {
     "Id": "C_ACCURSEDFOREST_TEXT",
-    "Text": "Upkeep: Discard the top 3 cards from each player’s deck."
+    "Text": "Upkeep: Discard the top 3 cards from each player's deck."
   },
   {
     "Id": "C_ACCURSEDFOREST_TITLE",
@@ -1885,7 +2017,7 @@
   },
   {
     "Id": "C_ARAGORN_TITLE",
-    "Text": "‰Aragorn  "
+    "Text": "‰Aragorn"
   },
   {
     "Id": "C_ARWEN_TEXT",
@@ -1893,7 +2025,7 @@
   },
   {
     "Id": "C_ARWEN_TITLE",
-    "Text": "‰Arwen   "
+    "Text": "‰Arwen"
   },
   {
     "Id": "C_AWATCHFULPEACE_TEXT",
@@ -1917,7 +2049,7 @@
   },
   {
     "Id": "C_BEORN_TITLE",
-    "Text": "‰Beorn  "
+    "Text": "‰Beorn"
   },
   {
     "Id": "C_BEORNSHOSPITALITY_TEXT",
@@ -2001,7 +2133,7 @@
   },
   {
     "Id": "C_CHIEFTAINUFTHAK_TEXT",
-    "Text": "Pursuit. End of round: Add 1 Dol Goldur Orcs at 0 cost."
+    "Text": "Pursuit. End of round: Add 1 Dol Guldur Orcs at 0 cost."
   },
   {
     "Id": "C_CHIEFTAINUFTHAK_TITLE",
@@ -2137,11 +2269,11 @@
   },
   {
     "Id": "C_EOWYN_TEXT",
-    "Text": "After the first Character is defeated each round, Éowyn gains +2 Willpower until end of the round."
+    "Text": "After the first Character is defeated each round, Éowyn gains +2 Willpower until the end of the round."
   },
   {
     "Id": "C_EOWYN_TITLE",
-    "Text": "‰Éowyn   "
+    "Text": "‰Éowyn"
   },
   {
     "Id": "C_ERKENBRAND_TEXT",
@@ -2149,7 +2281,7 @@
   },
   {
     "Id": "C_ERKENBRAND_TITLE",
-    "Text": "‰Erkenbrand  "
+    "Text": "‰Erkenbrand"
   },
   {
     "Id": "C_ESCAPETHEFOREST_TEXT",
@@ -2165,7 +2297,7 @@
   },
   {
     "Id": "C_ESCAPETHESPIDERSLAIR_TITLE",
-    "Text": "Escape the Spiders’ Lair"
+    "Text": "Escape the Spiders' Lair"
   },
   {
     "Id": "C_ESCORTFROMEDORAS_TEXT",
@@ -2221,7 +2353,7 @@
   },
   {
     "Id": "C_FARAMIR_TITLE",
-    "Text": "‰Faramir   "
+    "Text": "‰Faramir"
   },
   {
     "Id": "C_FAVOROFTHELADY_TEXT",
@@ -2293,7 +2425,7 @@
   },
   {
     "Id": "C_FOLLOWGRIMBEORNSTRAIL_TITLE",
-    "Text": "Follow Grimbeorn’s Trail"
+    "Text": "Follow Grimbeorn's Trail"
   },
   {
     "Id": "C_FOLLOWTHESTREAM_TEXT",
@@ -2333,7 +2465,7 @@
   },
   {
     "Id": "C_FREETOCHOOSE_TITLE",
-    "Text": "Elrond's Council"
+    "Text": "Free to Choose"
   },
   {
     "Id": "C_FRODO_TEXT",
@@ -2341,7 +2473,7 @@
   },
   {
     "Id": "C_FRODO_TITLE",
-    "Text": "‰Frodo   "
+    "Text": "‰Frodo"
   },
   {
     "Id": "C_GAININGSTRENGTH_TEXT",
@@ -2425,7 +2557,7 @@
   },
   {
     "Id": "C_GOBLINSNIPER_TEXT",
-    "Text": "Ranged. Stealth. \u000bUpkeep: Deal 1 damage to a random player Character."
+    "Text": "Ranged. Stealth. Upkeep: Deal 1 damage to a random player Character."
   },
   {
     "Id": "C_GOBLINSNIPER_TITLE",
@@ -2621,7 +2753,7 @@
   },
   {
     "Id": "C_LEGOLAS_TITLE",
-    "Text": "‰Legolas   "
+    "Text": "‰Legolas"
   },
   {
     "Id": "C_LEMBAS_TEXT",
@@ -2669,7 +2801,7 @@
   },
   {
     "Id": "C_MABLUNG_TITLE",
-    "Text": "‰Mablung   "
+    "Text": "‰Mablung"
   },
   {
     "Id": "C_MARSHADDER_TEXT",
@@ -2825,7 +2957,7 @@
   },
   {
     "Id": "C_RANGERSPEAR_TEXT",
-    "Text": "Attach: Gain +1 Attack. When attacked, deal 1 damage to the attacking Enemy."
+    "Text": "Attach: Gain +1 Attack. When attacked, deal 1 extra damage to the attacking Enemy."
   },
   {
     "Id": "C_RANGERSPEAR_TITLE",
@@ -2893,7 +3025,7 @@
   },
   {
     "Id": "C_SAMGAMGEE_TITLE",
-    "Text": "‰Sam Gamgee "
+    "Text": "‰Sam Gamgee"
   },
   {
     "Id": "C_SEARCHFORAPATH_TEXT",
@@ -3477,7 +3609,7 @@
   },
   {
     "Id": "G_001_DESC",
-    "Text": "You take turns with Sauron during this phase, and may attack Enemies or engage Objectives. "
+    "Text": "You take turns with Sauron during this phase, and may attack Enemies or engage Objectives."
   },
   {
     "Id": "G_001_TERM",
@@ -3573,7 +3705,7 @@
   },
   {
     "Id": "G_013_DESC",
-    "Text": "A series of 5 Quests that tell a larger story. "
+    "Text": "A series of 5 Quests that tell a larger story."
   },
   {
     "Id": "G_013_TERM",
@@ -3645,7 +3777,7 @@
   },
   {
     "Id": "G_022_DESC",
-    "Text": "The act of committing a Character to an Objective. "
+    "Text": "The act of committing a Character to an Objective."
   },
   {
     "Id": "G_022_TERM",
@@ -3741,7 +3873,7 @@
   },
   {
     "Id": "G_034_DESC",
-    "Text": "A fixed pack of 5 cards. Each pack includes 1 Hero, plus 1 card from each Sphere of Influence. "
+    "Text": "A fixed pack of 5 cards. Each pack includes 1 Hero, plus 1 card from each Sphere of Influence."
   },
   {
     "Id": "G_034_TERM",
@@ -3757,7 +3889,7 @@
   },
   {
     "Id": "G_036_DESC",
-    "Text": "Wizards such as Gandalf and Saruman who are more than mortal and possessed of great age and power.  "
+    "Text": "Wizards such as Gandalf and Saruman who are more than mortal and possessed of great age and power."
   },
   {
     "Id": "G_036_TERM",
@@ -3797,7 +3929,7 @@
   },
   {
     "Id": "G_041_DESC",
-    "Text": "The land in which the many adventures of The Lord of the Rings take place. "
+    "Text": "The land in which the many adventures of The Lord of the Rings take place."
   },
   {
     "Id": "G_041_TERM",
@@ -4093,7 +4225,7 @@
   },
   {
     "Id": "G_078_DESC",
-    "Text": "This tracks the level of risk you take on during a Quest. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, you fail the Quest. "
+    "Text": "This tracks the level of risk you take on during a Quest. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, you fail the Quest."
   },
   {
     "Id": "G_078_TERM",
