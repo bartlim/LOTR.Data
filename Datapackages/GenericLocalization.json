@@ -369,7 +369,7 @@
   },
   {
     "Id": "U_SHOP_BUY_CONFIRM_MSG_2",
-    "Text": "Purchase {1} with {0} VP?"
+    "Text": "Purchase {0} with {1} VP?"
   },
   {
     "Id": "U_SHOP_BUY_CONFIRM_MSG_3",
@@ -1570,6 +1570,10 @@
   {
     "Id": "U_CAMPAIGN_2",
     "Text": "Campaign 2"
+  },
+  {
+    "Id": "U_OPTIONS_CREDITS",
+    "Text": "CREDITS"
   },
   {
     "Id": "",
