@@ -168,7 +168,7 @@
         {
           "Id": "ForestStream",
           "SceneName": "Q03_L02a_ForestStream",
-          "IntroVoice": "Q3L2-3_Various",
+          "IntroVoice": "Q3L2A_ForestStream",
           "IntroSprite": "Sprites/Locations/Quest3_Stage02A",
           "SoloGameSetup": [
             "ContinueDownstream",
@@ -183,7 +183,7 @@
         {
           "Id": "BareHilltop",
           "SceneName": "Q03_L02b_BareHilltop",
-          "IntroVoice": "Q3L2-3_Various",
+          "IntroVoice": "Q3L2B_BareHilltop",
           "IntroSprite": "Sprites/Locations/Quest3_Stage02B",
           "SoloGameSetup": [
             "InvestigateSmoke",
@@ -197,7 +197,7 @@
         {
           "Id": "MirkwoodSwamp",
           "SceneName": "Q03_L03a_MirkwoodSwamp",
-          "IntroVoice": "Q3L2-3_Various",
+          "IntroVoice": "Q3L3A_MirkwoodSwamp",
           "IntroSprite": "Sprites/Locations/Quest3_Stage03A",
           "SoloGameSetup": [
             "GiantMarshWorm",
@@ -210,7 +210,7 @@
         {
           "Id": "OvergrownTrail",
           "SceneName": "Q03_L03b_OvergrownTrail",
-          "IntroVoice": "Q3L2-3_Various",
+          "IntroVoice": "Q3L3B_OvergrownTrail",
           "IntroSprite": "Sprites/Locations/Quest3_Stage03B",
           "SoloGameSetup": [
             "EscapeTheForest",
@@ -224,7 +224,7 @@
         {
           "Id": "AbandonedVillage",
           "SceneName": "Q03_L03c_AbandonedVillage",
-          "IntroVoice": "Q3L3_AbandonedVillage",
+          "IntroVoice": "Q3L3C_AbandonedVillage",
           "IntroSprite": "Sprites/Locations/Quest3_Stage03C",
           "SoloGameSetup": [
             "EliteDolGuldurOrcs",
