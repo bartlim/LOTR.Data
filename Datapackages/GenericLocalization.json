@@ -2277,11 +2277,11 @@
   },
   {
     "Id": "C_EOWYN_TEXT",
-    "Text": "After the first Character is defeated each round, Éowyn gains +2 Willpower until the end of the round."
+    "Text": "After the first Character is defeated each round, Éowyn gains +2 Willpower until end of the round."
   },
   {
     "Id": "C_EOWYN_TITLE",
-    "Text": "‰Éowyn"
+    "Text": "‰Éowyn   "
   },
   {
     "Id": "C_ERKENBRAND_TEXT",
@@ -4445,6 +4445,10 @@
   },
   {
     "Id": "C_BOWOFTHEGALADHRIM_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_EOWYN_FLAVOR",
     "Text": ""
   }
 ]
