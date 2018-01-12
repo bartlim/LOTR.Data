@@ -9,7 +9,7 @@
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "",
+    "Trait": "Preparation",
     "Rarity": 3,
     "Sphere": 0,
     "SphereLevel": 1,
@@ -20,9 +20,9 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": null,
-    "ArtistName": null,
-    "Status": null
+    "FlavorText": "",
+    "ArtistName": "",
+    "Status": "Ready"
   },
   "Localization": {
     "Title": "Taste it Again!",
