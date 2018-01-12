@@ -2965,7 +2965,7 @@
   },
   {
     "Id": "C_RANGERSPEAR_TEXT",
-    "Text": "Attach: Gain +1 Attack. When attacked, deal 1 extra damage to the attacking Enemy."
+    "Text": "Attach: Gain +1 Attack. When attacked, deal 1 damage to the attacking Enemy."
   },
   {
     "Id": "C_RANGERSPEAR_TITLE",
@@ -4485,6 +4485,10 @@
   },
   {
     "Id": "C_QUICKERTHANSIGHT_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_RANGERSPEAR_FLAVOR",
     "Text": ""
   }
 ]
