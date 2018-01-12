@@ -1576,6 +1576,10 @@
     "Text": "CREDITS"
   },
   {
+    "Id": "U_SHOP_WRONG_PRICE",
+    "Text": "The price of this item is not correct!"
+  },
+  {
     "Id": "",
     "Text": ""
   },
@@ -1829,7 +1833,7 @@
   },
   {
     "Id": "Q_STAGE_CAPTUREDBYSPIDERS_OBJECTIVE",
-    "Text": "Overcome \"Cocoon\" and rescue the captive Hero to allow travel."
+    "Text": "Resolve \"Cocoon\" and rescue the captive Hero to allow travel."
   },
   {
     "Id": "Q_STAGE_STANDANDFIGHT_OBJECTIVE",
@@ -1837,7 +1841,7 @@
   },
   {
     "Id": "Q_STAGE_TURNANDFLEE_OBJECTIVE",
-    "Text": "Overcome \"Find the Path\" to allow travel."
+    "Text": "Resolve \"Find the Path\" to allow travel."
   },
   {
     "Id": "Q_STAGE_THEENCHANTEDSTREAM_OBJECTIVE",
