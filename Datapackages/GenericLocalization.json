@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "Id": "PlaceHolder1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -2033,7 +2033,7 @@
   },
   {
     "Id": "C_ARWEN_TITLE",
-    "Text": "‰Arwen"
+    "Text": "‰Arwen   "
   },
   {
     "Id": "C_AWATCHFULPEACE_TEXT",
@@ -4342,5 +4342,9 @@
   {
     "Id": "G_091_TERM",
     "Text": "Willpower"
+  },
+  {
+    "Id": "C_ARWEN_FLAVOR",
+    "Text": ""
   }
 ]
