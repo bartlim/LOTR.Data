@@ -3189,11 +3189,11 @@
   },
   {
     "Id": "C_TOMBOMBADIL_TEXT",
-    "Text": "Fleeting. Arrival: Discard a non-unique Enemy."
+    "Text": "Fleeting. Arrival: Defeat a non-unique Enemy."
   },
   {
     "Id": "C_TOMBOMBADIL_TITLE",
-    "Text": "‰Tom Bombadil"
+    "Text": "?Tom Bombadil"
   },
   {
     "Id": "C_TREACHEROUSFOG_TEXT",
@@ -4581,6 +4581,10 @@
   },
   {
     "Id": "C_STARBROOCH_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_TOMBOMBADIL_FLAVOR",
     "Text": ""
   }
 ]
