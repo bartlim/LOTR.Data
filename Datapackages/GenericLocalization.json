@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -1973,7 +1973,7 @@
   },
   {
     "Id": "C_ACCURSEDFOREST_TEXT",
-    "Text": "Upkeep: Discard the top 3 cards from each player's deck."
+    "Text": "Upkeep: Discard the top 3 cards from each player’s deck."
   },
   {
     "Id": "C_ACCURSEDFOREST_TITLE",
@@ -4158,5 +4158,9 @@
   {
     "Id": "G_067_TERM",
     "Text": "Willpower"
+  },
+  {
+    "Id": "C_ACCURSEDFOREST_FLAVOR",
+    "Text": ""
   }
 ]
