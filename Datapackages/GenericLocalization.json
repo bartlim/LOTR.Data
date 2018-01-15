@@ -2821,7 +2821,7 @@
   },
   {
     "Id": "C_MARSHADDER_TEXT",
-    "Text": "Stalwart. Vigilant."
+    "Text": "Stalwart. Vigilant. Forced: When Marsh Adder attacks, the defending player's Threat increases by 1."
   },
   {
     "Id": "C_MARSHADDER_TITLE",
@@ -4365,6 +4365,10 @@
   },
   {
     "Id": "C_LOWONSUPPLIES_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_MARSHADDER_FLAVOR",
     "Text": ""
   }
 ]
