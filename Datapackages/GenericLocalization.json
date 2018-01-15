@@ -2549,7 +2549,7 @@
   },
   {
     "Id": "C_GIANTMARSHWORM_TEXT",
-    "Text": "Stalwart. Vigilant. Forced: When Giant Marsh Worm attacks, defending player's Threat increases by 1."
+    "Text": "C_GIANTMARSHWORM_TEXT"
   },
   {
     "Id": "C_GIANTMARSHWORM_TITLE",
@@ -4301,6 +4301,10 @@
   },
   {
     "Id": "C_GATHERINGGLOOM_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_GIANTMARSHWORM_FLAVOR",
     "Text": ""
   }
 ]
