@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -817,11 +817,11 @@
   },
   {
     "Id": "CHOICETEXT_HUNTED_HUNTEDCHOICE00",
-    "Text": "Raise your threat by 1 for each ally you control."
+    "Text": "Gain 1 Threat for each Ally"
   },
   {
     "Id": "CHOICETEXT_HUNTED_HUNTEDCHOICE01",
-    "Text": "Discard an ally you control."
+    "Text": "Discard an Ally"
   },
   {
     "Id": "U_INGAME_SELECT_FOR_ATTACHMENT",
@@ -1137,7 +1137,7 @@
   },
   {
     "Id": "U_DECKMENU_RARITY_H",
-    "Text": "Hero Pack"
+    "Text": "Hero"
   },
   {
     "Id": "U_DECKMENU_STARTER_DECK",
@@ -2065,7 +2065,7 @@
   },
   {
     "Id": "C_BEORN_TITLE",
-    "Text": "‰Beorn  "
+    "Text": "‰Beorn"
   },
   {
     "Id": "C_BEORNSHOSPITALITY_TEXT",
@@ -2269,7 +2269,7 @@
   },
   {
     "Id": "C_ELVENSCOUT_TEXT",
-    "Text": "Ranged."
+    "Text": "Ranged"
   },
   {
     "Id": "C_ELVENSCOUT_TITLE",
@@ -2313,7 +2313,7 @@
   },
   {
     "Id": "C_ESCAPETHESPIDERSLAIR_TITLE",
-    "Text": "Escape the Spiders’ Lair"
+    "Text": "Escape the Spiders' Lair"
   },
   {
     "Id": "C_ESCORTFROMEDORAS_TEXT",
@@ -2441,7 +2441,7 @@
   },
   {
     "Id": "C_FOLLOWGRIMBEORNSTRAIL_TITLE",
-    "Text": "Follow Grimbeorn’s Trail"
+    "Text": "Follow Grimbeorn's Trail"
   },
   {
     "Id": "C_FOLLOWTHESTREAM_TEXT",
@@ -2533,7 +2533,7 @@
   },
   {
     "Id": "C_GATHERINGGLOOM_TEXT",
-    "Text": "Reduce each Ally to 0 Willpowr this round"
+    "Text": "Reduce each Ally to 0 Willpower this round"
   },
   {
     "Id": "C_GATHERINGGLOOM_TITLE",
@@ -2589,7 +2589,7 @@
   },
   {
     "Id": "C_GRIMBEORN_TEXT",
-    "Text": "Block. Stalwart."
+    "Text": "Block. Stalwart"
   },
   {
     "Id": "C_GRIMBEORN_TITLE",
@@ -2701,7 +2701,7 @@
   },
   {
     "Id": "C_HUNTED_TEXT",
-    "Text": "Choose: Gain 1 Threat for each Ally, or discard an Ally"
+    "Text": "Choose: Gain 1 Threat for each Ally; or discard an Ally"
   },
   {
     "Id": "C_HUNTED_TITLE",
@@ -2817,7 +2817,7 @@
   },
   {
     "Id": "C_MABLUNG_TITLE",
-    "Text": "‰Mablung   "
+    "Text": "‰Mablung"
   },
   {
     "Id": "C_MARSHADDER_TEXT",
@@ -3109,7 +3109,7 @@
   },
   {
     "Id": "C_SPIDERQUEEN_TEXT",
-    "Text": "Each Hatchling Spider gains +1 Attack and Sentinel. Upkeep: Add 1 Hatchling Spider at 0 cost."
+    "Text": "Each Hatchling Spider gains +1 Attack and Guard. Upkeep: Add 1 Hatchling Spider at 0 cost."
   },
   {
     "Id": "C_SPIDERQUEEN_TITLE",
@@ -4158,421 +4158,5 @@
   {
     "Id": "G_067_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "C_ACCURSEDFOREST_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_AMBUSHONTHESHORE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ANDUINTROLLSPAWN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_BLACKBLOOD_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_BLACKFORESTBATS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_BLOCKEDPATH_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_CAUGHTINAWEB_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_CHIEFTAINUFTHAK_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_CLIMBTHEHILL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_COCOON_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_CONTINUEDOWNSTREAM_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_CREATUREOFDARKNESS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_DARKSORCERY_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_DESPAIR_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_DEVOURED_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_DOLGULDURORCS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_DRIVENBYSHADOW_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_EASTBIGHTPATROL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ELITEDOLGULDURORCS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ENFEEBLED_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ESCAPETHEFOREST_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ESCAPETHESPIDERSLAIR_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_EVILSTORM_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_EXHAUSTION_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_EXPLORETHECAVE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_EYESOFTHEFOREST_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_FINDSAFEPASSAGE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_FINDSHELTER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_FINDTHEPATH_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_FINDYOURBEARINGS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_FINDYOURFRIENDS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_FOLLOWGRIMBEORNSTRAIL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_FOLLOWTHESTREAM_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_FORESTFLIES_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_FORESTSPIDER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GATHERINGGLOOM_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GIANTMARSHWORM_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GIANTSPIDER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GOBLINSNIPER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GROWINGDARKNESS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_HATCHLINGSPIDER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_HIDDENPATH_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_HILLTROLL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_HIVEGUARDIAN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_HUMMERHORNS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_HUNTED_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_INVESTIGATESMOKE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_KINGSFOIL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_KINGSPIDER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_LOSTINTHEWILDERNESS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_LOUIS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_LOWONSUPPLIES_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_MARSHADDER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_MIRKWOODFLOCK_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_MIRKWOODPATROL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_MORRIS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_MUCKADDER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_NAVIGATETHERIVER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ORCBEASTMASTER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ORCHOUND_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ORCMARAUDER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_PACKOFWARGS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_POISONEDBYSPIDERS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_PURSUEDBYSHADOW_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_PURSUITONTHESHORE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_RESCUEGRIMBEORN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_RESCUETHEHORSES_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_RESCUEYOURFRIENDS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_RUPERT_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SACKED_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SEARCHFORAPATH_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SEARCHTHEAREA_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SPIDERGUARD_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SPIDERSOFMIRKWOOD_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SPOOKEDHORSES_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SQUASHEDINTOJELLY_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_STUART_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_THENECROMANCERSREACH_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_THICKWEBS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_TREACHEROUSFOG_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_TRIBULATION_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_TROLLSACK_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_TURNEDAROUND_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_UNDERTHESHADOW_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_UNDERTHEWATCHFULEYE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_UNGOLIANTSBROOD_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_UNGOLIANTSSPAWN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_UNWAVERING_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_VETERAN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_VETERANPATROL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_VICIOUSSPEED_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_VILESPAWN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_WARGRIDERS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_WARGS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_WATCHFULEYES_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_WATCHFULSCOUT_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_WILDBEAR_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_FINDTHERAFT_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_TOMBOMBADIL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_BILLTHEPONY_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_BEORN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_BOWOFTHEGALADHRIM_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_MABLUNG_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_STERNERTHANSTEEL_FLAVOR",
-    "Text": ""
   }
 ]
