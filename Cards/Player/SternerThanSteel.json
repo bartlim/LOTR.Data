@@ -4,12 +4,12 @@
     "Owner": "Player",
     "CardType": 4,
     "ShopType": "Pack_03",
-    "Cost": 1,
+    "Cost": 3,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "Preparation",
+    "Trait": "",
     "Rarity": 4,
     "Sphere": 3,
     "SphereLevel": 2,
@@ -22,7 +22,7 @@
     "DeathSFX": "",
     "FlavorText": "",
     "ArtistName": "",
-    "Status": "Ready"
+    "Status": "WIP"
   },
   "Localization": {
     "Title": "Sterner than Steel",
