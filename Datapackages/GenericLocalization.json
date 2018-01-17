@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -792,20 +792,36 @@
     "Text": "You draw Sauron's full attention, bringing your journey to a tragic end."
   },
   {
-    "Id": "U_SHOP_HEROPACK_TITLE_RANGER",
-    "Text": "The Rangers of Gondor"
-  },
-  {
-    "Id": "U_SHOP_HEROPACK_TITLE_SERVANT",
+    "Id": "U_SHOP_HEROPACK_01_TITLE",
     "Text": "Faithful Servant"
   },
   {
-    "Id": "U_SHOP_HEROPACK_TITLE_MAIDEN",
+    "Id": "U_SHOP_HEROPACK_02_TITLE",
+    "Text": "The Rangers of Gondor"
+  },
+  {
+    "Id": "U_SHOP_HEROPACK_03_TITLE",
     "Text": "Shieldmaiden of Rohan"
   },
   {
-    "Id": "U_SHOP_HEROPACK_TITLE_PRINCE",
+    "Id": "U_SHOP_HEROPACK_04_TITLE",
     "Text": "Prince of Mirkwood"
+  },
+  {
+    "Id": "U_SHOP_HEROPACK_01_DESC",
+    "Text": "Samwise Gamgee is Frodo’s most faithful friend. Though he comes from humble beginnings, Sam rises to any challenge with unmatched bravery and determination.\nThe Faithful Servant pack is tailor-made for cleverness. These cards help you sneak past the watchful Eye of Sauron to claim victory through daring and stealth."
+  },
+  {
+    "Id": "U_SHOP_HEROPACK_02_DESC",
+    "Text": "Faramir does not seek glory in danger without purpose. Touched by the wisdom and sadness of the Elder Race, he is shrewd in battle.\nThe Rangers of Gondor pack gives you the abilities needed to outlast Sauron’s forces and stand victorious at the battle’s end."
+  },
+  {
+    "Id": "U_SHOP_HEROPACK_03_DESC",
+    "Text": "Éowyn is renowned for her courage and compassion. Armed with inner strength as strong as tempered steel, she stands unflinching before even the greatest threats.\nThe Shieldmaiden of Rohan pack contains cards that protect and restore your party. No matter how numerous or mighty, no foe poses a worthy threat in the face of the iron will of the Rohan."
+  },
+  {
+    "Id": "U_SHOP_HEROPACK_04_DESC",
+    "Text": "Legolas is unmatched in his prowess as an archer. Gifted with acute senses and breathtaking agility, he often outmaneuvers and defeats foes before they even see him coming.\nThe Prince of Mirkwood pack taps into the strengths of the Elves: employing wits and swiftness over brute strength to strike down enemies with deadly accuracy."
   },
   {
     "Id": "U_SHOP_COST",
@@ -4166,21 +4182,5 @@
   {
     "Id": "G_067_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "C_FORESTSNARE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_LEGACYBLADE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_QUICKSTRIKE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_RAIMENTOFWAR_FLAVOR",
-    "Text": ""
   }
 ]
