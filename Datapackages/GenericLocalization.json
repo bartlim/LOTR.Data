@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -680,8 +680,16 @@
     "Text": "Orc"
   },
   {
+    "Id": "U_TRAITTYPE_PREPARATION",
+    "Text": "Preparation"
+  },
+  {
     "Id": "U_TRAITTYPE_ROHAN",
     "Text": "Rohan"
+  },
+  {
+    "Id": "U_TRAITTYPE_SHADOW",
+    "Text": "Shadow"
   },
   {
     "Id": "U_TRAITTYPE_SILVAN",
@@ -4158,9 +4166,5 @@
   {
     "Id": "G_067_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "C_STERNERTHANSTEEL_FLAVOR",
-    "Text": ""
   }
 ]
