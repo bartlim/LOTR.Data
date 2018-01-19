@@ -27,7 +27,7 @@
                 "BlockedPath"
               ],
               "NextStageId": "CapturedBySpiders",
-              "BGM": "mus_cave"
+              "BGM": "mus_theWilderlands"
             },
             {
               "Id": "CapturedBySpiders",
@@ -83,7 +83,100 @@
               "BGM": "mus_saurontheme"
             }
           ],
-          "SauronDeck": []
+          "SauronDeck": [
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            }
+          ]
         },
         {
           "Id": "FliesAndSpiders",
@@ -142,7 +235,88 @@
               "BGM": "mus_saurontheme"
             }
           ],
-          "SauronDeck": []
+          "SauronDeck": [
+            {
+              "Id": null,
+              "Amount": 1
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 3
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 1
+            },
+            {
+              "Id": null,
+              "Amount": 1
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 1
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 1
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            }
+          ]
         },
         {
           "Id": "LostInMirkwood",
@@ -238,7 +412,132 @@
               "BGM": "mus_saurontheme"
             }
           ],
-          "SauronDeck": []
+          "SauronDeck": [
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 1
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 1
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 1
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            }
+          ]
         },
         {
           "Id": "JourneyDownTheAnduin",
@@ -289,7 +588,116 @@
               "BGM": "mus_saurontheme"
             }
           ],
-          "SauronDeck": []
+          "SauronDeck": [
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 1
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 1
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            }
+          ]
         },
         {
           "Id": "ConflictAtTheCarrock",
@@ -341,7 +749,100 @@
               "BGM": "mus_saurontheme"
             }
           ],
-          "SauronDeck": []
+          "SauronDeck": [
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 1
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 1
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 1
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 2
+            },
+            {
+              "Id": null,
+              "Amount": 1
+            }
+          ]
         }
       ]
     },
