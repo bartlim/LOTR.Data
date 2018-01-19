@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -1104,12 +1104,12 @@
     "Text": "简体中文"
   },
   {
-    "Id": "U_OPTIONS_VIDEO_OPTIONS",
-    "Text": "VIDEO OPTIONS"
+    "Id": "U_OPTIONS_DISPLAY",
+    "Text": "Display"
   },
   {
-    "Id": "U_OPTIONS_AUDIO_OPTIONS",
-    "Text": "AUDIO OPTIONS"
+    "Id": "U_OPTIONS_AUDIO",
+    "Text": "Audio"
   },
   {
     "Id": "U_OPTIONS_AUDIO_MASTER",
@@ -3165,7 +3165,7 @@
   },
   {
     "Id": "C_SAMGAMGEE_TITLE",
-    "Text": "‰Sam Gamgee "
+    "Text": "‰Sam Gamgee"
   },
   {
     "Id": "C_SEARCHFORAPATH_TEXT",
@@ -3521,7 +3521,7 @@
   },
   {
     "Id": "C_WATERSOFNIMRODEL_TEXT",
-    "Text": "Gain +1 Resource"
+    "Text": "Restore 3 Health"
   },
   {
     "Id": "C_WATERSOFNIMRODEL_TITLE",
@@ -4125,91 +4125,91 @@
   },
   {
     "Id": "G_047_DESC",
-    "Text": "(Keyword) The Character does not exhaust the first time it takes an action."
-  },
-  {
-    "Id": "G_047_TERM",
-    "Text": "Refresh"
-  },
-  {
-    "Id": "G_048_DESC",
     "Text": "The act of completing, overcoming, or otherwise removing an Objective."
   },
   {
-    "Id": "G_048_TERM",
+    "Id": "G_047_TERM",
     "Text": "Resolve"
   },
   {
-    "Id": "G_049_DESC",
+    "Id": "G_048_DESC",
     "Text": "A pool you can use on your turn to play cards from your deck. Resources refresh during Upkeep."
   },
   {
-    "Id": "G_049_TERM",
+    "Id": "G_048_TERM",
     "Text": "Resources"
   },
   {
-    "Id": "G_050_DESC",
+    "Id": "G_049_DESC",
     "Text": "(Keyword) The ability triggers when the Character is defeated."
   },
   {
-    "Id": "G_050_TERM",
+    "Id": "G_049_TERM",
     "Text": "Revenge"
   },
   {
-    "Id": "G_051_DESC",
+    "Id": "G_050_DESC",
     "Text": "A person from the kingdom between the Misty Mountains and White Mountains."
   },
   {
-    "Id": "G_051_TERM",
+    "Id": "G_050_TERM",
     "Text": "Rohan"
   },
   {
-    "Id": "G_052_DESC",
+    "Id": "G_051_DESC",
     "Text": "(Trait) An Elf who is more interested in knowledge than in combat, compared to their Noldor cousins."
   },
   {
-    "Id": "G_052_TERM",
+    "Id": "G_051_TERM",
     "Text": "Silvan"
   },
   {
-    "Id": "G_053_DESC",
+    "Id": "G_052_DESC",
     "Text": "(Trait) An Attachment type. A Character can have only one Attachment of each type at a time."
   },
   {
-    "Id": "G_053_TERM",
+    "Id": "G_052_TERM",
     "Text": "Special"
   },
   {
-    "Id": "G_054_DESC",
+    "Id": "G_053_DESC",
     "Text": "Each of the four Spheres of Influence (Leadership, Lore, Spirit, Tactics) focuses on a particular personality aspect. Every Hero belongs to a Sphere, which dictates the cards you can include in a deck."
   },
   {
-    "Id": "G_054_TERM",
+    "Id": "G_053_TERM",
     "Text": "Sphere of Influence"
   },
   {
-    "Id": "G_055_DESC",
+    "Id": "G_054_DESC",
     "Text": "A Sphere of Influence encompassing strength of will and aspects of the supernatural."
   },
   {
-    "Id": "G_055_TERM",
+    "Id": "G_054_TERM",
     "Text": "Spirit"
   },
   {
-    "Id": "G_056_DESC",
+    "Id": "G_055_DESC",
     "Text": "(Keyword) The Character does not exhaust the first time it is attacked."
   },
   {
-    "Id": "G_056_TERM",
+    "Id": "G_055_TERM",
     "Text": "Stalwart"
   },
   {
-    "Id": "G_057_DESC",
+    "Id": "G_056_DESC",
     "Text": "(Keyword) The Character cannot be attacked unless all of your non-Stealth Characters are exhausted."
   },
   {
-    "Id": "G_057_TERM",
+    "Id": "G_056_TERM",
     "Text": "Stealth"
+  },
+  {
+    "Id": "G_057_DESC",
+    "Text": "(Keyword) The Character does not exhaust the first time it takes an action."
+  },
+  {
+    "Id": "G_057_TERM",
+    "Text": "Surge"
   },
   {
     "Id": "G_058_DESC",
@@ -4290,49 +4290,5 @@
   {
     "Id": "G_067_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "C_STANDANDFIGHT_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_TASTEITAGAIN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_STARBROOCH_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_WARDENOFANNUMINAS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SAMGAMGEE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_VICIOUSSPEED_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_WARGS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ELITEDOLGULDURORCS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GIANTMARSHWORM_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_MARSHADDER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_WANDERINGTOOK_FLAVOR",
-    "Text": ""
   }
 ]
