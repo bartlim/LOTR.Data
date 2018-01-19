@@ -25,7 +25,7 @@
             "BlockedPath"
           ],
           "NextStageId": "CapturedBySpiders",
-          "BGM": "mus_cave"
+          "BGM": "mus_theWilderlands"
         },
         {
           "Id": "CapturedBySpiders",
@@ -81,7 +81,100 @@
           "BGM": "mus_saurontheme"
         }
       ],
-      "SauronDeck": []
+      "SauronDeck": [
+		  {
+		  "CardId": "VeteranPatrol",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "DolGuldurOrcs",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "GiantSpider",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "SpidersOfMirkwood",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "EliteDolGuldurOrcs",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "WatchfulEyes",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "DrivenByShadow",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "UnderTheShadow",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "Unwavering",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "Veteran",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "ViciousSpeed",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "CreatureOfDarkness",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "Despair",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "Devoured",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "EyesOfTheForest",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "TheNecromancersReach",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "Tribulation",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "VileSpawn",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "OrcBeastmaster",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "ChieftainUfthak",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "OrcHound",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "LowOnSupplies",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "Hunted",
+		  "Amount": 2
+		}
+	  ]
     },
     {
       "Id": "FliesAndSpiders",
@@ -140,7 +233,88 @@
           "BGM": "mus_saurontheme"
         }
       ],
-      "SauronDeck": []
+      "SauronDeck": [
+		{
+		  "CardId": "BlackForestBats",
+		  "Amount": 1
+		},
+		{
+		  "CardId": "HiveGuardian",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "ForestFlies",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "ForestSpider",
+		  "Amount": 3
+		},
+		{
+		  "CardId": "MirkwoodFlock",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "KingSpider",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "SpidersOfMirkwood",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "UngoliantsBrood",
+		  "Amount": 1
+		},
+		{
+		  "CardId": "GiantSpider",
+		  "Amount": 1
+		},
+		{
+		  "CardId": "WatchfulEyes",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "ThickWebs",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "LowOnSupplies",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "AccursedForest",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "Enfeebled",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "CaughtInAWeb",
+		  "Amount": 1
+		},
+		{
+		  "CardId": "EyesOfTheForest",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "Devoured",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "HatchlingSpider",
+		  "Amount": 1
+		},
+		{
+		  "CardId": "Hunted",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "PoisonedBySpiders",
+		  "Amount": 2
+		}
+	  ]
     },
     {
       "Id": "LostInMirkwood",
@@ -236,7 +410,132 @@
           "BGM": "mus_saurontheme"
         }
       ],
-      "SauronDeck": []
+      "SauronDeck": [
+		{
+		  "CardId": "OrcMarauder",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "MirkwoodFlock",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "Wargs",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "WildBear",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "WargRiders",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "SpookedHorses",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "Tribulation",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "ThickWebs",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "UnderTheWatchfulEye",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "GoblinSniper",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "AccursedForest",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "CreatureOfDarkness",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "Devoured",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "Enfeebled",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "Exhaustion",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "TreacherousFog",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "LostInTheWilderness",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "TurnedAround",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "EliteDolGuldurOrcs",
+		  "Amount": 1
+		},
+		{
+		  "CardId": "VeteranPatrol",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "BlackForestBats",
+		  "Amount": 1
+		},
+		{
+		  "CardId": "MuckAdder",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "PackOfWargs",
+		  "Amount": 1
+		},
+		{
+		  "CardId": "ForestFlies",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "KingSpider",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "SpidersOfMirkwood",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "EastBightPatrol",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "OrcBeastmaster",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "BlockedPath",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "GrowingDarkness",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "LowOnSupplies",
+		  "Amount": 2
+		}
+	  ]
     },
     {
       "Id": "JourneyDownTheAnduin",
@@ -287,7 +586,116 @@
           "BGM": "mus_saurontheme"
         }
       ],
-      "SauronDeck": []
+      "SauronDeck": [
+		{
+		  "CardId": "Devoured",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "BlockedPath",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "EastBightPatrol",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "EliteDolGuldurOrcs",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "EvilStorm",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "GrowingDarkness",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "Hunted",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "MirkwoodFlock",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "MirkwoodPatrol",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "OrcBeastmaster",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "OrcHound",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "VeteranPatrol",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "WargRiders",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "PackOfWargs",
+		  "Amount": 1
+		},
+		{
+		  "CardId": "SpookedHorses",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "Tribulation",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "WatchfulEyes",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "GoblinSniper",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "OrcMarauder",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "Wargs",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "AnduinTrollSpawn",
+		  "Amount": 1
+		},
+		{
+		  "CardId": "DolGuldurOrcs",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "UnderTheWatchfulEye",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "TheNecromancersReach",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "PursuedByShadow",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "TreacherousFog",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "PursuitOnTheShore",
+		  "Amount": 2
+		}
+	  ]
     },
     {
       "Id": "ConflictAtTheCarrock",
@@ -339,7 +747,100 @@
           "BGM": "mus_saurontheme"
         }
       ],
-      "SauronDeck": []
+      "SauronDeck": [
+		{
+		  "CardId": "AnduinTrollSpawn",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "BlockedPath",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "BlackBlood",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "Devoured",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "GoblinSniper",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "HillTroll",
+		  "Amount": 1
+		},
+		{
+		  "CardId": "EvilStorm",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "MuckAdder",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "OrcHound",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "OrcMarauder",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "PackOfWargs",
+		  "Amount": 1
+		},
+		{
+		  "CardId": "SquashedIntoJelly",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "SpookedHorses",
+		  "Amount": 1
+		},
+		{
+		  "CardId": "Tribulation",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "Wargs",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "WildBear",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "ForestFlies",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "MirkwoodFlock",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "GrowingDarkness",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "UnderTheWatchfulEye",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "LowOnSupplies",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "Sacked",
+		  "Amount": 2
+		},
+		{
+		  "CardId": "LostInTheWilderness",
+		  "Amount": 1
+		}
+	  ]
     }
   ]
 }
