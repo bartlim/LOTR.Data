@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -2157,7 +2157,7 @@
   },
   {
     "Id": "C_ARAGORN_TITLE",
-    "Text": "‰Aragorn"
+    "Text": "‰Aragorn  "
   },
   {
     "Id": "C_ARWEN_TEXT",
@@ -4290,5 +4290,9 @@
   {
     "Id": "G_067_TERM",
     "Text": "Willpower"
+  },
+  {
+    "Id": "C_ARAGORN_FLAVOR",
+    "Text": "I am Aragorn son of Arathorn; and if by life or death I can save you, I will."
   }
 ]
