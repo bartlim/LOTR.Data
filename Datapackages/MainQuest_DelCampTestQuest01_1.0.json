@@ -3,17 +3,29 @@
     "Title": "DelCampTestQuest01",
     "SauronDeckInfo": {
       "Id": null,
-      "DeckList": []
+      "DeckList": [
+        {
+          "Id": "PoisonedBySpiders",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "BlockedPath",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        }
+      ]
     },
     "Stages": [
       {
         "Title": "Location101",
         "SoloGameSetup": [
           "FindThePath",
-          "Louis",
-          "Morris",
-          "Rupert",
-          "Stuart"
+          "MuckAdder"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -25,9 +37,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180103020115176",
+  "Version": "20180122071530230",
   "Key": "MainQuest",
   "SubKey": "DelCampTestQuest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_DelCampTestQuest01_20180103020115176"
+  "InternalKey": "MainQuest_DelCampTestQuest01_20180122071530230"
 }
