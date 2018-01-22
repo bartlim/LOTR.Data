@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -1708,6 +1708,30 @@
     "Text": "Steward of Gondor Player Frame"
   },
   {
+    "Id": "U_BATTLE_QUEST_BEGIN",
+    "Text": "YOUR QUEST BEGINS"
+  },
+  {
+    "Id": "U_BATTLE_UPKEEP_PHASE",
+    "Text": "UPKEEP PHASE"
+  },
+  {
+    "Id": "U_BATTLE_ADVENTURE_PHASE",
+    "Text": "ADVENTURE PHASE"
+  },
+  {
+    "Id": "U_BATTLE_PLANNING_PHASE",
+    "Text": "PLANNING PHASE"
+  },
+  {
+    "Id": " U_BATTLE_FINAL_ENCOUNTER",
+    "Text": "FINAL ENCOUNTER"
+  },
+  {
+    "Id": "U_BATTLE_TRAVELLING",
+    "Text": " TRAVELLING"
+  },
+  {
     "Id": "PLACEHOLDER2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
@@ -2157,7 +2181,7 @@
   },
   {
     "Id": "C_ARAGORN_TITLE",
-    "Text": "‰Aragorn  "
+    "Text": "‰Aragorn"
   },
   {
     "Id": "C_ARWEN_TEXT",
@@ -2165,7 +2189,7 @@
   },
   {
     "Id": "C_ARWEN_TITLE",
-    "Text": "‰Arwen   "
+    "Text": "‰Arwen"
   },
   {
     "Id": "C_AWATCHFULPEACE_TEXT",
@@ -2189,7 +2213,7 @@
   },
   {
     "Id": "C_BEORN_TITLE",
-    "Text": "‰Beorn  "
+    "Text": "‰Beorn"
   },
   {
     "Id": "C_BEORNSHOSPITALITY_TEXT",
@@ -2413,7 +2437,7 @@
   },
   {
     "Id": "C_EOWYN_TITLE",
-    "Text": "‰Éowyn   "
+    "Text": "‰Éowyn"
   },
   {
     "Id": "C_ERKENBRAND_TEXT",
@@ -2421,7 +2445,7 @@
   },
   {
     "Id": "C_ERKENBRAND_TITLE",
-    "Text": "‰Erkenbrand  "
+    "Text": "‰Erkenbrand"
   },
   {
     "Id": "C_ESCAPETHEFOREST_TEXT",
@@ -2493,7 +2517,7 @@
   },
   {
     "Id": "C_FARAMIR_TITLE",
-    "Text": "‰Faramir   "
+    "Text": "‰Faramir"
   },
   {
     "Id": "C_FAVOROFTHELADY_TEXT",
@@ -2613,7 +2637,7 @@
   },
   {
     "Id": "C_FRODO_TITLE",
-    "Text": "‰Frodo   "
+    "Text": "‰Frodo"
   },
   {
     "Id": "C_GAININGSTRENGTH_TEXT",
@@ -2893,7 +2917,7 @@
   },
   {
     "Id": "C_LEGOLAS_TITLE",
-    "Text": "‰Legolas   "
+    "Text": "‰Legolas"
   },
   {
     "Id": "C_LEMBAS_TEXT",
@@ -3165,7 +3189,7 @@
   },
   {
     "Id": "C_SAMGAMGEE_TITLE",
-    "Text": "‰Sam Gamgee "
+    "Text": "‰Sam Gamgee"
   },
   {
     "Id": "C_SEARCHFORAPATH_TEXT",
@@ -3558,6 +3582,62 @@
   {
     "Id": "C_ZIGILMINER_TITLE",
     "Text": "Zigil Miner"
+  },
+  {
+    "Id": "C_ARAGORN_FLAVOR",
+    "Text": "\"I am Aragorn son of Arathorn; and if by life or death I can save you, I will.\" -The Fellowship of the Ring"
+  },
+  {
+    "Id": "C_ARWEN_FLAVOR",
+    "Text": "...thought and knowledge were in her glance, as of one who has known many things that the years bring. -The Fellowship of the Ring"
+  },
+  {
+    "Id": "C_EOWYN_FLAVOR",
+    "Text": "\"But no living man am I! You look upon a woman. Éowyn I am, Éomund's daughter.\" -The Return of the King"
+  },
+  {
+    "Id": "C_FARAMIR_FLAVOR",
+    "Text": "\"The road may pass, but they shall not! Not while Faramir is Captain.\" -Mablung, The Two Towers"
+  },
+  {
+    "Id": "C_FRODO_FLAVOR",
+    "Text": "Frodo began to feel restless, and the old paths seemed too well-trodden. He looked at maps and wondered what lay beyond their edges... -The Fellowship of the Ring"
+  },
+  {
+    "Id": "C_GIMLI_FLAVOR",
+    "Text": "\"Men need many words before deeds. My axe is restless in my hands.\" -The Two Towers"
+  },
+  {
+    "Id": "C_LEGOLAS_FLAVOR",
+    "Text": "\"I can walk this path, but others have not this skill.\" -The Fellowship of the Ring"
+  },
+  {
+    "Id": "C_SAMGAMGEE_FLAVOR",
+    "Text": "\"I'm going with him... and if any of those Black Riders try to stop him, they'll have Sam Gamgee to reckon with.\" -The Fellowship of the Ring"
+  },
+  {
+    "Id": "C_BARLIMANBUTTERBUR_FLAVOR",
+    "Text": "\"But spooks or no spooks, they won't get in The Prancing Pony so easy.\" -The Fellowship of the Ring"
+  },
+  {
+    "Id": "C_BEORN_FLAVOR",
+    "Text": "\"I don't need your service, thank you... but I expect you need mine.\" -The Hobbit"
+  },
+  {
+    "Id": "C_BILLTHEPONY_FLAVOR",
+    "Text": "\"He gave me a look as plain as Mr. Pippin could speak it: if you don't let me go with you, Sam, I'll follow on my own.\" -Sam Gamgee, The Fellowship of the Ring"
+  },
+  {
+    "Id": "C_ESCORTFROMEDORAS_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_GALADHONARCHER_FLAVOR",
+    "Text": "\"...they say that you breathe so loud that they could shoot you in the dark.\" -Legolas, The Fellowship of the Ring"
+  },
+  {
+    "Id": "C_ERKENBRAND_FLAVOR",
+    "Text": "Down from the hills leaped Erkenbrand, lord of Westfold. -The Two Towers"
   },
   {
     "Id": "PLACEHOLDER4",
@@ -4290,61 +4370,5 @@
   {
     "Id": "G_067_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "C_ARAGORN_FLAVOR",
-    "Text": "\"I am Aragorn son of Arathorn; and if by life or death I can save you, I will.\" -The Fellowship of the Ring"
-  },
-  {
-    "Id": "C_ARWEN_FLAVOR",
-    "Text": "...thought and knowledge were in her glance, as of one who has known many things that the years bring. -The Fellowship of the Ring"
-  },
-  {
-    "Id": "C_EOWYN_FLAVOR",
-    "Text": "\"But no living man am I! You look upon a woman. Éowyn I am, Éomund's daughter.\" -The Return of the King"
-  },
-  {
-    "Id": "C_FARAMIR_FLAVOR",
-    "Text": "\"The road may pass, but they shall not! Not while Faramir is Captain.\" -Mablung, The Two Towers"
-  },
-  {
-    "Id": "C_FRODO_FLAVOR",
-    "Text": "Frodo began to feel restless, and the old paths seemed too well-trodden. He looked at maps and wondered what lay beyond their edges... -The Fellowship of the Ring"
-  },
-  {
-    "Id": "C_GIMLI_FLAVOR",
-    "Text": "\"Men need many words before deeds. My axe is restless in my hands.\" -The Two Towers"
-  },
-  {
-    "Id": "C_LEGOLAS_FLAVOR",
-    "Text": "\"I can walk this path, but others have not this skill.\" -The Fellowship of the Ring"
-  },
-  {
-    "Id": "C_SAMGAMGEE_FLAVOR",
-    "Text": "\"I'm going with him... and if any of those Black Riders try to stop him, they'll have Sam Gamgee to reckon with.\" -The Fellowship of the Ring"
-  },
-  {
-    "Id": "C_BARLIMANBUTTERBUR_FLAVOR",
-    "Text": "\"But spooks or no spooks, they won't get in The Prancing Pony so easy.\" -The Fellowship of the Ring"
-  },
-  {
-    "Id": "C_BEORN_FLAVOR",
-    "Text": "\"I don't need your service, thank you... but I expect you need mine.\" -The Hobbit"
-  },
-  {
-    "Id": "C_BILLTHEPONY_FLAVOR",
-    "Text": "\"He gave me a look as plain as Mr. Pippin could speak it: if you don't let me go with you, Sam, I'll follow on my own.\" -Sam Gamgee, The Fellowship of the Ring"
-  },
-  {
-    "Id": "C_ESCORTFROMEDORAS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GALADHONARCHER_FLAVOR",
-    "Text": "\"...they say that you breathe so loud that they could shoot you in the dark.\" -Legolas, The Fellowship of the Ring"
-  },
-  {
-    "Id": "C_ERKENBRAND_FLAVOR",
-    "Text": "Down from the hills leaped Erkenbrand, lord of Westfold. -The Two Towers"
   }
 ]
