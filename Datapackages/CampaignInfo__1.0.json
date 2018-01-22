@@ -366,16 +366,22 @@
               "IntroSprite": "Sprites/Locations/Quest1_Stage01",
               "SoloGameSetup": [
                 "FindThePath",
-                "Louis",
-                "Morris",
-                "Rupert",
-                "Stuart"
+                "MuckAdder"
               ],
               "NextStageId": "",
               "BGM": "mus_cave"
             }
           ],
-          "SauronDeck": []
+          "SauronDeck": [
+            {
+              "Id": "PoisonedBySpiders",
+              "Amount": 1
+            },
+            {
+              "Id": "BlockedPath",
+              "Amount": 1
+            }
+          ]
         },
         {
           "Id": "DelCampTestQuest02",
@@ -398,7 +404,44 @@
               "BGM": null
             }
           ],
-          "SauronDeck": []
+          "SauronDeck": [
+            {
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
         },
         {
           "Id": "DelCampTestQuest03",
@@ -421,7 +464,44 @@
               "BGM": null
             }
           ],
-          "SauronDeck": []
+          "SauronDeck": [
+            {
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
         },
         {
           "Id": "DelCampTestQuest04",
@@ -444,7 +524,44 @@
               "BGM": null
             }
           ],
-          "SauronDeck": []
+          "SauronDeck": [
+            {
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
         },
         {
           "Id": "DelCampTestQuest05",
@@ -467,7 +584,44 @@
               "BGM": null
             }
           ],
-          "SauronDeck": []
+          "SauronDeck": [
+            {
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ]
         }
       ]
     },
