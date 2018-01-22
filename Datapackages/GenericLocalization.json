@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -505,7 +505,15 @@
   },
   {
     "Id": "U_INGAME_SELECT_CARD_TO_REPLACE",
-    "Text": "Choose cards to replace"
+    "Text": "Select Any Cards You Wish To Change"
+  },
+  {
+    "Id": "U_INGAME_INITIAL_DRAW",
+    "Text": "INITIAL DRAW"
+  },
+  {
+    "Id": "U_INGAME_PICK_FAVOR_CARDS",
+    "Text": "Pick None, 1 or 2 Favor Cards"
   },
   {
     "Id": "U_INGAME_TELL_ME_WISH",
@@ -777,7 +785,11 @@
   },
   {
     "Id": "U_DECKMENU_ILLUSTRATOR",
-    "Text": "ILLUS."
+    "Text": "Illustration"
+  },
+  {
+    "Id": "U_DECKMENU_PURCHASE_IN_SHOP",
+    "Text": "Purchase in the Shop?"
   },
   {
     "Id": "U_QUEST_GOAL",
@@ -1105,11 +1117,11 @@
   },
   {
     "Id": "U_OPTIONS_DISPLAY",
-    "Text": "Display"
+    "Text": "DISPLAY"
   },
   {
     "Id": "U_OPTIONS_AUDIO",
-    "Text": "Audio"
+    "Text": "AUDIO"
   },
   {
     "Id": "U_OPTIONS_AUDIO_MASTER",
@@ -1730,6 +1742,14 @@
   {
     "Id": "U_BATTLE_TRAVELLING",
     "Text": " TRAVELLING"
+  },
+  {
+    "Id": "U_MAINMENU_DAILY_COMING_SOON",
+    "Text": "Daily challenge content coming soon!"
+  },
+  {
+    "Id": "U_QUEST_COOP_COMING_SOON",
+    "Text": "Co-op mode coming soon!"
   },
   {
     "Id": "PLACEHOLDER2",
@@ -4370,149 +4390,5 @@
   {
     "Id": "G_067_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "Q_CAMPAIGN_DELCAMPTEST_NAME",
-    "Text": "Q_CAMPAIGN_DELCAMPTEST_NAME"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST01_NAME",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST01_NAME"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST01_DESCRIPTION",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST01_DESCRIPTION"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST01_VICTORY_TEXT",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST01_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST01_DEFEAT_TEXT",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST01_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_NAME",
-    "Text": "Q_STAGE_LOCATION101_NAME"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_TEXT",
-    "Text": "Q_STAGE_LOCATION101_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION101_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST02_NAME",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST02_NAME"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST02_DESCRIPTION",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST02_DESCRIPTION"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST02_VICTORY_TEXT",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST02_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST02_DEFEAT_TEXT",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST02_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_NAME",
-    "Text": "Q_STAGE_LOCATION201_NAME"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_TEXT",
-    "Text": "Q_STAGE_LOCATION201_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION201_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST03_NAME",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST03_NAME"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST03_DESCRIPTION",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST03_DESCRIPTION"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST03_VICTORY_TEXT",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST03_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST03_DEFEAT_TEXT",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST03_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_NAME",
-    "Text": "Q_STAGE_LOCATION301_NAME"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_TEXT",
-    "Text": "Q_STAGE_LOCATION301_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION301_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST04_NAME",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST04_NAME"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST04_DESCRIPTION",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST04_DESCRIPTION"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST04_VICTORY_TEXT",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST04_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST04_DEFEAT_TEXT",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST04_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_NAME",
-    "Text": "Q_STAGE_LOCATION401_NAME"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_TEXT",
-    "Text": "Q_STAGE_LOCATION401_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION401_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST05_NAME",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST05_NAME"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST05_DESCRIPTION",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST05_DESCRIPTION"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST05_VICTORY_TEXT",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST05_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_DELCAMPTESTQUEST05_DEFEAT_TEXT",
-    "Text": "Q_QUEST_DELCAMPTESTQUEST05_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_NAME",
-    "Text": "Q_STAGE_LOCATION501_NAME"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_TEXT",
-    "Text": "Q_STAGE_LOCATION501_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION501_OBJECTIVE"
   }
 ]
