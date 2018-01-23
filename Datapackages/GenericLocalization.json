@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -3660,6 +3660,14 @@
     "Text": "Down from the hills leaped Erkenbrand, lord of Westfold. -The Two Towers"
   },
   {
+    "Id": "C_AGENTOFSAURON_TITLE",
+    "Text": "Agent of Sauron"
+  },
+  {
+    "Id": "C_AGENTOFSAURON_TEXT",
+    "Text": "Fleeting. Stalwart. Surge"
+  },
+  {
     "Id": "PLACEHOLDER4",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
@@ -4390,25 +4398,5 @@
   {
     "Id": "G_067_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "C_TROLLSACK_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SQUASHEDINTOJELLY_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_AGENTOFSAURON_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_AGENTOFSAURON_TITLE",
-    "Text": "Agent of Sauron"
-  },
-  {
-    "Id": "C_AGENTOFSAURON_TEXT",
-    "Text": "Fleeting. Stalwart. Surge"
   }
 ]
