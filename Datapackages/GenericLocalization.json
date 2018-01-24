@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -632,11 +632,11 @@
     "Text": "Sauron"
   },
   {
-    "Id": "U_TRAITTYPE_RMOR",
+    "Id": "U_TRAITTYPE_ARMOR",
     "Text": "Armor"
   },
   {
-    "Id": "U_TRAITTYPE_NING",
+    "Id": "U_TRAITTYPE_BEORNING",
     "Text": "Beorning"
   },
   {
@@ -644,7 +644,7 @@
     "Text": "Bree"
   },
   {
-    "Id": "U_TRAITTYPE_TURE",
+    "Id": "U_TRAITTYPE_CREATURE",
     "Text": "Creature"
   },
   {
@@ -652,35 +652,35 @@
     "Text": "Dale"
   },
   {
-    "Id": "U_TRAITTYPE_EDAN",
+    "Id": "U_TRAITTYPE_DUNEDAN",
     "Text": "Dúnedan"
   },
   {
-    "Id": "U_TRAITTYPE_WARF",
+    "Id": "U_TRAITTYPE_DWARF",
     "Text": "Dwarf"
   },
   {
-    "Id": "U_TRAITTYPE_NDOR",
+    "Id": "U_TRAITTYPE_GONDOR",
     "Text": "Gondor"
   },
   {
-    "Id": "U_TRAITTYPE_BBIT",
+    "Id": "U_TRAITTYPE_HOBBIT",
     "Text": "Hobbit"
   },
   {
-    "Id": "U_TRAITTYPE_SECT",
+    "Id": "U_TRAITTYPE_INSECT",
     "Text": "Insect"
   },
   {
-    "Id": "U_TRAITTYPE_STAR",
+    "Id": "U_TRAITTYPE_ISTAR",
     "Text": "Istar"
   },
   {
-    "Id": "U_TRAITTYPE_GEND",
+    "Id": "U_TRAITTYPE_LEGEND",
     "Text": "Legend"
   },
   {
-    "Id": "U_TRAITTYPE_LDOR",
+    "Id": "U_TRAITTYPE_NOLDOR",
     "Text": "Noldor"
   },
   {
@@ -688,40 +688,44 @@
     "Text": "Orc"
   },
   {
-    "Id": "U_TRAITTYPE_TION",
+    "Id": "U_TRAITTYPE_PREPARATION",
     "Text": "Preparation"
   },
   {
-    "Id": "U_TRAITTYPE_OHAN",
+    "Id": "U_TRAITTYPE_ROHAN",
     "Text": "Rohan"
   },
   {
-    "Id": "U_TRAITTYPE_ADOW",
+    "Id": "U_TRAITTYPE_SHADOW",
     "Text": "Shadow"
   },
   {
-    "Id": "U_TRAITTYPE_LVAN",
+    "Id": "U_TRAITTYPE_SILVAN",
     "Text": "Silvan"
   },
   {
-    "Id": "U_TRAITTYPE_CIAL",
+    "Id": "U_TRAITTYPE_SPECIAL",
     "Text": "Special"
   },
   {
-    "Id": "U_TRAITTYPE_IDER",
+    "Id": "U_TRAITTYPE_SPIDER",
     "Text": "Spider"
   },
   {
-    "Id": "U_TRAITTYPE_ROLL",
+    "Id": "U_TRAITTYPE_TROLL",
     "Text": "Troll"
   },
   {
-    "Id": "U_TRAITTYPE_APON",
+    "Id": "U_TRAITTYPE_WEAPON",
     "Text": "Weapon"
   },
   {
     "Id": "U_TRAITTYPE_WOSE",
     "Text": "Wose"
+  },
+  {
+    "Id": "U_TRAITTYPE_NAZGUL",
+    "Text": "Nazgûl"
   },
   {
     "Id": "U_DECKTYPE_PLAYER",
@@ -1752,6 +1756,10 @@
     "Text": "Co-op mode coming soon!"
   },
   {
+    "Id": " U_BATTLE_POWER",
+    "Text": "Power"
+  },
+  {
     "Id": "PLACEHOLDER2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
@@ -2201,7 +2209,7 @@
   },
   {
     "Id": "C_ARAGORN_TITLE",
-    "Text": "‰Aragorn  "
+    "Text": "‰Aragorn"
   },
   {
     "Id": "C_ARWEN_TEXT",
@@ -2657,7 +2665,7 @@
   },
   {
     "Id": "C_FRODO_TITLE",
-    "Text": "‰Frodo   "
+    "Text": "‰Frodo"
   },
   {
     "Id": "C_GAININGSTRENGTH_TEXT",
@@ -3209,7 +3217,7 @@
   },
   {
     "Id": "C_SAMGAMGEE_TITLE",
-    "Text": "‰Sam Gamgee "
+    "Text": "‰Sam Gamgee"
   },
   {
     "Id": "C_SEARCHFORAPATH_TEXT",
@@ -4398,41 +4406,5 @@
   {
     "Id": "G_067_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "C_ELITEDOLGULDURORCS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_FORESTFLIES_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_DESPAIR_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_VICIOUSSPEED_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_EASTBIGHTPATROL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_AGENTOFSAURON_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_IMLADRISCAREGIVER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_COCOON_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_WARDENOFANNUMINAS_FLAVOR",
-    "Text": ""
   }
 ]
