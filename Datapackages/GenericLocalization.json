@@ -3892,6 +3892,298 @@
     "Text": "Start your journey."
   },
   {
+    "Id": "T_LOADING_SCREEN_01B",
+    "Text": "Welcome to The Lord of the Rings: Living Card Game! This tutorial will teach you the ins and outs of the game."
+  },
+  {
+    "Id": "T_LOADING_SCREEN_01C",
+    "Text": "In this tutorial, Aragorn and Arwen are ambushed while traveling through Mirkwood Forest…."
+  },
+  {
+    "Id": "T_GAMEPLAY_01B",
+    "Text": "Greetings! I am Gandalf the Grey. I shall be your guide through this tutorial."
+  },
+  {
+    "Id": "T_GAMEPLAY_01C",
+    "Text": "In The Lord of the Rings: Living Card Game, you take Heroes on a series of Quests. Each Quest leads you through many Locations across Middle-earth. "
+  },
+  {
+    "Id": "T_GAMEPLAY_01D",
+    "Text": "This banner shows your current Location. "
+  },
+  {
+    "Id": "T_GAMEPLAY_01E",
+    "Text": "The Location contains the Main Objective that you must resolve before your journey can continue. To view the Main Objective, select the Location banner."
+  },
+  {
+    "Id": "T_GAMEPLAY_01F",
+    "Text": "You may close the Main Objective window at any time. Simply select the banner again."
+  },
+  {
+    "Id": "T_GAMEPLAY_02A",
+    "Text": "This is your player area. Here you will find everything that you need during a Quest. Let's begin with the most important part…"
+  },
+  {
+    "Id": "T_GAMEPLAY_02B",
+    "Text": "Aragorn and Arwen are Heroes. They begin the game in play. Heroes are powerful, but your journey will come to an end if they are all defeated."
+  },
+  {
+    "Id": "T_GAMEPLAY_02C",
+    "Text": "Heroes have certain abilities. The first is Attack value — the amount of damage dealt when you attack."
+  },
+  {
+    "Id": "T_GAMEPLAY_02D",
+    "Text": "Next is Willpower. When engaging an Objective, you reduce its Quest value by this amount."
+  },
+  {
+    "Id": "T_GAMEPLAY_02E",
+    "Text": "And this is Health. It indicates how much damage a Character can sustain before being defeated. "
+  },
+  {
+    "Id": "T_GAMEPLAY_02F",
+    "Text": "There is more to your Heroes than this, of course! Be patient; all shall be revealed soon."
+  },
+  {
+    "Id": "T_GAMEPLAY_02G",
+    "Text": "This is your deck. You draw cards from it to perform various actions. You may select it at any time to see how many cards you have left. Go ahead; give it a try."
+  },
+  {
+    "Id": "T_GAMEPLAY_02H",
+    "Text": "This meter shows your Resources, which you can spend to play cards and use abilities."
+  },
+  {
+    "Id": "T_GAMEPLAY_02I",
+    "Text": "These are your Preparation sockets. They indicate whether you have readied a card with the Preparation trait. We shall talk more about those shortly."
+  },
+  {
+    "Id": "T_GAMEPLAY_02J",
+    "Text": "Your hand holds the cards available for you to play. You start the game with five cards in hand, and draw one more during each Upkeep phase."
+  },
+  {
+    "Id": "T_GAMEPLAY_03A",
+    "Text": "This is Sauron's area. Much like you, he has a deck, cards, Resources, and Preparation sockets. "
+  },
+  {
+    "Id": "T_GAMEPLAY_03B",
+    "Text": "This is also where you find the Threat meter. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, your Quest fails."
+  },
+  {
+    "Id": "T_GAMEPLAY_03C",
+    "Text": "Let us not forget, Sauron has forces that oppose your Heroes. This is an Enemy. You will encounter many of them during your adventures."
+  },
+  {
+    "Id": "T_GAMEPLAY_03D",
+    "Text": "Though similar to Heroes, Enemies have only Attack and Health values."
+  },
+  {
+    "Id": "T_GAMEPLAY_04",
+    "Text": "The game is played in rounds, which have three phases: Upkeep, Planning, and Adventure."
+  },
+  {
+    "Id": "T_GAMEPLAY_05",
+    "Text": "During Upkeep, you get 3 Resources and draw 1 card. Then Sauron does the same."
+  },
+  {
+    "Id": "T_GAMEPLAY_06",
+    "Text": "Next is the Planning phase. Sauron goes first here, and plays cards to oppose you."
+  },
+  {
+    "Id": "T_GAMEPLAY_07",
+    "Text": "On your turn in the Planning phase, you play cards to boost your Characters’ abilities or prepare against Sauron."
+  },
+  {
+    "Id": "T_GAMEPLAY_07A",
+    "Text": "Your hand holds the cards available for you to play. You start the game with 5 cards, and draw 1 more during each Upkeep phase."
+  },
+  {
+    "Id": "T_GAMEPLAY_07B",
+    "Text": "To examine a card in your hand, simply select it. Select Mithrandir's Advice."
+  },
+  {
+    "Id": "T_GAMEPLAY_07C",
+    "Text": "To dismiss this view, select anywhere else on the board."
+  },
+  {
+    "Id": "T_GAMEPLAY_08A",
+    "Text": "To play a card, select and drag it to the play area. Play Mithrandir’s Advice."
+  },
+  {
+    "Id": "T_GAMEPLAY_08B",
+    "Text": "Playing a card requires spending Resources equal to the cost in its upper left corner. You get Resources at the start of each round, and by playing certain cards. "
+  },
+  {
+    "Id": "T_GAMEPLAY_08C",
+    "Text": "Play Gaining Strength to get a Resource."
+  },
+  {
+    "Id": "T_GAMEPLAY_09A",
+    "Text": "Allies help your Heroes and have similar abilities — though they are not as powerful, of course."
+  },
+  {
+    "Id": "T_GAMEPLAY_09B",
+    "Text": "To play an Ally, select and drag the card where you want the Ally to appear in your play area. Play Guard of the Citadel."
+  },
+  {
+    "Id": "T_GAMEPLAY_10",
+    "Text": "You have played all the cards you can, thus completing your Planning for now. Select the END PHASE button."
+  },
+  {
+    "Id": "T_GAMEPLAY_11A",
+    "Text": "After you finish Planning, the Adventure phase begins. You take turns with Sauron during this phase, and may attack Enemies or engage Objectives."
+  },
+  {
+    "Id": "T_GAMEPLAY_11B",
+    "Text": "In an attack, attacker and defender inflict damage on one another equal to their Attack values. Both Characters are then exhausted. A Character reduced to 0 Health is defeated."
+  },
+  {
+    "Id": "T_GAMEPLAY_12A",
+    "Text": "You go first in the Adventure phase. Select Aragorn to attack one of the East Bight Patrol."
+  },
+  {
+    "Id": "T_GAMEPLAY_12B",
+    "Text": "Since Aragorn’s 2 Attack value drops the East Bight Patrol to 0 Health, the Enemy is defeated."
+  },
+  {
+    "Id": "T_GAMEPLAY_13",
+    "Text": "Now it is Sauron's turn."
+  },
+  {
+    "Id": "T_GAMEPLAY_14A",
+    "Text": "Some cards have special Powers. Select Aragorn, then select his Power to spend 1 Resource and ready him."
+  },
+  {
+    "Id": "T_GAMEPLAY_14B",
+    "Text": "Now you may use Aragorn to finish off the remaining Enemy."
+  },
+  {
+    "Id": "T_GAMEPLAY_15A",
+    "Text": "Since you have resolved the Main Objective, you may travel to the next Location. Select the TRAVEL button to move on."
+  },
+  {
+    "Id": "T_GAMEPLAY_15B",
+    "Text": "Remember, your Threat increases when you travel. Be careful, for Sauron gains additional powers when you reach certain Threat levels."
+  },
+  {
+    "Id": "T_LOADING_SCREEN_02A",
+    "Text": "When traveling, you move to a new Location. "
+  },
+  {
+    "Id": "T_LOADING_SCREEN_02B",
+    "Text": "Aragorn and Arwen venture deeper into the forest…."
+  },
+  {
+    "Id": "T_GAMEPLAY_16A",
+    "Text": "A new round begins once we arrive at a new Location."
+  },
+  {
+    "Id": "T_GAMEPLAY_16B",
+    "Text": "Some Characters have abilities that you may use during Upkeep. In this case, Arwen may restore 1 Health to a Character. "
+  },
+  {
+    "Id": "T_GAMEPLAY_16C",
+    "Text": "Select Aragorn to use Arwen's healing ability."
+  },
+  {
+    "Id": "T_GAMEPLAY_17A",
+    "Text": "With that, the Planning phase begins, and Sauron acts. "
+  },
+  {
+    "Id": "T_GAMEPLAY_17B",
+    "Text": "In addition to Enemies, Sauron can also play Attachments and Events. These cards have a variety of effects, from impeding your progress to damaging your Characters directly."
+  },
+  {
+    "Id": "T_GAMEPLAY_17C",
+    "Text": "Sauron defeated your Ally, but it is now your turn. Play Horseback Archer to replace your fallen Ally."
+  },
+  {
+    "Id": "T_GAMEPLAY_17D",
+    "Text": "Thus ends the Planning phase. Select the END PHASE button to proceed."
+  },
+  {
+    "Id": "T_GAMEPLAY_18A",
+    "Text": "As with the previous Location, your turn begins the Adventure phase. Use Aragorn to dispatch the East Bight Patrol."
+  },
+  {
+    "Id": "T_GAMEPLAY_18C",
+    "Text": "Some cards have keywords, which grant additional abilities. "
+  },
+  {
+    "Id": "T_GAMEPLAY_18D",
+    "Text": "Horseback Archer has the Ranged keyword. This means he takes no damage when attacking an exhausted target. "
+  },
+  {
+    "Id": "T_GAMEPLAY_18E",
+    "Text": "Use Horseback Archer to finish off the Hatchling Spider."
+  },
+  {
+    "Id": "T_GAMEPLAY_19A",
+    "Text": "Quests involve more than defeating vile creatures. You will also face many Objectives. "
+  },
+  {
+    "Id": "T_GAMEPLAY_19B",
+    "Text": "Each time you engage an Objective, you apply progress equal to your Willpower until it is resolved."
+  },
+  {
+    "Id": "T_GAMEPLAY_19C",
+    "Text": "Select Aragorn, then select his Power to ready him."
+  },
+  {
+    "Id": "T_GAMEPLAY_19D",
+    "Text": "Now drag Aragorn to Search the Area. "
+  },
+  {
+    "Id": "T_GAMEPLAY_20",
+    "Text": "Your Characters are exhausted. Select the END ROUND button."
+  },
+  {
+    "Id": "T_GAMEPLAY_22",
+    "Text": "A new round has begun. Use Arwen’s ability to heal one of your Characters."
+  },
+  {
+    "Id": "T_GAMEPLAY_23",
+    "Text": "A Character with the Guard keyword must be defeated before you can target other Enemies or Objectives."
+  },
+  {
+    "Id": "T_GAMEPLAY_24A",
+    "Text": "You can use Attachments to enhance Characters. To equip an Attachment, play the card, then select a Hero or Ally. Equip Aragorn with the Warrior Sword."
+  },
+  {
+    "Id": "T_GAMEPLAY_24B",
+    "Text": "Use what you've learned to complete this Quest."
+  },
+  {
+    "Id": "T_GAMEPLAY_25_ALT_1",
+    "Text": "Now, finish off the Orcs to complete your Quest."
+  },
+  {
+    "Id": "T_GAMEPLAY_25_ALT_2",
+    "Text": "Now, finish searching the area to complete your Quest."
+  },
+  {
+    "Id": "T_GAMEPLAY_26A",
+    "Text": "At the end of each Quest, you are scored based on how well you do. Performing particularly well can bestow Valor upon you, or even other rewards like Palantír Views."
+  },
+  {
+    "Id": "T_GAMEPLAY_26B",
+    "Text": "Since this is merely a tutorial, there are no specific rewards — other than the pleasure of my company, of course! "
+  },
+  {
+    "Id": "T_GAMEPLAY_26C",
+    "Text": "Until next we meet, fare well wherever your adventures take you…"
+  },
+  {
+    "Id": "T_GAMEPLAY_27A",
+    "Text": "Congratulations! You have completed the tutorial, but that was merely the beginning. "
+  },
+  {
+    "Id": "T_GAMEPLAY_27B",
+    "Text": "Create an Asmodee.net account now to unlock Heroes, Quests, and more. "
+  },
+  {
+    "Id": "T_GAMEPLAY_27C",
+    "Text": "Here is all that you shall receive to start your own adventures in Middle-earth…"
+  },
+  {
     "Id": "PLACEHOLDER5",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
