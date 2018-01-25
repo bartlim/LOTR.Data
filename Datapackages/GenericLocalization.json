@@ -1740,12 +1740,12 @@
     "Text": "PLANNING PHASE"
   },
   {
-    "Id": " U_BATTLE_FINAL_ENCOUNTER",
+    "Id": "U_BATTLE_FINAL_ENCOUNTER",
     "Text": "FINAL ENCOUNTER"
   },
   {
     "Id": "U_BATTLE_TRAVELLING",
-    "Text": " TRAVELING"
+    "Text": "TRAVELING"
   },
   {
     "Id": "U_MAINMENU_DAILY_COMING_SOON",
@@ -1756,8 +1756,32 @@
     "Text": "Co-op mode coming soon!"
   },
   {
-    "Id": " U_BATTLE_POWER",
+    "Id": "U_BATTLE_POWER",
     "Text": "Power"
+  },
+  {
+    "Id": "U_BATTLE_THREAT_35_EASY",
+    "Text": "Sauron gains +1 Resources this round"
+  },
+  {
+    "Id": "U_BATTLE_THREAT_35_NORMAL",
+    "Text": "Sauron gains +2 Resources this round"
+  },
+  {
+    "Id": "U_BATTLE_THREAT_35_HARD",
+    "Text": "Sauron gains +3 Resources this round"
+  },
+  {
+    "Id": "U_BATTLE_THREAT_40",
+    "Text": "Each Enemy gains +1 Health and each Objective gains +1 Quest value"
+  },
+  {
+    "Id": "U_BATTLE_THREAT_45",
+    "Text": "An Agent of Sauron appears"
+  },
+  {
+    "Id": "U_MENU_COMMON_SKIP",
+    "Text": "SKIP"
   },
   {
     "Id": "PLACEHOLDER2",
@@ -2133,7 +2157,7 @@
   },
   {
     "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_DEFEAT_TEXT",
-    "Text": " Your journey has come to a tragic end."
+    "Text": "Your journey has come to a tragic end."
   },
   {
     "Id": "Q_QUEST_CONFLICTATTHECARROCK_DEFEAT_TEXT",
