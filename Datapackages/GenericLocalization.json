@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -2364,11 +2364,11 @@
     "Text": "Climb the Hill"
   },
   {
-    "Id": "C_CLOSECALL_TEXT",
+    "Id": "C_AFRIENDINNEED_TEXT",
     "Text": "Cancel damage from the next Enemy attack"
   },
   {
-    "Id": "C_CLOSECALL_TITLE",
+    "Id": "C_AFRIENDINNEED_TITLE",
     "Text": "A Friend In Need"
   },
   {
@@ -2652,12 +2652,12 @@
     "Text": "Follow the Stream"
   },
   {
-    "Id": "C_FORESTFLIES_TEXT",
-    "Text": "End of round: Add 1 Forest Flies"
+    "Id": "C_GIANTBEETLE_TEXT",
+    "Text": ""
   },
   {
-    "Id": "C_FORESTFLIES_TITLE",
-    "Text": "Forest Flies"
+    "Id": "C_GIANTBEETLE_TITLE",
+    "Text": "Giant Beetle"
   },
   {
     "Id": "C_FORESTSNARE_TEXT",
@@ -2876,11 +2876,11 @@
     "Text": "Hobbit Cloak"
   },
   {
-    "Id": "C_HORSEBACKARCHER_TEXT",
+    "Id": "C_ROHIRRIMSPEARTHROWER_TEXT",
     "Text": "Ranged"
   },
   {
-    "Id": "C_HORSEBACKARCHER_TITLE",
+    "Id": "C_ROHIRRIMSPEARTHROWER_TITLE",
     "Text": "Rohirrim Spear Thrower"
   },
   {
@@ -3017,7 +3017,7 @@
   },
   {
     "Id": "C_MABLUNG_TITLE",
-    "Text": "‰Mablung   "
+    "Text": "‰Mablung"
   },
   {
     "Id": "C_MARSHADDER_TEXT",
@@ -4722,89 +4722,5 @@
   {
     "Id": "G_067_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "C_HUMMERHORNS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GIANTBEETLE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GIANTBEETLE_TITLE",
-    "Text": "Giant Beetle"
-  },
-  {
-    "Id": "C_GIANTBEETLE_TEXT",
-    "Text": ""
-  },
-  {
-    "Id": "C_MABLUNG_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_DOLGULDURORCS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GALADRIELSHANDMAIDEN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_AGENTOFSAURON_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_UNGOLIANTSBROOD_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_HORSEBACKARCHER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_CLOSECALL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_RAIMENTOFWAR_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SELFPRESERVATION_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_VICIOUSSPEED_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_MITHRANDIRSADVICE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ROHIRRIMSPEARTHROWER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ROHIRRIMSPEARTHROWER_TITLE",
-    "Text": "Rohirrim Spear Thrower"
-  },
-  {
-    "Id": "C_ROHIRRIMSPEARTHROWER_TEXT",
-    "Text": "Ranged"
-  },
-  {
-    "Id": "C_AFRIENDINNEED_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_AFRIENDINNEED_TITLE",
-    "Text": "A Friend In Need"
-  },
-  {
-    "Id": "C_AFRIENDINNEED_TEXT",
-    "Text": "Cancel damage from the next Enemy attack"
   }
 ]
