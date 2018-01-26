@@ -2,17 +2,17 @@
   "CardData": {
     "Id": "AFriendInNeed",
     "Owner": "Player",
-    "CardType": 0,
-    "ShopType": "",
-    "Cost": 0,
+    "CardType": 4,
+    "ShopType": "Valor",
+    "Cost": 1,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "",
-    "Rarity": 0,
-    "Sphere": 0,
-    "SphereLevel": 0,
+    "Trait": "Preparation",
+    "Rarity": 1,
+    "Sphere": 3,
+    "SphereLevel": 2,
     "Revision": "test",
     "PlayVFX": "",
     "PlaySFX": "",
@@ -22,7 +22,7 @@
     "DeathSFX": "",
     "FlavorText": "",
     "ArtistName": "",
-    "Status": "None"
+    "Status": "WIP"
   },
   "Localization": {
     "Title": "A Friend In Need",
