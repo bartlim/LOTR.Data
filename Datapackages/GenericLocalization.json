@@ -2205,7 +2205,7 @@
   },
   {
     "Id": "C_EXHAUST_TEXT",
-    "Text": "Exhaust an Enemy"
+    "Text": "Exhaust an Enemy\r"
   },
   {
     "Id": "C_EXHAUST_TITLE",
@@ -4729,6 +4729,10 @@
   },
   {
     "Id": "C_SECRETPATHS_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_EXHAUST_FLAVOR",
     "Text": ""
   }
 ]
