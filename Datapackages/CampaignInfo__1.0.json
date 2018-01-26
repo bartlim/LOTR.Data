@@ -35,7 +35,7 @@
               "IntroVoice": "Q1L2_CapturedBySpiders",
               "IntroSprite": "Sprites/Locations/Quest1_Stage02",
               "SoloGameSetup": [
-                "ForestFlies",
+                "Hummerhorns",
                 "KingSpider",
                 "KingSpider"
               ],
@@ -261,10 +261,6 @@
               "Amount": 2
             },
             {
-              "Id": "ForestFlies",
-              "Amount": 2
-            },
-            {
               "Id": "ForestSpider",
               "Amount": 3
             },
@@ -278,6 +274,10 @@
             },
             {
               "Id": "HiveGuardian",
+              "Amount": 2
+            },
+            {
+              "Id": "Hummerhorns",
               "Amount": 2
             },
             {
@@ -377,7 +377,7 @@
               "IntroSprite": "Sprites/Locations/Quest3_Stage03A",
               "SoloGameSetup": [
                 "GiantMarshWorm",
-                "ForestFlies",
+                "Hummerhorns",
                 "MuckAdder"
               ],
               "NextStageId": "OvergrownTrail",
@@ -391,7 +391,7 @@
               "SoloGameSetup": [
                 "EscapeTheForest",
                 "WildBear",
-                "ForestFlies",
+                "Hummerhorns",
                 "KingSpider"
               ],
               "NextStageId": "AbandonedVillage",
@@ -450,15 +450,15 @@
               "Amount": 2
             },
             {
-              "Id": "ForestFlies",
-              "Amount": 2
-            },
-            {
               "Id": "GoblinSniper",
               "Amount": 2
             },
             {
               "Id": "GrowingDarkness",
+              "Amount": 2
+            },
+            {
+              "Id": "Hummerhorns",
               "Amount": 2
             },
             {
@@ -771,10 +771,6 @@
               "Amount": 2
             },
             {
-              "Id": "ForestFlies",
-              "Amount": 2
-            },
-            {
               "Id": "GoblinSniper",
               "Amount": 2
             },
@@ -785,6 +781,10 @@
             {
               "Id": "HillTroll",
               "Amount": 1
+            },
+            {
+              "Id": "Hummerhorns",
+              "Amount": 2
             },
             {
               "Id": "LostInTheWilderness",
