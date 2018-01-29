@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -2196,14 +2196,6 @@
     "Text": "Against the Shadow"
   },
   {
-    "Id": "C_AMBUSH_TEXT",
-    "Text": "Exhaust an Enemy"
-  },
-  {
-    "Id": "C_AMBUSH_TITLE",
-    "Text": "Exhaust"
-  },
-  {
     "Id": "C_EXHAUST_TEXT",
     "Text": "Exhaust an Enemy"
   },
@@ -2689,7 +2681,7 @@
   },
   {
     "Id": "C_FRODO_TITLE",
-    "Text": "‰Frodo   "
+    "Text": "‰Frodo"
   },
   {
     "Id": "C_GAININGSTRENGTH_TEXT",
@@ -4722,21 +4714,5 @@
   {
     "Id": "G_067_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "C_COCOON_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SECRETPATHS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_EXHAUST_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_DEVOURED_FLAVOR",
-    "Text": ""
   }
 ]
