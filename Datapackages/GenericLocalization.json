@@ -5,7 +5,7 @@
   },
   {
     "Id": "U_GAME_TITLE",
-    "Text": "The Lord of the Rings Living Card Game"
+    "Text": "The Lord of the Rings: Living Card Game"
   },
   {
     "Id": "U_MENU_COMMON_LOADING",
@@ -78,6 +78,10 @@
   {
     "Id": "U_MAINMENU_SHOP",
     "Text": "SHOP"
+  },
+  {
+    "Id": "U_MAINMENU_VAULT",
+    "Text": "VAULT"
   },
   {
     "Id": "U_MAINMENU_PLAYER_DEFAULT_NAME",
@@ -221,7 +225,7 @@
   },
   {
     "Id": "U_DECKMENU_DECKLIST_RENAME",
-    "Text": "RENAME"
+    "Text": "Name your deck"
   },
   {
     "Id": "U_DECKMENU_DECKLIST_RENAMEPOPUP",
@@ -250,6 +254,10 @@
   {
     "Id": "U_DECKMENU_CARDBACK_APPLIED",
     "Text": "Card back applied."
+  },
+  {
+    "Id": "U_DECKMENU_CARDBACK_SELECTED",
+    "Text": "Card back selected"
   },
   {
     "Id": "U_PALANTIR_SELECT_TO_GAZE",
@@ -293,11 +301,11 @@
   },
   {
     "Id": "U_SHOP_TAB_QUESTPACKS",
-    "Text": "QUEST PACKS"
+    "Text": "CAMPAIGNS"
   },
   {
     "Id": "U_SHOP_TAB_HEROPACKS",
-    "Text": "HERO PACKS"
+    "Text": "PACKS"
   },
   {
     "Id": "U_SHOP_TAB_VALOR",
@@ -325,11 +333,11 @@
   },
   {
     "Id": "U_SHOP_FILTER_ONSALE",
-    "Text": "ON SALE"
+    "Text": "On Sale"
   },
   {
     "Id": "U_SHOP_FILTER_NOWOWNED",
-    "Text": "NOT OWNED"
+    "Text": "Not Owned"
   },
   {
     "Id": "U_SHOP_FILTER_SEASON",
@@ -345,15 +353,15 @@
   },
   {
     "Id": "U_SHOP_SORTBY_PRICE",
-    "Text": "PRICE"
+    "Text": "Price"
   },
   {
     "Id": "U_SHOP_SORTBY_DATE",
-    "Text": "DATE"
+    "Text": "Date"
   },
   {
     "Id": "U_SHOP_SORTBY_ALPHABETICAL",
-    "Text": "ALPHABETICAL"
+    "Text": "A to Z"
   },
   {
     "Id": "U_SHOP_BUY_BUTTON",
@@ -365,15 +373,15 @@
   },
   {
     "Id": "U_SHOP_BUY_CONFIRM_MSG",
-    "Text": "Purchase with {X} Valor?"
+    "Text": "Purchase for {X} Valor?"
   },
   {
     "Id": "U_SHOP_BUY_CONFIRM_MSG_2",
-    "Text": "Purchase {0} with {1} VP?"
+    "Text": "Purchase {0} for {1} VP?"
   },
   {
     "Id": "U_SHOP_BUY_CONFIRM_MSG_3",
-    "Text": "Are you sure to buy {0} with {1} {2}?"
+    "Text": "Are you sure to buy {0} for {1} {2}?"
   },
   {
     "Id": "U_SHOP_CARD_CAN_GET_FROM",
@@ -1069,15 +1077,15 @@
   },
   {
     "Id": "U_DECKMENU_ADD_FAIL_NO_HERO",
-    "Text": "Add first a Hero of same Sphere to add this card."
+    "Text": "To add this card, your deck must have 1 {0} Hero."
   },
   {
     "Id": "U_DECKMENU_ADD_FAIL_NO_2HERO",
-    "Text": "Add first 2 Heroes of same Sphere to add this card."
+    "Text": "To add this card, your deck must have {0} {1} Heroes."
   },
   {
     "Id": "U_DECKMENU_ADD_FAIL_LIMIT_REACHED",
-    "Text": "You already have maximum number of this card in Deck!"
+    "Text": "Your deck is full!"
   },
   {
     "Id": "U_DECKMENU_CARD_TAB_DISABLED",
@@ -1633,7 +1641,7 @@
   },
   {
     "Id": "U_SHOP_CAMPAIGN_01_DESC",
-    "Text": "The first Campaign in The Lord of the Rings Living Card Game."
+    "Text": "The first Campaign in The Lord of the Rings: Living Card Game."
   },
   {
     "Id": "U_SHOP_CB_ANGMARAWAKENED",
@@ -1784,6 +1792,74 @@
     "Text": "SKIP"
   },
   {
+    "Id": "U_DECKMENU_ALL_COSTS",
+    "Text": "All Costs"
+  },
+  {
+    "Id": "U_DECKMENU_NEW_DECK",
+    "Text": "Create New Deck"
+  },
+  {
+    "Id": "U_DECKMENU_CARD_LIB",
+    "Text": "CARD LIBRARY"
+  },
+  {
+    "Id": "U_DECKMENU_THREE_HERO_NEEDED",
+    "Text": "Select 3 Heroes"
+  },
+  {
+    "Id": "U_QUEST_SCORE_THREAT_LEVEL",
+    "Text": "Final Threat Level"
+  },
+  {
+    "Id": "U_QUEST_SCORE_SURVIVING_HERO",
+    "Text": "Surviving Heroes"
+  },
+  {
+    "Id": "U_QUEST_SCORE_HERO_HEALTH",
+    "Text": "Remaining Hero Health"
+  },
+  {
+    "Id": "U_QUEST_SCORE_OBJECTIVE_RESOLVED",
+    "Text": "Objectives Resolved"
+  },
+  {
+    "Id": "U_QUEST_SCORE_FAVOR_CARD_BONUS",
+    "Text": "Favor Card Bonus"
+  },
+  {
+    "Id": "U_QUEST_SCORE_TOTAL",
+    "Text": "Total"
+  },
+  {
+    "Id": "U_QUEST_SCORE_REWARDS",
+    "Text": "Rewards"
+  },
+  {
+    "Id": "U_QUEST_SCORE_VICTORY",
+    "Text": "VICTORY"
+  },
+  {
+    "Id": "U_QUEST_SCORE_MSG_NEXT_QUEST_AVAILABLE",
+    "Text": "Your next Quest is available!\nPurchase it in the Shop now \nto continue your adventure"
+  },
+  {
+    "Id": "U_QUEST_SCORE_MSG_PURCHASE_LOCKED",
+    "Text": "You must complete the previous Quest\nbefore you can play this one.\nDo you want to purchase this Quest?"
+  },
+  {
+    "Id": "U_QUEST_SCORE_MSG_PLAY_LOCKED",
+    "Text": "You must complete the previous Quest\nbefore you can play this one"
+  },
+  {
+    "Id": "U_SHOP_VALOR_CARDS_ONE_ONLY",
+    "Text": "You can have no more than 2 copies of this card"
+  },
+  {
+    "Id": "U_SHOP_VALOR_GO_BUY_HERO_PACK",
+    "Text": "To unlock this card, purchase the Hero Pack: {0}"
+  },
+  {
     "Id": "PLACEHOLDER2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
@@ -1821,23 +1897,23 @@
   },
   {
     "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_DESCRIPTION",
-    "Text": "You are carrying a message from King Brand to Grimbeorn through Mirkwood Forest."
+    "Text": "The King of Dale seeks an alliance with the Beornings. You have agreed to act as envoy. To reach their lands, you must brave the dangers of Mirkwood Forest."
   },
   {
     "Id": "Q_QUEST_FLIESANDSPIDERS_DESCRIPTION",
-    "Text": "You awaken to find that giant spiders have captured your friends."
+    "Text": "Your party camps for the night deep within Mirkwood. Later, you wake from troubled sleep to discover that giant spiders have captured your friends!"
   },
   {
     "Id": "Q_QUEST_LOSTINMIRKWOOD_DESCRIPTION",
-    "Text": "After escaping giant spiders, you find yourself lost in the vastness of Mirkwood."
+    "Text": "Though free of the giant spiders' lair, your party is lost in the dark forest. You must get your bearings if you hope to escape the vastness of Mirkwood."
   },
   {
     "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_DESCRIPTION",
-    "Text": "You have found the mighty Anduin but you must still journey downriver to Grimbeorn."
+    "Text": "Even as you leave the dangers of Mirkwood Forest behind, new threats arise as you make your way down the mighty Anduin River."
   },
   {
     "Id": "Q_QUEST_CONFLICTATTHECARROCK_DESCRIPTION",
-    "Text": "You reach the Carrock only to discover that Grimbeorn has been captured by Trolls!"
+    "Text": "You have reached the land of the Beornings at last. But a new complication arises: Their leader, Grimbeorn the Old, has been captured!"
   },
   {
     "Id": "Q_QUEST_TUTORIAL_DESCRIPTION",
@@ -2021,7 +2097,7 @@
   },
   {
     "Id": "Q_STAGE_TUTORIAL_STAGE_01_TEXT",
-    "Text": "Welcome to <i>The Lord of the Rings Living Card Game</i>! <b>Aragorn</b> and <b>Arwen</b> are ambushed while traveling through Mirkwood Forest…"
+    "Text": "Welcome to <i>The Lord of the Rings: Living Card Game</i>! <b>Aragorn</b> and <b>Arwen</b> are ambushed while traveling through Mirkwood Forest…"
   },
   {
     "Id": "Q_STAGE_TUTORIAL_STAGE_02_TEXT",
@@ -3697,7 +3773,7 @@
   },
   {
     "Id": "T_TUTORIAL01",
-    "Text": "Welcome to <b>The Lord of the Rings Living Card Game</b>!"
+    "Text": "Welcome to <b>The Lord of the Rings: Living Card Game</b>!"
   },
   {
     "Id": "T_TUTORIAL02",
