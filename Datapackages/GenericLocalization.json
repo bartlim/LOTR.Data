@@ -2529,7 +2529,7 @@
   },
   {
     "Id": "C_ELRONDSCOUNSEL_TEXT",
-    "Text": "Lose 2 Threat"
+    "Text": "Reduce your Threat by 2."
   },
   {
     "Id": "C_ELRONDSCOUNSEL_TITLE",
@@ -4882,5 +4882,9 @@
   {
     "Id": "C_ELROND_FLAVOR",
     "Text": "\"But you do not stand alone.\"\r <br><i>–The Fellowship of the Ring</i>"
+  },
+  {
+    "Id": "C_ELRONDSCOUNSEL_FLAVOR",
+    "Text": "\"Believe rather that it is so ordered that we, who sit here, and none others, must now find counsel for the peril of the world.\"\r<br>–Elrond, <i>The Fellowship of the Ring</i>"
   }
 ]
