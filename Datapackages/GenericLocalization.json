@@ -2905,7 +2905,7 @@
   },
   {
     "Id": "C_HIDDENCACHE_TEXT",
-    "Text": "Gain +1 Resource"
+    "Text": "Gain 1 Resource."
   },
   {
     "Id": "C_HIDDENCACHE_TITLE",
@@ -4934,5 +4934,9 @@
   {
     "Id": "C_HASTYSTROKE_FLAVOR",
     "Text": "\"The hasty stroke goes oft astray,\" said Aragorn. \"We must press our Enemy, and no longer wait on him for the next move.\"\r\n<br><i>–The Return of the King</i>"
+  },
+  {
+    "Id": "C_HIDDENCACHE_FLAVOR",
+    "Text": "…There was a good deal of food jumbled carlessly on shelves and on the ground, among an untidy litter of plunder… <br><i>–The Hobbit</i>"
   }
 ]
