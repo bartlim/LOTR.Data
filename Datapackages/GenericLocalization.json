@@ -2969,7 +2969,7 @@
   },
   {
     "Id": "C_HUNTED_TEXT",
-    "Text": "Choose: Gain 1 Threat for each Ally; or discard an Ally"
+    "Text": "Choose: Gain 1 Threat for each Ally, or discard an Ally"
   },
   {
     "Id": "C_HUNTED_TITLE",
@@ -5349,6 +5349,10 @@
   },
   {
     "Id": "C_PURSUITONTHESHORE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_HUNTED_FLAVOR",
     "Text": ""
   }
 ]
