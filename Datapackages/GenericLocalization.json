@@ -3377,7 +3377,7 @@
   },
   {
     "Id": "C_SPIDERQUEEN_TEXT",
-    "Text": "Each Hatchling Spider gains +1 Attack and Guard. Upkeep: Add 1 Hatchling Spider at 0 cost."
+    "Text": "Each Hatchling Spider gains +1 Attack and Sentinel. Upkeep: Add 1 Hatchling Spider at 0 cost."
   },
   {
     "Id": "C_SPIDERQUEEN_TITLE",
@@ -5617,6 +5617,10 @@
   },
   {
     "Id": "C_UNWAVERING_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_SPIDERQUEEN_FLAVOR",
     "Text": ""
   }
 ]
