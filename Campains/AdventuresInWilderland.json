@@ -83,47 +83,7 @@
       ],
       "SauronDeck": [
         {
-          "Id": "VeteranPatrol",
-          "Amount": 2
-        },
-        {
-          "Id": "DolGuldurOrcs",
-          "Amount": 2
-        },
-        {
-          "Id": "GiantSpider",
-          "Amount": 2
-        },
-        {
-          "Id": "SpidersOfMirkwood",
-          "Amount": 2
-        },
-        {
-          "Id": "EliteDolGuldurOrcs",
-          "Amount": 2
-        },
-        {
-          "Id": "WatchfulEyes",
-          "Amount": 2
-        },
-        {
-          "Id": "DrivenByShadow",
-          "Amount": 2
-        },
-        {
-          "Id": "UnderTheShadow",
-          "Amount": 2
-        },
-        {
-          "Id": "Unwavering",
-          "Amount": 2
-        },
-        {
-          "Id": "Veteran",
-          "Amount": 2
-        },
-        {
-          "Id": "ViciousSpeed",
+          "Id": "ChieftainUfthak",
           "Amount": 2
         },
         {
@@ -139,7 +99,43 @@
           "Amount": 2
         },
         {
+          "Id": "DolGuldurOrcs",
+          "Amount": 2
+        },
+        {
+          "Id": "DrivenByShadow",
+          "Amount": 2
+        },
+        {
+          "Id": "EliteDolGuldurOrcs",
+          "Amount": 2
+        },
+        {
           "Id": "EyesOfTheForest",
+          "Amount": 2
+        },
+        {
+          "Id": "GiantSpider",
+          "Amount": 2
+        },
+        {
+          "Id": "Hunted",
+          "Amount": 2
+        },
+        {
+          "Id": "LowOnSupplies",
+          "Amount": 2
+        },
+        {
+          "Id": "OrcBeastmaster",
+          "Amount": 2
+        },
+        {
+          "Id": "OrcHound",
+          "Amount": 2
+        },
+        {
+          "Id": "SpidersOfMirkwood",
           "Amount": 2
         },
         {
@@ -151,27 +147,31 @@
           "Amount": 2
         },
         {
+          "Id": "UnderTheShadow",
+          "Amount": 2
+        },
+        {
+          "Id": "Unwavering",
+          "Amount": 2
+        },
+        {
+          "Id": "Veteran",
+          "Amount": 2
+        },
+        {
+          "Id": "VeteranPatrol",
+          "Amount": 2
+        },
+        {
+          "Id": "ViciousSpeed",
+          "Amount": 2
+        },
+        {
           "Id": "VileSpawn",
           "Amount": 2
         },
         {
-          "Id": "OrcBeastmaster",
-          "Amount": 2
-        },
-        {
-          "Id": "ChieftainUfthak",
-          "Amount": 2
-        },
-        {
-          "Id": "OrcHound",
-          "Amount": 2
-        },
-        {
-          "Id": "LowOnSupplies",
-          "Amount": 2
-        },
-        {
-          "Id": "Hunted",
+          "Id": "WatchfulEyes",
           "Amount": 2
         }
       ]
@@ -588,11 +588,19 @@
       ],
       "SauronDeck": [
         {
+          "Id": "AnduinTrollSpawn",
+          "Amount": 1
+        },
+        {
+          "Id": "BlockedPath",
+          "Amount": 2
+        },
+        {
           "Id": "Devoured",
           "Amount": 2
         },
         {
-          "Id": "BlockedPath",
+          "Id": "DolGuldurOrcs",
           "Amount": 2
         },
         {
@@ -605,6 +613,10 @@
         },
         {
           "Id": "EvilStorm",
+          "Amount": 2
+        },
+        {
+          "Id": "GoblinSniper",
           "Amount": 2
         },
         {
@@ -632,6 +644,42 @@
           "Amount": 2
         },
         {
+          "Id": "OrcMarauder",
+          "Amount": 2
+        },
+        {
+          "Id": "PackOfWargs",
+          "Amount": 1
+        },
+        {
+          "Id": "PursuedByShadow",
+          "Amount": 2
+        },
+        {
+          "Id": "PursuitOnTheShore",
+          "Amount": 2
+        },
+        {
+          "Id": "SpookedHorses",
+          "Amount": 2
+        },
+        {
+          "Id": "TheNecromancersReach",
+          "Amount": 2
+        },
+        {
+          "Id": "TreacherousFog",
+          "Amount": 2
+        },
+        {
+          "Id": "Tribulation",
+          "Amount": 2
+        },
+        {
+          "Id": "UnderTheWatchfulEye",
+          "Amount": 2
+        },
+        {
           "Id": "VeteranPatrol",
           "Amount": 2
         },
@@ -640,59 +688,11 @@
           "Amount": 2
         },
         {
-          "Id": "PackOfWargs",
-          "Amount": 1
-        },
-        {
-          "Id": "SpookedHorses",
-          "Amount": 2
-        },
-        {
-          "Id": "Tribulation",
-          "Amount": 2
-        },
-        {
-          "Id": "WatchfulEyes",
-          "Amount": 2
-        },
-        {
-          "Id": "GoblinSniper",
-          "Amount": 2
-        },
-        {
-          "Id": "OrcMarauder",
-          "Amount": 2
-        },
-        {
           "Id": "Wargs",
           "Amount": 2
         },
         {
-          "Id": "AnduinTrollSpawn",
-          "Amount": 1
-        },
-        {
-          "Id": "DolGuldurOrcs",
-          "Amount": 2
-        },
-        {
-          "Id": "UnderTheWatchfulEye",
-          "Amount": 2
-        },
-        {
-          "Id": "TheNecromancersReach",
-          "Amount": 2
-        },
-        {
-          "Id": "PursuedByShadow",
-          "Amount": 2
-        },
-        {
-          "Id": "TreacherousFog",
-          "Amount": 2
-        },
-        {
-          "Id": "PursuitOnTheShore",
+          "Id": "WatchfulEyes",
           "Amount": 2
         }
       ]
