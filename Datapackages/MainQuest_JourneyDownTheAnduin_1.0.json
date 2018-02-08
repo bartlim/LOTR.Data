@@ -5,6 +5,20 @@
       "Id": null,
       "DeckList": [
         {
+          "Id": "AnduinTrollSpawn",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "BlockedPath",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
           "Id": "Devoured",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -12,7 +26,7 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "BlockedPath",
+          "Id": "DolGuldurOrcs",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -34,6 +48,13 @@
         },
         {
           "Id": "EvilStorm",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "GoblinSniper",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -82,6 +103,69 @@
           "MaxDifficulty": 4
         },
         {
+          "Id": "OrcMarauder",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "PackOfWargs",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "PursuedByShadow",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "PursuitOnTheShore",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "SpookedHorses",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "TheNecromancersReach",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "TreacherousFog",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "Tribulation",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "UnderTheWatchfulEye",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
           "Id": "VeteranPatrol",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -96,48 +180,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "PackOfWargs",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "SpookedHorses",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Tribulation",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "WatchfulEyes",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "GoblinSniper",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "OrcMarauder",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "Wargs",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -145,49 +187,7 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "AnduinTrollSpawn",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "DolGuldurOrcs",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "UnderTheWatchfulEye",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "TheNecromancersReach",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "PursuedByShadow",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "TreacherousFog",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "PursuitOnTheShore",
+          "Id": "WatchfulEyes",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -240,9 +240,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180208060613303",
+  "Version": "20180208071021700",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180208060613303"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180208071021700"
 }
