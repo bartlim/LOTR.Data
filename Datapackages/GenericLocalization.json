@@ -832,6 +832,14 @@
     "Text": "Prince of Mirkwood"
   },
   {
+    "Id": "U_SHOP_PALANTIRPACK_TITLE",
+    "Text": "Palantír Pack"
+  },
+  {
+    "Id": "U_SHOP_PALANTIRPACK_DESC",
+    "Text": "Each Palantír Pack purchase includes both \n3 Palantír Views and 1 random new Valor Card"
+  },
+  {
     "Id": "U_SHOP_HEROPACK_01_DESC",
     "Text": "Samwise Gamgee is Frodo’s most faithful friend. Though he comes from humble beginnings, Sam rises to any challenge with unmatched bravery and determination.\nThe Faithful Servant pack is tailor-made for cleverness. These cards help you sneak past the watchful Eye of Sauron to claim victory through daring and stealth."
   },
@@ -1769,23 +1777,23 @@
   },
   {
     "Id": "U_BATTLE_THREAT_35_EASY",
-    "Text": "Sauron gains +1 Resources this round"
+    "Text": "Sauron gains +1 Resource!"
   },
   {
     "Id": "U_BATTLE_THREAT_35_NORMAL",
-    "Text": "Sauron gains +2 Resources this round"
+    "Text": "Sauron gains +2 Resources!"
   },
   {
     "Id": "U_BATTLE_THREAT_35_HARD",
-    "Text": "Sauron gains +3 Resources this round"
+    "Text": "Sauron gains +3 Resources!"
   },
   {
     "Id": "U_BATTLE_THREAT_40",
-    "Text": "Each Enemy gains +1 Health and each Objective gains +1 Quest value"
+    "Text": "Sauron gains treachery!"
   },
   {
     "Id": "U_BATTLE_THREAT_45",
-    "Text": "An Agent of Sauron appears"
+    "Text": "An Agent of Sauron Investigates!"
   },
   {
     "Id": "U_MENU_COMMON_SKIP",
