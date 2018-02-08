@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -276,6 +276,18 @@
     "Text": " Palantír View"
   },
   {
+    "Id": "U_PALANTIR_ONE_VIEW",
+    "Text": "1 Palantír View"
+  },
+  {
+    "Id": "U_PALANTIR_6_VIEW",
+    "Text": "6 Palantír Views"
+  },
+  {
+    "Id": "U_PALANTIR_28_VIEW",
+    "Text": "28 Palantír Views"
+  },
+  {
     "Id": "U_PALANTIR_VIEWS",
     "Text": " Palantír Views"
   },
@@ -522,6 +534,14 @@
   {
     "Id": "U_INGAME_PICK_FAVOR_CARDS",
     "Text": "Pick None, 1 or 2 Favor Cards"
+  },
+  {
+    "Id": "U_INGAME_PICK_FAVOR_CARDS_EASY",
+    "Text": "Pick None, 1 or 2 Favor Cards"
+  },
+  {
+    "Id": "U_INGAME_PICK_FAVOR_CARDS_NORMAL",
+    "Text": "Pick None or 1 Favor Card"
   },
   {
     "Id": "U_INGAME_TELL_ME_WISH",
@@ -1724,6 +1744,18 @@
     "Text": "Will Of Isengard"
   },
   {
+    "Id": "U_SHOP_CB_CLASSIC",
+    "Text": "Classic"
+  },
+  {
+    "Id": "U_SHOP_SCB_CLASSIC",
+    "Text": "Classic Sauron Card Back"
+  },
+  {
+    "Id": "U_SHOP_SCB_DEFAULT",
+    "Text": "Default Sauron Card Back"
+  },
+  {
     "Id": "U_SHOP_FAVOR_TOKEN",
     "Text": "Favor Token"
   },
@@ -1738,6 +1770,10 @@
   {
     "Id": "U_SHOP_PF_GONDOR",
     "Text": "Steward of Gondor Player Frame"
+  },
+  {
+    "Id": "U_SHOP_PF_ONERING",
+    "Text": "Classic Player Frame"
   },
   {
     "Id": "U_BATTLE_QUEST_BEGIN",
@@ -1866,6 +1902,38 @@
   {
     "Id": "U_SHOP_VALOR_GO_BUY_HERO_PACK",
     "Text": "To unlock this card, purchase the Hero Pack: {0}"
+  },
+  {
+    "Id": "U_SHOP_FOUNDERPACK_01",
+    "Text": "Steward of Gondor Founder's Pack"
+  },
+  {
+    "Id": "U_SHOP_FOUNDERPACK_02",
+    "Text": "Shire Founder's Pack"
+  },
+  {
+    "Id": "U_SHOP_FOUNDERPACK_03",
+    "Text": "Istari Founder's Pack"
+  },
+  {
+    "Id": "U_SHOP_AVATAR_ARAGORN",
+    "Text": "Aragorn Avatar"
+  },
+  {
+    "Id": "U_SHOP_AVATAR_ARWEN",
+    "Text": "Arwen Avatar"
+  },
+  {
+    "Id": "U_SHOP_AVATAR_FRODO",
+    "Text": "Frodo Avatar"
+  },
+  {
+    "Id": "U_SHOP_AVATAR_GIMLI",
+    "Text": "Gimli Avatar"
+  },
+  {
+    "Id": "U_SHOP_AVATAR_ONERING",
+    "Text": "One Ring Avatar"
   },
   {
     "Id": "PLACEHOLDER2",
@@ -2229,7 +2297,7 @@
   },
   {
     "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_DEFEAT_TEXT",
-    "Text": "Your journey has come to a tragic end. "
+    "Text": "Your journey has come to a tragic end."
   },
   {
     "Id": "Q_QUEST_FLIESANDSPIDERS_DEFEAT_TEXT",
@@ -2389,7 +2457,7 @@
   },
   {
     "Id": "C_BEORN_TITLE",
-    "Text": "‰Beorn  "
+    "Text": "‰Beorn"
   },
   {
     "Id": "C_BEORNSHOSPITALITY_TEXT",
@@ -5106,229 +5174,5 @@
   {
     "Id": "G_067_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "Q_CAMPAIGN_TEST0208_NAME",
-    "Text": "Test0208"
-  },
-  {
-    "Id": "Q_QUEST_TEST0208QUEST01_NAME",
-    "Text": "Q_QUEST_TEST0208QUEST01_NAME"
-  },
-  {
-    "Id": "Q_QUEST_TEST0208QUEST01_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TEST0208QUEST01_VICTORY_TEXT",
-    "Text": "Q_QUEST_TEST0208QUEST01_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TEST0208QUEST01_DEFEAT_TEXT",
-    "Text": "Q_QUEST_TEST0208QUEST01_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_NAME",
-    "Text": "Q_STAGE_LOCATION101_NAME"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_TEXT",
-    "Text": "Q_STAGE_LOCATION101_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION101_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_TEST0208QUEST02_NAME",
-    "Text": "Q_QUEST_TEST0208QUEST02_NAME"
-  },
-  {
-    "Id": "Q_QUEST_TEST0208QUEST02_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TEST0208QUEST02_VICTORY_TEXT",
-    "Text": "Q_QUEST_TEST0208QUEST02_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TEST0208QUEST02_DEFEAT_TEXT",
-    "Text": "Q_QUEST_TEST0208QUEST02_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_NAME",
-    "Text": "Q_STAGE_LOCATION201_NAME"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_TEXT",
-    "Text": "Q_STAGE_LOCATION201_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION201_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_TEST0208QUEST03_NAME",
-    "Text": "Q_QUEST_TEST0208QUEST03_NAME"
-  },
-  {
-    "Id": "Q_QUEST_TEST0208QUEST03_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TEST0208QUEST03_VICTORY_TEXT",
-    "Text": "Q_QUEST_TEST0208QUEST03_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TEST0208QUEST03_DEFEAT_TEXT",
-    "Text": "Q_QUEST_TEST0208QUEST03_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_NAME",
-    "Text": "Q_STAGE_LOCATION301_NAME"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_TEXT",
-    "Text": "Q_STAGE_LOCATION301_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION301_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_TEST0208QUEST04_NAME",
-    "Text": "Q_QUEST_TEST0208QUEST04_NAME"
-  },
-  {
-    "Id": "Q_QUEST_TEST0208QUEST04_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TEST0208QUEST04_VICTORY_TEXT",
-    "Text": "Q_QUEST_TEST0208QUEST04_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TEST0208QUEST04_DEFEAT_TEXT",
-    "Text": "Q_QUEST_TEST0208QUEST04_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_NAME",
-    "Text": "Q_STAGE_LOCATION401_NAME"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_TEXT",
-    "Text": "Q_STAGE_LOCATION401_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION401_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_TEST0208QUEST05_NAME",
-    "Text": "Q_QUEST_TEST0208QUEST05_NAME"
-  },
-  {
-    "Id": "Q_QUEST_TEST0208QUEST05_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TEST0208QUEST05_VICTORY_TEXT",
-    "Text": "Q_QUEST_TEST0208QUEST05_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TEST0208QUEST05_DEFEAT_TEXT",
-    "Text": "Q_QUEST_TEST0208QUEST05_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_NAME",
-    "Text": "Q_STAGE_LOCATION501_NAME"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_TEXT",
-    "Text": "Q_STAGE_LOCATION501_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION501_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST01_NAME",
-    "Text": "Q_QUEST_NSKTESTQUEST01_NAME"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST01_DESCRIPTION",
-    "Text": "Q_QUEST_NSKTESTQUEST01_DESCRIPTION"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST01_VICTORY_TEXT",
-    "Text": "Q_QUEST_NSKTESTQUEST01_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST01_DEFEAT_TEXT",
-    "Text": "Q_QUEST_NSKTESTQUEST01_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST02_NAME",
-    "Text": "Q_QUEST_NSKTESTQUEST02_NAME"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST02_DESCRIPTION",
-    "Text": "Q_QUEST_NSKTESTQUEST02_DESCRIPTION"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST02_VICTORY_TEXT",
-    "Text": "Q_QUEST_NSKTESTQUEST02_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST02_DEFEAT_TEXT",
-    "Text": "Q_QUEST_NSKTESTQUEST02_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST03_NAME",
-    "Text": "Q_QUEST_NSKTESTQUEST03_NAME"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST03_DESCRIPTION",
-    "Text": "Q_QUEST_NSKTESTQUEST03_DESCRIPTION"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST03_VICTORY_TEXT",
-    "Text": "Q_QUEST_NSKTESTQUEST03_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST03_DEFEAT_TEXT",
-    "Text": "Q_QUEST_NSKTESTQUEST03_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST04_NAME",
-    "Text": "Q_QUEST_NSKTESTQUEST04_NAME"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST04_DESCRIPTION",
-    "Text": "Q_QUEST_NSKTESTQUEST04_DESCRIPTION"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST04_VICTORY_TEXT",
-    "Text": "Q_QUEST_NSKTESTQUEST04_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST04_DEFEAT_TEXT",
-    "Text": "Q_QUEST_NSKTESTQUEST04_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST05_NAME",
-    "Text": "Q_QUEST_NSKTESTQUEST05_NAME"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST05_DESCRIPTION",
-    "Text": "Q_QUEST_NSKTESTQUEST05_DESCRIPTION"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST05_VICTORY_TEXT",
-    "Text": "Q_QUEST_NSKTESTQUEST05_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST05_DEFEAT_TEXT",
-    "Text": "Q_QUEST_NSKTESTQUEST05_DEFEAT_TEXT"
   }
 ]
