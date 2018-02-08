@@ -276,10 +276,6 @@
     "Text": " Palantír View"
   },
   {
-    "Id": "U_PALANTIR_ONE_VIEW",
-    "Text": "1 Palantír View"
-  },
-  {
     "Id": "U_PALANTIR_VIEWS",
     "Text": " Palantír Views"
   },
@@ -1872,18 +1868,6 @@
     "Text": "To unlock this card, purchase the Hero Pack: {0}"
   },
   {
-    "Id": "U_SHOP_FOUNDERPACK_01",
-    "Text": "Steward of Gondor Founder's Pack"
-  },
-  {
-    "Id": "U_SHOP_FOUNDERPACK_02",
-    "Text": "Shire Founder's Pack"
-  },
-  {
-    "Id": "U_SHOP_FOUNDERPACK_03",
-    "Text": "Istari Founder's Pack"
-  },
-  {
     "Id": "PLACEHOLDER2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
@@ -2245,7 +2229,7 @@
   },
   {
     "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_DEFEAT_TEXT",
-    "Text": "Your journey has come to a tragic end."
+    "Text": "Your journey has come to a tragic end. "
   },
   {
     "Id": "Q_QUEST_FLIESANDSPIDERS_DEFEAT_TEXT",
