@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -2244,6 +2244,10 @@
     "Text": "null"
   },
   {
+    "Id": "Q_CAMPAIGN_NSKTEST_NAME",
+    "Text": "NSKTEST"
+  },
+  {
     "Id": "PLACEHOLDER3",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
@@ -2256,12 +2260,28 @@
     "Text": "Accursed Forest"
   },
   {
+    "Id": "C_ADVANCEWARNING_FLAVOR",
+    "Text": "Suddenly he halted and listened. Had he heard a whistle or not? Or was it the call of some strange bird? \n<i>–The Two Towers</i>"
+  },
+  {
     "Id": "C_ADVANCEWARNING_TEXT",
     "Text": "Exhaust the next Enemy that Sauron plays"
   },
   {
     "Id": "C_ADVANCEWARNING_TITLE",
     "Text": "Advance Warning"
+  },
+  {
+    "Id": "C_AFRIENDINNEED_TEXT",
+    "Text": "Cancel damage from the next Enemy attack"
+  },
+  {
+    "Id": "C_AFRIENDINNEED_TITLE",
+    "Text": "A Friend In Need"
+  },
+  {
+    "Id": "C_AGAINSTTHESHADOW_FLAVOR",
+    "Text": "\"Courage will now be your best defense against the storm that is at hand…\" \n–Gandalf, <i>The Return of the King</i>"
   },
   {
     "Id": "C_AGAINSTTHESHADOW_TEXT",
@@ -2272,12 +2292,12 @@
     "Text": "Against the Shadow"
   },
   {
-    "Id": "C_EXHAUST_TEXT",
-    "Text": "Exhaust an Enemy"
+    "Id": "C_AGENTOFSAURON_TEXT",
+    "Text": "<b>Fleeting. Stalwart. Surge</b>"
   },
   {
-    "Id": "C_EXHAUST_TITLE",
-    "Text": "Sudden Riposte"
+    "Id": "C_AGENTOFSAURON_TITLE",
+    "Text": "Agent of Sauron"
   },
   {
     "Id": "C_AMBUSHONTHESHORE_TEXT",
@@ -2296,12 +2316,20 @@
     "Text": "Anduin Troll Spawn"
   },
   {
+    "Id": "C_ARAGORN_FLAVOR",
+    "Text": "\"I am Aragorn son of Arathorn; and if by life or death I can save you, I will.\" <br>–Aragorn, <i>The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_ARAGORN_TEXT",
     "Text": "<b>Power:</b> Ready Aragorn (cost 1)"
   },
   {
     "Id": "C_ARAGORN_TITLE",
     "Text": "‰Aragorn  "
+  },
+  {
+    "Id": "C_ARWEN_FLAVOR",
+    "Text": "…Thought and knowledge were in her glance, as of one who has known many things that the years bring. <br><i>–The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_ARWEN_TEXT",
@@ -2312,6 +2340,18 @@
     "Text": "‰Arwen   "
   },
   {
+    "Id": "C_ATEST181120_FLAVOR",
+    "Text": "tester"
+  },
+  {
+    "Id": "C_ATEST181120_TEXT",
+    "Text": "C_ATEST181120_TEXT"
+  },
+  {
+    "Id": "C_ATEST181120_TITLE",
+    "Text": "testing card"
+  },
+  {
     "Id": "C_AWATCHFULPEACE_TEXT",
     "Text": "Lose 3 Threat"
   },
@@ -2320,12 +2360,20 @@
     "Text": "A Watchful Peace"
   },
   {
+    "Id": "C_BARLIMANBUTTERBUR_FLAVOR",
+    "Text": "\"…spooks or no spooks, they won't get in The Prancing Pony so easy.\" <br>–Barliman Butterbur, <i>The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_BARLIMANBUTTERBUR_TEXT",
     "Text": "<b>Upkeep:</b> 50% chance to draw <br>1 card"
   },
   {
     "Id": "C_BARLIMANBUTTERBUR_TITLE",
     "Text": "‰Barliman Butterbur"
+  },
+  {
+    "Id": "C_BEORN_FLAVOR",
+    "Text": "\"I don't need your service, thank you… but I expect you need mine.\" <br>–Beorn, <i>The Hobbit</i>"
   },
   {
     "Id": "C_BEORN_TEXT",
@@ -2344,6 +2392,10 @@
     "Text": "Beorn's Hospitality"
   },
   {
+    "Id": "C_BILLTHEPONY_FLAVOR",
+    "Text": "\"He gave me a look as plain as Mr. Pippin could speak it: if you don't let me go with you, Sam, I'll follow on my own.\" <br>–Sam Gamgee, <i>The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_BILLTHEPONY_TEXT",
     "Text": "–2 cost while you control Sam Gamgee. <b>Upkeep:</b> Gain +1 Resource"
   },
@@ -2360,12 +2412,20 @@
     "Text": "Black Blood"
   },
   {
+    "Id": "C_BLACKFORESTBATS_FLAVOR",
+    "Text": "They could not stand that, nor the huge bats, black as a top-hat, either… \n<i>–The Hobbit</i>"
+  },
+  {
     "Id": "C_BLACKFORESTBATS_TEXT",
     "Text": ""
   },
   {
     "Id": "C_BLACKFORESTBATS_TITLE",
     "Text": "Black Forest Bats"
+  },
+  {
+    "Id": "C_BLADEOFGONDOLIN_FLAVOR",
+    "Text": "It was rather splendid to be wearing a blade made in Gondolin for the goblin–wars of which so many songs had sung\\r…\\n\n<i>–The Hobbit</i>"
   },
   {
     "Id": "C_BLADEOFGONDOLIN_TEXT",
@@ -2376,12 +2436,20 @@
     "Text": "Blade of Gondolin"
   },
   {
+    "Id": "C_BLOCKEDPATH_FLAVOR",
+    "Text": "\"My cuts, short or long, don't go wrong.\" \n–Strider, <i>The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_BLOCKEDPATH_TEXT",
     "Text": "You cannot apply progress to other Objectives until this is resolved"
   },
   {
     "Id": "C_BLOCKEDPATH_TITLE",
     "Text": "Blocked Path"
+  },
+  {
+    "Id": "C_BORNEALOFT_FLAVOR",
+    "Text": "\"Very well,\" said Gandalf. \"Take us where and as far as you will!\" \n<i>–The Hobbit</i>"
   },
   {
     "Id": "C_BORNEALOFT_TEXT",
@@ -2392,12 +2460,20 @@
     "Text": "Borne Aloft"
   },
   {
+    "Id": "C_BOWOFTHEGALADHRIM_FLAVOR",
+    "Text": "…longer and stronger than the bows of Mirkwood, and strung with a string of elf–hair. \n<i>–The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_BOWOFTHEGALADHRIM_TEXT",
     "Text": "Gain +1 Attack and <b>Ambush</b>"
   },
   {
     "Id": "C_BOWOFTHEGALADHRIM_TITLE",
     "Text": "Bow of the Galadhrim"
+  },
+  {
+    "Id": "C_BURSTINTOSONG_FLAVOR",
+    "Text": "And then all the host of Rohan burst into song, and they sang as they slew, for the joy of battle was on them, and the sound of their singing that was fair and terrible came even to the City.\n<i>-The Return of the King</i>"
   },
   {
     "Id": "C_BURSTINTOSONG_TEXT",
@@ -2430,14 +2506,6 @@
   {
     "Id": "C_CLIMBTHEHILL_TITLE",
     "Text": "Climb the Hill"
-  },
-  {
-    "Id": "C_AFRIENDINNEED_TEXT",
-    "Text": "Cancel damage from the next Enemy attack"
-  },
-  {
-    "Id": "C_AFRIENDINNEED_TITLE",
-    "Text": "A Friend In Need"
   },
   {
     "Id": "C_COCOON_TEXT",
@@ -2520,12 +2588,20 @@
     "Text": "Elite Dol Guldur Orcs"
   },
   {
+    "Id": "C_ELROND_FLAVOR",
+    "Text": "\"But you do not stand alone.\"\n<i>–The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_ELROND_TEXT",
     "Text": "<b>Upkeep</b>: Heal 1 damage from a character."
   },
   {
     "Id": "C_ELROND_TITLE",
     "Text": "‰Elrond"
+  },
+  {
+    "Id": "C_ELRONDSCOUNSEL_FLAVOR",
+    "Text": "\"Believe rather that it is so ordered that we, who sit here, and none others, must now find counsel for the peril of the world.\"\n–Elrond, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_ELRONDSCOUNSEL_TEXT",
@@ -2552,12 +2628,20 @@
     "Text": "Enfeebled"
   },
   {
+    "Id": "C_EOWYN_FLAVOR",
+    "Text": "\"But I am of the House of Eorl and not a serving-woman. I can ride and wield blade, and I do not fear either pain or death.\" <br>–Éowyn, <i>The Return of the King</i>"
+  },
+  {
     "Id": "C_EOWYN_TEXT",
     "Text": "Gain +2 Willpower this round after the first friendly Character is defeated"
   },
   {
     "Id": "C_EOWYN_TITLE",
     "Text": "‰Éowyn"
+  },
+  {
+    "Id": "C_ERKENBRAND_FLAVOR",
+    "Text": "Down from the hills leaped Erkenbrand, lord of Westfold. <br><i>–The Two Towers</i>"
   },
   {
     "Id": "C_ERKENBRAND_TEXT",
@@ -2576,12 +2660,20 @@
     "Text": "Escape the Forest"
   },
   {
+    "Id": "C_ESCAPETHESPIDERSLAIR_FLAVOR",
+    "Text": "Then the battle began. Some of the dwarves had knives, and some had sticks, and all of them could get stones; and Bilbo had his elvish dagger. Again and again the spiders were beaten off, and many of them were killed. But it could not go on for long. \n<i>-The Hobbit</i>"
+  },
+  {
     "Id": "C_ESCAPETHESPIDERSLAIR_TEXT",
     "Text": "You may travel from this Location"
   },
   {
     "Id": "C_ESCAPETHESPIDERSLAIR_TITLE",
     "Text": "Escape the Spiders’ Lair"
+  },
+  {
+    "Id": "C_ESCORTFROMEDORAS_FLAVOR",
+    "Text": ""
   },
   {
     "Id": "C_ESCORTFROMEDORAS_TEXT",
@@ -2592,6 +2684,10 @@
     "Text": "Escort from Edoras"
   },
   {
+    "Id": "C_EVERVIGILANT_FLAVOR",
+    "Text": "\"…no road looks toward safety any longer. Be vigilant!\"\n–Gandalf, <i>The Return of the King</i>"
+  },
+  {
     "Id": "C_EVERVIGILANT_TEXT",
     "Text": "Ready a Character"
   },
@@ -2600,12 +2696,24 @@
     "Text": "Ever Vigilant"
   },
   {
+    "Id": "C_EVILSTORM_FLAVOR",
+    "Text": "\"They say in my land he can govern the storms in the Mountains of Shadow…\" \n–Boromir, <i>The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_EVILSTORM_TEXT",
     "Text": "Discard all Event cards in each player's hand"
   },
   {
     "Id": "C_EVILSTORM_TITLE",
     "Text": "Evil Storm"
+  },
+  {
+    "Id": "C_EXHAUST_TEXT",
+    "Text": "Exhaust an Enemy"
+  },
+  {
+    "Id": "C_EXHAUST_TITLE",
+    "Text": "Sudden Riposte"
   },
   {
     "Id": "C_EXHAUSTION_TEXT",
@@ -2624,12 +2732,20 @@
     "Text": "Explore the Cave"
   },
   {
+    "Id": "C_EYESOFTHEFOREST_FLAVOR",
+    "Text": "…he would see gleams in the darkness around them, and sometimes pairs of yellow or red or green eyes would stare at him from a little distance, and then slowly fade and disappear and slowly shine out again in another place.\n<i>–The Hobbit</i>"
+  },
+  {
     "Id": "C_EYESOFTHEFOREST_TEXT",
     "Text": "Sauron gains +1 Resource for each Ally"
   },
   {
     "Id": "C_EYESOFTHEFOREST_TITLE",
     "Text": "Eyes of the Forest"
+  },
+  {
+    "Id": "C_FARAMIR_FLAVOR",
+    "Text": "\"The road may pass, but they shall not! Not while Faramir is Captain.\" <br>–Mablung, <i>The Two Towers</i>"
   },
   {
     "Id": "C_FARAMIR_TEXT",
@@ -2640,12 +2756,20 @@
     "Text": "‰Faramir   "
   },
   {
+    "Id": "C_FAVOROFTHELADY_FLAVOR",
+    "Text": "\"You are indeed high in the favor of the Lady!\"\n –Unnamed Elf of Lórien, <i>The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_FAVOROFTHELADY_TEXT",
     "Text": "Gain +1 Willpower"
   },
   {
     "Id": "C_FAVOROFTHELADY_TITLE",
     "Text": "Favor of the Lady"
+  },
+  {
+    "Id": "C_FEINT_FLAVOR",
+    "Text": "A few brave men were strung before them to make a feint of resistance, and many there fell before the rest drew back and fled to either side. \n<i>–The Hobbit</i>"
   },
   {
     "Id": "C_FEINT_TEXT",
@@ -2664,12 +2788,20 @@
     "Text": "Find Safe Passage"
   },
   {
+    "Id": "C_FINDSHELTER_FLAVOR",
+    "Text": "That, of course, is the dangerous part about caves; you don't know how far they go back. \n<i>–The Hobbit</i>"
+  },
+  {
     "Id": "C_FINDSHELTER_TEXT",
     "Text": "You may travel from this Location"
   },
   {
     "Id": "C_FINDSHELTER_TITLE",
     "Text": "Find Shelter"
+  },
+  {
+    "Id": "C_FINDTHEPATH_FLAVOR",
+    "Text": "About midday, creeping behind a great stone that stood alone like a pillar, Bilbo came on what looked like rough steps going upwards. \n<i>– The Hobbit</i>"
   },
   {
     "Id": "C_FINDTHEPATH_TEXT",
@@ -2696,6 +2828,10 @@
     "Text": "Find Your Bearings"
   },
   {
+    "Id": "C_FINDYOURFRIENDS_FLAVOR",
+    "Text": "…the cries of the others got steadily further and fainter, and though after a while it seemed to him they changed to yells and cries for help in the far distance, all noise at last died right away, and he was left alone in complete silence and darkness. \n<i>–The Hobbit</i>"
+  },
+  {
     "Id": "C_FINDYOURFRIENDS_TEXT",
     "Text": "You may travel from this Location"
   },
@@ -2712,6 +2848,10 @@
     "Text": "Follow Grimbeorn’s Trail"
   },
   {
+    "Id": "C_FOLLOWTHESTREAM_FLAVOR",
+    "Text": "It flowed fast and strong but not very wide right across the way, and it was black, or looked it in the gloom. \n<i>–The Hobbit</i>"
+  },
+  {
     "Id": "C_FOLLOWTHESTREAM_TEXT",
     "Text": "Travel immediately to <br><i>Forest Stream</i>"
   },
@@ -2720,12 +2860,16 @@
     "Text": "Follow the Stream"
   },
   {
-    "Id": "C_GIANTBEETLE_TEXT",
-    "Text": ""
+    "Id": "C_FORESTFLIES_TEXT",
+    "Text": "n/a"
   },
   {
-    "Id": "C_GIANTBEETLE_TITLE",
-    "Text": "Giant Beetle"
+    "Id": "C_FORESTFLIES_TITLE",
+    "Text": "Forest Flies"
+  },
+  {
+    "Id": "C_FORESTSNARE_FLAVOR",
+    "Text": "\"We shall have it like a coney in a trap. Then we shall learn what kind of thing it is.\"\n–Unidentified Man of Gondor,\n <i>The Two Towers</i>"
   },
   {
     "Id": "C_FORESTSNARE_TEXT",
@@ -2752,12 +2896,20 @@
     "Text": "Free to Choose"
   },
   {
+    "Id": "C_FRODO_FLAVOR",
+    "Text": "Frodo began to feel restless, and the old paths seemed too well-trodden. He looked at maps and wondered what lay beyond their edges… <br><i>–The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_FRODO_TEXT",
     "Text": "<b>Stealth.</b> Gain +2 Willpower while Sauron has 0 Resources"
   },
   {
     "Id": "C_FRODO_TITLE",
     "Text": "‰Frodo   "
+  },
+  {
+    "Id": "C_GAININGSTRENGTH_FLAVOR",
+    "Text": "\"Nay, my friends, I am the lawful master of the Stone, and I had both the right and the strength to use it...\" \n–Aragorn, <i>The Return of the King</i>"
   },
   {
     "Id": "C_GAININGSTRENGTH_TEXT",
@@ -2768,6 +2920,10 @@
     "Text": "Gaining Strength"
   },
   {
+    "Id": "C_GALADHONARCHER_FLAVOR",
+    "Text": "\"…they say that you breathe so loud that they could shoot you in the dark.\" <br>–Legolas, <i>The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_GALADHONARCHER_TEXT",
     "Text": "<b>Ranged. Arrival:</b> Deal 1 damage"
   },
@@ -2776,12 +2932,20 @@
     "Text": "Galadhon Archer"
   },
   {
+    "Id": "C_GALADRIELSHANDMAIDEN_FLAVOR",
+    "Text": "Her maidens stood silent about her, and a while she looked upon her guests.\n<i>–The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_GALADRIELSHANDMAIDEN_TEXT",
     "Text": "<b>Arrival:</b> Lose 1 Threat"
   },
   {
     "Id": "C_GALADRIELSHANDMAIDEN_TITLE",
     "Text": "Galadriel's Handmaiden"
+  },
+  {
+    "Id": "C_GANDALF_FLAVOR",
+    "Text": "\"I am a servant of the Secret Fire, wielder of the flame of Anor.\" \n–Gandalf, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_GANDALF_TEXT",
@@ -2808,12 +2972,28 @@
     "Text": "Gathering Gloom"
   },
   {
+    "Id": "C_GHANBURIGHAN_FLAVOR",
+    "Text": "\"Ghân-buri-Ghân will not lead you into trap.\" \n–Ghân-buri-Ghân, <i>The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_GHANBURIGHAN_TEXT",
     "Text": "<b>Stealth.</b> X Willpower (X equals Objectives in play)"
   },
   {
     "Id": "C_GHANBURIGHAN_TITLE",
     "Text": "‰Ghân-buri-Ghân"
+  },
+  {
+    "Id": "C_GIANTBEETLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "C_GIANTBEETLE_TITLE",
+    "Text": "Giant Beetle"
+  },
+  {
+    "Id": "C_GIANTMARSHWORM_FLAVOR",
+    "Text": "\"No birds here. There are snakeses, wormses, things in the pools. Lot of things, lots of nasty things.\"\n–Gollum, <i>The Two Towers</i>"
   },
   {
     "Id": "C_GIANTMARSHWORM_TEXT",
@@ -2832,6 +3012,10 @@
     "Text": "Giant Spider"
   },
   {
+    "Id": "C_GIMLI_FLAVOR",
+    "Text": "\"Men need many words before deeds. My axe is restless in my hands.\" <br>–Gimli, <i>The Two Towers</i>"
+  },
+  {
     "Id": "C_GIMLI_TEXT",
     "Text": "<b>Stalwart.</b> Gain +2 Attack this round after taking damage"
   },
@@ -2846,6 +3030,10 @@
   {
     "Id": "C_GOBLINSNIPER_TITLE",
     "Text": "Goblin Sniper"
+  },
+  {
+    "Id": "C_GONDORIANSHIELD_FLAVOR",
+    "Text": "There flowered a White Tree, and that was for Gondor… \n<i>–The Return of the King</i>"
   },
   {
     "Id": "C_GONDORIANSHIELD_TEXT",
@@ -2872,6 +3060,10 @@
     "Text": "Growing Darkness"
   },
   {
+    "Id": "C_GUARDOFTHECITADEL_FLAVOR",
+    "Text": "\"But the Lords of Minas Tirith still fight on, defying our enemies, keeping the passage of the River from Argonath to the Sea.\"\n–Elrond, <i>The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_GUARDOFTHECITADEL_TEXT",
     "Text": "<b>Guard</b>"
   },
@@ -2880,12 +3072,20 @@
     "Text": "Guard of the Citadel"
   },
   {
+    "Id": "C_HALFLINGDETERMINATION_FLAVOR",
+    "Text": "\"I have something to do before the end, and it lies ahead, not in the Shire. I must see it through, sir, if you understand me.\" \n–Sam Gamgee, <i>The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_HALFLINGDETERMINATION_TEXT",
     "Text": "Restore 4 Health to each Hobbit"
   },
   {
     "Id": "C_HALFLINGDETERMINATION_TITLE",
     "Text": "Halfling Determination"
+  },
+  {
+    "Id": "C_HASTYSTROKE_FLAVOR",
+    "Text": "\"The hasty stroke goes oft astray,\" said Aragorn. \"We must press our Enemy, and no longer wait on him for the next move.\"\n<i>–The Return of the King</i>"
   },
   {
     "Id": "C_HASTYSTROKE_TEXT",
@@ -2904,6 +3104,10 @@
     "Text": "Hatchling Spider"
   },
   {
+    "Id": "C_HIDDENCACHE_FLAVOR",
+    "Text": "…there was a good deal of food jumbled carlessly on shelves and on the ground, among an untidy litter of plunder… \n<i>–The Hobbit</i>"
+  },
+  {
     "Id": "C_HIDDENCACHE_TEXT",
     "Text": "Gain +1 Resource"
   },
@@ -2918,6 +3122,10 @@
   {
     "Id": "C_HIDDENPATH_TITLE",
     "Text": "Hidden Path"
+  },
+  {
+    "Id": "C_HILLTROLL_FLAVOR",
+    "Text": "\"Mutton yesterday, mutton today, and blimey, if it don't look like mutton again tomorrow.\"\n–Troll, <i>The Hobbit</i>"
   },
   {
     "Id": "C_HILLTROLL_TEXT",
@@ -2936,20 +3144,16 @@
     "Text": "Hive Guardian"
   },
   {
+    "Id": "C_HOBBITCLOAK_FLAVOR",
+    "Text": "In their dark cloaks they were invisible as if they all had magic rings. \n<i>–The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_HOBBITCLOAK_TEXT",
     "Text": "Hobbits only. <b>Upkeep:</b> Sauron loses 1 Resource"
   },
   {
     "Id": "C_HOBBITCLOAK_TITLE",
     "Text": "Hobbit Cloak"
-  },
-  {
-    "Id": "C_ROHIRRIMSPEARTHROWER_TEXT",
-    "Text": "<b>Ranged</b>"
-  },
-  {
-    "Id": "C_ROHIRRIMSPEARTHROWER_TITLE",
-    "Text": "Rohirrim Lancer"
   },
   {
     "Id": "C_HOUSESOFHEALING_TEXT",
@@ -2976,6 +3180,10 @@
     "Text": "Hunted"
   },
   {
+    "Id": "C_IMLADRISCAREGIVER_FLAVOR",
+    "Text": "\"You are in Rivendell, and you need not worry about anything for the present.\"\n–Gandalf, <i>The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_IMLADRISCAREGIVER_TEXT",
     "Text": "<b>Arrival:</b> Restore 2 Health"
   },
@@ -3000,12 +3208,20 @@
     "Text": "Ithilien Archer"
   },
   {
+    "Id": "C_ITHILIENLOOKOUT_FLAVOR",
+    "Text": "All had swords at their sides… \n<i>–The Two Towers</i>"
+  },
+  {
     "Id": "C_ITHILIENLOOKOUT_TEXT",
     "Text": ""
   },
   {
     "Id": "C_ITHILIENLOOKOUT_TITLE",
     "Text": "Ithilien Lookout"
+  },
+  {
+    "Id": "C_KINGSFOIL_FLAVOR",
+    "Text": "\"Power to defy our Enemy is not in him, unless such power is in the earth itself.\"\n–Gandalf, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_KINGSFOIL_TEXT",
@@ -3024,12 +3240,20 @@
     "Text": "King Spider"
   },
   {
+    "Id": "C_LEGACYBLADE_FLAVOR",
+    "Text": "…glad would he have been to know its fate who wrought it slowly long ago in the North-kingdom when the Dúnedain were young… \n<i>–The Return of the King</i>"
+  },
+  {
     "Id": "C_LEGACYBLADE_TEXT",
     "Text": "Gain +1 Attack for each Resource in your pool (limit +3)"
   },
   {
     "Id": "C_LEGACYBLADE_TITLE",
     "Text": "Legacy Blade"
+  },
+  {
+    "Id": "C_LEGOLAS_FLAVOR",
+    "Text": "\"I can walk this path, but others have not this skill.\" <br><i>–The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_LEGOLAS_TEXT",
@@ -3040,12 +3264,20 @@
     "Text": "‰Legolas   "
   },
   {
+    "Id": "C_LEMBAS_FLAVOR",
+    "Text": "\"…it is more strengthing than any food made by Men, and it is more pleasant than cram, by all accounts. \n–Lórien Elf, <i>The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_LEMBAS_TEXT",
     "Text": "Ready and restore 2 Health"
   },
   {
     "Id": "C_LEMBAS_TITLE",
     "Text": "Lembas"
+  },
+  {
+    "Id": "C_LORIENSWEALTH_FLAVOR",
+    "Text": "\"That is the fairest of all the dwellings of my people. There are no trees like the tress of that land.\"\n–Legolas, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_LORIENSWEALTH_TEXT",
@@ -3080,12 +3312,20 @@
     "Text": "Low on Supplies"
   },
   {
+    "Id": "C_MABLUNG_FLAVOR",
+    "Text": "But the Captains of the West were well warned by their scouts, skilled men from Henneth Annûn led by Mablung… \n<i>–The Return of the King</i>"
+  },
+  {
     "Id": "C_MABLUNG_TEXT",
     "Text": "<b>Ranged. Arrival:</b> Exhaust a non-unique Enemy"
   },
   {
     "Id": "C_MABLUNG_TITLE",
     "Text": "‰Mablung   "
+  },
+  {
+    "Id": "C_MARSHADDER_FLAVOR",
+    "Text": "Under the boughs of Mirkwood there was deadly strife of Elves and Men and fell beasts.\n<i>–The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_MARSHADDER_TEXT",
@@ -3110,6 +3350,10 @@
   {
     "Id": "C_MIRKWOODPATROL_TITLE",
     "Text": "Mirkwood Patrol"
+  },
+  {
+    "Id": "C_MITHRANDIRSADVICE_FLAVOR",
+    "Text": "\"Let none now reject the counsels of Gandalf, whose long labours against Sauron come at last to their test.\" \n–Aragorn, <i>The Return of the King</i>"
   },
   {
     "Id": "C_MITHRANDIRSADVICE_TEXT",
@@ -3176,6 +3420,10 @@
     "Text": "Pack of Wargs"
   },
   {
+    "Id": "C_PARTINGGIFTS_FLAVOR",
+    "Text": "Inside the hall there was piled a large assortment of packages and parcels and small articles of furniture. \n<i>–The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_PARTINGGIFTS_TEXT",
     "Text": "Gain +1 Resource"
   },
@@ -3216,12 +3464,20 @@
     "Text": "Quicker than Sight"
   },
   {
+    "Id": "C_QUICKSTRIKE_FLAVOR",
+    "Text": "\"…for he that strikes the first blow, if he strikes it hard enough, may need to strike no more.\" \n–Gandalf, <i>The Two Towers</i>"
+  },
+  {
     "Id": "C_QUICKSTRIKE_TEXT",
     "Text": "Gain <b>Ambush</b> on your next attack"
   },
   {
     "Id": "C_QUICKSTRIKE_TITLE",
     "Text": "Quick Strike"
+  },
+  {
+    "Id": "C_RAIMENTOFWAR_FLAVOR",
+    "Text": "Now men came bearing raiment of war from the king's hoard…\n<i>–The Two Towers</i>"
   },
   {
     "Id": "C_RAIMENTOFWAR_TEXT",
@@ -3232,12 +3488,20 @@
     "Text": "Raiment of War"
   },
   {
+    "Id": "C_RAINOFARROWS_FLAVOR",
+    "Text": "Arrows thick as the rain came whistling over the battlements, and fell clinking and glancing on the stones. Many found their mark. \n<i>–The Two Towers</i>"
+  },
+  {
     "Id": "C_RAINOFARROWS_TEXT",
     "Text": "Deal 1 damage to each Enemy"
   },
   {
     "Id": "C_RAINOFARROWS_TITLE",
     "Text": "Rain of Arrows"
+  },
+  {
+    "Id": "C_RANGERSPEAR_FLAVOR",
+    "Text": "Two had spears in their hands with broad bright heads.\n<i>–The Two Towers</i>"
   },
   {
     "Id": "C_RANGERSPEAR_TEXT",
@@ -3256,12 +3520,20 @@
     "Text": "Reinforcements"
   },
   {
+    "Id": "C_RESCUEGRIMBEORN_FLAVOR",
+    "Text": "A nice pickle they were all in now. \n<i>–The Hobbit</i>"
+  },
+  {
     "Id": "C_RESCUEGRIMBEORN_TEXT",
     "Text": "You release <i>Grimbeorn</i> and travel immediately to the Carrock"
   },
   {
     "Id": "C_RESCUEGRIMBEORN_TITLE",
     "Text": "Rescue Grimbeorn"
+  },
+  {
+    "Id": "C_RESCUETHEHORSES_FLAVOR",
+    "Text": "Then, one of the ponies took fright at nothing and bolted. \n<i>–The Hobbit</i>"
   },
   {
     "Id": "C_RESCUETHEHORSES_TEXT",
@@ -3272,12 +3544,28 @@
     "Text": "Rescue the Horses"
   },
   {
+    "Id": "C_RESCUEYOURFRIENDS_FLAVOR",
+    "Text": "Bilbo was horrified, now that he noticed them for the first time dangling in the shadows, to see a dwarvish foot sticking out from the bottoms of some of the bundles, or here and there the tip of a nose, or a bit of beard or of a hood. \n<i>–The Hobbit</i>"
+  },
+  {
     "Id": "C_RESCUEYOURFRIENDS_TEXT",
     "Text": "You release each captured Hero"
   },
   {
     "Id": "C_RESCUEYOURFRIENDS_TITLE",
     "Text": "Rescue Your Friends"
+  },
+  {
+    "Id": "C_ROHIRRIMSPEARTHROWER_FLAVOR",
+    "Text": "After him thundered the knights of his house. \n<i>–The Return of the King</i>"
+  },
+  {
+    "Id": "C_ROHIRRIMSPEARTHROWER_TEXT",
+    "Text": "<b>Ranged</b>"
+  },
+  {
+    "Id": "C_ROHIRRIMSPEARTHROWER_TITLE",
+    "Text": "Rohirrim Lancer"
   },
   {
     "Id": "C_ROUNDSHIELD_TEXT",
@@ -3304,6 +3592,10 @@
     "Text": "Sacked!"
   },
   {
+    "Id": "C_SAMGAMGEE_FLAVOR",
+    "Text": "\"I'm going with him… and if any of those Black Riders try to stop him, they'll have Sam Gamgee to reckon with.\" <br><i>–The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_SAMGAMGEE_TEXT",
     "Text": "<b>Stalwart.</b> Gain +1 Attack, <br>+1 Willpower, and <b>Surge</b> when Sauron has 0 Resources"
   },
@@ -3328,12 +3620,20 @@
     "Text": "Search the Area"
   },
   {
+    "Id": "C_SECRETPATHS_FLAVOR",
+    "Text": "…Beorn advised them to take this way; for at a place a few days' ride due north of the Carrock was the gate of a little–known pathway through Mirkwood… \n<i>–The Hobbit</i>"
+  },
+  {
     "Id": "C_SECRETPATHS_TEXT",
     "Text": "Apply 2 progress"
   },
   {
     "Id": "C_SECRETPATHS_TITLE",
     "Text": "Secret Paths"
+  },
+  {
+    "Id": "C_SELFPRESERVATION_FLAVOR",
+    "Text": "…how much more of this would they have to endure, or could they endure?\n<i>–The Two Towers</i>"
   },
   {
     "Id": "C_SELFPRESERVATION_TEXT",
@@ -3352,12 +3652,20 @@
     "Text": "Shield of Rohan"
   },
   {
+    "Id": "C_SILVANTRACKER_FLAVOR",
+    "Text": "\"The Wood–elves tracked him first, an easy task for them, for his trail was still fresh then.\" \n–Gandalf, <i>The Fellowship of the Rings</i>"
+  },
+  {
     "Id": "C_SILVANTRACKER_TEXT",
     "Text": "<b>Arrival:</b> Give a Character <b>Stealth</b> this round"
   },
   {
     "Id": "C_SILVANTRACKER_TITLE",
     "Text": "Silvan Tracker"
+  },
+  {
+    "Id": "C_SNEAKATTACK_FLAVOR",
+    "Text": "There is a seed of courage hidden (often deeply, it is true) in the heart of the fattest and most timid hobbit, waiting for some final and desperate danger to make it grow.\n<i>–The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_SNEAKATTACK_TEXT",
@@ -3392,6 +3700,10 @@
     "Text": "Spiders of Mirkwood"
   },
   {
+    "Id": "C_SPOOKEDHORSES_FLAVOR",
+    "Text": "Then, one of the ponies took fright at nothing and bolted. \n<i>–The Hobbit</i>"
+  },
+  {
     "Id": "C_SPOOKEDHORSES_TEXT",
     "Text": "Each player loses 2 Resources"
   },
@@ -3408,6 +3720,10 @@
     "Text": "Squashed into Jelly"
   },
   {
+    "Id": "C_STANDANDFIGHT_FLAVOR",
+    "Text": "\"…we will fight on.\" \n–Boromir, <i>The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_STANDANDFIGHT_TEXT",
     "Text": "Give a Character <b>Guard</b> this round"
   },
@@ -3416,12 +3732,20 @@
     "Text": "Stand and Fight"
   },
   {
+    "Id": "C_STARBROOCH_FLAVOR",
+    "Text": "…each cloak was pinned upon the left shoulder by a brooch of silver shaped like a rayed star. <i>–The Return of the King</i>"
+  },
+  {
     "Id": "C_STARBROOCH_TEXT",
     "Text": "Gain <b>Surge</b>"
   },
   {
     "Id": "C_STARBROOCH_TITLE",
     "Text": "Star Brooch"
+  },
+  {
+    "Id": "C_STERNERTHANSTEEL_FLAVOR",
+    "Text": "\"Do what you will; but I will hinder it, if I may.\"\n–Éowyn, <i>The Return of the King</i>"
   },
   {
     "Id": "C_STERNERTHANSTEEL_TEXT",
@@ -3440,12 +3764,20 @@
     "Text": "‰Stuart"
   },
   {
+    "Id": "C_TASTEITAGAIN_FLAVOR",
+    "Text": "\"We're going on; but we'll settle with you first. Come on, and taste it again!\" \n–Sam Gamgee, <i>The Two Towers</i>"
+  },
+  {
     "Id": "C_TASTEITAGAIN_TEXT",
     "Text": "Gain <b>Ambush</b> against the next attack"
   },
   {
     "Id": "C_TASTEITAGAIN_TITLE",
     "Text": "Taste it Again!"
+  },
+  {
+    "Id": "C_THENECROMANCERSREACH_FLAVOR",
+    "Text": "There was an eye in the Dark Tower that did not sleep. He knew that it had become aware of his gaze. A fierce eager will was there. \n<i>–The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_THENECROMANCERSREACH_TEXT",
@@ -3456,12 +3788,20 @@
     "Text": "The Necromancer's Reach"
   },
   {
+    "Id": "C_THETREEPEOPLE_FLAVOR",
+    "Text": "No folk could they see, nor hear any feet upon the paths; but there were many voices, about them, and in the air above. \n<i>–The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_THETREEPEOPLE_TEXT",
     "Text": "Return a Silvan Ally to your hand to play a random Silvan Ally"
   },
   {
     "Id": "C_THETREEPEOPLE_TITLE",
     "Text": "The Tree People"
+  },
+  {
+    "Id": "C_THICKWEBS_FLAVOR",
+    "Text": "\"What nasty thick skins they have to be sure, but I'll wager there is good juice inside.\" \n–Spider, <i>The Hobbit</i>"
   },
   {
     "Id": "C_THICKWEBS_TEXT",
@@ -3472,12 +3812,20 @@
     "Text": "Thick Webs"
   },
   {
+    "Id": "C_TOMBOMBADIL_FLAVOR",
+    "Text": "\"By fire, sun and moon, harken now and hear us!\n Come, Tom Bombadil, for our need is near us!\" \n–Frodo, <i>The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_TOMBOMBADIL_TEXT",
     "Text": "<b>Fleeting. Arrival:</b> Defeat a non-unique Enemy"
   },
   {
     "Id": "C_TOMBOMBADIL_TITLE",
     "Text": "‰Tom Bombadil"
+  },
+  {
+    "Id": "C_TREACHEROUSFOG_FLAVOR",
+    "Text": "\"But it will be hard to find the path unless the fog lifts a little later on.\"\n–Aragorn, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_TREACHEROUSFOG_TEXT",
@@ -3536,6 +3884,10 @@
     "Text": "Under the Watchful Eye"
   },
   {
+    "Id": "C_UNEXPECTEDCOURAGE_FLAVOR",
+    "Text": "\"Here am I, naughty little fly;\nyou are fat and lazy \nYou cannot trap me, though you try,\nin your cobwebs crazy.\"\n–Bilbo Baggins, <i>The Hobbit</i>"
+  },
+  {
     "Id": "C_UNEXPECTEDCOURAGE_TEXT",
     "Text": "Ready Character after defeating an Enemy or resolving an Objective"
   },
@@ -3576,6 +3928,10 @@
     "Text": "Veteran"
   },
   {
+    "Id": "C_VETERANAXEHAND_FLAVOR",
+    "Text": "\"I am glad to have you standing nigh with your stout legs and your hard axe.\" \n–Legolas, <i>The Two Towers</i>"
+  },
+  {
     "Id": "C_VETERANAXEHAND_TEXT",
     "Text": ""
   },
@@ -3608,12 +3964,20 @@
     "Text": "Vile Spawn"
   },
   {
+    "Id": "C_WANDERINGTOOK_FLAVOR",
+    "Text": "…but certainly there was something not entirely hobbit-like about them, and once in a while members of the Took-clan would go and have adventures. \n<i>–The Hobbit</i>"
+  },
+  {
     "Id": "C_WANDERINGTOOK_TEXT",
     "Text": "<b>Arrival:</b> Sauron loses 1 Resource"
   },
   {
     "Id": "C_WANDERINGTOOK_TITLE",
     "Text": "Wandering Took"
+  },
+  {
+    "Id": "C_WARDENOFANNUMINAS_FLAVOR",
+    "Text": "Rangers passed at times beyond the hills, but they were few and did not stay. \n<i>–The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_WARDENOFANNUMINAS_TEXT",
@@ -3664,12 +4028,20 @@
     "Text": "Watchful Scout"
   },
   {
+    "Id": "C_WATERSOFNIMRODEL_FLAVOR",
+    "Text": "For a moment Frodo stood near the brink and let the water flow over his tired feet. It was cold but its touch was clean, and as he went on and it mounted to his knees, he felt that the strain of travel and all weariness was washed from his limbs. \n<i>–The Fellowship of the Ring</i>"
+  },
+  {
     "Id": "C_WATERSOFNIMRODEL_TEXT",
     "Text": "Restore 3 Health"
   },
   {
     "Id": "C_WATERSOFNIMRODEL_TITLE",
     "Text": "Waters of Nimrodel"
+  },
+  {
+    "Id": "C_WESTFOLDOUTRIDER_FLAVOR",
+    "Text": "\"Erkenbrand of Westfold has drawn off those men he could gather towards his fastness at Helm's Deep. The rest are scattered.\" \n–Rider of Rohan, <i>The Two Towers</i>"
   },
   {
     "Id": "C_WESTFOLDOUTRIDER_TEXT",
@@ -3702,70 +4074,6 @@
   {
     "Id": "C_ZIGILMINER_TITLE",
     "Text": "Zigil Miner"
-  },
-  {
-    "Id": "C_ARAGORN_FLAVOR",
-    "Text": "\"I am Aragorn son of Arathorn; and if by life or death I can save you, I will.\" <br>–Aragorn, <i>The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_ARWEN_FLAVOR",
-    "Text": "…Thought and knowledge were in her glance, as of one who has known many things that the years bring. <br><i>–The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_EOWYN_FLAVOR",
-    "Text": "\"But I am of the House of Eorl and not a serving-woman. I can ride and wield blade, and I do not fear either pain or death.\" <br>–Éowyn, <i>The Return of the King</i>"
-  },
-  {
-    "Id": "C_FARAMIR_FLAVOR",
-    "Text": "\"The road may pass, but they shall not! Not while Faramir is Captain.\" <br>–Mablung, <i>The Two Towers</i>"
-  },
-  {
-    "Id": "C_FRODO_FLAVOR",
-    "Text": "Frodo began to feel restless, and the old paths seemed too well-trodden. He looked at maps and wondered what lay beyond their edges… <br><i>–The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_GIMLI_FLAVOR",
-    "Text": "\"Men need many words before deeds. My axe is restless in my hands.\" <br>–Gimli, <i>The Two Towers</i>"
-  },
-  {
-    "Id": "C_LEGOLAS_FLAVOR",
-    "Text": "\"I can walk this path, but others have not this skill.\" <br><i>–The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_SAMGAMGEE_FLAVOR",
-    "Text": "\"I'm going with him… and if any of those Black Riders try to stop him, they'll have Sam Gamgee to reckon with.\" <br><i>–The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_BARLIMANBUTTERBUR_FLAVOR",
-    "Text": "\"…spooks or no spooks, they won't get in The Prancing Pony so easy.\" <br>–Barliman Butterbur, <i>The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_BEORN_FLAVOR",
-    "Text": "\"I don't need your service, thank you… but I expect you need mine.\" <br>–Beorn, <i>The Hobbit</i>"
-  },
-  {
-    "Id": "C_BILLTHEPONY_FLAVOR",
-    "Text": "\"He gave me a look as plain as Mr. Pippin could speak it: if you don't let me go with you, Sam, I'll follow on my own.\" <br>–Sam Gamgee, <i>The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_ESCORTFROMEDORAS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GALADHONARCHER_FLAVOR",
-    "Text": "\"…they say that you breathe so loud that they could shoot you in the dark.\" <br>–Legolas, <i>The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_ERKENBRAND_FLAVOR",
-    "Text": "Down from the hills leaped Erkenbrand, lord of Westfold. <br><i>–The Two Towers</i>"
-  },
-  {
-    "Id": "C_AGENTOFSAURON_TITLE",
-    "Text": "Agent of Sauron"
-  },
-  {
-    "Id": "C_AGENTOFSAURON_TEXT",
-    "Text": "<b>Fleeting. Stalwart. Surge</b>"
   },
   {
     "Id": "PLACEHOLDER4",
@@ -4790,837 +5098,5 @@
   {
     "Id": "G_067_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "C_DARKSORCERY_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_DRIVENBYSHADOW_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_FORESTFLIES_TITLE",
-    "Text": "Forest Flies"
-  },
-  {
-    "Id": "C_FORESTFLIES_TEXT",
-    "Text": "n/a"
-  },
-  {
-    "Id": "C_FORESTFLIES_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_POISONEDBYSPIDERS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_PURSUEDBYSHADOW_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ROHIRRIMSPEARTHROWER_FLAVOR",
-    "Text": "After him thundered the knights of his house. <br><i>–The Return of the King</i>"
-  },
-  {
-    "Id": "C_HATCHLINGSPIDER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ATEST181120_TITLE",
-    "Text": "testing card"
-  },
-  {
-    "Id": "C_ATEST181120_TEXT",
-    "Text": "C_ATEST181120_TEXT"
-  },
-  {
-    "Id": "C_ATEST181120_FLAVOR",
-    "Text": "tester"
-  },
-  {
-    "Id": "C_ELITEDOLGULDURORCS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_BLACKFORESTBATS_FLAVOR",
-    "Text": "They could not stand that, nor the huge bats, black as a top-hat, either… <br><i>–The Hobbit</i>"
-  },
-  {
-    "Id": "C_GHANBURIGHAN_FLAVOR",
-    "Text": "\"Ghân-buri-Ghân will not lead you into trap.\" <br>–Ghân-buri-Ghân, <i>The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_ADVANCEWARNING_FLAVOR",
-    "Text": "Suddenly he halted and listened. Had he heard a whistle or not? Or was it the call of some strange bird? <br><i>–The Two Towers</i>"
-  },
-  {
-    "Id": "C_AGAINSTTHESHADOW_FLAVOR",
-    "Text": "\"Courage will now be your best defense against the storm that is at hand…\" <br>–Gandalf, <i>The Return of the King</i>"
-  },
-  {
-    "Id": "C_AWATCHFULPEACE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_BLADEOFGONDOLIN_FLAVOR",
-    "Text": "It was rather splendid to be wearing a blade made in Gondolin for the goblin–wars of which so many songs had sung\r…\n<br><i>–The Hobbit</i>"
-  },
-  {
-    "Id": "C_BORNEALOFT_FLAVOR",
-    "Text": "\"Very well,\" said Gandalf. \"Take us where and as far as you will!\" <br><i>–The Hobbit</i>"
-  },
-  {
-    "Id": "C_BOWOFTHEGALADHRIM_FLAVOR",
-    "Text": "…longer and stronger than the bows of Mirkwood, and strung with a string of elf–hair. <br><i>–The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_BURSTINTOSONG_FLAVOR",
-    "Text": "And then all the host of Rohan burst into song, and they sang as they slew, for the joy of battle was on them, and the sound of their singing that was fair and terrible came even to the City.\r<br><i>-The Return of the King</i>"
-  },
-  {
-    "Id": "C_ELROND_FLAVOR",
-    "Text": "\"But you do not stand alone.\"\r <br><i>–The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_ELRONDSCOUNSEL_FLAVOR",
-    "Text": "\"Believe rather that it is so ordered that we, who sit here, and none others, must now find counsel for the peril of the world.\"\r<br>–Elrond, <i>The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_EVERVIGILANT_FLAVOR",
-    "Text": "\"…no road looks toward safety any longer. Be vigilant!\"\r <br>–Gandalf, <i>The Return of the King</i>"
-  },
-  {
-    "Id": "C_FEINT_FLAVOR",
-    "Text": "A few brave men were strung before them to make a feint of resistance, and many there fell before the rest drew back and fled to either side. <br><i>–The Hobbit</i>"
-  },
-  {
-    "Id": "C_FORESTSNARE_FLAVOR",
-    "Text": "\"We shall have it like a coney in a trap. Then we shall learn what kind of thing it is.\"\r <br>–Unidentified Man of Gondor,\r <i>The Two Towers</i>"
-  },
-  {
-    "Id": "C_GAININGSTRENGTH_FLAVOR",
-    "Text": "\"Nay, my friends, I am the lawful master of the Stone, and I had both the right and the strength to use it...\" <br>–Aragorn, <i>The Return of the King</i>"
-  },
-  {
-    "Id": "C_GALADRIELSHANDMAIDEN_FLAVOR",
-    "Text": "Her maidens stood silent about her, and a while she looked upon her guests.<br><i>–The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_GANDALF_FLAVOR",
-    "Text": "\"I am a servant of the Secret Fire, wielder of the flame of Anor.\" <br>–Gandalf, <i>The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_GONDORIANSHIELD_FLAVOR",
-    "Text": "There flowered a White Tree, and that was for Gondor… <br><i>–The Return of the King</i>"
-  },
-  {
-    "Id": "C_GRIMBEORN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ELVENSCOUT_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GUARDOFTHECITADEL_FLAVOR",
-    "Text": "\"But the Lords of Minas Tirith still fight on, defying our enemies, keeping the passage of the River from Argonath to the Sea.\"\r <br>–Elrond, <i>The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_HALFLINGDETERMINATION_FLAVOR",
-    "Text": "\"I have something to do before the end, and it lies ahead, not in the Shire. I must see it through, sir, if you understand me.\" <br>–Sam Gamgee, <i>The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_HASTYSTROKE_FLAVOR",
-    "Text": "\"The hasty stroke goes oft astray,\" said Aragorn. \"We must press our Enemy, and no longer wait on him for the next move.\"\r\n<br><i>–The Return of the King</i>"
-  },
-  {
-    "Id": "C_HIDDENCACHE_FLAVOR",
-    "Text": "…there was a good deal of food jumbled carlessly on shelves and on the ground, among an untidy litter of plunder… <br><i>–The Hobbit</i>"
-  },
-  {
-    "Id": "C_HOBBITCLOAK_FLAVOR",
-    "Text": "In their dark cloaks they were invisible as if they all had magic rings. <br><i>–The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_IMLADRISCAREGIVER_FLAVOR",
-    "Text": "\"You are in Rivendell, and you need not worry about anything for the present.\"\r <br>–Gandalf, <i>The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_ITHILIENARCHER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ITHILIENLOOKOUT_FLAVOR",
-    "Text": "All had swords at their sides… <br><i>–The Two Towers</i>"
-  },
-  {
-    "Id": "C_LEGACYBLADE_FLAVOR",
-    "Text": "…glad would he have been to know its fate who wrought it slowly long ago in the North-kingdom when the Dúnedain were young… \n<br><i>–The Return of the King</i>"
-  },
-  {
-    "Id": "C_LEMBAS_FLAVOR",
-    "Text": "\"…it is more strengthing than any food made by Men, and it is more pleasant than cram, by all accounts. <br>–Lórien Elf, <i>The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_LORIENSWEALTH_FLAVOR",
-    "Text": "\"That is the fairest of all the dwellings of my people. There are no trees like the tress of that land.\"\r <br>–Legolas, <i>The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_MABLUNG_FLAVOR",
-    "Text": "But the Captains of the West were well warned by their scouts, skilled men from Henneth Annûn led by Mablung… <br><i>–The Return of the King</i>"
-  },
-  {
-    "Id": "C_MITHRANDIRSADVICE_FLAVOR",
-    "Text": "\"Let none now reject the counsels of Gandalf, whose long labours against Sauron come at last to their test.\" <br>–Aragorn, <i>The Return of the King</i>"
-  },
-  {
-    "Id": "C_PARTINGGIFTS_FLAVOR",
-    "Text": "Inside the hall there was piled a large assortment of packages and parcels and small articles of furniture. <i>–The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_QUICKSTRIKE_FLAVOR",
-    "Text": "\"…for he that strikes the first blow, if he strikes it hard enough, may need to strike no more.\" <br>–Gandalf, <i>The Two Towers</i>"
-  },
-  {
-    "Id": "C_RAIMENTOFWAR_FLAVOR",
-    "Text": "Now men came bearing raiment of war from the king's hoard…\n<br><i>–The Two Towers</i>"
-  },
-  {
-    "Id": "C_RAINOFARROWS_FLAVOR",
-    "Text": "Arrows thick as the rain came whistling over the battlements, and fell clinking and glancing on the stones. Many found their mark. <br><i>–The Two Towers</i>"
-  },
-  {
-    "Id": "C_RANGERSPEAR_FLAVOR",
-    "Text": "Two had spears in their hands with broad bright heads.\r\n<br><i>–The Two Towers</i>"
-  },
-  {
-    "Id": "C_REINFORCEMENTS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ROUNDSHIELD_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SECRETPATHS_FLAVOR",
-    "Text": "…Beorn advised them to take this way; for at a place a few days' ride due north of the Carrock was the gate of a little–known pathway through Mirkwood… <br><i>–The Hobbit</i>"
-  },
-  {
-    "Id": "C_SELFPRESERVATION_FLAVOR",
-    "Text": "…how much more of this would they have to endure, or could they endure?\r <br><i>–The Two Towers</i>"
-  },
-  {
-    "Id": "C_SILVANTRACKER_FLAVOR",
-    "Text": "\"The Wood–elves tracked him first, an easy task for them, for his trail was still fresh then.\" <br>–Gandalf, <i>The Fellowship of the Rings</i>"
-  },
-  {
-    "Id": "C_SNEAKATTACK_FLAVOR",
-    "Text": "There is a seed of courage hidden (often deeply, it is true) in the heart of the fattest and most timid hobbit, waiting for some final and desperate danger to make it grow.\r <br><i>–The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_STANDANDFIGHT_FLAVOR",
-    "Text": "\"…we will fight on.\" <br>–Boromir, <i>The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_STARBROOCH_FLAVOR",
-    "Text": "…each cloak was pinned upon the left shoulder by a brooch of silver shaped like a rayed star. <br><i>–The Return of the King</i>"
-  },
-  {
-    "Id": "C_STERNERTHANSTEEL_FLAVOR",
-    "Text": "\"Do what you will; but I will hinder it, if I may.\"\r\n<br>–Éowyn, <i>The Return of the King</i>"
-  },
-  {
-    "Id": "C_TASTEITAGAIN_FLAVOR",
-    "Text": "\"We're going on; but we'll settle with you first. Come on, and taste it again!\" <br>–Sam Gamgee, <i>The Two Towers</i>"
-  },
-  {
-    "Id": "C_FAVOROFTHELADY_FLAVOR",
-    "Text": "\"You are indeed high in the favor of the Lady!\"\r <br>–Unnamed Elf of Lórien,\r <i>The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_HOUSESOFHEALING_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_THETREEPEOPLE_FLAVOR",
-    "Text": "No folk could they see, nor hear any feet upon the paths; but there were many voices, about them, and in the air above. <br><i>–The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_TROLLSHAWSCOUT_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_UNEXPECTEDCOURAGE_FLAVOR",
-    "Text": "\"Here am I, naughty little fly;\r you are fat and lazy \rYou cannot trap me, though you try,\r in your cobwebs crazy.\"\r\n<br>–Bilbo Baggins, <i>The Hobbit</i>"
-  },
-  {
-    "Id": "C_VETERANAXEHAND_FLAVOR",
-    "Text": "\"I am glad to have you standing nigh with your stout legs and your hard axe.\" <br>–Legolas, <i>The Two Towers</i>"
-  },
-  {
-    "Id": "C_WANDERINGTOOK_FLAVOR",
-    "Text": "…but certainly there was something not entirely hobbit-like about them, and once in a while members of the Took-clan would go and have adventures. <br><i>–The Hobbit</i>"
-  },
-  {
-    "Id": "C_WARDENOFANNUMINAS_FLAVOR",
-    "Text": "Rangers passed at times beyond the hills, but they were few and did not stay. <br><i>–The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_WATERSOFNIMRODEL_FLAVOR",
-    "Text": "For a moment Frodo stood near the brink and let the water flow over his tired feet. It was cold but its touch was clean, and as he went on and it mounted to his knees, he felt that the strain of travel and all weariness was washed from his limbs. <br><i>–The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_WESTFOLDOUTRIDER_FLAVOR",
-    "Text": "\"Erkenbrand of Westfold has drawn off those men he could gather towards his fastness at Helm's Deep. The rest are scattered.\" <br>–Rider of Rohan, <i>The Two Towers</i>"
-  },
-  {
-    "Id": "C_WOODLANDCOURIER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ZIGILMINER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SHIELDOFROHAN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_TOMBOMBADIL_FLAVOR",
-    "Text": "\"By fire, sun and moon, harken now and hear us!\r Come, Tom Bombadil, for our need is near us!\r\" <br>–Frodo, <i>The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_RESCUETHEHORSES_FLAVOR",
-    "Text": "Then, one of the ponies took fright at nothing and bolted. <br><i>–The Hobbit</i>"
-  },
-  {
-    "Id": "C_SPOOKEDHORSES_FLAVOR",
-    "Text": "Then, one of the ponies took fright at nothing and bolted. <br><i>–The Hobbit</i>"
-  },
-  {
-    "Id": "C_AFRIENDINNEED_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ANDUINTROLLSPAWN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_CHIEFTAINUFTHAK_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_DOLGULDURORCS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_AGENTOFSAURON_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_HUMMERHORNS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_FORESTSPIDER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GIANTBEETLE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GIANTSPIDER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GOBLINSNIPER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_HILLTROLL_FLAVOR",
-    "Text": "\"Mutton yesterday, mutton today, and blimey, if it don't look like mutton again tomorrow.\"\r <br>–Troll, <i>The Hobbit</i>"
-  },
-  {
-    "Id": "C_HIVEGUARDIAN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_KINGSPIDER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_LOUIS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_MIRKWOODFLOCK_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_MIRKWOODPATROL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_MORRIS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_MUCKADDER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ORCBEASTMASTER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ORCHOUND_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_PACKOFWARGS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_RUPERT_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SPIDERGUARD_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SPIDERSOFMIRKWOOD_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_STUART_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_UNGOLIANTSBROOD_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_VETERANPATROL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_WARGRIDERS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_WARGS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_WILDBEAR_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GIANTMARSHWORM_FLAVOR",
-    "Text": "\"No birds here. There are snakeses, wormses, things in the pools. Lot of things, lots of nasty things.\"\r <br>–Gollum, <i>The Two Towers</i>"
-  },
-  {
-    "Id": "C_MARSHADDER_FLAVOR",
-    "Text": "Under the boughs of Mirkwood there was deadly strife of Elves and Men and fell beasts.\r <br><i>–The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_UNGOLIANTSSPAWN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_VETERAN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_AMBUSHONTHESHORE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_CAUGHTINAWEB_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_NAVIGATETHERIVER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_RESCUEYOURFRIENDS_FLAVOR",
-    "Text": "Bilbo was horrified, now that he noticed them for the first time dangling in the shadows, to see a dwarvish foot sticking out from the bottoms of some of the bundles, or here and there the tip of a nose, or a bit of beard or of a hood. <br><i>–The Hobbit</i>"
-  },
-  {
-    "Id": "C_ESCAPETHESPIDERSLAIR_FLAVOR",
-    "Text": "Then the battle began. Some of the dwarves had knives, and some had sticks, and all of them could get stones; and Bilbo had his elvish dagger. Again and again the spiders were beaten off, and many of them were killed. But it could not go on for long. <br><i>-The Hobbit</i>"
-  },
-  {
-    "Id": "C_RESCUEGRIMBEORN_FLAVOR",
-    "Text": "A nice pickle they were all in now. <br><i>–The Hobbit</i>"
-  },
-  {
-    "Id": "C_FINDYOURFRIENDS_FLAVOR",
-    "Text": "…the cries of the others got steadily further and fainter, and though after a while it seemed to him they changed to yells and cries for help in the far distance, all noise at last died right away, and he was left alone in complete silence and darkness. <br><i>–The Hobbit</i>"
-  },
-  {
-    "Id": "C_DESPAIR_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SEARCHTHEAREA_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_EYESOFTHEFOREST_FLAVOR",
-    "Text": "…he would see gleams in the darkness around them, and sometimes pairs of yellow or red or green eyes would stare at him from a little distance, and then slowly fade and disappear and slowly shine out again in another place.\r <br><i>–The Hobbit</i>"
-  },
-  {
-    "Id": "C_EVILSTORM_FLAVOR",
-    "Text": "\"They say in my land he can govern the storms in the Mountains of Shadow…\"\r <br>–Boromir, <i>The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_KINGSFOIL_FLAVOR",
-    "Text": "\"Power to defy our Enemy is not in him, unless such power is in the earth itself.\"\r <br>–Gandalf, <i>The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_CREATUREOFDARKNESS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_UNDERTHESHADOW_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_FINDTHERAFT_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_EXHAUSTION_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_FOLLOWGRIMBEORNSTRAIL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_EXHAUST_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_BLOCKEDPATH_FLAVOR",
-    "Text": "\"My cuts, short or long, don't go wrong.\" <br>–Strider, <i>The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_QUICKERTHANSIGHT_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_WATCHFULEYES_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_WATCHFULSCOUT_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_LOWONSUPPLIES_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_WARRIORSWORD_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_TREACHEROUSFOG_FLAVOR",
-    "Text": "\"But it will be hard to find the path unless the fog lifts a little later on.\"\r <br>–Aragorn, <i>The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_TURNEDAROUND_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_THENECROMANCERSREACH_FLAVOR",
-    "Text": "There was an eye in the Dark Tower that did not sleep. He knew that it had become aware of his gaze. A fierce eager will was there. <br><i>–The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_SACKED_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_PURSUITONTHESHORE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_HUNTED_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_FOLLOWTHESTREAM_FLAVOR",
-    "Text": "It flowed fast and strong but not very wide right across the way, and it was black, or looked it in the gloom. <br><i>–The Hobbit</i>"
-  },
-  {
-    "Id": "C_SEARCHFORAPATH_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_INVESTIGATESMOKE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ORCMARAUDER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_TROLLSACK_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_LOSTINTHEWILDERNESS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_FINDSAFEPASSAGE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_THICKWEBS_FLAVOR",
-    "Text": "\"What nasty thick skins they have to be sure, but I'll wager there is good juice inside.\" <br>–Spider, <i>The Hobbit</i>"
-  },
-  {
-    "Id": "C_FINDSHELTER_FLAVOR",
-    "Text": "That, of course, is the dangerous part about caves; you don't know how far they go back. <br><i>–The Hobbit</i>"
-  },
-  {
-    "Id": "C_ACCURSEDFOREST_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ENFEEBLED_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_DEVOURED_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SQUASHEDINTOJELLY_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_BLACKBLOOD_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_CLIMBTHEHILL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_COCOON_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_CONTINUEDOWNSTREAM_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_EASTBIGHTPATROL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ESCAPETHEFOREST_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_VILESPAWN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_EXPLORETHECAVE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_FINDTHEPATH_FLAVOR",
-    "Text": "About midday, creeping behind a great stone that stood alone like a pillar, Bilbo came on what looked like rough steps going upwards. <br><i>– The Hobbit</i>"
-  },
-  {
-    "Id": "C_TRIBULATION_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_FINDYOURBEARINGS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_UNDERTHEWATCHFULEYE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GROWINGDARKNESS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_HIDDENPATH_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GATHERINGGLOOM_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "Q_CAMPAIGN_NSKTEST_NAME",
-    "Text": "NSKTEST"
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST01_NAME",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST01_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST01_VICTORY_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST01_DEFEAT_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_NAME",
-    "Text": null
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_OBJECTIVE",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST02_NAME",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST02_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST02_VICTORY_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST02_DEFEAT_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_NAME",
-    "Text": null
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_OBJECTIVE",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST03_NAME",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST03_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST03_VICTORY_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST03_DEFEAT_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_NAME",
-    "Text": null
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_OBJECTIVE",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST04_NAME",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST04_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST04_VICTORY_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST04_DEFEAT_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_NAME",
-    "Text": null
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_OBJECTIVE",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST05_NAME",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST05_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST05_VICTORY_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST05_DEFEAT_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_NAME",
-    "Text": null
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_OBJECTIVE",
-    "Text": null
-  },
-  {
-    "Id": "C_VICIOUSSPEED_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_UNWAVERING_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SPIDERQUEEN_FLAVOR",
-    "Text": ""
   }
 ]
