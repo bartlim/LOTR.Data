@@ -1,0 +1,94 @@
+{
+  "DataSet": {
+    "Title": "NKTESTQuest02",
+    "SauronDeckInfo": {
+      "Id": null,
+      "DeckList": [
+        {
+          "Id": "BlackForestBats",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "DolGuldurOrcs",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "EastBightPatrol",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "Enfeebled",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "DrivenByShadow",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "GoblinSniper",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "MirkwoodPatrol",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "ThickWebs",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "Tribulation",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        }
+      ]
+    },
+    "Stages": [
+      {
+        "Title": "Location201",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ]
+      }
+    ],
+    "Sequences": [],
+    "Stories": []
+  },
+  "Version": "20180209212745795",
+  "Key": "MainQuest",
+  "SubKey": "NKTESTQuest02",
+  "RequiredClientVersion": "1.0",
+  "InternalKey": "MainQuest_NKTESTQuest02_20180209212745795"
+}
