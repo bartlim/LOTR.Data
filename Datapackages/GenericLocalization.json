@@ -1936,6 +1936,14 @@
     "Text": "One Ring Avatar"
   },
   {
+    "Id": "U_BATTLE_PREP_TRIGGERED",
+    "Text": "Preparation Triggered"
+  },
+  {
+    "Id": "U_ASMODEE_MSG_INPUT_WRONG",
+    "Text": "Either account or password is wrong"
+  },
+  {
     "Id": "PLACEHOLDER2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
@@ -2293,7 +2301,7 @@
   },
   {
     "Id": "Q_QUEST_TUTORIAL_VICTORY_TEXT",
-    "Text": "null"
+    "Text": ""
   },
   {
     "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_DEFEAT_TEXT",
@@ -2317,7 +2325,7 @@
   },
   {
     "Id": "Q_QUEST_TUTORIAL_DEFEAT_TEXT",
-    "Text": "null"
+    "Text": ""
   },
   {
     "Id": "Q_CAMPAIGN_NSKTEST_NAME",
