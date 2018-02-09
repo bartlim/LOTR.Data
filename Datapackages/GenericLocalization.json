@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -2393,7 +2393,7 @@
   },
   {
     "Id": "C_ARAGORN_FLAVOR",
-    "Text": "\"I am Aragorn son of Arathorn; and if by life or death I can save you, I will.\" <br>–Aragorn, <i>The Fellowship of the Ring</i>"
+    "Text": "\"I am Aragorn son of Arathorn; and if by life or death I can save you, I will.\" \n–Aragorn, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_ARAGORN_TEXT",
@@ -2405,7 +2405,7 @@
   },
   {
     "Id": "C_ARWEN_FLAVOR",
-    "Text": "…Thought and knowledge were in her glance, as of one who has known many things that the years bring. <br><i>–The Fellowship of the Ring</i>"
+    "Text": "…Thought and knowledge were in her glance, as of one who has known many things that the years bring. \n<i>–The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_ARWEN_TEXT",
@@ -2437,11 +2437,11 @@
   },
   {
     "Id": "C_BARLIMANBUTTERBUR_FLAVOR",
-    "Text": "\"…spooks or no spooks, they won't get in The Prancing Pony so easy.\" <br>–Barliman Butterbur, <i>The Fellowship of the Ring</i>"
+    "Text": "\"…spooks or no spooks, they won't get in The Prancing Pony so easy.\" \n–Barliman Butterbur, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_BARLIMANBUTTERBUR_TEXT",
-    "Text": "<b>Upkeep:</b> 50% chance to draw <br>1 card"
+    "Text": "<b>Upkeep:</b> 50% chance to draw \n1 card"
   },
   {
     "Id": "C_BARLIMANBUTTERBUR_TITLE",
@@ -2449,7 +2449,7 @@
   },
   {
     "Id": "C_BEORN_FLAVOR",
-    "Text": "\"I don't need your service, thank you… but I expect you need mine.\" <br>–Beorn, <i>The Hobbit</i>"
+    "Text": "\"I don't need your service, thank you… but I expect you need mine.\" \n–Beorn, <i>The Hobbit</i>"
   },
   {
     "Id": "C_BEORN_TEXT",
@@ -2469,7 +2469,7 @@
   },
   {
     "Id": "C_BILLTHEPONY_FLAVOR",
-    "Text": "\"He gave me a look as plain as Mr. Pippin could speak it: if you don't let me go with you, Sam, I'll follow on my own.\" <br>–Sam Gamgee, <i>The Fellowship of the Ring</i>"
+    "Text": "\"He gave me a look as plain as Mr. Pippin could speak it: if you don't let me go with you, Sam, I'll follow on my own.\" \n–Sam Gamgee, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_BILLTHEPONY_TEXT",
@@ -2577,7 +2577,7 @@
   },
   {
     "Id": "C_CLIMBTHEHILL_TEXT",
-    "Text": "Travel immediately to <br><i>Bare Hilltop</i>"
+    "Text": "Travel immediately to \n<i>Bare Hilltop</i>"
   },
   {
     "Id": "C_CLIMBTHEHILL_TITLE",
@@ -2705,7 +2705,7 @@
   },
   {
     "Id": "C_EOWYN_FLAVOR",
-    "Text": "\"But I am of the House of Eorl and not a serving-woman. I can ride and wield blade, and I do not fear either pain or death.\" <br>–Éowyn, <i>The Return of the King</i>"
+    "Text": "\"But I am of the House of Eorl and not a serving-woman. I can ride and wield blade, and I do not fear either pain or death.\" \n–Éowyn, <i>The Return of the King</i>"
   },
   {
     "Id": "C_EOWYN_TEXT",
@@ -2717,7 +2717,7 @@
   },
   {
     "Id": "C_ERKENBRAND_FLAVOR",
-    "Text": "Down from the hills leaped Erkenbrand, lord of Westfold. <br><i>–The Two Towers</i>"
+    "Text": "Down from the hills leaped Erkenbrand, lord of Westfold. \n<i>–The Two Towers</i>"
   },
   {
     "Id": "C_ERKENBRAND_TEXT",
@@ -2821,11 +2821,11 @@
   },
   {
     "Id": "C_FARAMIR_FLAVOR",
-    "Text": "\"The road may pass, but they shall not! Not while Faramir is Captain.\" <br>–Mablung, <i>The Two Towers</i>"
+    "Text": "\"The road may pass, but they shall not! Not while Faramir is Captain.\" \n–Mablung, <i>The Two Towers</i>"
   },
   {
     "Id": "C_FARAMIR_TEXT",
-    "Text": "<b>Ranged. Vanquish:</b> <br>Draw 1 card"
+    "Text": "<b>Ranged. Vanquish:</b> \nDraw 1 card"
   },
   {
     "Id": "C_FARAMIR_TITLE",
@@ -2929,7 +2929,7 @@
   },
   {
     "Id": "C_FOLLOWTHESTREAM_TEXT",
-    "Text": "Travel immediately to <br><i>Forest Stream</i>"
+    "Text": "Travel immediately to \n<i>Forest Stream</i>"
   },
   {
     "Id": "C_FOLLOWTHESTREAM_TITLE",
@@ -2973,7 +2973,7 @@
   },
   {
     "Id": "C_FRODO_FLAVOR",
-    "Text": "Frodo began to feel restless, and the old paths seemed too well-trodden. He looked at maps and wondered what lay beyond their edges… <br><i>–The Fellowship of the Ring</i>"
+    "Text": "Frodo began to feel restless, and the old paths seemed too well-trodden. He looked at maps and wondered what lay beyond their edges… \n<i>–The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_FRODO_TEXT",
@@ -2997,7 +2997,7 @@
   },
   {
     "Id": "C_GALADHONARCHER_FLAVOR",
-    "Text": "\"…they say that you breathe so loud that they could shoot you in the dark.\" <br>–Legolas, <i>The Fellowship of the Ring</i>"
+    "Text": "\"…they say that you breathe so loud that they could shoot you in the dark.\" \n–Legolas, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_GALADHONARCHER_TEXT",
@@ -3041,7 +3041,7 @@
   },
   {
     "Id": "C_GATHERINGGLOOM_TEXT",
-    "Text": "Reduce each Ally to <br>0 Willpower this round"
+    "Text": "Reduce each Ally to \n0 Willpower this round"
   },
   {
     "Id": "C_GATHERINGGLOOM_TITLE",
@@ -3069,7 +3069,7 @@
   },
   {
     "Id": "C_GIANTMARSHWORM_FLAVOR",
-    "Text": "\"No birds here. There are snakeses, wormses, things in the pools. Lot of things, lots of nasty things.\"\r <br>–Gollum, <i>The Two Towers</i>"
+    "Text": "\"No birds here. There are snakeses, wormses, things in the pools. Lot of things, lots of nasty things.\"\n–Gollum, <i>The Two Towers</i>"
   },
   {
     "Id": "C_GIANTMARSHWORM_TEXT",
@@ -3089,7 +3089,7 @@
   },
   {
     "Id": "C_GIMLI_FLAVOR",
-    "Text": "\"Men need many words before deeds. My axe is restless in my hands.\" <br>–Gimli, <i>The Two Towers</i>"
+    "Text": "\"Men need many words before deeds. My axe is restless in my hands.\" \n–Gimli, <i>The Two Towers</i>"
   },
   {
     "Id": "C_GIMLI_TEXT",
@@ -3101,7 +3101,7 @@
   },
   {
     "Id": "C_GOBLINSNIPER_TEXT",
-    "Text": "<b>Ranged. Stealth. Upkeep:</b> <br>Deal 1 damage to a random Character"
+    "Text": "<b>Ranged. Stealth. Upkeep:</b> \nDeal 1 damage to a random Character"
   },
   {
     "Id": "C_GOBLINSNIPER_TITLE",
@@ -3329,11 +3329,11 @@
   },
   {
     "Id": "C_LEGOLAS_FLAVOR",
-    "Text": "\"I can walk this path, but others have not this skill.\" <br><i>–The Fellowship of the Ring</i>"
+    "Text": "\"I can walk this path, but others have not this skill.\" \n<i>–The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_LEGOLAS_TEXT",
-    "Text": "<b>Ranged. Upkeep:</b> Deal <br>1 damage"
+    "Text": "<b>Ranged. Upkeep: Deal \n1 damage"
   },
   {
     "Id": "C_LEGOLAS_TITLE",
@@ -3401,7 +3401,7 @@
   },
   {
     "Id": "C_MARSHADDER_FLAVOR",
-    "Text": "Under the boughs of Mirkwood there was deadly strife of Elves and Men and fell beasts.\r <br><i>–The Fellowship of the Ring</i>"
+    "Text": "Under the boughs of Mirkwood there was deadly strife of Elves and Men and fell beasts.\n<i>–The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_MARSHADDER_TEXT",
@@ -3413,7 +3413,7 @@
   },
   {
     "Id": "C_MIRKWOODFLOCK_TEXT",
-    "Text": "<b>Revenge:</b> Sauron gains <br>+1 Resource"
+    "Text": "<b>Revenge:</b> Sauron gains \n+1 Resource"
   },
   {
     "Id": "C_MIRKWOODFLOCK_TITLE",
@@ -3557,7 +3557,7 @@
   },
   {
     "Id": "C_RAIMENTOFWAR_TEXT",
-    "Text": "Gain +1 Attack, +2 Health, <br>and <b>Block</b>"
+    "Text": "Gain +1 Attack, +2 Health, \nand <b>Block</b>"
   },
   {
     "Id": "C_RAIMENTOFWAR_TITLE",
@@ -3597,7 +3597,7 @@
   },
   {
     "Id": "C_RESCUEGRIMBEORN_FLAVOR",
-    "Text": "A nice pickle they were all in now. <br><i>–The Hobbit</i>"
+    "Text": "A nice pickle they were all in now. \n<i>–The Hobbit</i>"
   },
   {
     "Id": "C_RESCUEGRIMBEORN_TEXT",
@@ -3609,7 +3609,7 @@
   },
   {
     "Id": "C_RESCUETHEHORSES_FLAVOR",
-    "Text": "Then, one of the ponies took fright at nothing and bolted. <br><i>–The Hobbit</i>"
+    "Text": "Then, one of the ponies took fright at nothing and bolted. \n<i>–The Hobbit</i>"
   },
   {
     "Id": "C_RESCUETHEHORSES_TEXT",
@@ -3621,7 +3621,7 @@
   },
   {
     "Id": "C_RESCUEYOURFRIENDS_FLAVOR",
-    "Text": "Bilbo was horrified, now that he noticed them for the first time dangling in the shadows, to see a dwarvish foot sticking out from the bottoms of some of the bundles, or here and there the tip of a nose, or a bit of beard or of a hood. <br><i>–The Hobbit</i>"
+    "Text": "Bilbo was horrified, now that he noticed them for the first time dangling in the shadows, to see a dwarvish foot sticking out from the bottoms of some of the bundles, or here and there the tip of a nose, or a bit of beard or of a hood. \n<i>–The Hobbit</i>"
   },
   {
     "Id": "C_RESCUEYOURFRIENDS_TEXT",
@@ -3669,11 +3669,11 @@
   },
   {
     "Id": "C_SAMGAMGEE_FLAVOR",
-    "Text": "\"I'm going with him… and if any of those Black Riders try to stop him, they'll have Sam Gamgee to reckon with.\" <br><i>–The Fellowship of the Ring</i>"
+    "Text": "\"I'm going with him… and if any of those Black Riders try to stop him, they'll have Sam Gamgee to reckon with.\" \n<i>–The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_SAMGAMGEE_TEXT",
-    "Text": "<b>Stalwart.</b> Gain +1 Attack, <br>+1 Willpower, and <b>Surge</b> when Sauron has 0 Resources"
+    "Text": "<b>Stalwart.</b> Gain +1 Attack, \n+1 Willpower, and <b>Surge</b> when Sauron has 0 Resources"
   },
   {
     "Id": "C_SAMGAMGEE_TITLE",
@@ -3777,7 +3777,7 @@
   },
   {
     "Id": "C_SPOOKEDHORSES_FLAVOR",
-    "Text": "Then, one of the ponies took fright at nothing and bolted. <br><i>–The Hobbit</i>"
+    "Text": "Then, one of the ponies took fright at nothing and bolted. \n<i>–The Hobbit</i>"
   },
   {
     "Id": "C_SPOOKEDHORSES_TEXT",
@@ -3853,7 +3853,7 @@
   },
   {
     "Id": "C_THENECROMANCERSREACH_FLAVOR",
-    "Text": "There was an eye in the Dark Tower that did not sleep. He knew that it had become aware of his gaze. A fierce eager will was there. <br><i>–The Fellowship of the Ring</i>"
+    "Text": "There was an eye in the Dark Tower that did not sleep. He knew that it had become aware of his gaze. A fierce eager will was there. \n<i>–The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_THENECROMANCERSREACH_TEXT",
@@ -3877,7 +3877,7 @@
   },
   {
     "Id": "C_THICKWEBS_FLAVOR",
-    "Text": "\"What nasty thick skins they have to be sure, but I'll wager there is good juice inside.\" <br>–Spider, <i>The Hobbit</i>"
+    "Text": "\"What nasty thick skins they have to be sure, but I'll wager there is good juice inside.\" \n–Spider, <i>The Hobbit</i>"
   },
   {
     "Id": "C_THICKWEBS_TEXT",
@@ -3901,7 +3901,7 @@
   },
   {
     "Id": "C_TREACHEROUSFOG_FLAVOR",
-    "Text": "\"But it will be hard to find the path unless the fog lifts a little later on.\"\r <br>–Aragorn, <i>The Fellowship of the Ring</i>"
+    "Text": "\"But it will be hard to find the path unless the fog lifts a little later on.\"\n–Aragorn, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_TREACHEROUSFOG_TEXT",
@@ -3953,7 +3953,7 @@
   },
   {
     "Id": "C_UNDERTHEWATCHFULEYE_TEXT",
-    "Text": "Each player's hand size is <br>reduced to 5 cards until this <br>is resolved"
+    "Text": "Each player's hand size is reduced to 5 cards until this \nis resolved"
   },
   {
     "Id": "C_UNDERTHEWATCHFULEYE_TITLE",
@@ -4033,7 +4033,7 @@
   },
   {
     "Id": "C_VILESPAWN_TEXT",
-    "Text": "Restore <i>Ungoliant's Spawn</i> <br>to full Health"
+    "Text": "Restore <i>Ungoliant's Spawn</i> \nto full Health"
   },
   {
     "Id": "C_VILESPAWN_TITLE",
@@ -5174,157 +5174,5 @@
   {
     "Id": "G_067_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "C_LOUIS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_LOWONSUPPLIES_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_MIRKWOODFLOCK_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_MIRKWOODPATROL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_MORRIS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_MUCKADDER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_NAVIGATETHERIVER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ORCBEASTMASTER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ORCHOUND_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ORCMARAUDER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_PACKOFWARGS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_POISONEDBYSPIDERS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_PURSUEDBYSHADOW_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_PURSUITONTHESHORE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_RUPERT_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SACKED_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SEARCHFORAPATH_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SEARCHTHEAREA_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SPIDERGUARD_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SPIDERQUEEN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SPIDERSOFMIRKWOOD_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_SQUASHEDINTOJELLY_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_STUART_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_TRIBULATION_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_TROLLSACK_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_TURNEDAROUND_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_UNDERTHESHADOW_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_UNDERTHEWATCHFULEYE_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_UNGOLIANTSBROOD_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_UNGOLIANTSSPAWN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_VETERAN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_VETERANPATROL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_VICIOUSSPEED_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_VILESPAWN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_WARGRIDERS_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_WATCHFULEYES_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_WATCHFULSCOUT_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_WILDBEAR_FLAVOR",
-    "Text": ""
   }
 ]
