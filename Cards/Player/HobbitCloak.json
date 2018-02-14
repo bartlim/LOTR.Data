@@ -3,14 +3,14 @@
     "Id": "HobbitCloak",
     "Owner": "Player",
     "CardType": 1,
-    "ShopType": "HeroPack_FaithfulServant",
+    "ShopType": "Valor",
     "Cost": 1,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
     "Trait": "Special",
-    "Rarity": 2,
+    "Rarity": 1,
     "Sphere": 3,
     "SphereLevel": 1,
     "Revision": "test",
@@ -22,7 +22,7 @@
     "DeathSFX": "",
     "FlavorText": "…he kept in a drawer at Bag End the old cloak and hood that he had worn on his travels… \n<i>–The Fellowship of the Ring</i>",
     "ArtistName": "Alexandre Dainche",
-    "Status": "Ready"
+    "Status": "WIP"
   },
   "Localization": {
     "Title": "Hobbit Cloak",
