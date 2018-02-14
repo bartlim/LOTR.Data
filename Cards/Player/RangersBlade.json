@@ -3,13 +3,13 @@
     "Id": "RangersBlade",
     "Owner": "Player",
     "CardType": 1,
-    "ShopType": "",
+    "ShopType": "Starter",
     "Cost": 1,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "",
+    "Trait": "Weapon",
     "Rarity": 0,
     "Sphere": 0,
     "SphereLevel": 0,
@@ -22,7 +22,7 @@
     "DeathSFX": "",
     "FlavorText": "C_RANGERSBLADE_FLAVOR",
     "ArtistName": "Jeff Himmelman",
-    "Status": ""
+    "Status": "WIP"
   },
   "Localization": {
     "Title": "Ranger's Blade",
