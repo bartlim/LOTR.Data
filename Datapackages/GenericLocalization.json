@@ -3109,7 +3109,7 @@
   },
   {
     "Id": "C_GATHERINGGLOOM_TEXT",
-    "Text": "Reduce each Ally to \n0 Willpower this round"
+    "Text": "Reduce each Ally to <br>0 Willpower this round"
   },
   {
     "Id": "C_GATHERINGGLOOM_TITLE",
@@ -5378,5 +5378,9 @@
   {
     "Id": "C_FORESTSPIDER_FLAVOR",
     "Text": "C_FORESTSPIDER_FLAVOR"
+  },
+  {
+    "Id": "C_GATHERINGGLOOM_FLAVOR",
+    "Text": "C_GATHERINGGLOOM_FLAVOR"
   }
 ]
