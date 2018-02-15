@@ -2645,7 +2645,7 @@
   },
   {
     "Id": "C_CLIMBTHEHILL_TEXT",
-    "Text": "Travel immediately to \n<i>Bare Hilltop</i>"
+    "Text": "Travel immediately to <br><i>Bare Hilltop</i>"
   },
   {
     "Id": "C_CLIMBTHEHILL_TITLE",
@@ -5682,5 +5682,9 @@
   {
     "Id": "C_WATCHFULEYES_FLAVOR",
     "Text": "C_WATCHFULEYES_FLAVOR"
+  },
+  {
+    "Id": "C_CLIMBTHEHILL_FLAVOR",
+    "Text": "C_CLIMBTHEHILL_FLAVOR"
   }
 ]
