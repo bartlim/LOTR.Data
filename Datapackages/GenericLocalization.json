@@ -4021,7 +4021,7 @@
   },
   {
     "Id": "C_UNDERTHEWATCHFULEYE_TEXT",
-    "Text": "Each player's hand size is reduced to 5 cards until this \nis resolved"
+    "Text": "Each player's hand size is <br>reduced to 5 cards until this <br>is resolved"
   },
   {
     "Id": "C_UNDERTHEWATCHFULEYE_TITLE",
@@ -5670,5 +5670,9 @@
   {
     "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST05_DEFEAT_TEXT",
     "Text": null
+  },
+  {
+    "Id": "C_UNDERTHEWATCHFULEYE_FLAVOR",
+    "Text": "C_UNDERTHEWATCHFULEYE_FLAVOR"
   }
 ]
