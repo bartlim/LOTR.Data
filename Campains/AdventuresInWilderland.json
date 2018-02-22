@@ -19,12 +19,13 @@
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
             "HiddenPath",
+            "DolGuldurOrcs",
             "EastBightPatrol",
-            "EastBightPatrol",
-            "EliteDolGuldurOrcs"
+            "EliteDolGuldurOrcs",
+            "BlockedPath"
           ],
           "NextStageId": "CapturedBySpiders",
-          "BGM": "mus_thewilderlands"
+          "BGM": "mus_theWilderlands"
         },
         {
           "Id": "CapturedBySpiders",
@@ -81,6 +82,10 @@
         }
       ],
       "SauronDeck": [
+        {
+          "Id": "BlockedPath",
+          "Amount": 2
+        },
         {
           "Id": "ChieftainUfthak",
           "Amount": 2
