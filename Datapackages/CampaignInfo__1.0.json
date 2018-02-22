@@ -21,13 +21,12 @@
               "IntroSprite": "Sprites/Locations/Quest1_Stage01",
               "SoloGameSetup": [
                 "HiddenPath",
-                "DolGuldurOrcs",
                 "EastBightPatrol",
-                "EliteDolGuldurOrcs",
-                "BlockedPath"
+                "EastBightPatrol",
+                "EliteDolGuldurOrcs"
               ],
               "NextStageId": "CapturedBySpiders",
-              "BGM": "mus_theWilderlands"
+              "BGM": "mus_thewilderlands"
             },
             {
               "Id": "CapturedBySpiders",
@@ -98,10 +97,6 @@
             },
             {
               "Id": "Devoured",
-              "Amount": 2
-            },
-            {
-              "Id": "DolGuldurOrcs",
               "Amount": 2
             },
             {
