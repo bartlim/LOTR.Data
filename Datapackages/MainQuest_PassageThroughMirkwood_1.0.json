@@ -33,13 +33,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "DolGuldurOrcs",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "DrivenByShadow",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -172,10 +165,9 @@
         "Title": "ForestGate",
         "SoloGameSetup": [
           "HiddenPath",
-          "DolGuldurOrcs",
           "EastBightPatrol",
-          "EliteDolGuldurOrcs",
-          "BlockedPath"
+          "EastBightPatrol",
+          "EliteDolGuldurOrcs"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -241,9 +233,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180208071008638",
+  "Version": "20180222062327782",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180208071008638"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180222062327782"
 }
