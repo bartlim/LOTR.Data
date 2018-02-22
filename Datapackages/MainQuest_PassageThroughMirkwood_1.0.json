@@ -5,6 +5,13 @@
       "Id": null,
       "DeckList": [
         {
+          "Id": "BlockedPath",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
           "Id": "ChieftainUfthak",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -165,9 +172,10 @@
         "Title": "ForestGate",
         "SoloGameSetup": [
           "HiddenPath",
+          "DolGuldurOrcs",
           "EastBightPatrol",
-          "EastBightPatrol",
-          "EliteDolGuldurOrcs"
+          "EliteDolGuldurOrcs",
+          "BlockedPath"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -233,9 +241,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180222062934759",
+  "Version": "20180222064626543",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180222062934759"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180222064626543"
 }
