@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -1998,6 +1998,10 @@
   {
     "Id": "U_ASMODEE_MSG_INPUT_WRONG",
     "Text": "Either account or password is wrong"
+  },
+  {
+    "Id": "U_SHOP_CARD_CAN_GET_FROM_STARTER",
+    "Text": "Starter Card. Sign into Asmodee account after tutorial to unlock!"
   },
   {
     "Id": "PLACEHOLDER2",
