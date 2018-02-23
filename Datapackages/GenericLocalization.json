@@ -2049,7 +2049,7 @@
   },
   {
     "Id": "Q_CAMPAIGN_TUTORIAL_NAME",
-    "Text": "Prologue"
+    "Text": "TUTORIAL"
   },
   {
     "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_NAME",
@@ -2073,7 +2073,7 @@
   },
   {
     "Id": "Q_QUEST_TUTORIAL_NAME",
-    "Text": "Tutorial"
+    "Text": "TUTORIAL"
   },
   {
     "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_DESCRIPTION",
@@ -2185,11 +2185,15 @@
   },
   {
     "Id": "Q_STAGE_TUTORIAL_STAGE_01_NAME",
-    "Text": "Tutorial"
+    "Text": "PROLOGUE PART 1"
   },
   {
     "Id": "Q_STAGE_TUTORIAL_STAGE_02_NAME",
-    "Text": "Tutorial"
+    "Text": "PROLOGUE PART 2"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_03_NAME",
+    "Text": "PROLOGUE PART 3"
   },
   {
     "Id": "Q_STAGE_FORESTGATE_TEXT",
@@ -2277,11 +2281,15 @@
   },
   {
     "Id": "Q_STAGE_TUTORIAL_STAGE_01_TEXT",
-    "Text": "Welcome to <i>The Lord of the Rings: Living Card Game</i>! <b>Aragorn</b> and <b>Arwen</b> are ambushed while traveling through Mirkwood Forest…"
+    "Text": "The Rangers of the North patrol the wilds of Eriador, guarding against evil with ceaseless vigilance. First among their number is Aragorn, son of Arathorn. Troubled by evidence of dark powers spreading across the land, he ventures toward Rivendell, there to seek Elrond's counsel. On a forested road at the foot of the Misty Mountains, he senses an unquiet presence…"
   },
   {
     "Id": "Q_STAGE_TUTORIAL_STAGE_02_TEXT",
-    "Text": "<b>Aragorn</b> and <b>Arwen</b> venture deeper into the forest…"
+    "Text": "Aragorn and his companion race through the woods. Rounding a bend, they spy movement just off the road. A cloaked stranger struggles valiantly to fight off another cluster of chittering giant spiders…"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_03_TEXT",
+    "Text": "Arwen confirms that giant spiders have ventured forth from Mirkwood. They have established a nest nearby, from which they shall spread their vile influence throughout Eriador. She beseeches Aragorn to help her destroy the nest and halt the spiders' advance!"
   },
   {
     "Id": "Q_STAGE_FORESTGATE_OBJECTIVE",
@@ -4790,18 +4798,6 @@
   {
     "Id": "T_GAMEPLAY_27C",
     "Text": "Here is all that you shall receive to start your own adventures in Middle-earth…"
-  },
-  {
-    "Id": "T_NARRATIVE_1",
-    "Text": "The Rangers of the North patrol the wilds of Eriador, guarding against evil with ceaseless vigilance. First among their number is Aragorn, son of Arathorn. Troubled by evidence of dark powers spreading across the land, he ventures toward Rivendell, there to seek Elrond's counsel. On a forested road at the foot of the Misty Mountains, he senses an unquiet presence…"
-  },
-  {
-    "Id": "T_NARRATIVE_2",
-    "Text": "Aragorn and his companion race through the woods. Rounding a bend, they spy movement just off the road. A cloaked stranger struggles valiantly to fight off another cluster of chittering giant spiders…"
-  },
-  {
-    "Id": "T_NARRATIVE_3",
-    "Text": "Arwen confirms that giant spiders have ventured forth from Mirkwood. They have established a nest nearby, from which they shall spread their vile influence throughout Eriador. She beseeches Aragorn to help her destroy the nest and halt the spiders' advance!"
   },
   {
     "Id": "T_ROLLOVER_TITLE_01",
