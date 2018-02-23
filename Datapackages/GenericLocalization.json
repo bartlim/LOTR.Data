@@ -553,7 +553,7 @@
   },
   {
     "Id": "U_INGAME_POPUP_ATTACHMENT_REPLACE",
-    "Text": "This will replace the current Attachment. Are you sure?"
+    "Text": "This will replace the current Attachment. \nAre you sure?"
   },
   {
     "Id": "U_INGAME_OBJECTIVE_OVERCOME",
@@ -893,7 +893,7 @@
   },
   {
     "Id": "U_SHOP_PALANTIRPACK_DESC",
-    "Text": "Each Palantír Pack purchase includes both \n3 Palantír Views and 1 random new Valor Card"
+    "Text": "Each Palantír Pack purchase includes 3 Palantír Views and 1 random, unowned, Valor Card."
   },
   {
     "Id": "U_SHOP_HEROPACK_01_DESC",
@@ -953,7 +953,7 @@
   },
   {
     "Id": "U_INGAME_SELECT_FOR_ATTACHMENT",
-    "Text": "To equip this Attachment, select a highlighted Character."
+    "Text": "To equip this Attachment, select a\n highlighted Character."
   },
   {
     "Id": "U_INGAME_HISTORY_CARDPLAYED",
@@ -1865,23 +1865,23 @@
   },
   {
     "Id": "U_BATTLE_THREAT_35_EASY",
-    "Text": "Sauron gains +1 Resource!"
+    "Text": "Sauron gains +1 Resource this round"
   },
   {
     "Id": "U_BATTLE_THREAT_35_NORMAL",
-    "Text": "Sauron gains +2 Resources!"
+    "Text": "Sauron gains +2 Resources this round"
   },
   {
     "Id": "U_BATTLE_THREAT_35_HARD",
-    "Text": "Sauron gains +3 Resources!"
+    "Text": "Sauron gains +3 Resources this round"
   },
   {
     "Id": "U_BATTLE_THREAT_40",
-    "Text": "Sauron draws a Treachery card!"
+    "Text": "Sauron draws a Treachery card"
   },
   {
     "Id": "U_BATTLE_THREAT_45",
-    "Text": "An Agent of Sauron Investigates!"
+    "Text": "An Agent of Sauron appears"
   },
   {
     "Id": "U_MENU_COMMON_SKIP",
@@ -1908,6 +1908,10 @@
     "Text": "Maximum number of this card in your deck already"
   },
   {
+    "Id": "U_QUEST_SCORE_YOUR_SCORE",
+    "Text": "Your Score"
+  },
+  {
     "Id": "U_QUEST_SCORE_THREAT_LEVEL",
     "Text": "Final Threat Level"
   },
@@ -1917,7 +1921,7 @@
   },
   {
     "Id": "U_QUEST_SCORE_HERO_HEALTH",
-    "Text": "Remaining Hero Health"
+    "Text": "Surviving Heroes' Health"
   },
   {
     "Id": "U_QUEST_SCORE_OBJECTIVE_RESOLVED",
@@ -1925,7 +1929,7 @@
   },
   {
     "Id": "U_QUEST_SCORE_FAVOR_CARD_BONUS",
-    "Text": "Favor Card Bonus"
+    "Text": "Favor Card Used"
   },
   {
     "Id": "U_QUEST_SCORE_TOTAL",
@@ -1934,6 +1938,10 @@
   {
     "Id": "U_QUEST_SCORE_REWARDS",
     "Text": "Rewards"
+  },
+  {
+    "Id": "U_QUEST_SCORE_QUEST_REWARDS",
+    "Text": "Quest Reward"
   },
   {
     "Id": "U_QUEST_SCORE_VICTORY",
@@ -1945,11 +1953,11 @@
   },
   {
     "Id": "U_QUEST_SCORE_MSG_PURCHASE_LOCKED",
-    "Text": "You must complete the previous Quest\nbefore you can play this one.\nDo you want to purchase this Quest?"
+    "Text": "You must complete the previous \nQuest before you can play this one.\nDo you want to purchase this Quest?"
   },
   {
     "Id": "U_QUEST_SCORE_MSG_PLAY_LOCKED",
-    "Text": "You must complete the previous Quest\nbefore you can play this one"
+    "Text": "You must complete the previous \nQuest before you can play this one"
   },
   {
     "Id": "U_SHOP_VALOR_CARDS_ONE_ONLY",
@@ -1993,7 +2001,7 @@
   },
   {
     "Id": "U_BATTLE_PREP_TRIGGERED",
-    "Text": "Preparation Triggered"
+    "Text": "PREPARATION TRIGGERED"
   },
   {
     "Id": "U_ASMODEE_MSG_INPUT_WRONG",
@@ -2008,6 +2016,30 @@
     "Text": "THREAT EVENT"
   },
   {
+    "Id": "U_BATTLE_EVENT",
+    "Text": "EVENT"
+  },
+  {
+    "Id": "U_BATTLE_TREACHERY",
+    "Text": "TREACHERY"
+  },
+  {
+    "Id": "U_BATTLE_TREACHERY_TRIGGERED",
+    "Text": "TREACHERY TRIGGERED"
+  },
+  {
+    "Id": "U_SHOP_VALOR_MAX_2",
+    "Text": "You cannot have more than 2 copies of this card"
+  },
+  {
+    "Id": "U_PALANTIR_USE_CONFIRM",
+    "Text": "Use 1 Palantír View?"
+  },
+  {
+    "Id": "U_PALANTIR_PURCHASE_CONFIRM",
+    "Text": "Purchase 1 Palantír View?"
+  },
+  {
     "Id": "PLACEHOLDER2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
@@ -2017,7 +2049,7 @@
   },
   {
     "Id": "Q_CAMPAIGN_TUTORIAL_NAME",
-    "Text": "Tutorial"
+    "Text": "Prologue"
   },
   {
     "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_NAME",
@@ -2337,11 +2369,15 @@
   },
   {
     "Id": "Q_STAGE_TUTORIAL_STAGE_01_OBJECTIVE",
-    "Text": "Overcome: Defeat all Enemies."
+    "Text": "Defeat all Spiders to continue your journey"
   },
   {
     "Id": "Q_STAGE_TUTORIAL_STAGE_02_OBJECTIVE",
-    "Text": "Overcome: Defeat all Enemies and Search the Area."
+    "Text": "Rescue the cloaked stranger!"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_03_OBJECTIVE",
+    "Text": "Destroy the Spiders' Nest and report to Elrond in Rivendell."
   },
   {
     "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_VICTORY_TEXT",
@@ -2365,7 +2401,7 @@
   },
   {
     "Id": "Q_QUEST_TUTORIAL_VICTORY_TEXT",
-    "Text": ""
+    "Text": "You have halted the spiders' advance; yet more adventure awaits…"
   },
   {
     "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_DEFEAT_TEXT",
@@ -4754,6 +4790,238 @@
   {
     "Id": "T_GAMEPLAY_27C",
     "Text": "Here is all that you shall receive to start your own adventures in Middle-earth…"
+  },
+  {
+    "Id": "T_NARRATIVE_1",
+    "Text": "The Rangers of the North patrol the wilds of Eriador, guarding against evil with ceaseless vigilance. First among their number is Aragorn, son of Arathorn. Troubled by evidence of dark powers spreading across the land, he ventures toward Rivendell, there to seek Elrond's counsel. On a forested road at the foot of the Misty Mountains, he senses an unquiet presence…"
+  },
+  {
+    "Id": "T_NARRATIVE_2",
+    "Text": "Aragorn and his companion race through the woods. Rounding a bend, they spy movement just off the road. A cloaked stranger struggles valiantly to fight off another cluster of chittering giant spiders…"
+  },
+  {
+    "Id": "T_NARRATIVE_3",
+    "Text": "Arwen confirms that giant spiders have ventured forth from Mirkwood. They have established a nest nearby, from which they shall spread their vile influence throughout Eriador. She beseeches Aragorn to help her destroy the nest and halt the spiders' advance!"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_01",
+    "Text": "Objective"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_02",
+    "Text": "Threat"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_03",
+    "Text": "Sauron Resources"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_04",
+    "Text": "Treachery Socket"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_05",
+    "Text": "Deck"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_06",
+    "Text": "Player Resources"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_07",
+    "Text": "Preparation Socket"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_08",
+    "Text": "Attack"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_09",
+    "Text": "Health"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_10",
+    "Text": "Willpower"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_11",
+    "Text": "Phase Button"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_12",
+    "Text": "History"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_13",
+    "Text": "Glossary"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_14",
+    "Text": "Game Options"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_01",
+    "Text": "The primary goal you must resolve before you can advance to the next Location"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_02",
+    "Text": "This increases each round and when you travel. If you reach 50 Threat, your Quest fails"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_03",
+    "Text": "Used to play cards. Resources refresh during Upkeep"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_04",
+    "Text": "Indicates a Treachery card that has not yet triggered"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_05",
+    "Text": "The cards you use in the Quest. Rollover to see how many remain"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_06",
+    "Text": "Used to play cards. Resources refresh during Upkeep"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_07",
+    "Text": "Indicates a Preparation card that has not yet triggered"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_08",
+    "Text": "Effectiveness when attacking or defending in combat"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_09",
+    "Text": "Amount of damage that can be taken before being defeated"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_10",
+    "Text": "Effectiveness when engaging an Objective"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_11",
+    "Text": "Select to advance gameplay"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_12",
+    "Text": "Shows recent actions in gameplay"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_13",
+    "Text": "Important keywords and terminology"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_14",
+    "Text": "Select to adjust display and audio, or to leave the Quest"
+  },
+  {
+    "Id": "T_POPUP_6D",
+    "Text": "Drag the card into play area"
+  },
+  {
+    "Id": "T_POPUP_END_PLAN",
+    "Text": "End the Planning phase"
+  },
+  {
+    "Id": "T_POPUP_7B1",
+    "Text": "Use Aragorn to attack Forest Spider"
+  },
+  {
+    "Id": "T_POPUP_7B2",
+    "Text": "Slay the Spiders!"
+  },
+  {
+    "Id": "T_POPUP_7D",
+    "Text": "Combat exhausts both attacker and target"
+  },
+  {
+    "Id": "T_POPUP_END_ADV",
+    "Text": "End the Adventure phase"
+  },
+  {
+    "Id": "T_POPUP_9",
+    "Text": "Each round, exhausted Characters ready; you then gain 3 Resources and draw 1 card"
+  },
+  {
+    "Id": "T_POPUP_10B",
+    "Text": "If you reach 50 Threat, your Quest fails!"
+  },
+  {
+    "Id": "T_POPUP_10F",
+    "Text": "Characters with Guard must be attacked first"
+  },
+  {
+    "Id": "T_POPUP_11E",
+    "Text": "Some Characters have special abilities! Select Aragorn to use his Power"
+  },
+  {
+    "Id": "T_POPUP_11H",
+    "Text": "Aragorn can take another action!"
+  },
+  {
+    "Id": "T_POPUP_12A",
+    "Text": "You have defeated the Spiders. Select TRAVEL to continue your journey"
+  },
+  {
+    "Id": "T_POPUP_15B",
+    "Text": "Use Willpower to resolve Objectives"
+  },
+  {
+    "Id": "T_POPUP_18G",
+    "Text": "Block reduces damage by 1"
+  },
+  {
+    "Id": "T_POPUP_19A1",
+    "Text": "Rescue the cloaked stranger!"
+  },
+  {
+    "Id": "T_POPUP_19A2",
+    "Text": "Slay the Spiders!"
+  },
+  {
+    "Id": "T_POPUP_19C",
+    "Text": "Use Willpower to resolve Objectives"
+  },
+  {
+    "Id": "T_POPUP_19I",
+    "Text": "At the end of the round, you gain 1 Threat for each Enemy that is not exhausted!"
+  },
+  {
+    "Id": "T_POPUP_22F",
+    "Text": "A Character with Ranged does not take damage when attacking an exhausted target"
+  },
+  {
+    "Id": "T_POPUP_23B",
+    "Text": "Use Willpower to resolve the Objective"
+  },
+  {
+    "Id": "T_POPUP_23D",
+    "Text": "You have freed the cloaked stranger — Arwen, Elrond's daughter! Select TRAVEL to continue your journey"
+  },
+  {
+    "Id": "T_POPUP_23K",
+    "Text": "When you travel, Enemies that are not exhausted can attack!"
+  },
+  {
+    "Id": "T_POPUP_29D",
+    "Text": "Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck."
+  },
+  {
+    "Id": "T_POPUP_36C",
+    "Text": "Neutral cards may be used with any Sphere of Influence"
+  },
+  {
+    "Id": "T_ASMODEE_SIGN_UP",
+    "Text": "Congratulations! You have completed the prologue, but that was merely the beginning. Create an Asmodee.net account now to unlock additional Heroes and cards to use on your further adventures across Middle-earth…"
+  },
+  {
+    "Id": "T_ASMODEE_SIGN_IN_1",
+    "Text": "Your Asmodee.net account gives you many rewards — new Heroes, cards, a starter deck, a gift of 3000 Valor Points, and the first Quest free!"
+  },
+  {
+    "Id": "T_ASMODEE_SIGN_IN_2",
+    "Text": "The time has come to begin your journey. Go forth and fare well!"
   },
   {
     "Id": "PLACEHOLDER5",
