@@ -1877,7 +1877,7 @@
   },
   {
     "Id": "U_BATTLE_THREAT_40",
-    "Text": "Sauron gains treachery!"
+    "Text": "Sauron draws a Treachery card!"
   },
   {
     "Id": "U_BATTLE_THREAT_45",
@@ -2002,6 +2002,10 @@
   {
     "Id": "U_SHOP_CARD_CAN_GET_FROM_STARTER",
     "Text": "Starter Card. Sign into Asmodee account after tutorial to unlock!"
+  },
+  {
+    "Id": "U_BATTLE_THREAT_EVENT",
+    "Text": "THREAT EVENT"
   },
   {
     "Id": "PLACEHOLDER2",
