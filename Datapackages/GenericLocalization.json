@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -2038,6 +2038,10 @@
   {
     "Id": "U_PALANTIR_PURCHASE_CONFIRM",
     "Text": "Purchase 1 Palantír View?"
+  },
+  {
+    "Id": "U_PROLOGUE",
+    "Text": "PROLOGUE"
   },
   {
     "Id": "PLACEHOLDER2",
@@ -4800,115 +4804,115 @@
     "Text": "Here is all that you shall receive to start your own adventures in Middle-earth…"
   },
   {
-    "Id": "T_ROLLOVER_TITLE_01",
+    "Id": "T_ROLLOVER_TITLE_OBJECTIVE",
     "Text": "Objective"
   },
   {
-    "Id": "T_ROLLOVER_TITLE_02",
+    "Id": "T_ROLLOVER_TITLE_THREAT",
     "Text": "Threat"
   },
   {
-    "Id": "T_ROLLOVER_TITLE_03",
+    "Id": "T_ROLLOVER_TITLE_SAURONRESOURCES",
     "Text": "Sauron Resources"
   },
   {
-    "Id": "T_ROLLOVER_TITLE_04",
+    "Id": "T_ROLLOVER_TITLE_TREACHERYSOCKET",
     "Text": "Treachery Socket"
   },
   {
-    "Id": "T_ROLLOVER_TITLE_05",
+    "Id": "T_ROLLOVER_TITLE_DECK",
     "Text": "Deck"
   },
   {
-    "Id": "T_ROLLOVER_TITLE_06",
+    "Id": "T_ROLLOVER_TITLE_PLAYERRESOURCES",
     "Text": "Player Resources"
   },
   {
-    "Id": "T_ROLLOVER_TITLE_07",
+    "Id": "T_ROLLOVER_TITLE_PREPARATIONSOCKET",
     "Text": "Preparation Socket"
   },
   {
-    "Id": "T_ROLLOVER_TITLE_08",
+    "Id": "T_ROLLOVER_TITLE_ATTACK",
     "Text": "Attack"
   },
   {
-    "Id": "T_ROLLOVER_TITLE_09",
+    "Id": "T_ROLLOVER_TITLE_HEALTH",
     "Text": "Health"
   },
   {
-    "Id": "T_ROLLOVER_TITLE_10",
+    "Id": "T_ROLLOVER_TITLE_WILLPOWER",
     "Text": "Willpower"
   },
   {
-    "Id": "T_ROLLOVER_TITLE_11",
+    "Id": "T_ROLLOVER_TITLE_PHASEBUTTON",
     "Text": "Phase Button"
   },
   {
-    "Id": "T_ROLLOVER_TITLE_12",
+    "Id": "T_ROLLOVER_TITLE_HISTORY",
     "Text": "History"
   },
   {
-    "Id": "T_ROLLOVER_TITLE_13",
+    "Id": "T_ROLLOVER_TITLE_GLOSSARY",
     "Text": "Glossary"
   },
   {
-    "Id": "T_ROLLOVER_TITLE_14",
+    "Id": "T_ROLLOVER_TITLE_GAMEOPTIONS",
     "Text": "Game Options"
   },
   {
-    "Id": "T_ROLLOVER_DESC_01",
+    "Id": "T_ROLLOVER_DESC_OBJECTIVE",
     "Text": "The primary goal you must resolve before you can advance to the next Location"
   },
   {
-    "Id": "T_ROLLOVER_DESC_02",
+    "Id": "T_ROLLOVER_DESC_THREAT",
     "Text": "This increases each round and when you travel. If you reach 50 Threat, your Quest fails"
   },
   {
-    "Id": "T_ROLLOVER_DESC_03",
+    "Id": "T_ROLLOVER_DESC_SAURONRESOURCES",
     "Text": "Used to play cards. Resources refresh during Upkeep"
   },
   {
-    "Id": "T_ROLLOVER_DESC_04",
+    "Id": "T_ROLLOVER_DESC_TREACHERYSOCKET",
     "Text": "Indicates a Treachery card that has not yet triggered"
   },
   {
-    "Id": "T_ROLLOVER_DESC_05",
+    "Id": "T_ROLLOVER_DESC_DECK",
     "Text": "The cards you use in the Quest. Rollover to see how many remain"
   },
   {
-    "Id": "T_ROLLOVER_DESC_06",
+    "Id": "T_ROLLOVER_DESC_PLAYERRESOURCES",
     "Text": "Used to play cards. Resources refresh during Upkeep"
   },
   {
-    "Id": "T_ROLLOVER_DESC_07",
+    "Id": "T_ROLLOVER_DESC_PREPARATIONSOCKET",
     "Text": "Indicates a Preparation card that has not yet triggered"
   },
   {
-    "Id": "T_ROLLOVER_DESC_08",
+    "Id": "T_ROLLOVER_DESC_ATTACK",
     "Text": "Effectiveness when attacking or defending in combat"
   },
   {
-    "Id": "T_ROLLOVER_DESC_09",
+    "Id": "T_ROLLOVER_DESC_HEALTH",
     "Text": "Amount of damage that can be taken before being defeated"
   },
   {
-    "Id": "T_ROLLOVER_DESC_10",
+    "Id": "T_ROLLOVER_DESC_WILLPOWER",
     "Text": "Effectiveness when engaging an Objective"
   },
   {
-    "Id": "T_ROLLOVER_DESC_11",
+    "Id": "T_ROLLOVER_DESC_PHASEBUTTON",
     "Text": "Select to advance gameplay"
   },
   {
-    "Id": "T_ROLLOVER_DESC_12",
+    "Id": "T_ROLLOVER_DESC_HISTORY",
     "Text": "Shows recent actions in gameplay"
   },
   {
-    "Id": "T_ROLLOVER_DESC_13",
+    "Id": "T_ROLLOVER_DESC_GLOSSARY",
     "Text": "Important keywords and terminology"
   },
   {
-    "Id": "T_ROLLOVER_DESC_14",
+    "Id": "T_ROLLOVER_DESC_GAMEOPTIONS",
     "Text": "Select to adjust display and audio, or to leave the Quest"
   },
   {
@@ -5000,8 +5004,20 @@
     "Text": "When you travel, Enemies that are not exhausted can attack!"
   },
   {
+    "Id": "T_POPUP_28D",
+    "Text": "Some Characters have special abilities that trigger during the Upkeep phase."
+  },
+  {
     "Id": "T_POPUP_29D",
     "Text": "Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck."
+  },
+  {
+    "Id": "T_POPUP_34F",
+    "Text": "Some Characters have special abilities! Select Aragorn to use his Power"
+  },
+  {
+    "Id": "T_POPUP_34I",
+    "Text": "Aragorn can take another action!"
   },
   {
     "Id": "T_POPUP_36C",
@@ -5558,9 +5574,5 @@
   {
     "Id": "G_067_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "C_RANGERSBLADE_FLAVOR",
-    "Text": "C_RANGERSBLADE_FLAVOR"
   }
 ]
