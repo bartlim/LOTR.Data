@@ -3,7 +3,7 @@
     "Id": "RangersBlade",
     "Owner": "Player",
     "CardType": 1,
-    "ShopType": "Starter",
+    "ShopType": "Valor",
     "Cost": 1,
     "QuestPoints": 0,
     "Attack": 0,
@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "C_RANGERSBLADE_FLAVOR",
     "ArtistName": "Jeff Himmelman",
     "Status": "Ready"
   },
