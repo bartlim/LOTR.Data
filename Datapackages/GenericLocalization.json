@@ -5,7 +5,7 @@
   },
   {
     "Id": "U_GAME_TITLE",
-    "Text": "The Lord of the Rings: Living Card Game"
+    "Text": "The Lord of the Rings™: Living Card Game™"
   },
   {
     "Id": "U_MENU_COMMON_LOADING",
@@ -1721,7 +1721,7 @@
   },
   {
     "Id": "U_SHOP_CAMPAIGN_01_DESC",
-    "Text": "The first Campaign in The Lord of the Rings: Living Card Game."
+    "Text": "The first Campaign in The Lord of the Rings™: Living Card Game™."
   },
   {
     "Id": "U_SHOP_CB_ANGMARAWAKENED",
@@ -2042,6 +2042,14 @@
   {
     "Id": "U_PROLOGUE",
     "Text": "PROLOGUE"
+  },
+  {
+    "Id": "U_EA_MSG_TITLE",
+    "Text": "What is Early Access?"
+  },
+  {
+    "Id": "U_EA_MSG_BODY",
+    "Text": "The Lord of the Rings™: Living Card Game™ is still in active development.  Many features, cards, effects and mechanics are subject to change for any number of reasons based on game play data and user feedback.\n \nIf you run into any game play issues or bugs, or have any feedback, please let us know at our <a href=\"http://steamcommunity.com/app/509580/discussions/\">Steam Discussions</a>.\n \nWe appreciate your taking part in our early access development so that we can refine, balance and improve the game.  \n \nNow…on to Middle-earth and the adventures that await you there!"
   },
   {
     "Id": "PLACEHOLDER2",
@@ -2389,7 +2397,7 @@
   },
   {
     "Id": "Q_STAGE_TUTORIAL_STAGE_03_OBJECTIVE",
-    "Text": "Destroy the Spiders' Nest and report to Elrond in Rivendell."
+    "Text": "Destroy the <i>Spiders' Nest</i> and report to <I>Elrond</I> in Rivendell."
   },
   {
     "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_VICTORY_TEXT",
@@ -4325,7 +4333,7 @@
   },
   {
     "Id": "T_TUTORIAL01",
-    "Text": "Welcome to <b>The Lord of the Rings: Living Card Game</b>!"
+    "Text": "Welcome to <b>The Lord of the Rings™: Living Card Game™</b>!"
   },
   {
     "Id": "T_TUTORIAL02",
@@ -4513,7 +4521,7 @@
   },
   {
     "Id": "T_LOADING_SCREEN_01B",
-    "Text": "Welcome to The Lord of the Rings: Living Card Game! This tutorial will teach you the ins and outs of the game."
+    "Text": "Welcome to The Lord of the Rings™: Living Card Game™! This tutorial will teach you the ins and outs of the game."
   },
   {
     "Id": "T_LOADING_SCREEN_01C",
@@ -4525,7 +4533,7 @@
   },
   {
     "Id": "T_GAMEPLAY_01C",
-    "Text": "In The Lord of the Rings: Living Card Game, you take Heroes on a series of Quests. Each Quest leads you through many Locations across Middle-earth. "
+    "Text": "In The Lord of the Rings™: Living Card Game™, you take Heroes on a series of Quests. Each Quest leads you through many Locations across Middle-earth. "
   },
   {
     "Id": "T_GAMEPLAY_01D",
@@ -4805,59 +4813,59 @@
   },
   {
     "Id": "T_ROLLOVER_TITLE_OBJECTIVE",
-    "Text": "Objective"
+    "Text": "<b>Objective</b>"
   },
   {
     "Id": "T_ROLLOVER_TITLE_THREAT",
-    "Text": "Threat"
+    "Text": "<b>Threat</b>"
   },
   {
     "Id": "T_ROLLOVER_TITLE_SAURONRESOURCES",
-    "Text": "Sauron Resources"
+    "Text": "<b>Sauron Resources</b>"
   },
   {
     "Id": "T_ROLLOVER_TITLE_TREACHERYSOCKET",
-    "Text": "Treachery Socket"
+    "Text": "<b>Treachery Socket</b>"
   },
   {
     "Id": "T_ROLLOVER_TITLE_DECK",
-    "Text": "Deck"
+    "Text": "<b>Deck</b>"
   },
   {
     "Id": "T_ROLLOVER_TITLE_PLAYERRESOURCES",
-    "Text": "Player Resources"
+    "Text": "<b>Player Resources</b>"
   },
   {
     "Id": "T_ROLLOVER_TITLE_PREPARATIONSOCKET",
-    "Text": "Preparation Socket"
+    "Text": "<b>Preparation Socket</b>"
   },
   {
     "Id": "T_ROLLOVER_TITLE_ATTACK",
-    "Text": "Attack"
+    "Text": "<b>Attack</b>"
   },
   {
     "Id": "T_ROLLOVER_TITLE_HEALTH",
-    "Text": "Health"
+    "Text": "<b>Health</b>"
   },
   {
     "Id": "T_ROLLOVER_TITLE_WILLPOWER",
-    "Text": "Willpower"
+    "Text": "<b>Willpower</b>"
   },
   {
     "Id": "T_ROLLOVER_TITLE_PHASEBUTTON",
-    "Text": "Phase Button"
+    "Text": "<b>Phase Button</b>"
   },
   {
     "Id": "T_ROLLOVER_TITLE_HISTORY",
-    "Text": "History"
+    "Text": "<b>History</b>"
   },
   {
     "Id": "T_ROLLOVER_TITLE_GLOSSARY",
-    "Text": "Glossary"
+    "Text": "<b>Glossary</b>"
   },
   {
     "Id": "T_ROLLOVER_TITLE_GAMEOPTIONS",
-    "Text": "Game Options"
+    "Text": "<b>Game Options</b>"
   },
   {
     "Id": "T_ROLLOVER_DESC_OBJECTIVE",
@@ -4873,7 +4881,7 @@
   },
   {
     "Id": "T_ROLLOVER_DESC_TREACHERYSOCKET",
-    "Text": "Indicates a Treachery card that has not yet triggered"
+    "Text": "Indicate Treachery cards that have not yet triggered"
   },
   {
     "Id": "T_ROLLOVER_DESC_DECK",
@@ -4885,7 +4893,7 @@
   },
   {
     "Id": "T_ROLLOVER_DESC_PREPARATIONSOCKET",
-    "Text": "Indicates a Preparation card that has not yet triggered"
+    "Text": "Indicate Preparation cards that have not yet triggered"
   },
   {
     "Id": "T_ROLLOVER_DESC_ATTACK",
@@ -4893,7 +4901,7 @@
   },
   {
     "Id": "T_ROLLOVER_DESC_HEALTH",
-    "Text": "Amount of damage that can be taken before being defeated"
+    "Text": "Damage amount that can be suffered before being defeated"
   },
   {
     "Id": "T_ROLLOVER_DESC_WILLPOWER",
@@ -4913,7 +4921,7 @@
   },
   {
     "Id": "T_ROLLOVER_DESC_GAMEOPTIONS",
-    "Text": "Select to adjust display and audio, or to leave the Quest"
+    "Text": "Select to adjust game settings or to leave the Quest"
   },
   {
     "Id": "T_POPUP_6D",
@@ -4921,11 +4929,11 @@
   },
   {
     "Id": "T_POPUP_END_PLAN",
-    "Text": "End the Planning phase"
+    "Text": "End the \nPlanning phase"
   },
   {
     "Id": "T_POPUP_7B1",
-    "Text": "Use Aragorn to attack Forest Spider"
+    "Text": "Use <i>Aragorn</i> to attack\n <i>Forest Spider</i>"
   },
   {
     "Id": "T_POPUP_7B2",
@@ -4933,95 +4941,99 @@
   },
   {
     "Id": "T_POPUP_7D",
-    "Text": "Combat exhausts both attacker and target"
+    "Text": "Combat exhausts both \nattacker and target"
   },
   {
     "Id": "T_POPUP_END_ADV",
-    "Text": "End the Adventure phase"
+    "Text": "End the \nAdventure phase"
   },
   {
     "Id": "T_POPUP_9",
-    "Text": "Each round, exhausted Characters ready; you then gain 3 Resources and draw 1 card"
+    "Text": "Each round, exhausted Characters \nready; you then gain 3 Resources \nand draw 1 card"
   },
   {
     "Id": "T_POPUP_10B",
-    "Text": "If you reach 50 Threat, your Quest fails!"
+    "Text": "If you reach 50 Threat, \nyour Quest fails!"
   },
   {
     "Id": "T_POPUP_10F",
-    "Text": "Characters with Guard must be attacked first"
+    "Text": "Characters with <b>Guard</b> \nmust be attacked first"
   },
   {
     "Id": "T_POPUP_11E",
-    "Text": "Some Characters have special abilities! Select Aragorn to use his Power"
+    "Text": "Some Characters have special \nabilities! Select <i>Aragorn</i> to \nuse his <b>Power<b>"
   },
   {
     "Id": "T_POPUP_11H",
-    "Text": "Aragorn can take another action!"
+    "Text": "<i>Aragorn</i> can take \nanother action!"
   },
   {
     "Id": "T_POPUP_12A",
-    "Text": "You have defeated the Spiders. Select TRAVEL to continue your journey"
+    "Text": "You have defeated the Spiders. \nSelect TRAVEL to continue \nyour journey"
   },
   {
     "Id": "T_POPUP_15B",
-    "Text": "Use Willpower to resolve Objectives"
+    "Text": "Use Willpower to \nresolve Objectives"
   },
   {
     "Id": "T_POPUP_18G",
-    "Text": "Block reduces damage by 1"
+    "Text": "<b>Block</b> reduces \ndamage by 1"
   },
   {
     "Id": "T_POPUP_19A1",
-    "Text": "Rescue the cloaked stranger!"
+    "Text": "Rescue the \ncloaked stranger!"
   },
   {
     "Id": "T_POPUP_19A2",
-    "Text": "Slay the Spiders!"
+    "Text": "Slay the \nSpiders!"
   },
   {
     "Id": "T_POPUP_19C",
-    "Text": "Use Willpower to resolve Objectives"
+    "Text": "Use Willpower to \nresolve Objectives"
   },
   {
     "Id": "T_POPUP_19I",
-    "Text": "At the end of the round, you gain 1 Threat for each Enemy that is not exhausted!"
+    "Text": "At the end of the round, \nyou gain 1 Threat for each \nEnemy that is not exhausted!"
   },
   {
     "Id": "T_POPUP_22F",
-    "Text": "A Character with Ranged does not take damage when attacking an exhausted target"
+    "Text": "A Character with <b>Ranged</b> \ndoes not take damage when \nattacking an exhausted target"
   },
   {
     "Id": "T_POPUP_23B",
-    "Text": "Use Willpower to resolve the Objective"
+    "Text": "Use Willpower to \nresolve the Objective"
   },
   {
     "Id": "T_POPUP_23D",
-    "Text": "You have freed the cloaked stranger — Arwen, Elrond's daughter! Select TRAVEL to continue your journey"
+    "Text": "You have freed the cloaked stranger: \n<i>Arwen, Elrond</i>'s daughter! \nSelect TRAVEL to continue your journey"
   },
   {
     "Id": "T_POPUP_23K",
-    "Text": "When you travel, Enemies that are not exhausted can attack!"
+    "Text": "When you travel, Enemies \nthat are not exhausted can \nattack!"
+  },
+  {
+    "Id": "T_POPUP_26B",
+    "Text": "Use Willpower to \nresolve Objectives"
   },
   {
     "Id": "T_POPUP_28D",
-    "Text": "Some Characters have special abilities that trigger during the Upkeep phase."
+    "Text": "Some Characters have \nspecial abilities that trigger \nduring the Upkeep phase"
   },
   {
     "Id": "T_POPUP_29D",
-    "Text": "Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck."
+    "Text": "Each Hero belongs to a Sphere \nof Influence. The Hero's \nSphere dictates the types of \ncards available in your deck"
   },
   {
     "Id": "T_POPUP_34F",
-    "Text": "Some Characters have special abilities! Select Aragorn to use his Power"
+    "Text": "Some Characters have special \nabilities! Select <i>Aragorn</i> \nto use his <b>Power</b>"
   },
   {
     "Id": "T_POPUP_34I",
-    "Text": "Aragorn can take another action!"
+    "Text": "<i>Aragorn</i> can \ntake another action!"
   },
   {
     "Id": "T_POPUP_36C",
-    "Text": "Neutral cards may be used with any Sphere of Influence"
+    "Text": "Neutral cards may be \nused with any \nSphere of Influence"
   },
   {
     "Id": "T_ASMODEE_SIGN_UP",
