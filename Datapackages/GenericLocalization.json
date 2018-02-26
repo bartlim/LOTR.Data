@@ -2052,6 +2052,22 @@
     "Text": "The Lord of the Rings™: Living Card Game™ is still in active development.  Many features, cards, effects and mechanics are subject to change for any number of reasons based on game play data and user feedback.\n \nIf you run into any game play issues or bugs, or have any feedback, please let us know at our <a href=\"http://steamcommunity.com/app/509580/discussions/\">Steam Discussions</a>.\n \nWe appreciate your taking part in our early access development so that we can refine, balance and improve the game.  \n \nNow…on to Middle-earth and the adventures that await you there!"
   },
   {
+    "Id": "U_QUEST_COMPLETE",
+    "Text": "QUEST COMPLETE"
+  },
+  {
+    "Id": "U_PROLOGUE_P1",
+    "Text": "PROLOGUE PART 1"
+  },
+  {
+    "Id": "U_PROLOGUE_P2",
+    "Text": "PROLOGUE PART 2"
+  },
+  {
+    "Id": "U_PROLOGUE_P3",
+    "Text": "PROLOGUE PART 3"
+  },
+  {
     "Id": "PLACEHOLDER2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
@@ -2197,15 +2213,15 @@
   },
   {
     "Id": "Q_STAGE_TUTORIAL_STAGE_01_NAME",
-    "Text": "PROLOGUE PART 1"
+    "Text": "FOREST ROAD"
   },
   {
     "Id": "Q_STAGE_TUTORIAL_STAGE_02_NAME",
-    "Text": "PROLOGUE PART 2"
+    "Text": "FOREST BEND"
   },
   {
     "Id": "Q_STAGE_TUTORIAL_STAGE_03_NAME",
-    "Text": "PROLOGUE PART 3"
+    "Text": "THE SPIDERS' NEST"
   },
   {
     "Id": "Q_STAGE_FORESTGATE_TEXT",
@@ -5037,7 +5053,7 @@
   },
   {
     "Id": "T_ASMODEE_SIGN_UP",
-    "Text": "Congratulations! You have completed the prologue, but that was merely the beginning. Create an Asmodee.net account now to unlock additional Heroes and cards to use on your further adventures across Middle-earth…"
+    "Text": "Congratulations! You have completed the prologue, but that was merely the beginning. \n\nCreate an Asmodee.net account now to unlock additional Heroes and cards to use on your further adventures across Middle-earth…"
   },
   {
     "Id": "T_ASMODEE_SIGN_IN_1",
