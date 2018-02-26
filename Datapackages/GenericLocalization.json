@@ -3065,7 +3065,7 @@
   },
   {
     "Id": "C_FOLLOWGRIMBEORNSTRAIL_TEXT",
-    "Text": "You may travel from this Location"
+    "Text": ""
   },
   {
     "Id": "C_FOLLOWGRIMBEORNSTRAIL_TITLE",
@@ -5922,5 +5922,9 @@
   {
     "Id": "C_WATCHERSINTHEDARK_FLAVOR",
     "Text": "C_WATCHERSINTHEDARK_FLAVOR"
+  },
+  {
+    "Id": "C_FOLLOWGRIMBEORNSTRAIL_FLAVOR",
+    "Text": "C_FOLLOWGRIMBEORNSTRAIL_FLAVOR"
   }
 ]
