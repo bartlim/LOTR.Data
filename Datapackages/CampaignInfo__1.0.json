@@ -2608,8 +2608,8 @@
     {
       "Id": "Tutorial",
       "IconSprite": "Sprites/Quest/icon_q1",
-      "MapPosX": -76.0,
-      "MapPosY": -95.0,
+      "MapPosX": 0.0,
+      "MapPosY": 0.0,
       "Quests": [
         {
           "Id": "Tutorial",
@@ -2621,8 +2621,8 @@
           "Stages": [
             {
               "Id": "Tutorial_Stage_01",
-              "SceneName": "Q01_L04_TheEnchantedStream",
-              "IntroVoice": "Tutorial_01_02",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "NarrativeScreen1",
               "IntroSprite": "Sprites/Locations/Quest3_Stage01",
               "SoloGameSetup": null,
               "NextStageId": "Tutorial_Stage_02",
@@ -2630,8 +2630,17 @@
             },
             {
               "Id": "Tutorial_Stage_02",
-              "SceneName": "Q01_L04_TheEnchantedStream",
-              "IntroVoice": "Tutorial_18",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "NarrativeScreen2",
+              "IntroSprite": "Sprites/Locations/Quest3_Stage01",
+              "SoloGameSetup": null,
+              "NextStageId": "Tutorial_Stage_03",
+              "BGM": null
+            },
+            {
+              "Id": "Tutorial_Stage_02",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "NarrativeScreen3",
               "IntroSprite": "Sprites/Locations/Quest3_Stage03B",
               "SoloGameSetup": null,
               "NextStageId": "",
