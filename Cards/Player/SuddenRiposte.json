@@ -1,0 +1,31 @@
+{
+  "CardData": {
+    "Id": "SuddenRiposte",
+    "Owner": "Player",
+    "CardType": 4,
+    "ShopType": "Valor",
+    "Cost": 2,
+    "QuestPoints": 0,
+    "Attack": 0,
+    "Willpower": 0,
+    "Health": 0,
+    "Trait": "",
+    "Rarity": 1,
+    "Sphere": 1,
+    "SphereLevel": 2,
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "",
+    "ArtistName": "Mark Behm",
+    "Status": "Ready"
+  },
+  "Localization": {
+    "Title": "Sudden Riposte",
+    "Text": "Exhaust an Enemy"
+  }
+}
