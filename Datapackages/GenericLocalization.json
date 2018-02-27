@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -2772,11 +2772,11 @@
     "Text": "Despair"
   },
   {
-    "Id": "C_DEVOURED_TEXT",
+    "Id": "C_GREEDYFINGERS_TEXT",
     "Text": "Discard a random Hero's Attachment"
   },
   {
-    "Id": "C_DEVOURED_TITLE",
+    "Id": "C_GREEDYFINGERS_TITLE",
     "Text": "Greedy Fingers"
   },
   {
@@ -2932,11 +2932,11 @@
     "Text": "Evil Storm"
   },
   {
-    "Id": "C_EXHAUST_TEXT",
+    "Id": "C_SUDDENRIPOSTE_TEXT",
     "Text": "Exhaust an Enemy"
   },
   {
-    "Id": "C_EXHAUST_TITLE",
+    "Id": "C_SUDDENRIPOSTE_TITLE",
     "Text": "Sudden Riposte"
   },
   {
@@ -3792,15 +3792,15 @@
     "Text": "Rescue Your Friends"
   },
   {
-    "Id": "C_ROHIRRIMSPEARTHROWER_FLAVOR",
+    "Id": "C_ROHIRRIMLANCER_FLAVOR",
     "Text": "After him thundered the knights of his house. \n<i>–The Return of the King</i>"
   },
   {
-    "Id": "C_ROHIRRIMSPEARTHROWER_TEXT",
+    "Id": "C_ROHIRRIMLANCER_TEXT",
     "Text": "<b>Ranged.</b> Deal +1 damage when attacking"
   },
   {
-    "Id": "C_ROHIRRIMSPEARTHROWER_TITLE",
+    "Id": "C_ROHIRRIMLANCER_TITLE",
     "Text": "Rohirrim Lancer"
   },
   {
@@ -4328,11 +4328,11 @@
     "Text": "Gain 1 Threat"
   },
   {
-    "Id": "C_RESCUETHECLOAKEDSTRANGER_TITLE",
+    "Id": "C_THECLOAKEDSTRANGER_TITLE",
     "Text": "The Cloaked Stranger"
   },
   {
-    "Id": "C_RESCUETHECLOAKEDSTRANGER_TEXT",
+    "Id": "C_THECLOAKEDSTRANGER_TEXT",
     "Text": "You have rescued the cloaked stranger from the Spiders' ambush"
   },
   {
@@ -5602,345 +5602,5 @@
   {
     "Id": "G_067_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "Q_CAMPAIGN_TEST0226_NAME",
-    "Text": "test0226"
-  },
-  {
-    "Id": "Q_QUEST_TEST0226QUEST01_NAME",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_TEST0226QUEST01_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TEST0226QUEST01_VICTORY_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_TEST0226QUEST01_DEFEAT_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_NAME",
-    "Text": "Q_STAGE_LOCATION101_NAME"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_TEXT",
-    "Text": "Q_STAGE_LOCATION101_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION101_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_TEST0226QUEST02_NAME",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_TEST0226QUEST02_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TEST0226QUEST02_VICTORY_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_TEST0226QUEST02_DEFEAT_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_NAME",
-    "Text": "Q_STAGE_LOCATION201_NAME"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_TEXT",
-    "Text": "Q_STAGE_LOCATION201_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION201_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_TEST0226QUEST03_NAME",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_TEST0226QUEST03_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TEST0226QUEST03_VICTORY_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_TEST0226QUEST03_DEFEAT_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_NAME",
-    "Text": "Q_STAGE_LOCATION301_NAME"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_TEXT",
-    "Text": "Q_STAGE_LOCATION301_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION301_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_TEST0226QUEST04_NAME",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_TEST0226QUEST04_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TEST0226QUEST04_VICTORY_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_TEST0226QUEST04_DEFEAT_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_NAME",
-    "Text": "Q_STAGE_LOCATION401_NAME"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_TEXT",
-    "Text": "Q_STAGE_LOCATION401_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION401_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_TEST0226QUEST05_NAME",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_TEST0226QUEST05_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TEST0226QUEST05_VICTORY_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_QUEST_TEST0226QUEST05_DEFEAT_TEXT",
-    "Text": null
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_NAME",
-    "Text": "Q_STAGE_LOCATION501_NAME"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_TEXT",
-    "Text": "Q_STAGE_LOCATION501_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION501_OBJECTIVE"
-  },
-  {
-    "Id": "Q_CAMPAIGN_TEST022606_NAME",
-    "Text": "test022606"
-  },
-  {
-    "Id": "Q_QUEST_TEST022606QUEST01_NAME",
-    "Text": "Q_QUEST_TEST022606QUEST01_NAME"
-  },
-  {
-    "Id": "Q_QUEST_TEST022606QUEST01_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TEST022606QUEST01_VICTORY_TEXT",
-    "Text": "Q_QUEST_TEST022606QUEST01_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TEST022606QUEST01_DEFEAT_TEXT",
-    "Text": "Q_QUEST_TEST022606QUEST01_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TEST022606QUEST02_NAME",
-    "Text": "Q_QUEST_TEST022606QUEST02_NAME"
-  },
-  {
-    "Id": "Q_QUEST_TEST022606QUEST02_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TEST022606QUEST02_VICTORY_TEXT",
-    "Text": "Q_QUEST_TEST022606QUEST02_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TEST022606QUEST02_DEFEAT_TEXT",
-    "Text": "Q_QUEST_TEST022606QUEST02_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TEST022606QUEST03_NAME",
-    "Text": "Q_QUEST_TEST022606QUEST03_NAME"
-  },
-  {
-    "Id": "Q_QUEST_TEST022606QUEST03_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TEST022606QUEST03_VICTORY_TEXT",
-    "Text": "Q_QUEST_TEST022606QUEST03_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TEST022606QUEST03_DEFEAT_TEXT",
-    "Text": "Q_QUEST_TEST022606QUEST03_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TEST022606QUEST04_NAME",
-    "Text": "Q_QUEST_TEST022606QUEST04_NAME"
-  },
-  {
-    "Id": "Q_QUEST_TEST022606QUEST04_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TEST022606QUEST04_VICTORY_TEXT",
-    "Text": "Q_QUEST_TEST022606QUEST04_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TEST022606QUEST04_DEFEAT_TEXT",
-    "Text": "Q_QUEST_TEST022606QUEST04_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TEST022606QUEST05_NAME",
-    "Text": "Q_QUEST_TEST022606QUEST05_NAME"
-  },
-  {
-    "Id": "Q_QUEST_TEST022606QUEST05_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TEST022606QUEST05_VICTORY_TEXT",
-    "Text": "Q_QUEST_TEST022606QUEST05_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TEST022606QUEST05_DEFEAT_TEXT",
-    "Text": "Q_QUEST_TEST022606QUEST05_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_CAMPAIGN_SHADOWS OF MIRKWOOD_NAME",
-    "Text": "Q_CAMPAIGN_SHADOWS OF MIRKWOOD_NAME"
-  },
-  {
-    "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST01_NAME",
-    "Text": "Q_QUEST_SHADOWS OF MIRKWOODQUEST01_NAME"
-  },
-  {
-    "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST01_DESCRIPTION",
-    "Text": "Q_QUEST_SHADOWS OF MIRKWOODQUEST01_DESCRIPTION"
-  },
-  {
-    "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST01_VICTORY_TEXT",
-    "Text": "Q_QUEST_SHADOWS OF MIRKWOODQUEST01_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST01_DEFEAT_TEXT",
-    "Text": "Q_QUEST_SHADOWS OF MIRKWOODQUEST01_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST02_NAME",
-    "Text": "Q_QUEST_SHADOWS OF MIRKWOODQUEST02_NAME"
-  },
-  {
-    "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST02_DESCRIPTION",
-    "Text": "Q_QUEST_SHADOWS OF MIRKWOODQUEST02_DESCRIPTION"
-  },
-  {
-    "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST02_VICTORY_TEXT",
-    "Text": "Q_QUEST_SHADOWS OF MIRKWOODQUEST02_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST02_DEFEAT_TEXT",
-    "Text": "Q_QUEST_SHADOWS OF MIRKWOODQUEST02_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST03_NAME",
-    "Text": "Q_QUEST_SHADOWS OF MIRKWOODQUEST03_NAME"
-  },
-  {
-    "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST03_DESCRIPTION",
-    "Text": "Q_QUEST_SHADOWS OF MIRKWOODQUEST03_DESCRIPTION"
-  },
-  {
-    "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST03_VICTORY_TEXT",
-    "Text": "Q_QUEST_SHADOWS OF MIRKWOODQUEST03_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST03_DEFEAT_TEXT",
-    "Text": "Q_QUEST_SHADOWS OF MIRKWOODQUEST03_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST04_NAME",
-    "Text": "Q_QUEST_SHADOWS OF MIRKWOODQUEST04_NAME"
-  },
-  {
-    "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST04_DESCRIPTION",
-    "Text": "Q_QUEST_SHADOWS OF MIRKWOODQUEST04_DESCRIPTION"
-  },
-  {
-    "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST04_VICTORY_TEXT",
-    "Text": "Q_QUEST_SHADOWS OF MIRKWOODQUEST04_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST04_DEFEAT_TEXT",
-    "Text": "Q_QUEST_SHADOWS OF MIRKWOODQUEST04_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST05_NAME",
-    "Text": "Q_QUEST_SHADOWS OF MIRKWOODQUEST05_NAME"
-  },
-  {
-    "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST05_DESCRIPTION",
-    "Text": "Q_QUEST_SHADOWS OF MIRKWOODQUEST05_DESCRIPTION"
-  },
-  {
-    "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST05_VICTORY_TEXT",
-    "Text": "Q_QUEST_SHADOWS OF MIRKWOODQUEST05_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_SHADOWS OF MIRKWOODQUEST05_DEFEAT_TEXT",
-    "Text": "Q_QUEST_SHADOWS OF MIRKWOODQUEST05_DEFEAT_TEXT"
-  },
-  {
-    "Id": "C_RANGERSBLADE_FLAVOR",
-    "Text": "C_RANGERSBLADE_FLAVOR"
-  },
-  {
-    "Id": "C_WATCHERSINTHEDARK_FLAVOR",
-    "Text": "C_WATCHERSINTHEDARK_FLAVOR"
-  },
-  {
-    "Id": "C_FOLLOWGRIMBEORNSTRAIL_FLAVOR",
-    "Text": "C_FOLLOWGRIMBEORNSTRAIL_FLAVOR"
-  },
-  {
-    "Id": "C_SPIDERSNEST_FLAVOR",
-    "Text": "C_SPIDERSNEST_FLAVOR"
-  },
-  {
-    "Id": "C_SQUASHEDINTOJELLY_FLAVOR",
-    "Text": "C_SQUASHEDINTOJELLY_FLAVOR"
-  },
-  {
-    "Id": "C_UNGOLIANTSSPAWN_FLAVOR",
-    "Text": "C_UNGOLIANTSSPAWN_FLAVOR"
-  },
-  {
-    "Id": "C_RESCUETHECLOAKEDSTRANGER_FLAVOR",
-    "Text": "C_RESCUETHECLOAKEDSTRANGER_FLAVOR"
   }
 ]
