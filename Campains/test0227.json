@@ -8,8 +8,8 @@
       "Id": "test0227Quest01",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
-      "VictoryVoice": null,
-      "DefeatVoice": null,
+      "VictoryVoice": "Victory",
+      "DefeatVoice": "Defeat",
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
