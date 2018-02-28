@@ -89,14 +89,14 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "GreedyFingers",
+          "Id": "Enfeebled",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
-          "Id": "Enfeebled",
+          "Id": "GreedyFingers",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -313,9 +313,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180222065059929",
+  "Version": "20180228203940586",
   "Key": "MainQuest",
   "SubKey": "LostInMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_LostInMirkwood_20180222065059929"
+  "InternalKey": "MainQuest_LostInMirkwood_20180228203940586"
 }
