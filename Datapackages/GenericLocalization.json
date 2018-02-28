@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -37,27 +37,11 @@
   },
   {
     "Id": "U_MENU_COMMON_CONFIRM",
-    "Text": "Confirm"
-  },
-  {
-    "Id": "U_MENU_COMMON_START",
-    "Text": "Start"
-  },
-  {
-    "Id": "U_MENU_COMMON_CANCEL",
-    "Text": "Cancel"
-  },
-  {
-    "Id": "U_MENU_COMMON_OK",
-    "Text": "OK"
-  },
-  {
-    "Id": "U_MENU_COMMON_BACK",
-    "Text": "BACK"
+    "Text": "CONFIRM"
   },
   {
     "Id": "U_ERROR_MSG_STRANGE",
-    "Text": "An error has occurred. Please check the error log and report everything strange to developers."
+    "Text": "An error has occurred. Please check the error log and report anything strange"
   },
   {
     "Id": "U_MAINMENU_PLAY",
@@ -96,16 +80,8 @@
     "Text": "Resolution"
   },
   {
-    "Id": "U_OPTIONS_APPLY",
-    "Text": "APPLY"
-  },
-  {
     "Id": "U_OPTIONS_FULLSCREEN",
     "Text": "Fullscreen"
-  },
-  {
-    "Id": "U_OPTIONS_VOLUME",
-    "Text": "Volume"
   },
   {
     "Id": "U_OPTIONS_SKIPTUTORIAL",
@@ -228,10 +204,6 @@
     "Text": "Name your deck"
   },
   {
-    "Id": "U_DECKMENU_DECKLIST_RENAMEPOPUP",
-    "Text": "Enter new name"
-  },
-  {
     "Id": "U_DECKMENU_DECKLIST_RENAME_DEFAULT",
     "Text": "New Deck"
   },
@@ -245,15 +217,11 @@
   },
   {
     "Id": "U_DECKMENU_DECKLIST_REMOVEHERO",
-    "Text": "Removing this Hero will also remove from the deck any cards of the same Sphere. Are you sure you want to continue?"
+    "Text": "Removing this Hero will also remove from the deck any cards of the same Sphere"
   },
   {
     "Id": "U_DECKMENU_CARDBACK_APPLY",
     "Text": "APPLY"
-  },
-  {
-    "Id": "U_DECKMENU_CARDBACK_APPLIED",
-    "Text": "Card back applied."
   },
   {
     "Id": "U_DECKMENU_CARDBACK_SELECTED",
@@ -261,7 +229,7 @@
   },
   {
     "Id": "U_PALANTIR_SELECT_TO_GAZE",
-    "Text": "Select to gaze into the Palantír"
+    "Text": "Gaze into the Palantír"
   },
   {
     "Id": "U_PALANTIR_VIEW_UPPER",
@@ -276,28 +244,12 @@
     "Text": " Palantír View"
   },
   {
-    "Id": "U_PALANTIR_ONE_VIEW",
-    "Text": "1 Palantír View"
-  },
-  {
-    "Id": "U_PALANTIR_6_VIEW",
-    "Text": "6 Palantír Views"
-  },
-  {
-    "Id": "U_PALANTIR_28_VIEW",
-    "Text": "28 Palantír Views"
-  },
-  {
     "Id": "U_PALANTIR_VIEWS",
     "Text": " Palantír Views"
   },
   {
     "Id": "U_PALANTIR_MSG_ADD_VIEW",
-    "Text": "Add Views"
-  },
-  {
-    "Id": "U_PALANTIR_BUY_BUTTON",
-    "Text": "Buy 1 view"
+    "Text": "Add 1 View"
   },
   {
     "Id": "U_PALANTIR_REWARD_TITLE",
@@ -324,16 +276,12 @@
     "Text": "VALOR CARDS"
   },
   {
-    "Id": "U_SHOP_TAB_FAVORCARDS",
-    "Text": "FAVOR CARDS"
-  },
-  {
     "Id": "U_SHOP_TAB_FILTERS",
     "Text": "FILTERS"
   },
   {
     "Id": "U_SHOP_TITLE",
-    "Text": "STORE"
+    "Text": "SHOP"
   },
   {
     "Id": "U_SHOP_OFF_TAG",
@@ -341,27 +289,19 @@
   },
   {
     "Id": "U_SHOP_FILTER_SEARCH",
-    "Text": "SEARCH"
+    "Text": "Search…"
   },
   {
     "Id": "U_SHOP_FILTER_ONSALE",
-    "Text": "On Sale"
+    "Text": "Sale"
   },
   {
     "Id": "U_SHOP_FILTER_NOWOWNED",
     "Text": "Not Owned"
   },
   {
-    "Id": "U_SHOP_FILTER_SEASON",
-    "Text": "SEASON {0}"
-  },
-  {
     "Id": "U_SHOP_FILTER_SHOWALL",
     "Text": "SHOW ALL"
-  },
-  {
-    "Id": "U_SHOP_SORTBY_RELEASE",
-    "Text": "RELEASE"
   },
   {
     "Id": "U_SHOP_SORTBY_PRICE",
@@ -376,36 +316,16 @@
     "Text": "A to Z"
   },
   {
-    "Id": "U_SHOP_BUY_BUTTON",
-    "Text": "BUY"
-  },
-  {
-    "Id": "U_SHOP_BUY_FREE_TOKEN_MSG",
-    "Text": "Receive a free Palantír Token when you unlock this pack!"
-  },
-  {
     "Id": "U_SHOP_BUY_CONFIRM_MSG",
-    "Text": "Purchase for {X} Valor?"
-  },
-  {
-    "Id": "U_SHOP_BUY_CONFIRM_MSG_2",
-    "Text": "Purchase {0} for {1} VP?"
-  },
-  {
-    "Id": "U_SHOP_BUY_CONFIRM_MSG_3",
-    "Text": "Are you sure to buy {0} for {1} {2}?"
+    "Text": "Purchase for {0} {1}?"
   },
   {
     "Id": "U_SHOP_CARD_CAN_GET_FROM",
-    "Text": "This card can be obtained from: {0}."
+    "Text": "This card is available in {0}"
   },
   {
     "Id": "U_QUEST_TITLE",
-    "Text": "Quest"
-  },
-  {
-    "Id": "U_QUEST_CHOOSEDECK",
-    "Text": "CHOOSE DECK"
+    "Text": "PLAY"
   },
   {
     "Id": "U_QUEST_PLAY_COOP",
@@ -413,7 +333,7 @@
   },
   {
     "Id": "U_QUEST_PLAY_SINGLE",
-    "Text": "PLAY SINGLE"
+    "Text": "SINGLE PLAYER"
   },
   {
     "Id": "U_QUEST_DIFFICULTY_EASY",
@@ -429,7 +349,7 @@
   },
   {
     "Id": "U_ASMODEE_TITLE",
-    "Text": "Asmodee Account"
+    "Text": "Asmodee.net Account"
   },
   {
     "Id": "U_ASMODEE_USERNAME",
@@ -445,15 +365,15 @@
   },
   {
     "Id": "U_ASMODEE_REPEAT_PASSWORD",
-    "Text": "Repeat Password"
+    "Text": "Confirm Password"
   },
   {
     "Id": "U_ASMODEE_ACCEPT",
-    "Text": "Accept the Agreement"
+    "Text": "Accept Agreement"
   },
   {
     "Id": "U_ASMODEE_LOGIN",
-    "Text": "LOGIN GAME"
+    "Text": "ACCOUNT LOGIN"
   },
   {
     "Id": "U_ASMODEE_CREATE",
@@ -461,7 +381,7 @@
   },
   {
     "Id": "U_ASMODEE_PLAY_TUT",
-    "Text": "PLAY TUTORIAL AGAIN"
+    "Text": "REPLAY TUTORIAL"
   },
   {
     "Id": "U_ASMODEE_BACK",
@@ -469,35 +389,35 @@
   },
   {
     "Id": "U_ASMODEE_MSG_EMAILINVALID",
-    "Text": "E-mail address is invalid. Please check your input."
+    "Text": "Email address is invalid. Please check your input"
   },
   {
     "Id": "U_ASMODEE_MSG_PASSWORDNOTSAME",
-    "Text": "Passwords are not the same. Please re-enter your password."
+    "Text": "Passwords do not match. Please re-enter your password"
   },
   {
     "Id": "U_ASMODEE_MSG_ACCOUNTEXIST",
-    "Text": "This account already exists, please login with this account."
+    "Text": "This account already exists. Please use the correct password, or login with a different account"
   },
   {
     "Id": "U_ASMODEE_MSG_ACCOUNTNOTFOUND",
-    "Text": "Account not found. Please check your user name."
+    "Text": "Account not found. Please check your user name"
   },
   {
     "Id": "U_ASMODEE_MSG_ACCOUNTCREATED",
-    "Text": "Account created, a confirmation e-mail has been sent. Please complete the confirmation, then use this account to login."
+    "Text": "Account created. A confirmation email was sent. Please check your email to confirm and complete login"
   },
   {
     "Id": "U_ASMODEE_MSG_CREATED_CONGRATES_1",
-    "Text": "<b>Congratulations on creating your account!</b>\nAs a thank you, in addition to the Heroes, cards, and other rewards, you also get a pre-constructed deck. "
+    "Text": "<b>Congratulations on creating your Asmodee.net account!</b>\nYour account gives you many rewards—new Heroes, cards, a starter deck, a gift of 3000 Valor points, and the first Quest free!"
   },
   {
     "Id": "U_ASMODEE_MSG_CREATED_CONGRATES_2",
-    "Text": "You can use this to start your adventures right away -- simply select PLAY to begin!\nIf you want to customize your own deck first, select DECKS to learn more about deck building."
+    "Text": "The time has come to begin your journey. Go forth and fare well!"
   },
   {
     "Id": "U_ASMODEE_MSG_USERNAMEEXISTED",
-    "Text": "The username has existed. Please try another one."
+    "Text": "The user name is not available. Please try a different one"
   },
   {
     "Id": "U_INGAME_ENDROUND",
@@ -517,51 +437,31 @@
   },
   {
     "Id": "U_INGAME_TUTORIALSKIP_CONFIRM",
-    "Text": "Confirmation Window\n\nAre you sure you want to skip the tutorial for now? you will receive a reward after you complete this tutorial.\n\nYou can also replay the tutorial at any time through the option menu."
-  },
-  {
-    "Id": "U_INGAME_SELECT_CARD_TO_DISCARD",
-    "Text": "Select cards to discard"
+    "Text": "Are you sure you want to skip the tutorial?\n\nYou can replay it at any time through the Game Options menu"
   },
   {
     "Id": "U_INGAME_SELECT_CARD_TO_REPLACE",
-    "Text": "Select Any Cards You Wish To Change"
+    "Text": "Select any cards you wish to change"
   },
   {
     "Id": "U_INGAME_INITIAL_DRAW",
     "Text": "INITIAL DRAW"
   },
   {
-    "Id": "U_INGAME_PICK_FAVOR_CARDS",
-    "Text": "Pick None, 1 or 2 Favor Cards"
-  },
-  {
     "Id": "U_INGAME_PICK_FAVOR_CARDS_EASY",
-    "Text": "Pick None, 1 or 2 Favor Cards"
+    "Text": "Pick up to 2 Favor Cards, or skip this option"
   },
   {
     "Id": "U_INGAME_PICK_FAVOR_CARDS_NORMAL",
-    "Text": "Pick None or 1 Favor Card"
-  },
-  {
-    "Id": "U_INGAME_TELL_ME_WISH",
-    "Text": "TELL ME YOUR WISH"
-  },
-  {
-    "Id": "U_INGAME_CHOOST_YOUR_PATH",
-    "Text": "Choose your path"
+    "Text": "Pick a Favor Card, or skip this option"
   },
   {
     "Id": "U_INGAME_POPUP_ATTACHMENT_REPLACE",
     "Text": "This will replace the current Attachment. \nAre you sure?"
   },
   {
-    "Id": "U_INGAME_OBJECTIVE_OVERCOME",
-    "Text": " <b>Overcome:</b> {0}"
-  },
-  {
     "Id": "U_INGAME_POPUP_QUICK_STRIKE",
-    "Text": "Please select a self card to quick strike an enemy"
+    "Text": "Select a highlighted Character to perform <b>Ambush</b>"
   },
   {
     "Id": "U_INGAME_CARD_OPTION_DRAW",
@@ -569,7 +469,7 @@
   },
   {
     "Id": "U_INGAME_CARD_OPTION_REDUCE",
-    "Text": "Reduce Threat by {0}"
+    "Text": "Lose {0} Threat"
   },
   {
     "Id": "U_INGAME_CARD_OPTION_DEAL",
@@ -577,19 +477,15 @@
   },
   {
     "Id": "U_INGAME_CARD_OPTION_RAISETHREAT",
-    "Text": "Raise your Threat by 1 for each Ally you control"
+    "Text": "Gain 1 Threat for each Ally"
   },
   {
     "Id": "U_INGAME_CARD_OPTION_DISCARDALLY",
-    "Text": "Discard one Ally you control"
+    "Text": "Discard an Ally"
   },
   {
     "Id": "U_CARDTYPE_ALLY",
     "Text": "Ally"
-  },
-  {
-    "Id": "U_CARDTYPE_EQUIPMENT",
-    "Text": "Equipment"
   },
   {
     "Id": "U_CARDTYPE_BOSS",
@@ -602,10 +498,6 @@
   {
     "Id": "U_CARDTYPE_EVENT",
     "Text": "Event"
-  },
-  {
-    "Id": "U_CARDTYPE_HAZARD",
-    "Text": "Hazard"
   },
   {
     "Id": "U_CARDTYPE_HERO",
@@ -696,10 +588,6 @@
     "Text": "Hobbit"
   },
   {
-    "Id": "U_TRAITTYPE_INSECT",
-    "Text": "Insect"
-  },
-  {
     "Id": "U_TRAITTYPE_ISTAR",
     "Text": "Istar"
   },
@@ -785,7 +673,7 @@
   },
   {
     "Id": "U_INGAME_CHOOSEHERO_AVOIDSPIDER",
-    "Text": "Choose One Hero to Avoid Spider Traps"
+    "Text": "Choose a Hero to remain free of the spiders' webs"
   },
   {
     "Id": "U_INGAME_GAME_OVER",
@@ -793,7 +681,7 @@
   },
   {
     "Id": "U_INGAME_BACK_TO_LOBBY",
-    "Text": "Back to Lobby"
+    "Text": "Return to Play Menu"
   },
   {
     "Id": "U_INGAME_MAIN_OBJECTIVE",
@@ -804,36 +692,20 @@
     "Text": "NEW ROUND"
   },
   {
-    "Id": "U_INGAME_SAURON_PLANS",
-    "Text": "Sauron Plans"
-  },
-  {
     "Id": "U_INGAME_SAURON_PASSES",
     "Text": "Sauron Passes"
-  },
-  {
-    "Id": "U_INGAME_SAURONS_TURN",
-    "Text": "Sauron's Turn"
-  },
-  {
-    "Id": "U_DECKMENU_ILLUSTRATOR",
-    "Text": "Illustration"
   },
   {
     "Id": "U_DECKMENU_PURCHASE_IN_SHOP",
     "Text": "Purchase in the Shop?"
   },
   {
-    "Id": "U_QUEST_GOAL",
-    "Text": "Resolve this Objective to complete the Quest."
-  },
-  {
     "Id": "U_INGAME_DEFEAT_HERO_DEAD",
-    "Text": "Your last Hero falls, bringing your journey to a tragic end."
+    "Text": "Your last Hero falls, bringing your journey to a tragic end…"
   },
   {
     "Id": "U_INGAME_DEFEAT_THREAT_FULL",
-    "Text": "You draw Sauron's full attention, bringing your journey to a tragic end."
+    "Text": "You draw Sauron's full attention, bringing your journey to a tragic end…"
   },
   {
     "Id": "U_SHOP_HEROPACK_01_TITLE",
@@ -893,43 +765,39 @@
   },
   {
     "Id": "U_SHOP_PALANTIRPACK_DESC",
-    "Text": "Each Palantír Pack purchase includes 3 Palantír Views and 1 random, unowned, Valor Card."
+    "Text": "Each Palantír Pack includes 3 Palantír Views and 1 random new Valor Card"
   },
   {
     "Id": "U_SHOP_HEROPACK_01_DESC",
-    "Text": "Samwise Gamgee is Frodo’s most faithful friend. Though he comes from humble beginnings, Sam rises to any challenge with unmatched bravery and determination.\nThe Faithful Servant pack is tailor-made for cleverness. These cards help you sneak past the watchful Eye of Sauron to claim victory through daring and stealth."
+    "Text": "<i>Though he comes from humble beginnings, Samwise Gamgee rises to any challenge with unmatched bravery and determination.</i>\nThis pack is tailor-made for cleverness, helping you sneak past the watchful Eye of Sauron to claim victory through daring and stealth."
   },
   {
     "Id": "U_SHOP_HEROPACK_02_DESC",
-    "Text": "Faramir does not seek glory in danger without purpose. Touched by the wisdom and sadness of the Elder Race, he is shrewd in battle.\nThe Rangers of Gondor pack gives you the abilities needed to outlast Sauron’s forces and stand victorious at the battle’s end."
+    "Text": "<i>Faramir does not seek glory in danger without purpose. Touched by the wisdom and sadness of the Elder Race, he is shrewd in battle.</i>\nThis pack gives you the abilities needed to outlast Sauron’s forces and stand victorious at the battle’s end."
   },
   {
     "Id": "U_SHOP_HEROPACK_03_DESC",
-    "Text": "Éowyn is renowned for her courage and compassion. Armed with inner strength as strong as tempered steel, she stands unflinching before even the greatest threats.\nThe Shieldmaiden of Rohan pack contains cards that protect and restore your party. No matter how numerous or mighty, no foe poses a worthy threat in the face of the iron will of the Rohan."
+    "Text": "<i>Éowyn is renowned for her courage and compassion. With inner strength strong as tempered steel, she stands unflinching before even the greatest threats.</i>\nThis pack emphasizes cards that help your party defend against any threat no matter how numerous or mighty."
   },
   {
     "Id": "U_SHOP_HEROPACK_04_DESC",
-    "Text": "Legolas is unmatched in his prowess as an archer. Gifted with acute senses and breathtaking agility, he often outmaneuvers and defeats foes before they even see him coming.\nThe Prince of Mirkwood pack taps into the strengths of the Elves: employing wits and swiftness over brute strength to strike down enemies with deadly accuracy."
+    "Text": "<i>Legolas has unmatched prowess as an archer. Employing acute senses and breathtaking agility, he outmaneuvers foes to defeat them before they even see him coming.</i>\nThis pack taps into Elvish tactics, using wits and swiftness to strike down enemies with deadly accuracy."
   },
   {
     "Id": "U_SHOP_HEROPACK_DESC_HEROPACK_FAITHFULSERVANT",
-    "Text": "Samwise Gamgee is Frodo’s most faithful friend. Though he comes from humble beginnings, Sam rises to any challenge with unmatched bravery and determination.\nThe Faithful Servant pack is tailor-made for cleverness. These cards help you sneak past the watchful Eye of Sauron to claim victory through daring and stealth."
+    "Text": "<i>Though he comes from humble beginnings, Samwise Gamgee rises to any challenge with unmatched bravery and determination.</i>\nThis pack is tailor-made for cleverness, helping you sneak past the watchful Eye of Sauron to claim victory through daring and stealth."
   },
   {
     "Id": "U_SHOP_HEROPACK_DESC_HEROPACK_RANGERSOFGONDOR",
-    "Text": "Faramir does not seek glory in danger without purpose. Touched by the wisdom and sadness of the Elder Race, he is shrewd in battle.\nThe Rangers of Gondor pack gives you the abilities needed to outlast Sauron’s forces and stand victorious at the battle’s end."
+    "Text": "<i>Faramir does not seek glory in danger without purpose. Touched by the wisdom and sadness of the Elder Race, he is shrewd in battle.</i>\nThis pack gives you the abilities needed to outlast Sauron’s forces and stand victorious at the battle’s end."
   },
   {
     "Id": "U_SHOP_HEROPACK_DESC_HEROPACK_SHIELDMAIDENOFROHAN",
-    "Text": "Éowyn is renowned for her courage and compassion. Armed with inner strength as strong as tempered steel, she stands unflinching before even the greatest threats.\nThe Shieldmaiden of Rohan pack contains cards that protect and restore your party. No matter how numerous or mighty, no foe poses a worthy threat in the face of the iron will of the Rohan."
+    "Text": "<i>Éowyn is renowned for her courage and compassion. With inner strength strong as tempered steel, she stands unflinching before even the greatest threats.</i>\nThis pack emphasizes cards that help your party defend against any threat no matter how numerous or mighty."
   },
   {
     "Id": "U_SHOP_HEROPACK_DESC_HEROPACK_PRINCEOFMIRKWOOD",
-    "Text": "Legolas is unmatched in his prowess as an archer. Gifted with acute senses and breathtaking agility, he often outmaneuvers and defeats foes before they even see him coming.\nThe Prince of Mirkwood pack taps into the strengths of the Elves: employing wits and swiftness over brute strength to strike down enemies with deadly accuracy."
-  },
-  {
-    "Id": "U_SHOP_COST",
-    "Text": "COST"
+    "Text": "<i>Legolas has unmatched prowess as an archer. Employing acute senses and breathtaking agility, he outmaneuvers foes to defeat them before they even see him coming.</i>\nThis pack taps into Elvish tactics, using wits and swiftness to strike down enemies with deadly accuracy."
   },
   {
     "Id": "CHOICETEXT_GANDALF_GANDALFCHOICE00",
@@ -953,7 +821,7 @@
   },
   {
     "Id": "U_INGAME_SELECT_FOR_ATTACHMENT",
-    "Text": "To equip this Attachment, select a\n highlighted Character."
+    "Text": "To equip this Attachment, select\na highlighted Character"
   },
   {
     "Id": "U_INGAME_HISTORY_CARDPLAYED",
@@ -965,35 +833,19 @@
   },
   {
     "Id": "U_DECKMENU_PURCHASE_INFO",
-    "Text": "This card can be obtained from: {0}"
+    "Text": "This card is available in {0}"
   },
   {
     "Id": "U_DECKMENU_NEED_ASMODEE",
-    "Text": "Please login with an Asmodee account first."
+    "Text": "Please login with an Asmodee.net account"
   },
   {
     "Id": "U_DECKMENU_TOO_MUCH_DECK",
-    "Text": "You cannot have more than 9 decks."
-  },
-  {
-    "Id": "U_DECKMENU_CREATING_DECK",
-    "Text": "Creating deck..."
-  },
-  {
-    "Id": "U_DECKMENU_DECK_CREATED",
-    "Text": "New deck created."
-  },
-  {
-    "Id": "U_DECKMENU_APPLYING",
-    "Text": "Applying..."
+    "Text": "You have the maximum decks available"
   },
   {
     "Id": "U_DECKMENU_ERROR_CARDBACK",
-    "Text": "Error in applying card back, please try again later."
-  },
-  {
-    "Id": "U_DECKMENU_PURCHASING_CARDBACK",
-    "Text": "Purchasing Card Back..."
+    "Text": "An error occurred. Please try again later"
   },
   {
     "Id": "U_DECKMENU_SAVING_DECK",
@@ -1001,7 +853,7 @@
   },
   {
     "Id": "U_DECKMENU_DECK_SAVED",
-    "Text": "Deck saved."
+    "Text": "Deck saved"
   },
   {
     "Id": "U_DECKMENU_DELETING_DECK",
@@ -1009,7 +861,7 @@
   },
   {
     "Id": "U_DECKMENU_DECK_DELETED",
-    "Text": "Deck deleted."
+    "Text": "Deck deleted"
   },
   {
     "Id": "U_DECKMENU_RENAMING_DECK",
@@ -1017,11 +869,11 @@
   },
   {
     "Id": "U_DECKMENU_DECK_RENAMED",
-    "Text": "Deck renamed."
+    "Text": "Deck renamed"
   },
   {
     "Id": "U_DECKMENU_DECKBUILDER_ERROR",
-    "Text": "An error occurred when trying to access deck builder server. Please try again later."
+    "Text": "An error occurred accessing deck builder. Please try again later"
   },
   {
     "Id": "U_QUEST_YOUR_QUEST_LIST",
@@ -1057,15 +909,15 @@
   },
   {
     "Id": "U_BATTLE_UPKEEP",
-    "Text": "-UPKEEP-"
+    "Text": "UPKEEP"
   },
   {
     "Id": "U_BATTLE_PLANNING",
-    "Text": "-PLANNING-"
+    "Text": "PLANNING"
   },
   {
     "Id": "U_BATTLE_ADVENTURE",
-    "Text": "-ADVENTURE-"
+    "Text": "ADVENTURE"
   },
   {
     "Id": "U_BATTLE_NEW_ROUND",
@@ -1081,55 +933,31 @@
   },
   {
     "Id": "U_SHOP_FAILED_PURCHASE_PALANTIR_CHECK",
-    "Text": "Failed to purchase Palantír views. Please check the legality of your account."
-  },
-  {
-    "Id": "U_SHOP_BUY_CAMPAIGN_MSG",
-    "Text": "Buy the full Campaign - includes the first Quest free!"
+    "Text": "Purchase failed"
   },
   {
     "Id": "U_SHOP_BUY_FAVOR_CARD_MAX",
-    "Text": "You cannot purchase more copies of this card."
-  },
-  {
-    "Id": "U_SHOP_BUY_CONFIRM_PURCHASE",
-    "Text": "Please confirm your purchase below."
-  },
-  {
-    "Id": "U_SHOP_CHOOSE_FAVOR_CARD",
-    "Text": "Please choose a favor card!"
-  },
-  {
-    "Id": "U_SHOP_SELECT_FAVOR_CARD_SPEND_TOKEN",
-    "Text": "Select a Favor card to spend a Token."
-  },
-  {
-    "Id": "U_SHOP_SELECT_OPTION_FAVOR_TOKEN",
-    "Text": "Select a purchase option to get 6 Favor Tokens."
-  },
-  {
-    "Id": "U_SHOP_PLEASE_BUY_ONE_VIEW",
-    "Text": "Please buy one View."
+    "Text": "You cannot have more than 2 copies of this card"
   },
   {
     "Id": "U_SHOP_FAILED_PURCHASE_ITEM",
-    "Text": "Failed to purchase item."
+    "Text": "Purchase failed"
   },
   {
     "Id": "U_SHOP_FAILED_PURCHASE_PALANTIR",
-    "Text": "Failed to purchase Palantír Views."
+    "Text": "Purchase failed"
   },
   {
     "Id": "U_SHOP_FAILED_PALANTIR_REWARD",
-    "Text": "Failed to get Palantír rewards."
+    "Text": "Reward failed"
   },
   {
     "Id": "U_SHOP_FAILED_PURCHASE_POOR",
-    "Text": "You don't have enough {0} to complete this purchase!"
+    "Text": "You don't have enough {0} to make this purchase!"
   },
   {
     "Id": "U_ASMODEE_PLEASE_SIGNIN",
-    "Text": "Please sign in with an Asmodee account!"
+    "Text": "Please login with an Asmodee.net account"
   },
   {
     "Id": "U_BATTLE_HERO_DEFEATED",
@@ -1137,7 +965,7 @@
   },
   {
     "Id": "U_OPTION_QUIT_CONFIRM",
-    "Text": "Are you sure you want to quit the game?"
+    "Text": "Are you sure you want to\nquit the game?"
   },
   {
     "Id": "U_TITLE_PRESS_ANY_KEY",
@@ -1149,31 +977,19 @@
   },
   {
     "Id": "U_AVATAR_CHANGED",
-    "Text": "Avatar Changed"
+    "Text": "Avatar changed"
   },
   {
     "Id": "U_DECKMENU_ADD_FAIL_DECK_FULL",
-    "Text": "You Deck is already full!"
-  },
-  {
-    "Id": "U_DECKMENU_ADD_FAIL_NO_HERO",
-    "Text": "To add this card, your deck must have 1 {0} Hero."
-  },
-  {
-    "Id": "U_DECKMENU_ADD_FAIL_NO_2HERO",
-    "Text": "To add this card, your deck must have {0} {1} Heroes."
+    "Text": "You deck is full!"
   },
   {
     "Id": "U_DECKMENU_ADD_FAIL_LIMIT_REACHED",
     "Text": "Your deck is full!"
   },
   {
-    "Id": "U_DECKMENU_CARD_TAB_DISABLED",
-    "Text": "Please choose 3 Heroes first before adding other cards."
-  },
-  {
     "Id": "U_BATTLE_PLAY_AREA_FULL",
-    "Text": "Your play area is full. Choose an Ally to replace."
+    "Text": "Your play area is full. \nDo you want to replace an Ally?"
   },
   {
     "Id": "U_OPTIONS_LANGUAGE",
@@ -1241,7 +1057,7 @@
   },
   {
     "Id": "U_BATTLE_DECK_EMPTY",
-    "Text": "Deck empty! No more cards can be drawn!"
+    "Text": "Your deck is empty!"
   },
   {
     "Id": "U_DECKMENU_RARITY_S",
@@ -1580,120 +1396,16 @@
     "Text": "Multiplayer"
   },
   {
-    "Id": "U_INCREASE_VIEW",
-    "Text": "Increase Your Views"
-  },
-  {
-    "Id": "U_PALANTIR_G",
-    "Text": "Palantir Gaze"
-  },
-  {
-    "Id": "U_PALANTIR_GS",
-    "Text": "Palantir Gazes"
-  },
-  {
     "Id": "U_SINGLE_PLAYER",
     "Text": "Single Player"
   },
   {
     "Id": "U_SHOP_QUEST_SELECT",
-    "Text": "Select an individual Quest for more information and purchase options."
+    "Text": "Select an individual Quest for more information and purchase options"
   },
   {
     "Id": "U_SHOP_SELECT_OPTION",
-    "Text": "Select a purchase option."
-  },
-  {
-    "Id": "U_CURRENT_VP",
-    "Text": "Current Valor Points"
-  },
-  {
-    "Id": "U_SHOP_BUY_WITH_5_QS",
-    "Text": "Purchase with 5 Quest Stars?"
-  },
-  {
-    "Id": "U_CURRENT_QS",
-    "Text": "Current Quest Stars"
-  },
-  {
-    "Id": "U_DOOR_DURIN_OPEN",
-    "Text": "The Door of Durin opens!"
-  },
-  {
-    "Id": "U_QUEST_UNLOCK",
-    "Text": "Your Quest is unlocked. A new adventure awaits!"
-  },
-  {
-    "Id": "U_SORT_BY",
-    "Text": "Sort by"
-  },
-  {
-    "Id": "U_SEASON_1",
-    "Text": "Season 1"
-  },
-  {
-    "Id": "U_SHOP_BUY_HERO_BONUS_MSG",
-    "Text": "Select a purchase option. Every Hero Pack purchase includes a free Palantír View!"
-  },
-  {
-    "Id": "U_SHOP_BUY_WITH_5_BT",
-    "Text": "Purchase with 5 Beacon Torches?"
-  },
-  {
-    "Id": "U_CURRENT_BT",
-    "Text": "Current Beacon Torches"
-  },
-  {
-    "Id": "U_BG_LIT",
-    "Text": "The Beacon of Gondor is lit!"
-  },
-  {
-    "Id": "U_BG_HERO_RESPOND",
-    "Text": "Heroes respond when called!"
-  },
-  {
-    "Id": "U_SHOP_PURCHASE_CONFIRM",
-    "Text": "Purchase this item?"
-  },
-  {
-    "Id": "U_SHOP_PURCHASE_1_FT",
-    "Text": "Purchase with 1 Favor Token?"
-  },
-  {
-    "Id": "U_INGAME_DEFEAT_HERO_DEAD_TITLE",
-    "Text": "Defeat Notification (Heroes)"
-  },
-  {
-    "Id": "U_INGAME_DEFEAT_THREAT_FULL_TITLE",
-    "Text": "Defeat Notification (Threat)"
-  },
-  {
-    "Id": "U_CAMPAIGN_1",
-    "Text": "Campaign 1"
-  },
-  {
-    "Id": "U_QUEST_1",
-    "Text": "Quest 1"
-  },
-  {
-    "Id": "U_QUEST_VICTORY",
-    "Text": "Quest Victory"
-  },
-  {
-    "Id": "U_QUEST_2",
-    "Text": "Quest 2"
-  },
-  {
-    "Id": "U_QUEST_3",
-    "Text": "Quest 3"
-  },
-  {
-    "Id": "U_QUEST_4",
-    "Text": "Quest 4"
-  },
-  {
-    "Id": "U_QUEST_5",
-    "Text": "Quest 5"
+    "Text": "Select a purchase option"
   },
   {
     "Id": "U_CAMPAIGN_2",
@@ -1705,7 +1417,7 @@
   },
   {
     "Id": "U_SHOP_WRONG_PRICE",
-    "Text": "The price of this item is not correct!"
+    "Text": "This price is not correct!"
   },
   {
     "Id": "U_SHOP_AVATAR_ISTARI",
@@ -1744,8 +1456,8 @@
     "Text": "Istari"
   },
   {
-    "Id": "U_SHOP_CB_KHAZAD_DUM",
-    "Text": "Khazad Dum"
+    "Id": "U_SHOP_CB_KHAZADDUM",
+    "Text": "Khazad-dûm"
   },
   {
     "Id": "U_SHOP_CB_LANDOFSHADOW",
@@ -1805,11 +1517,7 @@
   },
   {
     "Id": "U_SHOP_SCB_DEFAULT",
-    "Text": "Default Sauron Card Back"
-  },
-  {
-    "Id": "U_SHOP_FAVOR_TOKEN",
-    "Text": "Favor Token"
+    "Text": "Sauron Card Back"
   },
   {
     "Id": "U_SHOP_PF_ISTARI",
@@ -1857,7 +1565,7 @@
   },
   {
     "Id": "U_QUEST_COOP_COMING_SOON",
-    "Text": "Co-op mode coming soon!"
+    "Text": "Multiplayer coming soon!"
   },
   {
     "Id": "U_BATTLE_POWER",
@@ -1905,7 +1613,7 @@
   },
   {
     "Id": "U_DECKMENU_SINGLE_CARD_LIMIT",
-    "Text": "Maximum number of this card in your deck already"
+    "Text": "Your deck has the maximum quantity of this card already"
   },
   {
     "Id": "U_QUEST_SCORE_YOUR_SCORE",
@@ -1961,7 +1669,7 @@
   },
   {
     "Id": "U_SHOP_VALOR_CARDS_ONE_ONLY",
-    "Text": "You can have no more than 2 copies of this card"
+    "Text": "You cannot have more than 2 copies of this card"
   },
   {
     "Id": "U_SHOP_VALOR_GO_BUY_HERO_PACK",
@@ -2005,11 +1713,7 @@
   },
   {
     "Id": "U_ASMODEE_MSG_INPUT_WRONG",
-    "Text": "Either account or password is wrong"
-  },
-  {
-    "Id": "U_SHOP_CARD_CAN_GET_FROM_STARTER",
-    "Text": "Starter Card. Sign into Asmodee account after tutorial to unlock!"
+    "Text": "The user name or password entered is invalid"
   },
   {
     "Id": "U_BATTLE_THREAT_EVENT",
@@ -2049,7 +1753,7 @@
   },
   {
     "Id": "U_EA_MSG_BODY",
-    "Text": "The Lord of the Rings™: Living Card Game™ is still in active development.  Many features, cards, effects and mechanics are subject to change for any number of reasons based on game play data and user feedback.\n \nIf you run into any game play issues or bugs, or have any feedback, please let us know at our <a href=\"http://steamcommunity.com/app/509580/discussions/\">Steam Discussions</a>.\n \nWe appreciate your taking part in our early access development so that we can refine, balance and improve the game.  \n \nNow…on to Middle-earth and the adventures that await you there!"
+    "Text": "<b>The Lord of the Rings™: Living Card Game™</b> is still in active development.\n \nMany features, cards, effects and mechanics are subject to change for any number of reasons based on game play data and user feedback.\n \nIf you run into any game play issues or bugs, or have any feedback, please let us know at our <a href=\"http://steamcommunity.com/app/509580/discussions/\">Steam Discussions</a>.\n \nWe appreciate your taking part in our early access development so that we can refine, balance, and improve the game.  \n \nNow… on to Middle-earth and the adventures that await you there!"
   },
   {
     "Id": "U_QUEST_COMPLETE",
@@ -2066,6 +1770,38 @@
   {
     "Id": "U_PROLOGUE_P3",
     "Text": "PROLOGUE PART 3"
+  },
+  {
+    "Id": "U_SHOP_CB_COLLECTOR",
+    "Text": "Collector"
+  },
+  {
+    "Id": "U_SHOP_CB_LEADERSHIP",
+    "Text": "Leadership"
+  },
+  {
+    "Id": "U_SHOP_CB_LEAVESOFLORIEN",
+    "Text": "Leaves of Lorien"
+  },
+  {
+    "Id": "U_SHOP_CB_LORE",
+    "Text": "Lore"
+  },
+  {
+    "Id": "U_SHOP_CB_SPIRIT",
+    "Text": "Spirit"
+  },
+  {
+    "Id": "U_SHOP_CB_TACTICS",
+    "Text": "Tactics"
+  },
+  {
+    "Id": "U_SHOP_CB_UNDERHILL",
+    "Text": "Underhill"
+  },
+  {
+    "Id": "U_SHOP_CB_MIRKWOOD",
+    "Text": "Mirkwood"
   },
   {
     "Id": "PLACEHOLDER2",
@@ -2321,19 +2057,19 @@
   },
   {
     "Id": "Q_STAGE_FORESTGATE_OBJECTIVE",
-    "Text": "Make your way through Mirkwood Forest."
+    "Text": "Resolve \"Hidden Path\" to allow travel from this location"
   },
   {
     "Id": "Q_STAGE_CAPTUREDBYSPIDERS_OBJECTIVE",
-    "Text": "Resolve \"Cocoon\" and rescue the captive Hero to allow travel."
+    "Text": "Resolve \"Cocoon\" to rescue the captive Hero and allow travel from this location."
   },
   {
     "Id": "Q_STAGE_STANDANDFIGHT_OBJECTIVE",
-    "Text": "Defeat each Enemy in play to allow travel."
+    "Text": "Defeat each Enemy in play to allow travel from this location."
   },
   {
     "Id": "Q_STAGE_TURNANDFLEE_OBJECTIVE",
-    "Text": "Resolve \"Find the Path\" to allow travel."
+    "Text": "Resolve \"Find the Path\" to allow travel from this location."
   },
   {
     "Id": "Q_STAGE_THEENCHANTEDSTREAM_OBJECTIVE",
@@ -2472,6 +2208,10 @@
     "Text": "NKTEST"
   },
   {
+    "Id": "Q_CAMPAIGN_TEST0227_NAME",
+    "Text": "test0227"
+  },
+  {
     "Id": "PLACEHOLDER3",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
@@ -2565,15 +2305,15 @@
   },
   {
     "Id": "C_ATEST181120_FLAVOR",
-    "Text": "tester\ntest"
+    "Text": "[do not translate]tester\ntest"
   },
   {
     "Id": "C_ATEST181120_TEXT",
-    "Text": "C_ATEST181120_TEXT"
+    "Text": "[do not translate]a playground for card script testing,"
   },
   {
     "Id": "C_ATEST181120_TITLE",
-    "Text": "testing card"
+    "Text": "[do not translate]testing card"
   },
   {
     "Id": "C_AWATCHFULPEACE_TEXT",
@@ -2701,7 +2441,7 @@
   },
   {
     "Id": "C_BURSTINTOSONG_TEXT",
-    "Text": "After a Character takes damage, move it"
+    "Text": "Cancel damage from the next unique Enemy attack."
   },
   {
     "Id": "C_BURSTINTOSONG_TITLE",
@@ -4348,484 +4088,12 @@
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
   {
-    "Id": "T_TUTORIAL01",
-    "Text": "Welcome to <b>The Lord of the Rings™: Living Card Game™</b>!"
-  },
-  {
-    "Id": "T_TUTORIAL02",
-    "Text": "<b>Aragorn</b> and <b>Arwen</b> are ambushed while traveling through Mirkwood Forest."
-  },
-  {
-    "Id": "T_TUTORIAL03",
-    "Text": "<b>Aragorn</b> and <b>Arwen</b> are <i>Heroes</i>. \nThey begin the game in play. \nHeroes are powerful, but your \njourney will come to an \nend if they are all \ndefeated."
-  },
-  {
-    "Id": "T_TUTORIAL04",
-    "Text": "This is an <i>Enemy</i>. \nYou will encounter many of them\n during your adventures."
-  },
-  {
-    "Id": "T_TUTORIAL05",
-    "Text": "This is a <i>Main Objective</i>.\n Every Location has one.\n It tells you what you must\n do to move on to\n the next stage of\n your Quest."
-  },
-  {
-    "Id": "T_TUTORIAL06",
-    "Text": "The game is played in rounds, which\n have two phases: <i>Planning</i> and\n <i>Adventure</i>. Sauron goes first\n in each. On your turn in\n the Planning phase, you\n play cards to boost\n your Characters'\n abilities or prepare\n against Sauron."
-  },
-  {
-    "Id": "T_TUTORIAL07",
-    "Text": "To play a card,\n select and drag it\n to the play area.\n Play <b>Mithrandir's Advice</b>."
-  },
-  {
-    "Id": "T_TUTORIAL08",
-    "Text": "Playing a card requires spending\n <i>Resources</i> equal to the cost in\n its upper left corner. You get\n Resources at the start of each\n round, and by playing\n certain cards. Play\n <b>Gaining Strength</b>\n to get a Resource."
-  },
-  {
-    "Id": "T_TUTORIAL09",
-    "Text": "<i>Allies</i> help your Heroes.\n Play <b>Guard of the Citadel</b>\n to your player area."
-  },
-  {
-    "Id": "T_TUTORIAL10",
-    "Text": "You have played all the cards\n you can for now. Select the\n <b>END PHASE</b> button."
-  },
-  {
-    "Id": "T_TUTORIAL11",
-    "Text": "After you finish Planning, the\n Adventure phase begins.\n You take turns with Sauron\n during this phase, and may\n attack Enemies or\n engage Objectives."
-  },
-  {
-    "Id": "T_TUTORIAL12",
-    "Text": "In an attack, attacker and\n defender inflict damage on one\n another equal to their <i>Attack</i>\n values. Both Characters\n are then exhausted.\n A Character reduced\n to 0 <i>Health</i> is\n defeated."
-  },
-  {
-    "Id": "T_TUTORIAL13",
-    "Text": "Now it's your turn!\n Use <b>Aragorn</b> to attack\n the <b>East Bight Patrol</b>."
-  },
-  {
-    "Id": "T_TUTORIAL14",
-    "Text": "<b>Aragorn</b>'s 2 Attack value drops\n the <b>East Bight Patrol</b> to 0 Health.\n The Enemy is defeated."
-  },
-  {
-    "Id": "T_TUTORIAL15",
-    "Text": "Once you overcome\n a Main Objective, you may\n travel to the next Location."
-  },
-  {
-    "Id": "T_TUTORIAL16",
-    "Text": "Select the <b>TRAVEL</b> button\n to continue your Quest."
-  },
-  {
-    "Id": "T_TUTORIAL17",
-    "Text": "This is the <i>Threat</i> meter.\n Your Threat increases at the end of\n each round and when you travel.\n If you reach 50 Threat,\n your Quest fails."
-  },
-  {
-    "Id": "T_TUTORIAL18",
-    "Text": "<b>Aragorn</b> and <b>Arwen</b> venture deeper into the forest."
-  },
-  {
-    "Id": "T_TUTORIAL19",
-    "Text": "<i>Upkeep</i> occurs at the start of\n each round. Some Characters have\n abilities that you may use at\n this time. Use <b>Arwen</b>'s\n ability to heal <b>Aragorn</b>."
-  },
-  {
-    "Id": "T_TUTORIAL20",
-    "Text": "In addition to Enemies, Sauron can\n also play <i>Attachments</i> and <i>Events</i>.\n These cards have a variety\n of effects, from impeding your\n progress to damaging your\n Characters directly."
-  },
-  {
-    "Id": "T_TUTORIAL21",
-    "Text": "Some cards have <i>keywords</i>,\n which grant additional abilities.\n Play <b>Rohirrim Lancer</b>, which\n has the Ranged keyword."
-  },
-  {
-    "Id": "T_TUTORIAL22",
-    "Text": "When making a ranged attack on\n an exhausted target, the attacker\n takes no damage. Use\n <b>Rohirrim Lancer</b> to finish off\n the <b>Hatchling Spider</b>."
-  },
-  {
-    "Id": "T_TUTORIAL23",
-    "Text": "Use <b>Aragorn</b> to defeat\n the last Enemy."
-  },
-  {
-    "Id": "T_TUTORIAL24",
-    "Text": "Some cards have special <i>Powers</i>. \nSelect <b>Aragorn</b>, then select his\n Power to spend 1 Resource\n and ready him."
-  },
-  {
-    "Id": "T_TUTORIAL25",
-    "Text": "You use <i>Willpower</i> to engage\n an Objective. Select <b>Aragorn</b> and\n drag him to <b>Search the Area</b>."
-  },
-  {
-    "Id": "T_TUTORIAL26",
-    "Text": "Your Characters are exhausted.\n Select the <b>END PHASE</b> button."
-  },
-  {
-    "Id": "T_TUTORIAL27",
-    "Text": "A new round has begun. Use\n <b>Arwen</b>'s ability to heal\n one of your Characters."
-  },
-  {
-    "Id": "T_TUTORIAL28",
-    "Text": "A Character with the Sentinel\n keyword must be defeated before\n you can target other Enemies\n or Objectives."
-  },
-  {
-    "Id": "T_TUTORIAL29",
-    "Text": "You can use Attachments to enhance\n Characters. To equip an Attachment,\n play the card, then select a Hero\n or Ally. Equip <b>Aragorn</b> with\n the <b>Warrior Sword</b>."
-  },
-  {
-    "Id": "T_TUTORIAL30",
-    "Text": "Use what you've learned to defeat\n the <b>Dol Guldur Orcs </b>and\n <b>Search the Area</b>."
-  },
-  {
-    "Id": "T_TUTORIAL31",
-    "Text": "Excellent work!\n Now, finish off the Orcs to\n complete your Quest."
-  },
-  {
-    "Id": "T_TUTORIAL32",
-    "Text": "Excellent work!\n Now you can <b>Search the Area</b>\n to complete your Quest."
-  },
-  {
-    "Id": "T_TUTORIAL33",
-    "Text": "Congratulations! You have completed the tutorial, but that was merely the beginning. Create an Asmodee.net account now to unlock Heroes, Quests, and more. Here is all that you shall receive to start your own adventures in Middle-earth…"
-  },
-  {
-    "Id": "T_SPLASH_ITEM_01",
-    "Text": "4 Heroes"
-  },
-  {
-    "Id": "T_SPLASH_ITEM_02",
-    "Text": "5 Leadership cards x2"
-  },
-  {
-    "Id": "T_SPLASH_ITEM_03",
-    "Text": "5 Lore cards x2"
-  },
-  {
-    "Id": "T_SPLASH_ITEM_04",
-    "Text": "5 Spirit cards x2"
-  },
-  {
-    "Id": "T_SPLASH_ITEM_05",
-    "Text": "5 Tactics cards x2"
-  },
-  {
-    "Id": "T_SPLASH_ITEM_06",
-    "Text": "1 Neutral card x2"
-  },
-  {
-    "Id": "T_SPLASH_ITEM_07",
-    "Text": "1 Card back"
-  },
-  {
-    "Id": "T_SPLASH_ITEM_08",
-    "Text": "1 Palantír gaze"
-  },
-  {
-    "Id": "T_SPLASH_ITEM_09",
-    "Text": "1 Beacon Torch"
-  },
-  {
-    "Id": "T_SPLASH_ITEM_10",
-    "Text": "1 Campaign Star"
-  },
-  {
-    "Id": "T_SPLASH_ITEM_11",
-    "Text": "Access to the <i>Adventures in Wilderland</i>"
-  },
-  {
-    "Id": "T_SPLASH_ITEM_12",
-    "Text": "Campaign - including the first Quest free!"
-  },
-  {
     "Id": "T_TITLE",
     "Text": "TUTORIAL"
   },
   {
     "Id": "T_DESC",
     "Text": "Start your journey."
-  },
-  {
-    "Id": "T_LOADING_SCREEN_01B",
-    "Text": "Welcome to The Lord of the Rings™: Living Card Game™! This tutorial will teach you the ins and outs of the game."
-  },
-  {
-    "Id": "T_LOADING_SCREEN_01C",
-    "Text": "In this tutorial, Aragorn and Arwen are ambushed while traveling through Mirkwood Forest…."
-  },
-  {
-    "Id": "T_GAMEPLAY_01B",
-    "Text": "Greetings! I am Gandalf the Grey. I shall be your guide through this tutorial."
-  },
-  {
-    "Id": "T_GAMEPLAY_01C",
-    "Text": "In The Lord of the Rings™: Living Card Game™, you take Heroes on a series of Quests. Each Quest leads you through many Locations across Middle-earth. "
-  },
-  {
-    "Id": "T_GAMEPLAY_01D",
-    "Text": "This banner shows your current Location. "
-  },
-  {
-    "Id": "T_GAMEPLAY_01E",
-    "Text": "The Location contains the Main Objective that you must resolve before your journey can continue. To view the Main Objective, select the Location banner."
-  },
-  {
-    "Id": "T_GAMEPLAY_01F",
-    "Text": "You may close the Main Objective window at any time. Simply select the banner again."
-  },
-  {
-    "Id": "T_GAMEPLAY_02A",
-    "Text": "This is your player area. Here you will find everything that you need during a Quest. Let's begin with the most important part…"
-  },
-  {
-    "Id": "T_GAMEPLAY_02B",
-    "Text": "Aragorn and Arwen are Heroes. They begin the game in play. Heroes are powerful, but your journey will come to an end if they are all defeated."
-  },
-  {
-    "Id": "T_GAMEPLAY_02C",
-    "Text": "Heroes have certain abilities. The first is Attack value — the amount of damage dealt when you attack."
-  },
-  {
-    "Id": "T_GAMEPLAY_02D",
-    "Text": "Next is Willpower. When engaging an Objective, you reduce its Quest value by this amount."
-  },
-  {
-    "Id": "T_GAMEPLAY_02E",
-    "Text": "And this is Health. It indicates how much damage a Character can sustain before being defeated. "
-  },
-  {
-    "Id": "T_GAMEPLAY_02F",
-    "Text": "There is more to your Heroes than this, of course! Be patient; all shall be revealed soon."
-  },
-  {
-    "Id": "T_GAMEPLAY_02G",
-    "Text": "This is your deck. You draw cards from it to perform various actions. You may select it at any time to see how many cards you have left. Go ahead; give it a try."
-  },
-  {
-    "Id": "T_GAMEPLAY_02H",
-    "Text": "This meter shows your Resources, which you can spend to play cards and use abilities."
-  },
-  {
-    "Id": "T_GAMEPLAY_02I",
-    "Text": "These are your Preparation sockets. They indicate whether you have readied a card with the Preparation trait. We shall talk more about those shortly."
-  },
-  {
-    "Id": "T_GAMEPLAY_02J",
-    "Text": "Your hand holds the cards available for you to play. You start the game with five cards in hand, and draw one more during each Upkeep phase."
-  },
-  {
-    "Id": "T_GAMEPLAY_03A",
-    "Text": "This is Sauron's area. Much like you, he has a deck, cards, Resources, and Preparation sockets. "
-  },
-  {
-    "Id": "T_GAMEPLAY_03B",
-    "Text": "This is also where you find the Threat meter. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, your Quest fails."
-  },
-  {
-    "Id": "T_GAMEPLAY_03C",
-    "Text": "Let us not forget, Sauron has forces that oppose your Heroes. This is an Enemy. You will encounter many of them during your adventures."
-  },
-  {
-    "Id": "T_GAMEPLAY_03D",
-    "Text": "Though similar to Heroes, Enemies have only Attack and Health values."
-  },
-  {
-    "Id": "T_GAMEPLAY_04",
-    "Text": "The game is played in rounds, which have three phases: Upkeep, Planning, and Adventure."
-  },
-  {
-    "Id": "T_GAMEPLAY_05",
-    "Text": "During Upkeep, you get 3 Resources and draw 1 card. Then Sauron does the same."
-  },
-  {
-    "Id": "T_GAMEPLAY_06",
-    "Text": "Next is the Planning phase. Sauron goes first here, and plays cards to oppose you."
-  },
-  {
-    "Id": "T_GAMEPLAY_07",
-    "Text": "On your turn in the Planning phase, you play cards to boost your Characters’ abilities or prepare against Sauron."
-  },
-  {
-    "Id": "T_GAMEPLAY_07A",
-    "Text": "Your hand holds the cards available for you to play. You start the game with 5 cards, and draw 1 more during each Upkeep phase."
-  },
-  {
-    "Id": "T_GAMEPLAY_07B",
-    "Text": "To examine a card in your hand, simply select it. Select Mithrandir's Advice."
-  },
-  {
-    "Id": "T_GAMEPLAY_07C",
-    "Text": "To dismiss this view, select anywhere else on the board."
-  },
-  {
-    "Id": "T_GAMEPLAY_08A",
-    "Text": "To play a card, select and drag it to the play area. Play Mithrandir’s Advice."
-  },
-  {
-    "Id": "T_GAMEPLAY_08B",
-    "Text": "Playing a card requires spending Resources equal to the cost in its upper left corner. You get Resources at the start of each round, and by playing certain cards. "
-  },
-  {
-    "Id": "T_GAMEPLAY_08C",
-    "Text": "Play Gaining Strength to get a Resource."
-  },
-  {
-    "Id": "T_GAMEPLAY_09A",
-    "Text": "Allies help your Heroes and have similar abilities — though they are not as powerful, of course."
-  },
-  {
-    "Id": "T_GAMEPLAY_09B",
-    "Text": "To play an Ally, select and drag the card where you want the Ally to appear in your play area. Play Guard of the Citadel."
-  },
-  {
-    "Id": "T_GAMEPLAY_10",
-    "Text": "You have played all the cards you can, thus completing your Planning for now. Select the END PHASE button."
-  },
-  {
-    "Id": "T_GAMEPLAY_11A",
-    "Text": "After you finish Planning, the Adventure phase begins. You take turns with Sauron during this phase, and may attack Enemies or engage Objectives."
-  },
-  {
-    "Id": "T_GAMEPLAY_11B",
-    "Text": "In an attack, attacker and defender inflict damage on one another equal to their Attack values. Both Characters are then exhausted. A Character reduced to 0 Health is defeated."
-  },
-  {
-    "Id": "T_GAMEPLAY_12A",
-    "Text": "You go first in the Adventure phase. Select Aragorn to attack one of the East Bight Patrol."
-  },
-  {
-    "Id": "T_GAMEPLAY_12B",
-    "Text": "Since Aragorn’s 2 Attack value drops the East Bight Patrol to 0 Health, the Enemy is defeated."
-  },
-  {
-    "Id": "T_GAMEPLAY_13",
-    "Text": "Now it is Sauron's turn."
-  },
-  {
-    "Id": "T_GAMEPLAY_14A",
-    "Text": "Some cards have special Powers. Select Aragorn, then select his Power to spend 1 Resource and ready him."
-  },
-  {
-    "Id": "T_GAMEPLAY_14B",
-    "Text": "Now you may use Aragorn to finish off the remaining Enemy."
-  },
-  {
-    "Id": "T_GAMEPLAY_15A",
-    "Text": "Since you have resolved the Main Objective, you may travel to the next Location. Select the TRAVEL button to move on."
-  },
-  {
-    "Id": "T_GAMEPLAY_15B",
-    "Text": "Remember, your Threat increases when you travel. Be careful, for Sauron gains additional powers when you reach certain Threat levels."
-  },
-  {
-    "Id": "T_LOADING_SCREEN_02A",
-    "Text": "When traveling, you move to a new Location. "
-  },
-  {
-    "Id": "T_LOADING_SCREEN_02B",
-    "Text": "Aragorn and Arwen venture deeper into the forest…."
-  },
-  {
-    "Id": "T_GAMEPLAY_16A",
-    "Text": "A new round begins once we arrive at a new Location."
-  },
-  {
-    "Id": "T_GAMEPLAY_16B",
-    "Text": "Some Characters have abilities that you may use during Upkeep. In this case, Arwen may restore 1 Health to a Character. "
-  },
-  {
-    "Id": "T_GAMEPLAY_16C",
-    "Text": "Select Aragorn to use Arwen's healing ability."
-  },
-  {
-    "Id": "T_GAMEPLAY_17A",
-    "Text": "With that, the Planning phase begins, and Sauron acts. "
-  },
-  {
-    "Id": "T_GAMEPLAY_17B",
-    "Text": "In addition to Enemies, Sauron can also play Attachments and Events. These cards have a variety of effects, from impeding your progress to damaging your Characters directly."
-  },
-  {
-    "Id": "T_GAMEPLAY_17C",
-    "Text": "Sauron defeated your Ally, but it is now your turn. Play Rohirrim Lancer to replace your fallen Ally."
-  },
-  {
-    "Id": "T_GAMEPLAY_17D",
-    "Text": "Thus ends the Planning phase. Select the END PHASE button to proceed."
-  },
-  {
-    "Id": "T_GAMEPLAY_18A",
-    "Text": "As with the previous Location, your turn begins the Adventure phase. Use Aragorn to dispatch the East Bight Patrol."
-  },
-  {
-    "Id": "T_GAMEPLAY_18C",
-    "Text": "Some cards have keywords, which grant additional abilities. "
-  },
-  {
-    "Id": "T_GAMEPLAY_18D",
-    "Text": "Rohirrim Lancer has the Ranged keyword. This means he takes no damage when attacking an exhausted target. "
-  },
-  {
-    "Id": "T_GAMEPLAY_18E",
-    "Text": "Use Rohirrim Lancer to finish off the Hatchling Spider."
-  },
-  {
-    "Id": "T_GAMEPLAY_19A",
-    "Text": "Quests involve more than defeating vile creatures. You will also face many Objectives. "
-  },
-  {
-    "Id": "T_GAMEPLAY_19B",
-    "Text": "Each time you engage an Objective, you apply progress equal to your Willpower until it is resolved."
-  },
-  {
-    "Id": "T_GAMEPLAY_19C",
-    "Text": "Select Aragorn, then select his Power to ready him."
-  },
-  {
-    "Id": "T_GAMEPLAY_19D",
-    "Text": "Now drag Aragorn to Search the Area. "
-  },
-  {
-    "Id": "T_GAMEPLAY_20",
-    "Text": "Your Characters are exhausted. Select the END ROUND button."
-  },
-  {
-    "Id": "T_GAMEPLAY_22",
-    "Text": "A new round has begun. Use Arwen’s ability to heal one of your Characters."
-  },
-  {
-    "Id": "T_GAMEPLAY_23",
-    "Text": "A Character with the Guard keyword must be defeated before you can target other Enemies or Objectives."
-  },
-  {
-    "Id": "T_GAMEPLAY_24A",
-    "Text": "You can use Attachments to enhance Characters. To equip an Attachment, play the card, then select a Hero or Ally. Equip Aragorn with the Warrior Sword."
-  },
-  {
-    "Id": "T_GAMEPLAY_24B",
-    "Text": "Use what you've learned to complete this Quest."
-  },
-  {
-    "Id": "T_GAMEPLAY_25_ALT_1",
-    "Text": "Now, finish off the Orcs to complete your Quest."
-  },
-  {
-    "Id": "T_GAMEPLAY_25_ALT_2",
-    "Text": "Now, finish searching the area to complete your Quest."
-  },
-  {
-    "Id": "T_GAMEPLAY_26A",
-    "Text": "At the end of each Quest, you are scored based on how well you do. Performing particularly well can bestow Valor upon you, or even other rewards like Palantír Views."
-  },
-  {
-    "Id": "T_GAMEPLAY_26B",
-    "Text": "Since this is merely a tutorial, there are no specific rewards — other than the pleasure of my company, of course! "
-  },
-  {
-    "Id": "T_GAMEPLAY_26C",
-    "Text": "Until next we meet, fare well wherever your adventures take you…"
-  },
-  {
-    "Id": "T_GAMEPLAY_27A",
-    "Text": "Congratulations! You have completed the tutorial, but that was merely the beginning. "
-  },
-  {
-    "Id": "T_GAMEPLAY_27B",
-    "Text": "Create an Asmodee.net account now to unlock Heroes, Quests, and more. "
-  },
-  {
-    "Id": "T_GAMEPLAY_27C",
-    "Text": "Here is all that you shall receive to start your own adventures in Middle-earth…"
   },
   {
     "Id": "T_ROLLOVER_TITLE_OBJECTIVE",
@@ -4841,7 +4109,7 @@
   },
   {
     "Id": "T_ROLLOVER_TITLE_TREACHERYSOCKET",
-    "Text": "<b>Treachery Socket</b>"
+    "Text": "<b>Treachery Sockets</b>"
   },
   {
     "Id": "T_ROLLOVER_TITLE_DECK",
@@ -4853,7 +4121,7 @@
   },
   {
     "Id": "T_ROLLOVER_TITLE_PREPARATIONSOCKET",
-    "Text": "<b>Preparation Socket</b>"
+    "Text": "<b>Preparation Sockets</b>"
   },
   {
     "Id": "T_ROLLOVER_TITLE_ATTACK",
@@ -4977,7 +4245,7 @@
   },
   {
     "Id": "T_POPUP_11E",
-    "Text": "Some Characters have special \nabilities! Select <i>Aragorn</i> to \nuse his <b>Power<b>"
+    "Text": "Some Characters have special \nabilities! Select <i>Aragorn</i> to \nuse his <b>Power</b>"
   },
   {
     "Id": "T_POPUP_11H",
@@ -5197,7 +4465,7 @@
   },
   {
     "Id": "G_017_DESC",
-    "Text": "(Trait) One of the Dúnedain, the Man of the West."
+    "Text": "(Trait) One of the Dúnedain, the Men of the West."
   },
   {
     "Id": "G_017_TERM",
@@ -5221,7 +4489,7 @@
   },
   {
     "Id": "G_020_DESC",
-    "Text": "A card is exhausted when it is used. All exhausted cards ready during Upkeep."
+    "Text": "A card is exhausted when it is used. All exhausted cards ready during Upkeep, unless noted otherwise."
   },
   {
     "Id": "G_020_TERM",
@@ -5253,7 +4521,7 @@
   },
   {
     "Id": "G_024_DESC",
-    "Text": "(Keyword) The Character must be defeated before you can attack another Character or engage an Objective."
+    "Text": "(Keyword) The Character must be defeated before you can attack another Character."
   },
   {
     "Id": "G_024_TERM",
@@ -5317,434 +4585,298 @@
   },
   {
     "Id": "G_032_DESC",
-    "Text": "(Trait) A person from the second clan of the Elves."
+    "Text": "(Trait) A powerful lieutenant of Sauron."
   },
   {
     "Id": "G_032_TERM",
-    "Text": "Noldor"
+    "Text": "Nazgûl"
   },
   {
     "Id": "G_033_DESC",
-    "Text": "A task that you may face in the course of a Quest."
+    "Text": "(Trait) A person from the second clan of the Elves."
   },
   {
     "Id": "G_033_TERM",
-    "Text": "Objective"
+    "Text": "Noldor"
   },
   {
     "Id": "G_034_DESC",
-    "Text": "The primary goal you must resolve before you can advance to the next Location. "
+    "Text": "A task that you may face in the course of a Quest."
   },
   {
     "Id": "G_034_TERM",
-    "Text": "Objective, Main"
+    "Text": "Objective"
   },
   {
     "Id": "G_035_DESC",
-    "Text": "(Trait) A member of an evil and violent race who serve Sauron."
+    "Text": "The primary goal you must resolve before you can advance to the next Location. "
   },
   {
     "Id": "G_035_TERM",
-    "Text": "Orc"
+    "Text": "Objective, Main"
   },
   {
     "Id": "G_036_DESC",
-    "Text": "You can use the Palantír to gain rewards such as cards and Valor points."
+    "Text": "(Trait) A member of an evil and violent race who serve Sauron."
   },
   {
     "Id": "G_036_TERM",
-    "Text": "Palantír"
+    "Text": "Orc"
   },
   {
     "Id": "G_037_DESC",
-    "Text": "During this phase, you and Sauron take turns playing cards prior to adventuring."
+    "Text": "You can use the Palantír to gain rewards such as cards and Valor points."
   },
   {
     "Id": "G_037_TERM",
-    "Text": "Planning Phase"
+    "Text": "Palantír"
   },
   {
     "Id": "G_038_DESC",
-    "Text": "These are any Ally, Attachment, and Event cards you use throughout a Quest."
+    "Text": "During this phase, you and Sauron take turns playing cards prior to adventuring."
   },
   {
     "Id": "G_038_TERM",
-    "Text": "Player Cards"
+    "Text": "Planning Phase"
   },
   {
     "Id": "G_039_DESC",
-    "Text": "A deck of 30 cards based on 3 Heroes of your choice. You build each deck based on these Heroes, and you cannot have more than 2 copies of any individual card."
+    "Text": "These are any Ally, Attachment, and Event cards you use throughout a Quest."
   },
   {
     "Id": "G_039_TERM",
-    "Text": "Player Deck"
+    "Text": "Player Cards"
   },
   {
     "Id": "G_040_DESC",
-    "Text": "(Keyword) An ability that you may choose to activaate."
+    "Text": "A deck of 30 cards based on 3 Heroes of your choice. You build each deck based on these Heroes, and you cannot have more than 2 copies of any individual card."
   },
   {
     "Id": "G_040_TERM",
-    "Text": "Power"
+    "Text": "Player Deck"
   },
   {
     "Id": "G_041_DESC",
-    "Text": "(Trait) An Event card type whose effect triggers based on a timing window or circumstance."
+    "Text": "(Keyword) An ability that you may choose to activaate."
   },
   {
     "Id": "G_041_TERM",
-    "Text": "Preparation"
+    "Text": "Power"
   },
   {
     "Id": "G_042_DESC",
-    "Text": "The amount by which you reduce an Objective's Quest points each time you apply Willpower."
+    "Text": "(Trait) An Event card type whose effect triggers based on a timing window or circumstance."
   },
   {
     "Id": "G_042_TERM",
-    "Text": "Progress"
+    "Text": "Preparation"
   },
   {
     "Id": "G_043_DESC",
-    "Text": "(Keyword) The Character follows your Heroes from one Location to the next."
+    "Text": "The amount by which you reduce an Objective's Quest value each time you apply Willpower."
   },
   {
     "Id": "G_043_TERM",
-    "Text": "Pursuit"
+    "Text": "Progress"
   },
   {
     "Id": "G_044_DESC",
-    "Text": "The value of an Objective. You use Willpower to resolve an Objective."
+    "Text": "(Keyword) The Character follows your Heroes from one Location to the next."
   },
   {
     "Id": "G_044_TERM",
-    "Text": "Quest Points"
+    "Text": "Pursuit"
   },
   {
     "Id": "G_045_DESC",
-    "Text": "(Keyword) The Character does not take damage when attacking an exhausted target."
+    "Text": "The rating of how much Willpower is required to resolve an Objective"
   },
   {
     "Id": "G_045_TERM",
-    "Text": "Ranged"
+    "Text": "Quest Value"
   },
   {
     "Id": "G_046_DESC",
-    "Text": "All player cards have a listed rarity: Starter and Hero, as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities."
+    "Text": "(Keyword) The Character does not take damage when attacking an exhausted target."
   },
   {
     "Id": "G_046_TERM",
-    "Text": "Rarity"
+    "Text": "Ranged"
   },
   {
     "Id": "G_047_DESC",
-    "Text": "The act of completing, overcoming, or otherwise removing an Objective."
+    "Text": "Each player card has a listed rarity: Starter, Common, Uncommon, Rare, Legendary, or by pack title. The less common a card is, the more potent its abilities."
   },
   {
     "Id": "G_047_TERM",
-    "Text": "Resolve"
+    "Text": "Rarity"
   },
   {
     "Id": "G_048_DESC",
-    "Text": "A pool you can use on your turn to play cards from your deck. Resources refresh during Upkeep."
+    "Text": "The act of completing, overcoming, or otherwise removing an Objective."
   },
   {
     "Id": "G_048_TERM",
-    "Text": "Resources"
+    "Text": "Resolve"
   },
   {
     "Id": "G_049_DESC",
-    "Text": "(Keyword) The ability triggers when the Character is defeated."
+    "Text": "A pool you can use on your turn to play cards from your deck. Resources refresh during Upkeep."
   },
   {
     "Id": "G_049_TERM",
-    "Text": "Revenge"
+    "Text": "Resources"
   },
   {
     "Id": "G_050_DESC",
-    "Text": "A person from the kingdom between the Misty Mountains and White Mountains."
+    "Text": "(Keyword) The ability triggers when the Character is defeated."
   },
   {
     "Id": "G_050_TERM",
-    "Text": "Rohan"
+    "Text": "Revenge"
   },
   {
     "Id": "G_051_DESC",
-    "Text": "(Trait) An Elf who is more interested in knowledge than in combat, compared to their Noldor cousins."
+    "Text": "A person from the kingdom between the Misty Mountains and White Mountains."
   },
   {
     "Id": "G_051_TERM",
-    "Text": "Silvan"
+    "Text": "Rohan"
   },
   {
     "Id": "G_052_DESC",
-    "Text": "(Trait) An Attachment type. A Character can have only one Attachment of each type at a time."
+    "Text": "(Trait) An Elf who is more interested in knowledge than in combat, compared to their Noldor cousins."
   },
   {
     "Id": "G_052_TERM",
-    "Text": "Special"
+    "Text": "Silvan"
   },
   {
     "Id": "G_053_DESC",
-    "Text": "Each of the four Spheres of Influence (Leadership, Lore, Spirit, Tactics) focuses on a particular personality aspect. Every Hero belongs to a Sphere, which dictates the cards you can include in a deck."
-  },
-  {
-    "Id": "G_053_TERM",
-    "Text": "Sphere of Influence"
-  },
-  {
-    "Id": "G_054_DESC",
-    "Text": "A Sphere of Influence encompassing strength of will and aspects of the supernatural."
-  },
-  {
-    "Id": "G_054_TERM",
-    "Text": "Spirit"
-  },
-  {
-    "Id": "G_055_DESC",
-    "Text": "(Keyword) The Character does not exhaust the first time it is attacked."
-  },
-  {
-    "Id": "G_055_TERM",
-    "Text": "Stalwart"
-  },
-  {
-    "Id": "G_056_DESC",
-    "Text": "(Keyword) The Character cannot be attacked unless all of your non-Stealth Characters are exhausted."
-  },
-  {
-    "Id": "G_056_TERM",
-    "Text": "Stealth"
-  },
-  {
-    "Id": "G_057_DESC",
-    "Text": "(Keyword) The Character does not exhaust the first time it takes an action."
-  },
-  {
-    "Id": "G_057_TERM",
-    "Text": "Surge"
-  },
-  {
-    "Id": "G_058_DESC",
-    "Text": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat."
-  },
-  {
-    "Id": "G_058_TERM",
-    "Text": "Tactics"
-  },
-  {
-    "Id": "G_059_DESC",
-    "Text": "The general term for a card that is the object of an action. "
-  },
-  {
-    "Id": "G_059_TERM",
-    "Text": "Target"
-  },
-  {
-    "Id": "G_060_DESC",
-    "Text": "This tracks the level of risk you take during a Quest. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, you fail the Quest. "
-  },
-  {
-    "Id": "G_060_TERM",
-    "Text": "Threat Meter"
-  },
-  {
-    "Id": "G_061_DESC",
-    "Text": "This number applies from each Hero to the Threat meter at the start of the Quest."
-  },
-  {
-    "Id": "G_061_TERM",
-    "Text": "Threat Value"
-  },
-  {
-    "Id": "G_062_DESC",
-    "Text": "Some cards have traits which indicate certain behavior or restrictions."
-  },
-  {
-    "Id": "G_062_TERM",
-    "Text": "Trait"
-  },
-  {
-    "Id": "G_063_DESC",
-    "Text": "At the start of each round, your cards ready, you gain Resources, and you draw 1 card from your deck; Sauron then does the same. Certain abilities may also activate at this time."
-  },
-  {
-    "Id": "G_063_TERM",
-    "Text": "Upkeep"
-  },
-  {
-    "Id": "G_064_DESC",
-    "Text": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more. "
-  },
-  {
-    "Id": "G_064_TERM",
-    "Text": "Valor Points"
-  },
-  {
-    "Id": "G_065_DESC",
-    "Text": "(Keyword) The ability triggers when this Character defeats another Character."
-  },
-  {
-    "Id": "G_065_TERM",
-    "Text": "Vanquish"
-  },
-  {
-    "Id": "G_066_DESC",
     "Text": "(Trait) An Attachment type. A Character can have only one Attachment of each type at a time."
   },
   {
+    "Id": "G_053_TERM",
+    "Text": "Special"
+  },
+  {
+    "Id": "G_054_DESC",
+    "Text": "Each of the four Spheres of Influence (Leadership, Lore, Spirit, Tactics) focuses on a particular personality aspect. Every Hero belongs to a Sphere, which dictates the cards you can include in a deck."
+  },
+  {
+    "Id": "G_054_TERM",
+    "Text": "Sphere of Influence"
+  },
+  {
+    "Id": "G_055_DESC",
+    "Text": "A Sphere of Influence encompassing strength of will and aspects of the supernatural."
+  },
+  {
+    "Id": "G_055_TERM",
+    "Text": "Spirit"
+  },
+  {
+    "Id": "G_056_DESC",
+    "Text": "(Keyword) The Character does not exhaust the first time it is attacked."
+  },
+  {
+    "Id": "G_056_TERM",
+    "Text": "Stalwart"
+  },
+  {
+    "Id": "G_057_DESC",
+    "Text": "(Keyword) The Character cannot be attacked unless all of your non-Stealth Characters are exhausted."
+  },
+  {
+    "Id": "G_057_TERM",
+    "Text": "Stealth"
+  },
+  {
+    "Id": "G_058_DESC",
+    "Text": "(Keyword) The Character does not exhaust the first time it takes an action."
+  },
+  {
+    "Id": "G_058_TERM",
+    "Text": "Surge"
+  },
+  {
+    "Id": "G_059_DESC",
+    "Text": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat."
+  },
+  {
+    "Id": "G_059_TERM",
+    "Text": "Tactics"
+  },
+  {
+    "Id": "G_060_DESC",
+    "Text": "The general term for a card that is the object of an action. "
+  },
+  {
+    "Id": "G_060_TERM",
+    "Text": "Target"
+  },
+  {
+    "Id": "G_061_DESC",
+    "Text": "This tracks the level of risk you take during a Quest. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, you fail the Quest. "
+  },
+  {
+    "Id": "G_061_TERM",
+    "Text": "Threat Meter"
+  },
+  {
+    "Id": "G_062_DESC",
+    "Text": "At the start of a Quest, this number is applied from each Hero to the Threat meter."
+  },
+  {
+    "Id": "G_062_TERM",
+    "Text": "Threat Value"
+  },
+  {
+    "Id": "G_063_DESC",
+    "Text": "Some cards have traits which indicate certain behavior or restrictions."
+  },
+  {
+    "Id": "G_063_TERM",
+    "Text": "Trait"
+  },
+  {
+    "Id": "G_064_DESC",
+    "Text": "At the start of each round, your cards ready, you gain Resources, and you draw 1 card from your deck; Sauron then does the same. Certain abilities may also activate at this time."
+  },
+  {
+    "Id": "G_064_TERM",
+    "Text": "Upkeep"
+  },
+  {
+    "Id": "G_065_DESC",
+    "Text": "In-game rewards that you can spend to get Quests, Heroes, cards, and more. "
+  },
+  {
+    "Id": "G_065_TERM",
+    "Text": "Valor Points"
+  },
+  {
+    "Id": "G_066_DESC",
+    "Text": "(Keyword) The ability triggers when this Character defeats another Character."
+  },
+  {
     "Id": "G_066_TERM",
-    "Text": "Weapon"
+    "Text": "Vanquish"
   },
   {
     "Id": "G_067_DESC",
-    "Text": "A Character's effectiveness when engaging an Objective."
+    "Text": "(Trait) An Attachment type. A Character can have only one Attachment of each type at a time."
   },
   {
     "Id": "G_067_TERM",
+    "Text": "Weapon"
+  },
+  {
+    "Id": "G_068_DESC",
+    "Text": "A Character's effectiveness when engaging an Objective."
+  },
+  {
+    "Id": "G_068_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "Q_CAMPAIGN_TEST0227_NAME",
-    "Text": "test0227"
-  },
-  {
-    "Id": "Q_QUEST_TEST0227QUEST01_NAME",
-    "Text": "Q_QUEST_TEST0227QUEST01_NAME"
-  },
-  {
-    "Id": "Q_QUEST_TEST0227QUEST01_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TEST0227QUEST01_VICTORY_TEXT",
-    "Text": "Q_QUEST_TEST0227QUEST01_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TEST0227QUEST01_DEFEAT_TEXT",
-    "Text": "Q_QUEST_TEST0227QUEST01_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_NAME",
-    "Text": "Q_STAGE_LOCATION101_NAME"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_TEXT",
-    "Text": "Q_STAGE_LOCATION101_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION101_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_TEST0227QUEST02_NAME",
-    "Text": "Q_QUEST_TEST0227QUEST02_NAME"
-  },
-  {
-    "Id": "Q_QUEST_TEST0227QUEST02_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TEST0227QUEST02_VICTORY_TEXT",
-    "Text": "Q_QUEST_TEST0227QUEST02_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TEST0227QUEST02_DEFEAT_TEXT",
-    "Text": "Q_QUEST_TEST0227QUEST02_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_NAME",
-    "Text": "Q_STAGE_LOCATION201_NAME"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_TEXT",
-    "Text": "Q_STAGE_LOCATION201_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION201_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_TEST0227QUEST03_NAME",
-    "Text": "Q_QUEST_TEST0227QUEST03_NAME"
-  },
-  {
-    "Id": "Q_QUEST_TEST0227QUEST03_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TEST0227QUEST03_VICTORY_TEXT",
-    "Text": "Q_QUEST_TEST0227QUEST03_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TEST0227QUEST03_DEFEAT_TEXT",
-    "Text": "Q_QUEST_TEST0227QUEST03_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_NAME",
-    "Text": "Q_STAGE_LOCATION301_NAME"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_TEXT",
-    "Text": "Q_STAGE_LOCATION301_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION301_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_TEST0227QUEST04_NAME",
-    "Text": "Q_QUEST_TEST0227QUEST04_NAME"
-  },
-  {
-    "Id": "Q_QUEST_TEST0227QUEST04_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TEST0227QUEST04_VICTORY_TEXT",
-    "Text": "Q_QUEST_TEST0227QUEST04_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TEST0227QUEST04_DEFEAT_TEXT",
-    "Text": "Q_QUEST_TEST0227QUEST04_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_NAME",
-    "Text": "Q_STAGE_LOCATION401_NAME"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_TEXT",
-    "Text": "Q_STAGE_LOCATION401_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION401_OBJECTIVE"
-  },
-  {
-    "Id": "Q_QUEST_TEST0227QUEST05_NAME",
-    "Text": "Q_QUEST_TEST0227QUEST05_NAME"
-  },
-  {
-    "Id": "Q_QUEST_TEST0227QUEST05_DESCRIPTION",
-    "Text": ""
-  },
-  {
-    "Id": "Q_QUEST_TEST0227QUEST05_VICTORY_TEXT",
-    "Text": "Q_QUEST_TEST0227QUEST05_VICTORY_TEXT"
-  },
-  {
-    "Id": "Q_QUEST_TEST0227QUEST05_DEFEAT_TEXT",
-    "Text": "Q_QUEST_TEST0227QUEST05_DEFEAT_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_NAME",
-    "Text": "Q_STAGE_LOCATION501_NAME"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_TEXT",
-    "Text": "Q_STAGE_LOCATION501_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION501_OBJECTIVE"
   }
 ]
