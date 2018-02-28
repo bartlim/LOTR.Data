@@ -26,14 +26,14 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "GreedyFingers",
+          "Id": "GoblinSniper",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
-          "Id": "GoblinSniper",
+          "Id": "GreedyFingers",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -201,7 +201,8 @@
         "SoloGameSetup": [
           "Louis",
           "Stuart",
-          "Rupert"
+          "Rupert",
+          "DelayUntilDawn"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -213,9 +214,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180222065109071",
+  "Version": "20180228203950963",
   "Key": "MainQuest",
   "SubKey": "ConflictAtTheCarrock",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180222065109071"
+  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180228203950963"
 }
