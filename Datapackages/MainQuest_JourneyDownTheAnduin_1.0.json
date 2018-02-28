@@ -19,13 +19,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "GreedyFingers",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "DolGuldurOrcs",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -55,6 +48,13 @@
         },
         {
           "Id": "GoblinSniper",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "GreedyFingers",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -240,9 +240,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180222065104469",
+  "Version": "20180228203945701",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180222065104469"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180228203945701"
 }
