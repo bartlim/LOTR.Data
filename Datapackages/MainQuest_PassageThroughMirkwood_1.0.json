@@ -33,13 +33,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "GreedyFingers",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "DrivenByShadow",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -62,6 +55,13 @@
         },
         {
           "Id": "GiantSpider",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "GreedyFingers",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -240,9 +240,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180222065051071",
+  "Version": "20180228203929659",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180222065051071"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180228203929659"
 }
