@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -1436,40 +1436,8 @@
     "Text": "The first Campaign in The Lord of the Rings™: Living Card Game™."
   },
   {
-    "Id": "U_SHOP_CB_ANGMARAWAKENED",
-    "Text": "Angmar Awakened"
-  },
-  {
-    "Id": "U_SHOP_CB_FLAMEOFTHEWEST",
-    "Text": "Flame of the West"
-  },
-  {
-    "Id": "U_SHOP_CB_GREYHAVENS",
-    "Text": "Grey Havens"
-  },
-  {
-    "Id": "U_SHOP_CB_HEIRSOFNUMENOR",
-    "Text": "Heirs of Numenor"
-  },
-  {
     "Id": "U_SHOP_CB_ISTARI",
     "Text": "Istari"
-  },
-  {
-    "Id": "U_SHOP_CB_KHAZADDUM",
-    "Text": "Khazad-dûm"
-  },
-  {
-    "Id": "U_SHOP_CB_LANDOFSHADOW",
-    "Text": "Land Of Shadow"
-  },
-  {
-    "Id": "U_SHOP_CB_MOUNTAINOFFIRE",
-    "Text": "Mountain Of Fire"
-  },
-  {
-    "Id": "U_SHOP_CB_ONTHEDOORSTEP",
-    "Text": "On the Doorstep"
   },
   {
     "Id": "U_SHOP_CB_SHIRE",
@@ -1480,32 +1448,8 @@
     "Text": "Steward of Gondor"
   },
   {
-    "Id": "U_SHOP_CB_THEBLACKRIDERS",
-    "Text": "The Black Riders"
-  },
-  {
-    "Id": "U_SHOP_CB_THEHOBBIT",
-    "Text": "The Hobbit"
-  },
-  {
     "Id": "U_SHOP_CB_THEONERING",
     "Text": "The One Ring"
-  },
-  {
-    "Id": "U_SHOP_CB_THEROADDARKENS",
-    "Text": "The Road Darkens"
-  },
-  {
-    "Id": "U_SHOP_CB_THESANDSOFHARAD",
-    "Text": "The Sands Of Harad"
-  },
-  {
-    "Id": "U_SHOP_CB_TREASONOFSARUMAN",
-    "Text": "Treason Of Saruman"
-  },
-  {
-    "Id": "U_SHOP_CB_WILLOFISENGARD",
-    "Text": "Will Of Isengard"
   },
   {
     "Id": "U_SHOP_CB_CLASSIC",
@@ -2781,7 +2725,7 @@
   },
   {
     "Id": "C_FINDTHERAFT_TITLE",
-    "Text": "Board The Raft"
+    "Text": "Board the Raft"
   },
   {
     "Id": "C_FINDYOURBEARINGS_TEXT",
@@ -4084,6 +4028,26 @@
     "Text": "You destroy the Spiders' nest. Cannot engage while <i>King Spider</i> is in play"
   },
   {
+    "Id": "C_DELAYUNTILDAWN_TITLE",
+    "Text": "Delay Until Dawn"
+  },
+  {
+    "Id": "C_DELAYUNTILDAWN_TEXT",
+    "Text": "Dawn rises and the\n Trolls turn to stone!"
+  },
+  {
+    "Id": "C_RANGERPROVISIONS_FLAVOR",
+    "Text": "\"Rangers have been here lately. It is they who left the firewood behind.\"\n\n–Aragorn, <i>The Fellowship of the Ring</i>"
+  },
+  {
+    "Id": "C_RANGERPROVISIONS_TITLE",
+    "Text": "Ranger Provisions"
+  },
+  {
+    "Id": "C_RANGERPROVISIONS_TEXT",
+    "Text": "Gain 1 Resource"
+  },
+  {
     "Id": "PLACEHOLDER4",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
@@ -4878,57 +4842,5 @@
   {
     "Id": "G_068_TERM",
     "Text": "Willpower"
-  },
-  {
-    "Id": "C_SPIDERSOFMIRKWOOD_FLAVOR",
-    "Text": "C_SPIDERSOFMIRKWOOD_FLAVOR"
-  },
-  {
-    "Id": "C_MUCKADDER_FLAVOR",
-    "Text": "C_MUCKADDER_FLAVOR"
-  },
-  {
-    "Id": "C_DELAYUNTILDAWN_FLAVOR",
-    "Text": "C_DELAYUNTILDAWN_FLAVOR"
-  },
-  {
-    "Id": "C_DELAYUNTILDAWN_TITLE",
-    "Text": "Delay Until Dawn"
-  },
-  {
-    "Id": "C_DELAYUNTILDAWN_TEXT",
-    "Text": "Dawn rises and the\n Trolls turn to stone!"
-  },
-  {
-    "Id": "C_RANGERPROVISIONS_FLAVOR",
-    "Text": "\"Rangers have been here lately. It is they who left the firewood behind.\"\r\n–Aragorn, <i>The Fellowship of the Ring</i>"
-  },
-  {
-    "Id": "C_RANGERPROVISIONS_TITLE",
-    "Text": "Ranger Provisions"
-  },
-  {
-    "Id": "C_RANGERPROVISIONS_TEXT",
-    "Text": "Gain 1 Resource"
-  },
-  {
-    "Id": "C_DARKSORCERY_FLAVOR",
-    "Text": "C_DARKSORCERY_FLAVOR"
-  },
-  {
-    "Id": "C_THECLOAKEDSTRANGER_FLAVOR",
-    "Text": "C_THECLOAKEDSTRANGER_FLAVOR"
-  },
-  {
-    "Id": "C_WATCHFULEYES_FLAVOR",
-    "Text": "C_WATCHFULEYES_FLAVOR"
-  },
-  {
-    "Id": "C_UNDERTHESHADOW_FLAVOR",
-    "Text": "C_UNDERTHESHADOW_FLAVOR"
-  },
-  {
-    "Id": "C_FINDTHERAFT_FLAVOR",
-    "Text": "C_FINDTHERAFT_FLAVOR"
   }
 ]
