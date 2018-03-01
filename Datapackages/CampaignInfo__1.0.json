@@ -1480,7 +1480,7 @@
             {
               "Id": "Tutorial_Stage_01",
               "SceneName": "Q01_L01_ForestGate",
-              "IntroVoice": "../Tutorial/NarrativeScreen1",
+              "IntroVoice": "TutorialNarrativeScreen1",
               "IntroSprite": "Sprites/Locations/Quest3_Stage01",
               "SoloGameSetup": null,
               "NextStageId": "Tutorial_Stage_02",
@@ -1489,7 +1489,7 @@
             {
               "Id": "Tutorial_Stage_02",
               "SceneName": "Q01_L01_ForestGate",
-              "IntroVoice": "../Tutorial/NarrativeScreen2",
+              "IntroVoice": "TutorialNarrativeScreen2",
               "IntroSprite": "Sprites/Locations/Quest3_Stage01",
               "SoloGameSetup": null,
               "NextStageId": "Tutorial_Stage_03",
@@ -1498,7 +1498,7 @@
             {
               "Id": "Tutorial_Stage_03",
               "SceneName": "Q01_L01_ForestGate",
-              "IntroVoice": "../Tutorial/NarrativeScreen3",
+              "IntroVoice": "TutorialNarrativeScreen3",
               "IntroSprite": "Sprites/Locations/Quest3_Stage03B",
               "SoloGameSetup": null,
               "NextStageId": "",
