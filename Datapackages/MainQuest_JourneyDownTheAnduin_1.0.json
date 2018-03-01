@@ -199,7 +199,7 @@
       {
         "Title": "ToTheRiver",
         "SoloGameSetup": [
-          "FindTheRaft",
+          "BoardTheRaft",
           "DolGuldurOrcs",
           "HillTroll"
         ],
@@ -240,9 +240,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180228204122288",
+  "Version": "20180301055421117",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180228204122288"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180301055421117"
 }
