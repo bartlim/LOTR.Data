@@ -4299,14 +4299,12 @@
     "Id": "C_ROHIRRIMLANCER_TITLE"
   },
   {
-    "Text_CN": "装备：获得关键词『格挡』。",
-    "Text": "Gain <b>Block</b>",
-    "Id": "C_ROUNDSHIELD_TEXT"
+    "Id": "C_ROUNDSHIELD_TEXT",
+    "Text": "Gain <b>Block</b>"
   },
   {
-    "Text_CN": "圆盾",
-    "Text": "Round Shield",
-    "Id": "C_ROUNDSHIELD_TITLE"
+    "Id": "C_ROUNDSHIELD_TITLE",
+    "Text": "Round Shield"
   },
   {
     "Text_CN": "",
@@ -6001,5 +5999,9 @@
   {
     "Id": "C_RANGERSBLADE_FLAVOR",
     "Text": "C_RANGERSBLADE_FLAVOR"
+  },
+  {
+    "Id": "C_ROUNDSHIELD_FLAVOR",
+    "Text": "C_ROUNDSHIELD_FLAVOR"
   }
 ]
