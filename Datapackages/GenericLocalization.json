@@ -2750,14 +2750,12 @@
     "Id": "C_AGAINSTTHESHADOW_TITLE"
   },
   {
-    "Text_CN": "",
-    "Text": "<b>Fleeting. Stalwart. Surge</b>",
-    "Id": "C_AGENTOFSAURON_TEXT"
+    "Id": "C_AGENTOFSAURON_TEXT",
+    "Text": "<b>Fleeting. Stalwart. Surge</b>"
   },
   {
-    "Text_CN": "",
-    "Text": "‰Agent of Sauron",
-    "Id": "C_AGENTOFSAURON_TITLE"
+    "Id": "C_AGENTOFSAURON_TITLE",
+    "Text": "‰Agent of Sauron"
   },
   {
     "Text_CN": "",
@@ -6049,5 +6047,9 @@
   {
     "Id": "C_THECLOAKEDSTRANGER_FLAVOR",
     "Text": "C_THECLOAKEDSTRANGER_FLAVOR"
+  },
+  {
+    "Id": "C_AGENTOFSAURON_FLAVOR",
+    "Text": "C_AGENTOFSAURON_FLAVOR"
   }
 ]
