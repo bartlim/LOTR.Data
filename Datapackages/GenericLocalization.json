@@ -4934,14 +4934,12 @@
     "Id": "C_ZIGILMINER_TITLE"
   },
   {
-    "Text_CN": "",
-    "Text": "Ranger's Blade",
-    "Id": "C_RANGERSBLADE_TITLE"
+    "Id": "C_RANGERSBLADE_TITLE",
+    "Text": "Ranger's Blade"
   },
   {
-    "Text_CN": "",
-    "Text": "Deal +1 damage\nwhen attacking",
-    "Id": "C_RANGERSBLADE_TEXT"
+    "Id": "C_RANGERSBLADE_TEXT",
+    "Text": "Deal +1 damage\nwhen attacking"
   },
   {
     "Text_CN": "",
@@ -6002,5 +6000,9 @@
   {
     "Id": "C_CLIMBTHEHILL_FLAVOR",
     "Text": "C_CLIMBTHEHILL_FLAVOR"
+  },
+  {
+    "Id": "C_RANGERSBLADE_FLAVOR",
+    "Text": "C_RANGERSBLADE_FLAVOR"
   }
 ]
