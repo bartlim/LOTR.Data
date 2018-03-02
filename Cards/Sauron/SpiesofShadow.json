@@ -1,0 +1,28 @@
+{
+  "CardData": {
+    "Id": "SpiesofShadow",
+    "Owner": "Sauron",
+    "CardType": 3,
+    "ShopType": "",
+    "Cost": 0,
+    "QuestPoints": 0,
+    "Attack": 1,
+    "Willpower": 0,
+    "Health": 2,
+    "Trait": "",
+    "Rarity": 0,
+    "Sphere": 2,
+    "SphereLevel": 0,
+    "Revision": "test",
+    "PlayVFX": "Effect_EnemyCardLight",
+    "PlaySFX": "enemy_cardlight_both_e",
+    "AttackVFX": "Effect_Attack_01",
+    "AttackSFX": "event_attack_feet_e",
+    "DeathVFX": "Effect_Death3",
+    "DeathSFX": "die_both_e",
+    "FlavorText": "<i>\"I do not know what they are about: possibly there is some trouble away south from which they are fleeing; but I think they are spying out the land.\"</i>  -The Fellowship of the Ring",
+    "ArtistName": "Allison Theus",
+    "Status": ""
+  },
+  "Localization": null
+}
