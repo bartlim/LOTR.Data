@@ -3772,14 +3772,12 @@
     "Id": "C_HIVEGUARDIAN_TITLE"
   },
   {
-    "Text_CN": "",
-    "Text": "In their dark cloaks, they were as invisible as if they all had magic rings. \n<i>–The Fellowship of the Ring</i>",
-    "Id": "C_HOBBITCLOAK_FLAVOR"
+    "Id": "C_HOBBITCLOAK_FLAVOR",
+    "Text": "In their dark cloaks, they were as invisible as if they all had magic rings. \n<i>–The Fellowship of the Ring</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "(Hobbits only.) \n<b>Upkeep:</b> Gain <b>Stealth</b>\nthis round (50% chance)",
-    "Id": "C_HOBBITCLOAK_TEXT"
+    "Id": "C_HOBBITCLOAK_TEXT",
+    "Text": "(Hobbits only.) \n<b>Upkeep:</b> 50% chance to gain\n<b>Stealth</b> for this round."
   },
   {
     "Id": "C_BILBOSCLOAK_TITLE",
@@ -3794,9 +3792,8 @@
     "Text": "(Hobbits only.) \n<b>Upkeep:</b> Sauron loses \n1 Resource"
   },
   {
-    "Text_CN": "霍比特披风",
-    "Text": "Hobbit Cloak",
-    "Id": "C_HOBBITCLOAK_TITLE"
+    "Id": "C_HOBBITCLOAK_TITLE",
+    "Text": "Hobbit Cloak"
   },
   {
     "Text_CN": "在弃牌堆中选择一位英雄。他会以行动完毕状态返回战场。",
