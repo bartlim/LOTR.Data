@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -102,6 +102,26 @@
   {
     "Id": "U_OPTIONS_GLOSSARRY",
     "Text": "GLOSSARY"
+  },
+  {
+    "Id": "U_OPTIONS_QUALITY",
+    "Text": "Graphics Quality"
+  },
+  {
+    "Id": "U_OPTIONS_QUALITY_L",
+    "Text": "Low"
+  },
+  {
+    "Id": "U_OPTIONS_QUALITY_M",
+    "Text": "Medium"
+  },
+  {
+    "Id": "U_OPTIONS_QUALITY_H",
+    "Text": "High"
+  },
+  {
+    "Id": "U_OPTIONS_AA",
+    "Text": "Antialiasing"
   },
   {
     "Id": "U_DECKMENU_DECKBUILDER",
@@ -226,6 +246,10 @@
   {
     "Id": "U_DECKMENU_CARDBACK_SELECTED",
     "Text": "Card back selected"
+  },
+  {
+    "Id": "U_DECKMENU_ARTIST",
+    "Text": "Illustration"
   },
   {
     "Id": "U_PALANTIR_SELECT_TO_GAZE",
@@ -2253,11 +2277,11 @@
   },
   {
     "Id": "C_ATEST181120_TEXT",
-    "Text": "[do not translate]a playground for card script testing"
+    "Text": "[do not translate]a playground for card script testing,"
   },
   {
     "Id": "C_ATEST181120_TITLE",
-    "Text": "testing card"
+    "Text": "[do not translate]testing card"
   },
   {
     "Id": "C_AWATCHFULPEACE_TEXT",
