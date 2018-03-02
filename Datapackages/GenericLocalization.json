@@ -4828,14 +4828,12 @@
     "Id": "C_WARGS_TITLE"
   },
   {
-    "Text_CN": "装备：攻击+1。",
-    "Text": "Gain +1 Attack",
-    "Id": "C_WARRIORSWORD_TEXT"
+    "Id": "C_WARRIORSWORD_TEXT",
+    "Text": "Gain +1 Attack"
   },
   {
-    "Text_CN": "勇士之剑",
-    "Text": "Warrior Sword",
-    "Id": "C_WARRIORSWORD_TITLE"
+    "Id": "C_WARRIORSWORD_TITLE",
+    "Text": "Warrior Sword"
   },
   {
     "Text_CN": "强力威胁。",
@@ -5996,5 +5994,9 @@
   {
     "Id": "C_SHIELDOFROHAN_FLAVOR",
     "Text": "C_SHIELDOFROHAN_FLAVOR"
+  },
+  {
+    "Id": "C_WARRIORSWORD_FLAVOR",
+    "Text": "C_WARRIORSWORD_FLAVOR"
   }
 ]
