@@ -5012,14 +5012,12 @@
     "Id": "C_WATCHERSINTHEDARK_TEXT"
   },
   {
-    "Text_CN": "",
-    "Text": "The Cloaked Stranger",
-    "Id": "C_THECLOAKEDSTRANGER_TITLE"
+    "Id": "C_THECLOAKEDSTRANGER_TITLE",
+    "Text": "The Cloaked Stranger"
   },
   {
-    "Text_CN": "",
-    "Text": "You have rescued the cloaked stranger from the Spiders' ambush",
-    "Id": "C_THECLOAKEDSTRANGER_TEXT"
+    "Id": "C_THECLOAKEDSTRANGER_TEXT",
+    "Text": "You have rescued the cloaked stranger from the Spiders' ambush"
   },
   {
     "Text_CN": "",
@@ -6050,5 +6048,9 @@
     "Text_CN": "领导型",
     "Text": "Willpower",
     "Id": "G_068_TERM"
+  },
+  {
+    "Id": "C_THECLOAKEDSTRANGER_FLAVOR",
+    "Text": "C_THECLOAKEDSTRANGER_FLAVOR"
   }
 ]
