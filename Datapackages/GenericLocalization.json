@@ -2999,14 +2999,12 @@
     "Id": "C_CHIEFTAINUFTHAK_TITLE"
   },
   {
-    "Text_CN": "",
-    "Text": "Travel immediately to \n<i>Bare Hilltop</i>",
-    "Id": "C_CLIMBTHEHILL_TEXT"
+    "Id": "C_CLIMBTHEHILL_TEXT",
+    "Text": "Travel immediately to \n<i>Bare Hilltop</i>"
   },
   {
-    "Text_CN": "登上山顶",
-    "Text": "Climb the Hill",
-    "Id": "C_CLIMBTHEHILL_TITLE"
+    "Id": "C_CLIMBTHEHILL_TITLE",
+    "Text": "Climb the Hill"
   },
   {
     "Text_CN": "结算：人物得到解救，并返回游戏区。",
@@ -6036,5 +6034,9 @@
   {
     "Id": "C_AGENTOFSAURON_FLAVOR",
     "Text": "C_AGENTOFSAURON_FLAVOR"
+  },
+  {
+    "Id": "C_CLIMBTHEHILL_FLAVOR",
+    "Text": "C_CLIMBTHEHILL_FLAVOR"
   }
 ]
