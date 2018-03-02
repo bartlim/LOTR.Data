@@ -4386,14 +4386,12 @@
     "Text": "Self-Preservation"
   },
   {
-    "Text_CN": "装备（洛汗）：生命+2并获得关键词『强壮』。",
-    "Text": "Gain +2 Health and <b>Stalwart</b>",
-    "Id": "C_SHIELDOFROHAN_TEXT"
+    "Id": "C_SHIELDOFROHAN_TEXT",
+    "Text": "Gain +2 Health and <b>Stalwart</b>"
   },
   {
-    "Text_CN": "洛汗之盾",
-    "Text": "Shield of Rohan",
-    "Id": "C_SHIELDOFROHAN_TITLE"
+    "Id": "C_SHIELDOFROHAN_TITLE",
+    "Text": "Shield of Rohan"
   },
   {
     "Text_CN": "",
@@ -6000,5 +5998,9 @@
   {
     "Id": "C_ROUNDSHIELD_FLAVOR",
     "Text": "C_ROUNDSHIELD_FLAVOR"
+  },
+  {
+    "Id": "C_SHIELDOFROHAN_FLAVOR",
+    "Text": "C_SHIELDOFROHAN_FLAVOR"
   }
 ]
