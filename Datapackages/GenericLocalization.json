@@ -3041,14 +3041,12 @@
     "Id": "C_DARKSORCERY_TITLE"
   },
   {
-    "Text_CN": "装备（敌人）：在人物发动攻击后为目标增加1点威胁。",
-    "Text": "After being attacked, gain 1 Threat",
-    "Id": "C_DESPAIR_TEXT"
+    "Id": "C_DESPAIR_TEXT",
+    "Text": "After being attacked, the target gains 1 Threat"
   },
   {
-    "Text_CN": "绝望",
-    "Text": "Despair",
-    "Id": "C_DESPAIR_TITLE"
+    "Id": "C_DESPAIR_TITLE",
+    "Text": "Despair"
   },
   {
     "Text_CN": "摧毁一位英雄的一件随机装备。",
@@ -5998,5 +5996,9 @@
   {
     "Id": "C_WARRIORSWORD_FLAVOR",
     "Text": "C_WARRIORSWORD_FLAVOR"
+  },
+  {
+    "Id": "C_DESPAIR_FLAVOR",
+    "Text": "C_DESPAIR_FLAVOR"
   }
 ]
