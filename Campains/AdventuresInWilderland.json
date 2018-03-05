@@ -163,7 +163,7 @@
         },
         {
           "Id": "ViciousSpeed",
-          "Amount": 2
+          "Amount": 3
         },
         {
           "Id": "VileSpawn",
@@ -172,6 +172,30 @@
         {
           "Id": "WatchfulEyes",
           "Amount": 2
+        },
+        {
+          "Id": "WatchersintheDark",
+          "Amount": 3
+        },
+        {
+          "Id": "UnderTheWatchfulEye",
+          "Amount": 1
+        },
+        {
+          "Id": "TreacherousFog",
+          "Amount": 2
+        },
+        {
+          "Id": "PursuedByShadow",
+          "Amount": 2
+        },
+        {
+          "Id": "Exhaustion",
+          "Amount": 1
+        },
+        {
+          "Id": "AccursedForest",
+          "Amount": 1
         }
       ]
     },
@@ -236,7 +260,7 @@
       "SauronDeck": [
         {
           "Id": "BlackForestBats",
-          "Amount": 1
+          "Amount": 2
         },
         {
           "Id": "HiveGuardian",
@@ -272,7 +296,7 @@
         },
         {
           "Id": "WatchfulEyes",
-          "Amount": 2
+          "Amount": 3
         },
         {
           "Id": "ThickWebs",
@@ -312,6 +336,50 @@
         },
         {
           "Id": "PoisonedBySpiders",
+          "Amount": 2
+        },
+        {
+          "Id": "CreatureOfDarkness",
+          "Amount": 4
+        },
+        {
+          "Id": "Despair",
+          "Amount": 2
+        },
+        {
+          "Id": "EvilStorm",
+          "Amount": 1
+        },
+        {
+          "Id": "Exhaustion",
+          "Amount": 1
+        },
+        {
+          "Id": "GatheringGloom",
+          "Amount": 1
+        },
+        {
+          "Id": "GrowingDarkness",
+          "Amount": 1
+        },
+        {
+          "Id": "PursuedByShadow",
+          "Amount": 1
+        },
+        {
+          "Id": "Veteran",
+          "Amount": 2
+        },
+        {
+          "Id": "ViciousSpeed",
+          "Amount": 1
+        },
+        {
+          "Id": "WatchersintheDark",
+          "Amount": 3
+        },
+        {
+          "Id": "SpiesofShadow",
           "Amount": 2
         }
       ]
@@ -469,7 +537,7 @@
         },
         {
           "Id": "Exhaustion",
-          "Amount": 2
+          "Amount": 3
         },
         {
           "Id": "TreacherousFog",
@@ -481,7 +549,7 @@
         },
         {
           "Id": "TurnedAround",
-          "Amount": 2
+          "Amount": 3
         },
         {
           "Id": "EliteDolGuldurOrcs",
@@ -493,7 +561,7 @@
         },
         {
           "Id": "BlackForestBats",
-          "Amount": 1
+          "Amount": 2
         },
         {
           "Id": "MuckAdder",
@@ -525,14 +593,70 @@
         },
         {
           "Id": "BlockedPath",
-          "Amount": 2
+          "Amount": 4
         },
         {
           "Id": "GrowingDarkness",
-          "Amount": 2
+          "Amount": 3
         },
         {
           "Id": "LowOnSupplies",
+          "Amount": 2
+        },
+        {
+          "Id": "WatchersintheDark",
+          "Amount": 4
+        },
+        {
+          "Id": "Veteran",
+          "Amount": 2
+        },
+        {
+          "Id": "ViciousSpeed",
+          "Amount": 1
+        },
+        {
+          "Id": "UnderTheShadow",
+          "Amount": 2
+        },
+        {
+          "Id": "DrivenByShadow",
+          "Amount": 2
+        },
+        {
+          "Id": "Despair",
+          "Amount": 2
+        },
+        {
+          "Id": "DarkSorcery",
+          "Amount": 2
+        },
+        {
+          "Id": "EyesOfTheForest",
+          "Amount": 2
+        },
+        {
+          "Id": "EvilStorm",
+          "Amount": 1
+        },
+        {
+          "Id": "GatheringGloom",
+          "Amount": 2
+        },
+        {
+          "Id": "PursuedByShadow",
+          "Amount": 1
+        },
+        {
+          "Id": "Unwavering",
+          "Amount": 1
+        },
+        {
+          "Id": "WatchfulEyes",
+          "Amount": 2
+        },
+        {
+          "Id": "SpiesofShadow",
           "Amount": 2
         }
       ]
@@ -694,6 +818,66 @@
         {
           "Id": "WatchfulEyes",
           "Amount": 2
+        },
+        {
+          "Id": "WatchersintheDark",
+          "Amount": 4
+        },
+        {
+          "Id": "ViciousSpeed",
+          "Amount": 2
+        },
+        {
+          "Id": "Veteran",
+          "Amount": 2
+        },
+        {
+          "Id": "UnderTheShadow",
+          "Amount": 2
+        },
+        {
+          "Id": "Unwavering",
+          "Amount": 2
+        },
+        {
+          "Id": "LowOnSupplies",
+          "Amount": 2
+        },
+        {
+          "Id": "GatheringGloom",
+          "Amount": 2
+        },
+        {
+          "Id": "EyesOfTheForest",
+          "Amount": 2
+        },
+        {
+          "Id": "Exhaustion",
+          "Amount": 1
+        },
+        {
+          "Id": "DrivenByShadow",
+          "Amount": 2
+        },
+        {
+          "Id": "Despair",
+          "Amount": 2
+        },
+        {
+          "Id": "DarkSorcery",
+          "Amount": 2
+        },
+        {
+          "Id": "CreatureOfDarkness",
+          "Amount": 2
+        },
+        {
+          "Id": "AccursedForest",
+          "Amount": 2
+        },
+        {
+          "Id": "SpiesofShadow",
+          "Amount": 2
         }
       ]
     },
@@ -775,7 +959,7 @@
         },
         {
           "Id": "EvilStorm",
-          "Amount": 2
+          "Amount": 3
         },
         {
           "Id": "MuckAdder",
@@ -803,7 +987,7 @@
         },
         {
           "Id": "Tribulation",
-          "Amount": 2
+          "Amount": 3
         },
         {
           "Id": "Wargs",
@@ -840,6 +1024,74 @@
         {
           "Id": "LostInTheWilderness",
           "Amount": 1
+        },
+        {
+          "Id": "CreatureOfDarkness",
+          "Amount": 2
+        },
+        {
+          "Id": "DarkSorcery",
+          "Amount": 2
+        },
+        {
+          "Id": "Despair",
+          "Amount": 2
+        },
+        {
+          "Id": "DrivenByShadow",
+          "Amount": 2
+        },
+        {
+          "Id": "Exhaustion",
+          "Amount": 1
+        },
+        {
+          "Id": "EyesOfTheForest",
+          "Amount": 2
+        },
+        {
+          "Id": "GatheringGloom",
+          "Amount": 2
+        },
+        {
+          "Id": "PursuedByShadow",
+          "Amount": 2
+        },
+        {
+          "Id": "TheNecromancersReach",
+          "Amount": 2
+        },
+        {
+          "Id": "TreacherousFog",
+          "Amount": 2
+        },
+        {
+          "Id": "UnderTheShadow",
+          "Amount": 2
+        },
+        {
+          "Id": "Unwavering",
+          "Amount": 1
+        },
+        {
+          "Id": "ViciousSpeed",
+          "Amount": 1
+        },
+        {
+          "Id": "Veteran",
+          "Amount": 2
+        },
+        {
+          "Id": "WatchfulEyes",
+          "Amount": 2
+        },
+        {
+          "Id": "WatchersintheDark",
+          "Amount": 4
+        },
+        {
+          "Id": "SpiesofShadow",
+          "Amount": 2
         }
       ]
     }
