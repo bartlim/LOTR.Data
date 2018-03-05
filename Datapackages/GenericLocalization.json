@@ -2190,9 +2190,8 @@
     "Id": "PLACEHOLDER2"
   },
   {
-    "Text_CN": "大荒原的冒险",
-    "Text": "Adventures in Wilderland",
-    "Id": "Q_CAMPAIGN_ADVENTURESINWILDERLAND_NAME"
+    "Id": "Q_CAMPAIGN_ADVENTURESINWILDERLAND_NAME",
+    "Text": "Adventures in Wilderland"
   },
   {
     "Text_CN": "",
@@ -2200,29 +2199,24 @@
     "Id": "Q_CAMPAIGN_TUTORIAL_NAME"
   },
   {
-    "Text_CN": "穿越幽暗密林",
-    "Text": "Passage Through Mirkwood",
-    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_NAME"
+    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_NAME",
+    "Text": "Passage Through Mirkwood"
   },
   {
-    "Text_CN": "苍蝇与蜘蛛",
-    "Text": "Flies and Spiders",
-    "Id": "Q_QUEST_FLIESANDSPIDERS_NAME"
+    "Id": "Q_QUEST_FLIESANDSPIDERS_NAME",
+    "Text": "Flies and Spiders"
   },
   {
-    "Text_CN": "迷失于幽暗密林",
-    "Text": "Lost in Mirkwood",
-    "Id": "Q_QUEST_LOSTINMIRKWOOD_NAME"
+    "Id": "Q_QUEST_LOSTINMIRKWOOD_NAME",
+    "Text": "Lost in Mirkwood"
   },
   {
-    "Text_CN": "顺安都因河而下",
-    "Text": "Journey Down the Anduin",
-    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_NAME"
+    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_NAME",
+    "Text": "Journey Down the Anduin"
   },
   {
-    "Text_CN": "卡尔岩的死斗",
-    "Text": "Conflict at the Carrock",
-    "Id": "Q_QUEST_CONFLICTATTHECARROCK_NAME"
+    "Id": "Q_QUEST_CONFLICTATTHECARROCK_NAME",
+    "Text": "Conflict at the Carrock"
   },
   {
     "Text_CN": "",
@@ -2230,29 +2224,24 @@
     "Id": "Q_QUEST_TUTORIAL_NAME"
   },
   {
-    "Text_CN": "",
-    "Text": "The King of Dale seeks an alliance with the Beornings. You have agreed to act as envoy. To reach their lands, you must brave the dangers of Mirkwood Forest.",
-    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_DESCRIPTION"
+    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_DESCRIPTION",
+    "Text": "The King of Dale seeks an alliance with the Beornings. You have agreed to act as envoy. To reach their lands, you must brave the dangers of Mirkwood Forest."
   },
   {
-    "Text_CN": "",
-    "Text": "Your party camps for the night deep within Mirkwood. Later, you wake from troubled sleep to discover that giant spiders have captured your friends!",
-    "Id": "Q_QUEST_FLIESANDSPIDERS_DESCRIPTION"
+    "Id": "Q_QUEST_FLIESANDSPIDERS_DESCRIPTION",
+    "Text": "Your party camps for the night deep within Mirkwood. Later, you wake from troubled sleep to discover that giant spiders have captured your friends!"
   },
   {
-    "Text_CN": "",
-    "Text": "Though free of the giant spiders' lair, your party is lost in the dark forest. You must get your bearings if you hope to escape the vastness of Mirkwood.",
-    "Id": "Q_QUEST_LOSTINMIRKWOOD_DESCRIPTION"
+    "Id": "Q_QUEST_LOSTINMIRKWOOD_DESCRIPTION",
+    "Text": "Though free of the giant spiders' lair, your party is lost in the dark forest. You must get your bearings if you hope to escape the vastness of Mirkwood."
   },
   {
-    "Text_CN": "",
-    "Text": "Even as you leave the dangers of Mirkwood Forest behind, new threats arise as you make your way down the mighty Anduin River.",
-    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_DESCRIPTION"
+    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_DESCRIPTION",
+    "Text": "Even as you leave the dangers of Mirkwood Forest behind, new threats arise as you make your way down the mighty Anduin River."
   },
   {
-    "Text_CN": "",
-    "Text": "You have reached the land of the Beornings at last. But a new complication arises: Their leader, Grimbeorn the Old, is missing!",
-    "Id": "Q_QUEST_CONFLICTATTHECARROCK_DESCRIPTION"
+    "Id": "Q_QUEST_CONFLICTATTHECARROCK_DESCRIPTION",
+    "Text": "You have reached the land of the Beornings at last. But a new complication arises: Their leader, Grimbeorn the Old, is missing!"
   },
   {
     "Text_CN": "",
@@ -2260,109 +2249,88 @@
     "Id": "Q_QUEST_TUTORIAL_DESCRIPTION"
   },
   {
-    "Text_CN": "森林之门",
-    "Text": "Forest Gate",
-    "Id": "Q_STAGE_FORESTGATE_NAME"
+    "Id": "Q_STAGE_FORESTGATE_NAME",
+    "Text": "Forest Gate"
   },
   {
-    "Text_CN": "落入蜘蛛之手",
-    "Text": "Captured by Spiders",
-    "Id": "Q_STAGE_CAPTUREDBYSPIDERS_NAME"
+    "Id": "Q_STAGE_CAPTUREDBYSPIDERS_NAME",
+    "Text": "Captured by Spiders"
   },
   {
-    "Text_CN": "堂堂一战",
-    "Text": "Fight Your Way Forward",
-    "Id": "Q_STAGE_STANDANDFIGHT_NAME"
+    "Id": "Q_STAGE_STANDANDFIGHT_NAME",
+    "Text": "Fight Your Way Forward"
   },
   {
-    "Text_CN": "走为上策",
-    "Text": "Turn and Flee",
-    "Id": "Q_STAGE_TURNANDFLEE_NAME"
+    "Id": "Q_STAGE_TURNANDFLEE_NAME",
+    "Text": "Turn and Flee"
   },
   {
-    "Text_CN": "幽森的溪流",
-    "Text": "The Enchanted Stream",
-    "Id": "Q_STAGE_THEENCHANTEDSTREAM_NAME"
+    "Id": "Q_STAGE_THEENCHANTEDSTREAM_NAME",
+    "Text": "The Enchanted Stream"
   },
   {
-    "Text_CN": "黑暗的森林",
-    "Text": "Dark Forest",
-    "Id": "Q_STAGE_DARKFOREST_NAME"
+    "Id": "Q_STAGE_DARKFOREST_NAME",
+    "Text": "Dark Forest"
   },
   {
-    "Text_CN": "蜘蛛巢穴",
-    "Text": "The Spiders' Lair",
-    "Id": "Q_STAGE_THESPIDERSLAIR_NAME"
+    "Id": "Q_STAGE_THESPIDERSLAIR_NAME",
+    "Text": "The Spiders' Lair"
   },
   {
-    "Text_CN": "蜘蛛密网",
-    "Text": "The Spiders' Webs",
-    "Id": "Q_STAGE_THESPIDERSWEBS_NAME"
+    "Id": "Q_STAGE_THESPIDERSWEBS_NAME",
+    "Text": "The Spiders' Webs"
   },
   {
-    "Text_CN": "林间空地",
-    "Text": "Forest Glade",
-    "Id": "Q_STAGE_FORESTGLADE_NAME"
+    "Id": "Q_STAGE_FORESTGLADE_NAME",
+    "Text": "Forest Glade"
   },
   {
-    "Text_CN": "幽暗密林",
-    "Text": "Mirkwood Forest",
-    "Id": "Q_STAGE_MIRKWOODFOREST_NAME"
+    "Id": "Q_STAGE_MIRKWOODFOREST_NAME",
+    "Text": "Mirkwood Forest"
   },
   {
-    "Text_CN": "林间溪流",
-    "Text": "Forest Stream",
-    "Id": "Q_STAGE_FORESTSTREAM_NAME"
+    "Id": "Q_STAGE_FORESTSTREAM_NAME",
+    "Text": "Forest Stream"
   },
   {
-    "Text_CN": "光秃的小山顶",
-    "Text": "Bare Hilltop",
-    "Id": "Q_STAGE_BAREHILLTOP_NAME"
+    "Id": "Q_STAGE_BAREHILLTOP_NAME",
+    "Text": "Bare Hilltop"
   },
   {
-    "Text_CN": "幽暗密林沼泽",
-    "Text": "Mirkwood Swamp",
-    "Id": "Q_STAGE_MIRKWOODSWAMP_NAME"
+    "Id": "Q_STAGE_MIRKWOODSWAMP_NAME",
+    "Text": "Mirkwood Swamp"
   },
   {
-    "Text_CN": "杂草小径",
-    "Text": "Overgrown Trail",
-    "Id": "Q_STAGE_OVERGROWNTRAIL_NAME"
+    "Id": "Q_STAGE_OVERGROWNTRAIL_NAME",
+    "Text": "Overgrown Trail"
   },
   {
-    "Text_CN": "荒废村落",
-    "Text": "Abandoned Village",
-    "Id": "Q_STAGE_ABANDONEDVILLAGE_NAME"
+    "Id": "Q_STAGE_ABANDONEDVILLAGE_NAME",
+    "Text": "Abandoned Village"
   },
   {
-    "Text_CN": "向河流前行",
-    "Text": "To the River",
-    "Id": "Q_STAGE_TOTHERIVER_NAME"
+    "Id": "Q_STAGE_TOTHERIVER_NAME",
+    "Text": "To the River"
   },
   {
-    "Text_CN": "安都因通路",
-    "Text": "Anduin Passage",
-    "Id": "Q_STAGE_ANDUINPASSAGE_NAME"
+    "Id": "Q_STAGE_ANDUINPASSAGE_NAME",
+    "Text": "Anduin Passage"
   },
   {
-    "Text_CN": "岸边的伏击",
-    "Text": "Ambush on the Shore",
-    "Id": "Q_STAGE_AMBUSHONTHESHORE_NAME"
+    "Id": "Q_STAGE_AMBUSHONTHESHORE_NAME",
+    "Text": "Ambush on the Shore"
   },
   {
-    "Text_CN": "寻找郁比翁",
-    "Text": "Searching for Grimbeorn",
-    "Id": "Q_STAGE_SEARCHINGFORGRIMBEORN_NAME"
+    "Id": "Q_STAGE_SEARCHINGFORGRIMBEORN_NAME",
+    "Text": "Searching for Grimbeorn"
   },
   {
-    "Text_CN": "巨魔的晚餐",
-    "Text": "The Trolls' Dinner",
-    "Id": "Q_STAGE_THETROLLSDINNER_NAME"
+    "Id": "Q_STAGE_THETROLLSDINNER_NAME",
+    "Text": "The Trolls' Dinner"
   },
   {
-    "Text_CN": "力战巨魔",
-    "Text": "Fight with the Trolls",
-    "Id": "Q_STAGE_FIGHTWITHTHETROLLS_NAME"
+    "Id": "Q_STAGE_FIGHTWITHTHETROLLS_NAME",
+    "Text": "Fight with the Trolls"
   },
   {
     "Text_CN": "",
@@ -2380,109 +2348,88 @@
     "Id": "Q_STAGE_TUTORIAL_STAGE_03_NAME"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>A</size> shadow looms over the forest of Mirkwood, threatening all lands east of the Misty Mountains. Hearing of this threat, the King of Dale decides to unite the peoples who live along the dark forest's borders. You agree to act as his envoy to the Beornings. These mighty skin changers dwell under the protection of Grimbeorn the Old in the Anduin Vale to the west. It is not a journey to be undertaken lightly—for, to reach Grimbeorn, you must journey through Mirkwood itself. \nIndeed, not long after entering the forest, you find yourself surrounded by servants of the growing darkness…</i>",
-    "Id": "Q_STAGE_FORESTGATE_TEXT"
+    "Id": "Q_STAGE_FORESTGATE_TEXT",
+    "Text": "<i><size=58>A</size> shadow looms over the forest of Mirkwood, threatening all lands east of the Misty Mountains. Hearing of this threat, the King of Dale decides to unite the peoples who live along the dark forest's borders. You agree to act as his envoy to the Beornings. These mighty skin changers dwell under the protection of Grimbeorn the Old in the Anduin Vale to the west. It is not a journey to be undertaken lightly—for, to reach Grimbeorn, you must journey through Mirkwood itself. \nIndeed, not long after entering the forest, you find yourself surrounded by servants of the growing darkness…</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>Y</size>ou are traveling deeper into Mirkwood along an overgrown trail when giant spiders ambush your party. They wrap one of your friends in a silken cocoon with horrifying speed, then drag their captive off to be devoured. You cannot abandon your companion to such a fate.</i>",
-    "Id": "Q_STAGE_CAPTUREDBYSPIDERS_TEXT"
+    "Id": "Q_STAGE_CAPTUREDBYSPIDERS_TEXT",
+    "Text": "<i><size=58>Y</size>ou are traveling deeper into Mirkwood along an overgrown trail when giant spiders ambush your party. They wrap one of your friends in a silken cocoon with horrifying speed, then drag their captive off to be devoured. You cannot abandon your companion to such a fate.</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>Y</size>ou have rescued your friend, but you quickly decide that your only chance of escape is to fight your way out. You turn to face the swarm of spiders and begin your assault!</i>",
-    "Id": "Q_STAGE_STANDANDFIGHT_TEXT"
+    "Id": "Q_STAGE_STANDANDFIGHT_TEXT",
+    "Text": "<i><size=58>Y</size>ou have rescued your friend, but you quickly decide that your only chance of escape is to fight your way out. You turn to face the swarm of spiders and begin your assault!</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>Y</size>ou have rescued your friend, but the spiders of Mirkwood continue to swarm around you. Realizing you are in danger of being overwhelmed, you decide to make a run for it!</i>",
-    "Id": "Q_STAGE_TURNANDFLEE_TEXT"
+    "Id": "Q_STAGE_TURNANDFLEE_TEXT",
+    "Text": "<i><size=58>Y</size>ou have rescued your friend, but the spiders of Mirkwood continue to swarm around you. Realizing you are in danger of being overwhelmed, you decide to make a run for it!</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>T</size>hough you have escaped the spiders—at least for now—you find yourself far from the main trail. Searching tirelessly, you at last spy the path on the far side of a dark, unnatural-looking stream. As you look for a place to ford, a giant creature emerges from the underbrush to attack!</i>",
-    "Id": "Q_STAGE_THEENCHANTEDSTREAM_TEXT"
+    "Id": "Q_STAGE_THEENCHANTEDSTREAM_TEXT",
+    "Text": "<i><size=58>T</size>hough you have escaped the spiders—at least for now—you find yourself far from the main trail. Searching tirelessly, you at last spy the path on the far side of a dark, unnatural-looking stream. As you look for a place to ford, a giant creature emerges from the underbrush to attack!</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>Y</size>our mission to find Grimbeorn the Old has uncovered the presence of Orcs in Mirkwood Forest. This is troubling news indeed. \nAfter a long day traveling ever deeper into this foul place, you camp for the night. Sleep comes quickly to your tired eyes, but disturbing dreams soon trouble you—nightmares filled with hundreds of bulbous eyes gleaming from the shadows and countless skittering legs echoing in the darkness. You awaken with a start to find that this wasn't a dream at all!\nWhile you slept, the giant spiders of Mirkwood carried off your friends—and have returned to claim you as well! You must escape these vile creatures and rescue your friends from a horrible fate…</i>",
-    "Id": "Q_STAGE_DARKFOREST_TEXT"
+    "Id": "Q_STAGE_DARKFOREST_TEXT",
+    "Text": "<i><size=58>Y</size>our mission to find Grimbeorn the Old has uncovered the presence of Orcs in Mirkwood Forest. This is troubling news indeed. \nAfter a long day traveling ever deeper into this foul place, you camp for the night. Sleep comes quickly to your tired eyes, but disturbing dreams soon trouble you—nightmares filled with hundreds of bulbous eyes gleaming from the shadows and countless skittering legs echoing in the darkness. You awaken with a start to find that this wasn't a dream at all!\nWhile you slept, the giant spiders of Mirkwood carried off your friends—and have returned to claim you as well! You must escape these vile creatures and rescue your friends from a horrible fate…</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>S</size>earching through the night, you find your friends being held within a dark glade, surrounded by giant spider webs. They have been bound in cocoons made of strong webbed cords. They beg you to cut them free, but before you can try the spiders descend from the trees to attack you.</i>",
-    "Id": "Q_STAGE_THESPIDERSLAIR_TEXT"
+    "Id": "Q_STAGE_THESPIDERSLAIR_TEXT",
+    "Text": "<i><size=58>S</size>earching through the night, you find your friends being held within a dark glade, surrounded by giant spider webs. They have been bound in cocoons made of strong webbed cords. They beg you to cut them free, but before you can try the spiders descend from the trees to attack you.</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>Y</size>ou've managed to cut your companions loose, but the spiders are determined to recapture you. They spin giant webs from tree to tree, trapping you in their den. You will have to cut your way through them in order to escape.</i>",
-    "Id": "Q_STAGE_THESPIDERSWEBS_TEXT"
+    "Id": "Q_STAGE_THESPIDERSWEBS_TEXT",
+    "Text": "<i><size=58>Y</size>ou've managed to cut your companions loose, but the spiders are determined to recapture you. They spin giant webs from tree to tree, trapping you in their den. You will have to cut your way through them in order to escape.</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>Y</size>ou hack through the spiders’ webs but advance only a short distance when an enormous spider appears, blocking your escape! Her many offspring gather behind you, cutting off any retreat. There is no turning back. You must defeat Ungoliant's spawn.</i>",
-    "Id": "Q_STAGE_FORESTGLADE_TEXT"
+    "Id": "Q_STAGE_FORESTGLADE_TEXT",
+    "Text": "<i><size=58>Y</size>ou hack through the spiders’ webs but advance only a short distance when an enormous spider appears, blocking your escape! Her many offspring gather behind you, cutting off any retreat. There is no turning back. You must defeat Ungoliant's spawn.</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>Y</size>ou have rescued your friends and escaped the spiders' lair, only to find yourself lost in the vastness of Mirkwood. Far from the relative safety of the Forest Road, the woods are a dark tangle of twisted trees. It is impossible to know the correct direction to travel within this wooded maze. \nIf you are to find your way out and continue your mission for the King of Dale, you must first find some landmarks to get your bearings…</i>",
-    "Id": "Q_STAGE_MIRKWOODFOREST_TEXT"
+    "Id": "Q_STAGE_MIRKWOODFOREST_TEXT",
+    "Text": "<i><size=58>Y</size>ou have rescued your friends and escaped the spiders' lair, only to find yourself lost in the vastness of Mirkwood. Far from the relative safety of the Forest Road, the woods are a dark tangle of twisted trees. It is impossible to know the correct direction to travel within this wooded maze. \nIf you are to find your way out and continue your mission for the King of Dale, you must first find some landmarks to get your bearings…</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>A</size> stream winds its way through the twisted roots of ancient trees that crowd the riverbank. Traveling this way is hard work. You wonder if you should continue or search for a better path.</i>",
-    "Id": "Q_STAGE_FORESTSTREAM_TEXT"
+    "Id": "Q_STAGE_FORESTSTREAM_TEXT",
+    "Text": "<i><size=58>A</size> stream winds its way through the twisted roots of ancient trees that crowd the riverbank. Traveling this way is hard work. You wonder if you should continue or search for a better path.</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>A</size> sea of green spreads for miles in all directions from your view atop a low hill. Scanning the horizon, you notice a faint trail of grey smoke rising in the distance. Do you head for the smoke, or do you keep searching for a path out of the forest?</i>",
-    "Id": "Q_STAGE_BAREHILLTOP_TEXT"
+    "Id": "Q_STAGE_BAREHILLTOP_TEXT",
+    "Text": "<i><size=58>A</size> sea of green spreads for miles in all directions from your view atop a low hill. Scanning the horizon, you notice a faint trail of grey smoke rising in the distance. Do you head for the smoke, or do you keep searching for a path out of the forest?</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>A</size>t long last, the stream you have been following leads you to a wide bog. You must be near the Anduin River vale—but reaching the mighty river requires crossing the swamp. Who knows what dangers lie in wait?</i>",
-    "Id": "Q_STAGE_MIRKWOODSWAMP_TEXT"
+    "Id": "Q_STAGE_MIRKWOODSWAMP_TEXT",
+    "Text": "<i><size=58>A</size>t long last, the stream you have been following leads you to a wide bog. You must be near the Anduin River vale—but reaching the mighty river requires crossing the swamp. Who knows what dangers lie in wait?</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>A</size>fter a long, desperate search you find a trail at last. Though it is overgrown and littered with animal tracks, you believe this path leads to the Anduin vale.</i>",
-    "Id": "Q_STAGE_OVERGROWNTRAIL_TEXT"
+    "Id": "Q_STAGE_OVERGROWNTRAIL_TEXT",
+    "Text": "<i><size=58>A</size>fter a long, desperate search you find a trail at last. Though it is overgrown and littered with animal tracks, you believe this path leads to the Anduin vale.</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>N</size>avigating toward the smoke as best you can through the dense forest, you find the remains of an old Woodmen village near the eaves of Mirkwood. Yet your relief is short-lived—the village is overrun with Orcs! As they spot your weary group, it becomes clear that you must fight to reach the Anduin vale.</i>",
-    "Id": "Q_STAGE_ABANDONEDVILLAGE_TEXT"
+    "Id": "Q_STAGE_ABANDONEDVILLAGE_TEXT",
+    "Text": "<i><size=58>N</size>avigating toward the smoke as best you can through the dense forest, you find the remains of an old Woodmen village near the eaves of Mirkwood. Yet your relief is short-lived—the village is overrun with Orcs! As they spot your weary group, it becomes clear that you must fight to reach the Anduin vale.</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>Y</size>ou stand at the shore of the mighty Anduin River. The many trials of Mirkwood Forest lay behind you at last, but you are still some distance from your destination: the land of the Beornings. Making your way south along the riverbank, you spy a raft which might speed your journey. \nAs you approach the craft, a shadow falls before you: a fearsome Hill Troll looms up from behind a cluster of rocks! He lunges toward you, his eyes gleaming with murderous intent…</i>",
-    "Id": "Q_STAGE_TOTHERIVER_TEXT"
+    "Id": "Q_STAGE_TOTHERIVER_TEXT",
+    "Text": "<i><size=58>Y</size>ou stand at the shore of the mighty Anduin River. The many trials of Mirkwood Forest lay behind you at last, but you are still some distance from your destination: the land of the Beornings. Making your way south along the riverbank, you spy a raft which might speed your journey. \nAs you approach the craft, a shadow falls before you: a fearsome Hill Troll looms up from behind a cluster of rocks! He lunges toward you, his eyes gleaming with murderous intent…</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>H</size>aving defeated the Troll, you board a raft and float downriver. You barely have time to catch your breath before more enemies emerge along the river bank in pursuit, harassing the small vessel as you attempt to navigate the river.</i>",
-    "Id": "Q_STAGE_ANDUINPASSAGE_TEXT"
+    "Id": "Q_STAGE_ANDUINPASSAGE_TEXT",
+    "Text": "<i><size=58>H</size>aving defeated the Troll, you board a raft and float downriver. You barely have time to catch your breath before more enemies emerge along the river bank in pursuit, harassing the small vessel as you attempt to navigate the river.</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>O</size>ngoing harassment from your enemies forces your raft to the shore. You must confront their ambush head on. If you survive this attack, the rest of your journey down the Anduin should be clear.</i>",
-    "Id": "Q_STAGE_AMBUSHONTHESHORE_TEXT"
+    "Id": "Q_STAGE_AMBUSHONTHESHORE_TEXT",
+    "Text": "<i><size=58>O</size>ngoing harassment from your enemies forces your raft to the shore. You must confront their ambush head on. If you survive this attack, the rest of your journey down the Anduin should be clear.</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>T</size>raversing the Anduin River has brought you from the Forest Gate south to the land of the Beornings. You explain that yours is a mission of great urgency: you must speak with Grimbeorn the Old about what you have uncovered in Mirkwood, and share the offer of alliance from the King of Dale. The Beornings know well of this danger, but their chieftain is not present. He was last seen as a great bear, roaming south toward his stony outlook at the Carrock. \nYou do not have the luxury of awaiting his return. To find Grimbeorn, you must set out after him at once…</i>",
-    "Id": "Q_STAGE_SEARCHINGFORGRIMBEORN_TEXT"
+    "Id": "Q_STAGE_SEARCHINGFORGRIMBEORN_TEXT",
+    "Text": "<i><size=58>T</size>raversing the Anduin River has brought you from the Forest Gate south to the land of the Beornings. You explain that yours is a mission of great urgency: you must speak with Grimbeorn the Old about what you have uncovered in Mirkwood, and share the offer of alliance from the King of Dale. The Beornings know well of this danger, but their chieftain is not present. He was last seen as a great bear, roaming south toward his stony outlook at the Carrock. \nYou do not have the luxury of awaiting his return. To find Grimbeorn, you must set out after him at once…</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>A</size>fter a day spent following Grimbeorn's trail, you make a startling discovery: a group of Trolls has captured the great chieftain, and plans to eat him! You draw your weapons and rush to his rescue.</i>",
-    "Id": "Q_STAGE_THETROLLSDINNER_TEXT"
+    "Id": "Q_STAGE_THETROLLSDINNER_TEXT",
+    "Text": "<i><size=58>A</size>fter a day spent following Grimbeorn's trail, you make a startling discovery: a group of Trolls has captured the great chieftain, and plans to eat him! You draw your weapons and rush to his rescue.</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "<i><size=58>O</size>nce freed from his chains, Grimbeorn joins you in your battle against the Trolls. “A barrel of beer to the one who brings me a Troll’s head!” he roars while swinging a mighty blow at the nearest foe.</i>",
-    "Id": "Q_STAGE_FIGHTWITHTHETROLLS_TEXT"
+    "Id": "Q_STAGE_FIGHTWITHTHETROLLS_TEXT",
+    "Text": "<i><size=58>O</size>nce freed from his chains, Grimbeorn joins you in your battle against the Trolls. “A barrel of beer to the one who brings me a Troll’s head!” he roars while swinging a mighty blow at the nearest foe.</i>"
   },
   {
     "Text_CN": "",
@@ -2500,109 +2447,88 @@
     "Id": "Q_STAGE_TUTORIAL_STAGE_03_TEXT"
   },
   {
-    "Text_CN": "",
-    "Text": "Resolve <i>Hidden Path</i> to allow travel from this Location",
-    "Id": "Q_STAGE_FORESTGATE_OBJECTIVE"
+    "Id": "Q_STAGE_FORESTGATE_OBJECTIVE",
+    "Text": "Resolve <i>Hidden Path</i> to allow travel from this Location"
   },
   {
-    "Text_CN": "",
-    "Text": "Resolve <i>Cocoon</i> to rescue your captured Hero and allow travel from this Location",
-    "Id": "Q_STAGE_CAPTUREDBYSPIDERS_OBJECTIVE"
+    "Id": "Q_STAGE_CAPTUREDBYSPIDERS_OBJECTIVE",
+    "Text": "Resolve <i>Cocoon</i> to rescue your captured Hero and allow travel from this Location"
   },
   {
-    "Text_CN": "",
-    "Text": "Defeat each Enemy in play to allow travel from this Location",
-    "Id": "Q_STAGE_STANDANDFIGHT_OBJECTIVE"
+    "Id": "Q_STAGE_STANDANDFIGHT_OBJECTIVE",
+    "Text": "Defeat each Enemy in play to allow travel from this Location"
   },
   {
-    "Text_CN": "",
-    "Text": "Resolve <i>Find the Path</i> to allow travel from this Location",
-    "Id": "Q_STAGE_TURNANDFLEE_OBJECTIVE"
+    "Id": "Q_STAGE_TURNANDFLEE_OBJECTIVE",
+    "Text": "Resolve <i>Find the Path</i> to allow travel from this Location"
   },
   {
-    "Text_CN": "",
-    "Text": "Defeat \"Marsh Adder\" to complete the Quest.",
-    "Id": "Q_STAGE_THEENCHANTEDSTREAM_OBJECTIVE"
+    "Id": "Q_STAGE_THEENCHANTEDSTREAM_OBJECTIVE",
+    "Text": "Defeat \"Marsh Adder\" to complete the Quest."
   },
   {
-    "Text_CN": "",
-    "Text": "Resolve <i>Find Your Friends</i> to allow travel from this Location",
-    "Id": "Q_STAGE_DARKFOREST_OBJECTIVE"
+    "Id": "Q_STAGE_DARKFOREST_OBJECTIVE",
+    "Text": "Resolve <i>Find Your Friends</i> to allow travel from this Location"
   },
   {
-    "Text_CN": "",
-    "Text": "Resolve <i>Rescue Your Friends</i> to allow travel from this Location",
-    "Id": "Q_STAGE_THESPIDERSLAIR_OBJECTIVE"
+    "Id": "Q_STAGE_THESPIDERSLAIR_OBJECTIVE",
+    "Text": "Resolve <i>Rescue Your Friends</i> to allow travel from this Location"
   },
   {
-    "Text_CN": "",
-    "Text": "Resolve <i>Escape the Spiders</i> to allow travel from this Location",
-    "Id": "Q_STAGE_THESPIDERSWEBS_OBJECTIVE"
+    "Id": "Q_STAGE_THESPIDERSWEBS_OBJECTIVE",
+    "Text": "Resolve <i>Escape the Spiders</i> to allow travel from this Location"
   },
   {
-    "Text_CN": "",
-    "Text": "Defeat <i>Ungoliant's Spawn</i> to complete the Quest",
-    "Id": "Q_STAGE_FORESTGLADE_OBJECTIVE"
+    "Id": "Q_STAGE_FORESTGLADE_OBJECTIVE",
+    "Text": "Defeat <i>Ungoliant's Spawn</i> to complete the Quest"
   },
   {
-    "Text_CN": "",
-    "Text": "Resolve <i>Follow the Stream</i> to advance immediately to <i>Forest Stream</i>, or <i>Climb the Hill</i> to advance immediately to <i>Bare Hilltop</i>",
-    "Id": "Q_STAGE_MIRKWOODFOREST_OBJECTIVE"
+    "Id": "Q_STAGE_MIRKWOODFOREST_OBJECTIVE",
+    "Text": "Resolve <i>Follow the Stream</i> to advance immediately to <i>Forest Stream</i>, or <i>Climb the Hill</i> to advance immediately to <i>Bare Hilltop</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "Resolve <i>Continue Downstream</i> to advance immediately to <i>Mirkwood Swamp</i>, or <i>Search for a Path</i> to advance immediately to <i>Overgrown Trail</i>",
-    "Id": "Q_STAGE_FORESTSTREAM_OBJECTIVE"
+    "Id": "Q_STAGE_FORESTSTREAM_OBJECTIVE",
+    "Text": "Resolve <i>Continue Downstream</i> to advance immediately to <i>Mirkwood Swamp</i>, or <i>Search for a Path</i> to advance immediately to <i>Overgrown Trail</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "Resolve <i>Investigate the Smoke</i> to advance immediately to <i>Abandoned Village</i>, or <i>Search for a Path</i> to advance immediately to <i>Overgrown Trail</i>",
-    "Id": "Q_STAGE_BAREHILLTOP_OBJECTIVE"
+    "Id": "Q_STAGE_BAREHILLTOP_OBJECTIVE",
+    "Text": "Resolve <i>Investigate the Smoke</i> to advance immediately to <i>Abandoned Village</i>, or <i>Search for a Path</i> to advance immediately to <i>Overgrown Trail</i>"
   },
   {
-    "Text_CN": "",
-    "Text": "Defeat <i>Giant Marsh Worm</i> to complete the Quest",
-    "Id": "Q_STAGE_MIRKWOODSWAMP_OBJECTIVE"
+    "Id": "Q_STAGE_MIRKWOODSWAMP_OBJECTIVE",
+    "Text": "Defeat <i>Giant Marsh Worm</i> to complete the Quest"
   },
   {
-    "Text_CN": "",
-    "Text": "Resolve <i>Escape the Forest</i> to complete the Quest",
-    "Id": "Q_STAGE_OVERGROWNTRAIL_OBJECTIVE"
+    "Id": "Q_STAGE_OVERGROWNTRAIL_OBJECTIVE",
+    "Text": "Resolve <i>Escape the Forest</i> to complete the Quest"
   },
   {
-    "Text_CN": "",
-    "Text": "Defeat each Enemy in play to complete the Quest",
-    "Id": "Q_STAGE_ABANDONEDVILLAGE_OBJECTIVE"
+    "Id": "Q_STAGE_ABANDONEDVILLAGE_OBJECTIVE",
+    "Text": "Defeat each Enemy in play to complete the Quest"
   },
   {
-    "Text_CN": "",
-    "Text": "Resolve <i>Board the Raft</i> to allow travel from this Location",
-    "Id": "Q_STAGE_TOTHERIVER_OBJECTIVE"
+    "Id": "Q_STAGE_TOTHERIVER_OBJECTIVE",
+    "Text": "Resolve <i>Board the Raft</i> to allow travel from this Location"
   },
   {
-    "Text_CN": "",
-    "Text": "Resolve <i>Navigate the River</i> to allow travel from this Location",
-    "Id": "Q_STAGE_ANDUINPASSAGE_OBJECTIVE"
+    "Id": "Q_STAGE_ANDUINPASSAGE_OBJECTIVE",
+    "Text": "Resolve <i>Navigate the River</i> to allow travel from this Location"
   },
   {
-    "Text_CN": "",
-    "Text": "Resolve <i>Ambush on the Shore</i> to complete the Quest",
-    "Id": "Q_STAGE_AMBUSHONTHESHORE_OBJECTIVE"
+    "Id": "Q_STAGE_AMBUSHONTHESHORE_OBJECTIVE",
+    "Text": "Resolve <i>Ambush on the Shore</i> to complete the Quest"
   },
   {
-    "Text_CN": "",
-    "Text": "Resolve <i>Follow Grimbeorn's Trail</i> to allow travel from this Location",
-    "Id": "Q_STAGE_SEARCHINGFORGRIMBEORN_OBJECTIVE"
+    "Id": "Q_STAGE_SEARCHINGFORGRIMBEORN_OBJECTIVE",
+    "Text": "Resolve <i>Follow Grimbeorn's Trail</i> to allow travel from this Location"
   },
   {
-    "Text_CN": "",
-    "Text": "Resolve <i>Rescue Grimbeorn</i> to advance immediately from this Location",
-    "Id": "Q_STAGE_THETROLLSDINNER_OBJECTIVE"
+    "Id": "Q_STAGE_THETROLLSDINNER_OBJECTIVE",
+    "Text": "Resolve <i>Rescue Grimbeorn</i> to advance immediately from this Location"
   },
   {
-    "Text_CN": "",
-    "Text": "Defeat each Troll or resolve <i>Delay Until Dawn</i> to complete the Quest",
-    "Id": "Q_STAGE_FIGHTWITHTHETROLLS_OBJECTIVE"
+    "Id": "Q_STAGE_FIGHTWITHTHETROLLS_OBJECTIVE",
+    "Text": "Defeat each Troll or resolve <i>Delay Until Dawn</i> to complete the Quest"
   },
   {
     "Text_CN": "",
@@ -2620,29 +2546,24 @@
     "Id": "Q_STAGE_TUTORIAL_STAGE_03_OBJECTIVE"
   },
   {
-    "Text_CN": "你成功地渡过了这条魔法之河。现在黑暗的河水挡住了你的追兵，你终于能不受阻碍地继续穿越幽暗密林了。",
-    "Text": "<i>You have made it across the enchanted river. With its dark waters between you and your pursuers, you are free to continue your journey through Mirkwood Forest.</i>",
-    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_VICTORY_TEXT"
+    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_VICTORY_TEXT",
+    "Text": "<i>You have made it across the enchanted river. With its dark waters between you and your pursuers, you are free to continue your journey through Mirkwood Forest.</i>"
   },
   {
-    "Text_CN": "你击败了乌苟立安特的子孙，并且救出了你的朋友！",
-    "Text": "<i>You have defeated </i>Ungoliant's Spawn<i> and rescued your friends.</i>",
-    "Id": "Q_QUEST_FLIESANDSPIDERS_VICTORY_TEXT"
+    "Id": "Q_QUEST_FLIESANDSPIDERS_VICTORY_TEXT",
+    "Text": "<i>You have defeated </i>Ungoliant's Spawn<i> and rescued your friends.</i>"
   },
   {
-    "Text_CN": "尽管一路艰辛，但你终于还是逃出了幽暗密林并抵达了安都因河谷的西口。接下来，你需要沿着安都因河继续前进，前往比翁族的领地。",
-    "Text": "<i>Against all odds, you have escaped from Mirkwood Forest and reached the vales of Anduin on the western end. The next leg of your journey will take you down the Anduin River to the land of the Beornings.</i>",
-    "Id": "Q_QUEST_LOSTINMIRKWOOD_VICTORY_TEXT"
+    "Id": "Q_QUEST_LOSTINMIRKWOOD_VICTORY_TEXT",
+    "Text": "<i>Against all odds, you have escaped from Mirkwood Forest and reached the vales of Anduin on the western end. The next leg of your journey will take you down the Anduin River to the land of the Beornings.</i>"
   },
   {
-    "Text_CN": "你打退了追兵，现在终于可以放心地继续顺流而下了。",
-    "Text": "<i>You have driven back your pursuers and are free to continue your journey downriver.</i>",
-    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_VICTORY_TEXT"
+    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_VICTORY_TEXT",
+    "Text": "<i>You have driven back your pursuers and are free to continue your journey downriver.</i>"
   },
   {
-    "Text_CN": "『干得漂亮！』当最后一头巨魔倒下之后，郁比翁大声夸奖着你。现在比翁族的酋长已经得救，你终于可以交付布兰德国王的信件，从而完成这项任务了！",
-    "Text": "<i>\"That was fine work,\" exclaims Grimbeorn after the last Troll falls. Having rescued the Beorning's chieftain, at long last you can deliver King Brand's message and complete your mission.</i>",
-    "Id": "Q_QUEST_CONFLICTATTHECARROCK_VICTORY_TEXT"
+    "Id": "Q_QUEST_CONFLICTATTHECARROCK_VICTORY_TEXT",
+    "Text": "<i>\"That was fine work,\" exclaims Grimbeorn after the last Troll falls. Having rescued the Beorning's chieftain, at long last you can deliver King Brand's message and complete your mission.</i>"
   },
   {
     "Text_CN": "",
@@ -2650,29 +2571,24 @@
     "Id": "Q_QUEST_TUTORIAL_VICTORY_TEXT"
   },
   {
-    "Text_CN": "",
-    "Text": "Your journey has come to a tragic end.",
-    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_DEFEAT_TEXT"
+    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_DEFEAT_TEXT",
+    "Text": "Your journey has come to a tragic end."
   },
   {
-    "Text_CN": "",
-    "Text": "Your journey has come to a tragic end.",
-    "Id": "Q_QUEST_FLIESANDSPIDERS_DEFEAT_TEXT"
+    "Id": "Q_QUEST_FLIESANDSPIDERS_DEFEAT_TEXT",
+    "Text": "Your journey has come to a tragic end."
   },
   {
-    "Text_CN": "",
-    "Text": "Your journey has come to a tragic end.",
-    "Id": "Q_QUEST_LOSTINMIRKWOOD_DEFEAT_TEXT"
+    "Id": "Q_QUEST_LOSTINMIRKWOOD_DEFEAT_TEXT",
+    "Text": "Your journey has come to a tragic end."
   },
   {
-    "Text_CN": "",
-    "Text": "Your journey has come to a tragic end.",
-    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_DEFEAT_TEXT"
+    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_DEFEAT_TEXT",
+    "Text": "Your journey has come to a tragic end."
   },
   {
-    "Text_CN": "",
-    "Text": "Your journey has come to a tragic end.",
-    "Id": "Q_QUEST_CONFLICTATTHECARROCK_DEFEAT_TEXT"
+    "Id": "Q_QUEST_CONFLICTATTHECARROCK_DEFEAT_TEXT",
+    "Text": "Your journey has come to a tragic end."
   },
   {
     "Text_CN": "",
