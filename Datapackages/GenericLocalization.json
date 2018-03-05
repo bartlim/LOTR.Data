@@ -5063,14 +5063,12 @@
     "Id": "C_SPIDERSNEST_TEXT"
   },
   {
-    "Text_CN": "",
-    "Text": "Delay Until Dawn",
-    "Id": "C_DELAYUNTILDAWN_TITLE"
+    "Id": "C_DELAYUNTILDAWN_TITLE",
+    "Text": "Delay Until Dawn"
   },
   {
-    "Text_CN": "",
-    "Text": "Dawn breaks and turns\nthe Trolls to stone!",
-    "Id": "C_DELAYUNTILDAWN_TEXT"
+    "Id": "C_DELAYUNTILDAWN_TEXT",
+    "Text": "Dawn rises and the\n Trolls turn to stone!"
   },
   {
     "Text_CN": "",
@@ -6108,5 +6106,9 @@
   {
     "Id": "C_AWATCHFULPEACE_FLAVOR",
     "Text": "C_AWATCHFULPEACE_FLAVOR"
+  },
+  {
+    "Id": "C_DELAYUNTILDAWN_FLAVOR",
+    "Text": "C_DELAYUNTILDAWN_FLAVOR"
   }
 ]
