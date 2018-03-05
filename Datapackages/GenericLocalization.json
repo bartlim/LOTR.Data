@@ -4815,14 +4815,12 @@
     "Id": "C_UNGOLIANTSSPAWN_TITLE"
   },
   {
-    "Text_CN": "装备（敌人）：获得关键词『强壮』。",
-    "Text": "Gain <b>Stalwart</b>",
-    "Id": "C_UNWAVERING_TEXT"
+    "Id": "C_UNWAVERING_TEXT",
+    "Text": "Gain <b>Stalwart</b>"
   },
   {
-    "Text_CN": "坚定不移",
-    "Text": "Unwavering",
-    "Id": "C_UNWAVERING_TITLE"
+    "Id": "C_UNWAVERING_TITLE",
+    "Text": "Unwavering"
   },
   {
     "Text_CN": "装备：获得关键词『格挡』。",
@@ -6104,5 +6102,9 @@
   {
     "Id": "C_DELAYUNTILDAWN_FLAVOR",
     "Text": "C_DELAYUNTILDAWN_FLAVOR"
+  },
+  {
+    "Id": "C_UNWAVERING_FLAVOR",
+    "Text": "C_UNWAVERING_FLAVOR"
   }
 ]
