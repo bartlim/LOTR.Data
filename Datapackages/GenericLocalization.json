@@ -2857,14 +2857,12 @@
     "Text": "testing card"
   },
   {
-    "Text_CN": "令威胁降低2点。 ",
-    "Text": "Lose 2 Threat",
-    "Id": "C_AWATCHFULPEACE_TEXT"
+    "Id": "C_AWATCHFULPEACE_TEXT",
+    "Text": "Lose 2 Threat"
   },
   {
-    "Text_CN": "暗流涌动的和平",
-    "Text": "A Watchful Peace",
-    "Id": "C_AWATCHFULPEACE_TITLE"
+    "Id": "C_AWATCHFULPEACE_TITLE",
+    "Text": "A Watchful Peace"
   },
   {
     "Text_CN": "",
@@ -6106,5 +6104,9 @@
   {
     "Id": "C_CAUGHTINAWEB_FLAVOR",
     "Text": "C_CAUGHTINAWEB_FLAVOR"
+  },
+  {
+    "Id": "C_AWATCHFULPEACE_FLAVOR",
+    "Text": "C_AWATCHFULPEACE_FLAVOR"
   }
 ]
