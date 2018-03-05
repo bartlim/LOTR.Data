@@ -146,7 +146,7 @@
         },
         {
           "Id": "ViciousSpeed",
-          "Quantity": 2,
+          "Quantity": 3,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -161,6 +161,48 @@
         {
           "Id": "WatchfulEyes",
           "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "WatchersintheDark",
+          "Quantity": 3,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "UnderTheWatchfulEye",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "TreacherousFog",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "PursuedByShadow",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "Exhaustion",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "AccursedForest",
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -240,9 +282,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180301055408022",
+  "Version": "20180305023944168",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180301055408022"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180305023944168"
 }
