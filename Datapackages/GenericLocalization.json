@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remov",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -128,6 +128,31 @@
     "Text_CN": "词表",
     "Text": "GLOSSARY",
     "Id": "U_OPTIONS_GLOSSARRY"
+  },
+  {
+    "Text_CN": "",
+    "Text": "Graphics Quality",
+    "Id": "U_OPTIONS_QUALITY"
+  },
+  {
+    "Text_CN": "",
+    "Text": "Low",
+    "Id": "U_OPTIONS_QUALITY_L"
+  },
+  {
+    "Text_CN": "",
+    "Text": "Medium",
+    "Id": "U_OPTIONS_QUALITY_M"
+  },
+  {
+    "Text_CN": "",
+    "Text": "High",
+    "Id": "U_OPTIONS_QUALITY_H"
+  },
+  {
+    "Text_CN": "",
+    "Text": "Antialiasing",
+    "Id": "U_OPTIONS_AA"
   },
   {
     "Text_CN": "0",
@@ -283,6 +308,11 @@
     "Text_CN": "0",
     "Text": "Card back selected",
     "Id": "U_DECKMENU_CARDBACK_SELECTED"
+  },
+  {
+    "Text_CN": "",
+    "Text": "Illustration",
+    "Id": "U_DECKMENU_ARTIST"
   },
   {
     "Text_CN": "选中以凝视真知晶石",
@@ -1228,6 +1258,16 @@
     "Text_CN": "",
     "Text": "You deck is full!",
     "Id": "U_DECKMENU_ADD_FAIL_DECK_FULL"
+  },
+  {
+    "Text_CN": "",
+    "Text": "To add this card, your deck \nmust have 1 {0} Hero.",
+    "Id": "U_DECKMENU_ADD_FAIL_NO_HERO"
+  },
+  {
+    "Text_CN": "",
+    "Text": "To add this card, your deck \nmust have {0} {1} Heroes.",
+    "Id": "U_DECKMENU_ADD_FAIL_NO_2HERO"
   },
   {
     "Text_CN": "",
@@ -2190,8 +2230,9 @@
     "Id": "PLACEHOLDER2"
   },
   {
-    "Id": "Q_CAMPAIGN_ADVENTURESINWILDERLAND_NAME",
-    "Text": "Adventures in Wilderland"
+    "Text_CN": "大荒原的冒险",
+    "Text": "Adventures in Wilderland",
+    "Id": "Q_CAMPAIGN_ADVENTURESINWILDERLAND_NAME"
   },
   {
     "Text_CN": "",
@@ -2199,24 +2240,29 @@
     "Id": "Q_CAMPAIGN_TUTORIAL_NAME"
   },
   {
-    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_NAME",
-    "Text": "Passage Through Mirkwood"
+    "Text_CN": "穿越幽暗密林",
+    "Text": "Passage Through Mirkwood",
+    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_NAME"
   },
   {
-    "Id": "Q_QUEST_FLIESANDSPIDERS_NAME",
-    "Text": "Flies and Spiders"
+    "Text_CN": "苍蝇与蜘蛛",
+    "Text": "Flies and Spiders",
+    "Id": "Q_QUEST_FLIESANDSPIDERS_NAME"
   },
   {
-    "Id": "Q_QUEST_LOSTINMIRKWOOD_NAME",
-    "Text": "Lost in Mirkwood"
+    "Text_CN": "迷失于幽暗密林",
+    "Text": "Lost in Mirkwood",
+    "Id": "Q_QUEST_LOSTINMIRKWOOD_NAME"
   },
   {
-    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_NAME",
-    "Text": "Journey Down the Anduin"
+    "Text_CN": "顺安都因河而下",
+    "Text": "Journey Down the Anduin",
+    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_NAME"
   },
   {
-    "Id": "Q_QUEST_CONFLICTATTHECARROCK_NAME",
-    "Text": "Conflict at the Carrock"
+    "Text_CN": "卡尔岩的死斗",
+    "Text": "Conflict at the Carrock",
+    "Id": "Q_QUEST_CONFLICTATTHECARROCK_NAME"
   },
   {
     "Text_CN": "",
@@ -2224,24 +2270,29 @@
     "Id": "Q_QUEST_TUTORIAL_NAME"
   },
   {
-    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_DESCRIPTION",
-    "Text": "The King of Dale seeks an alliance with the Beornings. You have agreed to act as envoy. To reach their lands, you must brave the dangers of Mirkwood Forest."
+    "Text_CN": "",
+    "Text": "The King of Dale seeks an alliance with the Beornings. You have agreed to act as envoy. To reach their lands, you must brave the dangers of Mirkwood Forest.",
+    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_DESCRIPTION"
   },
   {
-    "Id": "Q_QUEST_FLIESANDSPIDERS_DESCRIPTION",
-    "Text": "Your party camps for the night deep within Mirkwood. Later, you wake from troubled sleep to discover that giant spiders have captured your friends!"
+    "Text_CN": "",
+    "Text": "Your party camps for the night deep within Mirkwood. Later, you wake from troubled sleep to discover that giant spiders have captured your friends!",
+    "Id": "Q_QUEST_FLIESANDSPIDERS_DESCRIPTION"
   },
   {
-    "Id": "Q_QUEST_LOSTINMIRKWOOD_DESCRIPTION",
-    "Text": "Though free of the giant spiders' lair, your party is lost in the dark forest. You must get your bearings if you hope to escape the vastness of Mirkwood."
+    "Text_CN": "",
+    "Text": "Though free of the giant spiders' lair, your party is lost in the dark forest. You must get your bearings if you hope to escape the vastness of Mirkwood.",
+    "Id": "Q_QUEST_LOSTINMIRKWOOD_DESCRIPTION"
   },
   {
-    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_DESCRIPTION",
-    "Text": "Even as you leave the dangers of Mirkwood Forest behind, new threats arise as you make your way down the mighty Anduin River."
+    "Text_CN": "",
+    "Text": "Even as you leave the dangers of Mirkwood Forest behind, new threats arise as you make your way down the mighty Anduin River.",
+    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_DESCRIPTION"
   },
   {
-    "Id": "Q_QUEST_CONFLICTATTHECARROCK_DESCRIPTION",
-    "Text": "You have reached the land of the Beornings at last. But a new complication arises: Their leader, Grimbeorn the Old, is missing!"
+    "Text_CN": "",
+    "Text": "You have reached the land of the Beornings at last. But a new complication arises: Their leader, Grimbeorn the Old, is missing!",
+    "Id": "Q_QUEST_CONFLICTATTHECARROCK_DESCRIPTION"
   },
   {
     "Text_CN": "",
@@ -2249,88 +2300,109 @@
     "Id": "Q_QUEST_TUTORIAL_DESCRIPTION"
   },
   {
-    "Id": "Q_STAGE_FORESTGATE_NAME",
-    "Text": "Forest Gate"
+    "Text_CN": "森林之门",
+    "Text": "Forest Gate",
+    "Id": "Q_STAGE_FORESTGATE_NAME"
   },
   {
-    "Id": "Q_STAGE_CAPTUREDBYSPIDERS_NAME",
-    "Text": "Captured by Spiders"
+    "Text_CN": "落入蜘蛛之手",
+    "Text": "Captured by Spiders",
+    "Id": "Q_STAGE_CAPTUREDBYSPIDERS_NAME"
   },
   {
-    "Id": "Q_STAGE_STANDANDFIGHT_NAME",
-    "Text": "Fight Your Way Forward"
+    "Text_CN": "堂堂一战",
+    "Text": "Fight Your Way Forward",
+    "Id": "Q_STAGE_STANDANDFIGHT_NAME"
   },
   {
-    "Id": "Q_STAGE_TURNANDFLEE_NAME",
-    "Text": "Turn and Flee"
+    "Text_CN": "走为上策",
+    "Text": "Turn and Flee",
+    "Id": "Q_STAGE_TURNANDFLEE_NAME"
   },
   {
-    "Id": "Q_STAGE_THEENCHANTEDSTREAM_NAME",
-    "Text": "The Enchanted Stream"
+    "Text_CN": "幽森的溪流",
+    "Text": "The Enchanted Stream",
+    "Id": "Q_STAGE_THEENCHANTEDSTREAM_NAME"
   },
   {
-    "Id": "Q_STAGE_DARKFOREST_NAME",
-    "Text": "Dark Forest"
+    "Text_CN": "黑暗的森林",
+    "Text": "Dark Forest",
+    "Id": "Q_STAGE_DARKFOREST_NAME"
   },
   {
-    "Id": "Q_STAGE_THESPIDERSLAIR_NAME",
-    "Text": "The Spiders' Lair"
+    "Text_CN": "蜘蛛巢穴",
+    "Text": "The Spiders' Lair",
+    "Id": "Q_STAGE_THESPIDERSLAIR_NAME"
   },
   {
-    "Id": "Q_STAGE_THESPIDERSWEBS_NAME",
-    "Text": "The Spiders' Webs"
+    "Text_CN": "蜘蛛密网",
+    "Text": "The Spiders' Webs",
+    "Id": "Q_STAGE_THESPIDERSWEBS_NAME"
   },
   {
-    "Id": "Q_STAGE_FORESTGLADE_NAME",
-    "Text": "Forest Glade"
+    "Text_CN": "林间空地",
+    "Text": "Forest Glade",
+    "Id": "Q_STAGE_FORESTGLADE_NAME"
   },
   {
-    "Id": "Q_STAGE_MIRKWOODFOREST_NAME",
-    "Text": "Mirkwood Forest"
+    "Text_CN": "幽暗密林",
+    "Text": "Mirkwood Forest",
+    "Id": "Q_STAGE_MIRKWOODFOREST_NAME"
   },
   {
-    "Id": "Q_STAGE_FORESTSTREAM_NAME",
-    "Text": "Forest Stream"
+    "Text_CN": "林间溪流",
+    "Text": "Forest Stream",
+    "Id": "Q_STAGE_FORESTSTREAM_NAME"
   },
   {
-    "Id": "Q_STAGE_BAREHILLTOP_NAME",
-    "Text": "Bare Hilltop"
+    "Text_CN": "光秃的小山顶",
+    "Text": "Bare Hilltop",
+    "Id": "Q_STAGE_BAREHILLTOP_NAME"
   },
   {
-    "Id": "Q_STAGE_MIRKWOODSWAMP_NAME",
-    "Text": "Mirkwood Swamp"
+    "Text_CN": "幽暗密林沼泽",
+    "Text": "Mirkwood Swamp",
+    "Id": "Q_STAGE_MIRKWOODSWAMP_NAME"
   },
   {
-    "Id": "Q_STAGE_OVERGROWNTRAIL_NAME",
-    "Text": "Overgrown Trail"
+    "Text_CN": "杂草小径",
+    "Text": "Overgrown Trail",
+    "Id": "Q_STAGE_OVERGROWNTRAIL_NAME"
   },
   {
-    "Id": "Q_STAGE_ABANDONEDVILLAGE_NAME",
-    "Text": "Abandoned Village"
+    "Text_CN": "荒废村落",
+    "Text": "Abandoned Village",
+    "Id": "Q_STAGE_ABANDONEDVILLAGE_NAME"
   },
   {
-    "Id": "Q_STAGE_TOTHERIVER_NAME",
-    "Text": "To the River"
+    "Text_CN": "向河流前行",
+    "Text": "To the River",
+    "Id": "Q_STAGE_TOTHERIVER_NAME"
   },
   {
-    "Id": "Q_STAGE_ANDUINPASSAGE_NAME",
-    "Text": "Anduin Passage"
+    "Text_CN": "安都因通路",
+    "Text": "Anduin Passage",
+    "Id": "Q_STAGE_ANDUINPASSAGE_NAME"
   },
   {
-    "Id": "Q_STAGE_AMBUSHONTHESHORE_NAME",
-    "Text": "Ambush on the Shore"
+    "Text_CN": "岸边的伏击",
+    "Text": "Ambush on the Shore",
+    "Id": "Q_STAGE_AMBUSHONTHESHORE_NAME"
   },
   {
-    "Id": "Q_STAGE_SEARCHINGFORGRIMBEORN_NAME",
-    "Text": "Searching for Grimbeorn"
+    "Text_CN": "寻找郁比翁",
+    "Text": "Searching for Grimbeorn",
+    "Id": "Q_STAGE_SEARCHINGFORGRIMBEORN_NAME"
   },
   {
-    "Id": "Q_STAGE_THETROLLSDINNER_NAME",
-    "Text": "The Trolls' Dinner"
+    "Text_CN": "巨魔的晚餐",
+    "Text": "The Trolls' Dinner",
+    "Id": "Q_STAGE_THETROLLSDINNER_NAME"
   },
   {
-    "Id": "Q_STAGE_FIGHTWITHTHETROLLS_NAME",
-    "Text": "Fight with the Trolls"
+    "Text_CN": "力战巨魔",
+    "Text": "Fight with the Trolls",
+    "Id": "Q_STAGE_FIGHTWITHTHETROLLS_NAME"
   },
   {
     "Text_CN": "",
@@ -2348,88 +2420,109 @@
     "Id": "Q_STAGE_TUTORIAL_STAGE_03_NAME"
   },
   {
-    "Id": "Q_STAGE_FORESTGATE_TEXT",
-    "Text": "<i><size=58>A</size> shadow looms over the forest of Mirkwood, threatening all lands east of the Misty Mountains. Hearing of this threat, the King of Dale decides to unite the peoples who live along the dark forest's borders. You agree to act as his envoy to the Beornings. These mighty skin changers dwell under the protection of Grimbeorn the Old in the Anduin Vale to the west. It is not a journey to be undertaken lightly—for, to reach Grimbeorn, you must journey through Mirkwood itself. \nIndeed, not long after entering the forest, you find yourself surrounded by servants of the growing darkness…</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>A</size> shadow looms over the forest of Mirkwood, threatening all lands east of the Misty Mountains. Hearing of this threat, the King of Dale decides to unite the peoples who live along the dark forest's borders. You agree to act as his envoy to the Beornings. These mighty skin changers dwell under the protection of Grimbeorn the Old in the Anduin Vale to the west. It is not a journey to be undertaken lightly—for, to reach Grimbeorn, you must journey through Mirkwood itself. \nIndeed, not long after entering the forest, you find yourself surrounded by servants of the growing darkness…</i>",
+    "Id": "Q_STAGE_FORESTGATE_TEXT"
   },
   {
-    "Id": "Q_STAGE_CAPTUREDBYSPIDERS_TEXT",
-    "Text": "<i><size=58>Y</size>ou are traveling deeper into Mirkwood along an overgrown trail when giant spiders ambush your party. They wrap one of your friends in a silken cocoon with horrifying speed, then drag their captive off to be devoured. You cannot abandon your companion to such a fate.</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>Y</size>ou are traveling deeper into Mirkwood along an overgrown trail when giant spiders ambush your party. They wrap one of your friends in a silken cocoon with horrifying speed, then drag their captive off to be devoured. You cannot abandon your companion to such a fate.</i>",
+    "Id": "Q_STAGE_CAPTUREDBYSPIDERS_TEXT"
   },
   {
-    "Id": "Q_STAGE_STANDANDFIGHT_TEXT",
-    "Text": "<i><size=58>Y</size>ou have rescued your friend, but you quickly decide that your only chance of escape is to fight your way out. You turn to face the swarm of spiders and begin your assault!</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>Y</size>ou have rescued your friend, but you quickly decide that your only chance of escape is to fight your way out. You turn to face the swarm of spiders and begin your assault!</i>",
+    "Id": "Q_STAGE_STANDANDFIGHT_TEXT"
   },
   {
-    "Id": "Q_STAGE_TURNANDFLEE_TEXT",
-    "Text": "<i><size=58>Y</size>ou have rescued your friend, but the spiders of Mirkwood continue to swarm around you. Realizing you are in danger of being overwhelmed, you decide to make a run for it!</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>Y</size>ou have rescued your friend, but the spiders of Mirkwood continue to swarm around you. Realizing you are in danger of being overwhelmed, you decide to make a run for it!</i>",
+    "Id": "Q_STAGE_TURNANDFLEE_TEXT"
   },
   {
-    "Id": "Q_STAGE_THEENCHANTEDSTREAM_TEXT",
-    "Text": "<i><size=58>T</size>hough you have escaped the spiders—at least for now—you find yourself far from the main trail. Searching tirelessly, you at last spy the path on the far side of a dark, unnatural-looking stream. As you look for a place to ford, a giant creature emerges from the underbrush to attack!</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>T</size>hough you have escaped the spiders—at least for now—you find yourself far from the main trail. Searching tirelessly, you at last spy the path on the far side of a dark, unnatural-looking stream. As you look for a place to ford, a giant creature emerges from the underbrush to attack!</i>",
+    "Id": "Q_STAGE_THEENCHANTEDSTREAM_TEXT"
   },
   {
-    "Id": "Q_STAGE_DARKFOREST_TEXT",
-    "Text": "<i><size=58>Y</size>our mission to find Grimbeorn the Old has uncovered the presence of Orcs in Mirkwood Forest. This is troubling news indeed. \nAfter a long day traveling ever deeper into this foul place, you camp for the night. Sleep comes quickly to your tired eyes, but disturbing dreams soon trouble you—nightmares filled with hundreds of bulbous eyes gleaming from the shadows and countless skittering legs echoing in the darkness. You awaken with a start to find that this wasn't a dream at all!\nWhile you slept, the giant spiders of Mirkwood carried off your friends—and have returned to claim you as well! You must escape these vile creatures and rescue your friends from a horrible fate…</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>Y</size>our mission to find Grimbeorn the Old has uncovered the presence of Orcs in Mirkwood Forest. This is troubling news indeed. \nAfter a long day traveling ever deeper into this foul place, you camp for the night. Sleep comes quickly to your tired eyes, but disturbing dreams soon trouble you—nightmares filled with hundreds of bulbous eyes gleaming from the shadows and countless skittering legs echoing in the darkness. You awaken with a start to find that this wasn't a dream at all!\nWhile you slept, the giant spiders of Mirkwood carried off your friends—and have returned to claim you as well! You must escape these vile creatures and rescue your friends from a horrible fate…</i>",
+    "Id": "Q_STAGE_DARKFOREST_TEXT"
   },
   {
-    "Id": "Q_STAGE_THESPIDERSLAIR_TEXT",
-    "Text": "<i><size=58>S</size>earching through the night, you find your friends being held within a dark glade, surrounded by giant spider webs. They have been bound in cocoons made of strong webbed cords. They beg you to cut them free, but before you can try the spiders descend from the trees to attack you.</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>S</size>earching through the night, you find your friends being held within a dark glade, surrounded by giant spider webs. They have been bound in cocoons made of strong webbed cords. They beg you to cut them free, but before you can try the spiders descend from the trees to attack you.</i>",
+    "Id": "Q_STAGE_THESPIDERSLAIR_TEXT"
   },
   {
-    "Id": "Q_STAGE_THESPIDERSWEBS_TEXT",
-    "Text": "<i><size=58>Y</size>ou've managed to cut your companions loose, but the spiders are determined to recapture you. They spin giant webs from tree to tree, trapping you in their den. You will have to cut your way through them in order to escape.</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>Y</size>ou've managed to cut your companions loose, but the spiders are determined to recapture you. They spin giant webs from tree to tree, trapping you in their den. You will have to cut your way through them in order to escape.</i>",
+    "Id": "Q_STAGE_THESPIDERSWEBS_TEXT"
   },
   {
-    "Id": "Q_STAGE_FORESTGLADE_TEXT",
-    "Text": "<i><size=58>Y</size>ou hack through the spiders’ webs but advance only a short distance when an enormous spider appears, blocking your escape! Her many offspring gather behind you, cutting off any retreat. There is no turning back. You must defeat Ungoliant's spawn.</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>Y</size>ou hack through the spiders’ webs but advance only a short distance when an enormous spider appears, blocking your escape! Her many offspring gather behind you, cutting off any retreat. There is no turning back. You must defeat Ungoliant's spawn.</i>",
+    "Id": "Q_STAGE_FORESTGLADE_TEXT"
   },
   {
-    "Id": "Q_STAGE_MIRKWOODFOREST_TEXT",
-    "Text": "<i><size=58>Y</size>ou have rescued your friends and escaped the spiders' lair, only to find yourself lost in the vastness of Mirkwood. Far from the relative safety of the Forest Road, the woods are a dark tangle of twisted trees. It is impossible to know the correct direction to travel within this wooded maze. \nIf you are to find your way out and continue your mission for the King of Dale, you must first find some landmarks to get your bearings…</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>Y</size>ou have rescued your friends and escaped the spiders' lair, only to find yourself lost in the vastness of Mirkwood. Far from the relative safety of the Forest Road, the woods are a dark tangle of twisted trees. It is impossible to know the correct direction to travel within this wooded maze. \nIf you are to find your way out and continue your mission for the King of Dale, you must first find some landmarks to get your bearings…</i>",
+    "Id": "Q_STAGE_MIRKWOODFOREST_TEXT"
   },
   {
-    "Id": "Q_STAGE_FORESTSTREAM_TEXT",
-    "Text": "<i><size=58>A</size> stream winds its way through the twisted roots of ancient trees that crowd the riverbank. Traveling this way is hard work. You wonder if you should continue or search for a better path.</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>A</size> stream winds its way through the twisted roots of ancient trees that crowd the riverbank. Traveling this way is hard work. You wonder if you should continue or search for a better path.</i>",
+    "Id": "Q_STAGE_FORESTSTREAM_TEXT"
   },
   {
-    "Id": "Q_STAGE_BAREHILLTOP_TEXT",
-    "Text": "<i><size=58>A</size> sea of green spreads for miles in all directions from your view atop a low hill. Scanning the horizon, you notice a faint trail of grey smoke rising in the distance. Do you head for the smoke, or do you keep searching for a path out of the forest?</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>A</size> sea of green spreads for miles in all directions from your view atop a low hill. Scanning the horizon, you notice a faint trail of grey smoke rising in the distance. Do you head for the smoke, or do you keep searching for a path out of the forest?</i>",
+    "Id": "Q_STAGE_BAREHILLTOP_TEXT"
   },
   {
-    "Id": "Q_STAGE_MIRKWOODSWAMP_TEXT",
-    "Text": "<i><size=58>A</size>t long last, the stream you have been following leads you to a wide bog. You must be near the Anduin River vale—but reaching the mighty river requires crossing the swamp. Who knows what dangers lie in wait?</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>A</size>t long last, the stream you have been following leads you to a wide bog. You must be near the Anduin River vale—but reaching the mighty river requires crossing the swamp. Who knows what dangers lie in wait?</i>",
+    "Id": "Q_STAGE_MIRKWOODSWAMP_TEXT"
   },
   {
-    "Id": "Q_STAGE_OVERGROWNTRAIL_TEXT",
-    "Text": "<i><size=58>A</size>fter a long, desperate search you find a trail at last. Though it is overgrown and littered with animal tracks, you believe this path leads to the Anduin vale.</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>A</size>fter a long, desperate search you find a trail at last. Though it is overgrown and littered with animal tracks, you believe this path leads to the Anduin vale.</i>",
+    "Id": "Q_STAGE_OVERGROWNTRAIL_TEXT"
   },
   {
-    "Id": "Q_STAGE_ABANDONEDVILLAGE_TEXT",
-    "Text": "<i><size=58>N</size>avigating toward the smoke as best you can through the dense forest, you find the remains of an old Woodmen village near the eaves of Mirkwood. Yet your relief is short-lived—the village is overrun with Orcs! As they spot your weary group, it becomes clear that you must fight to reach the Anduin vale.</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>N</size>avigating toward the smoke as best you can through the dense forest, you find the remains of an old Woodmen village near the eaves of Mirkwood. Yet your relief is short-lived—the village is overrun with Orcs! As they spot your weary group, it becomes clear that you must fight to reach the Anduin vale.</i>",
+    "Id": "Q_STAGE_ABANDONEDVILLAGE_TEXT"
   },
   {
-    "Id": "Q_STAGE_TOTHERIVER_TEXT",
-    "Text": "<i><size=58>Y</size>ou stand at the shore of the mighty Anduin River. The many trials of Mirkwood Forest lay behind you at last, but you are still some distance from your destination: the land of the Beornings. Making your way south along the riverbank, you spy a raft which might speed your journey. \nAs you approach the craft, a shadow falls before you: a fearsome Hill Troll looms up from behind a cluster of rocks! He lunges toward you, his eyes gleaming with murderous intent…</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>Y</size>ou stand at the shore of the mighty Anduin River. The many trials of Mirkwood Forest lay behind you at last, but you are still some distance from your destination: the land of the Beornings. Making your way south along the riverbank, you spy a raft which might speed your journey. \nAs you approach the craft, a shadow falls before you: a fearsome Hill Troll looms up from behind a cluster of rocks! He lunges toward you, his eyes gleaming with murderous intent…</i>",
+    "Id": "Q_STAGE_TOTHERIVER_TEXT"
   },
   {
-    "Id": "Q_STAGE_ANDUINPASSAGE_TEXT",
-    "Text": "<i><size=58>H</size>aving defeated the Troll, you board a raft and float downriver. You barely have time to catch your breath before more enemies emerge along the river bank in pursuit, harassing the small vessel as you attempt to navigate the river.</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>H</size>aving defeated the Troll, you board a raft and float downriver. You barely have time to catch your breath before more enemies emerge along the river bank in pursuit, harassing the small vessel as you attempt to navigate the river.</i>",
+    "Id": "Q_STAGE_ANDUINPASSAGE_TEXT"
   },
   {
-    "Id": "Q_STAGE_AMBUSHONTHESHORE_TEXT",
-    "Text": "<i><size=58>O</size>ngoing harassment from your enemies forces your raft to the shore. You must confront their ambush head on. If you survive this attack, the rest of your journey down the Anduin should be clear.</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>O</size>ngoing harassment from your enemies forces your raft to the shore. You must confront their ambush head on. If you survive this attack, the rest of your journey down the Anduin should be clear.</i>",
+    "Id": "Q_STAGE_AMBUSHONTHESHORE_TEXT"
   },
   {
-    "Id": "Q_STAGE_SEARCHINGFORGRIMBEORN_TEXT",
-    "Text": "<i><size=58>T</size>raversing the Anduin River has brought you from the Forest Gate south to the land of the Beornings. You explain that yours is a mission of great urgency: you must speak with Grimbeorn the Old about what you have uncovered in Mirkwood, and share the offer of alliance from the King of Dale. The Beornings know well of this danger, but their chieftain is not present. He was last seen as a great bear, roaming south toward his stony outlook at the Carrock. \nYou do not have the luxury of awaiting his return. To find Grimbeorn, you must set out after him at once…</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>T</size>raversing the Anduin River has brought you from the Forest Gate south to the land of the Beornings. You explain that yours is a mission of great urgency: you must speak with Grimbeorn the Old about what you have uncovered in Mirkwood, and share the offer of alliance from the King of Dale. The Beornings know well of this danger, but their chieftain is not present. He was last seen as a great bear, roaming south toward his stony outlook at the Carrock. \nYou do not have the luxury of awaiting his return. To find Grimbeorn, you must set out after him at once…</i>",
+    "Id": "Q_STAGE_SEARCHINGFORGRIMBEORN_TEXT"
   },
   {
-    "Id": "Q_STAGE_THETROLLSDINNER_TEXT",
-    "Text": "<i><size=58>A</size>fter a day spent following Grimbeorn's trail, you make a startling discovery: a group of Trolls has captured the great chieftain, and plans to eat him! You draw your weapons and rush to his rescue.</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>A</size>fter a day spent following Grimbeorn's trail, you make a startling discovery: a group of Trolls has captured the great chieftain, and plans to eat him! You draw your weapons and rush to his rescue.</i>",
+    "Id": "Q_STAGE_THETROLLSDINNER_TEXT"
   },
   {
-    "Id": "Q_STAGE_FIGHTWITHTHETROLLS_TEXT",
-    "Text": "<i><size=58>O</size>nce freed from his chains, Grimbeorn joins you in your battle against the Trolls. “A barrel of beer to the one who brings me a Troll’s head!” he roars while swinging a mighty blow at the nearest foe.</i>"
+    "Text_CN": "",
+    "Text": "<i><size=58>O</size>nce freed from his chains, Grimbeorn joins you in your battle against the Trolls. “A barrel of beer to the one who brings me a Troll’s head!” he roars while swinging a mighty blow at the nearest foe.</i>",
+    "Id": "Q_STAGE_FIGHTWITHTHETROLLS_TEXT"
   },
   {
     "Text_CN": "",
@@ -2447,88 +2540,109 @@
     "Id": "Q_STAGE_TUTORIAL_STAGE_03_TEXT"
   },
   {
-    "Id": "Q_STAGE_FORESTGATE_OBJECTIVE",
-    "Text": "Resolve <i>Hidden Path</i> to allow travel from this Location"
+    "Text_CN": "",
+    "Text": "Resolve <i>Hidden Path</i> to allow travel from this Location",
+    "Id": "Q_STAGE_FORESTGATE_OBJECTIVE"
   },
   {
-    "Id": "Q_STAGE_CAPTUREDBYSPIDERS_OBJECTIVE",
-    "Text": "Resolve <i>Cocoon</i> to rescue your captured Hero and allow travel from this Location"
+    "Text_CN": "",
+    "Text": "Resolve <i>Cocoon</i> to rescue your captured Hero and allow travel from this Location",
+    "Id": "Q_STAGE_CAPTUREDBYSPIDERS_OBJECTIVE"
   },
   {
-    "Id": "Q_STAGE_STANDANDFIGHT_OBJECTIVE",
-    "Text": "Defeat each Enemy in play to allow travel from this Location"
+    "Text_CN": "",
+    "Text": "Defeat each Enemy in play to allow travel from this Location",
+    "Id": "Q_STAGE_STANDANDFIGHT_OBJECTIVE"
   },
   {
-    "Id": "Q_STAGE_TURNANDFLEE_OBJECTIVE",
-    "Text": "Resolve <i>Find the Path</i> to allow travel from this Location"
+    "Text_CN": "",
+    "Text": "Resolve <i>Find the Path</i> to allow travel from this Location",
+    "Id": "Q_STAGE_TURNANDFLEE_OBJECTIVE"
   },
   {
-    "Id": "Q_STAGE_THEENCHANTEDSTREAM_OBJECTIVE",
-    "Text": "Defeat \"Marsh Adder\" to complete the Quest."
+    "Text_CN": "",
+    "Text": "Defeat \"Marsh Adder\" to complete the Quest.",
+    "Id": "Q_STAGE_THEENCHANTEDSTREAM_OBJECTIVE"
   },
   {
-    "Id": "Q_STAGE_DARKFOREST_OBJECTIVE",
-    "Text": "Resolve <i>Find Your Friends</i> to allow travel from this Location"
+    "Text_CN": "",
+    "Text": "Resolve <i>Find Your Friends</i> to allow travel from this Location",
+    "Id": "Q_STAGE_DARKFOREST_OBJECTIVE"
   },
   {
-    "Id": "Q_STAGE_THESPIDERSLAIR_OBJECTIVE",
-    "Text": "Resolve <i>Rescue Your Friends</i> to allow travel from this Location"
+    "Text_CN": "",
+    "Text": "Resolve <i>Rescue Your Friends</i> to allow travel from this Location",
+    "Id": "Q_STAGE_THESPIDERSLAIR_OBJECTIVE"
   },
   {
-    "Id": "Q_STAGE_THESPIDERSWEBS_OBJECTIVE",
-    "Text": "Resolve <i>Escape the Spiders</i> to allow travel from this Location"
+    "Text_CN": "",
+    "Text": "Resolve <i>Escape the Spiders</i> to allow travel from this Location",
+    "Id": "Q_STAGE_THESPIDERSWEBS_OBJECTIVE"
   },
   {
-    "Id": "Q_STAGE_FORESTGLADE_OBJECTIVE",
-    "Text": "Defeat <i>Ungoliant's Spawn</i> to complete the Quest"
+    "Text_CN": "",
+    "Text": "Defeat <i>Ungoliant's Spawn</i> to complete the Quest",
+    "Id": "Q_STAGE_FORESTGLADE_OBJECTIVE"
   },
   {
-    "Id": "Q_STAGE_MIRKWOODFOREST_OBJECTIVE",
-    "Text": "Resolve <i>Follow the Stream</i> to advance immediately to <i>Forest Stream</i>, or <i>Climb the Hill</i> to advance immediately to <i>Bare Hilltop</i>"
+    "Text_CN": "",
+    "Text": "Resolve <i>Follow the Stream</i> to advance immediately to <i>Forest Stream</i>, or <i>Climb the Hill</i> to advance immediately to <i>Bare Hilltop</i>",
+    "Id": "Q_STAGE_MIRKWOODFOREST_OBJECTIVE"
   },
   {
-    "Id": "Q_STAGE_FORESTSTREAM_OBJECTIVE",
-    "Text": "Resolve <i>Continue Downstream</i> to advance immediately to <i>Mirkwood Swamp</i>, or <i>Search for a Path</i> to advance immediately to <i>Overgrown Trail</i>"
+    "Text_CN": "",
+    "Text": "Resolve <i>Continue Downstream</i> to advance immediately to <i>Mirkwood Swamp</i>, or <i>Search for a Path</i> to advance immediately to <i>Overgrown Trail</i>",
+    "Id": "Q_STAGE_FORESTSTREAM_OBJECTIVE"
   },
   {
-    "Id": "Q_STAGE_BAREHILLTOP_OBJECTIVE",
-    "Text": "Resolve <i>Investigate the Smoke</i> to advance immediately to <i>Abandoned Village</i>, or <i>Search for a Path</i> to advance immediately to <i>Overgrown Trail</i>"
+    "Text_CN": "",
+    "Text": "Resolve <i>Investigate the Smoke</i> to advance immediately to <i>Abandoned Village</i>, or <i>Search for a Path</i> to advance immediately to <i>Overgrown Trail</i>",
+    "Id": "Q_STAGE_BAREHILLTOP_OBJECTIVE"
   },
   {
-    "Id": "Q_STAGE_MIRKWOODSWAMP_OBJECTIVE",
-    "Text": "Defeat <i>Giant Marsh Worm</i> to complete the Quest"
+    "Text_CN": "",
+    "Text": "Defeat <i>Giant Marsh Worm</i> to complete the Quest",
+    "Id": "Q_STAGE_MIRKWOODSWAMP_OBJECTIVE"
   },
   {
-    "Id": "Q_STAGE_OVERGROWNTRAIL_OBJECTIVE",
-    "Text": "Resolve <i>Escape the Forest</i> to complete the Quest"
+    "Text_CN": "",
+    "Text": "Resolve <i>Escape the Forest</i> to complete the Quest",
+    "Id": "Q_STAGE_OVERGROWNTRAIL_OBJECTIVE"
   },
   {
-    "Id": "Q_STAGE_ABANDONEDVILLAGE_OBJECTIVE",
-    "Text": "Defeat each Enemy in play to complete the Quest"
+    "Text_CN": "",
+    "Text": "Defeat each Enemy in play to complete the Quest",
+    "Id": "Q_STAGE_ABANDONEDVILLAGE_OBJECTIVE"
   },
   {
-    "Id": "Q_STAGE_TOTHERIVER_OBJECTIVE",
-    "Text": "Resolve <i>Board the Raft</i> to allow travel from this Location"
+    "Text_CN": "",
+    "Text": "Resolve <i>Board the Raft</i> to allow travel from this Location",
+    "Id": "Q_STAGE_TOTHERIVER_OBJECTIVE"
   },
   {
-    "Id": "Q_STAGE_ANDUINPASSAGE_OBJECTIVE",
-    "Text": "Resolve <i>Navigate the River</i> to allow travel from this Location"
+    "Text_CN": "",
+    "Text": "Resolve <i>Navigate the River</i> to allow travel from this Location",
+    "Id": "Q_STAGE_ANDUINPASSAGE_OBJECTIVE"
   },
   {
-    "Id": "Q_STAGE_AMBUSHONTHESHORE_OBJECTIVE",
-    "Text": "Resolve <i>Ambush on the Shore</i> to complete the Quest"
+    "Text_CN": "",
+    "Text": "Resolve <i>Ambush on the Shore</i> to complete the Quest",
+    "Id": "Q_STAGE_AMBUSHONTHESHORE_OBJECTIVE"
   },
   {
-    "Id": "Q_STAGE_SEARCHINGFORGRIMBEORN_OBJECTIVE",
-    "Text": "Resolve <i>Follow Grimbeorn's Trail</i> to allow travel from this Location"
+    "Text_CN": "",
+    "Text": "Resolve <i>Follow Grimbeorn's Trail</i> to allow travel from this Location",
+    "Id": "Q_STAGE_SEARCHINGFORGRIMBEORN_OBJECTIVE"
   },
   {
-    "Id": "Q_STAGE_THETROLLSDINNER_OBJECTIVE",
-    "Text": "Resolve <i>Rescue Grimbeorn</i> to advance immediately from this Location"
+    "Text_CN": "",
+    "Text": "Resolve <i>Rescue Grimbeorn</i> to advance immediately from this Location",
+    "Id": "Q_STAGE_THETROLLSDINNER_OBJECTIVE"
   },
   {
-    "Id": "Q_STAGE_FIGHTWITHTHETROLLS_OBJECTIVE",
-    "Text": "Defeat each Troll or resolve <i>Delay Until Dawn</i> to complete the Quest"
+    "Text_CN": "",
+    "Text": "Defeat each Troll or resolve <i>Delay Until Dawn</i> to complete the Quest",
+    "Id": "Q_STAGE_FIGHTWITHTHETROLLS_OBJECTIVE"
   },
   {
     "Text_CN": "",
@@ -2546,24 +2660,29 @@
     "Id": "Q_STAGE_TUTORIAL_STAGE_03_OBJECTIVE"
   },
   {
-    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_VICTORY_TEXT",
-    "Text": "<i>You have made it across the enchanted river. With its dark waters between you and your pursuers, you are free to continue your journey through Mirkwood Forest.</i>"
+    "Text_CN": "你成功地渡过了这条魔法之河。现在黑暗的河水挡住了你的追兵，你终于能不受阻碍地继续穿越幽暗密林了。",
+    "Text": "<i>You have made it across the enchanted river. With its dark waters between you and your pursuers, you are free to continue your journey through Mirkwood Forest.</i>",
+    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_VICTORY_TEXT"
   },
   {
-    "Id": "Q_QUEST_FLIESANDSPIDERS_VICTORY_TEXT",
-    "Text": "<i>You have defeated </i>Ungoliant's Spawn<i> and rescued your friends.</i>"
+    "Text_CN": "你击败了乌苟立安特的子孙，并且救出了你的朋友！",
+    "Text": "<i>You have defeated </i>Ungoliant's Spawn<i> and rescued your friends.</i>",
+    "Id": "Q_QUEST_FLIESANDSPIDERS_VICTORY_TEXT"
   },
   {
-    "Id": "Q_QUEST_LOSTINMIRKWOOD_VICTORY_TEXT",
-    "Text": "<i>Against all odds, you have escaped from Mirkwood Forest and reached the vales of Anduin on the western end. The next leg of your journey will take you down the Anduin River to the land of the Beornings.</i>"
+    "Text_CN": "尽管一路艰辛，但你终于还是逃出了幽暗密林并抵达了安都因河谷的西口。接下来，你需要沿着安都因河继续前进，前往比翁族的领地。",
+    "Text": "<i>Against all odds, you have escaped from Mirkwood Forest and reached the vales of Anduin on the western end. The next leg of your journey will take you down the Anduin River to the land of the Beornings.</i>",
+    "Id": "Q_QUEST_LOSTINMIRKWOOD_VICTORY_TEXT"
   },
   {
-    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_VICTORY_TEXT",
-    "Text": "<i>You have driven back your pursuers and are free to continue your journey downriver.</i>"
+    "Text_CN": "你打退了追兵，现在终于可以放心地继续顺流而下了。",
+    "Text": "<i>You have driven back your pursuers and are free to continue your journey downriver.</i>",
+    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_VICTORY_TEXT"
   },
   {
-    "Id": "Q_QUEST_CONFLICTATTHECARROCK_VICTORY_TEXT",
-    "Text": "<i>\"That was fine work,\" exclaims Grimbeorn after the last Troll falls. Having rescued the Beorning's chieftain, at long last you can deliver King Brand's message and complete your mission.</i>"
+    "Text_CN": "『干得漂亮！』当最后一头巨魔倒下之后，郁比翁大声夸奖着你。现在比翁族的酋长已经得救，你终于可以交付布兰德国王的信件，从而完成这项任务了！",
+    "Text": "<i>\"That was fine work,\" exclaims Grimbeorn after the last Troll falls. Having rescued the Beorning's chieftain, at long last you can deliver King Brand's message and complete your mission.</i>",
+    "Id": "Q_QUEST_CONFLICTATTHECARROCK_VICTORY_TEXT"
   },
   {
     "Text_CN": "",
@@ -2571,24 +2690,29 @@
     "Id": "Q_QUEST_TUTORIAL_VICTORY_TEXT"
   },
   {
-    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_DEFEAT_TEXT",
-    "Text": "Your journey has come to a tragic end."
+    "Text_CN": "",
+    "Text": "Your journey has come to a tragic end.",
+    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_DEFEAT_TEXT"
   },
   {
-    "Id": "Q_QUEST_FLIESANDSPIDERS_DEFEAT_TEXT",
-    "Text": "Your journey has come to a tragic end."
+    "Text_CN": "",
+    "Text": "Your journey has come to a tragic end.",
+    "Id": "Q_QUEST_FLIESANDSPIDERS_DEFEAT_TEXT"
   },
   {
-    "Id": "Q_QUEST_LOSTINMIRKWOOD_DEFEAT_TEXT",
-    "Text": "Your journey has come to a tragic end."
+    "Text_CN": "",
+    "Text": "Your journey has come to a tragic end.",
+    "Id": "Q_QUEST_LOSTINMIRKWOOD_DEFEAT_TEXT"
   },
   {
-    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_DEFEAT_TEXT",
-    "Text": "Your journey has come to a tragic end."
+    "Text_CN": "",
+    "Text": "Your journey has come to a tragic end.",
+    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_DEFEAT_TEXT"
   },
   {
-    "Id": "Q_QUEST_CONFLICTATTHECARROCK_DEFEAT_TEXT",
-    "Text": "Your journey has come to a tragic end."
+    "Text_CN": "",
+    "Text": "Your journey has come to a tragic end.",
+    "Id": "Q_QUEST_CONFLICTATTHECARROCK_DEFEAT_TEXT"
   },
   {
     "Text_CN": "",
@@ -2666,12 +2790,14 @@
     "Id": "C_AGAINSTTHESHADOW_TITLE"
   },
   {
-    "Id": "C_AGENTOFSAURON_TEXT",
-    "Text": "<b>Fleeting. Stalwart. Surge</b>"
+    "Text_CN": "",
+    "Text": "<b>Fleeting. Stalwart. Surge</b>",
+    "Id": "C_AGENTOFSAURON_TEXT"
   },
   {
-    "Id": "C_AGENTOFSAURON_TITLE",
-    "Text": "‰Agent of Sauron"
+    "Text_CN": "",
+    "Text": "‰Agent of Sauron",
+    "Id": "C_AGENTOFSAURON_TITLE"
   },
   {
     "Text_CN": "",
@@ -2694,40 +2820,49 @@
     "Id": "C_ANDUINTROLLSPAWN_TITLE"
   },
   {
-    "Id": "C_ARAGORN_FLAVOR",
-    "Text": "\"I am Aragorn son of Arathorn; and if by life or death I can save you, I will.\"\n–Aragorn, <i>The Fellowship of the Ring</i>"
+    "Text_CN": "",
+    "Text": "\"I am Aragorn son of Arathorn; and if by life or death I can save you, I will.\"\n–Aragorn, <i>The Fellowship of the Ring</i>",
+    "Id": "C_ARAGORN_FLAVOR"
   },
   {
-    "Id": "C_ARAGORN_TEXT",
-    "Text": "<b>Power:</b> Ready <i>Aragorn</i> \n(cost 1)"
+    "Text_CN": "",
+    "Text": "<b>Power:</b> Ready <i>Aragorn</i> \n(cost 1)",
+    "Id": "C_ARAGORN_TEXT"
   },
   {
-    "Id": "C_ARAGORN_TITLE",
-    "Text": "‰Aragorn  "
+    "Text_CN": "",
+    "Text": "‰Aragorn  ",
+    "Id": "C_ARAGORN_TITLE"
   },
   {
-    "Id": "C_ARWEN_FLAVOR",
-    "Text": "…Thought and knowledge were in her glance, as of one who has known many things that the years bring. \n<i>–The Fellowship of the Ring</i>"
+    "Text_CN": "",
+    "Text": "…Thought and knowledge were in her glance, as of one who has known many things that the years bring. \n<i>–The Fellowship of the Ring</i>",
+    "Id": "C_ARWEN_FLAVOR"
   },
   {
-    "Id": "C_ARWEN_TEXT",
-    "Text": "<b>Upkeep:</b> Restore 1 Health"
+    "Text_CN": "休整：为一位人物治愈1点伤害。",
+    "Text": "<b>Upkeep:</b> Restore 1 Health",
+    "Id": "C_ARWEN_TEXT"
   },
   {
-    "Id": "C_ARWEN_TITLE",
-    "Text": "‰Arwen   "
+    "Text_CN": "",
+    "Text": "‰Arwen   ",
+    "Id": "C_ARWEN_TITLE"
   },
   {
-    "Id": "C_ATEST181120_FLAVOR",
-    "Text": "[do not translate]tester\ntest"
+    "Text_CN": "",
+    "Text": "[do not translate]tester\ntest",
+    "Id": "C_ATEST181120_FLAVOR"
   },
   {
-    "Id": "C_ATEST181120_TEXT",
-    "Text": "[do not translate]a playground for card script testing,"
+    "Text_CN": "",
+    "Text": "[do not translate]a playground for card script testing,",
+    "Id": "C_ATEST181120_TEXT"
   },
   {
-    "Id": "C_ATEST181120_TITLE",
-    "Text": "testing card"
+    "Text_CN": "",
+    "Text": "[do not translate]testing card",
+    "Id": "C_ATEST181120_TITLE"
   },
   {
     "Text_CN": "令威胁降低2点。 ",
@@ -2820,16 +2955,19 @@
     "Id": "C_BLACKFORESTBATS_TITLE"
   },
   {
-    "Id": "C_BLADEOFGONDOLIN_FLAVOR",
-    "Text": "It was rather splendid to be wearing a blade made in Gondolin for the goblin–wars of which so many songs had sung…\n<i>–The Hobbit</i>"
+    "Text_CN": "",
+    "Text": "It was rather splendid to be wearing a blade made in Gondolin for the goblin–wars of which so many songs had sung…\n<i>–The Hobbit</i>",
+    "Id": "C_BLADEOFGONDOLIN_FLAVOR"
   },
   {
-    "Id": "C_BLADEOFGONDOLIN_TEXT",
-    "Text": "Gain +2 Attack; \nlose 1 Willpower"
+    "Text_CN": "",
+    "Text": "Gain +2 Attack; \nlose 1 Willpower",
+    "Id": "C_BLADEOFGONDOLIN_TEXT"
   },
   {
-    "Id": "C_BLADEOFGONDOLIN_TITLE",
-    "Text": "Blade of Gondolin"
+    "Text_CN": "0",
+    "Text": "Blade of Gondolin",
+    "Id": "C_BLADEOFGONDOLIN_TITLE"
   },
   {
     "Text_CN": "",
@@ -2862,16 +3000,19 @@
     "Id": "C_BORNEALOFT_TITLE"
   },
   {
-    "Id": "C_BOWOFTHEGALADHRIM_FLAVOR",
-    "Text": "…longer and stronger than the bows of Mirkwood, and strung with a string of elf–hair. \n<i>–The Fellowship of the Ring</i>"
+    "Text_CN": "",
+    "Text": "…longer and stronger than the bows of Mirkwood, and strung with a string of elf–hair. \n<i>–The Fellowship of the Ring</i>",
+    "Id": "C_BOWOFTHEGALADHRIM_FLAVOR"
   },
   {
-    "Id": "C_BOWOFTHEGALADHRIM_TEXT",
-    "Text": "Gain +1 Attack and <b>Ranged</b>"
+    "Text_CN": "",
+    "Text": "Gain +1 Attack and <b>Ranged</b>",
+    "Id": "C_BOWOFTHEGALADHRIM_TEXT"
   },
   {
-    "Id": "C_BOWOFTHEGALADHRIM_TITLE",
-    "Text": "Bow of the Galadhrim"
+    "Text_CN": "凯兰崔姆之弓",
+    "Text": "Bow of the Galadhrim",
+    "Id": "C_BOWOFTHEGALADHRIM_TITLE"
   },
   {
     "Text_CN": "",
@@ -2909,12 +3050,14 @@
     "Id": "C_CHIEFTAINUFTHAK_TITLE"
   },
   {
-    "Id": "C_CLIMBTHEHILL_TEXT",
-    "Text": "Travel immediately to \n<i>Bare Hilltop</i>"
+    "Text_CN": "",
+    "Text": "Travel immediately to \n<i>Bare Hilltop</i>",
+    "Id": "C_CLIMBTHEHILL_TEXT"
   },
   {
-    "Id": "C_CLIMBTHEHILL_TITLE",
-    "Text": "Climb the Hill"
+    "Text_CN": "登上山顶",
+    "Text": "Climb the Hill",
+    "Id": "C_CLIMBTHEHILL_TITLE"
   },
   {
     "Text_CN": "结算：人物得到解救，并返回游戏区。",
@@ -2957,12 +3100,14 @@
     "Id": "C_DARKSORCERY_TITLE"
   },
   {
-    "Id": "C_DESPAIR_TEXT",
-    "Text": "After being attacked, gain 1 Threat"
+    "Text_CN": "装备（敌人）：在人物发动攻击后为目标增加1点威胁。",
+    "Text": "After being attacked, gain 1 Threat",
+    "Id": "C_DESPAIR_TEXT"
   },
   {
-    "Id": "C_DESPAIR_TITLE",
-    "Text": "Despair"
+    "Text_CN": "绝望",
+    "Text": "Despair",
+    "Id": "C_DESPAIR_TITLE"
   },
   {
     "Text_CN": "摧毁一位英雄的一件随机装备。",
@@ -3015,16 +3160,19 @@
     "Id": "C_ELITEDOLGULDURORCS_TITLE"
   },
   {
-    "Id": "C_ELROND_FLAVOR",
-    "Text": "\"But you do not stand alone.\"\n<i>–The Fellowship of the Ring</i>"
+    "Text_CN": "",
+    "Text": "\"But you do not stand alone.\"\n<i>–The Fellowship of the Ring</i>",
+    "Id": "C_ELROND_FLAVOR"
   },
   {
-    "Id": "C_ELROND_TEXT",
-    "Text": "<i>Ability pending</i>"
+    "Text_CN": "",
+    "Text": "<i>Ability pending</i>",
+    "Id": "C_ELROND_TEXT"
   },
   {
-    "Id": "C_ELROND_TITLE",
-    "Text": "‰Elrond"
+    "Text_CN": "",
+    "Text": "‰Elrond",
+    "Id": "C_ELROND_TITLE"
   },
   {
     "Text_CN": "",
@@ -3062,16 +3210,19 @@
     "Id": "C_ENFEEBLED_TITLE"
   },
   {
-    "Id": "C_EOWYN_FLAVOR",
-    "Text": "\"But I am of the House of Eorl and not a serving-woman. I can ride and wield blade, and I do not fear either pain or death.\" \n–Éowyn, <i>The Return of the King</i>"
+    "Text_CN": "",
+    "Text": "\"But I am of the House of Eorl and not a serving-woman. I can ride and wield blade, and I do not fear either pain or death.\" \n–Éowyn, <i>The Return of the King</i>",
+    "Id": "C_EOWYN_FLAVOR"
   },
   {
-    "Id": "C_EOWYN_TEXT",
-    "Text": "Gain +2 Willpower this round after the first Character is damaged"
+    "Text_CN": "每轮首次有人物被击败时，伊欧玟意志力+2，持续至轮次结束。",
+    "Text": "Gain +2 Willpower this round after the first Character is damaged",
+    "Id": "C_EOWYN_TEXT"
   },
   {
-    "Id": "C_EOWYN_TITLE",
-    "Text": "‰Éowyn"
+    "Text_CN": "‰伊欧玟",
+    "Text": "‰Éowyn",
+    "Id": "C_EOWYN_TITLE"
   },
   {
     "Text_CN": "",
@@ -3204,28 +3355,34 @@
     "Id": "C_EYESOFTHEFOREST_TITLE"
   },
   {
-    "Id": "C_FARAMIR_FLAVOR",
-    "Text": "\"The road may pass, but they shall not! Not while Faramir is Captain.\" \n–Mablung, <i>The Two Towers</i>"
+    "Text_CN": "",
+    "Text": "\"The road may pass, but they shall not! Not while Faramir is Captain.\" \n–Mablung, <i>The Two Towers</i>",
+    "Id": "C_FARAMIR_FLAVOR"
   },
   {
-    "Id": "C_FARAMIR_TEXT",
-    "Text": "<b>Ranged. Vanquish:</b> \nDraw 1 card"
+    "Text_CN": "",
+    "Text": "<b>Ranged. Vanquish:</b> \nDraw 1 card",
+    "Id": "C_FARAMIR_TEXT"
   },
   {
-    "Id": "C_FARAMIR_TITLE",
-    "Text": "‰Faramir   "
+    "Text_CN": "",
+    "Text": "‰Faramir   ",
+    "Id": "C_FARAMIR_TITLE"
   },
   {
-    "Id": "C_FAVOROFTHELADY_FLAVOR",
-    "Text": "\"You are indeed high in the favor of the Lady!\"\n –Unnamed Elf of Lórien,\n <i>The Fellowship of the Ring</i>"
+    "Text_CN": "",
+    "Text": "\"You are indeed high in the favor of the Lady!\"\n –Unnamed Elf of Lórien,\n <i>The Fellowship of the Ring</i>",
+    "Id": "C_FAVOROFTHELADY_FLAVOR"
   },
   {
-    "Id": "C_FAVOROFTHELADY_TEXT",
-    "Text": "Gain +1 Willpower"
+    "Text_CN": "装备：意志力+1。",
+    "Text": "Gain +1 Willpower",
+    "Id": "C_FAVOROFTHELADY_TEXT"
   },
   {
-    "Id": "C_FAVOROFTHELADY_TITLE",
-    "Text": "Favor of the Lady"
+    "Text_CN": "女神之佑",
+    "Text": "Favor of the Lady",
+    "Id": "C_FAVOROFTHELADY_TITLE"
   },
   {
     "Text_CN": "",
@@ -3353,16 +3510,19 @@
     "Id": "C_FORESTFLIES_TITLE"
   },
   {
-    "Id": "C_FORESTSNARE_FLAVOR",
-    "Text": "\"We shall have it like a coney in a trap. Then we shall learn what kind of thing it is.\"\n–Unidentified Man of Gondor,\n <i>The Two Towers</i>"
+    "Text_CN": "",
+    "Text": "\"We shall have it like a coney in a trap. Then we shall learn what kind of thing it is.\"\n–Unidentified Man of Gondor,\n <i>The Two Towers</i>",
+    "Id": "C_FORESTSNARE_FLAVOR"
   },
   {
-    "Id": "C_FORESTSNARE_TEXT",
-    "Text": "Exhaust a non-unique Enemy. \nEnemy does not ready during Upkeep"
+    "Text_CN": "",
+    "Text": "Exhaust a non-unique Enemy. \nEnemy does not ready during Upkeep",
+    "Id": "C_FORESTSNARE_TEXT"
   },
   {
-    "Id": "C_FORESTSNARE_TITLE",
-    "Text": "Forest Snare"
+    "Text_CN": "林中陷阱",
+    "Text": "Forest Snare",
+    "Id": "C_FORESTSNARE_TITLE"
   },
   {
     "Text_CN": "",
@@ -3385,16 +3545,19 @@
     "Id": "C_FREETOCHOOSE_TITLE"
   },
   {
-    "Id": "C_FRODO_FLAVOR",
-    "Text": "Frodo began to feel restless, and the old paths seemed too well-trodden. He looked at maps and wondered what lay beyond their edges… \n<i>–The Fellowship of the Ring</i>"
+    "Text_CN": "",
+    "Text": "Frodo began to feel restless, and the old paths seemed too well-trodden. He looked at maps and wondered what lay beyond their edges… \n<i>–The Fellowship of the Ring</i>",
+    "Id": "C_FRODO_FLAVOR"
   },
   {
-    "Id": "C_FRODO_TEXT",
-    "Text": "<b>Stealth.</b> Gain +2 Willpower while Sauron has 0 Resources"
+    "Text_CN": "潜行。当索隆的资源为0时，弗罗多意志力+2。",
+    "Text": "<b>Stealth.</b> Gain +2 Willpower while Sauron has 0 Resources",
+    "Id": "C_FRODO_TEXT"
   },
   {
-    "Id": "C_FRODO_TITLE",
-    "Text": "‰Frodo   "
+    "Text_CN": "",
+    "Text": "‰Frodo   ",
+    "Id": "C_FRODO_TITLE"
   },
   {
     "Text_CN": "",
@@ -3527,16 +3690,19 @@
     "Id": "C_GIANTSPIDER_TITLE"
   },
   {
-    "Id": "C_GIMLI_FLAVOR",
-    "Text": "\"Men need many words before deeds. My axe is restless in my hands.\" \n–Gimli, <i>The Two Towers</i>"
+    "Text_CN": "",
+    "Text": "\"Men need many words before deeds. My axe is restless in my hands.\" \n–Gimli, <i>The Two Towers</i>",
+    "Id": "C_GIMLI_FLAVOR"
   },
   {
-    "Id": "C_GIMLI_TEXT",
-    "Text": "<b>Stalwart.</b> Gain +2 Attack this round after taking damage"
+    "Text_CN": "强壮。当受到伤害时，金雳攻击+2，持续至轮次结束。",
+    "Text": "<b>Stalwart.</b> Gain +2 Attack this round after taking damage",
+    "Id": "C_GIMLI_TEXT"
   },
   {
-    "Id": "C_GIMLI_TITLE",
-    "Text": "‰Gimli   "
+    "Text_CN": "",
+    "Text": "‰Gimli   ",
+    "Id": "C_GIMLI_TITLE"
   },
   {
     "Text_CN": "",
@@ -3549,16 +3715,19 @@
     "Id": "C_GOBLINSNIPER_TITLE"
   },
   {
-    "Id": "C_GONDORIANSHIELD_FLAVOR",
-    "Text": "There flowered a White Tree, and that was for Gondor… \n<i>–The Return of the King</i>"
+    "Text_CN": "",
+    "Text": "There flowered a White Tree, and that was for Gondor… \n<i>–The Return of the King</i>",
+    "Id": "C_GONDORIANSHIELD_FLAVOR"
   },
   {
-    "Id": "C_GONDORIANSHIELD_TEXT",
-    "Text": "Gain +2 Health and <b>Block</b>"
+    "Text_CN": "装备（刚铎）：获得『格挡』关键词且生命+2。",
+    "Text": "Gain +2 Health and <b>Block</b>",
+    "Id": "C_GONDORIANSHIELD_TEXT"
   },
   {
-    "Id": "C_GONDORIANSHIELD_TITLE",
-    "Text": "Gondorian Shield"
+    "Text_CN": "刚铎之盾",
+    "Text": "Gondorian Shield",
+    "Id": "C_GONDORIANSHIELD_TITLE"
   },
   {
     "Text_CN": "格挡。强壮。",
@@ -3686,28 +3855,34 @@
     "Id": "C_HIVEGUARDIAN_TITLE"
   },
   {
-    "Id": "C_HOBBITCLOAK_FLAVOR",
-    "Text": "In their dark cloaks, they were as invisible as if they all had magic rings. \n<i>–The Fellowship of the Ring</i>"
+    "Text_CN": "",
+    "Text": "In their dark cloaks, they were as invisible as if they all had magic rings. \n<i>–The Fellowship of the Ring</i>",
+    "Id": "C_HOBBITCLOAK_FLAVOR"
   },
   {
-    "Id": "C_HOBBITCLOAK_TEXT",
-    "Text": "(Hobbits only.) \n<b>Upkeep:</b> Gain <b>Stealth</b>\nthis round (50% chance)"
+    "Text_CN": "",
+    "Text": "(Hobbits only.) \n<b>Upkeep:</b> Gain <b>Stealth</b>\nthis round (50% chance)",
+    "Id": "C_HOBBITCLOAK_TEXT"
   },
   {
-    "Id": "C_BILBOSCLOAK_TITLE",
-    "Text": "‰Bilbo's Cloak"
+    "Text_CN": "",
+    "Text": "‰Bilbo's Cloak",
+    "Id": "C_BILBOSCLOAK_TITLE"
   },
   {
-    "Id": "C_BILBOSCLOAK_FLAVOR",
-    "Text": "…he kept in a drawer at Bag End the old cloak and hood that he had worn on his travels… \n<i>–The Fellowship of the Ring</i>"
+    "Text_CN": "",
+    "Text": "…he kept in a drawer at Bag End the old cloak and hood that he had worn on his travels… \n<i>–The Fellowship of the Ring</i>",
+    "Id": "C_BILBOSCLOAK_FLAVOR"
   },
   {
-    "Id": "C_BILBOSCLOAK_TEXT",
-    "Text": "(Hobbits only.) \n<b>Upkeep:</b> Sauron loses \n1 Resource"
+    "Text_CN": "",
+    "Text": "(Hobbits only.) \n<b>Upkeep:</b> Sauron loses \n1 Resource",
+    "Id": "C_BILBOSCLOAK_TEXT"
   },
   {
-    "Id": "C_HOBBITCLOAK_TITLE",
-    "Text": "Hobbit Cloak"
+    "Text_CN": "霍比特披风",
+    "Text": "Hobbit Cloak",
+    "Id": "C_HOBBITCLOAK_TITLE"
   },
   {
     "Text_CN": "在弃牌堆中选择一位英雄。他会以行动完毕状态返回战场。",
@@ -3815,28 +3990,34 @@
     "Id": "C_KINGSPIDER_TITLE"
   },
   {
-    "Id": "C_LEGACYBLADE_FLAVOR",
-    "Text": "…glad would he have been to know its fate who wrought it slowly long ago in the North-kingdom when the Dúnedain were young… \n<i>–The Return of the King</i>"
+    "Text_CN": "",
+    "Text": "…glad would he have been to know its fate who wrought it slowly long ago in the North-kingdom when the Dúnedain were young… \n<i>–The Return of the King</i>",
+    "Id": "C_LEGACYBLADE_FLAVOR"
   },
   {
-    "Id": "C_LEGACYBLADE_TEXT",
-    "Text": "Gain +1 Attack for each Resource in your pool (limit +3)"
+    "Text_CN": "装备：玩家每有1点资源则攻击+1（至多攻击+3）。",
+    "Text": "Gain +1 Attack for each Resource in your pool (limit +3)",
+    "Id": "C_LEGACYBLADE_TEXT"
   },
   {
-    "Id": "C_LEGACYBLADE_TITLE",
-    "Text": "Legacy Blade"
+    "Text_CN": "遗赠之剑",
+    "Text": "Legacy Blade",
+    "Id": "C_LEGACYBLADE_TITLE"
   },
   {
-    "Id": "C_LEGOLAS_FLAVOR",
-    "Text": "\"I can walk this path, but others have not this skill.\" \n–Legolas, <i>The Fellowship of the Ring</i>"
+    "Text_CN": "",
+    "Text": "\"I can walk this path, but others have not this skill.\" \n–Legolas, <i>The Fellowship of the Ring</i>",
+    "Id": "C_LEGOLAS_FLAVOR"
   },
   {
-    "Id": "C_LEGOLAS_TEXT",
-    "Text": "<b>Ranged. Upkeep:</b> Deal 1 damage"
+    "Text_CN": "",
+    "Text": "<b>Ranged. Upkeep:</b> Deal 1 damage",
+    "Id": "C_LEGOLAS_TEXT"
   },
   {
-    "Id": "C_LEGOLAS_TITLE",
-    "Text": "‰Legolas   "
+    "Text_CN": "0",
+    "Text": "‰Legolas   ",
+    "Id": "C_LEGOLAS_TITLE"
   },
   {
     "Text_CN": "",
@@ -4104,16 +4285,19 @@
     "Id": "C_QUICKSTRIKE_TITLE"
   },
   {
-    "Id": "C_RAIMENTOFWAR_FLAVOR",
-    "Text": "Now men came bearing raiment of war from the king's hoard… \n<i>–The Two Towers</i>"
+    "Text_CN": "",
+    "Text": "Now men came bearing raiment of war from the king's hoard… \n<i>–The Two Towers</i>",
+    "Id": "C_RAIMENTOFWAR_FLAVOR"
   },
   {
-    "Id": "C_RAIMENTOFWAR_TEXT",
-    "Text": "Gain +1 Attack, +2 Health, \nand <b>Block</b>"
+    "Text_CN": "",
+    "Text": "Gain +1 Attack, +2 Health, \nand <b>Block</b>",
+    "Id": "C_RAIMENTOFWAR_TEXT"
   },
   {
-    "Id": "C_RAIMENTOFWAR_TITLE",
-    "Text": "Raiment of War"
+    "Text_CN": "战袍",
+    "Text": "Raiment of War",
+    "Id": "C_RAIMENTOFWAR_TITLE"
   },
   {
     "Text_CN": "",
@@ -4131,16 +4315,19 @@
     "Id": "C_RAINOFARROWS_TITLE"
   },
   {
-    "Id": "C_RANGERSPEAR_FLAVOR",
-    "Text": "Two had spears in their hands with broad bright heads.\n<i>–The Two Towers</i>"
+    "Text_CN": "",
+    "Text": "Two had spears in their hands with broad bright heads.\n<i>–The Two Towers</i>",
+    "Id": "C_RANGERSPEAR_FLAVOR"
   },
   {
-    "Id": "C_RANGERSPEAR_TEXT",
-    "Text": "Gain +1 Attack, and deal \nan additional +1 damage when defending"
+    "Text_CN": "",
+    "Text": "Gain +1 Attack, and deal \nan additional +1 damage when defending",
+    "Id": "C_RANGERSPEAR_TEXT"
   },
   {
-    "Id": "C_RANGERSPEAR_TITLE",
-    "Text": "Ranger Spear"
+    "Text_CN": "游侠之矛",
+    "Text": "Ranger Spear",
+    "Id": "C_RANGERSPEAR_TITLE"
   },
   {
     "Text_CN": "安置一位当前游戏中不唯一的随机盟友的镜像。",
@@ -4213,12 +4400,14 @@
     "Id": "C_ROHIRRIMLANCER_TITLE"
   },
   {
-    "Id": "C_ROUNDSHIELD_TEXT",
-    "Text": "Gain <b>Block</b>"
+    "Text_CN": "装备：获得关键词『格挡』。",
+    "Text": "Gain <b>Block</b>",
+    "Id": "C_ROUNDSHIELD_TEXT"
   },
   {
-    "Id": "C_ROUNDSHIELD_TITLE",
-    "Text": "Round Shield"
+    "Text_CN": "圆盾",
+    "Text": "Round Shield",
+    "Id": "C_ROUNDSHIELD_TITLE"
   },
   {
     "Text_CN": "",
@@ -4241,16 +4430,19 @@
     "Id": "C_SACKED_TITLE"
   },
   {
-    "Id": "C_SAMGAMGEE_FLAVOR",
-    "Text": "\"I'm going with him… and if any of those Black Riders try to stop him, they'll have Sam Gamgee to reckon with.\" \n–Sam Gamgee, <i>The Fellowship of the Ring</i>"
+    "Text_CN": "",
+    "Text": "\"I'm going with him… and if any of those Black Riders try to stop him, they'll have Sam Gamgee to reckon with.\" \n–Sam Gamgee, <i>The Fellowship of the Ring</i>",
+    "Id": "C_SAMGAMGEE_FLAVOR"
   },
   {
-    "Id": "C_SAMGAMGEE_TEXT",
-    "Text": "<b>Stalwart.</b> Gain +1 Attack \nand <b>Surge</b> when Sauron has \n0 Resources"
+    "Text_CN": "",
+    "Text": "<b>Stalwart.</b> Gain +1 Attack \nand <b>Surge</b> when Sauron has \n0 Resources",
+    "Id": "C_SAMGAMGEE_TEXT"
   },
   {
-    "Id": "C_SAMGAMGEE_TITLE",
-    "Text": "‰Sam Gamgee "
+    "Text_CN": "",
+    "Text": "‰Sam Gamgee ",
+    "Id": "C_SAMGAMGEE_TITLE"
   },
   {
     "Text_CN": "结算：立刻前往林蔓小径。",
@@ -4288,24 +4480,29 @@
     "Id": "C_SECRETPATHS_TITLE"
   },
   {
-    "Id": "C_SELFPRESERVATION_FLAVOR",
-    "Text": "…how much more of this would they have to endure, or could they endure?\n<i>–The Two Towers</i>"
+    "Text_CN": "",
+    "Text": "…how much more of this would they have to endure, or could they endure?\n<i>–The Two Towers</i>",
+    "Id": "C_SELFPRESERVATION_FLAVOR"
   },
   {
-    "Id": "C_SELFPRESERVATION_TEXT",
-    "Text": "<b>Upkeep:</b> Restore 1 Health"
+    "Text_CN": "休整：为一位人物治愈1点伤害。",
+    "Text": "<b>Upkeep:</b> Restore 1 Health",
+    "Id": "C_SELFPRESERVATION_TEXT"
   },
   {
-    "Id": "C_SELFPRESERVATION_TITLE",
-    "Text": "Self-Preservation"
+    "Text_CN": "自护防身",
+    "Text": "Self-Preservation",
+    "Id": "C_SELFPRESERVATION_TITLE"
   },
   {
-    "Id": "C_SHIELDOFROHAN_TEXT",
-    "Text": "Gain +2 Health and <b>Stalwart</b>"
+    "Text_CN": "装备（洛汗）：生命+2并获得关键词『强壮』。",
+    "Text": "Gain +2 Health and <b>Stalwart</b>",
+    "Id": "C_SHIELDOFROHAN_TEXT"
   },
   {
-    "Id": "C_SHIELDOFROHAN_TITLE",
-    "Text": "Shield of Rohan"
+    "Text_CN": "洛汗之盾",
+    "Text": "Shield of Rohan",
+    "Id": "C_SHIELDOFROHAN_TITLE"
   },
   {
     "Text_CN": "",
@@ -4408,16 +4605,19 @@
     "Id": "C_STANDANDFIGHT_TITLE"
   },
   {
-    "Id": "C_STARBROOCH_FLAVOR",
-    "Text": "…each cloak was pinned upon the left shoulder by a brooch of silver shaped like a rayed star. \n<i>–The Return of the King</i>"
+    "Text_CN": "",
+    "Text": "…each cloak was pinned upon the left shoulder by a brooch of silver shaped like a rayed star. \n<i>–The Return of the King</i>",
+    "Id": "C_STARBROOCH_FLAVOR"
   },
   {
-    "Id": "C_STARBROOCH_TEXT",
-    "Text": "Gain <b>Surge</b>"
+    "Text_CN": "装备：获得关键词『警惕』。",
+    "Text": "Gain <b>Surge</b>",
+    "Id": "C_STARBROOCH_TEXT"
   },
   {
-    "Id": "C_STARBROOCH_TITLE",
-    "Text": "Star Brooch"
+    "Text_CN": "星形胸针",
+    "Text": "Star Brooch",
+    "Id": "C_STARBROOCH_TITLE"
   },
   {
     "Text_CN": "",
@@ -4595,16 +4795,19 @@
     "Id": "C_UNDERTHEWATCHFULEYE_TITLE"
   },
   {
-    "Id": "C_UNEXPECTEDCOURAGE_FLAVOR",
-    "Text": "\"Here am I, naughty little fly;\nyou are fat and lazy \nYou cannot trap me, though you try,\nin your cobwebs crazy.\"\n–Bilbo Baggins, <i>The Hobbit</i>"
+    "Text_CN": "",
+    "Text": "\"Here am I, naughty little fly;\nyou are fat and lazy \nYou cannot trap me, though you try,\nin your cobwebs crazy.\"\n–Bilbo Baggins, <i>The Hobbit</i>",
+    "Id": "C_UNEXPECTEDCOURAGE_FLAVOR"
   },
   {
-    "Id": "C_UNEXPECTEDCOURAGE_TEXT",
-    "Text": "Ready after defeating an Enemy or resolving an Objective"
+    "Text_CN": "",
+    "Text": "Ready after defeating an Enemy or resolving an Objective",
+    "Id": "C_UNEXPECTEDCOURAGE_TEXT"
   },
   {
-    "Id": "C_UNEXPECTEDCOURAGE_TITLE",
-    "Text": "Unexpected Courage"
+    "Text_CN": "0",
+    "Text": "Unexpected Courage",
+    "Id": "C_UNEXPECTEDCOURAGE_TITLE"
   },
   {
     "Text_CN": "轮次结束:游戏中的每位蜘蛛生命+1。",
@@ -4742,12 +4945,14 @@
     "Id": "C_WARGS_TITLE"
   },
   {
-    "Id": "C_WARRIORSWORD_TEXT",
-    "Text": "Gain +1 Attack"
+    "Text_CN": "装备：攻击+1。",
+    "Text": "Gain +1 Attack",
+    "Id": "C_WARRIORSWORD_TEXT"
   },
   {
-    "Id": "C_WARRIORSWORD_TITLE",
-    "Text": "Warrior Sword"
+    "Text_CN": "勇士之剑",
+    "Text": "Warrior Sword",
+    "Id": "C_WARRIORSWORD_TITLE"
   },
   {
     "Text_CN": "强力威胁。",
@@ -4830,12 +5035,14 @@
     "Id": "C_ZIGILMINER_TITLE"
   },
   {
-    "Id": "C_RANGERSBLADE_TITLE",
-    "Text": "Ranger's Blade"
+    "Text_CN": "",
+    "Text": "Ranger's Blade",
+    "Id": "C_RANGERSBLADE_TITLE"
   },
   {
-    "Id": "C_RANGERSBLADE_TEXT",
-    "Text": "Deal +1 damage\nwhen attacking"
+    "Text_CN": "",
+    "Text": "Deal +1 damage\nwhen attacking",
+    "Id": "C_RANGERSBLADE_TEXT"
   },
   {
     "Text_CN": "",
@@ -4848,12 +5055,14 @@
     "Id": "C_WATCHERSINTHEDARK_TEXT"
   },
   {
-    "Id": "C_THECLOAKEDSTRANGER_TITLE",
-    "Text": "The Cloaked Stranger"
+    "Text_CN": "",
+    "Text": "The Cloaked Stranger",
+    "Id": "C_THECLOAKEDSTRANGER_TITLE"
   },
   {
-    "Id": "C_THECLOAKEDSTRANGER_TEXT",
-    "Text": "You have rescued the cloaked stranger from the Spiders' ambush"
+    "Text_CN": "",
+    "Text": "You have rescued the cloaked stranger from the Spiders' ambush",
+    "Id": "C_THECLOAKEDSTRANGER_TEXT"
   },
   {
     "Text_CN": "",
@@ -4889,6 +5098,21 @@
     "Text_CN": "",
     "Text": "Gain +1 Resource",
     "Id": "C_RANGERPROVISIONS_TEXT"
+  },
+  {
+    "Text_CN": "",
+    "Text": "<i>\"I do not know what they are about: possibly there is some trouble away south from which they are fleeing; but I think they are spying out the land.\"</i>\n  -The Fellowship of the Ring",
+    "Id": "C_SPIESOFSHADOW_FLAVOR"
+  },
+  {
+    "Text_CN": "",
+    "Text": "Spies of Shadow",
+    "Id": "C_SPIESOFSHADOW_TITLE"
+  },
+  {
+    "Text_CN": "",
+    "Text": "End of round: Gain 1 threat",
+    "Id": "C_SPIESOFSHADOW_TEXT"
   },
   {
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -5607,7 +5831,7 @@
   },
   {
     "Text_CN": "",
-    "Text": "(Keyword) An ability that you may choose to activaate.",
+    "Text": "(Keyword) An ability that you may choose to activate.",
     "Id": "G_041_DESC"
   },
   {
@@ -5884,49 +6108,5 @@
     "Text_CN": "领导型",
     "Text": "Willpower",
     "Id": "G_068_TERM"
-  },
-  {
-    "Id": "C_THECLOAKEDSTRANGER_FLAVOR",
-    "Text": "C_THECLOAKEDSTRANGER_FLAVOR"
-  },
-  {
-    "Id": "C_AGENTOFSAURON_FLAVOR",
-    "Text": "C_AGENTOFSAURON_FLAVOR"
-  },
-  {
-    "Id": "C_CLIMBTHEHILL_FLAVOR",
-    "Text": "C_CLIMBTHEHILL_FLAVOR"
-  },
-  {
-    "Id": "C_RANGERSBLADE_FLAVOR",
-    "Text": "C_RANGERSBLADE_FLAVOR"
-  },
-  {
-    "Id": "C_ROUNDSHIELD_FLAVOR",
-    "Text": "C_ROUNDSHIELD_FLAVOR"
-  },
-  {
-    "Id": "C_SHIELDOFROHAN_FLAVOR",
-    "Text": "C_SHIELDOFROHAN_FLAVOR"
-  },
-  {
-    "Id": "C_WARRIORSWORD_FLAVOR",
-    "Text": "C_WARRIORSWORD_FLAVOR"
-  },
-  {
-    "Id": "C_DESPAIR_FLAVOR",
-    "Text": "C_DESPAIR_FLAVOR"
-  },
-  {
-    "Id": "C_SPIESOFSHADOW_FLAVOR",
-    "Text": "<i>\"I do not know what they are about: possibly there is some trouble away south from which they are fleeing; but I think they are spying out the land.\"</i>  -The Fellowship of the Ring"
-  },
-  {
-    "Id": "C_SPIESOFSHADOW_TITLE",
-    "Text": "Spies of Shadow"
-  },
-  {
-    "Id": "C_SPIESOFSHADOW_TEXT",
-    "Text": "End of round: Gain 1 threat"
   }
 ]
