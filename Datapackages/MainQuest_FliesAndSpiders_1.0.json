@@ -27,7 +27,7 @@
         },
         {
           "Id": "ForestSpider",
-          "Quantity": 3,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -76,7 +76,7 @@
         },
         {
           "Id": "ThickWebs",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -90,14 +90,14 @@
         },
         {
           "Id": "AccursedForest",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
           "Id": "Enfeebled",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -118,7 +118,7 @@
         },
         {
           "Id": "GreedyFingers",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -146,7 +146,7 @@
         },
         {
           "Id": "CreatureOfDarkness",
-          "Quantity": 4,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -209,7 +209,7 @@
         },
         {
           "Id": "WatchersintheDark",
-          "Quantity": 3,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -217,6 +217,27 @@
         {
           "Id": "SpiesofShadow",
           "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "VileSpawn",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "TurnedAround",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "UnderTheWatchfulEye",
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -277,9 +298,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180305023948543",
+  "Version": "20180306032435704",
   "Key": "MainQuest",
   "SubKey": "FliesAndSpiders",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_FliesAndSpiders_20180305023948543"
+  "InternalKey": "MainQuest_FliesAndSpiders_20180306032435704"
 }
