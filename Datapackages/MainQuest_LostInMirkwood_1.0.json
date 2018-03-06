@@ -90,42 +90,42 @@
         },
         {
           "Id": "Enfeebled",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
           "Id": "GreedyFingers",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
           "Id": "Exhaustion",
-          "Quantity": 3,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
           "Id": "TreacherousFog",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
           "Id": "LostInTheWilderness",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
           "Id": "TurnedAround",
-          "Quantity": 3,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -160,7 +160,7 @@
         },
         {
           "Id": "PackOfWargs",
-          "Quantity": 1,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -202,14 +202,14 @@
         },
         {
           "Id": "BlockedPath",
-          "Quantity": 4,
+          "Quantity": 3,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
           "Id": "GrowingDarkness",
-          "Quantity": 3,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -223,7 +223,7 @@
         },
         {
           "Id": "WatchersintheDark",
-          "Quantity": 4,
+          "Quantity": 3,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -286,7 +286,7 @@
         },
         {
           "Id": "GatheringGloom",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -411,9 +411,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180305023952979",
+  "Version": "20180306032440139",
   "Key": "MainQuest",
   "SubKey": "LostInMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_LostInMirkwood_20180305023952979"
+  "InternalKey": "MainQuest_LostInMirkwood_20180306032440139"
 }
