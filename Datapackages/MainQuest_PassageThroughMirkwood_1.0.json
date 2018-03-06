@@ -284,8 +284,8 @@
         "Title": "StandAndFight",
         "SoloGameSetup": [
           "WatchfulScout",
-          "OrcHound",
-          "OrcHound",
+          "EastBightPatrol",
+          "EastBightPatrol",
           "EliteDolGuldurOrcs"
         ],
         "CoopGameSetup": [],
@@ -324,9 +324,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180306032431081",
+  "Version": "20180306203456658",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180306032431081"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180306203456658"
 }
