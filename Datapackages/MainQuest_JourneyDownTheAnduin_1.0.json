@@ -55,7 +55,7 @@
         },
         {
           "Id": "GreedyFingers",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -146,7 +146,7 @@
         },
         {
           "Id": "TreacherousFog",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -195,21 +195,21 @@
         },
         {
           "Id": "WatchersintheDark",
-          "Quantity": 4,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
           "Id": "ViciousSpeed",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
           "Id": "Veteran",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -223,7 +223,7 @@
         },
         {
           "Id": "Unwavering",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -297,6 +297,13 @@
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
+        },
+        {
+          "Id": "ChieftainUfthak",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
         }
       ]
     },
@@ -345,9 +352,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180305023957397",
+  "Version": "20180306032444598",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180305023957397"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180306032444598"
 }
