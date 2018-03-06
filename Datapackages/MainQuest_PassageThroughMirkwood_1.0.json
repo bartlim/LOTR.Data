@@ -12,13 +12,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "ChieftainUfthak",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "CreatureOfDarkness",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -34,14 +27,14 @@
         },
         {
           "Id": "DrivenByShadow",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
           "Id": "EliteDolGuldurOrcs",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -62,14 +55,14 @@
         },
         {
           "Id": "GreedyFingers",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
           "Id": "Hunted",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -90,7 +83,7 @@
         },
         {
           "Id": "OrcHound",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -104,14 +97,14 @@
         },
         {
           "Id": "TheNecromancersReach",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
           "Id": "Tribulation",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -125,14 +118,14 @@
         },
         {
           "Id": "Unwavering",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
           "Id": "Veteran",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -146,14 +139,7 @@
         },
         {
           "Id": "ViciousSpeed",
-          "Quantity": 3,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "VileSpawn",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -167,7 +153,7 @@
         },
         {
           "Id": "WatchersintheDark",
-          "Quantity": 3,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -181,14 +167,14 @@
         },
         {
           "Id": "TreacherousFog",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
           "Id": "PursuedByShadow",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -202,6 +188,62 @@
         },
         {
           "Id": "AccursedForest",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "SpiesofShadow",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "BlackForestBats",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "DarkSorcery",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "Enfeebled",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "EastBightPatrol",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "GoblinSniper",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "MirkwoodFlock",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "OrcMarauder",
           "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -282,9 +324,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180305023944168",
+  "Version": "20180306032431081",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180305023944168"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180306032431081"
 }
