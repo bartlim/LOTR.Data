@@ -1733,7 +1733,7 @@
               "Id": "Tutorial_Stage_01",
               "SceneName": "Q01_L01_ForestGate",
               "IntroVoice": "TutorialNarrativeScreen1",
-              "IntroSprite": "Sprites/Locations/Quest3_Stage01",
+              "IntroSprite": "Sprites/Locations/Tutorial_NarrativeScreen-1",
               "SoloGameSetup": null,
               "NextStageId": "Tutorial_Stage_02",
               "BGM": null
@@ -1742,7 +1742,7 @@
               "Id": "Tutorial_Stage_02",
               "SceneName": "Q01_L01_ForestGate",
               "IntroVoice": "TutorialNarrativeScreen2",
-              "IntroSprite": "Sprites/Locations/Quest3_Stage01",
+              "IntroSprite": "Sprites/Locations/Tutorial_NarrativeScreen-2",
               "SoloGameSetup": null,
               "NextStageId": "Tutorial_Stage_03",
               "BGM": null
@@ -1751,7 +1751,7 @@
               "Id": "Tutorial_Stage_03",
               "SceneName": "Q01_L01_ForestGate",
               "IntroVoice": "TutorialNarrativeScreen3",
-              "IntroSprite": "Sprites/Locations/Quest3_Stage03B",
+              "IntroSprite": "Sprites/Locations/Tutorial_NarrativeScreen-3",
               "SoloGameSetup": null,
               "NextStageId": "",
               "BGM": null
