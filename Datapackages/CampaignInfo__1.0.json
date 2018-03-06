@@ -88,10 +88,6 @@
               "Amount": 2
             },
             {
-              "Id": "ChieftainUfthak",
-              "Amount": 2
-            },
-            {
               "Id": "CreatureOfDarkness",
               "Amount": 2
             },
@@ -101,11 +97,11 @@
             },
             {
               "Id": "DrivenByShadow",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "EliteDolGuldurOrcs",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "EyesOfTheForest",
@@ -117,11 +113,11 @@
             },
             {
               "Id": "GreedyFingers",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "Hunted",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "LowOnSupplies",
@@ -133,7 +129,7 @@
             },
             {
               "Id": "OrcHound",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "SpidersOfMirkwood",
@@ -141,11 +137,11 @@
             },
             {
               "Id": "TheNecromancersReach",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "Tribulation",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "UnderTheShadow",
@@ -153,11 +149,11 @@
             },
             {
               "Id": "Unwavering",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "Veteran",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "VeteranPatrol",
@@ -165,11 +161,7 @@
             },
             {
               "Id": "ViciousSpeed",
-              "Amount": 3
-            },
-            {
-              "Id": "VileSpawn",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "WatchfulEyes",
@@ -177,7 +169,7 @@
             },
             {
               "Id": "WatchersintheDark",
-              "Amount": 3
+              "Amount": 2
             },
             {
               "Id": "UnderTheWatchfulEye",
@@ -185,11 +177,11 @@
             },
             {
               "Id": "TreacherousFog",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "PursuedByShadow",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "Exhaustion",
@@ -197,6 +189,38 @@
             },
             {
               "Id": "AccursedForest",
+              "Amount": 1
+            },
+            {
+              "Id": "SpiesofShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "Id": "DarkSorcery",
+              "Amount": 1
+            },
+            {
+              "Id": "Enfeebled",
+              "Amount": 1
+            },
+            {
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "GoblinSniper",
+              "Amount": 1
+            },
+            {
+              "Id": "MirkwoodFlock",
+              "Amount": 2
+            },
+            {
+              "Id": "OrcMarauder",
               "Amount": 1
             }
           ]
@@ -274,7 +298,7 @@
             },
             {
               "Id": "ForestSpider",
-              "Amount": 3
+              "Amount": 2
             },
             {
               "Id": "MirkwoodFlock",
@@ -302,7 +326,7 @@
             },
             {
               "Id": "ThickWebs",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "LowOnSupplies",
@@ -310,11 +334,11 @@
             },
             {
               "Id": "AccursedForest",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "Enfeebled",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "CaughtInAWeb",
@@ -326,7 +350,7 @@
             },
             {
               "Id": "GreedyFingers",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "HatchlingSpider",
@@ -342,7 +366,7 @@
             },
             {
               "Id": "CreatureOfDarkness",
-              "Amount": 4
+              "Amount": 2
             },
             {
               "Id": "Despair",
@@ -378,11 +402,23 @@
             },
             {
               "Id": "WatchersintheDark",
-              "Amount": 3
+              "Amount": 2
             },
             {
               "Id": "SpiesofShadow",
               "Amount": 2
+            },
+            {
+              "Id": "VileSpawn",
+              "Amount": 1
+            },
+            {
+              "Id": "TurnedAround",
+              "Amount": 1
+            },
+            {
+              "Id": "UnderTheWatchfulEye",
+              "Amount": 1
             }
           ]
         },
@@ -531,27 +567,27 @@
             },
             {
               "Id": "Enfeebled",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "GreedyFingers",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "Exhaustion",
-              "Amount": 3
+              "Amount": 2
             },
             {
               "Id": "TreacherousFog",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "LostInTheWilderness",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "TurnedAround",
-              "Amount": 3
+              "Amount": 2
             },
             {
               "Id": "EliteDolGuldurOrcs",
@@ -571,7 +607,7 @@
             },
             {
               "Id": "PackOfWargs",
-              "Amount": 1
+              "Amount": 2
             },
             {
               "Id": "Hummerhorns",
@@ -595,11 +631,11 @@
             },
             {
               "Id": "BlockedPath",
-              "Amount": 4
+              "Amount": 3
             },
             {
               "Id": "GrowingDarkness",
-              "Amount": 3
+              "Amount": 2
             },
             {
               "Id": "LowOnSupplies",
@@ -607,7 +643,7 @@
             },
             {
               "Id": "WatchersintheDark",
-              "Amount": 4
+              "Amount": 3
             },
             {
               "Id": "Veteran",
@@ -643,7 +679,7 @@
             },
             {
               "Id": "GatheringGloom",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "PursuedByShadow",
@@ -743,7 +779,7 @@
             },
             {
               "Id": "GreedyFingers",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "GrowingDarkness",
@@ -795,7 +831,7 @@
             },
             {
               "Id": "TreacherousFog",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "Tribulation",
@@ -823,15 +859,15 @@
             },
             {
               "Id": "WatchersintheDark",
-              "Amount": 4
+              "Amount": 2
             },
             {
               "Id": "ViciousSpeed",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "Veteran",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "UnderTheShadow",
@@ -839,7 +875,7 @@
             },
             {
               "Id": "Unwavering",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "LowOnSupplies",
@@ -880,6 +916,10 @@
             {
               "Id": "SpiesofShadow",
               "Amount": 2
+            },
+            {
+              "Id": "ChieftainUfthak",
+              "Amount": 1
             }
           ]
         },
@@ -961,7 +1001,7 @@
             },
             {
               "Id": "EvilStorm",
-              "Amount": 3
+              "Amount": 2
             },
             {
               "Id": "MuckAdder",
@@ -989,7 +1029,7 @@
             },
             {
               "Id": "Tribulation",
-              "Amount": 3
+              "Amount": 2
             },
             {
               "Id": "Wargs",
@@ -997,7 +1037,7 @@
             },
             {
               "Id": "WildBear",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "Hummerhorns",
@@ -1032,10 +1072,6 @@
               "Amount": 2
             },
             {
-              "Id": "DarkSorcery",
-              "Amount": 2
-            },
-            {
               "Id": "Despair",
               "Amount": 2
             },
@@ -1053,19 +1089,19 @@
             },
             {
               "Id": "GatheringGloom",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "PursuedByShadow",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "TheNecromancersReach",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "TreacherousFog",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "UnderTheShadow",
@@ -1089,10 +1125,14 @@
             },
             {
               "Id": "WatchersintheDark",
-              "Amount": 4
+              "Amount": 3
             },
             {
               "Id": "SpiesofShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "DarkSorcery",
               "Amount": 2
             }
           ]
