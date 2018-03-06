@@ -48,12 +48,12 @@
               "IntroSprite": "Sprites/Locations/Quest1_Stage03A",
               "SoloGameSetup": [
                 "WatchfulScout",
-                "OrcHound",
-                "OrcHound",
-                "EliteDolGuldurOrcs"
+                "EastBightPatrol",
+                "EastBightPatrol",
+                "DolGuldurOrcs"
               ],
               "NextStageId": "TheEnchantedStream",
-              "BGM": "mus_theWilderlands"
+              "BGM": "mus_cave"
             },
             {
               "Id": "TurnAndFlee",
@@ -62,6 +62,7 @@
               "IntroSprite": "Sprites/Locations/Quest1_Stage03B",
               "SoloGameSetup": [
                 "FindThePath",
+                "RangerProvisions",
                 "KingSpider",
                 "KingSpider",
                 "SpidersOfMirkwood"
