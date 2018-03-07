@@ -76,7 +76,7 @@
         },
         {
           "Id": "OrcBeastmaster",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -132,7 +132,7 @@
         },
         {
           "Id": "VeteranPatrol",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -230,7 +230,7 @@
         },
         {
           "Id": "GoblinSniper",
-          "Quantity": 1,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -325,9 +325,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180306203732072",
+  "Version": "20180307064711476",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180306203732072"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180307064711476"
 }
