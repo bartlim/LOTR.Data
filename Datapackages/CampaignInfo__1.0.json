@@ -126,7 +126,7 @@
             },
             {
               "Id": "OrcBeastmaster",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "OrcHound",
@@ -158,7 +158,7 @@
             },
             {
               "Id": "VeteranPatrol",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "ViciousSpeed",
@@ -214,7 +214,7 @@
             },
             {
               "Id": "GoblinSniper",
-              "Amount": 1
+              "Amount": 2
             },
             {
               "Id": "MirkwoodFlock",
@@ -323,7 +323,7 @@
             },
             {
               "Id": "WatchfulEyes",
-              "Amount": 3
+              "Amount": 2
             },
             {
               "Id": "ThickWebs",
@@ -371,7 +371,7 @@
             },
             {
               "Id": "Despair",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "EvilStorm",
@@ -697,6 +697,10 @@
             {
               "Id": "SpiesofShadow",
               "Amount": 2
+            },
+            {
+              "Id": "ChieftainUfthak",
+              "Amount": 1
             }
           ]
         },
@@ -1009,14 +1013,6 @@
               "Amount": 2
             },
             {
-              "Id": "OrcHound",
-              "Amount": 2
-            },
-            {
-              "Id": "OrcMarauder",
-              "Amount": 2
-            },
-            {
               "Id": "PackOfWargs",
               "Amount": 1
             },
@@ -1034,15 +1030,11 @@
             },
             {
               "Id": "Wargs",
-              "Amount": 2
-            },
-            {
-              "Id": "WildBear",
               "Amount": 1
             },
             {
               "Id": "Hummerhorns",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "MirkwoodFlock",
@@ -1115,10 +1107,6 @@
             {
               "Id": "ViciousSpeed",
               "Amount": 1
-            },
-            {
-              "Id": "Veteran",
-              "Amount": 2
             },
             {
               "Id": "WatchfulEyes",
