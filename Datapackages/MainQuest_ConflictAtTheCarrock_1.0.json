@@ -61,20 +61,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "OrcHound",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "OrcMarauder",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "PackOfWargs",
           "Quantity": 1,
           "MinThreatLevel": 0,
@@ -104,13 +90,6 @@
         },
         {
           "Id": "Wargs",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "WildBear",
           "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -118,7 +97,7 @@
         },
         {
           "Id": "Hummerhorns",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -250,13 +229,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "Veteran",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "WatchfulEyes",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -333,9 +305,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180306203750510",
+  "Version": "20180307064729297",
   "Key": "MainQuest",
   "SubKey": "ConflictAtTheCarrock",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180306203750510"
+  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180307064729297"
 }
