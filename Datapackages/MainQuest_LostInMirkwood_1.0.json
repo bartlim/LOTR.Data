@@ -318,6 +318,13 @@
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
+        },
+        {
+          "Id": "ChieftainUfthak",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
         }
       ]
     },
@@ -411,9 +418,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180306203740949",
+  "Version": "20180307064720536",
   "Key": "MainQuest",
   "SubKey": "LostInMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_LostInMirkwood_20180306203740949"
+  "InternalKey": "MainQuest_LostInMirkwood_20180307064720536"
 }
