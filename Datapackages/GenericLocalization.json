@@ -4656,7 +4656,7 @@
   },
   {
     "Id": "C_SEARCHFORAPATH_TEXT",
-    "Text": "Travel immediately to \n<i>Overgrown Trail</i>",
+    "Text": "Travel immediately to <i>Overgrown Trail</i>",
     "Text_CN": "结算：立刻前往林蔓小径。"
   },
   {
@@ -6566,6 +6566,11 @@
   },
   {
     "Id": "C_SACKED_FLAVOR",
+    "Text": "",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_SEARCHFORAPATH_FLAVOR",
     "Text": "",
     "Text_CN": ""
   }
