@@ -18,11 +18,10 @@
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
-            "FindThePath",
-            "VeteranPatrol"
+            "ATest181120"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": "mus_cave"
         }
       ],
       "SauronDeck": [
