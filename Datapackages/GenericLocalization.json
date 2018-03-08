@@ -5051,7 +5051,7 @@
   },
   {
     "Id": "C_UNDERTHEWATCHFULEYE_TEXT",
-    "Text": "Reduce each player's hand size to 5 cards until this is resolved",
+    "Text": "Each player's hand size is reduced to 5 cards until this \nis resolved",
     "Text_CN": ""
   },
   {
@@ -6607,6 +6607,11 @@
   {
     "Id": "C_UNDERTHESHADOW_FLAVOR",
     "Text": "C_UNDERTHESHADOW_FLAVOR",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_UNDERTHEWATCHFULEYE_FLAVOR",
+    "Text": "",
     "Text_CN": ""
   }
 ]
