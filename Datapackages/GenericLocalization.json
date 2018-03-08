@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -2105,7 +2105,7 @@
     "Text_CN": ""
   },
   {
-    "Id": "U_SHOP_AVATAR_EyeOfSauron",
+    "Id": "U_SHOP_AVATAR_EYEOFSAURON",
     "Text": "Eye of Sauron Avatar",
     "Text_CN": ""
   },
@@ -2890,7 +2890,7 @@
     "Text_CN": ""
   },
   {
-    "Id": "PLACEHOLDER3",
+    "Id": "_PLACEHOLDER3",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
@@ -2918,6 +2918,11 @@
     "Id": "C_ADVANCEWARNING_TITLE",
     "Text": "Advance Warning",
     "Text_CN": "预警"
+  },
+  {
+    "Id": "C_AFRIENDINNEED_FLAVOR",
+    "Text": "\"That spear-thrust would have skewered a wild boar!\"\n\"Well, it did not skewer me, I am glad to say,\" said Frodo…\n—Aragorn and Frodo, <i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_AFRIENDINNEED_TEXT",
@@ -3016,7 +3021,12 @@
   },
   {
     "Id": "C_ATEST181120_TITLE",
-    "Text": "testing card",
+    "Text": "[do not translate]testing card",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_AWATCHFULPEACE_FLAVOR",
+    "Text": "…ever as they went forward they felt the watchfulness of the land increase. Tree and stone, blade and leaf were listening. \n—<i>The Return of the King</i>",
     "Text_CN": ""
   },
   {
@@ -3068,6 +3078,21 @@
     "Id": "C_BEORNSHOSPITALITY_TITLE",
     "Text": "Beorn's Hospitality",
     "Text_CN": "0"
+  },
+  {
+    "Id": "C_BILBOSCLOAK_FLAVOR",
+    "Text": "…he kept in a drawer at Bag End the old cloak and hood that he had worn on his travels… \n<i>–The Fellowship of the Ring</i>",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_BILBOSCLOAK_TEXT",
+    "Text": "(Hobbits only.) \n<b>Upkeep:</b> Sauron loses \n1 Resource",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_BILBOSCLOAK_TITLE",
+    "Text": "‰Bilbo's Cloak",
+    "Text_CN": ""
   },
   {
     "Id": "C_BILLTHEPONY_FLAVOR",
@@ -3138,6 +3163,16 @@
     "Id": "C_BLOCKEDPATH_TITLE",
     "Text": "Blocked Path",
     "Text_CN": "断路"
+  },
+  {
+    "Id": "C_BOARDTHERAFT_TEXT",
+    "Text": "You may travel from this Location. Cannot engage while <i>Hill Troll</i> is in play",
+    "Text_CN": "加护（山区巨魔）。结算：允许离开这一场景。"
+  },
+  {
+    "Id": "C_BOARDTHERAFT_TITLE",
+    "Text": "Board the Raft",
+    "Text_CN": ""
   },
   {
     "Id": "C_BORNEALOFT_FLAVOR",
@@ -3255,6 +3290,16 @@
     "Text_CN": "黑暗巫术"
   },
   {
+    "Id": "C_DELAYUNTILDAWN_TEXT",
+    "Text": "Dawn breaks and turns\nthe Trolls to stone!",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_DELAYUNTILDAWN_TITLE",
+    "Text": "Delay Until Dawn",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_DESPAIR_TEXT",
     "Text": "After being attacked, gain 1 Threat",
     "Text_CN": "装备（敌人）：在人物发动攻击后为目标增加1点威胁。"
@@ -3263,16 +3308,6 @@
     "Id": "C_DESPAIR_TITLE",
     "Text": "Despair",
     "Text_CN": "绝望"
-  },
-  {
-    "Id": "C_GREEDYFINGERS_TEXT",
-    "Text": "Discard a random Hero's Attachment",
-    "Text_CN": "摧毁一位英雄的一件随机装备。"
-  },
-  {
-    "Id": "C_GREEDYFINGERS_TITLE",
-    "Text": "Greedy Fingers",
-    "Text_CN": "吞没"
   },
   {
     "Id": "C_DOLGULDURORCS_TEXT",
@@ -3465,16 +3500,6 @@
     "Text_CN": "邪恶风暴"
   },
   {
-    "Id": "C_SUDDENRIPOSTE_TEXT",
-    "Text": "Exhaust an Enemy",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SUDDENRIPOSTE_TITLE",
-    "Text": "Sudden Riposte",
-    "Text_CN": ""
-  },
-  {
     "Id": "C_EXHAUSTION_TEXT",
     "Text": "Exhaust all wounded Characters",
     "Text_CN": "令玩家的所有受伤的人物进入行动完毕状态。"
@@ -3593,16 +3618,6 @@
     "Id": "C_FINDTHEPATH_TITLE",
     "Text": "Find the Path",
     "Text_CN": "寻找路径"
-  },
-  {
-    "Id": "C_BOARDTHERAFT_TEXT",
-    "Text": "You may travel from this Location. Cannot engage while <i>Hill Troll</i> is in play",
-    "Text_CN": "加护（山区巨魔）。结算：允许离开这一场景。"
-  },
-  {
-    "Id": "C_BOARDTHERAFT_TITLE",
-    "Text": "Board the Raft",
-    "Text_CN": ""
   },
   {
     "Id": "C_FINDYOURBEARINGS_TEXT",
@@ -3885,6 +3900,16 @@
     "Text_CN": "刚铎之盾"
   },
   {
+    "Id": "C_GREEDYFINGERS_TEXT",
+    "Text": "Discard a random Hero's Attachment",
+    "Text_CN": "摧毁一位英雄的一件随机装备。"
+  },
+  {
+    "Id": "C_GREEDYFINGERS_TITLE",
+    "Text": "Greedy Fingers",
+    "Text_CN": "吞没"
+  },
+  {
     "Id": "C_GRIMBEORN_TEXT",
     "Text": "<b>Block. Stalwart</b>",
     "Text_CN": "格挡。强壮。"
@@ -4020,24 +4045,14 @@
     "Text_CN": ""
   },
   {
-    "Id": "C_BILBOSCLOAK_TITLE",
-    "Text": "‰Bilbo's Cloak",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_BILBOSCLOAK_FLAVOR",
-    "Text": "…he kept in a drawer at Bag End the old cloak and hood that he had worn on his travels… \n<i>–The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_BILBOSCLOAK_TEXT",
-    "Text": "(Hobbits only.) \n<b>Upkeep:</b> Sauron loses \n1 Resource",
-    "Text_CN": ""
-  },
-  {
     "Id": "C_HOBBITCLOAK_TITLE",
     "Text": "Hobbit Cloak",
     "Text_CN": "霍比特披风"
+  },
+  {
+    "Id": "C_HOUSESOFHEALING_FLAVOR",
+    "Text": "…they went their way towards the Houses of Healing; and these were fair houses set apart, for the care of those who were grievously sick, but now they were prepared for the tending of men hurt in battle or dying. \n—<i>The Return of the King</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_HOUSESOFHEALING_TEXT",
@@ -4415,6 +4430,11 @@
     "Text_CN": "岸上的追逐"
   },
   {
+    "Id": "C_QUICKERTHANSIGHT_FLAVOR",
+    "Text": "\"He stands not alone,\" said Legolas, bending his bow and fitting an arrow with hands that moved quicker than sight. \"You would die before your stroke fell.\"\n—Legolas, <i>The Two Towers</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_QUICKERTHANSIGHT_TEXT",
     "Text": "Discard the next Attachment that Sauron plays",
     "Text_CN": "蓄势：弃置索隆打出的下一张装备牌。"
@@ -4468,6 +4488,31 @@
     "Id": "C_RAINOFARROWS_TITLE",
     "Text": "Rain of Arrows",
     "Text_CN": "万箭齐发"
+  },
+  {
+    "Id": "C_RANGERPROVISIONS_FLAVOR",
+    "Text": "\"Rangers have been here lately. It is they who left the firewood behind.\"\n–Aragorn, <i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_RANGERPROVISIONS_TEXT",
+    "Text": "Gain +1 Resource",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_RANGERPROVISIONS_TITLE",
+    "Text": "Ranger Provisions",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_RANGERSBLADE_TEXT",
+    "Text": "Deal +1 damage\nwhen attacking",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_RANGERSBLADE_TITLE",
+    "Text": "Ranger's Blade",
+    "Text_CN": ""
   },
   {
     "Id": "C_RANGERSPEAR_FLAVOR",
@@ -4553,6 +4598,11 @@
     "Id": "C_ROHIRRIMLANCER_TITLE",
     "Text": "Rohirrim Lancer",
     "Text_CN": "骑乘射手"
+  },
+  {
+    "Id": "C_ROUNDSHIELD_FLAVOR",
+    "Text": "In battle they wielded heavy two-handed mattocks; but each of them had also a short broad sword at his side and a round shield slung at his back. \n—<i>The Hobbit</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_ROUNDSHIELD_TEXT",
@@ -4710,6 +4760,16 @@
     "Text_CN": "0"
   },
   {
+    "Id": "C_SPIDERSNEST_TEXT",
+    "Text": "You destroy the Spiders' nest. Cannot engage while <i>King Spider</i> is in play",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_SPIDERSNEST_TITLE",
+    "Text": "Spiders' Nest",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_SPIDERSOFMIRKWOOD_TEXT",
     "Text": "",
     "Text_CN": ""
@@ -4718,6 +4778,21 @@
     "Id": "C_SPIDERSOFMIRKWOOD_TITLE",
     "Text": "Spiders of Mirkwood",
     "Text_CN": "幽暗密林蜘蛛"
+  },
+  {
+    "Id": "C_SPIESOFSHADOW_FLAVOR",
+    "Text": "<i>\"I do not know what they are about: possibly there is some trouble away south from which they are fleeing; but I think they are spying out the land.\"</i>\n  -The Fellowship of the Ring",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_SPIESOFSHADOW_TEXT",
+    "Text": "End of round: Gain 1 threat",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_SPIESOFSHADOW_TITLE",
+    "Text": "Spies of Shadow",
+    "Text_CN": ""
   },
   {
     "Id": "C_SPOOKEDHORSES_FLAVOR",
@@ -4800,6 +4875,21 @@
     "Text_CN": "‰斯图亚特"
   },
   {
+    "Id": "C_SUDDENRIPOSTE_FLAVOR",
+    "Text": "But suddenly he too stumbled forward… and his stroke went wide, driving into the ground. \n—<i>The Return of the King</i>",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_SUDDENRIPOSTE_TEXT",
+    "Text": "Exhaust an Enemy",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_SUDDENRIPOSTE_TITLE",
+    "Text": "Sudden Riposte",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_TASTEITAGAIN_FLAVOR",
     "Text": "\"We're going on; but we'll settle with you first. Come on, and taste it again!\" \n–Sam Gamgee, <i>The Two Towers</i>",
     "Text_CN": ""
@@ -4813,6 +4903,16 @@
     "Id": "C_TASTEITAGAIN_TITLE",
     "Text": "Taste it Again!",
     "Text_CN": "再尝一次！"
+  },
+  {
+    "Id": "C_THECLOAKEDSTRANGER_TEXT",
+    "Text": "You have rescued the cloaked stranger from the Spiders' ambush",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_THECLOAKEDSTRANGER_TITLE",
+    "Text": "The Cloaked Stranger",
+    "Text_CN": ""
   },
   {
     "Id": "C_THENECROMANCERSREACH_FLAVOR",
@@ -4908,6 +5008,11 @@
     "Id": "C_TROLLSACK_TITLE",
     "Text": "Troll Sack",
     "Text_CN": "巨魔口袋"
+  },
+  {
+    "Id": "C_TROLLSHAWSCOUT_FLAVOR",
+    "Text": "One moment Glorfindel turned and listened, then he sprang forward with a loud cry… \"Fly! The enemy is upon us!\" \n—Glorfindel, <i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_TROLLSHAWSCOUT_TEXT",
@@ -5100,6 +5205,11 @@
     "Text_CN": "座狼"
   },
   {
+    "Id": "C_WARRIORSWORD_FLAVOR",
+    "Text": "\"Yet I do not bid you flee from peril, but to ride to battle where your sword may win renown and victory.\"\n—Aragorn, <i>The Return of the King</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_WARRIORSWORD_TEXT",
     "Text": "Gain +1 Attack",
     "Text_CN": "装备：攻击+1。"
@@ -5108,6 +5218,16 @@
     "Id": "C_WARRIORSWORD_TITLE",
     "Text": "Warrior Sword",
     "Text_CN": "勇士之剑"
+  },
+  {
+    "Id": "C_WATCHERSINTHEDARK_TEXT",
+    "Text": "Gain 1 Threat",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_WATCHERSINTHEDARK_TITLE",
+    "Text": "Watchers In The Dark",
+    "Text_CN": ""
   },
   {
     "Id": "C_WATCHFULEYES_TEXT",
@@ -5170,6 +5290,11 @@
     "Text_CN": "野熊"
   },
   {
+    "Id": "C_WOODLANDCOURIER_FLAVOR",
+    "Text": "…the woodland folk were altogether noiseless in their movements.\n—<i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_WOODLANDCOURIER_TEXT",
     "Text": "<b>Arrival:</b> Apply 1 progress",
     "Text_CN": "登场：令一个目标获得1点进度。"
@@ -5180,6 +5305,11 @@
     "Text_CN": "林地信使"
   },
   {
+    "Id": "C_ZIGILMINER_FLAVOR",
+    "Text": "\"Ever up now we went, until we came to the Endless Stair… From the lowest dungeon to the highest peak it climbed, ascending in unbroken spiral in many thousand steps, until it issued at last in Durin's Tower carved in the living rock of Zirak-zigil, the pinnacle of the Silvertine.\"\n—Gandalf, <i>The Two Towers</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_ZIGILMINER_TEXT",
     "Text": "<b>Power:</b> Exhaust to gain \n+1 Resource",
     "Text_CN": ""
@@ -5188,86 +5318,6 @@
     "Id": "C_ZIGILMINER_TITLE",
     "Text": "Zigil Miner",
     "Text_CN": "西吉尔矿工"
-  },
-  {
-    "Id": "C_RANGERSBLADE_TITLE",
-    "Text": "Ranger's Blade",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RANGERSBLADE_TEXT",
-    "Text": "Deal +1 damage\nwhen attacking",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_WATCHERSINTHEDARK_TITLE",
-    "Text": "Watchers In The Dark",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_WATCHERSINTHEDARK_TEXT",
-    "Text": "Gain 1 Threat",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_THECLOAKEDSTRANGER_TITLE",
-    "Text": "The Cloaked Stranger",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_THECLOAKEDSTRANGER_TEXT",
-    "Text": "You have rescued the cloaked stranger from the Spiders' ambush",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SPIDERSNEST_TITLE",
-    "Text": "Spiders' Nest",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SPIDERSNEST_TEXT",
-    "Text": "You destroy the Spiders' nest. Cannot engage while <i>King Spider</i> is in play",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_DELAYUNTILDAWN_TITLE",
-    "Text": "Delay Until Dawn",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_DELAYUNTILDAWN_TEXT",
-    "Text": "Dawn breaks and turns\nthe Trolls to stone!",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RANGERPROVISIONS_FLAVOR",
-    "Text": "\"Rangers have been here lately. It is they who left the firewood behind.\"\n–Aragorn, <i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RANGERPROVISIONS_TITLE",
-    "Text": "Ranger Provisions",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RANGERPROVISIONS_TEXT",
-    "Text": "Gain +1 Resource",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SPIESOFSHADOW_FLAVOR",
-    "Text": "<i>\"I do not know what they are about: possibly there is some trouble away south from which they are fleeing; but I think they are spying out the land.\"</i>\n  -The Fellowship of the Ring",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SPIESOFSHADOW_TITLE",
-    "Text": "Spies of Shadow",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SPIESOFSHADOW_TEXT",
-    "Text": "End of round: Gain 1 threat",
-    "Text_CN": ""
   },
   {
     "Id": "PLACEHOLDER4",
@@ -6263,230 +6313,5 @@
     "Id": "G_068_TERM",
     "Text": "Willpower",
     "Text_CN": "领导型"
-  },
-  {
-    "Id": "C_AWATCHFULPEACE_FLAVOR",
-    "Text": "…ever as they went forward they felt the watchfulness of the land increase. Tree and stone, blade and leaf were listening. \n—<i>The Return of the King</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ROUNDSHIELD_FLAVOR",
-    "Text": "In battle they wielded heavy two-handed mattocks; but each of them had also a short broad sword at his side and a round shield slung at his back. \n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_WARRIORSWORD_FLAVOR",
-    "Text": "\"Yet I do not bid you flee from peril, but to ride to battle where your sword may win renown and victory.\"\n—Aragorn, <i>The Return of the King</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_WOODLANDCOURIER_FLAVOR",
-    "Text": "…the woodland folk were altogether noiseless in their movements.\r\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_HOUSESOFHEALING_FLAVOR",
-    "Text": "…they went their way towards the Houses of Healing; and these were fair houses set apart, for the care of those who were grievously sick, but now they were prepared for the tending of men hurt in battle or dying. \n—<i>The Return of the King</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_QUICKERTHANSIGHT_FLAVOR",
-    "Text": "\"He stands not alone,\" said Legolas, bending his bow and fitting an arrow with hands that moved quicker than sight. \"You would die before your stroke fell.\"\n—Legolas, <i>The Two Towers</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_AFRIENDINNEED_FLAVOR",
-    "Text": "\"That spear-thrust would have skewered a wild boar!\"\r\n\"Well, it did not skewer me, I am glad to say,\" said Frodo…\r\n—Aragorn and Frodo, <i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SUDDENRIPOSTE_FLAVOR",
-    "Text": "But suddenly he too stumbled forward… and his stroke went wide, driving into the ground. \n—<i>The Return of the King</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_TROLLSHAWSCOUT_FLAVOR",
-    "Text": "One moment Glorfindel turned and listened, then he sprang forward with a loud cry… \"Fly! The enemy is upon us!\" \n—Glorfindel, <i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ZIGILMINER_FLAVOR",
-    "Text": "\"Ever up now we went, until we came to the Endless Stair… From the lowest dungeon to the highest peak it climbed, ascending in unbroken spiral in many thousand steps, until it issued at last in Durin's Tower carved in the living rock of Zirak-zigil, the pinnacle of the Silvertine.\"\n—Gandalf, <i>The Two Towers</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST01_NAME",
-    "Text": "Q_QUEST_NSKTESTQUEST01_NAME",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST01_DESCRIPTION",
-    "Text": "Q_QUEST_NSKTESTQUEST01_DESCRIPTION",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST01_VICTORY_TEXT",
-    "Text": "Q_QUEST_NSKTESTQUEST01_VICTORY_TEXT",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST01_DEFEAT_TEXT",
-    "Text": "Q_QUEST_NSKTESTQUEST01_DEFEAT_TEXT",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_NAME",
-    "Text": "Q_STAGE_LOCATION101_NAME",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_TEXT",
-    "Text": "Q_STAGE_LOCATION101_TEXT",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_LOCATION101_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION101_OBJECTIVE",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST02_NAME",
-    "Text": "Q_QUEST_NSKTESTQUEST02_NAME",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST02_DESCRIPTION",
-    "Text": "Q_QUEST_NSKTESTQUEST02_DESCRIPTION",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST02_VICTORY_TEXT",
-    "Text": "Q_QUEST_NSKTESTQUEST02_VICTORY_TEXT",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST02_DEFEAT_TEXT",
-    "Text": "Q_QUEST_NSKTESTQUEST02_DEFEAT_TEXT",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_NAME",
-    "Text": "Q_STAGE_LOCATION201_NAME",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_TEXT",
-    "Text": "Q_STAGE_LOCATION201_TEXT",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_LOCATION201_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION201_OBJECTIVE",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST03_NAME",
-    "Text": "Q_QUEST_NSKTESTQUEST03_NAME",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST03_DESCRIPTION",
-    "Text": "Q_QUEST_NSKTESTQUEST03_DESCRIPTION",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST03_VICTORY_TEXT",
-    "Text": "Q_QUEST_NSKTESTQUEST03_VICTORY_TEXT",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST03_DEFEAT_TEXT",
-    "Text": "Q_QUEST_NSKTESTQUEST03_DEFEAT_TEXT",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_NAME",
-    "Text": "Q_STAGE_LOCATION301_NAME",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_TEXT",
-    "Text": "Q_STAGE_LOCATION301_TEXT",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_LOCATION301_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION301_OBJECTIVE",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST04_NAME",
-    "Text": "Q_QUEST_NSKTESTQUEST04_NAME",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST04_DESCRIPTION",
-    "Text": "Q_QUEST_NSKTESTQUEST04_DESCRIPTION",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST04_VICTORY_TEXT",
-    "Text": "Q_QUEST_NSKTESTQUEST04_VICTORY_TEXT",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST04_DEFEAT_TEXT",
-    "Text": "Q_QUEST_NSKTESTQUEST04_DEFEAT_TEXT",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_NAME",
-    "Text": "Q_STAGE_LOCATION401_NAME",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_TEXT",
-    "Text": "Q_STAGE_LOCATION401_TEXT",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_LOCATION401_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION401_OBJECTIVE",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST05_NAME",
-    "Text": "Q_QUEST_NSKTESTQUEST05_NAME",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST05_DESCRIPTION",
-    "Text": "Q_QUEST_NSKTESTQUEST05_DESCRIPTION",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST05_VICTORY_TEXT",
-    "Text": "Q_QUEST_NSKTESTQUEST05_VICTORY_TEXT",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_QUEST_NSKTESTQUEST05_DEFEAT_TEXT",
-    "Text": "Q_QUEST_NSKTESTQUEST05_DEFEAT_TEXT",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_NAME",
-    "Text": "Q_STAGE_LOCATION501_NAME",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_TEXT",
-    "Text": "Q_STAGE_LOCATION501_TEXT",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_LOCATION501_OBJECTIVE",
-    "Text": "Q_STAGE_LOCATION501_OBJECTIVE",
-    "Text_CN": ""
   }
 ]
