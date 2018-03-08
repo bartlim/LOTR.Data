@@ -73,8 +73,7 @@
       {
         "Title": "Location101",
         "SoloGameSetup": [
-          "FindThePath",
-          "VeteranPatrol"
+          "ATest181120"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -86,9 +85,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180208073918231",
+  "Version": "20180308020626779",
   "Key": "MainQuest",
   "SubKey": "NSKTESTQuest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_NSKTESTQuest01_20180208073918231"
+  "InternalKey": "MainQuest_NSKTESTQuest01_20180308020626779"
 }
