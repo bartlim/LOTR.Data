@@ -2,22 +2,22 @@
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
-    "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remov"
+    "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
   {
     "Id": "U_GAME_TITLE",
     "Text": "The Lord of the Rings™: Living Card Game™",
-    "Text_CN": ""
+    "Text_CN": "The Lord of the Rings™: Living Card Game™"
   },
   {
     "Id": "U_MENU_COMMON_LOADING",
     "Text": "Loading…",
-    "Text_CN": "0"
+    "Text_CN": "加载中…"
   },
   {
     "Id": "U_MENU_COMMON_CONNECTING",
     "Text": "CONNECTING…",
-    "Text_CN": "0"
+    "Text_CN": "连接中…"
   },
   {
     "Id": "U_MENU_COMMON_PURCHASING",
@@ -32,17 +32,17 @@
   {
     "Id": "U_MENU_COMMON_CONTINUE",
     "Text": "Continue",
-    "Text_CN": "0"
+    "Text_CN": "继续"
   },
   {
     "Id": "U_MENU_COMMON_YES",
     "Text": "Yes",
-    "Text_CN": "0"
+    "Text_CN": "是"
   },
   {
     "Id": "U_MENU_COMMON_NO",
     "Text": "No",
-    "Text_CN": "0"
+    "Text_CN": "否"
   },
   {
     "Id": "U_MENU_COMMON_CONFIRM",
@@ -52,7 +52,7 @@
   {
     "Id": "U_ERROR_MSG_STRANGE",
     "Text": "An error has occurred. Please check the error log and report anything strange",
-    "Text_CN": ""
+    "Text_CN": "发生问题，请提交错误日志"
   },
   {
     "Id": "U_MAINMENU_PLAY",
@@ -82,17 +82,17 @@
   {
     "Id": "U_MAINMENU_VAULT",
     "Text": "VAULT",
-    "Text_CN": ""
+    "Text_CN": "地窖"
   },
   {
     "Id": "U_MAINMENU_PLAYER_DEFAULT_NAME",
     "Text": "PLAYER NAME",
-    "Text_CN": "0"
+    "Text_CN": "尊姓大名"
   },
   {
     "Id": "U_OPTIONS_TITLE",
     "Text": "GAME OPTIONS",
-    "Text_CN": "0"
+    "Text_CN": "游戏选项"
   },
   {
     "Id": "U_OPTIONS_RESOLUTION",
@@ -102,12 +102,12 @@
   {
     "Id": "U_OPTIONS_FULLSCREEN",
     "Text": "Fullscreen",
-    "Text_CN": ""
+    "Text_CN": "全屏"
   },
   {
     "Id": "U_OPTIONS_SKIPTUTORIAL",
     "Text": "SKIP TUTORIAL",
-    "Text_CN": "0"
+    "Text_CN": "跳过教程"
   },
   {
     "Id": "U_OPTIONS_REPLAYTUTORIAL",
@@ -117,7 +117,7 @@
   {
     "Id": "U_OPTIONS_MAINMENU",
     "Text": "MAIN MENU",
-    "Text_CN": "0"
+    "Text_CN": "主菜单"
   },
   {
     "Id": "U_OPTIONS_QUITGAME",
@@ -132,37 +132,37 @@
   {
     "Id": "U_OPTIONS_QUALITY",
     "Text": "Graphics Quality",
-    "Text_CN": ""
+    "Text_CN": "画质"
   },
   {
     "Id": "U_OPTIONS_QUALITY_L",
     "Text": "Low",
-    "Text_CN": ""
+    "Text_CN": "简约"
   },
   {
     "Id": "U_OPTIONS_QUALITY_M",
     "Text": "Medium",
-    "Text_CN": ""
+    "Text_CN": "普通"
   },
   {
     "Id": "U_OPTIONS_QUALITY_H",
     "Text": "High",
-    "Text_CN": ""
+    "Text_CN": "酷炫"
   },
   {
     "Id": "U_OPTIONS_AA",
     "Text": "Antialiasing",
-    "Text_CN": ""
+    "Text_CN": "抗锯齿"
   },
   {
     "Id": "U_DECKMENU_DECKBUILDER",
     "Text": "DECK BUILDER",
-    "Text_CN": "0"
+    "Text_CN": "牌组编辑器"
   },
   {
     "Id": "U_DECKMENU_TAB_HERO",
     "Text": "HEROES",
-    "Text_CN": "0"
+    "Text_CN": "英雄"
   },
   {
     "Id": "U_DECKMENU_TAB_CARDS",
@@ -192,7 +192,7 @@
   {
     "Id": "U_DECKMENU_SEARCH_NOMATCH",
     "Text": "NO MATCHING CARD",
-    "Text_CN": "0"
+    "Text_CN": "找来找去找不到"
   },
   {
     "Id": "U_DECKMENU_BUTTON_OWNED",
@@ -262,7 +262,7 @@
   {
     "Id": "U_DECKMENU_PAGE_NUMBER",
     "Text": "PAGE {0}/{1}",
-    "Text_CN": "0"
+    "Text_CN": "页 {0}/{1}"
   },
   {
     "Id": "U_DECKMENU_DECKLIST_TITLE",
@@ -277,7 +277,7 @@
   {
     "Id": "U_DECKMENU_DECKLIST_RENAME",
     "Text": "Name your deck",
-    "Text_CN": ""
+    "Text_CN": "起个好名字"
   },
   {
     "Id": "U_DECKMENU_DECKLIST_RENAME_DEFAULT",
@@ -287,7 +287,7 @@
   {
     "Id": "U_DECKMENU_DECKLIST_DELETE",
     "Text": "DELETE",
-    "Text_CN": "0"
+    "Text_CN": "删除"
   },
   {
     "Id": "U_DECKMENU_DECKLIST_SAVE",
@@ -297,7 +297,7 @@
   {
     "Id": "U_DECKMENU_DECKLIST_REMOVEHERO",
     "Text": "Removing this Hero will also remove from the deck any cards of the same Sphere",
-    "Text_CN": "0"
+    "Text_CN": "去掉这个英雄的同时，所有与之相同类别的卡也会被移除"
   },
   {
     "Id": "U_DECKMENU_CARDBACK_APPLY",
@@ -307,12 +307,12 @@
   {
     "Id": "U_DECKMENU_CARDBACK_SELECTED",
     "Text": "Card back selected",
-    "Text_CN": "0"
+    "Text_CN": "卡背已选"
   },
   {
     "Id": "U_DECKMENU_ARTIST",
     "Text": "Illustration",
-    "Text_CN": ""
+    "Text_CN": "画师"
   },
   {
     "Id": "U_PALANTIR_SELECT_TO_GAZE",
@@ -322,22 +322,22 @@
   {
     "Id": "U_PALANTIR_VIEW_UPPER",
     "Text": "PALANTÍR VIEW",
-    "Text_CN": "0"
+    "Text_CN": "真知晶石之凝视"
   },
   {
     "Id": "U_PALANTIR_VIEWS_UPPER",
     "Text": "PALANTÍR VIEWS",
-    "Text_CN": "0"
+    "Text_CN": "真知晶石之凝视"
   },
   {
     "Id": "U_PALANTIR_VIEW",
     "Text": " Palantír View",
-    "Text_CN": "0"
+    "Text_CN": "真知晶石之凝视"
   },
   {
     "Id": "U_PALANTIR_VIEWS",
     "Text": " Palantír Views",
-    "Text_CN": " 真知晶石视野"
+    "Text_CN": "真知晶石之凝视"
   },
   {
     "Id": "U_PALANTIR_MSG_ADD_VIEW",
@@ -347,12 +347,12 @@
   {
     "Id": "U_PALANTIR_REWARD_TITLE",
     "Text": "YOUR REWARD",
-    "Text_CN": "0"
+    "Text_CN": "您的奖励"
   },
   {
     "Id": "U_PALANTIR_VALOR_COUNT",
     "Text": "{0}<sup>VP</sup>",
-    "Text_CN": "0"
+    "Text_CN": "{0}<sup>VP</sup>"
   },
   {
     "Id": "U_SHOP_TAB_FEATURE",
@@ -387,7 +387,7 @@
   {
     "Id": "U_SHOP_OFF_TAG",
     "Text": "{0}%Off",
-    "Text_CN": "0"
+    "Text_CN": "{0}%Off"
   },
   {
     "Id": "U_SHOP_FILTER_SEARCH",
@@ -427,12 +427,12 @@
   {
     "Id": "U_SHOP_BUY_CONFIRM_MSG",
     "Text": "Purchase for {0} {1}?",
-    "Text_CN": ""
+    "Text_CN": "以 {0} {1} 购买？"
   },
   {
     "Id": "U_SHOP_CARD_CAN_GET_FROM",
     "Text": "This card is available in {0}",
-    "Text_CN": ""
+    "Text_CN": "此卡包含在：{0}"
   },
   {
     "Id": "U_QUEST_TITLE",
@@ -467,42 +467,42 @@
   {
     "Id": "U_ASMODEE_TITLE",
     "Text": "Asmodee.net Account",
-    "Text_CN": "0"
+    "Text_CN": "爱思摩的账号"
   },
   {
     "Id": "U_ASMODEE_USERNAME",
     "Text": "User Name",
-    "Text_CN": "0"
+    "Text_CN": "用户名"
   },
   {
     "Id": "U_ASMODEE_PASSWORD",
     "Text": "Password",
-    "Text_CN": "0"
+    "Text_CN": "密码"
   },
   {
     "Id": "U_ASMODEE_EMAIL",
     "Text": "Email Address",
-    "Text_CN": "0"
+    "Text_CN": "邮件地址"
   },
   {
     "Id": "U_ASMODEE_REPEAT_PASSWORD",
     "Text": "Confirm Password",
-    "Text_CN": ""
+    "Text_CN": "确认密码"
   },
   {
     "Id": "U_ASMODEE_ACCEPT",
     "Text": "Accept Agreement",
-    "Text_CN": ""
+    "Text_CN": "接受用户协议"
   },
   {
     "Id": "U_ASMODEE_LOGIN",
     "Text": "ACCOUNT LOGIN",
-    "Text_CN": "0"
+    "Text_CN": "账户登录"
   },
   {
     "Id": "U_ASMODEE_CREATE",
     "Text": "CREATE ACCOUNT",
-    "Text_CN": "0"
+    "Text_CN": "创建账户"
   },
   {
     "Id": "U_ASMODEE_PLAY_TUT",
@@ -512,117 +512,117 @@
   {
     "Id": "U_ASMODEE_BACK",
     "Text": "BACK TO MAIN MENU",
-    "Text_CN": "0"
+    "Text_CN": "回到主菜单"
   },
   {
     "Id": "U_ASMODEE_MSG_EMAILINVALID",
     "Text": "Email address is invalid. Please check your input",
-    "Text_CN": "0"
+    "Text_CN": "邮件地址不正确，请检查"
   },
   {
     "Id": "U_ASMODEE_MSG_PASSWORDNOTSAME",
     "Text": "Passwords do not match. Please re-enter your password",
-    "Text_CN": ""
+    "Text_CN": "密码不一直，请检查"
   },
   {
     "Id": "U_ASMODEE_MSG_ACCOUNTEXIST",
     "Text": "This account already exists. Please use the correct password, or login with a different account",
-    "Text_CN": ""
+    "Text_CN": "账号已存在。请使用正确的密码，或使用其他账号"
   },
   {
     "Id": "U_ASMODEE_MSG_ACCOUNTNOTFOUND",
     "Text": "Account not found. Please check your user name",
-    "Text_CN": "0"
+    "Text_CN": "账号未找到，请检查"
   },
   {
     "Id": "U_ASMODEE_MSG_ACCOUNTCREATED",
     "Text": "Account created. A confirmation email was sent. Please check your email to confirm and complete login",
-    "Text_CN": ""
+    "Text_CN": "账号创建成功。一封确认邮件正在路上。请检查您的邮箱并确认"
   },
   {
     "Id": "U_ASMODEE_MSG_CREATED_CONGRATES_1",
     "Text": "<b>Congratulations on creating your Asmodee.net account!</b>\nYour account gives you many rewards: new Heroes, cards, a starter deck, a gift of 3000 Valor points, and the first Quest free!",
-    "Text_CN": ""
+    "Text_CN": "恭喜您创建了新的爱思摩的账号！\n您的新账号给与您许多奖励：新的英雄，卡牌，初始卡组，3000勇猛点，以及免费的第一个冒险包！"
   },
   {
     "Id": "U_ASMODEE_MSG_CREATED_CONGRATES_2",
     "Text": "The time has come to begin your journey. Go forth and fare well!",
-    "Text_CN": "0"
+    "Text_CN": "开启征程的时候到了，去吧，再会！"
   },
   {
     "Id": "U_ASMODEE_MSG_USERNAMEEXISTED",
     "Text": "The user name is not available. Please try a different one",
-    "Text_CN": ""
+    "Text_CN": "用户名不可用，请重新选择"
   },
   {
     "Id": "U_INGAME_ENDROUND",
     "Text": "END ROUND",
-    "Text_CN": "0"
+    "Text_CN": "结束回合"
   },
   {
     "Id": "U_INGAME_ENDPLANNING",
     "Text": "END PLANNING",
-    "Text_CN": "0"
+    "Text_CN": "结束规划"
   },
   {
     "Id": "U_INGAME_ENDPHASE",
     "Text": "END PHASE",
-    "Text_CN": "0"
+    "Text_CN": "结束回合"
   },
   {
     "Id": "U_INGAME_TRAVEL",
     "Text": "Travel",
-    "Text_CN": "0"
+    "Text_CN": "启程"
   },
   {
     "Id": "U_INGAME_TUTORIALSKIP_CONFIRM",
     "Text": "Are you sure you want to skip the tutorial?\n\nYou can replay it at any time through the Game Options menu",
-    "Text_CN": "0"
+    "Text_CN": "确认跳过教程吗？\n您在游戏设置菜单中可以随时重玩教程"
   },
   {
     "Id": "U_INGAME_SELECT_CARD_TO_REPLACE",
     "Text": "Select any cards you wish to change",
-    "Text_CN": "0"
+    "Text_CN": "选择您想替换的卡牌"
   },
   {
     "Id": "U_INGAME_INITIAL_DRAW",
     "Text": "INITIAL DRAW",
-    "Text_CN": ""
+    "Text_CN": "首抽"
   },
   {
     "Id": "U_INGAME_PICK_FAVOR_CARDS_EASY",
     "Text": "Pick up to 2 Favor Cards, or skip this option",
-    "Text_CN": ""
+    "Text_CN": "选择最多2张福利卡，或跳过"
   },
   {
     "Id": "U_INGAME_PICK_FAVOR_CARDS_NORMAL",
     "Text": "Pick a Favor Card, or skip this option",
-    "Text_CN": ""
+    "Text_CN": "选择1张福利卡，或跳过"
   },
   {
     "Id": "U_INGAME_POPUP_ATTACHMENT_REPLACE",
     "Text": "This will replace the current Attachment. \nAre you sure?",
-    "Text_CN": ""
+    "Text_CN": "将替换已装备的同类装备\n确认吗？"
   },
   {
     "Id": "U_INGAME_POPUP_QUICK_STRIKE",
     "Text": "Select a highlighted Character to perform <b>Ambush</b>",
-    "Text_CN": ""
+    "Text_CN": "选择一个高亮的角色进行<b>伏击</b>"
   },
   {
     "Id": "U_INGAME_CARD_OPTION_DRAW",
     "Text": "Draw {0} cards",
-    "Text_CN": "0"
+    "Text_CN": "抽{0}张卡"
   },
   {
     "Id": "U_INGAME_CARD_OPTION_REDUCE",
     "Text": "Lose {0} Threat",
-    "Text_CN": ""
+    "Text_CN": "降低{0}点威胁"
   },
   {
     "Id": "U_INGAME_CARD_OPTION_DEAL",
     "Text": "Deal {0} damage",
-    "Text_CN": "0"
+    "Text_CN": "攻击并造成{0}点伤害"
   },
   {
     "Id": "U_INGAME_CARD_OPTION_RAISETHREAT",
@@ -667,7 +667,7 @@
   {
     "Id": "U_CARDTYPE_PLAYER",
     "Text": "Player",
-    "Text_CN": "0"
+    "Text_CN": "玩家"
   },
   {
     "Id": "U_CARDTYPE_SHADOW",
@@ -677,7 +677,7 @@
   {
     "Id": "U_CARDTYPE_TREACHERY",
     "Text": "Treachery",
-    "Text_CN": "0"
+    "Text_CN": "阴谋"
   },
   {
     "Id": "U_CARDSPHERE_LEADERSHIP",
@@ -707,17 +707,17 @@
   {
     "Id": "U_PLAYERID_PLAYERONE",
     "Text": "PlayerOne",
-    "Text_CN": "0"
+    "Text_CN": "玩家一"
   },
   {
     "Id": "U_PLAYERID_PLAYERTWO",
     "Text": "PlayerTwo",
-    "Text_CN": "0"
+    "Text_CN": "玩家二"
   },
   {
     "Id": "U_PLAYERID_SAURON",
     "Text": "Sauron",
-    "Text_CN": "0"
+    "Text_CN": "索伦"
   },
   {
     "Id": "U_TRAITTYPE_ARMOR",
@@ -742,7 +742,7 @@
   {
     "Id": "U_TRAITTYPE_DALE",
     "Text": "Dale",
-    "Text_CN": "0"
+    "Text_CN": "戴尔"
   },
   {
     "Id": "U_TRAITTYPE_DUNADAN",
@@ -837,17 +837,17 @@
   {
     "Id": "U_DECKTYPE_PLAYER",
     "Text": "Player",
-    "Text_CN": "0"
+    "Text_CN": "玩家"
   },
   {
     "Id": "U_DECKTYPE_ENCOUNTER",
     "Text": "Encounter",
-    "Text_CN": "0"
+    "Text_CN": "障碍"
   },
   {
     "Id": "U_DECKTYPE_QUEST",
     "Text": "Quest",
-    "Text_CN": "0"
+    "Text_CN": "冒险"
   },
   {
     "Id": "U_TARGETGROUPTYPE_ENEMY",
@@ -872,17 +872,17 @@
   {
     "Id": "U_INGAME_CHOOSEHERO_AVOIDSPIDER",
     "Text": "Choose a Hero to remain free of the spiders' webs",
-    "Text_CN": ""
+    "Text_CN": "看看是哪个英雄躲过了蜘蛛网"
   },
   {
     "Id": "U_INGAME_GAME_OVER",
     "Text": "Game Over",
-    "Text_CN": "0"
+    "Text_CN": "游戏结束"
   },
   {
     "Id": "U_INGAME_BACK_TO_LOBBY",
     "Text": "Return to Play Menu",
-    "Text_CN": ""
+    "Text_CN": "回到游玩菜单"
   },
   {
     "Id": "U_INGAME_MAIN_OBJECTIVE",
@@ -892,87 +892,87 @@
   {
     "Id": "U_INGAME_NEW_ROUND",
     "Text": "NEW ROUND",
-    "Text_CN": "0"
+    "Text_CN": "新回合"
   },
   {
     "Id": "U_INGAME_SAURON_PASSES",
     "Text": "Sauron Passes",
-    "Text_CN": "0"
+    "Text_CN": "索伦按兵不动"
   },
   {
     "Id": "U_DECKMENU_PURCHASE_IN_SHOP",
     "Text": "Purchase in the Shop?",
-    "Text_CN": ""
+    "Text_CN": "在商店中购买？"
   },
   {
     "Id": "U_INGAME_DEFEAT_HERO_DEAD",
     "Text": "Your last Hero falls, bringing your journey to a tragic end.",
-    "Text_CN": ""
+    "Text_CN": "您的最后一个英雄闭上了眼睛，给您的冒险画上了句号"
   },
   {
     "Id": "U_INGAME_DEFEAT_THREAT_FULL",
     "Text": "You draw Sauron's full attention, bringing your journey to a tragic end.",
-    "Text_CN": ""
+    "Text_CN": "您被索伦彻底的发现了，给您的冒险画上了句号"
   },
   {
     "Id": "U_SHOP_HEROPACK_01_TITLE",
     "Text": "Faithful Servant",
-    "Text_CN": "英雄包"
+    "Text_CN": "忠实的仆人"
   },
   {
     "Id": "U_SHOP_HEROPACK_02_TITLE",
     "Text": "The Rangers of Gondor",
-    "Text_CN": "英雄包"
+    "Text_CN": "刚铎的游骑兵"
   },
   {
     "Id": "U_SHOP_HEROPACK_03_TITLE",
     "Text": "Shieldmaiden of Rohan",
-    "Text_CN": "英雄包"
+    "Text_CN": "洛汗的盾少女"
   },
   {
     "Id": "U_SHOP_HEROPACK_04_TITLE",
     "Text": "Prince of Mirkwood",
-    "Text_CN": "英雄包"
+    "Text_CN": "幽暗密林的王子"
   },
   {
     "Id": "U_SHOP_HEROPACK_TITLE_HEROPACK_FAITHFULSERVANT",
     "Text": "Faithful Servant",
-    "Text_CN": "英雄包"
+    "Text_CN": "忠实的仆人"
   },
   {
     "Id": "U_SHOP_HEROPACK_TITLE_HEROPACK_RANGERSOFGONDOR",
     "Text": "The Rangers of Gondor",
-    "Text_CN": "英雄包"
+    "Text_CN": "刚铎的游骑兵"
   },
   {
     "Id": "U_SHOP_HEROPACK_TITLE_HEROPACK_SHIELDMAIDENOFROHAN",
     "Text": "Shieldmaiden of Rohan",
-    "Text_CN": "英雄包"
+    "Text_CN": "洛汗的盾少女"
   },
   {
     "Id": "U_SHOP_HEROPACK_TITLE_HEROPACK_PRINCEOFMIRKWOOD",
     "Text": "Prince of Mirkwood",
-    "Text_CN": "英雄包"
+    "Text_CN": "幽暗密林的王子"
   },
   {
     "Id": "U_DECKMENU_HEROPACK_TITLE_HEROPACK_FAITHFULSERVANT",
     "Text": "Faithful Servant",
-    "Text_CN": "英雄包"
+    "Text_CN": "忠实的仆人"
   },
   {
     "Id": "U_DECKMENU_HEROPACK_TITLE_HEROPACK_RANGERSOFGONDOR",
     "Text": "The Rangers of Gondor",
-    "Text_CN": "英雄包"
+    "Text_CN": "刚铎的游骑兵"
   },
   {
     "Id": "U_DECKMENU_HEROPACK_TITLE_HEROPACK_SHIELDMAIDENOFROHAN",
     "Text": "Shieldmaiden of Rohan",
-    "Text_CN": "英雄包"
+    "Text_CN": "洛汗的盾少女"
   },
   {
     "Id": "U_DECKMENU_HEROPACK_TITLE_HEROPACK_PRINCEOFMIRKWOOD",
     "Text": "Prince of Mirkwood",
-    "Text_CN": "英雄包"
+    "Text_CN": "幽暗密林的王子"
   },
   {
     "Id": "U_DECKMENU_HEROPACK_TITLE_STARTER",
@@ -982,57 +982,57 @@
   {
     "Id": "U_SHOP_PALANTIRPACK_TITLE",
     "Text": "Palantír Pack",
-    "Text_CN": ""
+    "Text_CN": "晶石凝视包"
   },
   {
     "Id": "U_SHOP_PALANTIRPACK_DESC",
     "Text": "Each Palantír Pack includes 3 Palantír Views and 1 random new Valor Card",
-    "Text_CN": ""
+    "Text_CN": "每个晶石凝视包包含3个晶石凝视和一张随机勇气卡"
   },
   {
     "Id": "U_SHOP_HEROPACK_01_DESC",
     "Text": "<i>Though he comes from humble beginnings, Samwise Gamgee rises to any challenge with unmatched bravery and determination.</i>\nThis pack is tailor-made for cleverness, helping you sneak past the watchful Eye of Sauron to claim victory through daring and stealth.",
-    "Text_CN": ""
+    "Text_CN": "<i>虽然他出身低微，Samwise Gamgee 面对任何挑战都有无以伦比的勇气和决心</i>\n这个卡包专为机智的你定制，帮助你通过大胆和潜行逃过索伦之眼并获得胜利。"
   },
   {
     "Id": "U_SHOP_HEROPACK_02_DESC",
     "Text": "<i>Faramir does not seek glory in danger without purpose. Touched by the wisdom and sadness of the Elder Race, he is shrewd in battle.</i>\nThis pack gives you the abilities needed to outlast Sauron’s forces and stand victorious at the battle’s end.",
-    "Text_CN": ""
+    "Text_CN": "<i>Faramir 不贪求没有目的的荣耀。受到长老一族智慧和悲伤的影响，他在战斗中聪明异常</i>\n这个卡包让你有能力和索伦比拼耐力并在最后获得战斗的胜利。"
   },
   {
     "Id": "U_SHOP_HEROPACK_03_DESC",
     "Text": "<i>Éowyn is renowned for her courage and compassion. With inner strength strong as tempered steel, she stands unflinching before even the greatest threats.</i>\nThis pack emphasizes cards that help your party defend against any threat no matter how numerous or mighty.",
-    "Text_CN": ""
+    "Text_CN": "<i>Éowyn 以勇气和同情心著称。内心无比强大如同钢铁，她在最大的威胁面前也不为动容</i>\n本卡包侧重让你能抵御强敌的卡牌。"
   },
   {
     "Id": "U_SHOP_HEROPACK_04_DESC",
     "Text": "<i>Legolas has unmatched prowess as an archer. Employing acute senses and breathtaking agility, he outmaneuvers foes to defeat them before they even see him coming.</i>\nThis pack taps into Elvish tactics, using wits and swiftness to strike down enemies with deadly accuracy.",
-    "Text_CN": ""
+    "Text_CN": "<i>Legolas 作为射手有着无可比拟的威力。他感知敏锐，动如脱兔，在敌人看到他之前就能将敌人打败</i>\n本卡包侧着Elvish类的技巧，用你的智慧和决断去给与敌人致命一击吧。"
   },
   {
     "Id": "U_SHOP_HEROPACK_DESC_HEROPACK_FAITHFULSERVANT",
     "Text": "<i>Though he comes from humble beginnings, Samwise Gamgee rises to any challenge with unmatched bravery and determination.</i>\nThis pack is tailor-made for cleverness, helping you sneak past the watchful Eye of Sauron to claim victory through daring and stealth.",
-    "Text_CN": ""
+    "Text_CN": "<i>虽然他出身低微，Samwise Gamgee 面对任何挑战都有无以伦比的勇气和决心</i>\n这个卡包专为机智的你定制，帮助你通过大胆和潜行逃过索伦之眼并获得胜利。"
   },
   {
     "Id": "U_SHOP_HEROPACK_DESC_HEROPACK_RANGERSOFGONDOR",
     "Text": "<i>Faramir does not seek glory in danger without purpose. Touched by the wisdom and sadness of the Elder Race, he is shrewd in battle.</i>\nThis pack gives you the abilities needed to outlast Sauron’s forces and stand victorious at the battle’s end.",
-    "Text_CN": ""
+    "Text_CN": "<i>Faramir 不贪求没有目的的荣耀。受到长老一族智慧和悲伤的影响，他在战斗中聪明异常</i>\n这个卡包让你有能力和索伦比拼耐力并在最后获得战斗的胜利。"
   },
   {
     "Id": "U_SHOP_HEROPACK_DESC_HEROPACK_SHIELDMAIDENOFROHAN",
     "Text": "<i>Éowyn is renowned for her courage and compassion. With inner strength strong as tempered steel, she stands unflinching before even the greatest threats.</i>\nThis pack emphasizes cards that help your party defend against any threat no matter how numerous or mighty.",
-    "Text_CN": ""
+    "Text_CN": "<i>Éowyn 以勇气和同情心著称。内心无比强大如同钢铁，她在最大的威胁面前也不为动容</i>\n本卡包侧重让你能抵御强敌的卡牌。"
   },
   {
     "Id": "U_SHOP_HEROPACK_DESC_HEROPACK_PRINCEOFMIRKWOOD",
     "Text": "<i>Legolas has unmatched prowess as an archer. Employing acute senses and breathtaking agility, he outmaneuvers foes to defeat them before they even see him coming.</i>\nThis pack taps into Elvish tactics, using wits and swiftness to strike down enemies with deadly accuracy.",
-    "Text_CN": ""
+    "Text_CN": "<i>Legolas 作为射手有着无可比拟的威力。他感知敏锐，动如脱兔，在敌人看到他之前就能将敌人打败</i>\n本卡包侧着Elvish类的技巧，用你的智慧和决断去给与敌人致命一击吧。"
   },
   {
     "Id": "CHOICETEXT_GANDALF_GANDALFCHOICE00",
     "Text": "Draw 3 cards",
-    "Text_CN": ""
+    "Text_CN": "抽取3张卡牌"
   },
   {
     "Id": "CHOICETEXT_GANDALF_GANDALFCHOICE01",
@@ -1042,7 +1042,7 @@
   {
     "Id": "CHOICETEXT_GANDALF_GANDALFCHOICE02",
     "Text": "Deal 3 damage",
-    "Text_CN": ""
+    "Text_CN": "攻击并造成3点伤害"
   },
   {
     "Id": "CHOICETEXT_HUNTED_HUNTEDCHOICE00",
@@ -1057,77 +1057,77 @@
   {
     "Id": "U_INGAME_SELECT_FOR_ATTACHMENT",
     "Text": "To equip this Attachment, select\na highlighted Character",
-    "Text_CN": ""
+    "Text_CN": "选择一个高亮的角色进行装备"
   },
   {
     "Id": "U_INGAME_HISTORY_CARDPLAYED",
     "Text": "Card Played",
-    "Text_CN": "0"
+    "Text_CN": "已出牌"
   },
   {
     "Id": "U_INGAME_HISTORY",
     "Text": "History",
-    "Text_CN": "0"
+    "Text_CN": "历史"
   },
   {
     "Id": "U_DECKMENU_PURCHASE_INFO",
     "Text": "This card is available in {0}",
-    "Text_CN": ""
+    "Text_CN": "这张卡可以在{0}找到"
   },
   {
     "Id": "U_DECKMENU_NEED_ASMODEE",
     "Text": "Please login with an Asmodee.net account",
-    "Text_CN": ""
+    "Text_CN": "请使用爱思摩的账号登录"
   },
   {
     "Id": "U_DECKMENU_TOO_MUCH_DECK",
     "Text": "You have the maximum number of decks available",
-    "Text_CN": ""
+    "Text_CN": "您的卡组数量已达上限"
   },
   {
     "Id": "U_DECKMENU_ERROR_CARDBACK",
     "Text": "An error occurred. Please try again later",
-    "Text_CN": ""
+    "Text_CN": "有错误发生，请稍后重试"
   },
   {
     "Id": "U_DECKMENU_SAVING_DECK",
     "Text": "Saving deck...",
-    "Text_CN": "0"
+    "Text_CN": "保存卡组…"
   },
   {
     "Id": "U_DECKMENU_DECK_SAVED",
     "Text": "Deck saved",
-    "Text_CN": ""
+    "Text_CN": "卡组已保存"
   },
   {
     "Id": "U_DECKMENU_DELETING_DECK",
     "Text": "Deleting deck...",
-    "Text_CN": "0"
+    "Text_CN": "删除卡组…"
   },
   {
     "Id": "U_DECKMENU_DECK_DELETED",
     "Text": "Deck deleted",
-    "Text_CN": ""
+    "Text_CN": "卡组已删除"
   },
   {
     "Id": "U_DECKMENU_RENAMING_DECK",
     "Text": "Renaming deck...",
-    "Text_CN": "0"
+    "Text_CN": "重命名卡组"
   },
   {
     "Id": "U_DECKMENU_DECK_RENAMED",
     "Text": "Deck renamed",
-    "Text_CN": ""
+    "Text_CN": "卡组已命名"
   },
   {
     "Id": "U_DECKMENU_DECKBUILDER_ERROR",
     "Text": "An error occurred accessing deck builder. Please try again later",
-    "Text_CN": ""
+    "Text_CN": "访问卡组编辑器时有问题，请重新选择"
   },
   {
     "Id": "U_QUEST_YOUR_QUEST_LIST",
     "Text": "YOUR DECK LIST",
-    "Text_CN": "0"
+    "Text_CN": "您的卡组列表"
   },
   {
     "Id": "U_QUEST_SAURON_S_DECK",
@@ -1137,12 +1137,12 @@
   {
     "Id": "U_AVATAR_AVATARS",
     "Text": "AVATARS",
-    "Text_CN": "0"
+    "Text_CN": "头像"
   },
   {
     "Id": "U_AVATAR_FRAMES",
     "Text": "FRAMES",
-    "Text_CN": "0"
+    "Text_CN": "头像kd"
   },
   {
     "Id": "U_OPTIONS_GLOSSARY",
@@ -1157,12 +1157,12 @@
   {
     "Id": "U_OPTIONS_MAIN_MENU",
     "Text": "MAIN MENU",
-    "Text_CN": "0"
+    "Text_CN": "主菜单"
   },
   {
     "Id": "U_OPTIONS_SKIP_TUTORIAL",
     "Text": "SKIP TUTORIAL",
-    "Text_CN": "0"
+    "Text_CN": "跳过教程"
   },
   {
     "Id": "U_BATTLE_UPKEEP",
@@ -1172,72 +1172,72 @@
   {
     "Id": "U_BATTLE_PLANNING",
     "Text": "PLANNING",
-    "Text_CN": ""
+    "Text_CN": "规划中"
   },
   {
     "Id": "U_BATTLE_ADVENTURE",
     "Text": "ADVENTURE",
-    "Text_CN": ""
+    "Text_CN": "冒险"
   },
   {
     "Id": "U_BATTLE_NEW_ROUND",
     "Text": "NEW ROUND",
-    "Text_CN": "0"
+    "Text_CN": "新回合"
   },
   {
     "Id": "U_BATTLE_YOUR_TURN",
     "Text": "YOUR TURN",
-    "Text_CN": "0"
+    "Text_CN": "您的回合"
   },
   {
     "Id": "U_BATTLE_SAURON_PASSES",
     "Text": "SAURON PASSES",
-    "Text_CN": "0"
+    "Text_CN": "索伦按兵不动"
   },
   {
     "Id": "U_SHOP_FAILED_PURCHASE_PALANTIR_CHECK",
     "Text": "Purchase failed",
-    "Text_CN": ""
+    "Text_CN": "购买失败"
   },
   {
     "Id": "U_SHOP_BUY_FAVOR_CARD_MAX",
     "Text": "You cannot have more than 2 copies of this card",
-    "Text_CN": ""
+    "Text_CN": "这张卡您最多只能拥有2张"
   },
   {
     "Id": "U_SHOP_FAILED_PURCHASE_ITEM",
     "Text": "Purchase failed",
-    "Text_CN": ""
+    "Text_CN": "购买失败"
   },
   {
     "Id": "U_SHOP_FAILED_PURCHASE_PALANTIR",
     "Text": "Purchase failed",
-    "Text_CN": ""
+    "Text_CN": "购买失败"
   },
   {
     "Id": "U_SHOP_FAILED_PALANTIR_REWARD",
     "Text": "Reward failed",
-    "Text_CN": ""
+    "Text_CN": "奖励失败"
   },
   {
     "Id": "U_SHOP_FAILED_PURCHASE_POOR",
     "Text": "You don't have enough {0} to make this purchase!",
-    "Text_CN": ""
+    "Text_CN": "您没有足够的{0}来购买"
   },
   {
     "Id": "U_ASMODEE_PLEASE_SIGNIN",
     "Text": "Please login with an Asmodee.net account",
-    "Text_CN": ""
+    "Text_CN": "请使用爱思摩的账号登录"
   },
   {
     "Id": "U_BATTLE_HERO_DEFEATED",
     "Text": "{0} has been defeated!",
-    "Text_CN": "0"
+    "Text_CN": "{0} 被打败了！"
   },
   {
     "Id": "U_OPTION_QUIT_CONFIRM",
     "Text": "Are you sure you want to\nquit the game?",
-    "Text_CN": ""
+    "Text_CN": "确认退出游戏吗？"
   },
   {
     "Id": "U_TITLE_PRESS_ANY_KEY",
@@ -1252,37 +1252,42 @@
   {
     "Id": "U_AVATAR_CHANGED",
     "Text": "Avatar changed",
-    "Text_CN": "0"
+    "Text_CN": "头像已更改"
   },
   {
     "Id": "U_DECKMENU_ADD_FAIL_DECK_FULL",
     "Text": "You deck is full!",
-    "Text_CN": ""
+    "Text_CN": "卡组已满！"
   },
   {
     "Id": "U_DECKMENU_ADD_FAIL_NO_HERO",
     "Text": "To add this card, your deck \nmust have 1 {0} Hero.",
-    "Text_CN": ""
+    "Text_CN": "如要添加这张卡，您的卡组必须有一位{0}英雄"
   },
   {
     "Id": "U_DECKMENU_ADD_FAIL_NO_2HERO",
     "Text": "To add this card, your deck \nmust have {0} {1} Heroes.",
-    "Text_CN": ""
+    "Text_CN": "如要添加这张卡，您的卡组必须有{0}位{1}英雄"
   },
   {
     "Id": "U_DECKMENU_ADD_FAIL_LIMIT_REACHED",
     "Text": "Your deck is full!",
-    "Text_CN": ""
+    "Text_CN": "卡组已满！"
   },
   {
     "Id": "U_BATTLE_PLAY_AREA_FULL",
     "Text": "Your play area is full. \nDo you want to replace an Ally?",
-    "Text_CN": ""
+    "Text_CN": "战场已人满为患，需要替换哪位盟友？"
+  },
+  {
+    "Id": "U_OPTIONS_LANGUAGE_TITLE",
+    "Text": "LANGUAGE",
+    "Text_CN": "语言"
   },
   {
     "Id": "U_OPTIONS_LANGUAGE",
     "Text": "Language",
-    "Text_CN": "0"
+    "Text_CN": "语言"
   },
   {
     "Id": "U_OPTIONS_LANGUAGE_DE",
@@ -1322,47 +1327,47 @@
   {
     "Id": "U_OPTIONS_DISPLAY",
     "Text": "DISPLAY",
-    "Text_CN": ""
+    "Text_CN": "显示"
   },
   {
     "Id": "U_OPTIONS_AUDIO",
     "Text": "AUDIO",
-    "Text_CN": ""
+    "Text_CN": "声音"
   },
   {
     "Id": "U_OPTIONS_AUDIO_MASTER",
     "Text": "Master Volume",
-    "Text_CN": "0"
+    "Text_CN": "主音量"
   },
   {
     "Id": "U_OPTIONS_AUDIO_BGM",
     "Text": "Music Volume",
-    "Text_CN": "0"
+    "Text_CN": "音乐音量"
   },
   {
     "Id": "U_OPTIONS_AUDIO_SFX",
     "Text": "Effects Volume",
-    "Text_CN": "0"
+    "Text_CN": "音效音量"
   },
   {
     "Id": "U_OPTIONS_AUDIO_VOICE",
     "Text": "Voice Volume",
-    "Text_CN": "0"
+    "Text_CN": "语音音量"
   },
   {
     "Id": "U_OPTIONS_AUDIO_AMBIENT",
     "Text": "Ambient Volume",
-    "Text_CN": "0"
+    "Text_CN": "环境音量"
   },
   {
     "Id": "U_BATTLE_CARDS_LEFT",
     "Text": "Cards Remaining",
-    "Text_CN": ""
+    "Text_CN": "剩余卡牌"
   },
   {
     "Id": "U_BATTLE_DECK_EMPTY",
     "Text": "Your deck is empty!",
-    "Text_CN": ""
+    "Text_CN": "您的卡组空了！"
   },
   {
     "Id": "U_DECKMENU_RARITY_S",
@@ -1792,12 +1797,12 @@
   {
     "Id": "U_SHOP_QUEST_SELECT",
     "Text": "Select an individual Quest for more information and purchase options",
-    "Text_CN": ""
+    "Text_CN": "选择一个冒险以查看更多信息和购买选项"
   },
   {
     "Id": "U_SHOP_SELECT_OPTION",
     "Text": "Select a purchase option",
-    "Text_CN": ""
+    "Text_CN": "选择一个购买选项"
   },
   {
     "Id": "U_CAMPAIGN_2",
@@ -1807,127 +1812,127 @@
   {
     "Id": "U_OPTIONS_CREDITS",
     "Text": "CREDITS",
-    "Text_CN": ""
+    "Text_CN": "制作人员名单"
   },
   {
     "Id": "U_SHOP_WRONG_PRICE",
     "Text": "This price is not correct!",
-    "Text_CN": ""
+    "Text_CN": "价格不正确"
   },
   {
     "Id": "U_SHOP_AVATAR_ISTARI",
     "Text": "Istari Avatar",
-    "Text_CN": ""
+    "Text_CN": "Istari Avatar"
   },
   {
     "Id": "U_SHOP_AVATAR_SHIRE",
     "Text": "Shire Avatar",
-    "Text_CN": ""
+    "Text_CN": "Shire Avatar"
   },
   {
     "Id": "U_SHOP_AVATAR_GONDOR",
     "Text": "Steward of Gondor Avatar",
-    "Text_CN": ""
+    "Text_CN": "Steward of Gondor Avatar"
   },
   {
     "Id": "U_SHOP_CAMPAIGN_01_DESC",
     "Text": "The first Campaign in The Lord of the Rings™: Living Card Game™.",
-    "Text_CN": ""
+    "Text_CN": "The first Campaign in The Lord of the Rings™: Living Card Game™."
   },
   {
     "Id": "U_SHOP_CB_ISTARI",
     "Text": "Istari",
-    "Text_CN": ""
+    "Text_CN": "Istari"
   },
   {
     "Id": "U_SHOP_CB_SHIRE",
     "Text": "Shire",
-    "Text_CN": ""
+    "Text_CN": "Shire"
   },
   {
     "Id": "U_SHOP_CB_STEWARDOFGONDOR",
     "Text": "Steward of Gondor",
-    "Text_CN": ""
+    "Text_CN": "Steward of Gondor"
   },
   {
     "Id": "U_SHOP_CB_THEONERING",
     "Text": "The One Ring",
-    "Text_CN": ""
+    "Text_CN": "The One Ring"
   },
   {
     "Id": "U_SHOP_CB_CLASSIC",
     "Text": "Classic",
-    "Text_CN": ""
+    "Text_CN": "Classic"
   },
   {
     "Id": "U_SHOP_SCB_CLASSIC",
     "Text": "Classic Sauron Card Back",
-    "Text_CN": ""
+    "Text_CN": "Classic Sauron Card Back"
   },
   {
     "Id": "U_SHOP_SCB_DEFAULT",
     "Text": "Sauron Card Back",
-    "Text_CN": ""
+    "Text_CN": "Sauron Card Back"
   },
   {
     "Id": "U_SHOP_PF_ISTARI",
     "Text": "Istari Player Frame",
-    "Text_CN": ""
+    "Text_CN": "Istari Player Frame"
   },
   {
     "Id": "U_SHOP_PF_SHIRE",
     "Text": "Shire Player Frame",
-    "Text_CN": ""
+    "Text_CN": "Shire Player Frame"
   },
   {
     "Id": "U_SHOP_PF_GONDOR",
     "Text": "Steward of Gondor Player Frame",
-    "Text_CN": ""
+    "Text_CN": "Steward of Gondor Player Frame"
   },
   {
     "Id": "U_SHOP_PF_ONERING",
     "Text": "Classic Player Frame",
-    "Text_CN": ""
+    "Text_CN": "Classic Player Frame"
   },
   {
     "Id": "U_BATTLE_QUEST_BEGIN",
     "Text": "YOUR QUEST BEGINS",
-    "Text_CN": ""
+    "Text_CN": "冒险开始"
   },
   {
     "Id": "U_BATTLE_UPKEEP_PHASE",
     "Text": "UPKEEP PHASE",
-    "Text_CN": ""
+    "Text_CN": "修整阶段"
   },
   {
     "Id": "U_BATTLE_ADVENTURE_PHASE",
     "Text": "ADVENTURE PHASE",
-    "Text_CN": "一闪而过"
+    "Text_CN": "冒险阶段"
   },
   {
     "Id": "U_BATTLE_PLANNING_PHASE",
     "Text": "PLANNING PHASE",
-    "Text_CN": "战术型"
+    "Text_CN": "规划阶段"
   },
   {
     "Id": "U_BATTLE_FINAL_ENCOUNTER",
     "Text": "FINAL ENCOUNTER",
-    "Text_CN": ""
+    "Text_CN": "最终的敌人"
   },
   {
     "Id": "U_BATTLE_TRAVELLING",
     "Text": "TRAVELING",
-    "Text_CN": ""
+    "Text_CN": "行进中"
   },
   {
     "Id": "U_MAINMENU_DAILY_COMING_SOON",
     "Text": "Daily challenge content coming soon!",
-    "Text_CN": ""
+    "Text_CN": "每日挑战内容即将上线！"
   },
   {
     "Id": "U_QUEST_COOP_COMING_SOON",
     "Text": "Multiplayer coming soon!",
-    "Text_CN": ""
+    "Text_CN": "多人游戏模式即将上线！"
   },
   {
     "Id": "U_BATTLE_POWER",
@@ -1937,192 +1942,192 @@
   {
     "Id": "U_BATTLE_THREAT_35_EASY",
     "Text": "Sauron gains +1 Resource this round",
-    "Text_CN": ""
+    "Text_CN": "这个回合索伦资源+1"
   },
   {
     "Id": "U_BATTLE_THREAT_35_NORMAL",
     "Text": "Sauron gains +2 Resources this round",
-    "Text_CN": ""
+    "Text_CN": "这个回合索伦资源+2"
   },
   {
     "Id": "U_BATTLE_THREAT_35_HARD",
     "Text": "Sauron gains +3 Resources this round",
-    "Text_CN": ""
+    "Text_CN": "这个回合索伦资源+3"
   },
   {
     "Id": "U_BATTLE_THREAT_40",
     "Text": "Sauron draws a Treachery card",
-    "Text_CN": ""
+    "Text_CN": "索伦打出一张诡计卡"
   },
   {
     "Id": "U_BATTLE_THREAT_45",
     "Text": "An Agent of Sauron appears",
-    "Text_CN": ""
+    "Text_CN": "索伦代理人出现了"
   },
   {
     "Id": "U_MENU_COMMON_SKIP",
     "Text": "SKIP",
-    "Text_CN": ""
+    "Text_CN": "跳过"
   },
   {
     "Id": "U_DECKMENU_ALL_COSTS",
     "Text": "All Costs",
-    "Text_CN": ""
+    "Text_CN": "全部"
   },
   {
     "Id": "U_DECKMENU_NEW_DECK",
     "Text": "Create New Deck",
-    "Text_CN": ""
+    "Text_CN": "创建新牌组"
   },
   {
     "Id": "U_DECKMENU_CARD_LIB",
     "Text": "CARD LIBRARY",
-    "Text_CN": ""
+    "Text_CN": "牌库"
   },
   {
     "Id": "U_DECKMENU_THREE_HERO_NEEDED",
     "Text": "Select 3 Heroes",
-    "Text_CN": ""
+    "Text_CN": "选择3位英雄"
   },
   {
     "Id": "U_DECKMENU_SINGLE_CARD_LIMIT",
     "Text": "Your deck has the maximum quantity of this card already",
-    "Text_CN": ""
+    "Text_CN": "您的卡组中的这种牌的数量已达到上限"
   },
   {
     "Id": "U_QUEST_SCORE_YOUR_SCORE",
     "Text": "Your Score",
-    "Text_CN": ""
+    "Text_CN": "您的分数"
   },
   {
     "Id": "U_QUEST_SCORE_THREAT_LEVEL",
     "Text": "Final Threat Level",
-    "Text_CN": ""
+    "Text_CN": "最终的威胁值"
   },
   {
     "Id": "U_QUEST_SCORE_SURVIVING_HERO",
     "Text": "Surviving Heroes",
-    "Text_CN": ""
+    "Text_CN": "幸存的英雄"
   },
   {
     "Id": "U_QUEST_SCORE_HERO_HEALTH",
     "Text": "Surviving Heroes' Health",
-    "Text_CN": ""
+    "Text_CN": "幸存的英雄的生命值"
   },
   {
     "Id": "U_QUEST_SCORE_OBJECTIVE_RESOLVED",
     "Text": "Objectives Resolved",
-    "Text_CN": ""
+    "Text_CN": "解决的目标数量"
   },
   {
     "Id": "U_QUEST_SCORE_FAVOR_CARD_BONUS",
     "Text": "Favor Card Used",
-    "Text_CN": ""
+    "Text_CN": "使用福利卡"
   },
   {
     "Id": "U_QUEST_SCORE_TOTAL",
     "Text": "Total",
-    "Text_CN": ""
+    "Text_CN": "总计"
   },
   {
     "Id": "U_QUEST_SCORE_REWARDS",
     "Text": "Rewards",
-    "Text_CN": ""
+    "Text_CN": "奖励"
   },
   {
     "Id": "U_QUEST_SCORE_QUEST_REWARDS",
     "Text": "Quest Reward",
-    "Text_CN": ""
+    "Text_CN": "冒险奖励"
   },
   {
     "Id": "U_QUEST_SCORE_VICTORY",
     "Text": "VICTORY",
-    "Text_CN": ""
+    "Text_CN": "胜利"
   },
   {
     "Id": "U_QUEST_SCORE_MSG_NEXT_QUEST_AVAILABLE",
     "Text": "Your next Quest is available!\nPurchase it in the Shop now \nto continue your adventure",
-    "Text_CN": ""
+    "Text_CN": "下一个冒险解锁了！\n在商店中购买\n继续战斗吧"
   },
   {
     "Id": "U_QUEST_SCORE_MSG_PURCHASE_LOCKED",
     "Text": "You must complete the previous \nQuest before you can play this one.\nDo you want to purchase this Quest?",
-    "Text_CN": ""
+    "Text_CN": "您必须先完成上一个冒险\n才能挑战这一个\n您还是想购买这个冒险吗？"
   },
   {
     "Id": "U_QUEST_SCORE_MSG_PLAY_LOCKED",
     "Text": "You must complete the previous \nQuest before you can play this one",
-    "Text_CN": ""
+    "Text_CN": "您必须先完成上一个冒险\n才能挑战这一个冒险"
   },
   {
     "Id": "U_SHOP_VALOR_CARDS_ONE_ONLY",
     "Text": "You cannot have more than 2 copies of this card",
-    "Text_CN": ""
+    "Text_CN": "您不能拥有超过2张的这张牌"
   },
   {
     "Id": "U_SHOP_VALOR_GO_BUY_HERO_PACK",
     "Text": "To unlock this card, purchase the Hero Pack: {0}",
-    "Text_CN": ""
+    "Text_CN": "要解锁这张卡，请购买英雄卡包：{0}"
   },
   {
     "Id": "U_SHOP_FOUNDERPACK_01",
     "Text": "Steward of Gondor Founder's Pack",
-    "Text_CN": ""
+    "Text_CN": "Steward of Gondor Founder's Pack"
   },
   {
     "Id": "U_SHOP_FOUNDERPACK_02",
     "Text": "Shire Founder's Pack",
-    "Text_CN": ""
+    "Text_CN": "Shire Founder's Pack"
   },
   {
     "Id": "U_SHOP_FOUNDERPACK_03",
     "Text": "Istari Founder's Pack",
-    "Text_CN": ""
+    "Text_CN": "Istari Founder's Pack"
   },
   {
     "Id": "U_SHOP_AVATAR_ARAGORN",
     "Text": "Aragorn Avatar",
-    "Text_CN": ""
+    "Text_CN": "Aragorn Avatar"
   },
   {
     "Id": "U_SHOP_AVATAR_ARWEN",
     "Text": "Arwen Avatar",
-    "Text_CN": ""
+    "Text_CN": "Arwen Avatar"
   },
   {
     "Id": "U_SHOP_AVATAR_FRODO",
     "Text": "Frodo Avatar",
-    "Text_CN": ""
+    "Text_CN": "Frodo Avatar"
   },
   {
     "Id": "U_SHOP_AVATAR_GIMLI",
     "Text": "Gimli Avatar",
-    "Text_CN": ""
+    "Text_CN": "Gimli Avatar"
   },
   {
     "Id": "U_SHOP_AVATAR_ONERING",
     "Text": "One Ring Avatar",
-    "Text_CN": ""
+    "Text_CN": "One Ring Avatar"
   },
   {
     "Id": "U_SHOP_AVATAR_EYEOFSAURON",
     "Text": "Eye of Sauron Avatar",
-    "Text_CN": ""
+    "Text_CN": "Eye of Sauron Avatar"
   },
   {
     "Id": "U_BATTLE_PREP_TRIGGERED",
     "Text": "PREPARATION TRIGGERED",
-    "Text_CN": ""
+    "Text_CN": "准备卡被触发了！"
   },
   {
     "Id": "U_ASMODEE_MSG_INPUT_WRONG",
     "Text": "The user name or password entered is invalid",
-    "Text_CN": ""
+    "Text_CN": "用户名或密码不正确"
   },
   {
     "Id": "U_BATTLE_THREAT_EVENT",
     "Text": "THREAT EVENT",
-    "Text_CN": ""
+    "Text_CN": "威胁事件"
   },
   {
     "Id": "U_BATTLE_EVENT",
@@ -2132,17 +2137,17 @@
   {
     "Id": "U_BATTLE_TREACHERY",
     "Text": "TREACHERY",
-    "Text_CN": "0"
+    "Text_CN": "诡计"
   },
   {
     "Id": "U_BATTLE_TREACHERY_TRIGGERED",
     "Text": "TREACHERY TRIGGERED",
-    "Text_CN": ""
+    "Text_CN": "诡计卡被触发了！"
   },
   {
     "Id": "U_SHOP_VALOR_MAX_2",
     "Text": "You cannot have more than 2 copies of this card",
-    "Text_CN": ""
+    "Text_CN": "您不能拥有超过2张的这张牌"
   },
   {
     "Id": "U_PALANTIR_USE_CONFIRM",
