@@ -3281,7 +3281,7 @@
   },
   {
     "Id": "C_CONTINUEDOWNSTREAM_TEXT",
-    "Text": "Travel immediately to \n<i>Mirkwood Swamp</i>",
+    "Text": "Travel immediately to <i>Mirkwood Swamp</i>",
     "Text_CN": "结算：立刻前往幽暗密林沼泽。"
   },
   {
@@ -6461,6 +6461,11 @@
   },
   {
     "Id": "C_COCOON_FLAVOR",
+    "Text": "",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_CONTINUEDOWNSTREAM_FLAVOR",
     "Text": "",
     "Text_CN": ""
   }
