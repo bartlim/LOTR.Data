@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -2270,6 +2270,11 @@
     "Text_CN": ""
   },
   {
+    "Id": "U_FL_INVITE_COOP_SENT",
+    "Text": "Invitation sent! Go to Play menu to select and start a quest!",
+    "Text_CN": ""
+  },
+  {
     "Id": "U_FL_ADD_FRIEND",
     "Text": "Add Friend",
     "Text_CN": ""
@@ -2926,7 +2931,7 @@
   },
   {
     "Id": "C_AFRIENDINNEED_FLAVOR",
-    "Text": "He gave a shout and slashed at the spiders in front of him. They quickly gave way…\r\n—<i>The Hobbit</i>",
+    "Text": "He gave a shout and slashed at the spiders in front of him. They quickly gave way…\n—<i>The Hobbit</i>",
     "Text_CN": ""
   },
   {
@@ -3026,7 +3031,7 @@
   },
   {
     "Id": "C_ATEST181120_TITLE",
-    "Text": "testing card",
+    "Text": "[do not translate]testing card",
     "Text_CN": ""
   },
   {
@@ -3266,7 +3271,7 @@
   },
   {
     "Id": "C_CONTINUEDOWNSTREAM_TEXT",
-    "Text": "Travel immediately to <i>Mirkwood Swamp</i>",
+    "Text": "Travel immediately to \n<i>Mirkwood Swamp</i>",
     "Text_CN": "结算：立刻前往幽暗密林沼泽。"
   },
   {
@@ -3936,7 +3941,7 @@
   },
   {
     "Id": "C_GUARDOFTHECITADEL_FLAVOR",
-    "Text": "\"But the Lords of Minas Tirith still fight on, defying our enemies, keeping the passage of the River from Argonath to the Sea.\"\n \n–Elrond, <i>The Fellowship of the Ring</i>",
+    "Text": "\"But the Lords of Minas Tirith still fight on, defying our enemies, keeping the passage of the River from Argonath to the Sea.\"\n–Elrond, <i>The Fellowship of the Ring</i>",
     "Text_CN": ""
   },
   {
@@ -4165,6 +4170,16 @@
     "Text_CN": "国王蛛"
   },
   {
+    "Id": "C_LEFTRIVERFORK_TEXT",
+    "Text": "Allows travel to: Treacherous Shortcut",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_LEFTRIVERFORK_TITLE",
+    "Text": "Left River Fork",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_LEGACYBLADE_FLAVOR",
     "Text": "…glad would he have been to know its fate who wrought it slowly long ago in the North-kingdom when the Dúnedain were young… \n<i>–The Return of the King</i>",
     "Text_CN": ""
@@ -4201,7 +4216,7 @@
   },
   {
     "Id": "C_LEMBAS_TEXT",
-    "Text": "Restore 2 Health to a Character and Ready them",
+    "Text": "Restore 2 Health to a Character and ready them",
     "Text_CN": ""
   },
   {
@@ -4211,7 +4226,7 @@
   },
   {
     "Id": "C_LORIENSWEALTH_FLAVOR",
-    "Text": "\"That is the fairest of all the dwellings of my people. There are no trees like the tress of that land.\"\n \n–Legolas, <i>The Fellowship of the Ring</i>",
+    "Text": "\"That is the fairest of all the dwellings of my people. There are no trees like the tress of that land.\"\n–Legolas, <i>The Fellowship of the Ring</i>",
     "Text_CN": ""
   },
   {
@@ -4496,7 +4511,7 @@
   },
   {
     "Id": "C_RANGERPROVISIONS_FLAVOR",
-    "Text": "\"Rangers have been here lately. It is they who left the firewood behind.\"\r\n—Aragorn, <i>The Fellowship of the Ring</i>",
+    "Text": "\"Rangers have been here lately. It is they who left the firewood behind.\"\n–Aragorn, <i>The Fellowship of the Ring</i>",
     "Text_CN": ""
   },
   {
@@ -4507,6 +4522,11 @@
   {
     "Id": "C_RANGERPROVISIONS_TITLE",
     "Text": "Ranger Provisions",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_RANGERSBLADE_FLAVOR",
+    "Text": "The Bree-folk called them Rangers, and knew nothing of their origin. They were taller and darker than the Men of Bree and were believed to have strange powers of sight and hearing, and to understand the languages of beasts and birds.\n—<i>The Fellowship of the Ring</i>",
     "Text_CN": ""
   },
   {
@@ -4533,6 +4553,16 @@
     "Id": "C_RANGERSPEAR_TITLE",
     "Text": "Ranger Spear",
     "Text_CN": "游侠之矛"
+  },
+  {
+    "Id": "C_RAPIDS_TEXT",
+    "Text": "At end of round: A random player takes 2 damage.",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_RAPIDS_TITLE",
+    "Text": "Rapids",
+    "Text_CN": ""
   },
   {
     "Id": "C_REINFORCEMENTS_TEXT",
@@ -4588,6 +4618,46 @@
     "Id": "C_RESCUEYOURFRIENDS_TITLE",
     "Text": "Rescue Your Friends",
     "Text_CN": "救出朋友"
+  },
+  {
+    "Id": "C_RIGHTRIVERFORK_TEXT",
+    "Text": "Allows travel to: Gentle Waters",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_RIGHTRIVERFORK_TITLE",
+    "Text": "Right River Fork",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_RIVERBEND_TEXT",
+    "Text": "Allows travel to: Ambush On The Shore",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_RIVERBEND_TITLE",
+    "Text": "River Bend",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_RIVERCHANNEL_TEXT",
+    "Text": "Allows travel to: Ambush On The Shore",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_RIVERCHANNEL_TITLE",
+    "Text": "River Channel",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_ROCKS!_TEXT",
+    "Text": "At end of round: Threat increases by 2",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_ROCKS!_TITLE",
+    "Text": "Rocks!",
+    "Text_CN": ""
   },
   {
     "Id": "C_ROHIRRIMLANCER_FLAVOR",
@@ -4656,7 +4726,7 @@
   },
   {
     "Id": "C_SEARCHFORAPATH_TEXT",
-    "Text": "Travel immediately to <i>Overgrown Trail</i>",
+    "Text": "Travel immediately to \n<i>Overgrown Trail</i>",
     "Text_CN": "结算：立刻前往林蔓小径。"
   },
   {
@@ -4703,6 +4773,11 @@
     "Id": "C_SELFPRESERVATION_TITLE",
     "Text": "Self-Preservation",
     "Text_CN": "自护防身"
+  },
+  {
+    "Id": "C_SHIELDOFROHAN_FLAVOR",
+    "Text": "A sword was in her hand, and she raised her shield against the horror of her enemy's eyes. \n—<i>The Return of the King</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_SHIELDOFROHAN_TEXT",
@@ -4791,7 +4866,7 @@
   },
   {
     "Id": "C_SPIESOFSHADOW_TEXT",
-    "Text": "End of round: Gain +1 Threat",
+    "Text": "End of round: Gain +1 threat",
     "Text_CN": ""
   },
   {
@@ -4856,7 +4931,7 @@
   },
   {
     "Id": "C_STERNERTHANSTEEL_FLAVOR",
-    "Text": "\"Do what you will; but I will hinder it, if I may.\"\n\n–Éowyn, <i>The Return of the King</i>",
+    "Text": "\"Do what you will; but I will hinder it, if I may.\"\n–Éowyn, <i>The Return of the King</i>",
     "Text_CN": ""
   },
   {
@@ -4892,6 +4967,16 @@
   {
     "Id": "C_SUDDENRIPOSTE_TITLE",
     "Text": "Sudden Riposte",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_SWIRLINGEDDY_TEXT",
+    "Text": "At end of round: Discard a random card from your deck",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_SWIRLINGEDDY_TITLE",
+    "Text": "Swirling Eddy",
     "Text_CN": ""
   },
   {
@@ -5296,7 +5381,7 @@
   },
   {
     "Id": "C_WOODLANDCOURIER_FLAVOR",
-    "Text": "…the woodland folk were altogether noiseless in their movements.\r\n—<i>The Fellowship of the Ring</i>",
+    "Text": "…the woodland folk were altogether noiseless in their movements.\n—<i>The Fellowship of the Ring</i>",
     "Text_CN": ""
   },
   {
@@ -6318,465 +6403,5 @@
     "Id": "G_068_TERM",
     "Text": "Willpower",
     "Text_CN": "领导型"
-  },
-  {
-    "Id": "C_ELVENSCOUT_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_GRIMBEORN_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RANGERSBLADE_FLAVOR",
-    "Text": "The Bree-folk called them Rangers, and knew nothing of their origin. They were taller and darker than the Men of Bree and were believed to have strange powers of sight and hearing, and to understand the languages of beasts and birds.\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_REINFORCEMENTS_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SHIELDOFROHAN_FLAVOR",
-    "Text": "A sword was in her hand, and she raised her shield against the horror of her enemy's eyes. \n—<i>The Return of the King</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ACCURSEDFOREST_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_AGENTOFSAURON_FLAVOR",
-    "Text": "C_AGENTOFSAURON_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_AMBUSHONTHESHORE_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ANDUINTROLLSPAWN_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_BLACKBLOOD_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_CAUGHTINAWEB_FLAVOR",
-    "Text": "C_CAUGHTINAWEB_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_CHIEFTAINUFTHAK_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_CLIMBTHEHILL_FLAVOR",
-    "Text": "C_CLIMBTHEHILL_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_CONTINUEDOWNSTREAM_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_DARKSORCERY_FLAVOR",
-    "Text": "C_DARKSORCERY_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_DELAYUNTILDAWN_FLAVOR",
-    "Text": "C_DELAYUNTILDAWN_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_DESPAIR_FLAVOR",
-    "Text": "C_DESPAIR_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_DOLGULDURORCS_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_DRIVENBYSHADOW_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_EASTBIGHTPATROL_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ELITEDOLGULDURORCS_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ESCAPETHEFOREST_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_EXHAUSTION_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_EXPLORETHECAVE_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_FINDSAFEPASSAGE_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_FINDYOURBEARINGS_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_FOLLOWGRIMBEORNSTRAIL_FLAVOR",
-    "Text": "C_FOLLOWGRIMBEORNSTRAIL_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_FORESTSPIDER_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_GATHERINGGLOOM_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_GIANTBEETLE_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_GIANTSPIDER_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_GROWINGDARKNESS_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_HATCHLINGSPIDER_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_HIDDENPATH_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_HIVEGUARDIAN_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_HUMMERHORNS_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_HUNTED_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_KINGSPIDER_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_LOSTINTHEWILDERNESS_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_LOUIS_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_LOWONSUPPLIES_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_MIRKWOODPATROL_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ORCBEASTMASTER_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ORCHOUND_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_PACKOFWARGS_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_POISONEDBYSPIDERS_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_PURSUEDBYSHADOW_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_PURSUITONTHESHORE_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RUPERT_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SACKED_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SEARCHFORAPATH_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SEARCHTHEAREA_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SPIDERGUARD_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SPIDERQUEEN_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SPIDERSNEST_FLAVOR",
-    "Text": "C_SPIDERSNEST_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_STUART_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_THECLOAKEDSTRANGER_FLAVOR",
-    "Text": "C_THECLOAKEDSTRANGER_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_UNDERTHESHADOW_FLAVOR",
-    "Text": "C_UNDERTHESHADOW_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_UNDERTHEWATCHFULEYE_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_UNGOLIANTSBROOD_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_UNGOLIANTSSPAWN_FLAVOR",
-    "Text": "C_UNGOLIANTSSPAWN_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_UNWAVERING_FLAVOR",
-    "Text": "C_UNWAVERING_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_VETERANPATROL_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_VICIOUSSPEED_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_VILESPAWN_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_WARGRIDERS_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_WARGS_FLAVOR",
-    "Text": "C_WARGS_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_WATCHERSINTHEDARK_FLAVOR",
-    "Text": "C_WATCHERSINTHEDARK_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_WATCHFULEYES_FLAVOR",
-    "Text": "C_WATCHFULEYES_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_WATCHFULSCOUT_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_CREATUREOFDARKNESS_FLAVOR",
-    "Text": "C_CREATUREOFDARKNESS_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RAPIDS_FLAVOR",
-    "Text": "C_RAPIDS_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RAPIDS_TITLE",
-    "Text": "Rapids",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RAPIDS_TEXT",
-    "Text": "At end of round: A random player takes 2 damage.",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ROCKS!_FLAVOR",
-    "Text": "C_ROCKS!_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ROCKS!_TITLE",
-    "Text": "Rocks!",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ROCKS!_TEXT",
-    "Text": "At end of round: Threat increases by 2",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SWIRLINGEDDY_FLAVOR",
-    "Text": "C_SWIRLINGEDDY_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SWIRLINGEDDY_TITLE",
-    "Text": "Swirling Eddy",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SWIRLINGEDDY_TEXT",
-    "Text": "At end of round: Discard a random card from your deck",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_LEFTRIVERFORK_FLAVOR",
-    "Text": "C_LEFTRIVERFORK_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_LEFTRIVERFORK_TITLE",
-    "Text": "Left River Fork",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_LEFTRIVERFORK_TEXT",
-    "Text": "Allows travel to: Treacherous Shortcut",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RIGHTRIVERFORK_FLAVOR",
-    "Text": "C_RIGHTRIVERFORK_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RIGHTRIVERFORK_TITLE",
-    "Text": "Right River Fork",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RIGHTRIVERFORK_TEXT",
-    "Text": "Allows travel to: Gentle Waters",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RIVERCHANNEL_FLAVOR",
-    "Text": "C_RIVERCHANNEL_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RIVERCHANNEL_TITLE",
-    "Text": "River Channel",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RIVERCHANNEL_TEXT",
-    "Text": "Allows travel to: Ambush On The Shore",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RIVERBEND_FLAVOR",
-    "Text": "C_RIVERBEND_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RIVERBEND_TITLE",
-    "Text": "River Bend",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RIVERBEND_TEXT",
-    "Text": "Allows travel to: Ambush On The Shore",
-    "Text_CN": ""
   }
 ]
