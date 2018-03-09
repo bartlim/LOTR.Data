@@ -4121,7 +4121,7 @@
   },
   {
     "Id": "C_INVESTIGATESMOKE_TEXT",
-    "Text": "Travel immediately to \n<i>Abandoned Village</i>",
+    "Text": "Travel immediately to <i>Abandoned Village</i>",
     "Text_CN": "结算：立刻前往废弃村庄。"
   },
   {
@@ -6566,6 +6566,11 @@
   },
   {
     "Id": "C_HIVEGUARDIAN_FLAVOR",
+    "Text": "",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_INVESTIGATESMOKE_FLAVOR",
     "Text": "",
     "Text_CN": ""
   }
