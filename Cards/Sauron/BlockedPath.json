@@ -4,7 +4,7 @@
     "Owner": "Sauron",
     "CardType": 6,
     "ShopType": "Starter",
-    "Cost": 1,
+    "Cost": 2,
     "QuestPoints": 4,
     "Attack": 0,
     "Willpower": 0,
@@ -20,12 +20,12 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "\"My cuts, short or long, don't go wrong.\" \n\n–Strider, <i>The Fellowship of the Ring</i>",
+    "FlavorText": "\"My cuts, short or long, don't go wrong.\" \n–Strider, <i>The Fellowship of the Ring</i>",
     "ArtistName": "Ben Zweifel",
     "Status": "Ready",
-    "ArtworkMD5": "fa043f602c7fb32421ec4105232394c5",
+    "ArtworkMD5": null,
     "BannerMD5": null,
-    "IconMD5": "1ca4bb62ae2b82ac828ff78ebe1ccbf1"
+    "IconMD5": null
   },
   "Localization": {
     "Title": "Blocked Path",
