@@ -12,7 +12,7 @@
           "ArtSprite": "Sprites/Quest/quest_1",
           "VictoryVoice": "Q1_Victory",
           "DefeatVoice": "Q1_Defeat",
-          "ResolutionArtSprite": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "ForestGate",
@@ -236,7 +236,7 @@
           "ArtSprite": "Sprites/Quest/quest_2",
           "VictoryVoice": "Q2_Victory",
           "DefeatVoice": "Q1_Defeat",
-          "ResolutionArtSprite": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest2_Resolution",
           "Stages": [
             {
               "Id": "DarkForest",
@@ -433,7 +433,7 @@
           "ArtSprite": "Sprites/Quest/quest_3",
           "VictoryVoice": "Q3_Victory",
           "DefeatVoice": "Q1_Defeat",
-          "ResolutionArtSprite": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest3_Resolution",
           "Stages": [
             {
               "Id": "MirkwoodForest",
@@ -714,7 +714,7 @@
           "ArtSprite": "Sprites/Quest/quest_4",
           "VictoryVoice": "Q4_Victory",
           "DefeatVoice": "Q4_Defeat",
-          "ResolutionArtSprite": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest4_Resolution",
           "Stages": [
             {
               "Id": "ToTheRiver",
@@ -942,7 +942,7 @@
           "ArtSprite": "Sprites/Quest/quest_5",
           "VictoryVoice": "Q5_Victory",
           "DefeatVoice": "Q5_Defeat",
-          "ResolutionArtSprite": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest5_Resolution",
           "Stages": [
             {
               "Id": "SearchingForGrimbeorn",
