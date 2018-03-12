@@ -5,14 +5,7 @@
       "Id": null,
       "DeckList": [
         {
-          "Id": "AnduinTrollSpawn",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "BlockedPath",
+          "Id": "WatchersintheDark",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -26,119 +19,7 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "GoblinSniper",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "GreedyFingers",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "HillTroll",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "EvilStorm",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "MuckAdder",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "PackOfWargs",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "SquashedIntoJelly",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "SpookedHorses",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Tribulation",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Wargs",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Hummerhorns",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "MirkwoodFlock",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "GrowingDarkness",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "UnderTheWatchfulEye",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "LowOnSupplies",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Sacked",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "LostInTheWilderness",
+          "Id": "BlockedPath",
           "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -146,6 +27,13 @@
         },
         {
           "Id": "CreatureOfDarkness",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "DarkSorcery",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -166,13 +54,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "Exhaustion",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "EyesOfTheForest",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -187,6 +68,20 @@
           "MaxDifficulty": 4
         },
         {
+          "Id": "GrowingDarkness",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "MirkwoodFlock",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
           "Id": "PursuedByShadow",
           "Quantity": 1,
           "MinThreatLevel": 0,
@@ -194,7 +89,14 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "TheNecromancersReach",
+          "Id": "SpiesofShadow",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "SpookedHorses",
           "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -236,22 +138,113 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "WatchersintheDark",
-          "Quantity": 3,
+          "Id": "EvilStorm",
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
-          "Id": "SpiesofShadow",
+          "Id": "GreedyFingers",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "Hummerhorns",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "LowOnSupplies",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "MuckAdder",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
-          "Id": "DarkSorcery",
+          "Id": "Sacked",
           "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "Tribulation",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "UnderTheWatchfulEye",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "AnduinTrollSpawn",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "Exhaustion",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "GoblinSniper",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "HillTroll",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "SquashedIntoJelly",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "TheNecromancersReach",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "Wargs",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "PackOfWargs",
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -305,9 +298,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180307064729297",
+  "Version": "20180312075859476",
   "Key": "MainQuest",
   "SubKey": "ConflictAtTheCarrock",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180307064729297"
+  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180312075859476"
 }
