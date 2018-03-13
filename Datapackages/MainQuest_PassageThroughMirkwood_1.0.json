@@ -307,9 +307,9 @@
         "SoloGameSetup": [
           "FindThePath",
           "RangerProvisions",
-          "KingSpider",
-          "KingSpider",
-          "SpidersOfMirkwood"
+          "ForestSpider",
+          "HatchlingSpider",
+          "HatchlingSpider"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -333,9 +333,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180313203132717",
+  "Version": "20180313203330057",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180313203132717"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180313203330057"
 }
