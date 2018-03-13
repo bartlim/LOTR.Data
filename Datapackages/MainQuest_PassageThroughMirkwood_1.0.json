@@ -291,9 +291,10 @@
         "Title": "StandAndFight",
         "SoloGameSetup": [
           "WatchfulScout",
-          "EastBightPatrol",
-          "EastBightPatrol",
-          "DolGuldurOrcs"
+          "SpiderGuard",
+          "ForestSpider",
+          "SpidersofMirkwood",
+          "SpiderGuard"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -332,9 +333,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180312075840085",
+  "Version": "20180313203132717",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180312075840085"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180313203132717"
 }
