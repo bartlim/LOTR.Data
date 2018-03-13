@@ -48,9 +48,10 @@
               "IntroSprite": "Sprites/Locations/Quest1_Stage03A",
               "SoloGameSetup": [
                 "WatchfulScout",
-                "EastBightPatrol",
-                "EastBightPatrol",
-                "DolGuldurOrcs"
+                "SpiderGuard",
+                "ForestSpider",
+                "SpidersofMirkwood",
+                "SpiderGuard"
               ],
               "NextStageId": "TheEnchantedStream",
               "BGM": "mus_cave"
@@ -63,9 +64,9 @@
               "SoloGameSetup": [
                 "FindThePath",
                 "RangerProvisions",
-                "KingSpider",
-                "KingSpider",
-                "SpidersOfMirkwood"
+                "ForestSpider",
+                "HatchlingSpider",
+                "HatchlingSpider"
               ],
               "NextStageId": "TheEnchantedStream",
               "BGM": "mus_mirkwood"
