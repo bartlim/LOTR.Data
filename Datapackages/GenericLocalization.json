@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -2015,6 +2015,11 @@
     "Text_CN": "您的分数"
   },
   {
+    "Id": "U_QUEST_SCORE_BONUS_REWARDS",
+    "Text": "BONUS REWARDS",
+    "Text_CN": "额外奖励"
+  },
+  {
     "Id": "U_QUEST_SCORE_THREAT_LEVEL",
     "Text": "Final Threat Level",
     "Text_CN": "最终的威胁值"
@@ -2041,8 +2046,13 @@
   },
   {
     "Id": "U_QUEST_SCORE_TOTAL",
-    "Text": "Total",
+    "Text": "Final Score",
     "Text_CN": "总计"
+  },
+  {
+    "Id": "U_QUEST_SCORE_TOP_SCORE",
+    "Text": "Top Score",
+    "Text_CN": "最高记录"
   },
   {
     "Id": "U_QUEST_SCORE_REWARDS",
@@ -2058,6 +2068,16 @@
     "Id": "U_QUEST_SCORE_VICTORY",
     "Text": "VICTORY",
     "Text_CN": "胜利"
+  },
+  {
+    "Id": "U_QUEST_SCORE_EXPLAIN_1",
+    "Text": "Your final score determines whether any Bonus Rewards are granted for this Quest. A Hero can gain each reward only once per Quest.",
+    "Text_CN": "您的最终分数决定了您在这次冒险中是否能获得额外的奖励。每个英雄在每个冒险中只能获得一次。"
+  },
+  {
+    "Id": "U_QUEST_SCORE_EXPLAIN_2",
+    "Text": "If you didn't earn any rewards this time, you can try again until you do!",
+    "Text_CN": "如果这次没有获得额外奖励，下次再尝试一下吧！"
   },
   {
     "Id": "U_QUEST_SCORE_MSG_NEXT_QUEST_AVAILABLE",
@@ -3156,7 +3176,7 @@
   },
   {
     "Id": "C_AFRIENDINNEED_FLAVOR",
-    "Text": "He gave a shout and slashed at the spiders in front of him. They quickly gave way…\r\n—<i>The Hobbit</i>",
+    "Text": "He gave a shout and slashed at the spiders in front of him. They quickly gave way…\n—<i>The Hobbit</i>",
     "Text_CN": ""
   },
   {
@@ -5565,6 +5585,16 @@
     "Text_CN": "监视哨兵"
   },
   {
+    "Id": "C_SQUIRMINGCOCOON_TEXT",
+    "Text": "Recruit <i>Elven Scout</i>",
+    "Text_CN": "结算：控制精灵斥候。"
+  },
+  {
+    "Id": "C_SQUIRMINGCOCOON_TITLE",
+    "Text": "Squirming Cocoon",
+    "Text_CN": "吊茧"
+  },
+  {
     "Id": "C_WATERSOFNIMRODEL_FLAVOR",
     "Text": "For a moment Frodo stood near the brink and let the water flow over his tired feet. It was cold but its touch was clean, and as he went on and it mounted to his knees, he felt that the strain of travel and all weariness was washed from his limbs. \n<i>–The Fellowship of the Ring</i>",
     "Text_CN": ""
@@ -6628,70 +6658,5 @@
     "Id": "G_068_TERM",
     "Text": "Willpower",
     "Text_CN": "领导型"
-  },
-  {
-    "Id": "C_ELVENSCOUT_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_WATCHFULEYES_FLAVOR",
-    "Text": "C_WATCHFULEYES_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_WATCHFULSCOUT_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ACCURSEDFOREST_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_GROWINGDARKNESS_FLAVOR",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_LEFTRIVERFORK_FLAVOR",
-    "Text": "C_LEFTRIVERFORK_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RAPIDS_FLAVOR",
-    "Text": "C_RAPIDS_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RIGHTRIVERFORK_FLAVOR",
-    "Text": "C_RIGHTRIVERFORK_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RIVERCHANNEL_FLAVOR",
-    "Text": "C_RIVERCHANNEL_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SWIRLINGEDDY_FLAVOR",
-    "Text": "C_SWIRLINGEDDY_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SPIDERGUARD_FLAVOR",
-    "Text": "C_SPIDERGUARD_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_FORESTSPIDER_FLAVOR",
-    "Text": "C_FORESTSPIDER_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SPIDERSOFMIRKWOOD_FLAVOR",
-    "Text": "C_SPIDERSOFMIRKWOOD_FLAVOR",
-    "Text_CN": ""
   }
 ]
