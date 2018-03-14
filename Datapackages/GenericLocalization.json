@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -2637,6 +2637,11 @@
   {
     "Id": "U_DC_WINDOW_TITLE",
     "Text": "DAILY CHALLENGE",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_COMPLETED",
+    "Text": "COMPLETED!",
     "Text_CN": ""
   },
   {
@@ -5590,8 +5595,13 @@
     "Text_CN": "监视哨兵"
   },
   {
+    "Id": "C_SQUIRMINGCOCOON_FLAVOR",
+    "Text": "Something like a strong sticky string was against his left hand, and when he tried to move he found that his legs were already wrapped in the same stuff… \n—<i>The Hobbit</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_SQUIRMINGCOCOON_TEXT",
-    "Text": "Recruit <i>Elven Scout</i>",
+    "Text": "Rescue the captive from the spiders' thick webs!",
     "Text_CN": "结算：控制精灵斥候。"
   },
   {
@@ -6663,25 +6673,5 @@
     "Id": "G_068_TERM",
     "Text": "Willpower",
     "Text_CN": "领导型"
-  },
-  {
-    "Id": "C_SQUIRMINGCOCOON_FLAVOR",
-    "Text": "C_SQUIRMINGCOCOON_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ATEST180307_TITLE",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ATEST180307_TEXT",
-    "Text": "C_ATEST180307_TEXT",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ATEST180307_FLAVOR",
-    "Text": "C_ATEST180307_FLAVOR",
-    "Text_CN": ""
   }
 ]
