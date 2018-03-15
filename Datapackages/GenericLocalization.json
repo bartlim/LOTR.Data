@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -2385,8 +2385,18 @@
     "Text_CN": ""
   },
   {
+    "Id": "U_MP_MSG_WAITING_FOR_ACCEPT_FRIEND",
+    "Text": "Waiting for {0} to accept invitation",
+    "Text_CN": ""
+  },
+  {
     "Id": "U_MP_MSG_WAITING_FOR_JOIN",
     "Text": "Waiting for other player to join",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_MP_MSG_WAITING_FOR_JOIN_FRIEND",
+    "Text": "Waiting for {0} to join",
     "Text_CN": ""
   },
   {
@@ -6673,15 +6683,5 @@
     "Id": "G_068_TERM",
     "Text": "Willpower",
     "Text_CN": "领导型"
-  },
-  {
-    "Id": "C_FORESTSPIDER_FLAVOR",
-    "Text": "C_FORESTSPIDER_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SPIDERGUARD_FLAVOR",
-    "Text": "C_SPIDERGUARD_FLAVOR",
-    "Text_CN": ""
   }
 ]
