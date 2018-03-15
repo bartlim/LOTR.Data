@@ -1855,6 +1855,26 @@
     "Text_CN": "Steward of Gondor Avatar"
   },
   {
+    "Id": "U_SHOP_AVATAR_LEGOLAS",
+    "Text": "Legolas Avatar",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_SHOP_AVATAR_FARAMIR",
+    "Text": "Faramir Avatar",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_SHOP_AVATAR_SAM",
+    "Text": "Sam Avatar",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_SHOP_AVATAR_EOWYN",
+    "Text": "Éowyn Avatar",
+    "Text_CN": ""
+  },
+  {
     "Id": "U_SHOP_CAMPAIGN_01_DESC",
     "Text": "The first Campaign in The Lord of the Rings™: Living Card Game™.",
     "Text_CN": "The first Campaign in The Lord of the Rings™: Living Card Game™."
@@ -2217,22 +2237,22 @@
   {
     "Id": "U_QUEST_COMPLETE",
     "Text": "QUEST COMPLETE",
-    "Text_CN": ""
+    "Text_CN": "冒险完成"
   },
   {
     "Id": "U_PROLOGUE_P1",
     "Text": "PROLOGUE PART 1",
-    "Text_CN": ""
+    "Text_CN": "序章一"
   },
   {
     "Id": "U_PROLOGUE_P2",
     "Text": "PROLOGUE PART 2",
-    "Text_CN": ""
+    "Text_CN": "序章二"
   },
   {
     "Id": "U_PROLOGUE_P3",
     "Text": "PROLOGUE PART 3",
-    "Text_CN": ""
+    "Text_CN": "序章三"
   },
   {
     "Id": "U_SHOP_CB_COLLECTOR",
@@ -2277,217 +2297,222 @@
   {
     "Id": "U_FL_TAB_FRIENDS",
     "Text": "FRIENDS",
-    "Text_CN": ""
+    "Text_CN": "好友"
   },
   {
     "Id": "U_FL_TAB_RECENT",
     "Text": "RECENT",
-    "Text_CN": ""
+    "Text_CN": "最近玩伴"
   },
   {
     "Id": "U_FL_TAB_IGNORED",
     "Text": "IGNORED",
-    "Text_CN": ""
+    "Text_CN": "已忽略"
   },
   {
     "Id": "U_FL_TAB_SEARCH",
     "Text": "SEARCH",
-    "Text_CN": ""
+    "Text_CN": "搜索"
   },
   {
     "Id": "U_FL_REMOVE_FRIEND",
     "Text": "Remove Friend",
-    "Text_CN": ""
+    "Text_CN": "去除好友"
   },
   {
     "Id": "U_FL_REMOVE_IGNORED",
     "Text": "Remove Ignored",
-    "Text_CN": ""
+    "Text_CN": "去除忽略"
   },
   {
     "Id": "U_FL_INVITE_COOP",
     "Text": "Invite Co-op",
-    "Text_CN": ""
+    "Text_CN": "邀请合作"
   },
   {
     "Id": "U_FL_INVITE_COOP_SENT",
     "Text": "Invitation sent! Go to Play menu to select and start a quest!",
-    "Text_CN": ""
+    "Text_CN": "邀请已发送！去战役地图选择冒险一起出发吧！"
   },
   {
     "Id": "U_FL_ADD_FRIEND",
     "Text": "Add Friend",
-    "Text_CN": ""
+    "Text_CN": "添加好友"
   },
   {
     "Id": "U_FL_ADD_IGNORED",
     "Text": "Add Ignored",
-    "Text_CN": ""
+    "Text_CN": "添加忽略"
   },
   {
     "Id": "U_FL_FIND_PLAYER",
     "Text": "Search Player",
-    "Text_CN": ""
+    "Text_CN": "搜索玩家"
   },
   {
     "Id": "U_FL_MSG_FIND_NO_RESULT",
     "Text": "User not found",
-    "Text_CN": ""
+    "Text_CN": "用户未找到"
   },
   {
     "Id": "U_FL_MSG_ADDED_FIREND",
     "Text": "Friend Added",
-    "Text_CN": ""
+    "Text_CN": "好友已添加"
   },
   {
     "Id": "U_FL_MSG_ADDED_IGNORED",
     "Text": "Player Ignored",
-    "Text_CN": ""
+    "Text_CN": "玩家已忽略"
   },
   {
     "Id": "U_MP_TAB",
     "Text": "MULTIPLAYER",
-    "Text_CN": ""
+    "Text_CN": "多人游戏"
   },
   {
     "Id": "U_MP_TITLE",
     "Text": "CO-OP GAMES",
-    "Text_CN": ""
+    "Text_CN": "合作游戏"
   },
   {
     "Id": "U_MP_HOST",
     "Text": "Host",
-    "Text_CN": ""
+    "Text_CN": "房主"
   },
   {
     "Id": "U_MP_GUEST",
     "Text": "Guest",
-    "Text_CN": ""
+    "Text_CN": "客人"
   },
   {
     "Id": "U_MP_GUEST_READY",
     "Text": "Guest (Ready)",
-    "Text_CN": ""
+    "Text_CN": "客人（已准备）"
   },
   {
     "Id": "U_MP_GUEST_NOT_READY",
     "Text": "Guest (Not Ready)",
-    "Text_CN": ""
+    "Text_CN": "客人（未准备）"
   },
   {
     "Id": "U_MP_IM_READY",
     "Text": "I'm Ready",
-    "Text_CN": ""
+    "Text_CN": "准备好了"
+  },
+  {
+    "Id": "U_MP_READY",
+    "Text": "Ready",
+    "Text_CN": "就绪"
   },
   {
     "Id": "U_MP_MSG_WAITING_FOR_ACCEPT",
     "Text": "Waiting for other player to accept invitation",
-    "Text_CN": ""
+    "Text_CN": "等待其他玩家接受邀请"
   },
   {
     "Id": "U_MP_MSG_WAITING_FOR_ACCEPT_FRIEND",
     "Text": "Waiting for {0} to accept invitation",
-    "Text_CN": ""
+    "Text_CN": "等待{0}接受邀请"
   },
   {
     "Id": "U_MP_MSG_WAITING_FOR_JOIN",
     "Text": "Waiting for other player to join",
-    "Text_CN": ""
+    "Text_CN": "等待其他玩家加入"
   },
   {
     "Id": "U_MP_MSG_WAITING_FOR_JOIN_FRIEND",
     "Text": "Waiting for {0} to join",
-    "Text_CN": ""
+    "Text_CN": "等待{0}加入"
   },
   {
     "Id": "U_MP_START_QUEST",
     "Text": "Start Quest",
-    "Text_CN": ""
+    "Text_CN": "开始冒险"
   },
   {
     "Id": "U_MP_HOST_COOP",
     "Text": "Host Co-op",
-    "Text_CN": ""
+    "Text_CN": "开房间"
   },
   {
     "Id": "U_MP_POPUP_INVITE",
     "Text": "{0} wants to play co-op game together! \nAccept invitation?",
-    "Text_CN": ""
+    "Text_CN": "{0}想一起玩合作模式！\n接受邀请？"
   },
   {
     "Id": "U_MP_MSG_INVITATION_ACCEPTED",
     "Text": "{0} accepted your invitation, \nplease wait for him to join the room",
-    "Text_CN": ""
+    "Text_CN": "{0}接受了您的邀请\n请等待他进入房间"
   },
   {
     "Id": "U_MP_MSG_INVITATION_REJECTED",
     "Text": "{0} has rejected your invitation",
-    "Text_CN": ""
+    "Text_CN": "{0}已拒绝了您的邀请"
   },
   {
     "Id": "U_MP_MSG_ROOM_JOIN_ERROR",
     "Text": "Room not available anymore.",
-    "Text_CN": ""
+    "Text_CN": "房间已不存在"
   },
   {
     "Id": "U_MP_MSG_OTHER_PLAYER_DISCONNECT",
     "Text": "The other player has left the game.",
-    "Text_CN": ""
+    "Text_CN": "同伴已离开游戏"
   },
   {
     "Id": "U_DC_TITLE_ADVENTURER",
     "Text": "Adventurer",
-    "Text_CN": ""
+    "Text_CN": "冒险家"
   },
   {
     "Id": "U_DC_TITLE_AMBUSHER",
     "Text": "Ambusher",
-    "Text_CN": ""
+    "Text_CN": "潜伏者"
   },
   {
     "Id": "U_DC_TITLE_ARMORER",
     "Text": "Armorer",
-    "Text_CN": ""
+    "Text_CN": "盔甲狂"
   },
   {
     "Id": "U_DC_TITLE_CONFIDENT",
     "Text": "Confident",
-    "Text_CN": ""
+    "Text_CN": "自信的人"
   },
   {
     "Id": "U_DC_TITLE_DEFENDER",
     "Text": "Defender",
-    "Text_CN": ""
+    "Text_CN": "防御专家"
   },
   {
     "Id": "U_DC_TITLE_GENERAL",
     "Text": "General",
-    "Text_CN": ""
+    "Text_CN": "将军"
   },
   {
     "Id": "U_DC_TITLE_GENEROUS",
     "Text": "Generous",
-    "Text_CN": ""
+    "Text_CN": "慈善家"
   },
   {
     "Id": "U_DC_TITLE_HAMMERSMITH",
     "Text": "Hammersmith",
-    "Text_CN": ""
+    "Text_CN": "铁锤世家"
   },
   {
     "Id": "U_DC_TITLE_HELPFUL",
     "Text": "Helpful",
-    "Text_CN": ""
+    "Text_CN": "助人为乐"
   },
   {
     "Id": "U_DC_TITLE_LEADERSHIPPLAYER",
     "Text": "Leadership Player",
-    "Text_CN": ""
+    "Text_CN": "领导型玩家"
   },
   {
     "Id": "U_DC_TITLE_LEADERSHIPVICTORY",
     "Text": "Leadership Victory",
-    "Text_CN": ""
+    "Text_CN": "领导型胜利"
   },
   {
     "Id": "U_DC_TITLE_LOREPLAYER",
@@ -5876,7 +5901,7 @@
   },
   {
     "Id": "T_POPUP_9",
-    "Text": "Each round, exhausted Characters \nready; you then gain 3 Resources \nand draw 1 card",
+    "Text": "Each round, exhausted \nCharacters ready; \nyou then gain 3 Resources \nand draw 1 card",
     "Text_CN": ""
   },
   {
@@ -5891,7 +5916,7 @@
   },
   {
     "Id": "T_POPUP_11E",
-    "Text": "Some Characters have special \nabilities! Select <i>Aragorn</i> to \nuse his <b>Power</b>",
+    "Text": "Some Characters have \nspecial abilities! \nSelect <i>Aragorn</i> to \nuse his <b>Power</b>",
     "Text_CN": ""
   },
   {
@@ -5946,7 +5971,7 @@
   },
   {
     "Id": "T_POPUP_23D",
-    "Text": "You have freed the cloaked stranger: \n<i>Arwen, Elrond</i>'s daughter! \nSelect TRAVEL to continue your journey",
+    "Text": "You have freed the \ncloaked stranger: <i>Arwen, \nElrond</i>'s daughter! \nSelect <b>Travel</b> to continue \nyour journey",
     "Text_CN": ""
   },
   {
