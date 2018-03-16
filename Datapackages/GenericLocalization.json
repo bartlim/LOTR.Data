@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -3195,6 +3195,11 @@
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
   {
+    "Id": "C_ACCURSEDFOREST_FLAVOR",
+    "Text": "Two days later they found their path going downwards and before long they were in a valley filled almost entirely with a mighty growth of oaks. \"Is there no end to this accursed forest?\" said Thorin. \n—<i>The Hobbit</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_ACCURSEDFOREST_TEXT",
     "Text": "<b>Upkeep:</b> Discard the top 3 cards from each player's deck until this is resolved",
     "Text_CN": "休整：弃置每名玩家牌堆顶端的3张卡牌。"
@@ -3250,6 +3255,11 @@
     "Text_CN": "对抗阴影"
   },
   {
+    "Id": "C_AGENTOFSAURON_FLAVOR",
+    "Text": "\"I do not know for what reason the Enemy is pursuing you,\" answered Gildor; \"but I perceive that he is — strange indeed though that seems to me. And I warn you that peril is now both before you and behind you, and upon either side.\" \n—<i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_AGENTOFSAURON_TEXT",
     "Text": "<b>Fleeting. Stalwart. Surge</b>",
     "Text_CN": ""
@@ -3257,6 +3267,11 @@
   {
     "Id": "C_AGENTOFSAURON_TITLE",
     "Text": "‰Agent of Sauron",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_AMBUSHONTHESHORE_FLAVOR",
+    "Text": "There seemed no chance of reaching the Ford before he was cut off by the others that had lain in ambush. \n—<i>The Fellowship of the Ring</i>",
     "Text_CN": ""
   },
   {
@@ -3268,6 +3283,11 @@
     "Id": "C_AMBUSHONTHESHORE_TITLE",
     "Text": "Ambush on the Shore",
     "Text_CN": "岸边的伏击"
+  },
+  {
+    "Id": "C_ANDUINTROLLSPAWN_FLAVOR",
+    "Text": "Trolls are slow in the uptake, and mighty suspicious about anything new to them. \n—<i>The Hobbit</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_ANDUINTROLLSPAWN_TEXT",
@@ -3410,6 +3430,11 @@
     "Text_CN": "‰小马比尔"
   },
   {
+    "Id": "C_BLACKBLOOD_FLAVOR",
+    "Text": "Then Pippin stabbed upwards, and the written blade of Westernesse pierced through the hide and went deep into the vitals of the troll, and his black blood came gushing out. \n—<i>The Return of the King</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_BLACKBLOOD_TEXT",
     "Text": "Restore 2 Health to each Troll",
     "Text_CN": "每名巨魔敌人治愈2点伤害。"
@@ -3463,6 +3488,11 @@
     "Id": "C_BLOCKEDPATH_TITLE",
     "Text": "Blocked Path",
     "Text_CN": "断路"
+  },
+  {
+    "Id": "C_BOARDTHERAFT_FLAVOR",
+    "Text": "The current was swift and they went forward slowly. Sam sat in the bows, clutching the sides, and looking back wistfully to the shore. \n—<i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_BOARDTHERAFT_TEXT",
@@ -3520,6 +3550,11 @@
     "Text_CN": "0"
   },
   {
+    "Id": "C_CAUGHTINAWEB_FLAVOR",
+    "Text": "He could only see the thing's eyes, but he could feel its hairy legs as it struggled to wind its abominable threads round and round him. \n—<i>The Hobbit</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_CAUGHTINAWEB_TEXT",
     "Text": "A random Ally is trapped in a <i>Cocoon</i>",
     "Text_CN": "你的一位队友被蛛网茧困住了。"
@@ -3528,6 +3563,11 @@
     "Id": "C_CAUGHTINAWEB_TITLE",
     "Text": "Caught in a Web",
     "Text_CN": "落入网中"
+  },
+  {
+    "Id": "C_CHIEFTAINUFTHAK_FLAVOR",
+    "Text": "\"D'you remember old Ufthak? We lost him for days. Then we found him in a corner; hanging up he was, but he was wide awake and glaring.\" \n—Shagrat, <i>The Two Towers</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_CHIEFTAINUFTHAK_TEXT",
@@ -3540,6 +3580,11 @@
     "Text_CN": "‰乌夫沙克酋长"
   },
   {
+    "Id": "C_CLIMBTHEHILL_FLAVOR",
+    "Text": "There was a hill some way off with trees on it, pretty thick in parts. \n—<i>The Hobbit</i>\\r",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_CLIMBTHEHILL_TEXT",
     "Text": "Travel immediately to \n<i>Bare Hilltop</i>",
     "Text_CN": ""
@@ -3548,6 +3593,11 @@
     "Id": "C_CLIMBTHEHILL_TITLE",
     "Text": "Climb the Hill",
     "Text_CN": "登上山顶"
+  },
+  {
+    "Id": "C_COCOON_FLAVOR",
+    "Text": "He managed by leaning over to cut most of the strong sticky threads that bound him round, and then, sure enough, with a kick and a struggle most of Fili emerged. \n—<i>The Hobbit</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_COCOON_TEXT",
@@ -3560,6 +3610,11 @@
     "Text_CN": "蛛网茧"
   },
   {
+    "Id": "C_CONTINUEDOWNSTREAM_FLAVOR",
+    "Text": "The dale ran like a stony trough between the ridged hills, and a trickling stream flowed among the boulders at the bottom. \n—<i>The Two Towers</i>\\r",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_CONTINUEDOWNSTREAM_TEXT",
     "Text": "Travel immediately to <i>Mirkwood Swamp</i>",
     "Text_CN": "结算：立刻前往幽暗密林沼泽。"
@@ -3568,6 +3623,11 @@
     "Id": "C_CONTINUEDOWNSTREAM_TITLE",
     "Text": "Continue Downstream",
     "Text_CN": "顺流而下"
+  },
+  {
+    "Id": "C_CREATUREOFDARKNESS_FLAVOR",
+    "Text": "…two pale lamplike eyes shone coldly as they peered inside, and then they lifted and gazed up at Frodo on the eyot. They were not more than a yard or two away, and Frodo heard the soft hiss of intaken breath. \n—<i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_CREATUREOFDARKNESS_TEXT",
@@ -3580,6 +3640,11 @@
     "Text_CN": "黑暗生物"
   },
   {
+    "Id": "C_DARKSORCERY_FLAVOR",
+    "Text": "…because of his cunning he grew ever higher in the Lord's favour; and he learned great sorcery, and knew much of the mind of Sauron; and he was more cruel than any orc. \n—<i>The Return of the King</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_DARKSORCERY_TEXT",
     "Text": "Cancel the next Event played",
     "Text_CN": "蓄势：取消玩家打出的下一张事件牌的效果。"
@@ -3590,6 +3655,11 @@
     "Text_CN": "黑暗巫术"
   },
   {
+    "Id": "C_DELAYUNTILDAWN_FLAVOR",
+    "Text": "And there they stand to this day, all alone, unless the birds perch on them; for trolls, as you probably know, must be underground before dawn, or they go back to the stuff of the mountains they are made of, and never move again. \n—<i>The Hobbit</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_DELAYUNTILDAWN_TEXT",
     "Text": "Dawn breaks and turns\nthe Trolls to stone!",
     "Text_CN": ""
@@ -3597,6 +3667,11 @@
   {
     "Id": "C_DELAYUNTILDAWN_TITLE",
     "Text": "Delay until Dawn",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_DESPAIR_FLAVOR",
+    "Text": "\"Yet now under the Lord of Barad-dûr the most fell of all his captains is already master of your outer walls,\" said Gandalf. \"King of Angmar long ago, Sorcerer, Ringwraith, Lord of the Nazgûl, a spear of terror in the hand of Sauron, shadow of despair.\" \n—<i>The Return of the King</i>",
     "Text_CN": ""
   },
   {
@@ -3610,6 +3685,11 @@
     "Text_CN": "绝望"
   },
   {
+    "Id": "C_DOLGULDURORCS_FLAVOR",
+    "Text": "\"In the midst upon a stony height stands Dol Guldur, where long the hidden Enemy had his dwelling. We fear that now it is inhabited again, and with power sevenfold.\" \n—Haldir, <i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_DOLGULDURORCS_TEXT",
     "Text": "<b>Guard</b>",
     "Text_CN": "哨兵。"
@@ -3618,6 +3698,11 @@
     "Id": "C_DOLGULDURORCS_TITLE",
     "Text": "Dol Guldur Orcs",
     "Text_CN": "多尔哥多兽人"
+  },
+  {
+    "Id": "C_DRIVENBYSHADOW_FLAVOR",
+    "Text": "\"They themselves do not see the world of light as we do, but our shapes cast shadows in their minds, which only the noon sun destroys; and in the dark they perceive many signs and forms that are hidden from us: then they are most to be feared.\" \n—Aragorn, <i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_DRIVENBYSHADOW_TEXT",
@@ -3630,6 +3715,11 @@
     "Text_CN": "阴影驱策"
   },
   {
+    "Id": "C_EASTBIGHTPATROL_FLAVOR",
+    "Text": "\"…to the east the lands are waste, and full of Sauron's creatures…\" \n—Haldir, <i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_EASTBIGHTPATROL_TEXT",
     "Text": "",
     "Text_CN": ""
@@ -3638,6 +3728,11 @@
     "Id": "C_EASTBIGHTPATROL_TITLE",
     "Text": "East Bight Patrol",
     "Text_CN": "东口巡逻队"
+  },
+  {
+    "Id": "C_ELITEDOLGULDURORCS_FLAVOR",
+    "Text": "\"…we dared not continue the hunt; for we were drawing nigh to Dol Guldur, and that is still a very evil place; we do not go that way.\" \n—Legolas, <i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_ELITEDOLGULDURORCS_TEXT",
@@ -3690,6 +3785,11 @@
     "Text_CN": "精灵斥候"
   },
   {
+    "Id": "C_ENFEEBLED_FLAVOR",
+    "Text": "The light was nearly gone, and they were all exhausted, when at last they reached the top. \n—<i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_ENFEEBLED_TEXT",
     "Text": "Deal 1 damage to each \nexhausted Character",
     "Text_CN": "对玩家的每位行动完毕的人物造成1点伤害。"
@@ -3727,6 +3827,11 @@
   {
     "Id": "C_ERKENBRAND_TITLE",
     "Text": "‰Erkenbrand  ",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_ESCAPETHEFOREST_FLAVOR",
+    "Text": "They had escaped the dungeons of the king and were through the wood…\" \n—<i>The Hobbit</i>",
     "Text_CN": ""
   },
   {
@@ -3800,6 +3905,11 @@
     "Text_CN": "邪恶风暴"
   },
   {
+    "Id": "C_EXHAUSTION_FLAVOR",
+    "Text": "…he realized that he was weary, weary almost to exhaustion: his legs would not carry him as he wished. \n—<i>The Return of the King</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_EXHAUSTION_TEXT",
     "Text": "Exhaust all wounded Characters",
     "Text_CN": "令玩家的所有受伤的人物进入行动完毕状态。"
@@ -3808,6 +3918,11 @@
     "Id": "C_EXHAUSTION_TITLE",
     "Text": "Exhaustion",
     "Text_CN": "筋疲力尽"
+  },
+  {
+    "Id": "C_EXPLORETHECAVE_FLAVOR",
+    "Text": "There was a cave or rock-chamber behind, but in the gloom inside nothing could be seen. \n—<i>The Fellowship of the Ring</i>\\r",
+    "Text_CN": ""
   },
   {
     "Id": "C_EXPLORETHECAVE_TEXT",
@@ -3880,6 +3995,11 @@
     "Text_CN": "佯攻"
   },
   {
+    "Id": "C_FINDSAFEPASSAGE_FLAVOR",
+    "Text": "They found a passage between two hills that led them into a valley running south-east, the direction that they wished to take…\n—<i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_FINDSAFEPASSAGE_TEXT",
     "Text": "You may travel from this Location",
     "Text_CN": "结算：允许离开这一场景。"
@@ -3920,6 +4040,11 @@
     "Text_CN": "寻找路径"
   },
   {
+    "Id": "C_FINDYOURBEARINGS_FLAVOR",
+    "Text": "\"The forest goes on for ever and ever and ever in all directions! Whatever shall we do?\" \n—Thorin and Company, <i>The Hobbit</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_FINDYOURBEARINGS_TEXT",
     "Text": "The captured cards return to their owner's hand",
     "Text_CN": "结算：被扣押的卡牌返回所有者的手中。"
@@ -3943,6 +4068,11 @@
     "Id": "C_FINDYOURFRIENDS_TITLE",
     "Text": "Find Your Friends",
     "Text_CN": "寻找朋友"
+  },
+  {
+    "Id": "C_FOLLOWGRIMBEORNSTRAIL_FLAVOR",
+    "Text": "\"…if it were not for the Beornings, the passage from Dale to Rivendell would long ago have become impossible.\"\n—Glóin, <i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_FOLLOWGRIMBEORNSTRAIL_TEXT",
@@ -3993,6 +4123,11 @@
     "Id": "C_FORESTSNARE_TITLE",
     "Text": "Forest Snare",
     "Text_CN": "林中陷阱"
+  },
+  {
+    "Id": "C_FORESTSPIDER_FLAVOR",
+    "Text": "The idea came to him to lead the furious spiders further and further away from the dwarves, if he could; to make them curious, excited and angry all at once.\n—<i>The Hobbit</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_FORESTSPIDER_TEXT",
@@ -4100,6 +4235,11 @@
     "Text_CN": "0"
   },
   {
+    "Id": "C_GATHERINGGLOOM_FLAVOR",
+    "Text": "He looked at the great walls, and the towers and brave banners, and the sun in the high sky, and then at the gathering gloom in the East; and he thought of the long fingers of that Shadow…\n—<i>The Return of the King</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_GATHERINGGLOOM_TEXT",
     "Text": "Reduce each Ally to \n0 Willpower this round",
     "Text_CN": ""
@@ -4123,6 +4263,11 @@
     "Id": "C_GHANBURIGHAN_TITLE",
     "Text": "‰Ghân-buri-Ghân",
     "Text_CN": "‰悍-不里-悍"
+  },
+  {
+    "Id": "C_GIANTBEETLE_FLAVOR",
+    "Text": "…there were murmured hints of creatures more terrible than all these, but they had no name.\n—<i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_GIANTBEETLE_TEXT",
@@ -4150,6 +4295,11 @@
     "Text_CN": "‰巨型沼泽蠕虫"
   },
   {
+    "Id": "C_GIANTSPIDER_FLAVOR",
+    "Text": "Somehow the killing of the giant spider, all alone by himself in the dark without the help of the wizard or the dwarves or of anyone else, made a great difference to Mr. Baggins.\n—<i>The Hobbit</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_GIANTSPIDER_TEXT",
     "Text": "<b>Guard</b>",
     "Text_CN": "哨兵。"
@@ -4172,6 +4322,11 @@
   {
     "Id": "C_GIMLI_TITLE",
     "Text": "‰Gimli   ",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_GOBLINSNIPER_FLAVOR",
+    "Text": "Out of the darkness arrows whistled.\n—<i>The Two Towers</i>",
     "Text_CN": ""
   },
   {
@@ -4200,6 +4355,11 @@
     "Text_CN": "刚铎之盾"
   },
   {
+    "Id": "C_GREEDYFINGERS_FLAVOR",
+    "Text": "…his sword was still in his hand, but it was broken near the hilt…\n—<i>The Two Towers</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_GREEDYFINGERS_TEXT",
     "Text": "Discard a random Hero's Attachment",
     "Text_CN": "摧毁一位英雄的一件随机装备。"
@@ -4217,6 +4377,11 @@
   {
     "Id": "C_GRIMBEORN_TITLE",
     "Text": "Grimbeorn",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_GROWINGDARKNESS_FLAVOR",
+    "Text": "The rising sun was hazy, and behind it, following it slowly up the sky, there was a growing darkness, as of a great storm moving out of the East.\n—<i>The Two Towers</i>",
     "Text_CN": ""
   },
   {
@@ -4275,6 +4440,11 @@
     "Text_CN": "0"
   },
   {
+    "Id": "C_HATCHLINGSPIDER_FLAVOR",
+    "Text": "Practically all the spiders in the place came after him: some dropped to the ground, others raced along the branches, swung from tree to tree, or cast new ropes across the dark spaces.\n—<i>The Hobbit</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_HATCHLINGSPIDER_TEXT",
     "Text": "",
     "Text_CN": ""
@@ -4300,6 +4470,11 @@
     "Text_CN": "隐秘储藏点"
   },
   {
+    "Id": "C_HIDDENPATH_FLAVOR",
+    "Text": "Still round the corner there may wait \n A new road or a secret gate; \n And though I oft have passed them by, \n A day will come at last when I \n Shall take the hidden paths that run \n West of the Moon, East of the Sun\n—Frodo, <i>The Return of the King</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_HIDDENPATH_TEXT",
     "Text": "You may travel from this Location",
     "Text_CN": "结算：允许离开这一场景。"
@@ -4323,6 +4498,11 @@
     "Id": "C_HILLTROLL_TITLE",
     "Text": "Hill Troll",
     "Text_CN": "山区巨魔"
+  },
+  {
+    "Id": "C_HIVEGUARDIAN_FLAVOR",
+    "Text": "Suddenly he saw, too, that there were spiders huge and horrible sitting in the branches above him, and ring or no ring he trembled with fear lest they should discover him.\n—<i>The Hobbit</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_HIVEGUARDIAN_TEXT",
@@ -4365,6 +4545,11 @@
     "Text_CN": "治愈小屋"
   },
   {
+    "Id": "C_HUMMERHORNS_FLAVOR",
+    "Text": "\"Perhaps under the shadow of the Unnamed some of the beasts of Mirkwood are wandering hither to our woods.\"\n—Anborn, <i>The Two Towers</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_HUMMERHORNS_TEXT",
     "Text": "End of round: Add 1 <i>Hummerhorns</i>",
     "Text_CN": ""
@@ -4373,6 +4558,11 @@
     "Id": "C_HUMMERHORNS_TITLE",
     "Text": "Hummerhorns",
     "Text_CN": "号角蜂"
+  },
+  {
+    "Id": "C_HUNTED_FLAVOR",
+    "Text": "Another long screech rose and fell, and he threw himself back again from the wall, panting like a hunted animal.\n—<i>The Return of the King</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_HUNTED_TEXT",
@@ -4398,6 +4588,11 @@
     "Id": "C_IMLADRISCAREGIVER_TITLE",
     "Text": "Imladris Caregiver",
     "Text_CN": "伊姆拉崔医师"
+  },
+  {
+    "Id": "C_INVESTIGATESMOKE_FLAVOR",
+    "Text": "Far behind them a dark smoke rose in thin curling threads.\n—<i>The Two Towers</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_INVESTIGATESMOKE_TEXT",
@@ -4450,6 +4645,11 @@
     "Text_CN": "王叶草"
   },
   {
+    "Id": "C_KINGSPIDER_FLAVOR",
+    "Text": "Then the great spider, who had been busy tying him up while he dozed, came from behind him and came at him.\n—<i>The Hobbit</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_KINGSPIDER_TEXT",
     "Text": "",
     "Text_CN": ""
@@ -4458,6 +4658,11 @@
     "Id": "C_KINGSPIDER_TITLE",
     "Text": "King Spider",
     "Text_CN": "国王蛛"
+  },
+  {
+    "Id": "C_LEFTRIVERFORK_FLAVOR",
+    "Text": "C_LEFTRIVERFORK_FLAVOR",
+    "Text_CN": ""
   },
   {
     "Id": "C_LEFTRIVERFORK_TEXT",
@@ -4530,6 +4735,11 @@
     "Text_CN": "罗瑞恩的财富"
   },
   {
+    "Id": "C_LOSTINTHEWILDERNESS_FLAVOR",
+    "Text": "\"What have we done, O king?\" said Balin, who was the eldest left. \"Is it a crime to be lost in the forest, to be hungry and thirsty…?\"\n—<i>The Hobbit</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_LOSTINTHEWILDERNESS_TEXT",
     "Text": "Capture 2 random cards from each player's hand",
     "Text_CN": "从每名玩家手中随机扣押2张卡牌。"
@@ -4540,6 +4750,11 @@
     "Text_CN": "迷失于荒野"
   },
   {
+    "Id": "C_LOUIS_FLAVOR",
+    "Text": "But they were trolls. Obviously trolls. Even Bilbo, in spite of his sheltered life, could see that: from the great heavy faces of them, and their size, and the shape of their legs, not to mention their language, which was not drawing-room fashion at all, at all.\n—<i>The Hobbit</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_LOUIS_TEXT",
     "Text": "Each Troll gains <b>Stalwart</b>",
     "Text_CN": "每名巨魔敌人均获得关键词『强壮』。"
@@ -4548,6 +4763,11 @@
     "Id": "C_LOUIS_TITLE",
     "Text": "‰Louis",
     "Text_CN": "‰路易斯"
+  },
+  {
+    "Id": "C_LOWONSUPPLIES_FLAVOR",
+    "Text": "There they sat and made such a meal as they could.\n—<i>The Return of the King</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_LOWONSUPPLIES_TEXT",
@@ -4590,6 +4810,11 @@
     "Text_CN": "‰沼泽蝰蛇"
   },
   {
+    "Id": "C_MIRKWOODFLOCK_FLAVOR",
+    "Text": "Flocks of birds, flying at great speed, were wheeling and circling, and traversing all the land as if they were searching for something; and they were steadily drawing nearer.\n—<i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_MIRKWOODFLOCK_TEXT",
     "Text": "<b>Revenge:</b> Sauron gains \n+1 Resource",
     "Text_CN": ""
@@ -4598,6 +4823,11 @@
     "Id": "C_MIRKWOODFLOCK_TITLE",
     "Text": "Mirkwood Flock",
     "Text_CN": "幽暗密林兽群"
+  },
+  {
+    "Id": "C_MIRKWOODPATROL_FLAVOR",
+    "Text": "…the goblin patrols were still hunting with Wargs for the dwarves, and they were fiercely angry because of the death of the Great Goblin…\n—<i>The Hobbit</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_MIRKWOODPATROL_TEXT",
@@ -4625,6 +4855,11 @@
     "Text_CN": "米斯兰达的建议"
   },
   {
+    "Id": "C_MORRIS_FLAVOR",
+    "Text": "C_MORRIS_FLAVOR",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_MORRIS_TEXT",
     "Text": "Each Troll gains <b>Block</b>",
     "Text_CN": "每名巨魔均获得关键词『格挡』。"
@@ -4635,6 +4870,11 @@
     "Text_CN": "‰莫里斯"
   },
   {
+    "Id": "C_MUCKADDER_FLAVOR",
+    "Text": "C_MUCKADDER_FLAVOR",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_MUCKADDER_TEXT",
     "Text": "<b>Ambush.</b> <i>Muck Adder</i> attacks\n the Character with the lowest current Health",
     "Text_CN": "先攻。淤泥蝰蛇会攻击玩家手中当前生命值最低的人物。"
@@ -4643,6 +4883,11 @@
     "Id": "C_MUCKADDER_TITLE",
     "Text": "Muck Adder",
     "Text_CN": "淤泥蝰蛇"
+  },
+  {
+    "Id": "C_NAVIGATETHERIVER_FLAVOR",
+    "Text": "\"Boats may make your journey less toilsome for a while. Yet they will not give you counsel: in the end you must leave them and the River…\" \n—Celeborn, <i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_NAVIGATETHERIVER_TEXT",
@@ -4665,6 +4910,11 @@
     "Text_CN": "兽人野兽领主"
   },
   {
+    "Id": "C_ORCHOUND_FLAVOR",
+    "Text": "\"Listen, Hound of Sauron!\" he cried. \"Gandalf is here. Fly, if you value your foul skin! I will shrivel you from tail to snout, if you come within this ring.\"\n—<i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_ORCHOUND_TEXT",
     "Text": "<b>Pursuit.</b> Each Orc gains <b>Pursuit</b>",
     "Text_CN": "追逐。所有兽人获得关键词『追逐』。"
@@ -4675,6 +4925,11 @@
     "Text_CN": "兽人猎犬"
   },
   {
+    "Id": "C_ORCMARAUDER_FLAVOR",
+    "Text": "\"…the lands seemed empty of enemies; yet I feared that wolf-riders and plunderers might ride nonetheless to Meduseld, while it was undefended.\"\n—Gandalf, <i>The Two Towers</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_ORCMARAUDER_TEXT",
     "Text": "When <i>Orc Marauder</i> attacks, Sauron gains +1 Resource",
     "Text_CN": "强制：当兽人掠夺者攻击时，索隆获得1点资源。"
@@ -4683,6 +4938,11 @@
     "Id": "C_ORCMARAUDER_TITLE",
     "Text": "Orc Marauder",
     "Text_CN": "兽人掠夺者"
+  },
+  {
+    "Id": "C_PACKOFWARGS_FLAVOR",
+    "Text": "Without warning a storm of howls broke out fierce and wild all about the camp. A great host of Wargs had gathered silently and was now attacking them from every side at once.\n—<i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_PACKOFWARGS_TEXT",
@@ -4710,6 +4970,11 @@
     "Text_CN": "0"
   },
   {
+    "Id": "C_POISONEDBYSPIDERS_FLAVOR",
+    "Text": "Somehow or other Fili was got on to the branch, and then he did his best to help the hobbit, although he was feeling very sick and ill from spider-poison…\n—<i>The Hobbit</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_POISONEDBYSPIDERS_TEXT",
     "Text": "The next Character that a Spider damages but does not defeat is exhausted until after Upkeep",
     "Text_CN": "蓄势：下次有人物受到蜘蛛攻击但未被击败时，此人物在下个休整阶段前都无法重新就绪。"
@@ -4720,6 +4985,11 @@
     "Text_CN": "中蜘蛛毒"
   },
   {
+    "Id": "C_PURSUEDBYSHADOW_FLAVOR",
+    "Text": "There they lay for some time, puffing and panting…\n—<i>The Hobbit</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_PURSUEDBYSHADOW_TEXT",
     "Text": "Exhaust the next Ally that\nenters play",
     "Text_CN": "蓄势：下个进入游戏的盟友会立刻进入行动完毕状态。"
@@ -4728,6 +4998,11 @@
     "Id": "C_PURSUEDBYSHADOW_TITLE",
     "Text": "Pursued by Shadow",
     "Text_CN": "受阴影追逐"
+  },
+  {
+    "Id": "C_PURSUITONTHESHORE_FLAVOR",
+    "Text": "\"Our peril will be greatest just ere we reach the river,\" said Glorfindel; \"for my heart warns me that the pursuit is now swift behind us, and other danger may be waiting by the Ford.\"\n—<i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_PURSUITONTHESHORE_TEXT",
@@ -4845,6 +5120,11 @@
     "Text_CN": "游侠之矛"
   },
   {
+    "Id": "C_RAPIDS_FLAVOR",
+    "Text": "C_RAPIDS_FLAVOR",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_RAPIDS_TEXT",
     "Text": "End of round: Deal 2 damage\nto a random Character\nuntil this is resolved",
     "Text_CN": ""
@@ -4910,6 +5190,11 @@
     "Text_CN": "救出朋友"
   },
   {
+    "Id": "C_RIGHTRIVERFORK_FLAVOR",
+    "Text": "C_RIGHTRIVERFORK_FLAVOR",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_RIGHTRIVERFORK_TEXT",
     "Text": "You may travel to\n<i>Gentle Waters</i>",
     "Text_CN": ""
@@ -4917,6 +5202,11 @@
   {
     "Id": "C_RIGHTRIVERFORK_TITLE",
     "Text": "Right River Fork",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_RIVERBEND_FLAVOR",
+    "Text": "C_RIVERBEND_FLAVOR",
     "Text_CN": ""
   },
   {
@@ -4930,6 +5220,11 @@
     "Text_CN": ""
   },
   {
+    "Id": "C_RIVERCHANNEL_FLAVOR",
+    "Text": "C_RIVERCHANNEL_FLAVOR",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_RIVERCHANNEL_TEXT",
     "Text": "You may travel from this Location",
     "Text_CN": ""
@@ -4937,6 +5232,11 @@
   {
     "Id": "C_RIVERCHANNEL_TITLE",
     "Text": "River Channel",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_ROCKS!_FLAVOR",
+    "Text": "C_ROCKS!_FLAVOR",
     "Text_CN": ""
   },
   {
@@ -4980,6 +5280,11 @@
     "Text_CN": "圆盾"
   },
   {
+    "Id": "C_RUPERT_FLAVOR",
+    "Text": "Trolls simply detest the very sight of dwarves (uncooked).\n—<i>The Hobbit</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_RUPERT_TEXT",
     "Text": "Each Troll gains +1 Attack",
     "Text_CN": ""
@@ -4988,6 +5293,11 @@
     "Id": "C_RUPERT_TITLE",
     "Text": "‰Rupert",
     "Text_CN": "‰鲁伯特"
+  },
+  {
+    "Id": "C_SACKED_FLAVOR",
+    "Text": "As each dwarf came up and looked at the fire, and the spilled jugs, and the gnawed mutton, in surprise, pop! went a nasty smelly sack over his head, and he was down.\n—<i>The Hobbit</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_SACKED_TEXT",
@@ -5012,6 +5322,11 @@
   {
     "Id": "C_SAMGAMGEE_TITLE",
     "Text": "‰Sam Gamgee ",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_SEARCHFORAPATH_FLAVOR",
+    "Text": "Aragorn was searching, bent towards the ground, among the folds and gullies leading up into the western ridge.\n—<i>The Two Towers</i>",
     "Text_CN": ""
   },
   {
@@ -5110,6 +5425,11 @@
     "Text_CN": "偷袭"
   },
   {
+    "Id": "C_SPIDERGUARD_FLAVOR",
+    "Text": "\"I'll soon put an end to that,\" hissed the angry spider climbing back onto the branch.\n—<i>The Hobbit</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_SPIDERGUARD_TEXT",
     "Text": "<b>Guard</b>",
     "Text_CN": "哨兵。"
@@ -5130,6 +5450,11 @@
     "Text_CN": "0"
   },
   {
+    "Id": "C_SPIDERSNEST_FLAVOR",
+    "Text": "…he noticed a place of dense black shadow ahead of him black even for that forest, like a patch of midnight that had never been cleared away. As he drew nearer, he saw that it was made by spider-webs one behind and over and tangled with another.\n—<i>The Hobbit</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_SPIDERSNEST_TEXT",
     "Text": "You destroy the Spiders' nest. Cannot engage while \n<i>King Spider</i> is in play",
     "Text_CN": ""
@@ -5137,6 +5462,11 @@
   {
     "Id": "C_SPIDERSNEST_TITLE",
     "Text": "Spiders' Nest",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_SPIDERSOFMIRKWOOD_FLAVOR",
+    "Text": "They were frightfully angry. Quite apart from the stones no spider has ever liked being called Attercop, and Tomnoddy of course is insulting to anybody.\n—<i>The Hobbit</i>",
     "Text_CN": ""
   },
   {
@@ -5180,6 +5510,11 @@
     "Text_CN": "马匹受惊"
   },
   {
+    "Id": "C_SQUASHEDINTOJELLY_FLAVOR",
+    "Text": "…at last they decided to sit on the sacks one by one and squash them, and boil them next time.\n—<i>The Hobbit</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_SQUASHEDINTOJELLY_TEXT",
     "Text": "Deal 2 damage to each Character in a <i>Troll Sack</i>; then release and exhaust each until after Upkeep",
     "Text_CN": ""
@@ -5188,6 +5523,21 @@
     "Id": "C_SQUASHEDINTOJELLY_TITLE",
     "Text": "Squashed into Jelly",
     "Text_CN": "化为脓水"
+  },
+  {
+    "Id": "C_SQUIRMINGCOCOON_FLAVOR",
+    "Text": "Something like a strong sticky string was against his left hand, and when he tried to move he found that his legs were already wrapped in the same stuff… \n—<i>The Hobbit</i>",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_SQUIRMINGCOCOON_TEXT",
+    "Text": "Rescue the captive from the spiders' thick webs!",
+    "Text_CN": "结算：控制精灵斥候。"
+  },
+  {
+    "Id": "C_SQUIRMINGCOCOON_TITLE",
+    "Text": "Squirming Cocoon",
+    "Text_CN": "吊茧"
   },
   {
     "Id": "C_STANDANDFIGHT_FLAVOR",
@@ -5235,6 +5585,11 @@
     "Text_CN": "坚赛钢铁"
   },
   {
+    "Id": "C_STUART_FLAVOR",
+    "Text": "\"Here you, are there any more of your sort a-sneakin' in these here woods, yer nassty little rabbit,\" said he looking at the hobbit's furry feet…\n—Troll, <i>The Hobbit</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_STUART_TEXT",
     "Text": "<b>Upkeep:</b> Restore 1 Health to\neach Troll",
     "Text_CN": "休整：每位巨魔敌人治愈1点伤害。"
@@ -5257,6 +5612,11 @@
   {
     "Id": "C_SUDDENRIPOSTE_TITLE",
     "Text": "Sudden Riposte",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_SWIRLINGEDDY_FLAVOR",
+    "Text": "C_SWIRLINGEDDY_FLAVOR",
     "Text_CN": ""
   },
   {
@@ -5283,6 +5643,11 @@
     "Id": "C_TASTEITAGAIN_TITLE",
     "Text": "Taste it Again!",
     "Text_CN": "再尝一次！"
+  },
+  {
+    "Id": "C_THECLOAKEDSTRANGER_FLAVOR",
+    "Text": "They thought they could dimly guess a dark cloaked shape in the mist, a yard or two ahead.\n—<i>The Fellowship of the Ring</i>\\r",
+    "Text_CN": ""
   },
   {
     "Id": "C_THECLOAKEDSTRANGER_TEXT",
@@ -5370,6 +5735,11 @@
     "Text_CN": "莫测之雾"
   },
   {
+    "Id": "C_TRIBULATION_FLAVOR",
+    "Text": "…their deadly voices rent the air. More unbearable they became, not less, at each new cry.\n—<i>The Return of the King</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_TRIBULATION_TEXT",
     "Text": "Deal 1 damage to each Ally",
     "Text_CN": "对游戏中的每名盟友造成1点伤害。"
@@ -5378,6 +5748,11 @@
     "Id": "C_TRIBULATION_TITLE",
     "Text": "Tribulation",
     "Text_CN": "大灾厄"
+  },
+  {
+    "Id": "C_TROLLSACK_FLAVOR",
+    "Text": "The next thing was to untie the sacks and let out the dwarves.\n—<i>The Hobbit</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_TROLLSACK_TEXT",
@@ -5405,6 +5780,11 @@
     "Text_CN": "巨魔树林斥候"
   },
   {
+    "Id": "C_TURNEDAROUND_FLAVOR",
+    "Text": "\"Which way would they turn, do you think?\" said Legolas.\n—<i>The Two Towers</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_TURNEDAROUND_TEXT",
     "Text": "Restore each Objective to its full Quest value",
     "Text_CN": "结算游戏中的每个目标为初始冒险值。"
@@ -5415,6 +5795,11 @@
     "Text_CN": "返身而去"
   },
   {
+    "Id": "C_UNDERTHESHADOW_FLAVOR",
+    "Text": "He broke off and lifted his eyes above the River, and it seemed to him that all he could see was a vast and threatening shadow.\n—<i>The Return of the King</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_UNDERTHESHADOW_TEXT",
     "Text": "Gain +2 Health",
     "Text_CN": "装备（敌人）：生命+2。"
@@ -5423,6 +5808,11 @@
     "Id": "C_UNDERTHESHADOW_TITLE",
     "Text": "Under the Shadow",
     "Text_CN": "阴影之下"
+  },
+  {
+    "Id": "C_UNDERTHEWATCHFULEYE_FLAVOR",
+    "Text": "\"His Eye is now straining towards us, blind almost to all else that is moving.\"\n—Gandalf, <i>The Return of the King</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_UNDERTHEWATCHFULEYE_TEXT",
@@ -5450,6 +5840,11 @@
     "Text_CN": "0"
   },
   {
+    "Id": "C_UNGOLIANTSBROOD_FLAVOR",
+    "Text": "Far and wide her lesser broods, bastards of the miserable mates, her own offspring, that she slew, spread from glen to glen…\n—<i>The Return of the King</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_UNGOLIANTSBROOD_TEXT",
     "Text": "End of round: Each Spider gains\n+1 Health",
     "Text_CN": "轮次结束:游戏中的每位蜘蛛生命+1。"
@@ -5458,6 +5853,11 @@
     "Id": "C_UNGOLIANTSBROOD_TITLE",
     "Text": "Ungoliant's Brood",
     "Text_CN": "乌苟立安特子孙"
+  },
+  {
+    "Id": "C_UNGOLIANTSSPAWN_FLAVOR",
+    "Text": "…she served none but herself, drinking the blood of Elves and Men, bloated and grown fat with endless brooding on her feasts, weaving webs of shadow; for all living things were her food, and her vomit darkness.\n—<i>The Return of the King</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_UNGOLIANTSSPAWN_TEXT",
@@ -5470,6 +5870,11 @@
     "Text_CN": "‰乌苟立安特后代"
   },
   {
+    "Id": "C_UNWAVERING_FLAVOR",
+    "Text": "\"I don't trust you little swine. You've no guts outside your own sties. But for us you'd all have run away.\"\n—Uglúk, <i>The Two Towers</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_UNWAVERING_TEXT",
     "Text": "Gain <b>Stalwart</b>",
     "Text_CN": "装备（敌人）：获得关键词『强壮』。"
@@ -5478,6 +5883,11 @@
     "Id": "C_UNWAVERING_TITLE",
     "Text": "Unwavering",
     "Text_CN": "坚定不移"
+  },
+  {
+    "Id": "C_VETERAN_FLAVOR",
+    "Text": "…a huge orc-chieftain, almost man-high, clad in black mail from head to foot, leaped into the chamber…\n—<i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_VETERAN_TEXT",
@@ -5505,6 +5915,11 @@
     "Text_CN": "老兵斧手"
   },
   {
+    "Id": "C_VETERANPATROL_FLAVOR",
+    "Text": "\"I did not shoot, for I dared not arouse any cries: we cannot risk battle. A strong company of Orcs has passed.\"\n—Haldir, <i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_VETERANPATROL_TEXT",
     "Text": "<b>Ambush</b>",
     "Text_CN": "哨兵。"
@@ -5515,6 +5930,11 @@
     "Text_CN": "老兵巡逻队"
   },
   {
+    "Id": "C_VICIOUSSPEED_FLAVOR",
+    "Text": "C_VICIOUSSPEED_FLAVOR",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_VICIOUSSPEED_TEXT",
     "Text": "Gain <b>Surge</b>",
     "Text_CN": "装备：获得关键词『警惕』。"
@@ -5523,6 +5943,11 @@
     "Id": "C_VICIOUSSPEED_TITLE",
     "Text": "Vicious Speed",
     "Text_CN": "邪恶速度"
+  },
+  {
+    "Id": "C_VILESPAWN_FLAVOR",
+    "Text": "It pleased him that she should dwell there hungry but unabated in malice, a more sure watch upon that ancient path into his land than any other that his skill could have devised.\n—<i>The Return of the King</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_VILESPAWN_TEXT",
@@ -5565,6 +5990,11 @@
     "Text_CN": ""
   },
   {
+    "Id": "C_WARGRIDERS_FLAVOR",
+    "Text": "Swiftly a scout rode back and reported that wolf-riders were abroad in the valley…\n—<i>The Two Towers</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_WARGRIDERS_TEXT",
     "Text": "<b>Pursuit.</b> Each Orc gains <b>Pursuit</b>",
     "Text_CN": "追逐。所有兽人获得关键词『追逐』。"
@@ -5573,6 +6003,11 @@
     "Id": "C_WARGRIDERS_TITLE",
     "Text": "Warg Riders",
     "Text_CN": "座狼骑手"
+  },
+  {
+    "Id": "C_WARGS_FLAVOR",
+    "Text": "At a gap in the circle a great dark wolf-shape could be seen halted, gazing at them.\n—<i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_WARGS_TEXT",
@@ -5600,6 +6035,11 @@
     "Text_CN": "勇士之剑"
   },
   {
+    "Id": "C_WATCHERSINTHEDARK_FLAVOR",
+    "Text": "Their cold eyes glittered, and they called to him with fell voices.\n—<i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_WATCHERSINTHEDARK_TEXT",
     "Text": "Gain +1 Threat",
     "Text_CN": ""
@@ -5607,6 +6047,11 @@
   {
     "Id": "C_WATCHERSINTHEDARK_TITLE",
     "Text": "Watchers in the Dark",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_WATCHFULEYES_FLAVOR",
+    "Text": "…he fancied that he could see two pale points of light, almost like luminous eyes.\n—<i>The Fellowship of the Ring</i>",
     "Text_CN": ""
   },
   {
@@ -5620,6 +6065,11 @@
     "Text_CN": "凝视之眼"
   },
   {
+    "Id": "C_WATCHFULSCOUT_FLAVOR",
+    "Text": "C_WATCHFULSCOUT_FLAVOR",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_WATCHFULSCOUT_TEXT",
     "Text": "Recruit <i>Elven Scout</i>",
     "Text_CN": "结算：控制精灵斥候。"
@@ -5628,21 +6078,6 @@
     "Id": "C_WATCHFULSCOUT_TITLE",
     "Text": "Watchful Scout",
     "Text_CN": "监视哨兵"
-  },
-  {
-    "Id": "C_SQUIRMINGCOCOON_FLAVOR",
-    "Text": "Something like a strong sticky string was against his left hand, and when he tried to move he found that his legs were already wrapped in the same stuff… \n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SQUIRMINGCOCOON_TEXT",
-    "Text": "Rescue the captive from the spiders' thick webs!",
-    "Text_CN": "结算：控制精灵斥候。"
-  },
-  {
-    "Id": "C_SQUIRMINGCOCOON_TITLE",
-    "Text": "Squirming Cocoon",
-    "Text_CN": "吊茧"
   },
   {
     "Id": "C_WATERSOFNIMRODEL_FLAVOR",
@@ -5673,6 +6108,11 @@
     "Id": "C_WESTFOLDOUTRIDER_TITLE",
     "Text": "Westfold Outrider",
     "Text_CN": "西境先驱"
+  },
+  {
+    "Id": "C_WILDBEAR_FLAVOR",
+    "Text": "There was a growling sound outside, and a noise as of some great animal scuffling at the door.\n—<i>The Hobbit</i>",
+    "Text_CN": ""
   },
   {
     "Id": "C_WILDBEAR_TEXT",
@@ -6708,445 +7148,5 @@
     "Id": "G_068_TERM",
     "Text": "Willpower",
     "Text_CN": "领导型"
-  },
-  {
-    "Id": "C_AGENTOFSAURON_FLAVOR",
-    "Text": "\"I do not know for what reason the Enemy is pursuing you,\" answered Gildor; \"but I perceive that he is — strange indeed though that seems to me. And I warn you that peril is now both before you and behind you, and upon either side.\" \n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_AMBUSHONTHESHORE_FLAVOR",
-    "Text": "There seemed no chance of reaching the Ford before he was cut off by the others that had lain in ambush. \n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ANDUINTROLLSPAWN_FLAVOR",
-    "Text": "Trolls are slow in the uptake, and mighty suspicious about anything new to them. \n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_BLACKBLOOD_FLAVOR",
-    "Text": "Then Pippin stabbed upwards, and the written blade of Westernesse pierced through the hide and went deep into the vitals of the troll, and his black blood came gushing out. \n—<i>The Return of the King</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_BOARDTHERAFT_FLAVOR",
-    "Text": "The current was swift and they went forward slowly. Sam sat in the bows, clutching the sides, and looking back wistfully to the shore. \n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_CAUGHTINAWEB_FLAVOR",
-    "Text": "He could only see the thing's eyes, but he could feel its hairy legs as it struggled to wind its abominable threads round and round him. \n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_CHIEFTAINUFTHAK_FLAVOR",
-    "Text": "\"D'you remember old Ufthak? We lost him for days. Then we found him in a corner; hanging up he was, but he was wide awake and glaring.\" \n—Shagrat, <i>The Two Towers</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_CLIMBTHEHILL_FLAVOR",
-    "Text": "There was a hill some way off with trees on it, pretty thick in parts. \n—<i>The Hobbit</i>\r",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_COCOON_FLAVOR",
-    "Text": "He managed by leaning over to cut most of the strong sticky threads that bound him round, and then, sure enough, with a kick and a struggle most of Fili emerged. \n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_CONTINUEDOWNSTREAM_FLAVOR",
-    "Text": "The dale ran like a stony trough between the ridged hills, and a trickling stream flowed among the boulders at the bottom. \n—<i>The Two Towers</i>\r",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_CREATUREOFDARKNESS_FLAVOR",
-    "Text": "…two pale lamplike eyes shone coldly as they peered inside, and then they lifted and gazed up at Frodo on the eyot. They were not more than a yard or two away, and Frodo heard the soft hiss of intaken breath. \n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_DARKSORCERY_FLAVOR",
-    "Text": "…because of his cunning he grew ever higher in the Lord's favour; and he learned great sorcery, and knew much of the mind of Sauron; and he was more cruel than any orc. \n—<i>The Return of the King</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_DELAYUNTILDAWN_FLAVOR",
-    "Text": "And there they stand to this day, all alone, unless the birds perch on them; for trolls, as you probably know, must be underground before dawn, or they go back to the stuff of the mountains they are made of, and never move again. \n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_DESPAIR_FLAVOR",
-    "Text": "\"Yet now under the Lord of Barad-dûr the most fell of all his captains is already master of your outer walls,\" said Gandalf. \"King of Angmar long ago, Sorcerer, Ringwraith, Lord of the Nazgûl, a spear of terror in the hand of Sauron, shadow of despair.\" \n—<i>The Return of the King</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_DOLGULDURORCS_FLAVOR",
-    "Text": "\"In the midst upon a stony height stands Dol Guldur, where long the hidden Enemy had his dwelling. We fear that now it is inhabited again, and with power sevenfold.\" \n—Haldir, <i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_DRIVENBYSHADOW_FLAVOR",
-    "Text": "\"They themselves do not see the world of light as we do, but our shapes cast shadows in their minds, which only the noon sun destroys; and in the dark they perceive many signs and forms that are hidden from us: then they are most to be feared.\" \n—Aragorn, <i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_EASTBIGHTPATROL_FLAVOR",
-    "Text": "\"…to the east the lands are waste, and full of Sauron's creatures…\" \n—Haldir, <i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ELITEDOLGULDURORCS_FLAVOR",
-    "Text": "\"…we dared not continue the hunt; for we were drawing nigh to Dol Guldur, and that is still a very evil place; we do not go that way.\" \n—Legolas, <i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ENFEEBLED_FLAVOR",
-    "Text": "The light was nearly gone, and they were all exhausted, when at last they reached the top. \n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ESCAPETHEFOREST_FLAVOR",
-    "Text": "They had escaped the dungeons of the king and were through the wood…\" \n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_EXHAUSTION_FLAVOR",
-    "Text": "…he realized that he was weary, weary almost to exhaustion: his legs would not carry him as he wished. \n—<i>The Return of the King</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_EXPLORETHECAVE_FLAVOR",
-    "Text": "There was a cave or rock-chamber behind, but in the gloom inside nothing could be seen. \n—<i>The Fellowship of the Ring</i>\r",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ACCURSEDFOREST_FLAVOR",
-    "Text": "Two days later they found their path going downwards and before long they were in a valley filled almost entirely with a mighty growth of oaks. \"Is there no end to this accursed forest?\" said Thorin. \n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_FINDYOURBEARINGS_FLAVOR",
-    "Text": "\"The forest goes on for ever and ever and ever in all directions! Whatever shall we do?\" \n—Thorin and Company, <i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_FINDSAFEPASSAGE_FLAVOR",
-    "Text": "They found a passage between two hills that led them into a valley running south-east, the direction that they wished to take…\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_FOLLOWGRIMBEORNSTRAIL_FLAVOR",
-    "Text": "\"…if it were not for the Beornings, the passage from Dale to Rivendell would long ago have become impossible.\"\n—Glóin, <i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_FORESTSPIDER_FLAVOR",
-    "Text": "The idea came to him to lead the furious spiders further and further away from the dwarves, if he could; to make them curious, excited and angry all at once.\n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_GATHERINGGLOOM_FLAVOR",
-    "Text": "He looked at the great walls, and the towers and brave banners, and the sun in the high sky, and then at the gathering gloom in the East; and he thought of the long fingers of that Shadow…\n—<i>The Return of the King</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_GIANTBEETLE_FLAVOR",
-    "Text": "…there were murmured hints of creatures more terrible than all these, but they had no name.\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_GIANTSPIDER_FLAVOR",
-    "Text": "Somehow the killing of the giant spider, all alone by himself in the dark without the help of the wizard or the dwarves or of anyone else, made a great difference to Mr. Baggins.\n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_GOBLINSNIPER_FLAVOR",
-    "Text": "Out of the darkness arrows whistled.\n—<i>The Two Towers</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_GREEDYFINGERS_FLAVOR",
-    "Text": "…his sword was still in his hand, but it was broken near the hilt…\n—<i>The Two Towers</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_GROWINGDARKNESS_FLAVOR",
-    "Text": "The rising sun was hazy, and behind it, following it slowly up the sky, there was a growing darkness, as of a great storm moving out of the East.\n—<i>The Two Towers</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_HATCHLINGSPIDER_FLAVOR",
-    "Text": "Practically all the spiders in the place came after him: some dropped to the ground, others raced along the branches, swung from tree to tree, or cast new ropes across the dark spaces.\n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_HIDDENPATH_FLAVOR",
-    "Text": "Still round the corner there may wait \n A new road or a secret gate; \n And though I oft have passed them by, \n A day will come at last when I \n Shall take the hidden paths that run \n West of the Moon, East of the Sun\n—Frodo, <i>The Return of the King</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_HIVEGUARDIAN_FLAVOR",
-    "Text": "Suddenly he saw, too, that there were spiders huge and horrible sitting in the branches above him, and ring or no ring he trembled with fear lest they should discover him.\n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_HUMMERHORNS_FLAVOR",
-    "Text": "\"Perhaps under the shadow of the Unnamed some of the beasts of Mirkwood are wandering hither to our woods.\"\n—Anborn, <i>The Two Towers",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_HUNTED_FLAVOR",
-    "Text": "Another long screech rose and fell, and he threw himself back again from the wall, panting like a hunted animal.\n—<i>The Return of the King</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_INVESTIGATESMOKE_FLAVOR",
-    "Text": "Far behind them a dark smoke rose in thin curling threads.\n—<i>The Two Towers</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_KINGSPIDER_FLAVOR",
-    "Text": "Then the great spider, who had been busy tying him up while he dozed, came from behind him and came at him.\n—<i>The Hobbit</i>\r",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_LEFTRIVERFORK_FLAVOR",
-    "Text": "C_LEFTRIVERFORK_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_LOSTINTHEWILDERNESS_FLAVOR",
-    "Text": "\"What have we done, O king?\" said Balin, who was the eldest left. \"Is it a crime to be lost in the forest, to be hungry and thirsty…?\"\n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_LOUIS_FLAVOR",
-    "Text": "But they were trolls. Obviously trolls. Even Bilbo, in spite of his sheltered life, could see that: from the great heavy faces of them, and their size, and the shape of their legs, not to mention their language, which was not drawing-room fashion at all, at all.\n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_LOWONSUPPLIES_FLAVOR",
-    "Text": "There they sat and made such a meal as they could.\n—<i>The Return of the King</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_MIRKWOODFLOCK_FLAVOR",
-    "Text": "Flocks of birds, flying at great speed, were wheeling and circling, and traversing all the land as if they were searching for something; and they were steadily drawing nearer.\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_MIRKWOODPATROL_FLAVOR",
-    "Text": "…the goblin patrols were still hunting with Wargs for the dwarves, and they were fiercely angry because of the death of the Great Goblin…\n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_MORRIS_FLAVOR",
-    "Text": "C_MORRIS_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_NAVIGATETHERIVER_FLAVOR",
-    "Text": "\"Boats may make your journey less toilsome for a while. Yet they will not give you counsel: in the end you must leave them and the River…\" \n—Celeborn, <i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_MUCKADDER_FLAVOR",
-    "Text": "C_MUCKADDER_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ORCHOUND_FLAVOR",
-    "Text": "\"Listen, Hound of Sauron!\" he cried. \"Gandalf is here. Fly, if you value your foul skin! I will shrivel you from tail to snout, if you come within this ring.\"\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ORCMARAUDER_FLAVOR",
-    "Text": "\"…the lands seemed empty of enemies; yet I feared that wolf-riders and plunderers might ride nonetheless to Meduseld, while it was undefended.\"\n—Gandalf, <i>The Two Towers</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_PACKOFWARGS_FLAVOR",
-    "Text": "Without warning a storm of howls broke out fierce and wild all about the camp. A great host of Wargs had gathered silently and was now attacking them from every side at once.\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_POISONEDBYSPIDERS_FLAVOR",
-    "Text": "Somehow or other Fili was got on to the branch, and then he did his best to help the hobbit, although he was feeling very sick and ill from spider-poison…\n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_PURSUEDBYSHADOW_FLAVOR",
-    "Text": "There they lay for some time, puffing and panting…\n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_PURSUITONTHESHORE_FLAVOR",
-    "Text": "\"Our peril will be greatest just ere we reach the river,\" said Glorfindel; \"for my heart warns me that the pursuit is now swift behind us, and other danger may be waiting by the Ford.\"\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RAPIDS_FLAVOR",
-    "Text": "C_RAPIDS_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RIGHTRIVERFORK_FLAVOR",
-    "Text": "C_RIGHTRIVERFORK_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RIVERBEND_FLAVOR",
-    "Text": "C_RIVERBEND_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RIVERCHANNEL_FLAVOR",
-    "Text": "C_RIVERCHANNEL_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ROCKS!_FLAVOR",
-    "Text": "C_ROCKS!_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_RUPERT_FLAVOR",
-    "Text": "Trolls simply detest the very sight of dwarves (uncooked).\n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SACKED_FLAVOR",
-    "Text": "As each dwarf came up and looked at the fire, and the spilled jugs, and the gnawed mutton, in surprise, pop! went a nasty smelly sack over his head, and he was down.\n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SEARCHFORAPATH_FLAVOR",
-    "Text": "Aragorn was searching, bent towards the ground, among the folds and gullies leading up into the western ridge.\n—<i>The Two Towers</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SPIDERGUARD_FLAVOR",
-    "Text": "\"I'll soon put an end to that,\" hissed the angry spider climbing back onto the branch.\n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SPIDERSNEST_FLAVOR",
-    "Text": "…he noticed a place of dense black shadow ahead of him black even for that forest, like a patch of midnight that had never been cleared away. As he drew nearer, he saw that it was made by spider-webs one behind and over and tangled with another.\n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SPIDERSOFMIRKWOOD_FLAVOR",
-    "Text": "They were frightfully angry. Quite apart from the stones no spider has ever liked being called Attercop, and Tomnoddy of course is insulting to anybody.\n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SQUASHEDINTOJELLY_FLAVOR",
-    "Text": "…at last they decided to sit on the sacks one by one and squash them, and boil them next time.\n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_STUART_FLAVOR",
-    "Text": "\"Here you, are there any more of your sort a-sneakin' in these here woods, yer nassty little rabbit,\" said he looking at the hobbit's furry feet…\n—Troll, <i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_SWIRLINGEDDY_FLAVOR",
-    "Text": "C_SWIRLINGEDDY_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_THECLOAKEDSTRANGER_FLAVOR",
-    "Text": "They thought they could dimly guess a dark cloaked shape in the mist, a yard or two ahead.\n—<i>The Fellowship of the Ring</i>\r",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_TRIBULATION_FLAVOR",
-    "Text": "…their deadly voices rent the air. More unbearable they became, not less, at each new cry.\n—<i>The Return of the King</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_TROLLSACK_FLAVOR",
-    "Text": "The next thing was to untie the sacks and let out the dwarves.\n—<i>The Hobbit</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_TURNEDAROUND_FLAVOR",
-    "Text": "\"Which way would they turn, do you think?\" said Legolas.\n—<i>The Two Towers</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_UNDERTHESHADOW_FLAVOR",
-    "Text": "He broke off and lifted his eyes above the River, and it seemed to him that all he could see was a vast and threatening shadow.\n—<i>The Return of the King</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_UNDERTHEWATCHFULEYE_FLAVOR",
-    "Text": "\"His Eye is now straining towards us, blind almost to all else that is moving.\"\n—Gandalf, <i>The Return of the King</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_UNGOLIANTSBROOD_FLAVOR",
-    "Text": "Far and wide her lesser broods, bastards of the miserable mates, her own offspring, that she slew, spread from glen to glen…\n—<i>The Return of the King</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_UNGOLIANTSSPAWN_FLAVOR",
-    "Text": "…she served none but herself, drinking the blood of Elves and Men, bloated and grown fat with endless brooding on her feasts, weaving webs of shadow; for all living things were her food, and her vomit darkness.\n—<i>The Return of the King</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_UNWAVERING_FLAVOR",
-    "Text": "\"I don't trust you little swine. You've no guts outside your own sties. But for us you'd all have run away.\"\n—Uglúk, <i>The Two Towers</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_VETERAN_FLAVOR",
-    "Text": "…a huge orc-chieftain, almost man-high, clad in black mail from head to foot, leaped into the chamber…\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_VETERANPATROL_FLAVOR",
-    "Text": "\"I did not shoot, for I dared not arouse any cries: we cannot risk battle. A strong company of Orcs has passed.\"\n—Haldir, <i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_VILESPAWN_FLAVOR",
-    "Text": "It pleased him that she should dwell there hungry but unabated in malice, a more sure watch upon that ancient path into his land than any other that his skill could have devised.\n—<i>The Return of the King</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_VICIOUSSPEED_FLAVOR",
-    "Text": "C_VICIOUSSPEED_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_WARGRIDERS_FLAVOR",
-    "Text": "Swiftly a scout rode back and reported that wolf-riders were abroad in the valley…\n—<i>The Two Towers</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_WARGS_FLAVOR",
-    "Text": "At a gap in the circle a great dark wolf-shape could be seen halted, gazing at them.\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_WATCHERSINTHEDARK_FLAVOR",
-    "Text": "Their cold eyes glittered, and they called to him with fell voices.\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_WATCHFULEYES_FLAVOR",
-    "Text": "…he fancied that he could see two pale points of light, almost like luminous eyes.\n—<i>The Fellowship of the Ring</i",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_WATCHFULSCOUT_FLAVOR",
-    "Text": "C_WATCHFULSCOUT_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_WILDBEAR_FLAVOR",
-    "Text": "There was a growling sound outside, and a noise as of some great animal scuffling at the door.\n—<i>The Hobbit</i>",
-    "Text_CN": ""
   }
 ]
