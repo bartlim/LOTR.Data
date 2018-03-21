@@ -374,21 +374,24 @@
       {
         "Title": "GentleWaters",
         "SoloGameSetup": [
-          ""
+          "RiverBend",
+          "Rocks",
+          "Rocks",
+          "RangerProvisions"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "AmbushOnTheShore"
         ]
       }
     ],
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180321185739496",
+  "Version": "20180321191257465",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180321185739496"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180321191257465"
 }
