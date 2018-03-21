@@ -757,13 +757,19 @@
           "BGM": "mus_saurontheme"
         },
         {
-          "Id": "",
-          "SceneName": null,
+          "Id": "TreacherousShortcut",
+          "SceneName": "Q5_L1_SearchingforGrimbeorn",
           "IntroVoice": null,
-          "IntroSprite": null,
-          "SoloGameSetup": null,
-          "NextStageId": null,
-          "BGM": null
+          "IntroSprite": "JourneyDownTheAnduinTreacherousShortcutIntroSprite",
+          "SoloGameSetup": [
+            "RiverChannel",
+            "Rapids",
+            "Rocks",
+            "SwirlingEddy",
+            "GoblinSniper"
+          ],
+          "NextStageId": "AmbushontheShore",
+          "BGM": "mus_stream"
         },
         {
           "Id": "",
