@@ -5,22 +5,15 @@
       "Id": null,
       "DeckList": [
         {
-          "Id": "WatchersintheDark",
+          "Id": "BlackForestBats",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
-          "Id": "AccursedForest",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "BlockedPath",
-          "Quantity": 1,
+          "Id": "WatchersintheDark",
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -62,7 +55,7 @@
         },
         {
           "Id": "GatheringGloom",
-          "Quantity": 1,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -96,15 +89,8 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "SpookedHorses",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "TreacherousFog",
-          "Quantity": 1,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -138,15 +124,8 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "WatchfulEyes",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "EastBightPatrol",
-          "Quantity": 2,
+          "Id": "BlockedPath",
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -168,6 +147,13 @@
         {
           "Id": "GreedyFingers",
           "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "Hummerhorns",
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -201,22 +187,8 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "AnduinTrollSpawn",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "DolGuldurOrcs",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "EliteDolGuldurOrcs",
-          "Quantity": 1,
+          "Id": "WatchfulEyes",
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -236,34 +208,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "MirkwoodPatrol",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "OrcBeastmaster",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "OrcHound",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "OrcMarauder",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "PursuitOnTheShore",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -276,41 +220,6 @@
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
-        },
-        {
-          "Id": "VeteranPatrol",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Wargs",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "ChieftainUfthak",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "PackOfWargs",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "WargRiders",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
         }
       ]
     },
@@ -319,7 +228,8 @@
         "Title": "ToTheRiver",
         "SoloGameSetup": [
           "BoardTheRaft",
-          "DolGuldurOrcsEastBightPatrol",
+          "DolGuldurOrcs",
+          "EastBightPatrol",
           "HillTroll"
         ],
         "CoopGameSetup": [],
@@ -390,9 +300,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180321192036259",
+  "Version": "20180321194416990",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180321192036259"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180321194416990"
 }
