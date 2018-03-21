@@ -724,7 +724,7 @@
               "IntroSprite": "Sprites/Locations/Quest4_Stage01",
               "SoloGameSetup": [
                 "BoardTheRaft",
-                "DolGuldurOrcs",
+                "DolGuldurOrcsEastBightPatrol",
                 "HillTroll"
               ],
               "NextStageId": "AnduinPassage",
@@ -736,12 +736,13 @@
               "IntroVoice": "Q4L2_AnduinPassage",
               "IntroSprite": "Sprites/Locations/Quest4_Stage02",
               "SoloGameSetup": [
-                "NavigateTheRiver",
-                "GoblinSniper",
-                "WargRiders"
+                "LeftRiverFork",
+                "Rapids",
+                "RightRiverFork",
+                "GoblinSniper"
               ],
-              "NextStageId": "AmbushOnTheShore",
-              "BGM": "mus_mirkwood"
+              "NextStageId": "TreacherousShortcut",
+              "BGM": "mus_stream"
             },
             {
               "Id": "AmbushOnTheShore",
@@ -752,10 +753,40 @@
                 "AmbushOnTheShore",
                 "OrcMarauder",
                 "Wargs",
-                "EliteDolGuldurOrcs"
+                "EliteDolGuldurOrcs",
+                "ChieftainUfthak"
               ],
               "NextStageId": "",
               "BGM": "mus_saurontheme"
+            },
+            {
+              "Id": "TreacherousShortcut",
+              "SceneName": "Q5_L1_SearchingforGrimbeorn",
+              "IntroVoice": null,
+              "IntroSprite": "JourneyDownTheAnduinTreacherousShortcutIntroSprite",
+              "SoloGameSetup": [
+                "RiverChannel",
+                "Rapids",
+                "Rocks!",
+                "SwirlingEddy",
+                "GoblinSniper"
+              ],
+              "NextStageId": "AmbushontheShore",
+              "BGM": "mus_desperation"
+            },
+            {
+              "Id": "GentleWaters",
+              "SceneName": "Q4_L1_ToTheRiver",
+              "IntroVoice": null,
+              "IntroSprite": "JourneyDownTheAnduinGentleWatersIntroSprite",
+              "SoloGameSetup": [
+                "RiverBend",
+                "Rocks!",
+                "Rocks!",
+                "RangerProvisions"
+              ],
+              "NextStageId": "AmbushOnTheShore",
+              "BGM": "mus_stream"
             }
           ],
           "SauronDeck": [
