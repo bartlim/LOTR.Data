@@ -331,14 +331,15 @@
       {
         "Title": "AnduinPassage",
         "SoloGameSetup": [
-          "NavigateTheRiver",
-          "GoblinSniper",
-          "WargRiders"
+          "LeftRiverFork",
+          "Rapids",
+          "RightRiverFork",
+          "GoblinSniper"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          "AmbushOnTheShore"
+          ""
         ]
       },
       {
@@ -354,14 +355,32 @@
         "NextStageTitles": [
           ""
         ]
+      },
+      {
+        "Title": "",
+        "SoloGameSetup": [],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ]
+      },
+      {
+        "Title": "",
+        "SoloGameSetup": [],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ]
       }
     ],
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180314085536203",
+  "Version": "20180321182055173",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180314085536203"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180321182055173"
 }
