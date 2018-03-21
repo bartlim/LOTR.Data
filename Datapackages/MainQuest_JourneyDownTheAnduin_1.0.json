@@ -357,12 +357,18 @@
         ]
       },
       {
-        "Title": "",
-        "SoloGameSetup": [],
+        "Title": "TreacherousShortcut",
+        "SoloGameSetup": [
+          "RiverChannel",
+          "Rapids",
+          "Rocks",
+          "SwirlingEddy",
+          "GoblinSniper"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "AmbushontheShore"
         ]
       },
       {
@@ -378,9 +384,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180321182055173",
+  "Version": "20180321185118854",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180321182055173"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180321185118854"
 }
