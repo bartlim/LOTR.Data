@@ -775,11 +775,14 @@
           "Id": "GentleWaters",
           "SceneName": "Q4_L1_ToTheRiver",
           "IntroVoice": null,
-          "IntroSprite": null,
+          "IntroSprite": "JourneyDownTheAnduinGentleWatersIntroSprite",
           "SoloGameSetup": [
-            ""
+            "RiverBend",
+            "Rocks",
+            "Rocks",
+            "RangerProvisions"
           ],
-          "NextStageId": "",
+          "NextStageId": "AmbushOnTheShore",
           "BGM": "mus_stream"
         }
       ],
