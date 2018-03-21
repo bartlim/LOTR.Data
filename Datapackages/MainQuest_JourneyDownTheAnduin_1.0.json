@@ -348,7 +348,8 @@
           "AmbushOnTheShore",
           "OrcMarauder",
           "Wargs",
-          "EliteDolGuldurOrcs"
+          "EliteDolGuldurOrcs",
+          "ChieftainUfthak"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -389,9 +390,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180321191257465",
+  "Version": "20180321191642092",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180321191257465"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180321191642092"
 }
