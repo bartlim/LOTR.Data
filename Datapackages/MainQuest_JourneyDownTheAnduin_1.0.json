@@ -372,8 +372,10 @@
         ]
       },
       {
-        "Title": "",
-        "SoloGameSetup": [],
+        "Title": "GentleWaters",
+        "SoloGameSetup": [
+          ""
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
@@ -384,9 +386,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180321185430352",
+  "Version": "20180321185739496",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180321185430352"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180321185739496"
 }
