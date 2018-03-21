@@ -772,13 +772,15 @@
           "BGM": "mus_desperation"
         },
         {
-          "Id": "",
-          "SceneName": null,
+          "Id": "GentleWaters",
+          "SceneName": "Q4_L1_ToTheRiver",
           "IntroVoice": null,
           "IntroSprite": null,
-          "SoloGameSetup": null,
-          "NextStageId": null,
-          "BGM": null
+          "SoloGameSetup": [
+            ""
+          ],
+          "NextStageId": "",
+          "BGM": "mus_stream"
         }
       ],
       "SauronDeck": [
