@@ -7186,12 +7186,27 @@
   },
   {
     "Id": "Q_STAGE_TREACHEROUSSHORTCUT_TEXT",
-    "Text": "Placeholder Text For Now.",
+    "Text": "<i><size=58>P</size>laceholder.  You picked the tough part of the river.  Now figure out how to proceed.</i>",
     "Text_CN": ""
   },
   {
     "Id": "Q_STAGE_TREACHEROUSSHORTCUT_OBJECTIVE",
-    "Text": "Resolve River Channel to travel immediately.",
+    "Text": "Resolve <i>River Channel to travel immediately.</i>",
+    "Text_CN": ""
+  },
+  {
+    "Id": "Q_STAGE_GENTLEWATERS_NAME",
+    "Text": "Gentle Waters",
+    "Text_CN": ""
+  },
+  {
+    "Id": "Q_STAGE_GENTLEWATERS_TEXT",
+    "Text": "",
+    "Text_CN": ""
+  },
+  {
+    "Id": "Q_STAGE_GENTLEWATERS_OBJECTIVE",
+    "Text": "",
     "Text_CN": ""
   }
 ]
