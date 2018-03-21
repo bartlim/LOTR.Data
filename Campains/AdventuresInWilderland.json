@@ -734,11 +734,12 @@
           "IntroVoice": "Q4L2_AnduinPassage",
           "IntroSprite": "Sprites/Locations/Quest4_Stage02",
           "SoloGameSetup": [
-            "NavigateTheRiver",
-            "GoblinSniper",
-            "WargRiders"
+            "LeftRiverFork",
+            "Rapids",
+            "RightRiverFork",
+            "GoblinSniper"
           ],
-          "NextStageId": "AmbushOnTheShore",
+          "NextStageId": "",
           "BGM": "mus_mirkwood"
         },
         {
@@ -754,6 +755,24 @@
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme"
+        },
+        {
+          "Id": "",
+          "SceneName": null,
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
+        },
+        {
+          "Id": "",
+          "SceneName": null,
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null
         }
       ],
       "SauronDeck": [
