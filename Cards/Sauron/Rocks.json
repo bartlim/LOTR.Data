@@ -1,0 +1,34 @@
+{
+  "CardData": {
+    "Id": "Rocks!",
+    "Owner": "Sauron",
+    "CardType": 6,
+    "ShopType": "",
+    "Cost": 0,
+    "QuestPoints": 4,
+    "Attack": 0,
+    "Willpower": 0,
+    "Health": 0,
+    "Trait": "",
+    "Rarity": 0,
+    "Sphere": 2,
+    "SphereLevel": 0,
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "C_ROCKS!_FLAVOR",
+    "ArtistName": "Jake Bullock",
+    "Status": "WIP",
+    "ArtworkMD5": "2b9a6102a09da35c4b6cb7102ab96889",
+    "BannerMD5": "baab9e684e12bb3d1e7c8fb307d7fbba",
+    "IconMD5": "3d49cf80873418f273fd5274b48850d8"
+  },
+  "Localization": {
+    "Title": "Rocks!",
+    "Text": "End of round: Gain +1 Threat until this is resolved"
+  }
+}
