@@ -763,7 +763,7 @@
             {
               "Id": "TreacherousShortcut",
               "SceneName": "Q04_L02_AnduinPassage",
-              "IntroVoice": null,
+              "IntroVoice": "JourneyDownTheAnduinTreacherousShortcutIntroVoice",
               "IntroSprite": "JourneyDownTheAnduinTreacherousShortcutIntroSprite",
               "SoloGameSetup": [
                 "RiverChannel",
@@ -778,7 +778,7 @@
             {
               "Id": "GentleWaters",
               "SceneName": "Q04_L02_AnduinPassage",
-              "IntroVoice": null,
+              "IntroVoice": "JourneyDownTheAnduinGentleWatersIntroVoice",
               "IntroSprite": "JourneyDownTheAnduinGentleWatersIntroSprite",
               "SoloGameSetup": [
                 "RiverBend",
