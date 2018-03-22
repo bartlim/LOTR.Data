@@ -272,7 +272,7 @@
         "SoloGameSetup": [
           "RiverChannel",
           "Rapids",
-          "Rocks!",
+          "Rocks",
           "SwirlingEddy",
           "GoblinSniper"
         ],
@@ -286,8 +286,8 @@
         "Title": "GentleWaters",
         "SoloGameSetup": [
           "RiverBend",
-          "Rocks!",
-          "Rocks!",
+          "Rocks",
+          "Rocks",
           "RangerProvisions"
         ],
         "CoopGameSetup": [],
@@ -300,9 +300,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180321201112213",
+  "Version": "20180322025633621",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180321201112213"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180322025633621"
 }
