@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -585,6 +585,11 @@
     "Text_CN": "结束回合"
   },
   {
+    "Id": "U_INGAME_PASS",
+    "Text": "PASS",
+    "Text_CN": "过"
+  },
+  {
     "Id": "U_INGAME_TRAVEL",
     "Text": "Travel",
     "Text_CN": "启程"
@@ -1078,6 +1083,11 @@
     "Id": "U_INGAME_HISTORY_CARDPLAYED",
     "Text": "Card Played",
     "Text_CN": "已出牌"
+  },
+  {
+    "Id": "U_INGAME_HISTORY_PREPTRIGGERED",
+    "Text": "Prep. Triggered",
+    "Text_CN": "伏击卡触发"
   },
   {
     "Id": "U_INGAME_HISTORY",
@@ -1978,6 +1988,26 @@
     "Id": "U_BATTLE_POWER",
     "Text": "Power",
     "Text_CN": "攻击"
+  },
+  {
+    "Id": "U_BATTLE_STEALTH",
+    "Text": "Stealth",
+    "Text_CN": "潜行"
+  },
+  {
+    "Id": "U_BATTLE_STEALTH_DESC",
+    "Text": "Enter Stealth mode so this character cannot be attacked unless all other characters without Stealth are exhasuted.",
+    "Text_CN": "进入潜行状态。在所有其他未潜行的角色力竭之前不会受到攻击。"
+  },
+  {
+    "Id": "U_BATTLE_GUARD",
+    "Text": "Guard",
+    "Text_CN": "守卫"
+  },
+  {
+    "Id": "U_BATTLE_GUARD_DESC",
+    "Text": "Enter Guard mode. Enemies will  attack Guard characters first before they can attack another.",
+    "Text_CN": "进入守卫状态。敌人会首先攻击守卫状态的角色。"
   },
   {
     "Id": "U_BATTLE_THREAT_35_EASY",
@@ -3190,6 +3220,51 @@
     "Text_CN": ""
   },
   {
+    "Id": "Q_STAGE__NAME",
+    "Text": "NewStage",
+    "Text_CN": ""
+  },
+  {
+    "Id": "Q_STAGE__TEXT",
+    "Text": "",
+    "Text_CN": ""
+  },
+  {
+    "Id": "Q_STAGE__OBJECTIVE",
+    "Text": "",
+    "Text_CN": ""
+  },
+  {
+    "Id": "Q_STAGE_TREACHEROUSSHORTCUT_NAME",
+    "Text": "Treacherous Shortcut",
+    "Text_CN": ""
+  },
+  {
+    "Id": "Q_STAGE_TREACHEROUSSHORTCUT_TEXT",
+    "Text": "<i><size=58>P</size>laceholder.  You picked the tough part of the river.  Now figure out how to proceed.</i>",
+    "Text_CN": ""
+  },
+  {
+    "Id": "Q_STAGE_TREACHEROUSSHORTCUT_OBJECTIVE",
+    "Text": "Resolve <i>River Channel</i> to allow travel from this location.",
+    "Text_CN": ""
+  },
+  {
+    "Id": "Q_STAGE_GENTLEWATERS_NAME",
+    "Text": "Gentle Waters",
+    "Text_CN": ""
+  },
+  {
+    "Id": "Q_STAGE_GENTLEWATERS_TEXT",
+    "Text": "<i><size=58>P</size>laceholder.  Look at that pretty water.  Oh so pretty.</i>",
+    "Text_CN": ""
+  },
+  {
+    "Id": "Q_STAGE_GENTLEWATERS_OBJECTIVE",
+    "Text": "Resolve <i>River Bend</i> to allow travel from this location.",
+    "Text_CN": ""
+  },
+  {
     "Id": "_PLACEHOLDER3",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -3201,7 +3276,7 @@
   },
   {
     "Id": "C_ACCURSEDFOREST_TEXT",
-    "Text": "<b>Upkeep:</b> Discard the top 3 cards from each player's deck until this is resolved",
+    "Text": "<b>Upkeep</b>: Discard the top 3 cards from each player's deck until this is resolved",
     "Text_CN": "休整：弃置每名玩家牌堆顶端的3张卡牌。"
   },
   {
@@ -3261,7 +3336,7 @@
   },
   {
     "Id": "C_AGENTOFSAURON_TEXT",
-    "Text": "<b>Fleeting. Stalwart. Surge</b>",
+    "Text": "<b>Fleeting</b>. <b>Stalwart</b>. <b>Surge</b>",
     "Text_CN": ""
   },
   {
@@ -3276,7 +3351,7 @@
   },
   {
     "Id": "C_AMBUSHONTHESHORE_TEXT",
-    "Text": "<b>Upkeep:</b> Sauron gains \n+1 Resource per player until resolved. Cannot engage while Enemy is in play",
+    "Text": "<b>Upkeep</b>: Sauron gains \n+1 Resource per player until resolved. Cannot engage while Enemy is in play",
     "Text_CN": ""
   },
   {
@@ -3306,7 +3381,7 @@
   },
   {
     "Id": "C_ARAGORN_TEXT",
-    "Text": "<b>Power:</b> Ready <i>Aragorn</i> \n(cost 1)",
+    "Text": "<b>Power</b>: Ready <i>Aragorn</i> \n(cost 1)",
     "Text_CN": ""
   },
   {
@@ -3321,12 +3396,22 @@
   },
   {
     "Id": "C_ARWEN_TEXT",
-    "Text": "<b>Upkeep:</b> Restore 1 Health",
+    "Text": "<b>Upkeep</b>: Restore 1 Health",
     "Text_CN": "休整：为一位人物治愈1点伤害。"
   },
   {
     "Id": "C_ARWEN_TITLE",
     "Text": "‰Arwen   ",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_ATEST180307_TEXT",
+    "Text": "test",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_ATEST180307_TITLE",
+    "Text": "test",
     "Text_CN": ""
   },
   {
@@ -3346,7 +3431,7 @@
   },
   {
     "Id": "C_AWATCHFULPEACE_FLAVOR",
-    "Text": "C_AWATCHFULPEACE_FLAVOR",
+    "Text": "…ever as they went forward they felt the watchfulness of the land increase. Tree and stone, blade and leaf were listening. \n—<i>The Return of the King</i>",
     "Text_CN": ""
   },
   {
@@ -3366,7 +3451,7 @@
   },
   {
     "Id": "C_BARLIMANBUTTERBUR_TEXT",
-    "Text": "<b>Upkeep:</b> Draw 1 card \n(50% chance)",
+    "Text": "<b>Upkeep</b>: Draw 1 card \n(50% chance)",
     "Text_CN": ""
   },
   {
@@ -3406,7 +3491,7 @@
   },
   {
     "Id": "C_BILBOSCLOAK_TEXT",
-    "Text": "(Hobbits only.) \n<b>Upkeep:</b> Sauron loses \n1 Resource",
+    "Text": "(Hobbits only.) \n<b>Upkeep</b>: Sauron loses \n1 Resource",
     "Text_CN": ""
   },
   {
@@ -3421,7 +3506,7 @@
   },
   {
     "Id": "C_BILLTHEPONY_TEXT",
-    "Text": "(Cost –2 while you control \n<i>Sam Gamgee</i>.) \n<b>Upkeep:</b> Gain +1 Resource",
+    "Text": "(Cost –2 while you control \n<i>Sam Gamgee</i>.) \n<b>Upkeep</b>: Gain +1 Resource",
     "Text_CN": ""
   },
   {
@@ -3571,7 +3656,7 @@
   },
   {
     "Id": "C_CHIEFTAINUFTHAK_TEXT",
-    "Text": "<b>Pursuit.</b> End of round: Add 1 \n<i>Dol Guldur Orcs</i>",
+    "Text": "<b>Pursuit</b>. End of round: Add 1 \n<i>Dol Guldur Orcs</i>",
     "Text_CN": "追逐。轮次结束：添加1位多尔哥多兽人，且无需花费成本。"
   },
   {
@@ -3683,6 +3768,21 @@
     "Id": "C_DESPAIR_TITLE",
     "Text": "Despair",
     "Text_CN": "绝望"
+  },
+  {
+    "Id": "C_DOLGULDURARCHER_FLAVOR",
+    "Text": "C_DOLGULDURARCHER_FLAVOR",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_DOLGULDURARCHER_TEXT",
+    "Text": "Ranged",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_DOLGULDURARCHER_TITLE",
+    "Text": "Dol Guldur Archer",
+    "Text_CN": ""
   },
   {
     "Id": "C_DOLGULDURORCS_FLAVOR",
@@ -3821,7 +3921,7 @@
   },
   {
     "Id": "C_ERKENBRAND_TEXT",
-    "Text": "<b>Block. Guard</b>",
+    "Text": "<b>Block</b>. <b>Guard</b>",
     "Text_CN": "格挡。哨兵 "
   },
   {
@@ -3866,7 +3966,7 @@
   },
   {
     "Id": "C_ESCORTFROMEDORAS_TEXT",
-    "Text": "<b>Revenge:</b> Ready a Character",
+    "Text": "<b>Revenge</b>: Ready a Character",
     "Text_CN": "临终：令你控制的一位人物重新就绪。"
   },
   {
@@ -3956,7 +4056,7 @@
   },
   {
     "Id": "C_FARAMIR_TEXT",
-    "Text": "<b>Ranged. Vanquish:</b> \nDraw 1 card",
+    "Text": "<b>Ranged</b>. <b>Vanquish</b>: \nDraw 1 card",
     "Text_CN": ""
   },
   {
@@ -4141,7 +4241,7 @@
   },
   {
     "Id": "C_FREETOCHOOSE_TEXT",
-    "Text": "<b>Power:</b> Lose 2 Threat",
+    "Text": "<b>Power</b>: Lose 2 Threat",
     "Text_CN": "0"
   },
   {
@@ -4156,7 +4256,7 @@
   },
   {
     "Id": "C_FRODO_TEXT",
-    "Text": "<b>Stealth.</b> Gain +2 Willpower while Sauron has 0 Resources",
+    "Text": "<b>Stealth</b>. Gain +2 Willpower while Sauron has 0 Resources",
     "Text_CN": "潜行。当索隆的资源为0时，弗罗多意志力+2。"
   },
   {
@@ -4186,7 +4286,7 @@
   },
   {
     "Id": "C_GALADHONARCHER_TEXT",
-    "Text": "<b>Ranged. Arrival:</b> Deal 1 damage",
+    "Text": "<b>Ranged</b>. <b>Arrival</b>: Deal 1 damage",
     "Text_CN": "远程。登场：对一名敌人造成1点伤害。"
   },
   {
@@ -4201,7 +4301,7 @@
   },
   {
     "Id": "C_GALADRIELSHANDMAIDEN_TEXT",
-    "Text": "<b>Arrival:</b> Lose 1 Threat",
+    "Text": "<b>Arrival</b>: Lose 1 Threat",
     "Text_CN": "登场：令威胁降低1点。"
   },
   {
@@ -4216,7 +4316,7 @@
   },
   {
     "Id": "C_GANDALF_TEXT",
-    "Text": "<b>Fleeting. Arrival (choose):</b> Draw 3 cards; lose 3 Threat; or deal 3 damage",
+    "Text": "<b>Fleeting</b>. <b>Arrival<b> <b>(choose)</b>: Draw 3 cards; lose 3 Threat; or deal 3 damage",
     "Text_CN": "一闪而过。登场（选择）：抽取3张卡牌；令威胁降低3点；或对一名敌人造成3点伤害。"
   },
   {
@@ -4256,7 +4356,7 @@
   },
   {
     "Id": "C_GHANBURIGHAN_TEXT",
-    "Text": "<b>Stealth.</b> Gain +<u>X</u> Willpower \n(<u>X</u> equals Objectives in play)",
+    "Text": "<b>Stealth</b>. Gain +<u>X</u> Willpower \n(<u>X</u> equals Objectives in play)",
     "Text_CN": ""
   },
   {
@@ -4286,7 +4386,7 @@
   },
   {
     "Id": "C_GIANTMARSHWORM_TEXT",
-    "Text": "<b>Stalwart. Surge.</b> \nGain +1 Threat when\n<i>Giant Marsh Worm</i> attacks",
+    "Text": "<b>Stalwart</b>. <b>Surge</b>. \nGain +1 Threat when\n<i>Giant Marsh Worm</i> attacks",
     "Text_CN": ""
   },
   {
@@ -4316,7 +4416,7 @@
   },
   {
     "Id": "C_GIMLI_TEXT",
-    "Text": "<b>Stalwart.</b> Gain +2 Attack this round after taking damage",
+    "Text": "<b>Stalwart</b>. Gain +2 Attack this round after taking damage",
     "Text_CN": "强壮。当受到伤害时，金雳攻击+2，持续至轮次结束。"
   },
   {
@@ -4331,7 +4431,7 @@
   },
   {
     "Id": "C_GOBLINSNIPER_TEXT",
-    "Text": "<b>Ranged. Stealth. Upkeep:</b> \nDeal 1 damage to a random Character",
+    "Text": "<b>Ranged</b>. <b>Stealth</b>. <b>Upkeep</b>: \nDeal 1 damage to a random Character",
     "Text_CN": ""
   },
   {
@@ -4371,7 +4471,7 @@
   },
   {
     "Id": "C_GRIMBEORN_TEXT",
-    "Text": "<b>Block. Stalwart</b>",
+    "Text": "<b>Block</b>. <b>Stalwart</b>",
     "Text_CN": "格挡。强壮。"
   },
   {
@@ -4386,7 +4486,7 @@
   },
   {
     "Id": "C_GROWINGDARKNESS_TEXT",
-    "Text": "<b>Upkeep:</b> Sauron gains \n+1 Resource until this is resolved",
+    "Text": "<b>Upkeep</b>: Sauron gains \n+1 Resource until this is resolved",
     "Text_CN": ""
   },
   {
@@ -4506,7 +4606,7 @@
   },
   {
     "Id": "C_HIVEGUARDIAN_TEXT",
-    "Text": "<b>Guard.</b> Deal +1 damage when defending",
+    "Text": "<b>Guard</b>. Deal +1 damage when defending",
     "Text_CN": "反击（1）。哨兵。"
   },
   {
@@ -4521,7 +4621,7 @@
   },
   {
     "Id": "C_HOBBITCLOAK_TEXT",
-    "Text": "(Hobbits only.) \n<b>Upkeep:</b> Gain <b>Stealth</b>\nthis round (50% chance)",
+    "Text": "(Hobbits only.) \n<b>Upkeep</b>: Gain <b>Stealth</b>\nthis round (50% chance)",
     "Text_CN": ""
   },
   {
@@ -4566,7 +4666,7 @@
   },
   {
     "Id": "C_HUNTED_TEXT",
-    "Text": "<b>Choose:</b> Gain +1 Threat for\n each Ally; or discard an Ally",
+    "Text": "<b>Choose</b>: Gain +1 Threat for\n each Ally; or discard an Ally",
     "Text_CN": "选择：麾下每名盟友增加1点威胁值，或者弃置麾下一名盟友。"
   },
   {
@@ -4581,7 +4681,7 @@
   },
   {
     "Id": "C_IMLADRISCAREGIVER_TEXT",
-    "Text": "<b>Arrival:</b> Restore 2 Health",
+    "Text": "<b>Arrival</b>: Restore 2 Health",
     "Text_CN": "登场：为一位人物治愈2点伤害。"
   },
   {
@@ -4605,8 +4705,13 @@
     "Text_CN": "调查烟雾"
   },
   {
+    "Id": "C_ITHILIENARCHER_FLAVOR",
+    "Text": "C_ITHILIENARCHER_FLAVOR",
+    "Text_CN": ""
+  },
+  {
     "Id": "C_ITHILIENARCHER_TEXT",
-    "Text": "<b>Ranged.</b> Gain +1 Attack \nfor each exhausted Enemy",
+    "Text": "<b>Ranged</b>. Gain +1 Attack \nfor each exhausted Enemy",
     "Text_CN": ""
   },
   {
@@ -4696,7 +4801,7 @@
   },
   {
     "Id": "C_LEGOLAS_TEXT",
-    "Text": "<b>Ranged. Upkeep:</b> Deal 1 damage",
+    "Text": "<b>Ranged</b>. <b>Upkeep</b>: Deal 1 damage",
     "Text_CN": ""
   },
   {
@@ -4786,7 +4891,7 @@
   },
   {
     "Id": "C_MABLUNG_TEXT",
-    "Text": "<b>Ranged. Arrival:</b> Exhaust a non-unique Enemy",
+    "Text": "<b>Ranged</b>. <b>Arrival</b>: Exhaust a non-unique Enemy",
     "Text_CN": "远程。登场：令一名不唯一的敌人立刻进入行动完毕状态。"
   },
   {
@@ -4801,7 +4906,7 @@
   },
   {
     "Id": "C_MARSHADDER_TEXT",
-    "Text": "<b>Stalwart. Surge</b>",
+    "Text": "<b>Stalwart</b>. <b>Surge</b>",
     "Text_CN": "强壮。警惕。"
   },
   {
@@ -4816,7 +4921,7 @@
   },
   {
     "Id": "C_MIRKWOODFLOCK_TEXT",
-    "Text": "<b>Revenge:</b> Sauron gains \n+1 Resource",
+    "Text": "<b>Revenge</b>: Sauron gains \n+1 Resource",
     "Text_CN": ""
   },
   {
@@ -4876,7 +4981,7 @@
   },
   {
     "Id": "C_MUCKADDER_TEXT",
-    "Text": "<b>Ambush.</b> <i>Muck Adder</i> attacks\n the Character with the lowest current Health",
+    "Text": "<b>Ambush</b>. <i>Muck Adder</i> attacks\n the Character with the lowest current Health",
     "Text_CN": "先攻。淤泥蝰蛇会攻击玩家手中当前生命值最低的人物。"
   },
   {
@@ -4901,7 +5006,7 @@
   },
   {
     "Id": "C_ORCBEASTMASTER_TEXT",
-    "Text": "<b>Arrival:</b> Add 1 <i>Orc Hound</i>",
+    "Text": "<b>Arrival</b>: Add 1 <i>Orc Hound</i>",
     "Text_CN": "登场：添加1头兽人猎犬，且无需花费成本。"
   },
   {
@@ -4916,7 +5021,7 @@
   },
   {
     "Id": "C_ORCHOUND_TEXT",
-    "Text": "<b>Pursuit.</b> Each Orc gains <b>Pursuit</b>",
+    "Text": "<b>Pursuit</b>. Each Orc gains <b>Pursuit</b>",
     "Text_CN": "追逐。所有兽人获得关键词『追逐』。"
   },
   {
@@ -4946,7 +5051,7 @@
   },
   {
     "Id": "C_PACKOFWARGS_TEXT",
-    "Text": "<b>Pursuit. Upkeep:</b> <i>Pack of Wargs</i> gains +1 Health",
+    "Text": "<b>Pursuit</b>. <b>Upkeep</b>: <i>Pack of Wargs</i> gains +1 Health",
     "Text_CN": "追逐。休整：座狼群生命+1。"
   },
   {
@@ -5235,17 +5340,17 @@
     "Text_CN": ""
   },
   {
-    "Id": "C_ROCKS!_FLAVOR",
-    "Text": "C_ROCKS!_FLAVOR",
+    "Id": "C_ROCKS_FLAVOR",
+    "Text": "C_ROCKS_FLAVOR",
     "Text_CN": ""
   },
   {
-    "Id": "C_ROCKS!_TEXT",
+    "Id": "C_ROCKS_TEXT",
     "Text": "End of round: Gain +1 Threat until this is resolved",
     "Text_CN": ""
   },
   {
-    "Id": "C_ROCKS!_TITLE",
+    "Id": "C_ROCKS_TITLE",
     "Text": "Rocks!",
     "Text_CN": ""
   },
@@ -5256,7 +5361,7 @@
   },
   {
     "Id": "C_ROHIRRIMLANCER_TEXT",
-    "Text": "<b>Ranged.</b> Deal +1 damage when attacking",
+    "Text": "<b>Ranged</b>. Deal +1 damage when attacking",
     "Text_CN": ""
   },
   {
@@ -5316,7 +5421,7 @@
   },
   {
     "Id": "C_SAMGAMGEE_TEXT",
-    "Text": "<b>Stalwart.</b> Gain +1 Attack \nand <b>Surge</b> when Sauron has \n0 Resources",
+    "Text": "<b>Stalwart</b>. Gain +1 Attack \nand <b>Surge</b> when Sauron has \n0 Resources",
     "Text_CN": ""
   },
   {
@@ -5371,7 +5476,7 @@
   },
   {
     "Id": "C_SELFPRESERVATION_TEXT",
-    "Text": "<b>Upkeep:</b> Restore 1 Health",
+    "Text": "<b>Upkeep</b>: Restore 1 Health",
     "Text_CN": "休整：为一位人物治愈1点伤害。"
   },
   {
@@ -5401,7 +5506,7 @@
   },
   {
     "Id": "C_SILVANTRACKER_TEXT",
-    "Text": "<b>Arrival:</b> Give a Character <b>Stealth</b> this round",
+    "Text": "<b>Arrival</b>: Give a Character <b>Stealth</b> this round",
     "Text_CN": "登场：令一位人物获得关键词『潜行』，持续至轮次结束。"
   },
   {
@@ -5591,7 +5696,7 @@
   },
   {
     "Id": "C_STUART_TEXT",
-    "Text": "<b>Upkeep:</b> Restore 1 Health to\neach Troll",
+    "Text": "<b>Upkeep</b>: Restore 1 Health to\neach Troll",
     "Text_CN": "休整：每位巨魔敌人治愈1点伤害。"
   },
   {
@@ -5711,7 +5816,7 @@
   },
   {
     "Id": "C_TOMBOMBADIL_TEXT",
-    "Text": "<b>Fleeting. Arrival:</b> Defeat \na non-unique Enemy",
+    "Text": "<b>Fleeting</b>. <b>Arrival</b>: Defeat \na non-unique Enemy",
     "Text_CN": ""
   },
   {
@@ -5771,7 +5876,7 @@
   },
   {
     "Id": "C_TROLLSHAWSCOUT_TEXT",
-    "Text": "<b>Revenge:</b> Exhaust a random Enemy",
+    "Text": "<b>Revenge</b>: Exhaust a random Enemy",
     "Text_CN": "临终：令一名随机敌人进入行动完毕状态。"
   },
   {
@@ -5861,7 +5966,7 @@
   },
   {
     "Id": "C_UNGOLIANTSSPAWN_TEXT",
-    "Text": "<b>Upkeep:</b> Add 1 <i>Hatchling Spider.</i> Each <i>Hatchling Spider</i> gains \n+1 Attack and <b>Guard</b>",
+    "Text": "<b>Upkeep</b>: Add 1 <i>Hatchling Spider.</i> Each <i>Hatchling Spider</i> gains \n+1 Attack and <b>Guard</b>",
     "Text_CN": "每只育卵蜘蛛攻击+1并获得关键词『哨兵』。休整：添加1只育卵蜘蛛，且无需花费成本。"
   },
   {
@@ -5966,7 +6071,7 @@
   },
   {
     "Id": "C_WANDERINGTOOK_TEXT",
-    "Text": "<b>Arrival:</b> Sauron loses 1 Resource",
+    "Text": "<b>Arrival</b>: Sauron loses 1 Resource",
     "Text_CN": ""
   },
   {
@@ -5996,7 +6101,7 @@
   },
   {
     "Id": "C_WARGRIDERS_TEXT",
-    "Text": "<b>Pursuit.</b> Each Orc gains <b>Pursuit</b>",
+    "Text": "<b>Pursuit</b>. Each Orc gains <b>Pursuit</b>",
     "Text_CN": "追逐。所有兽人获得关键词『追逐』。"
   },
   {
@@ -6011,7 +6116,7 @@
   },
   {
     "Id": "C_WARGS_TEXT",
-    "Text": "<b>Surge.</b> Deal +1 damage when attacking",
+    "Text": "<b>Surge</b>. Deal +1 damage when attacking",
     "Text_CN": "侵攻（1）。警惕。"
   },
   {
@@ -6101,7 +6206,7 @@
   },
   {
     "Id": "C_WESTFOLDOUTRIDER_TEXT",
-    "Text": "<b>Arrival:</b> Deal 2 damage to an undamaged Enemy",
+    "Text": "<b>Arrival</b>: Deal 2 damage to an undamaged Enemy",
     "Text_CN": "登场：对一名未受到伤害的敌人造成2点伤害。"
   },
   {
@@ -6116,7 +6221,7 @@
   },
   {
     "Id": "C_WILDBEAR_TEXT",
-    "Text": "<b>Pursuit. Stalwart</b>",
+    "Text": "<b>Pursuit</b>. <b>Stalwart</b>",
     "Text_CN": "追逐。强壮。"
   },
   {
@@ -6131,7 +6236,7 @@
   },
   {
     "Id": "C_WOODLANDCOURIER_TEXT",
-    "Text": "<b>Arrival:</b> Apply 1 progress",
+    "Text": "<b>Arrival</b>: Apply 1 progress",
     "Text_CN": "登场：令一个目标获得1点进度。"
   },
   {
@@ -6146,7 +6251,7 @@
   },
   {
     "Id": "C_ZIGILMINER_TEXT",
-    "Text": "<b>Power:</b> Exhaust to gain \n+1 Resource",
+    "Text": "<b>Power</b>: Exhaust to gain \n+1 Resource",
     "Text_CN": ""
   },
   {
@@ -7148,115 +7253,5 @@
     "Id": "G_068_TERM",
     "Text": "Willpower",
     "Text_CN": "领导型"
-  },
-  {
-    "Id": "C_ATEST180307_TITLE",
-    "Text": "test",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ATEST180307_TEXT",
-    "Text": "test",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ATEST180307_FLAVOR",
-    "Text": "C_ATEST180307_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE__NAME",
-    "Text": "NewStage",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE__TEXT",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE__OBJECTIVE",
-    "Text": "",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_TREACHEROUSSHORTCUT_NAME",
-    "Text": "Treacherous Shortcut",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_TREACHEROUSSHORTCUT_TEXT",
-    "Text": "<i><size=58>P</size>laceholder.  You picked the tough part of the river.  Now figure out how to proceed.</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_TREACHEROUSSHORTCUT_OBJECTIVE",
-    "Text": "Resolve <i>River Channel</i> to allow travel from this location.",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_GENTLEWATERS_NAME",
-    "Text": "Gentle Waters",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_GENTLEWATERS_TEXT",
-    "Text": "<i><size=58>P</size>laceholder.  Look at that pretty water.  Oh so pretty.</i>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "Q_STAGE_GENTLEWATERS_OBJECTIVE",
-    "Text": "Resolve <i>River Bend</i> to allow travel from this location.",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ROCKS_TITLE",
-    "Text": "Rocks!",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ROCKS_TEXT",
-    "Text": "End of round: Gain +1 Threat until this is resolved",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ROCKS_FLAVOR",
-    "Text": "C_ROCKS_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_ITHILIENARCHER_FLAVOR",
-    "Text": "C_ITHILIENARCHER_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_DOLGULDURARCHER_FLAVOR",
-    "Text": "C_DOLGULDURARCHER_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_DOLGULDURARCHER_TITLE",
-    "Text": "Dol Guldur Archer",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_DOLGULDURARCHER_TEXT",
-    "Text": "<b>Ranged</b>",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_TEST032318_FLAVOR",
-    "Text": "C_TEST032318_FLAVOR",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_TEST032318_TITLE",
-    "Text": "test032318",
-    "Text_CN": ""
-  },
-  {
-    "Id": "C_TEST032318_TEXT",
-    "Text": "C_TEST032318_TEXT",
-    "Text_CN": ""
   }
 ]
