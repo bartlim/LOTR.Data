@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -653,6 +653,21 @@
     "Id": "U_INGAME_CARD_OPTION_DISCARDALLY",
     "Text": "Discard an Ally",
     "Text_CN": "弃置麾下一名盟友。"
+  },
+  {
+    "Id": "U_INGAME_DISCARD_HANDCARD",
+    "Text": "Please Discard 1 Card",
+    "Text_CN": "请丢弃1张手牌"
+  },
+  {
+    "Id": "U_INGAME_DISCARD_HANDCARDS",
+    "Text": "Please Discard {0} Cards",
+    "Text_CN": "请丢弃{0}张手牌"
+  },
+  {
+    "Id": "U_INGAME_DISCARD_WARNING",
+    "Text": "Incorrect number of cards selected. Please choose again",
+    "Text_CN": "所选手牌数量不正确。请重新选取"
   },
   {
     "Id": "U_CARDTYPE_ALLY",
@@ -1895,9 +1910,19 @@
     "Text_CN": "Istari"
   },
   {
+    "Id": "U_SHOP_CB_ISTARI_FLAVOR",
+    "Text": "\"…it is said: Do not meddle in the affairs of Wizards, for they are subtle and quick to anger.\"\n\n—Gildor, <i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "U_SHOP_CB_SHIRE",
     "Text": "Shire",
     "Text_CN": "Shire"
+  },
+  {
+    "Id": "U_SHOP_CB_SHIRE_FLAVOR",
+    "Text": "Forty leagues it stretched from the Far Downs to the Brandywine Bridge, and fifty from the northern moors to the marshes in the south. The Hobbits named it the Shire…\n\n—<i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
   },
   {
     "Id": "U_SHOP_CB_STEWARDOFGONDOR",
@@ -1905,24 +1930,49 @@
     "Text_CN": "Steward of Gondor"
   },
   {
+    "Id": "U_SHOP_CB_STEWARDOFGONDOR_FLAVOR",
+    "Text": "\"…this City and realm has rested in the charge of the Stewards for many long years…\"\n—Aragorn, <i>The Return of the King</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "U_SHOP_CB_THEONERING",
     "Text": "The One Ring",
     "Text_CN": "The One Ring"
   },
   {
+    "Id": "U_SHOP_CB_THEONERING_FLAVOR",
+    "Text": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them…\n\n—<i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
+  },
+  {
     "Id": "U_SHOP_CB_CLASSIC",
-    "Text": "Classic",
-    "Text_CN": "Classic"
+    "Text": "The One Ring (Classic)",
+    "Text_CN": "The One Ring (Classic)"
+  },
+  {
+    "Id": "U_SHOP_CB_CLASSIC_FLAVOR",
+    "Text": "\"This is the One Ring that he lost many ages ago, to the great weakening of his power. He greatly desires it — but he must not get it.\"\n\n—Gandalf, <i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
   },
   {
     "Id": "U_SHOP_SCB_CLASSIC",
-    "Text": "Classic Sauron Card Back",
-    "Text_CN": "Classic Sauron Card Back"
+    "Text": "The Eye of Sauron (Classic)",
+    "Text_CN": "The Eye of Sauron (Classic)"
+  },
+  {
+    "Id": "U_SHOP_SCB_CLASSIC_FLAVOR",
+    "Text": "The Eye was rimmed with fire, but was itself glazed, yellow as a cat's, watchful and intent, and the black slit of its pupil opened on a pit, a window into nothing.\n\n—<i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
   },
   {
     "Id": "U_SHOP_SCB_DEFAULT",
-    "Text": "Sauron Card Back",
-    "Text_CN": "Sauron Card Back"
+    "Text": "The Eye of Sauron",
+    "Text_CN": "The Eye of Sauron"
+  },
+  {
+    "Id": "U_SHOP_SCB_DEFAULT_FLAVOR",
+    "Text": "In the black abyss there appeared a single Eye that slowly grew…\n\n—<i>The Fellowship of the Ring</i>",
+    "Text_CN": ""
   },
   {
     "Id": "U_SHOP_PF_ISTARI",
@@ -2066,7 +2116,7 @@
   },
   {
     "Id": "U_QUEST_SCORE_YOUR_SCORE",
-    "Text": "Your Score",
+    "Text": "SCORING",
     "Text_CN": "您的分数"
   },
   {
@@ -2096,8 +2146,8 @@
   },
   {
     "Id": "U_QUEST_SCORE_FAVOR_CARD_BONUS",
-    "Text": "Favor Card Used",
-    "Text_CN": "使用福利卡"
+    "Text": "Favor Card Selected",
+    "Text_CN": "福利卡已选择"
   },
   {
     "Id": "U_QUEST_SCORE_TOTAL",
@@ -2111,7 +2161,12 @@
   },
   {
     "Id": "U_QUEST_SCORE_REWARDS",
-    "Text": "Rewards",
+    "Text": "REWARDS",
+    "Text_CN": "奖励"
+  },
+  {
+    "Id": "U_QUEST_SCORE_REWARD",
+    "Text": "REWARD",
     "Text_CN": "奖励"
   },
   {
@@ -2322,6 +2377,11 @@
   {
     "Id": "U_SHOP_CB_MIRKWOOD",
     "Text": "Mirkwood",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_SHOP_CB_MIRKWOOD_FLAVOR",
+    "Text": "\"Well, here is Mirkwood!\" said Gandalf. \"The greatest of the forests of the Northern world. I hope you like the look of it.\"\n\n—<i>The Hobbit</i>",
     "Text_CN": ""
   },
   {
@@ -2707,6 +2767,236 @@
   {
     "Id": "U_DC_COMPLETED",
     "Text": "COMPLETED!",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_ADVENTURER",
+    "Text": "Adventurer",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_AMBUSHER",
+    "Text": "Ambusher",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_ARMORER",
+    "Text": "Armorer",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_CONFIDENT",
+    "Text": "Confident",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_DEFENDER",
+    "Text": "Defender",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_FOREWARNEDISFOREARMED",
+    "Text": "Forewarned is Forearmed",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_FRIENDSINHIGHPLACES",
+    "Text": "Friends in High Places",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_GENERAL",
+    "Text": "General",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_HAMMERSMITH",
+    "Text": "Hammersmith",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_LEADERSHIPPLAYER",
+    "Text": "Leadership Player",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_LEADERSHIPVICTORY",
+    "Text": "Leadership Victory",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_LOREMASTER",
+    "Text": "Loremaster",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_LOREPLAYER",
+    "Text": "Lore Player",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_LOREVICTORY",
+    "Text": "Lore Victory",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_SNIPER",
+    "Text": "Sniper",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_SPIRITPLAYER",
+    "Text": "Spirit Player",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_SPIRITVICTORY",
+    "Text": "Spirit Victory",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_TACTICSPLAYER",
+    "Text": "Tactics Player",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_TACTICSVICTORY",
+    "Text": "Tactics Victory",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_THRIFTY",
+    "Text": "Thrifty",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_VENGEFUL",
+    "Text": "Vengeful",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_WARRIOR",
+    "Text": "Warrior",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_NAME_WIZARD",
+    "Text": "Wizard",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_ADVENTURER",
+    "Text": "Overcome {0} Objectives",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_AMBUSHER",
+    "Text": "Play {0} Allies with Arrival",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_ARMORER",
+    "Text": "Play {0} weapon or armor Attachments",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_CONFIDENT",
+    "Text": "Complete {0} Quests on Hard difficulty",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_DEFENDER",
+    "Text": "Play {0} Allies with Guard",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_FOREWARNEDISFOREARMED",
+    "Text": "Play {0} Preparation cards",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_FRIENDSINHIGHPLACES",
+    "Text": "Play {0} Unique Ally cards",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_GENERAL",
+    "Text": "Play {0} Ally cards",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_HAMMERSMITH",
+    "Text": "Play {0} Attachment cards",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_LEADERSHIPPLAYER",
+    "Text": "Play {0} Leadership cards",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_LEADERSHIPVICTORY",
+    "Text": "Complete {0} Quests with at least 1 Leadership Hero",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_LOREMASTER",
+    "Text": "Play {0} Event cards from each sphere",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_LOREPLAYER",
+    "Text": "Play {0} Lore cards",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_LOREVICTORY",
+    "Text": "Complete {0} Quests with at least 1 Lore Hero",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_SNIPER",
+    "Text": "Play {0} Allies with Ranged",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_SPIRITPLAYER",
+    "Text": "Play {0} Spirit cards",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_SPIRITVICTORY",
+    "Text": "Complete {0} Quests with at least 1 Spirit Hero",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_TACTICSPLAYER",
+    "Text": "Play {0} Tactics cards",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_TACTICSVICTORY",
+    "Text": "Complete {0} Quests with at least 1 Tactics Hero",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_THRIFTY",
+    "Text": "Play {0} Ally card that cost 1 or less",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_VENGEFUL",
+    "Text": "Play {0} Allies with Revenge",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_WARRIOR",
+    "Text": "Defeat {0} Enemies",
+    "Text_CN": ""
+  },
+  {
+    "Id": "U_DC_GOAL_WIZARD",
+    "Text": "Play {0} Event cards",
     "Text_CN": ""
   },
   {
