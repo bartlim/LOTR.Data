@@ -27,7 +27,7 @@
         },
         {
           "Id": "DarkSorcery",
-          "Quantity": 1,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -35,6 +35,13 @@
         {
           "Id": "Despair",
           "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "DolGuldurArcher",
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -76,14 +83,14 @@
         },
         {
           "Id": "PursuedByShadow",
-          "Quantity": 1,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
           "Id": "SpiesofShadow",
-          "Quantity": 1,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -153,7 +160,7 @@
         },
         {
           "Id": "Hummerhorns",
-          "Quantity": 1,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -168,6 +175,13 @@
         {
           "Id": "LowOnSupplies",
           "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "MuckAdder",
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -220,6 +234,13 @@
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
+        },
+        {
+          "Id": "TurnedAround",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
         }
       ]
     },
@@ -253,21 +274,6 @@
         ]
       },
       {
-        "Title": "AmbushOnTheShore",
-        "SoloGameSetup": [
-          "AmbushOnTheShore",
-          "OrcMarauder",
-          "Wargs",
-          "EliteDolGuldurOrcs",
-          "ChieftainUfthak"
-        ],
-        "CoopGameSetup": [],
-        "NextStages": [],
-        "NextStageTitles": [
-          ""
-        ]
-      },
-      {
         "Title": "TreacherousShortcut",
         "SoloGameSetup": [
           "RiverChannel",
@@ -295,14 +301,29 @@
         "NextStageTitles": [
           "AmbushOnTheShore"
         ]
+      },
+      {
+        "Title": "AmbushOnTheShore",
+        "SoloGameSetup": [
+          "AmbushOnTheShore",
+          "OrcMarauder",
+          "Wargs",
+          "EliteDolGuldurOrcs",
+          "ChieftainUfthak"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ]
       }
     ],
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180322054951856",
+  "Version": "20180329020743161",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180322054951856"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180329020743161"
 }
