@@ -19,13 +19,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "BlockedPath",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "CreatureOfDarkness",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -131,8 +124,8 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "WatchfulEyes",
-          "Quantity": 2,
+          "Id": "BlockedPath",
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -189,6 +182,13 @@
         {
           "Id": "UnderTheWatchfulEye",
           "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "WatchfulEyes",
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -298,9 +298,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180322054955832",
+  "Version": "20180329020748239",
   "Key": "MainQuest",
   "SubKey": "ConflictAtTheCarrock",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180322054955832"
+  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180329020748239"
 }
