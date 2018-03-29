@@ -530,14 +530,6 @@
           "Amount": 2
         },
         {
-          "Id": "AccursedForest",
-          "Amount": 1
-        },
-        {
-          "Id": "BlockedPath",
-          "Amount": 1
-        },
-        {
           "Id": "CreatureOfDarkness",
           "Amount": 2
         },
@@ -606,8 +598,8 @@
           "Amount": 1
         },
         {
-          "Id": "WatchfulEyes",
-          "Amount": 2
+          "Id": "BlockedPath",
+          "Amount": 1
         },
         {
           "Id": "EastBightPatrol",
@@ -638,10 +630,6 @@
           "Amount": 2
         },
         {
-          "Id": "SpidersOfMirkwood",
-          "Amount": 1
-        },
-        {
           "Id": "ThickWebs",
           "Amount": 1
         },
@@ -651,6 +639,14 @@
         },
         {
           "Id": "UnderTheWatchfulEye",
+          "Amount": 1
+        },
+        {
+          "Id": "WatchfulEyes",
+          "Amount": 2
+        },
+        {
+          "Id": "AccursedForest",
           "Amount": 1
         },
         {
@@ -675,6 +671,10 @@
         },
         {
           "Id": "OrcMarauder",
+          "Amount": 1
+        },
+        {
+          "Id": "SpidersOfMirkwood",
           "Amount": 1
         },
         {
@@ -803,11 +803,15 @@
         },
         {
           "Id": "DarkSorcery",
-          "Amount": 1
+          "Amount": 2
         },
         {
           "Id": "Despair",
           "Amount": 1
+        },
+        {
+          "Id": "DolGuldurArcher",
+          "Amount": 2
         },
         {
           "Id": "DrivenByShadow",
@@ -831,11 +835,11 @@
         },
         {
           "Id": "PursuedByShadow",
-          "Amount": 1
+          "Amount": 2
         },
         {
           "Id": "SpiesofShadow",
-          "Amount": 1
+          "Amount": 2
         },
         {
           "Id": "TreacherousFog",
@@ -875,7 +879,7 @@
         },
         {
           "Id": "Hummerhorns",
-          "Amount": 1
+          "Amount": 2
         },
         {
           "Id": "Hunted",
@@ -884,6 +888,10 @@
         {
           "Id": "LowOnSupplies",
           "Amount": 1
+        },
+        {
+          "Id": "MuckAdder",
+          "Amount": 2
         },
         {
           "Id": "Tribulation",
@@ -912,6 +920,10 @@
         {
           "Id": "TheNecromancersReach",
           "Amount": 1
+        },
+        {
+          "Id": "TurnedAround",
+          "Amount": 2
         }
       ]
     },
@@ -976,10 +988,6 @@
           "Amount": 2
         },
         {
-          "Id": "BlockedPath",
-          "Amount": 1
-        },
-        {
           "Id": "CreatureOfDarkness",
           "Amount": 2
         },
@@ -1040,8 +1048,8 @@
           "Amount": 1
         },
         {
-          "Id": "WatchfulEyes",
-          "Amount": 2
+          "Id": "BlockedPath",
+          "Amount": 1
         },
         {
           "Id": "EvilStorm",
@@ -1074,6 +1082,10 @@
         {
           "Id": "UnderTheWatchfulEye",
           "Amount": 1
+        },
+        {
+          "Id": "WatchfulEyes",
+          "Amount": 2
         },
         {
           "Id": "AnduinTrollSpawn",
