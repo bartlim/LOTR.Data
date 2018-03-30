@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -4436,14 +4436,12 @@
   {
     "Id": "C_ATEST180307_TEXT",
     "Text": "test",
-    "Text_CN": "test",
-    "Text_FR": ""
+    "Text_CN": "test"
   },
   {
     "Id": "C_ATEST180307_TITLE",
     "Text": "test",
-    "Text_CN": "test",
-    "Text_FR": ""
+    "Text_CN": "test"
   },
   {
     "Id": "C_ATEST181120_FLAVOR",
@@ -9052,5 +9050,10 @@
     "Text": "Willpower",
     "Text_CN": "领导型",
     "Text_FR": "vigile"
+  },
+  {
+    "Id": "C_ATEST180307_FLAVOR",
+    "Text": "C_ATEST180307_FLAVOR",
+    "Text_CN": ""
   }
 ]
