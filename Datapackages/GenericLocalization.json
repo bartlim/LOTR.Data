@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -4436,12 +4436,14 @@
   {
     "Id": "C_ATEST180307_TEXT",
     "Text": "test",
-    "Text_CN": "test"
+    "Text_CN": "test",
+    "Text_FR": "test"
   },
   {
     "Id": "C_ATEST180307_TITLE",
     "Text": "test",
-    "Text_CN": "test"
+    "Text_CN": "test",
+    "Text_FR": "test"
   },
   {
     "Id": "C_ATEST181120_FLAVOR",
@@ -8230,7 +8232,7 @@
     "Text_FR": "The time has come to begin your journey. Go forth and fare well!"
   },
   {
-    "Id": "PLACEHOLDER5",
+    "Id": "_PLACEHOLDER5",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_FR": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -8297,9 +8299,9 @@
   },
   {
     "Id": "G_006_DESC",
-    "Text": "A card type representing armor, weapons, or special abilities. Unless otherwise stated, it modifies only the Character or Enemy to which it is equipped.",
-    "Text_CN": "A card type representing armor, weapons, or special abilities. Unless otherwise stated, it modifies only the Character or Enemy to which it is equipped.",
-    "Text_FR": "A card type representing armor, weapons, or special abilities. Unless otherwise stated, it modifies only the Character or Enemy to which it is equipped."
+    "Text": "A card type representing armor, weapons, or special abilities. Unless otherwise stated, it modifies only the Character to which it is equipped.",
+    "Text_CN": "A card type representing armor, weapons, or special abilities. Unless otherwise stated, it modifies only the Character to which it is equipped.",
+    "Text_FR": "A card type representing armor, weapons, or special abilities. Unless otherwise stated, it modifies only the Character to which it is equipped."
   },
   {
     "Id": "G_006_TERM",
@@ -8333,9 +8335,9 @@
   },
   {
     "Id": "G_009_DESC",
-    "Text": "(Keyword) Each time damage is taken, reduces the amount by 1.",
-    "Text_CN": "在每个轮次开始时玩家都会进行休整：你的威胁值会上升至少1点；所有行动完毕的卡牌都会再次可用；玩家与索隆的资源都会更新；玩家可从牌组中抽取1张卡牌；一些特定的技能可在这个时期内使用。",
-    "Text_FR": "Points de Vaillance supplémentaires reçus en récompense en jouant en mode Difficile."
+    "Text": "(Keyword) Each time the Character takes damage, reduce the amount by 1.",
+    "Text_CN": "(Keyword) Each time the Character takes damage, reduce the amount by 1.",
+    "Text_FR": "(Keyword) Each time the Character takes damage, reduce the amount by 1."
   },
   {
     "Id": "G_009_TERM",
@@ -8381,9 +8383,9 @@
   },
   {
     "Id": "G_013_DESC",
-    "Text": "This card type refers to all Heroes and Allies.",
-    "Text_CN": "中土世界的种族。",
-    "Text_FR": "Terme générique pour un personnage ou un objectif étant l'objet d'une action. "
+    "Text": "This card type refers to all Heroes and Allies. Enemies are also considered Characters.",
+    "Text_CN": "This card type refers to all Heroes and Allies. Enemies are also considered Characters.",
+    "Text_FR": "This card type refers to all Heroes and Allies. Enemies are also considered Characters."
   },
   {
     "Id": "G_013_TERM",
@@ -8405,655 +8407,722 @@
   },
   {
     "Id": "G_015_DESC",
-    "Text": "A defeated Character or Enemy is discarded. This can occur by falling to 0 Health or through some other means.",
-    "Text_CN": "完成目标所需耗费的意志力点数。",
-    "Text_FR": "Cette sphère d'influence souligne le potentiel intellectuel d'un héros. L'intelligence, la sagesse, l'expérience et le savoir spécialisé sont dans le champ de cette sphère de connaissance."
+    "Text": "The cards you use in the Quest. Rollover to see how many remain.",
+    "Text_CN": "The cards you use in the Quest. Rollover to see how many remain.",
+    "Text_FR": "The cards you use in the Quest. Rollover to see how many remain."
   },
   {
     "Id": "G_015_TERM",
+    "Text": "Deck",
+    "Text_CN": "Deck",
+    "Text_FR": "Deck"
+  },
+  {
+    "Id": "G_016_DESC",
+    "Text": "A defeated Character is discarded. This can occur by falling to 0 Health or through some other means.",
+    "Text_CN": "A defeated Character is discarded. This can occur by falling to 0 Health or through some other means.",
+    "Text_FR": "A defeated Character is discarded. This can occur by falling to 0 Health or through some other means."
+  },
+  {
+    "Id": "G_016_TERM",
     "Text": "Defeated",
     "Text_CN": "冒险点数",
     "Text_FR": "Connaissance"
   },
   {
-    "Id": "G_016_DESC",
+    "Id": "G_017_DESC",
     "Text": "The challenge level you face in a Quest: Easy, Normal, or Hard. Sauron's Resources increase as the difficulty goes up, but you can gain greater rewards if you survive!",
     "Text_CN": "你会在这个阶段内与索隆进行回合制的较量，并可攻击敌人或者挑战目标。",
     "Text_FR": "Toutes les cartes des joueurs et de Sauron ont un coût qui est indiqué dans le coin en haut à gauche. Il s'agit de la quantité de ressources à dépenser pour pouvoir jouer chaque carte. Les héros n'ont pas de coût, puisqu'ils commencent la partie en jeu."
   },
   {
-    "Id": "G_016_TERM",
+    "Id": "G_017_TERM",
     "Text": "Difficulty",
     "Text_CN": "冒险阶段",
     "Text_FR": "Coût"
   },
   {
-    "Id": "G_017_DESC",
-    "Text": "(Trait) One of the Dúnedain, the Men of the West.",
-    "Text_CN": "中土世界中最杰出的人类王国。",
-    "Text_FR": "Un pack fixe de 5 cartes. Chaque pack inclut 1 héros et 1 carte de chaque sphère d'influence."
+    "Id": "G_018_DESC",
+    "Text": "(Trait) One of the Dúnedain, the Man of the West.",
+    "Text_CN": "(Trait) One of the Dúnedain, the Man of the West.",
+    "Text_FR": "(Trait) One of the Dúnedain, the Man of the West."
   },
   {
-    "Id": "G_017_TERM",
+    "Id": "G_018_TERM",
     "Text": "Dúnadan",
     "Text_CN": "杜内丹人",
     "Text_FR": "Dúnadan"
   },
   {
-    "Id": "G_018_DESC",
+    "Id": "G_019_DESC",
     "Text": "The act of committing a Character to an Objective.",
     "Text_CN": "关键词。当游戏中存在敌人时，玩家无法挑战拥有此关键词的目标。",
     "Text_FR": "Combinaison de cartes alliés, attachements ou événements que vous piochez lors d'une quête. Chaque deck est composé de 30 cartes et ne peut disposer que d'un maximum de 2 copies de chaque carte. Un deck de joueur est basé sur 3 héros de votre choix, et déterminez les sphères parmi lesquelles choisir les cartes de votre deck."
   },
   {
-    "Id": "G_018_TERM",
+    "Id": "G_019_TERM",
     "Text": "Engage",
     "Text_CN": "加护",
     "Text_FR": "Deck de joueur"
   },
   {
-    "Id": "G_019_DESC",
+    "Id": "G_020_DESC",
     "Text": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game.",
     "Text_CN": "游玩困难难度时获得的勇猛点数加成。",
     "Text_FR": "Une aventure spécifique composée de 3 à 5 lieux. "
   },
   {
-    "Id": "G_019_TERM",
+    "Id": "G_020_TERM",
     "Text": "Event",
     "Text_CN": "事件",
     "Text_FR": "Événement"
   },
   {
-    "Id": "G_020_DESC",
-    "Text": "A card is exhausted when it is used. All exhausted cards ready during Upkeep, unless noted otherwise.",
-    "Text_CN": "A card is exhausted when it is used. All exhausted cards ready during Upkeep, unless noted otherwise.",
-    "Text_FR": "A card is exhausted when it is used. All exhausted cards ready during Upkeep, unless noted otherwise."
+    "Id": "G_021_DESC",
+    "Text": "A card is exhausted when it is used. All exhausted cards ready during Upkeep.",
+    "Text_CN": "A card is exhausted when it is used. All exhausted cards ready during Upkeep.",
+    "Text_FR": "A card is exhausted when it is used. All exhausted cards ready during Upkeep."
   },
   {
-    "Id": "G_020_TERM",
+    "Id": "G_021_TERM",
     "Text": "Exhausted",
     "Text_CN": "勇猛点数",
     "Text_FR": "Défi épique"
   },
   {
-    "Id": "G_021_DESC",
+    "Id": "G_022_DESC",
     "Text": "An expendable card that you can use for an immediate in-game effect.",
     "Text_CN": "显示在你的概况界面上的图标。",
     "Text_FR": "La première fois qu'un joueur se connecte chaque 24 heures, le jeu génère un défi aléatoire lié à une quête déverrouillée aléatoire. Le joueur reçoit une récompense en Vaillance (et d'autres récompenses potentielles) une fois le défi quotidien terminé."
   },
   {
-    "Id": "G_021_TERM",
+    "Id": "G_022_TERM",
     "Text": "Favor Card",
     "Text_CN": "化身",
     "Text_FR": "Défi quotidien"
   },
   {
-    "Id": "G_022_DESC",
+    "Id": "G_023_DESC",
     "Text": "(Keyword) The card is discarded at the end of the round.",
     "Text_CN": "这种属性类别注重于思维上的潜力。认知、智识、经验以及专门类别的知识都属于博学型的范畴。",
     "Text_FR": "Un indicateur de la puissance de Sauron pour chaque quête. Il existe trois niveaux de difficulté : Facile, Normal et Difficile. Les ressources de Sauron augmentent avec la difficulté, mais les récompenses aussi... si jamais vous réussissez à survivre !"
   },
   {
-    "Id": "G_022_TERM",
+    "Id": "G_023_TERM",
     "Text": "Fleeting",
     "Text_CN": "博学型",
     "Text_FR": "Difficulté"
   },
   {
-    "Id": "G_023_DESC",
+    "Id": "G_024_DESC",
+    "Text": "Select to adjust game settings or to leave the Quest.",
+    "Text_CN": "Select to adjust game settings or to leave the Quest.",
+    "Text_FR": "Select to adjust game settings or to leave the Quest."
+  },
+  {
+    "Id": "G_024_TERM",
+    "Text": "Game Options",
+    "Text_CN": "Game Options",
+    "Text_FR": "Game Options"
+  },
+  {
+    "Id": "G_025_DESC",
+    "Text": "Important keywords and terminology.",
+    "Text_CN": "Important keywords and terminology.",
+    "Text_FR": "Important keywords and terminology."
+  },
+  {
+    "Id": "G_025_TERM",
+    "Text": "Glossary",
+    "Text_CN": "Glossary",
+    "Text_FR": "Glossary"
+  },
+  {
+    "Id": "G_026_DESC",
     "Text": "(Trait) A person from the most prominent kingdom of Men in Middle-earth.",
     "Text_CN": "关键词。拥有此关键词的人物必须被首先击败，随后那些没有哨兵关键词的人物才能成为攻击目标。",
     "Text_FR": "Une carte est épuisée une fois utilisée. Toutes les cartes épuisées sont préparées pendant l'entretien."
   },
   {
-    "Id": "G_023_TERM",
+    "Id": "G_026_TERM",
     "Text": "Gondor",
     "Text_CN": "刚铎人",
     "Text_FR": "Gondor"
   },
   {
-    "Id": "G_024_DESC",
-    "Text": "(Keyword) You must defeat this target before you can attack another.",
-    "Text_CN": "消耗性卡牌，使用后可以即刻获得一个游戏效果。玩家可以在冒险开始时将一张神恩卡牌添加到牌桌上。",
-    "Text_FR": "La fois suivante qu'un personnage avec ce mot-clé subit des points de dégâts, ceux-ci sont annulés. Ce personnage perd ensuite Protection."
+    "Id": "G_027_DESC",
+    "Text": "(Keyword) The Character must be defeated before you can attack another Character or engage an Objective.",
+    "Text_CN": "(Keyword) The Character must be defeated before you can attack another Character or engage an Objective.",
+    "Text_FR": "(Keyword) The Character must be defeated before you can attack another Character or engage an Objective."
   },
   {
-    "Id": "G_024_TERM",
+    "Id": "G_027_TERM",
     "Text": "Guard",
     "Text_CN": "神恩卡牌",
     "Text_FR": "Protection"
   },
   {
-    "Id": "G_025_DESC",
-    "Text": "The amount of damage a Character or Enemy can suffer before being defeated.",
-    "Text_CN": "冒险上演的舞台。完成冒险需要探索一系列的场景。",
-    "Text_FR": "Type de carte qui décrit une action tactique, un piège, un coup du sort ou tout autre effet se déroulant pendant la partie. Un événement est résolu dès qu'il arrive en jeu. La carte est ensuite défaussée."
+    "Id": "G_028_DESC",
+    "Text": "Damage amount that can be suffered before being defeated.",
+    "Text_CN": "Damage amount that can be suffered before being defeated.",
+    "Text_FR": "Damage amount that can be suffered before being defeated."
   },
   {
-    "Id": "G_025_TERM",
+    "Id": "G_028_TERM",
     "Text": "Health",
     "Text_CN": "场景",
     "Text_FR": "Événement"
   },
   {
-    "Id": "G_026_DESC",
+    "Id": "G_029_DESC",
     "Text": "A main Character that you control during a Quest. Heroes start the game in play, and have a Threat value instead of a cost. If all your Heroes are defeated, you fail the Quest.",
     "Text_CN": "中土世界的一处地区。",
     "Text_FR": "Ce mot-clé se réfère à une capacité qui ne peut être ni évitée, ni annulée."
   },
   {
-    "Id": "G_026_TERM",
+    "Id": "G_029_TERM",
     "Text": "Hero",
     "Text_CN": "英雄",
     "Text_FR": "Héros"
   },
   {
-    "Id": "G_027_DESC",
+    "Id": "G_030_DESC",
+    "Text": "Shows recent actions in gameplay.",
+    "Text_CN": "Shows recent actions in gameplay.",
+    "Text_FR": "Shows recent actions in gameplay."
+  },
+  {
+    "Id": "G_030_TERM",
+    "Text": "History",
+    "Text_CN": "History",
+    "Text_FR": "History"
+  },
+  {
+    "Id": "G_031_DESC",
     "Text": "(Trait) One of a race of gentle beings with a reputation for preferring a settled life over excitement and adventure.",
     "Text_CN": "此数值只会出现在英雄卡牌上。当玩家在冒险中使用英雄时，它会在冒险开始时添加到威胁值计量器中。",
     "Text_FR": "Un personnage avec ce mot-clé ne peut pas être attaqué à moins que tous ses personnages ne disposant pas de Furtif ne soient épuisés."
   },
   {
-    "Id": "G_027_TERM",
+    "Id": "G_031_TERM",
     "Text": "Hobbit",
     "Text_CN": "霍比特人",
     "Text_FR": "Hobbit"
   },
   {
-    "Id": "G_028_DESC",
+    "Id": "G_032_DESC",
     "Text": "(Trait) An individual such as Gandalf or Saruman who is more than mortal and possessed of great age and power. ",
     "Text_CN": "(Trait) An individual such as Gandalf or Saruman who is more than mortal and possessed of great age and power. ",
     "Text_FR": "(Trait) An individual such as Gandalf or Saruman who is more than mortal and possessed of great age and power. "
   },
   {
-    "Id": "G_028_TERM",
+    "Id": "G_032_TERM",
     "Text": "Istar",
     "Text_CN": "伊斯塔尔",
     "Text_FR": "Istar"
   },
   {
-    "Id": "G_029_DESC",
+    "Id": "G_033_DESC",
     "Text": "A Sphere of Influence representing the potential to lead, inspire, and command others.",
     "Text_CN": "对于成为行动对象的人物或任务的一般性描述。 ",
     "Text_FR": "Le plus grand royaume des Hommes de la Terre du Milieu."
   },
   {
-    "Id": "G_029_TERM",
+    "Id": "G_033_TERM",
     "Text": "Leadership",
     "Text_CN": "领导型",
     "Text_FR": "Commandement"
   },
   {
-    "Id": "G_030_DESC",
+    "Id": "G_034_DESC",
     "Text": "A distinct Quest stage. Completing a Quest requires advancing through a series of Locations.",
     "Text_CN": "游戏中存在四种属性类别：领导型、博学型、精神型与战术型。每种类别均注重于一种特定属性的强度。每个英雄都会从属于一个类别，这也决定了你在牌组中可以使用的卡牌种类。",
     "Text_FR": "Un héros est le personnage principal que vous contrôlez lors d'une quête. Les héros peuvent participer à des objectifs ou à des combats contre les ennemis, et peuvent disposer de pouvoirs supplémentaires que vous pourrez utiliser. Les héros forment la base de chaque deck que vous créez : les héros choisis déterminent la sphère d'influence dont vous devrez choisir les cartes pour composer votre deck. Les héros commencent la partie en jeu, et disposent d'un niveau de menace à la place du coût. Si tous vos héros sont vaincus, la quête est échouée."
   },
   {
-    "Id": "G_030_TERM",
+    "Id": "G_034_TERM",
     "Text": "Location",
     "Text_CN": "属性类别",
     "Text_FR": "Héros"
   },
   {
-    "Id": "G_031_DESC",
+    "Id": "G_035_DESC",
     "Text": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge.",
     "Text_CN": "在这个阶段中，玩家与索隆会依次从各自的牌组中布置盟友、装备与事件卡牌。",
     "Text_FR": "Une race bienveillante avec la réputation de préférer une vie bien tranquille à l'excitation de l'aventure."
   },
   {
-    "Id": "G_031_TERM",
+    "Id": "G_035_TERM",
     "Text": "Lore",
     "Text_CN": "博学型",
     "Text_FR": "Connaissance"
   },
   {
-    "Id": "G_032_DESC",
-    "Text": "(Trait) A powerful lieutenant of Sauron.",
-    "Text_CN": "关键词。拥有此关键词的人物在第一次受到攻击时不会进入行动完毕状态。",
-    "Text_FR": "La seconde campagne du jeu Le Seigneur des Anneaux : Jeu de cartes évolutif."
-  },
-  {
-    "Id": "G_032_TERM",
-    "Text": "Nazgûl",
-    "Text_CN": "强壮",
-    "Text_FR": "Les ombres de la Forêt Noire"
-  },
-  {
-    "Id": "G_033_DESC",
+    "Id": "G_036_DESC",
     "Text": "(Trait) A person from the second clan of the Elves.",
     "Text_CN": "关键词。拥有此关键词的技能会在这张卡牌击败其他人时自动触发。",
     "Text_FR": "Une étape distincte d'une quête. Terminer une quête requiert de franchir une série de lieux."
   },
   {
-    "Id": "G_033_TERM",
+    "Id": "G_036_TERM",
     "Text": "Noldor",
     "Text_CN": "诺多精灵",
     "Text_FR": "Ñoldor"
   },
   {
-    "Id": "G_034_DESC",
+    "Id": "G_037_DESC",
     "Text": "A task that you may face in the course of a Quest.",
     "Text_CN": "人物在挑战目标时的效率。 ",
     "Text_FR": "Un personnage avec ce mot-clé n'est pas épuisé la première fois qu'il est attaqué."
   },
   {
-    "Id": "G_034_TERM",
+    "Id": "G_037_TERM",
     "Text": "Objective",
     "Text_CN": "目标",
     "Text_FR": "Objectif"
   },
   {
-    "Id": "G_035_DESC",
+    "Id": "G_038_DESC",
     "Text": "The primary goal you must resolve before you can advance to the next Location. ",
     "Text_CN": "The primary goal you must resolve before you can advance to the next Location. ",
     "Text_FR": "The primary goal you must resolve before you can advance to the next Location. "
   },
   {
-    "Id": "G_035_TERM",
+    "Id": "G_038_TERM",
     "Text": "Objective, Main",
     "Text_CN": "成本",
     "Text_FR": "Menaçant"
   },
   {
-    "Id": "G_036_DESC",
+    "Id": "G_039_DESC",
     "Text": "(Trait) A member of an evil and violent race who serve Sauron.",
     "Text_CN": "索隆麾下强大的副官。",
     "Text_FR": "Mot-clé pour une capacité de carte qui se déclenche immédiatement lorsqu'un personnage est vaincu."
   },
   {
-    "Id": "G_036_TERM",
+    "Id": "G_039_TERM",
     "Text": "Orc",
     "Text_CN": "兽人",
     "Text_FR": "Orque"
   },
   {
-    "Id": "G_037_DESC",
+    "Id": "G_040_DESC",
     "Text": "You can use the Palantír to gain rewards such as cards and Valor points.",
     "Text_CN": "You can use the Palantír to gain rewards such as cards and Valor points.",
     "Text_FR": "You can use the Palantír to gain rewards such as cards and Valor points."
   },
   {
-    "Id": "G_037_TERM",
+    "Id": "G_040_TERM",
     "Text": "Palantír",
     "Text_CN": "真知晶石",
     "Text_FR": "Palantír"
   },
   {
-    "Id": "G_038_DESC",
+    "Id": "G_041_DESC",
+    "Text": "Select to advance gameplay.",
+    "Text_CN": "Select to advance gameplay.",
+    "Text_FR": "Select to advance gameplay."
+  },
+  {
+    "Id": "G_041_TERM",
+    "Text": "Phase Button",
+    "Text_CN": "Phase Button",
+    "Text_FR": "Phase Button"
+  },
+  {
+    "Id": "G_042_DESC",
     "Text": "During this phase, you and Sauron take turns playing cards prior to adventuring.",
     "Text_CN": "这种属性类别注重于军事技艺，特别是那些在冒险中所需处理的战斗与战术挑战。",
     "Text_FR": "Uniquement trouvé sur les cartes de héros, ce chiffre est ajouté au compteur de niveau de Menace au début de toute quête dans laquelle vous utilisez ce héros."
   },
   {
-    "Id": "G_038_TERM",
+    "Id": "G_042_TERM",
     "Text": "Planning Phase",
     "Text_CN": "战术型",
     "Text_FR": "Niveau de menace"
   },
   {
-    "Id": "G_039_DESC",
+    "Id": "G_043_DESC",
     "Text": "These are any Ally, Attachment, and Event cards you use throughout a Quest.",
     "Text_CN": "These are any Ally, Attachment, and Event cards you use throughout a Quest.",
     "Text_FR": "These are any Ally, Attachment, and Event cards you use throughout a Quest."
   },
   {
-    "Id": "G_039_TERM",
+    "Id": "G_043_TERM",
     "Text": "Player Cards",
     "Text_CN": "战败",
     "Text_FR": "Ñoldor"
   },
   {
-    "Id": "G_040_DESC",
+    "Id": "G_044_DESC",
     "Text": "A deck of 30 cards based on 3 Heroes of your choice. You build each deck based on these Heroes, and you cannot have more than 2 copies of any individual card.",
     "Text_CN": "将人物派去挑战目标的游戏操作。 ",
     "Text_FR": "Il représente une tâche à laquelle vous devrez faire face au cours d'une quête. Les objectifs peuvent ralentir ou compliquer votre route vers la victoire, et devront souvent être atteints avant de pouvoir progresser vers le lieu suivant. Remplir des objectifs requiert de la Volonté et/ou de vaincre un ennemi. "
   },
   {
-    "Id": "G_040_TERM",
+    "Id": "G_044_TERM",
     "Text": "Player Deck",
     "Text_CN": "挑战",
     "Text_FR": "Objectif"
   },
   {
-    "Id": "G_041_DESC",
-    "Text": "(Keyword) An ability that you may choose to activate.",
-    "Text_CN": "(Keyword) An ability that you may choose to activate.",
-    "Text_FR": "(Keyword) An ability that you may choose to activate."
+    "Id": "G_045_DESC",
+    "Text": "(Keyword) An ability that you may choose to activaate.",
+    "Text_CN": "(Keyword) An ability that you may choose to activaate.",
+    "Text_FR": "(Keyword) An ability that you may choose to activaate."
   },
   {
-    "Id": "G_041_TERM",
+    "Id": "G_045_TERM",
     "Text": "Power",
     "Text_CN": "攻击",
     "Text_FR": "Objectif principal"
   },
   {
-    "Id": "G_042_DESC",
+    "Id": "G_046_DESC",
     "Text": "(Trait) An Event card type whose effect triggers based on a timing window or circumstance.",
     "Text_CN": "关键词。在每次受到伤害时，拥有此关键词的人物的具体伤害数值会降低1点。",
     "Text_FR": "Vous pouvez utiliser les visions du Palantír pour obtenir des récompenses telles que des cartes et des points de Vaillance."
   },
   {
-    "Id": "G_042_TERM",
+    "Id": "G_046_TERM",
     "Text": "Preparation",
     "Text_CN": "格挡",
     "Text_FR": "Palantír"
   },
   {
-    "Id": "G_043_DESC",
-    "Text": "The amount by which you reduce an Objective's Quest value each time you apply Willpower.",
-    "Text_CN": "每隔24小时，当玩家首次登录游戏后，游戏都会提供一项与已解锁的随机冒险相关的任务。完成每日任务后，玩家便会得到一项勇猛奖励（以及可能会存在的额外奖励）。",
-    "Text_FR": "L'action pour un personnage de prendre part à un objectif. "
+    "Id": "G_047_DESC",
+    "Text": "Indicates unrevealed Preparation cards.",
+    "Text_CN": "Indicates unrevealed Preparation cards.",
+    "Text_FR": "Indicates unrevealed Preparation cards."
   },
   {
-    "Id": "G_043_TERM",
+    "Id": "G_047_TERM",
+    "Text": "Preparation Sockets",
+    "Text_CN": "Preparation Sockets",
+    "Text_FR": "Preparation Sockets"
+  },
+  {
+    "Id": "G_048_DESC",
+    "Text": "The amount by which you reduce an Objective's Quest points each time you apply Willpower.",
+    "Text_CN": "The amount by which you reduce an Objective's Quest points each time you apply Willpower.",
+    "Text_FR": "The amount by which you reduce an Objective's Quest points each time you apply Willpower."
+  },
+  {
+    "Id": "G_048_TERM",
     "Text": "Progress",
     "Text_CN": "每日任务",
     "Text_FR": "Participer"
   },
   {
-    "Id": "G_044_DESC",
-    "Text": "(Keyword) The Enemy follows your Heroes from one Location to the next.",
-    "Text_CN": "关键词。只有在所有未拥有潜行关键词的人物全部行动完毕后，拥有此关键词的人物才会受到攻击。",
-    "Text_FR": "Tous ceux n'étant pas sous la férule de Sauron."
+    "Id": "G_049_DESC",
+    "Text": "(Keyword) The Character follows your Heroes from one Location to the next.",
+    "Text_CN": "(Keyword) The Character follows your Heroes from one Location to the next.",
+    "Text_FR": "(Keyword) The Character follows your Heroes from one Location to the next."
   },
   {
-    "Id": "G_044_TERM",
+    "Id": "G_049_TERM",
     "Text": "Pursuit",
     "Text_CN": "潜行",
     "Text_FR": "Peuples libres"
   },
   {
-    "Id": "G_045_DESC",
-    "Text": "The rating of how much Willpower is required to resolve an Objective.",
-    "Text_CN": "The rating of how much Willpower is required to resolve an Objective.",
-    "Text_FR": "The rating of how much Willpower is required to resolve an Objective."
+    "Id": "G_050_DESC",
+    "Text": "The value of an Objective. You use Willpower to resolve an Objective.",
+    "Text_CN": "The value of an Objective. You use Willpower to resolve an Objective.",
+    "Text_FR": "The value of an Objective. You use Willpower to resolve an Objective."
   },
   {
-    "Id": "G_045_TERM",
-    "Text": "Quest Value",
-    "Text_CN": "特性",
-    "Text_FR": "Phase d'organisation"
+    "Id": "G_050_TERM",
+    "Text": "Quest Points",
+    "Text_CN": "Quest Points",
+    "Text_FR": "Quest Points"
   },
   {
-    "Id": "G_046_DESC",
-    "Text": "(Keyword) The attacker does not take damage when attacking an exhausted target.",
-    "Text_CN": "这是玩家使用的盟友、装备与事件卡牌的搭配组合。在冒险过程中，玩家需要从中抽取卡牌来进行游戏。每个牌组拥有30张卡牌，并且任何卡牌都不会重复。牌组的基础是3张由玩家所选定的英雄，他们决定了玩家可从牌组中抽取的卡牌的属性类别。",
-    "Text_FR": "La quantité de points de dégâts qu'un personnage peut subir avant d'être vaincu."
+    "Id": "G_051_DESC",
+    "Text": "(Keyword) The Character does not take damage when attacking an exhausted target.",
+    "Text_CN": "(Keyword) The Character does not take damage when attacking an exhausted target.",
+    "Text_FR": "(Keyword) The Character does not take damage when attacking an exhausted target."
   },
   {
-    "Id": "G_046_TERM",
+    "Id": "G_051_TERM",
     "Text": "Ranged",
     "Text_CN": "玩家牌组",
     "Text_FR": "Points de vie"
   },
   {
-    "Id": "G_047_DESC",
-    "Text": "Each player card has a listed rarity: Starter, Common, Uncommon, Rare, Legendary, or by pack title. The less common a card is, the more potent its abilities.",
-    "Text_CN": "Each player card has a listed rarity: Starter, Common, Uncommon, Rare, Legendary, or by pack title. The less common a card is, the more potent its abilities.",
-    "Text_FR": "Each player card has a listed rarity: Starter, Common, Uncommon, Rare, Legendary, or by pack title. The less common a card is, the more potent its abilities."
+    "Id": "G_052_DESC",
+    "Text": "All player cards have a listed rarity: Starter and Hero, as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities.",
+    "Text_CN": "All player cards have a listed rarity: Starter and Hero, as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities.",
+    "Text_FR": "All player cards have a listed rarity: Starter and Hero, as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities."
   },
   {
-    "Id": "G_047_TERM",
+    "Id": "G_052_TERM",
     "Text": "Rarity",
     "Text_CN": "生命",
     "Text_FR": "Poursuite"
   },
   {
-    "Id": "G_048_DESC",
+    "Id": "G_053_DESC",
     "Text": "The act of completing, overcoming, or otherwise removing an Objective.",
     "Text_CN": "关键词。拥有此关键词的卡牌技能会在人物进入游戏时即刻触发。",
     "Text_FR": "Capacité de carte pouvant être activée lors de votre tour. En fonction de sa description, un pouvoir peut être activé une ou plusieurs fois par tour."
   },
   {
-    "Id": "G_048_TERM",
+    "Id": "G_053_TERM",
     "Text": "Resolve",
     "Text_CN": "登场",
     "Text_FR": "Pouvoir"
   },
   {
-    "Id": "G_049_DESC",
-    "Text": "A pool you can use on your turn to play cards from your deck. Resources refresh during Upkeep.",
-    "Text_CN": "卡牌大类。代表在冒险中协助你的英雄的朋友、随从、生物以及雇佣军。盟友会作为手牌打出，并在游戏中持续生效，直至他们被击败或者因卡牌效果而被移除为止。",
-    "Text_FR": "Forme abrégée du mot-clé « Préparation »."
+    "Id": "G_054_DESC",
+    "Text": "Used to play cards. Resources refresh during Upkeep.",
+    "Text_CN": "Used to play cards. Resources refresh during Upkeep.",
+    "Text_FR": "Used to play cards. Resources refresh during Upkeep."
   },
   {
-    "Id": "G_049_TERM",
+    "Id": "G_054_TERM",
     "Text": "Resources",
     "Text_CN": "盟友",
     "Text_FR": "Prép"
   },
   {
-    "Id": "G_050_DESC",
-    "Text": "(Keyword) The ability triggers when the Character or Enemy is defeated.",
-    "Text_CN": "关键词。拥有此关键词的卡牌会在每个轮次结束后令玩家的威胁值额外增加1点。",
-    "Text_FR": "Des mages tels que Gandalf et Saroumane. Plus que de simples mortels et disposant d'un grand pouvoir et d'un âge très avancé. "
+    "Id": "G_055_DESC",
+    "Text": "(Keyword) The ability triggers when the Character is defeated.",
+    "Text_CN": "(Keyword) The ability triggers when the Character is defeated.",
+    "Text_FR": "(Keyword) The ability triggers when the Character is defeated."
   },
   {
-    "Id": "G_050_TERM",
+    "Id": "G_055_TERM",
     "Text": "Revenge",
     "Text_CN": "强力威胁",
     "Text_FR": "Istar"
   },
   {
-    "Id": "G_051_DESC",
+    "Id": "G_056_DESC",
     "Text": "A person from the kingdom between the Misty Mountains and White Mountains.",
     "Text_CN": "A person from the kingdom between the Misty Mountains and White Mountains.",
     "Text_FR": "A person from the kingdom between the Misty Mountains and White Mountains."
   },
   {
-    "Id": "G_051_TERM",
+    "Id": "G_056_TERM",
     "Text": "Rohan",
     "Text_CN": "洛汗人",
     "Text_FR": "Rohan"
   },
   {
-    "Id": "G_052_DESC",
+    "Id": "G_057_DESC",
     "Text": "(Trait) An Elf who is more interested in knowledge than in combat, compared to their Noldor cousins.",
     "Text_CN": "完成、战胜或者移除一项目标的行动。",
     "Text_FR": "Chaque carte de joueur est classée avec l'un des degrés de rareté suivants : Deck de départ, Deck de héros, Commune, Inhabituelle, Rare ou Légendaire. Plus le degré de rareté est élevé, plus les capacités de la carte sont puissantes."
   },
   {
-    "Id": "G_052_TERM",
+    "Id": "G_057_TERM",
     "Text": "Silvan",
     "Text_CN": "西尔凡精灵",
     "Text_FR": "Sylvains"
   },
   {
-    "Id": "G_053_DESC",
+    "Id": "G_058_DESC",
     "Text": "(Trait) An Attachment type. A Character can have only one Attachment of each type at a time.",
     "Text_CN": "(Trait) An Attachment type. A Character can have only one Attachment of each type at a time.",
     "Text_FR": "(Trait) An Attachment type. A Character can have only one Attachment of each type at a time."
   },
   {
-    "Id": "G_053_TERM",
+    "Id": "G_058_TERM",
     "Text": "Special",
     "Text_CN": "特殊",
     "Text_FR": "Spécial"
   },
   {
-    "Id": "G_054_DESC",
+    "Id": "G_059_DESC",
     "Text": "Each of the four Spheres of Influence (Leadership, Lore, Spirit, Tactics) focuses on a particular personality aspect. Every Hero belongs to a Sphere, which dictates the cards you can include in a deck.",
     "Text_CN": "不受索隆统治的人。",
     "Text_FR": "Ce mot-clé fait référence à un effet qui a lieu à un moment particulier."
   },
   {
-    "Id": "G_054_TERM",
+    "Id": "G_059_TERM",
     "Text": "Sphere of Influence",
     "Text_CN": "Sphere of Influence",
     "Text_FR": "Sphere of Influence"
   },
   {
-    "Id": "G_055_DESC",
+    "Id": "G_060_DESC",
     "Text": "A Sphere of Influence encompassing strength of will and aspects of the supernatural.",
     "Text_CN": "英雄是你在冒险中所控制的主要人物。英雄可以攻击敌人或者挑战目标，并拥有一些可用使用的特技。英雄也是你创建的每个牌组的基础，他决定了你可用来选择组成牌组的卡牌的类别。在游戏开始时，英雄便会配置完毕。他们的成本值会被威胁值所取代。如果你的英雄全部战败，那么冒险也就会宣告失败了。",
     "Text_FR": "Le fait de venir à bout d'un objectif."
   },
   {
-    "Id": "G_055_TERM",
+    "Id": "G_060_TERM",
     "Text": "Spirit",
     "Text_CN": "精神型",
     "Text_FR": "Énergie"
   },
   {
-    "Id": "G_056_DESC",
-    "Text": "(Keyword) The Character or Enemy does not exhaust the first time it is attacked.",
-    "Text_CN": "包含5张卡牌的捆绑包，每个捆绑包中包含1名英雄，以及每种属性类别的卡牌各1张。",
-    "Text_FR": "Il s'agit d'une réserve à utiliser durant votre tour pour jouer des cartes depuis votre deck. Vous débutez chaque partie avec 1 ressource pour chaque héros dans votre deck. Chaque tour, durant l'entretien, vous obtenez également 1 ressource pour chaque héros en jeu sous votre contrôle."
+    "Id": "G_061_DESC",
+    "Text": "(Keyword) The Character does not exhaust the first time it is attacked.",
+    "Text_CN": "(Keyword) The Character does not exhaust the first time it is attacked.",
+    "Text_FR": "(Keyword) The Character does not exhaust the first time it is attacked."
   },
   {
-    "Id": "G_056_TERM",
+    "Id": "G_061_TERM",
     "Text": "Stalwart",
     "Text_CN": "英雄包",
     "Text_FR": "Ressources"
   },
   {
-    "Id": "G_057_DESC",
-    "Text": "(Keyword) The Character or Enemy cannot be attacked unless all other targets without Stealth are exhasuted.",
-    "Text_CN": "关键词『蓄势』的简写。",
-    "Text_FR": "Une région de la Terre du Milieu."
+    "Id": "G_062_DESC",
+    "Text": "(Keyword) The Character cannot be attacked unless all of your non-Stealth Characters are exhausted.",
+    "Text_CN": "(Keyword) The Character cannot be attacked unless all of your non-Stealth Characters are exhausted.",
+    "Text_FR": "(Keyword) The Character cannot be attacked unless all of your non-Stealth Characters are exhausted."
   },
   {
-    "Id": "G_057_TERM",
+    "Id": "G_062_TERM",
     "Text": "Stealth",
     "Text_CN": "蓄势",
     "Text_FR": "Rhovanion"
   },
   {
-    "Id": "G_058_DESC",
-    "Text": "(Keyword) The Character or Enemy does not exhaust the first time it takes an action.",
-    "Text_CN": "这是有关各项冒险中的索隆的挑战度的一项衡量。游戏中存在三种难度等级：简单、普通与困难。索隆的资源数量会随难度的增加而升高，然而如果你能撑过高难度的冒险，那么你获得的奖励也会更为丰厚！",
-    "Text_FR": "Ce mot-clé se réfère à une capacité qui se déclenche lorsque cette carte en vainc une autre."
+    "Id": "G_063_DESC",
+    "Text": "(Keyword) The Character does not exhaust the first time it takes an action.",
+    "Text_CN": "(Keyword) The Character does not exhaust the first time it takes an action.",
+    "Text_FR": "(Keyword) The Character does not exhaust the first time it takes an action."
   },
   {
-    "Id": "G_058_TERM",
+    "Id": "G_063_TERM",
     "Text": "Surge",
     "Text_CN": "难度",
     "Text_FR": "Vainqueur"
   },
   {
-    "Id": "G_059_DESC",
+    "Id": "G_064_DESC",
     "Text": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat.",
     "Text_CN": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat.",
     "Text_FR": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat."
   },
   {
-    "Id": "G_059_TERM",
+    "Id": "G_064_TERM",
     "Text": "Tactics",
     "Text_CN": "战术型",
     "Text_FR": "Tactique"
   },
   {
-    "Id": "G_060_DESC",
-    "Text": "The general term for a card that is the object of an action. ",
-    "Text_CN": "The general term for a card that is the object of an action. ",
-    "Text_FR": "The general term for a card that is the object of an action. "
+    "Id": "G_065_DESC",
+    "Text": "This increases each round and when you travel. If you reach 50 Threat, your Quest fails. ",
+    "Text_CN": "This increases each round and when you travel. If you reach 50 Threat, your Quest fails. ",
+    "Text_FR": "This increases each round and when you travel. If you reach 50 Threat, your Quest fails. "
   },
   {
-    "Id": "G_060_TERM",
+    "Id": "G_065_TERM",
     "Text": "Target",
     "Text_CN": "行动完毕",
     "Text_FR": "Rohan"
   },
   {
-    "Id": "G_061_DESC",
+    "Id": "G_066_DESC",
     "Text": "This tracks the level of risk you take during a Quest. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, you fail the Quest. ",
     "Text_CN": "This tracks the level of risk you take during a Quest. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, you fail the Quest. ",
     "Text_FR": "This tracks the level of risk you take during a Quest. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, you fail the Quest. "
   },
   {
-    "Id": "G_061_TERM",
+    "Id": "G_066_TERM",
     "Text": "Threat Meter",
     "Text_CN": "装备",
     "Text_FR": "Sentinelle"
   },
   {
-    "Id": "G_062_DESC",
-    "Text": "At the start of a Quest, this number is applied from each Hero to the Threat meter.",
-    "Text_CN": "At the start of a Quest, this number is applied from each Hero to the Threat meter.",
-    "Text_FR": "At the start of a Quest, this number is applied from each Hero to the Threat meter."
+    "Id": "G_067_DESC",
+    "Text": "This number applies from each Hero to the Threat meter at the start of the Quest.",
+    "Text_CN": "This number applies from each Hero to the Threat meter at the start of the Quest.",
+    "Text_FR": "This number applies from each Hero to the Threat meter at the start of the Quest."
   },
   {
-    "Id": "G_062_TERM",
+    "Id": "G_067_TERM",
     "Text": "Threat Value",
     "Text_CN": "装备",
     "Text_FR": "Sphères d'influence"
   },
   {
-    "Id": "G_063_DESC",
+    "Id": "G_068_DESC",
     "Text": "Some cards have traits which indicate certain behavior or restrictions.",
     "Text_CN": "关键词。拥有此关键词的人物不会在执行首次行动后便进入行动完毕状态。 ",
     "Text_FR": "Cette sphère d'influence souligne la prouesse martiale d'un héros, particulièrement à tout ce qui se rattache à l'art du combat et à la résolution des défis tactiques que les joueurs vont devoir affronter durant une quête."
   },
   {
-    "Id": "G_063_TERM",
+    "Id": "G_068_TERM",
     "Text": "Trait",
     "Text_CN": "警惕",
     "Text_FR": "Tactique"
   },
   {
-    "Id": "G_064_DESC",
+    "Id": "G_069_DESC",
+    "Text": "Indicates unrevealed Treachery cards",
+    "Text_CN": "Indicates unrevealed Treachery cards",
+    "Text_FR": "Indicates unrevealed Treachery cards"
+  },
+  {
+    "Id": "G_069_TERM",
+    "Text": "Treachery Sockets",
+    "Text_CN": "Treachery Sockets",
+    "Text_FR": "Treachery Sockets"
+  },
+  {
+    "Id": "G_070_DESC",
     "Text": "At the start of each round, your cards ready, you gain Resources, and you draw 1 card from your deck; Sauron then does the same. Certain abilities may also activate at this time.",
     "Text_CN": "精灵族的次级分支。",
     "Text_FR": "Le territoire sur lequel de nombreuses aventures du Seigneur des anneaux se déroulent."
   },
   {
-    "Id": "G_064_TERM",
+    "Id": "G_070_TERM",
     "Text": "Upkeep",
     "Text_CN": "诺多精灵",
     "Text_FR": "Terre du Milieu"
   },
   {
-    "Id": "G_065_DESC",
-    "Text": "In-game rewards that you can spend to get Quests, Heroes, cards, and more. ",
-    "Text_CN": "In-game rewards that you can spend to get Quests, Heroes, cards, and more. ",
-    "Text_FR": "In-game rewards that you can spend to get Quests, Heroes, cards, and more. "
+    "Id": "G_071_DESC",
+    "Text": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more. ",
+    "Text_CN": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more. ",
+    "Text_FR": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more. "
   },
   {
-    "Id": "G_065_TERM",
+    "Id": "G_071_TERM",
     "Text": "Valor Points",
     "Text_CN": "追逐",
     "Text_FR": "Uruk-hai"
   },
   {
-    "Id": "G_066_DESC",
-    "Text": "(Keyword) The ability triggers when this card defeats another Character or Enemy.",
-    "Text_CN": "关键词。拥有此关键词的人物受到的下一次伤害会被强制格挡，伤害会强制取消。随后人物便会失去防护关键词。",
-    "Text_FR": "Terme pour indiquer lorsqu'un personnage est retiré du jeu, que ce soit en tombant à 0 points de vie ou bien par d'autres méthodes."
+    "Id": "G_072_DESC",
+    "Text": "(Keyword) The ability triggers when this Character defeats another Character.",
+    "Text_CN": "(Keyword) The ability triggers when this Character defeats another Character.",
+    "Text_FR": "(Keyword) The ability triggers when this Character defeats another Character."
   },
   {
-    "Id": "G_066_TERM",
+    "Id": "G_072_TERM",
     "Text": "Vanquish",
     "Text_CN": "防护",
     "Text_FR": "Vaincu"
   },
   {
-    "Id": "G_067_DESC",
+    "Id": "G_073_DESC",
     "Text": "(Trait) An Attachment type. A Character can have only one Attachment of each type at a time.",
     "Text_CN": "(Trait) An Attachment type. A Character can have only one Attachment of each type at a time.",
     "Text_FR": "(Trait) An Attachment type. A Character can have only one Attachment of each type at a time."
   },
   {
-    "Id": "G_067_TERM",
+    "Id": "G_073_TERM",
     "Text": "Weapon",
     "Text_CN": "武器",
     "Text_FR": "Arme"
   },
   {
-    "Id": "G_068_DESC",
-    "Text": "A Character's effectiveness when engaging an Objective.",
-    "Text_CN": "这种属性类别注重于魅力与激励同伴的能力，它代表着统率、鼓励与命令盟友和其他英雄的潜力。",
-    "Text_FR": "L'efficacité d'un personnage lorsqu'il participe à un objectif. "
+    "Id": "G_074_DESC",
+    "Text": "Effectiveness when engaging an Objective.",
+    "Text_CN": "Effectiveness when engaging an Objective.",
+    "Text_FR": "Effectiveness when engaging an Objective."
   },
   {
-    "Id": "G_068_TERM",
+    "Id": "G_074_TERM",
     "Text": "Willpower",
     "Text_CN": "领导型",
     "Text_FR": "Volonté"
-  },
-  {
-    "Id": "C_ATEST180307_FLAVOR",
-    "Text": "C_ATEST180307_FLAVOR",
-    "Text_CN": ""
   }
 ]
