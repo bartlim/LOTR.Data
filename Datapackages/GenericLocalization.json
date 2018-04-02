@@ -6615,14 +6615,12 @@
   {
     "Id": "C_REINFORCEMENTS_TEXT",
     "Text": "Play a random non-unique Ally from your deck",
-    "Text_CN": "安置一位当前游戏中不唯一的随机盟友的镜像。",
-    "Text_FR": "Placez une copie d'un allié non-unique en jeu depuis votre deck."
+    "Text_CN": "安置一位当前游戏中不唯一的随机盟友的镜像。"
   },
   {
     "Id": "C_REINFORCEMENTS_TITLE",
     "Text": "Reinforcements",
-    "Text_CN": "援兵",
-    "Text_FR": "Renforts"
+    "Text_CN": "援兵"
   },
   {
     "Id": "C_RESCUEGRIMBEORN_FLAVOR",
@@ -9111,6 +9109,11 @@
   {
     "Id": "C_ATEST180402EXP_FLAVOR",
     "Text": "new card flavor",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_REINFORCEMENTS_FLAVOR",
+    "Text": "C_REINFORCEMENTS_FLAVOR",
     "Text_CN": ""
   }
 ]
