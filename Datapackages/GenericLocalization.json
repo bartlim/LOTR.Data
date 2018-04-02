@@ -5676,20 +5676,17 @@
   {
     "Id": "C_GROWINGDARKNESS_FLAVOR",
     "Text": "The rising sun was hazy, and behind it, following it slowly up the sky, there was a growing darkness, as of a great storm moving out of the East.\n—<i>The Two Towers</i>",
-    "Text_CN": "The rising sun was hazy, and behind it, following it slowly up the sky, there was a growing darkness, as of a great storm moving out of the East.\n—<i>The Two Towers</i>",
-    "Text_FR": "The rising sun was hazy, and behind it, following it slowly up the sky, there was a growing darkness, as of a great storm moving out of the East.\n—<i>The Two Towers</i>"
+    "Text_CN": "The rising sun was hazy, and behind it, following it slowly up the sky, there was a growing darkness, as of a great storm moving out of the East.\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_GROWINGDARKNESS_TEXT",
-    "Text": "<b>Upkeep</b>: Sauron gains \n+1 Resource until this is resolved",
-    "Text_CN": "<b>Upkeep</b>: Sauron gains \n+1 Resource until this is resolved",
-    "Text_FR": "<b>Upkeep</b>: Sauron gains \n+1 Resource until this is resolved"
+    "Text": "<b>Upkeep:</b> Sauron gains \n+1 Resource until this is resolved",
+    "Text_CN": "<b>Upkeep</b>: Sauron gains \n+1 Resource until this is resolved"
   },
   {
     "Id": "C_GROWINGDARKNESS_TITLE",
     "Text": "Growing Darkness",
-    "Text_CN": "黑暗渐浓",
-    "Text_FR": "Noirceur grandissante"
+    "Text_CN": "黑暗渐浓"
   },
   {
     "Id": "C_GUARDOFTHECITADEL_FLAVOR",
