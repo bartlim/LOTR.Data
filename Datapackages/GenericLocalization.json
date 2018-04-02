@@ -6284,15 +6284,13 @@
   },
   {
     "Id": "C_ORCBEASTMASTER_TEXT",
-    "Text": "<b>Arrival</b>: Add 1 <i>Orc Hound</i>",
-    "Text_CN": "登场：添加1头兽人猎犬，且无需花费成本。",
-    "Text_FR": "Arrivée : ajoutez 1 x Limier orque au coût de 0."
+    "Text": "<b>Arrival:</b> Add 1 <i>Orc Hound</i>",
+    "Text_CN": "登场：添加1头兽人猎犬，且无需花费成本。"
   },
   {
     "Id": "C_ORCBEASTMASTER_TITLE",
     "Text": "Orc Beastmaster",
-    "Text_CN": "兽人野兽领主",
-    "Text_FR": "Maître des bêtes orque"
+    "Text_CN": "兽人野兽领主"
   },
   {
     "Id": "C_ORCHOUND_FLAVOR",
@@ -9048,6 +9046,11 @@
   {
     "Id": "C_REINFORCEMENTS_FLAVOR",
     "Text": "…the companies came and were hailed and cheered and passed through the Gate, men of the Outlands marching to defend the City of Gondor in a dark hour…\n—<i>The Return of the King</i>",
+    "Text_CN": ""
+  },
+  {
+    "Id": "C_ORCBEASTMASTER_FLAVOR",
+    "Text": "\"They ride upon wolves and Wargs are in their train!”\n—Gandalf, <i>The Hobbit</i>",
     "Text_CN": ""
   }
 ]
