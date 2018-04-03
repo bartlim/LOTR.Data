@@ -4288,7 +4288,7 @@
   },
   {
     "Id": "C_ADVANCEWARNING_FLAVOR",
-    "Text": "Suddenly he halted and listened. Had he heard a whistle or not? Or was it the call of some strange bird? \n<i>—The Two Towers</i>",
+    "Text": "Suddenly he halted and listened. Had he heard a whistle or not? Or was it the call of some strange bird? \n<i>–The Two Towers</i>",
     "Text_CN": "Suddenly he halted and listened. Had he heard a whistle or not? Or was it the call of some strange bird? \n<i>–The Two Towers</i>"
   },
   {
@@ -4321,18 +4321,21 @@
   },
   {
     "Id": "C_AGAINSTTHESHADOW_FLAVOR",
-    "Text": "\"Courage will now be your best defense against the storm that is at hand…\" \n—Gandalf, <i>The Return of the King</i>",
-    "Text_CN": "\"Courage will now be your best defense against the storm that is at hand…\" \n–Gandalf, <i>The Return of the King</i>"
+    "Text": "\"Courage will now be your best defense against the storm that is at hand…\" \n–Gandalf, <i>The Return of the King</i>",
+    "Text_CN": "\"Courage will now be your best defense against the storm that is at hand…\" \n–Gandalf, <i>The Return of the King</i>",
+    "Text_FR": "\"Courage will now be your best defense against the storm that is at hand…\" \n–Gandalf, <i>The Return of the King</i>"
   },
   {
     "Id": "C_AGAINSTTHESHADOW_TEXT",
     "Text": "Lose 1 Threat for each Enemy \nin play",
-    "Text_CN": "Lose 1 Threat for each Enemy \nin play"
+    "Text_CN": "Lose 1 Threat for each Enemy \nin play",
+    "Text_FR": "Lose 1 Threat for each Enemy \nin play"
   },
   {
     "Id": "C_AGAINSTTHESHADOW_TITLE",
     "Text": "Against the Shadow",
-    "Text_CN": "对抗阴影"
+    "Text_CN": "对抗阴影",
+    "Text_FR": "Face à l’ombre"
   },
   {
     "Id": "C_AGENTOFSAURON_FLAVOR",
@@ -4356,7 +4359,7 @@
   },
   {
     "Id": "C_AMBUSHONTHESHORE_TEXT",
-    "Text": "(Cannot engage while\nan Enemy is in play.)\n<b>Upkeep</b>: Sauron gains \n+1 Resource per player",
+    "Text": "(Cannot engage while an\nEnemy is in play.)\n<b>Upkeep</b>: Sauron gains \n+1 Resource per player",
     "Text_CN": "<b>Upkeep</b>: Sauron gains \n+1 Resource per player until resolved. Cannot engage while Enemy is in play"
   },
   {
@@ -4384,7 +4387,7 @@
   },
   {
     "Id": "C_ARAGORN_FLAVOR",
-    "Text": "\"I am Aragorn son of Arathorn; and if by life or death I can save you, I will.\"\n—Aragorn, <i>The Fellowship of the Ring</i>",
+    "Text": "\"I am Aragorn son of Arathorn; and if by life or death I can save you, I will.\"\n–Aragorn, <i>The Fellowship of the Ring</i>",
     "Text_CN": "\"I am Aragorn son of Arathorn; and if by life or death I can save you, I will.\"\n–Aragorn, <i>The Fellowship of the Ring</i>"
   },
   {
@@ -4399,28 +4402,29 @@
   },
   {
     "Id": "C_ARWEN_FLAVOR",
-    "Text": "…Thought and knowledge were in her glance, as of one who has known many things that the years bring. \n<i>—The Fellowship of the Ring</i>",
-    "Text_CN": "…Thought and knowledge were in her glance, as of one who has known many things that the years bring. \n<i>–The Fellowship of the Ring</i>"
+    "Text": "…Thought and knowledge were in her glance, as of one who has known many things that the years bring. \n<i>–The Fellowship of the Ring</i>",
+    "Text_CN": "…Thought and knowledge were in her glance, as of one who has known many things that the years bring. \n<i>–The Fellowship of the Ring</i>",
+    "Text_FR": "…Thought and knowledge were in her glance, as of one who has known many things that the years bring. \n<i>–The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_ARWEN_TEXT",
     "Text": "<b>Upkeep</b>: Restore 1 Health",
-    "Text_CN": "休整：为一位人物治愈1点伤害。"
+    "Text_CN": "休整：为一位人物治愈1点伤害。",
+    "Text_FR": "Entretien : soignez 1 point de dégâts d'un personnage."
   },
   {
     "Id": "C_ARWEN_TITLE",
     "Text": "‰Arwen   ",
-    "Text_CN": "‰Arwen   "
+    "Text_CN": "‰Arwen   ",
+    "Text_FR": "‰Arwen   "
   },
   {
     "Id": "C_ATEST180307_TEXT",
-    "Text": "test",
-    "Text_CN": "test"
+    "Text": "test"
   },
   {
     "Id": "C_ATEST180307_TITLE",
-    "Text": "test",
-    "Text_CN": "test"
+    "Text": "test"
   },
   {
     "Id": "C_ATEST181120_FLAVOR",
@@ -4460,33 +4464,39 @@
   },
   {
     "Id": "C_BARLIMANBUTTERBUR_FLAVOR",
-    "Text": "\"…spooks or no spooks, they won't get in The Prancing Pony so easy.\" \n—Barliman Butterbur, <i>The Fellowship of the Ring</i>",
-    "Text_CN": "\"…spooks or no spooks, they won't get in The Prancing Pony so easy.\" \n–Barliman Butterbur, <i>The Fellowship of the Ring</i>"
+    "Text": "\"…spooks or no spooks, they won't get in The Prancing Pony so easy.\" \n–Barliman Butterbur, <i>The Fellowship of the Ring</i>",
+    "Text_CN": "\"…spooks or no spooks, they won't get in The Prancing Pony so easy.\" \n–Barliman Butterbur, <i>The Fellowship of the Ring</i>",
+    "Text_FR": "\"…spooks or no spooks, they won't get in The Prancing Pony so easy.\" \n–Barliman Butterbur, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_BARLIMANBUTTERBUR_TEXT",
     "Text": "<b>Upkeep</b>: Draw 1 card \n(50% chance)",
-    "Text_CN": "<b>Upkeep</b>: Draw 1 card \n(50% chance)"
+    "Text_CN": "<b>Upkeep</b>: Draw 1 card \n(50% chance)",
+    "Text_FR": "<b>Upkeep</b>: Draw 1 card \n(50% chance)"
   },
   {
     "Id": "C_BARLIMANBUTTERBUR_TITLE",
     "Text": "‰Barliman Butterbur",
-    "Text_CN": "‰巴力曼·奶油伯"
+    "Text_CN": "‰巴力曼·奶油伯",
+    "Text_FR": "‰Prosper Poiredebeurré"
   },
   {
     "Id": "C_BEORN_FLAVOR",
-    "Text": "\"I don't need your service, thank you… but I expect you need mine.\" \n—Beorn, <i>The Hobbit</i>",
-    "Text_CN": "\"I don't need your service, thank you… but I expect you need mine.\" \n–Beorn, <i>The Hobbit</i>"
+    "Text": "\"I don't need your service, thank you… but I expect you need mine.\" \n–Beorn, <i>The Hobbit</i>",
+    "Text_CN": "\"I don't need your service, thank you… but I expect you need mine.\" \n–Beorn, <i>The Hobbit</i>",
+    "Text_FR": "\"I don't need your service, thank you… but I expect you need mine.\" \n–Beorn, <i>The Hobbit</i>"
   },
   {
     "Id": "C_BEORN_TEXT",
     "Text": "<b>Stalwart</b>. Gain +1 Attack \nfor each point below \nmaximum Health. \nCannot equip Attachments",
-    "Text_CN": "<b>Stalwart</b>. Gain +1 Attack \nfor each point below \nmaximum Health. \nCannot equip Attachments"
+    "Text_CN": "<b>Stalwart</b>. Gain +1 Attack \nfor each point below \nmaximum Health. \nCannot equip Attachments",
+    "Text_FR": "<b>Stalwart</b>. Gain +1 Attack \nfor each point below \nmaximum Health. \nCannot equip Attachments"
   },
   {
     "Id": "C_BEORN_TITLE",
     "Text": "‰Beorn",
-    "Text_CN": "‰比翁"
+    "Text_CN": "‰比翁",
+    "Text_FR": "‰Beorn"
   },
   {
     "Id": "C_BEORNSHOSPITALITY_TEXT",
@@ -4502,33 +4512,39 @@
   },
   {
     "Id": "C_BILBOSCLOAK_FLAVOR",
-    "Text": "…he kept in a drawer at Bag End the old cloak and hood that he had worn on his travels… \n<i>—The Fellowship of the Ring</i>",
-    "Text_CN": "…he kept in a drawer at Bag End the old cloak and hood that he had worn on his travels… \n<i>–The Fellowship of the Ring</i>"
+    "Text": "…he kept in a drawer at Bag End the old cloak and hood that he had worn on his travels… \n<i>–The Fellowship of the Ring</i>",
+    "Text_CN": "…he kept in a drawer at Bag End the old cloak and hood that he had worn on his travels… \n<i>–The Fellowship of the Ring</i>",
+    "Text_FR": "…he kept in a drawer at Bag End the old cloak and hood that he had worn on his travels… \n<i>–The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_BILBOSCLOAK_TEXT",
     "Text": "(Hobbits only.) \n<b>Upkeep</b>: Sauron loses \n1 Resource",
-    "Text_CN": "(Hobbits only.) \n<b>Upkeep</b>: Sauron loses \n1 Resource"
+    "Text_CN": "(Hobbits only.) \n<b>Upkeep</b>: Sauron loses \n1 Resource",
+    "Text_FR": "(Hobbits only.) \n<b>Upkeep</b>: Sauron loses \n1 Resource"
   },
   {
     "Id": "C_BILBOSCLOAK_TITLE",
     "Text": "‰Bilbo's Cloak",
-    "Text_CN": "‰Bilbo's Cloak"
+    "Text_CN": "‰Bilbo's Cloak",
+    "Text_FR": "‰Bilbo's Cloak"
   },
   {
     "Id": "C_BILLTHEPONY_FLAVOR",
-    "Text": "\"He gave me a look as plain as Mr. Pippin could speak it: if you don't let me go with you, Sam, I'll follow on my own.\" \n—Sam Gamgee, <i>The Fellowship of the Ring</i>",
-    "Text_CN": "\"He gave me a look as plain as Mr. Pippin could speak it: if you don't let me go with you, Sam, I'll follow on my own.\" \n–Sam Gamgee, <i>The Fellowship of the Ring</i>"
+    "Text": "\"He gave me a look as plain as Mr. Pippin could speak it: if you don't let me go with you, Sam, I'll follow on my own.\" \n–Sam Gamgee, <i>The Fellowship of the Ring</i>",
+    "Text_CN": "\"He gave me a look as plain as Mr. Pippin could speak it: if you don't let me go with you, Sam, I'll follow on my own.\" \n–Sam Gamgee, <i>The Fellowship of the Ring</i>",
+    "Text_FR": "\"He gave me a look as plain as Mr. Pippin could speak it: if you don't let me go with you, Sam, I'll follow on my own.\" \n–Sam Gamgee, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_BILLTHEPONY_TEXT",
     "Text": "(Cost –2 while you control \n<i>Sam Gamgee</i>.) \n<b>Upkeep</b>: Gain +1 Resource",
-    "Text_CN": "(Cost –2 while you control \n<i>Sam Gamgee</i>.) \n<b>Upkeep</b>: Gain +1 Resource"
+    "Text_CN": "(Cost –2 while you control \n<i>Sam Gamgee</i>.) \n<b>Upkeep</b>: Gain +1 Resource",
+    "Text_FR": "(Cost –2 while you control \n<i>Sam Gamgee</i>.) \n<b>Upkeep</b>: Gain +1 Resource"
   },
   {
     "Id": "C_BILLTHEPONY_TITLE",
     "Text": "‰Bill the Pony ",
-    "Text_CN": "‰小马比尔"
+    "Text_CN": "‰小马比尔",
+    "Text_FR": "‰Bill le poney"
   },
   {
     "Id": "C_BLACKBLOOD_FLAVOR",
@@ -4568,18 +4584,21 @@
   },
   {
     "Id": "C_BLADEOFGONDOLIN_FLAVOR",
-    "Text": "It was rather splendid to be wearing a blade made in Gondolin for the goblin-wars of which so many songs had sung…\n<i>—The Hobbit</i>",
-    "Text_CN": "It was rather splendid to be wearing a blade made in Gondolin for the goblin–wars of which so many songs had sung…\n<i>–The Hobbit</i>"
+    "Text": "It was rather splendid to be wearing a blade made in Gondolin for the goblin–wars of which so many songs had sung…\n<i>–The Hobbit</i>",
+    "Text_CN": "It was rather splendid to be wearing a blade made in Gondolin for the goblin–wars of which so many songs had sung…\n<i>–The Hobbit</i>",
+    "Text_FR": "It was rather splendid to be wearing a blade made in Gondolin for the goblin–wars of which so many songs had sung…\n<i>–The Hobbit</i>"
   },
   {
     "Id": "C_BLADEOFGONDOLIN_TEXT",
     "Text": "Gain +2 Attack; \nlose 1 Willpower",
-    "Text_CN": "Gain +2 Attack; \nlose 1 Willpower"
+    "Text_CN": "Gain +2 Attack; \nlose 1 Willpower",
+    "Text_FR": "Gain +2 Attack; \nlose 1 Willpower"
   },
   {
     "Id": "C_BLADEOFGONDOLIN_TITLE",
     "Text": "Blade of Gondolin",
-    "Text_CN": "0"
+    "Text_CN": "0",
+    "Text_FR": "Blade of Gondolin"
   },
   {
     "Id": "C_BLOCKEDPATH_FLAVOR",
@@ -4603,7 +4622,7 @@
   },
   {
     "Id": "C_BOARDTHERAFT_TEXT",
-    "Text": "(Cannot engage while\n<i>Hill Troll</i> is in play.)\nYou may travel from this Location",
+    "Text": "(Cannot engage while\n<i>Hill Troll</i> is in play.)\nYou may travel from this\nLocation",
     "Text_CN": "加护（山区巨魔）。结算：允许离开这一场景。"
   },
   {
@@ -4613,48 +4632,57 @@
   },
   {
     "Id": "C_BORNEALOFT_FLAVOR",
-    "Text": "\"Very well,\" said Gandalf. \"Take us where and as far as you will!\" \n<i>—The Hobbit</i>",
-    "Text_CN": "\"Very well,\" said Gandalf. \"Take us where and as far as you will!\" \n<i>–The Hobbit</i>"
+    "Text": "\"Very well,\" said Gandalf. \"Take us where and as far as you will!\" \n<i>–The Hobbit</i>",
+    "Text_CN": "\"Very well,\" said Gandalf. \"Take us where and as far as you will!\" \n<i>–The Hobbit</i>",
+    "Text_FR": "\"Very well,\" said Gandalf. \"Take us where and as far as you will!\" \n<i>–The Hobbit</i>"
   },
   {
     "Id": "C_BORNEALOFT_TEXT",
     "Text": "The next Ally from your deck that is defeated returns to \nyour hand",
-    "Text_CN": "蓄势：当下一名盟友即将被击败时，这名盟友会被重新收为手牌。"
+    "Text_CN": "蓄势：当下一名盟友即将被击败时，这名盟友会被重新收为手牌。",
+    "Text_FR": "Prép : au lieu que votre prochain allié soit vaincu, il retourne dans votre main."
   },
   {
     "Id": "C_BORNEALOFT_TITLE",
     "Text": "Borne Aloft",
-    "Text_CN": "巧燕高飞"
+    "Text_CN": "巧燕高飞",
+    "Text_FR": "Né en altitude"
   },
   {
     "Id": "C_BOWOFTHEGALADHRIM_FLAVOR",
-    "Text": "…longer and stronger than the bows of Mirkwood, and strung with a string of elf–hair. \n<i>—The Fellowship of the Ring</i>",
-    "Text_CN": "…longer and stronger than the bows of Mirkwood, and strung with a string of elf–hair. \n<i>–The Fellowship of the Ring</i>"
+    "Text": "…longer and stronger than the bows of Mirkwood, and strung with a string of elf–hair. \n<i>–The Fellowship of the Ring</i>",
+    "Text_CN": "…longer and stronger than the bows of Mirkwood, and strung with a string of elf–hair. \n<i>–The Fellowship of the Ring</i>",
+    "Text_FR": "…longer and stronger than the bows of Mirkwood, and strung with a string of elf–hair. \n<i>–The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_BOWOFTHEGALADHRIM_TEXT",
     "Text": "Gain +1 Attack and <b>Ranged</b>",
-    "Text_CN": "Gain +1 Attack and <b>Ranged</b>"
+    "Text_CN": "Gain +1 Attack and <b>Ranged</b>",
+    "Text_FR": "Gain +1 Attack and <b>Ranged</b>"
   },
   {
     "Id": "C_BOWOFTHEGALADHRIM_TITLE",
     "Text": "Bow of the Galadhrim",
-    "Text_CN": "凯兰崔姆之弓"
+    "Text_CN": "凯兰崔姆之弓",
+    "Text_FR": "Arc des Galadhrim"
   },
   {
     "Id": "C_BURSTINTOSONG_FLAVOR",
-    "Text": "And then all the host of Rohan burst into song, and they sang as they slew, for the joy of battle was on them, and the sound of their singing that was fair and terrible came even to the City.\n<i>—The Return of the King</i>",
-    "Text_CN": "And then all the host of Rohan burst into song, and they sang as they slew, for the joy of battle was on them, and the sound of their singing that was fair and terrible came even to the City.\n<i>–The Return of the King</i>"
+    "Text": "And then all the host of Rohan burst into song, and they sang as they slew, for the joy of battle was on them, and the sound of their singing that was fair and terrible came even to the City.\n<i>–The Return of the King</i>",
+    "Text_CN": "And then all the host of Rohan burst into song, and they sang as they slew, for the joy of battle was on them, and the sound of their singing that was fair and terrible came even to the City.\n<i>–The Return of the King</i>",
+    "Text_FR": "And then all the host of Rohan burst into song, and they sang as they slew, for the joy of battle was on them, and the sound of their singing that was fair and terrible came even to the City.\n<i>–The Return of the King</i>"
   },
   {
     "Id": "C_BURSTINTOSONG_TEXT",
     "Text": "Cancel damage from the next unique Enemy attack",
-    "Text_CN": "Cancel damage from the next unique Enemy attack"
+    "Text_CN": "Cancel damage from the next unique Enemy attack",
+    "Text_FR": "Cancel damage from the next unique Enemy attack"
   },
   {
     "Id": "C_BURSTINTOSONG_TITLE",
     "Text": "Burst into Song",
-    "Text_CN": "0"
+    "Text_CN": "0",
+    "Text_FR": "Burst into Song"
   },
   {
     "Id": "C_CAUGHTINAWEB_FLAVOR",
@@ -4847,7 +4875,7 @@
   },
   {
     "Id": "C_DRIVENBYSHADOW_FLAVOR",
-    "Text": "\"…in the dark they perceive many signs and forms that are hidden from us: then they are most to be feared.\" \n—Aragorn, <i>The Fellowship of the Ring</i>",
+    "Text": "\"In the midst upon a stony height stands Dol Guldur, where long the hidden Enemy had his dwelling. We fear that now it is inhabited again, and with power sevenfold.\"\n—Haldir, <i>The Fellowship of the Ring</i>",
     "Text_CN": "\"They themselves do not see the world of light as we do, but our shapes cast shadows in their minds, which only the noon sun destroys; and in the dark they perceive many signs and forms that are hidden from us: then they are most to be feared.\" \n—Aragorn, <i>The Fellowship of the Ring</i>"
   },
   {
@@ -4916,18 +4944,21 @@
   },
   {
     "Id": "C_ELRONDSCOUNSEL_FLAVOR",
-    "Text": "\"Believe rather that it is so ordered that we, who sit here, and none others, must now find counsel for the peril of the world.\"\n—Elrond, <i>The Fellowship of the Ring</i>",
-    "Text_CN": "\"Believe rather that it is so ordered that we, who sit here, and none others, must now find counsel for the peril of the world.\"\n–Elrond, <i>The Fellowship of the Ring</i>"
+    "Text": "\"Believe rather that it is so ordered that we, who sit here, and none others, must now find counsel for the peril of the world.\"\n–Elrond, <i>The Fellowship of the Ring</i>",
+    "Text_CN": "\"Believe rather that it is so ordered that we, who sit here, and none others, must now find counsel for the peril of the world.\"\n–Elrond, <i>The Fellowship of the Ring</i>",
+    "Text_FR": "\"Believe rather that it is so ordered that we, who sit here, and none others, must now find counsel for the peril of the world.\"\n–Elrond, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_ELRONDSCOUNSEL_TEXT",
     "Text": "Lose 2 Threat",
-    "Text_CN": "令威胁降低2点。 "
+    "Text_CN": "令威胁降低2点。 ",
+    "Text_FR": "Réduit de 2 votre niveau de Menace. "
   },
   {
     "Id": "C_ELRONDSCOUNSEL_TITLE",
     "Text": "Elrond's Counsel",
-    "Text_CN": "埃尔隆德的忠告"
+    "Text_CN": "埃尔隆德的忠告",
+    "Text_FR": "Conseil d'Elrond"
   },
   {
     "Id": "C_ELVENSCOUT_TEXT",
@@ -4961,33 +4992,39 @@
   },
   {
     "Id": "C_EOWYN_FLAVOR",
-    "Text": "\"But I am of the House of Eorl and not a serving-woman. I can ride and wield blade, and I do not fear either pain or death.\" \n—Éowyn, <i>The Return of the King</i>",
-    "Text_CN": "\"But I am of the House of Eorl and not a serving-woman. I can ride and wield blade, and I do not fear either pain or death.\" \n–Éowyn, <i>The Return of the King</i>"
+    "Text": "\"But I am of the House of Eorl and not a serving-woman. I can ride and wield blade, and I do not fear either pain or death.\" \n–Éowyn, <i>The Return of the King</i>",
+    "Text_CN": "\"But I am of the House of Eorl and not a serving-woman. I can ride and wield blade, and I do not fear either pain or death.\" \n–Éowyn, <i>The Return of the King</i>",
+    "Text_FR": "\"But I am of the House of Eorl and not a serving-woman. I can ride and wield blade, and I do not fear either pain or death.\" \n–Éowyn, <i>The Return of the King</i>"
   },
   {
     "Id": "C_EOWYN_TEXT",
     "Text": "Gain +2 Willpower this round after the first Character is damaged",
-    "Text_CN": "每轮首次有人物被击败时，伊欧玟意志力+2，持续至轮次结束。"
+    "Text_CN": "每轮首次有人物被击败时，伊欧玟意志力+2，持续至轮次结束。",
+    "Text_FR": "Après le 1er personnage vaincu chaque tour, Éowyn gagne +2 en Volonté jusqu'à la fin du tour."
   },
   {
     "Id": "C_EOWYN_TITLE",
     "Text": "‰Éowyn",
-    "Text_CN": "‰伊欧玟"
+    "Text_CN": "‰伊欧玟",
+    "Text_FR": "‰Éowyn"
   },
   {
     "Id": "C_ERKENBRAND_FLAVOR",
-    "Text": "Down from the hills leaped Erkenbrand, lord of Westfold. \n<i>—The Two Towers</i>",
-    "Text_CN": "Down from the hills leaped Erkenbrand, lord of Westfold. \n<i>–The Two Towers</i>"
+    "Text": "Down from the hills leaped Erkenbrand, lord of Westfold. \n<i>–The Two Towers</i>",
+    "Text_CN": "Down from the hills leaped Erkenbrand, lord of Westfold. \n<i>–The Two Towers</i>",
+    "Text_FR": "Down from the hills leaped Erkenbrand, lord of Westfold. \n<i>–The Two Towers</i>"
   },
   {
     "Id": "C_ERKENBRAND_TEXT",
     "Text": "<b>Block</b>. <b>Guard</b>",
-    "Text_CN": "格挡。哨兵 "
+    "Text_CN": "格挡。哨兵 ",
+    "Text_FR": "Blocage. Sentinelle. "
   },
   {
     "Id": "C_ERKENBRAND_TITLE",
     "Text": "‰Erkenbrand  ",
-    "Text_CN": "‰Erkenbrand  "
+    "Text_CN": "‰Erkenbrand  ",
+    "Text_FR": "‰Erkenbrand  "
   },
   {
     "Id": "C_ESCAPETHEFOREST_FLAVOR",
@@ -5039,18 +5076,21 @@
   },
   {
     "Id": "C_EVERVIGILANT_FLAVOR",
-    "Text": "\"…no road looks toward safety any longer. Be vigilant!\"\n—Gandalf, <i>The Return of the King</i>",
-    "Text_CN": "\"…no road looks toward safety any longer. Be vigilant!\"\n–Gandalf, <i>The Return of the King</i>"
+    "Text": "\"…no road looks toward safety any longer. Be vigilant!\"\n–Gandalf, <i>The Return of the King</i>",
+    "Text_CN": "\"…no road looks toward safety any longer. Be vigilant!\"\n–Gandalf, <i>The Return of the King</i>",
+    "Text_FR": "\"…no road looks toward safety any longer. Be vigilant!\"\n–Gandalf, <i>The Return of the King</i>"
   },
   {
     "Id": "C_EVERVIGILANT_TEXT",
     "Text": "Ready a Character",
-    "Text_CN": "令玩家控制的一名人物重新就绪。"
+    "Text_CN": "令玩家控制的一名人物重新就绪。",
+    "Text_FR": "Préparez un personnage sous votre contrôle."
   },
   {
     "Id": "C_EVERVIGILANT_TITLE",
     "Text": "Ever Vigilant",
-    "Text_CN": "永远警惕"
+    "Text_CN": "永远警惕",
+    "Text_FR": "Toujours vigilant"
   },
   {
     "Id": "C_EVILSTORM_FLAVOR",
@@ -5123,48 +5163,57 @@
   },
   {
     "Id": "C_FARAMIR_FLAVOR",
-    "Text": "\"The road may pass, but they shall not! Not while Faramir is Captain.\" \n—Mablung, <i>The Two Towers</i>",
-    "Text_CN": "\"The road may pass, but they shall not! Not while Faramir is Captain.\" \n–Mablung, <i>The Two Towers</i>"
+    "Text": "\"The road may pass, but they shall not! Not while Faramir is Captain.\" \n–Mablung, <i>The Two Towers</i>",
+    "Text_CN": "\"The road may pass, but they shall not! Not while Faramir is Captain.\" \n–Mablung, <i>The Two Towers</i>",
+    "Text_FR": "\"The road may pass, but they shall not! Not while Faramir is Captain.\" \n–Mablung, <i>The Two Towers</i>"
   },
   {
     "Id": "C_FARAMIR_TEXT",
     "Text": "<b>Ranged</b>. <b>Vanquish</b>: \nDraw 1 card",
-    "Text_CN": "<b>Ranged</b>. <b>Vanquish</b>: \nDraw 1 card"
+    "Text_CN": "<b>Ranged</b>. <b>Vanquish</b>: \nDraw 1 card",
+    "Text_FR": "<b>Ranged</b>. <b>Vanquish</b>: \nDraw 1 card"
   },
   {
     "Id": "C_FARAMIR_TITLE",
     "Text": "‰Faramir   ",
-    "Text_CN": "‰Faramir   "
+    "Text_CN": "‰Faramir   ",
+    "Text_FR": "‰Faramir   "
   },
   {
     "Id": "C_FAVOROFTHELADY_FLAVOR",
-    "Text": "\"You are indeed high in the favor of the Lady!\"\n —an Elf of Lórien, <i>The Fellowship of the Ring</i>",
-    "Text_CN": "\"You are indeed high in the favor of the Lady!\"\n –Unnamed Elf of Lórien,\n <i>The Fellowship of the Ring</i>"
+    "Text": "\"You are indeed high in the favor of the Lady!\"\n –Unnamed Elf of Lórien,\n <i>The Fellowship of the Ring</i>",
+    "Text_CN": "\"You are indeed high in the favor of the Lady!\"\n –Unnamed Elf of Lórien,\n <i>The Fellowship of the Ring</i>",
+    "Text_FR": "\"You are indeed high in the favor of the Lady!\"\n –Unnamed Elf of Lórien,\n <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_FAVOROFTHELADY_TEXT",
     "Text": "Gain +1 Willpower",
-    "Text_CN": "装备：意志力+1。"
+    "Text_CN": "装备：意志力+1。",
+    "Text_FR": "Attacher : gagnez +1 en Volonté."
   },
   {
     "Id": "C_FAVOROFTHELADY_TITLE",
     "Text": "Favor of the Lady",
-    "Text_CN": "女神之佑"
+    "Text_CN": "女神之佑",
+    "Text_FR": "La faveur de la Dame"
   },
   {
     "Id": "C_FEINT_FLAVOR",
-    "Text": "A few brave men were strung before them to make a feint of resistance, and many there fell before the rest drew back and fled to either side. \n<i>—The Hobbit</i>",
-    "Text_CN": "A few brave men were strung before them to make a feint of resistance, and many there fell before the rest drew back and fled to either side. \n<i>–The Hobbit</i>"
+    "Text": "A few brave men were strung before them to make a feint of resistance, and many there fell before the rest drew back and fled to either side. \n<i>–The Hobbit</i>",
+    "Text_CN": "A few brave men were strung before them to make a feint of resistance, and many there fell before the rest drew back and fled to either side. \n<i>–The Hobbit</i>",
+    "Text_FR": "A few brave men were strung before them to make a feint of resistance, and many there fell before the rest drew back and fled to either side. \n<i>–The Hobbit</i>"
   },
   {
     "Id": "C_FEINT_TEXT",
     "Text": "Reduce a non-unique Enemy to 0 Attack this round",
-    "Text_CN": "令一名不唯一的敌人攻击力降至0点，持续至轮次结束。"
+    "Text_CN": "令一名不唯一的敌人攻击力降至0点，持续至轮次结束。",
+    "Text_FR": "Réduisez à 0 l'Attaque d'un ennemi non-unique jusqu'à la fin du tour."
   },
   {
     "Id": "C_FEINT_TITLE",
     "Text": "Feint",
-    "Text_CN": "佯攻"
+    "Text_CN": "佯攻",
+    "Text_FR": "Feinte"
   },
   {
     "Id": "C_FINDSAFEPASSAGE_FLAVOR",
@@ -5303,18 +5352,21 @@
   },
   {
     "Id": "C_FORESTSNARE_FLAVOR",
-    "Text": "\"We shall have it like a coney in a trap. Then we shall learn what kind of thing it is.\"\n—a Man of Gondor, <i>The Two Towers</i>",
-    "Text_CN": "\"We shall have it like a coney in a trap. Then we shall learn what kind of thing it is.\"\n–Unidentified Man of Gondor,\n <i>The Two Towers</i>"
+    "Text": "\"We shall have it like a coney in a trap. Then we shall learn what kind of thing it is.\"\n–Unidentified Man of Gondor,\n <i>The Two Towers</i>",
+    "Text_CN": "\"We shall have it like a coney in a trap. Then we shall learn what kind of thing it is.\"\n–Unidentified Man of Gondor,\n <i>The Two Towers</i>",
+    "Text_FR": "\"We shall have it like a coney in a trap. Then we shall learn what kind of thing it is.\"\n–Unidentified Man of Gondor,\n <i>The Two Towers</i>"
   },
   {
     "Id": "C_FORESTSNARE_TEXT",
     "Text": "Exhaust a non-unique Enemy. \nEnemy does not ready during Upkeep",
-    "Text_CN": "Exhaust a non-unique Enemy. \nEnemy does not ready during Upkeep"
+    "Text_CN": "Exhaust a non-unique Enemy. \nEnemy does not ready during Upkeep",
+    "Text_FR": "Exhaust a non-unique Enemy. \nEnemy does not ready during Upkeep"
   },
   {
     "Id": "C_FORESTSNARE_TITLE",
     "Text": "Forest Snare",
-    "Text_CN": "林中陷阱"
+    "Text_CN": "林中陷阱",
+    "Text_FR": "Danger de la forêt"
   },
   {
     "Id": "C_FORESTSPIDER_FLAVOR",
@@ -5348,72 +5400,84 @@
   },
   {
     "Id": "C_FRODO_FLAVOR",
-    "Text": "Frodo began to feel restless, and the old paths seemed too well-trodden. He looked at maps and wondered what lay beyond their edges… \n<i>—The Fellowship of the Ring</i>",
-    "Text_CN": "Frodo began to feel restless, and the old paths seemed too well-trodden. He looked at maps and wondered what lay beyond their edges… \n<i>–The Fellowship of the Ring</i>"
+    "Text": "Frodo began to feel restless, and the old paths seemed too well-trodden. He looked at maps and wondered what lay beyond their edges… \n<i>–The Fellowship of the Ring</i>",
+    "Text_CN": "Frodo began to feel restless, and the old paths seemed too well-trodden. He looked at maps and wondered what lay beyond their edges… \n<i>–The Fellowship of the Ring</i>",
+    "Text_FR": "Frodo began to feel restless, and the old paths seemed too well-trodden. He looked at maps and wondered what lay beyond their edges… \n<i>–The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_FRODO_TEXT",
     "Text": "<b>Stealth</b>. Gain +2 Willpower while Sauron has 0 Resources",
-    "Text_CN": "潜行。当索隆的资源为0时，弗罗多意志力+2。"
+    "Text_CN": "潜行。当索隆的资源为0时，弗罗多意志力+2。",
+    "Text_FR": "Furtif. Tant que Sauron a 0 ressource, Frodon gagne +2 en Volonté."
   },
   {
     "Id": "C_FRODO_TITLE",
     "Text": "‰Frodo   ",
-    "Text_CN": "‰Frodo   "
+    "Text_CN": "‰Frodo   ",
+    "Text_FR": "‰Frodo   "
   },
   {
     "Id": "C_GAININGSTRENGTH_FLAVOR",
-    "Text": "\"Nay, my friends, I am the lawful master of the Stone, and I had both the right and the strength to use it...\" \n—Aragorn, <i>The Return of the King</i>",
-    "Text_CN": "\"Nay, my friends, I am the lawful master of the Stone, and I had both the right and the strength to use it...\" \n–Aragorn, <i>The Return of the King</i>"
+    "Text": "\"Nay, my friends, I am the lawful master of the Stone, and I had both the right and the strength to use it...\" \n–Aragorn, <i>The Return of the King</i>",
+    "Text_CN": "\"Nay, my friends, I am the lawful master of the Stone, and I had both the right and the strength to use it...\" \n–Aragorn, <i>The Return of the King</i>",
+    "Text_FR": "\"Nay, my friends, I am the lawful master of the Stone, and I had both the right and the strength to use it...\" \n–Aragorn, <i>The Return of the King</i>"
   },
   {
     "Id": "C_GAININGSTRENGTH_TEXT",
     "Text": "Gain +1 Resource",
-    "Text_CN": "获得1点资源。"
+    "Text_CN": "获得1点资源。",
+    "Text_FR": "Gagnez 1 ressource."
   },
   {
     "Id": "C_GAININGSTRENGTH_TITLE",
     "Text": "Gaining Strength",
-    "Text_CN": "获取力量"
+    "Text_CN": "获取力量",
+    "Text_FR": "Regain de force"
   },
   {
     "Id": "C_GALADHONARCHER_FLAVOR",
-    "Text": "\"…they say that you breathe so loud that they could shoot you in the dark.\" \n—Legolas, <i>The Fellowship of the Ring</i>",
-    "Text_CN": "\"…they say that you breathe so loud that they could shoot you in the dark.\" \n–Legolas, <i>The Fellowship of the Ring</i>"
+    "Text": "\"…they say that you breathe so loud that they could shoot you in the dark.\" \n–Legolas, <i>The Fellowship of the Ring</i>",
+    "Text_CN": "\"…they say that you breathe so loud that they could shoot you in the dark.\" \n–Legolas, <i>The Fellowship of the Ring</i>",
+    "Text_FR": "\"…they say that you breathe so loud that they could shoot you in the dark.\" \n–Legolas, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_GALADHONARCHER_TEXT",
     "Text": "<b>Ranged</b>. <b>Arrival</b>: Deal 1 damage",
-    "Text_CN": "远程。登场：对一名敌人造成1点伤害。"
+    "Text_CN": "远程。登场：对一名敌人造成1点伤害。",
+    "Text_FR": "À distance. Arrivée : infligez 1 point de dégâts à un ennemi."
   },
   {
     "Id": "C_GALADHONARCHER_TITLE",
     "Text": "Galadhon Archer",
-    "Text_CN": "加拉松射手"
+    "Text_CN": "加拉松射手",
+    "Text_FR": "Archer de Galadhon"
   },
   {
     "Id": "C_GALADRIELSHANDMAIDEN_FLAVOR",
-    "Text": "Her maidens stood silent about her, and a while she looked upon her guests.\n<i>—The Fellowship of the Ring</i>",
-    "Text_CN": "Her maidens stood silent about her, and a while she looked upon her guests.\n<i>–The Fellowship of the Ring</i>"
+    "Text": "Her maidens stood silent about her, and a while she looked upon her guests.\n<i>–The Fellowship of the Ring</i>",
+    "Text_CN": "Her maidens stood silent about her, and a while she looked upon her guests.\n<i>–The Fellowship of the Ring</i>",
+    "Text_FR": "Her maidens stood silent about her, and a while she looked upon her guests.\n<i>–The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_GALADRIELSHANDMAIDEN_TEXT",
     "Text": "<b>Arrival</b>: Lose 1 Threat",
-    "Text_CN": "登场：令威胁降低1点。"
+    "Text_CN": "登场：令威胁降低1点。",
+    "Text_FR": "Arrivée : réduit de 1 votre niveau de Menace."
   },
   {
     "Id": "C_GALADRIELSHANDMAIDEN_TITLE",
     "Text": "Galadriel's Handmaiden",
-    "Text_CN": "凯兰崔尔的侍女"
+    "Text_CN": "凯兰崔尔的侍女",
+    "Text_FR": "Suivante de Galadriel"
   },
   {
     "Id": "C_GANDALF_FLAVOR",
-    "Text": "\"I am a servant of the Secret Fire, wielder of the flame of Anor.\" \n—Gandalf, <i>The Fellowship of the Ring</i>",
+    "Text": "\"I am a servant of the Secret Fire, wielder of the flame of Anor.\" \n–Gandalf, <i>The Fellowship of the Ring</i>",
     "Text_CN": "\"I am a servant of the Secret Fire, wielder of the flame of Anor.\" \n–Gandalf, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_GANDALF_TEXT",
-    "Text": "<b>Fleeting</b>. <b>Arrival (choose)</b>:\nDraw 3 cards; lose 3 Threat;\nor deal 3 damage",
+    "Text": "<b>Fleeting. Arrival (choose):</b> Draw 3 cards; lose 3 Threat; or deal 3 damage",
     "Text_CN": "一闪而过。登场（选择）：抽取3张卡牌；令威胁降低3点；或对一名敌人造成3点伤害。"
   },
   {
@@ -5453,18 +5517,21 @@
   },
   {
     "Id": "C_GHANBURIGHAN_FLAVOR",
-    "Text": "\"Ghân-buri-Ghân will not lead you into trap.\" \n—Ghân-buri-Ghân, <i>The Fellowship of the Ring</i>",
-    "Text_CN": "\"Ghân-buri-Ghân will not lead you into trap.\" \n–Ghân-buri-Ghân, <i>The Fellowship of the Ring</i>"
+    "Text": "\"Ghân-buri-Ghân will not lead you into trap.\" \n–Ghân-buri-Ghân, <i>The Fellowship of the Ring</i>",
+    "Text_CN": "\"Ghân-buri-Ghân will not lead you into trap.\" \n–Ghân-buri-Ghân, <i>The Fellowship of the Ring</i>",
+    "Text_FR": "\"Ghân-buri-Ghân will not lead you into trap.\" \n–Ghân-buri-Ghân, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_GHANBURIGHAN_TEXT",
     "Text": "<b>Stealth</b>. Gain +<u>X</u> Willpower \n(<u>X</u> equals Objectives in play)",
-    "Text_CN": "<b>Stealth</b>. Gain +<u>X</u> Willpower \n(<u>X</u> equals Objectives in play)"
+    "Text_CN": "<b>Stealth</b>. Gain +<u>X</u> Willpower \n(<u>X</u> equals Objectives in play)",
+    "Text_FR": "<b>Stealth</b>. Gain +<u>X</u> Willpower \n(<u>X</u> equals Objectives in play)"
   },
   {
     "Id": "C_GHANBURIGHAN_TITLE",
     "Text": "‰Ghân-buri-Ghân",
-    "Text_CN": "‰悍-不里-悍"
+    "Text_CN": "‰悍-不里-悍",
+    "Text_FR": "‰Ghân-buri-Ghân"
   },
   {
     "Id": "C_GIANTBEETLE_FLAVOR",
@@ -6486,7 +6553,7 @@
   },
   {
     "Id": "C_REINFORCEMENTS_TEXT",
-    "Text": "Play a random non-unique\nAlly from your deck",
+    "Text": "Play a random non-unique Ally from your deck",
     "Text_CN": "安置一位当前游戏中不唯一的随机盟友的镜像。"
   },
   {
@@ -7000,18 +7067,21 @@
   },
   {
     "Id": "C_STUART_FLAVOR",
-    "Text": "\"Here you, are there any more of your sort a-sneakin' in these here woods, yer nassty little rabbit,\" said he looking at the hobbit's furry feet…\n—a Troll, <i>The Hobbit</i>",
-    "Text_CN": "\"Here you, are there any more of your sort a-sneakin' in these here woods, yer nassty little rabbit,\" said he looking at the hobbit's furry feet…\n—Troll, <i>The Hobbit</i>"
+    "Text": "\"Here you, are there any more of your sort a-sneakin' in these here woods, yer nassty little rabbit,\" said he looking at the hobbit's furry feet…\n—Troll, <i>The Hobbit</i>",
+    "Text_CN": "\"Here you, are there any more of your sort a-sneakin' in these here woods, yer nassty little rabbit,\" said he looking at the hobbit's furry feet…\n—Troll, <i>The Hobbit</i>",
+    "Text_FR": "\"Here you, are there any more of your sort a-sneakin' in these here woods, yer nassty little rabbit,\" said he looking at the hobbit's furry feet…\n—Troll, <i>The Hobbit</i>"
   },
   {
     "Id": "C_STUART_TEXT",
     "Text": "<b>Upkeep</b>: Restore 1 Health to\neach Troll",
-    "Text_CN": "休整：每位巨魔敌人治愈1点伤害。"
+    "Text_CN": "休整：每位巨魔敌人治愈1点伤害。",
+    "Text_FR": "Entretien : soignez 1 point de dégâts pour chaque Troll ennemi."
   },
   {
     "Id": "C_STUART_TITLE",
     "Text": "‰Stuart",
-    "Text_CN": "‰斯图亚特"
+    "Text_CN": "‰斯图亚特",
+    "Text_FR": "‰Stuart"
   },
   {
     "Id": "C_SUDDENRIPOSTE_FLAVOR",
@@ -7117,7 +7187,7 @@
   },
   {
     "Id": "C_THICKWEBS_FLAVOR",
-    "Text": "\"What nasty thick skins they have to be sure, but I'll wager there is good juice inside.\" \n—a Spider, <i>The Hobbit</i>",
+    "Text": "\"What nasty thick skins they have to be sure, but I'll wager there is good juice inside.\" \n—Spider, <i>The Hobbit</i>",
     "Text_CN": "\"What nasty thick skins they have to be sure, but I'll wager there is good juice inside.\" \n—Spider, <i>The Hobbit</i>"
   },
   {
@@ -7561,7 +7631,7 @@
   },
   {
     "Id": "C_WATERSOFNIMRODEL_FLAVOR",
-    "Text": "It was cold but its touch was clean, and as he went on and it mounted to his knees, he felt that the stain of travel and all weariness was washed from his limbs.\n—<i>The Fellowship of the Ring</i>",
+    "Text": "It was cold but its touch was clean, and as he went on and it mounted to his knees, he felt that the strain of travel and all weariness was washed from his limbs. \n<i>–The Fellowship of the Ring</i>",
     "Text_CN": "For a moment Frodo stood near the brink and let the water flow over his tired feet. It was cold but its touch was clean, and as he went on and it mounted to his knees, he felt that the strain of travel and all weariness was washed from his limbs. \n<i>–The Fellowship of the Ring</i>"
   },
   {
@@ -8926,23 +8996,19 @@
   },
   {
     "Id": "C_ATEST180307_FLAVOR",
-    "Text": "C_ATEST180307_FLAVOR",
-    "Text_CN": ""
+    "Text": "C_ATEST180307_FLAVOR"
   },
   {
     "Id": "C_ATEST180402EXP_TITLE",
-    "Text": "card for exp",
-    "Text_CN": ""
+    "Text": "card for exp"
   },
   {
     "Id": "C_ATEST180402EXP_TEXT",
-    "Text": "a new card in the world",
-    "Text_CN": ""
+    "Text": "a new card in the world"
   },
   {
     "Id": "C_ATEST180402EXP_FLAVOR",
-    "Text": "new card flavor",
-    "Text_CN": ""
+    "Text": "C_ATEST180402EXP_FLAVOR"
   },
   {
     "Id": "C_REINFORCEMENTS_FLAVOR",
