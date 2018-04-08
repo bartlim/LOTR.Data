@@ -5580,21 +5580,15 @@
   },
   {
     "Id": "C_GIMLI_FLAVOR",
-    "Text": "\"Men need many words before deeds. My axe is restless in my hands.\" \n–Gimli, <i>The Two Towers</i>",
-    "Text_CN": "\"Men need many words before deeds. My axe is restless in my hands.\" \n–Gimli, <i>The Two Towers</i>",
-    "Text_FR": "\"Men need many words before deeds. My axe is restless in my hands.\" \n–Gimli, <i>The Two Towers</i>"
+    "Text": "\"Men need many words before deeds. My axe is restless in my hands.\" \n–Gimli, <i>The Two Towers</i>"
   },
   {
     "Id": "C_GIMLI_TEXT",
-    "Text": "<b>Stalwart</b>. Gain +2 Attack this round after taking damage",
-    "Text_CN": "强壮。当受到伤害时，金雳攻击+2，持续至轮次结束。",
-    "Text_FR": "Loyal. Lorsque Gimli subit des points de dégâts, il gagne +2 en Attaque jusqu'à la fin du tour."
+    "Text": "<b>Stalwart.</b> Gain +2 Attack this round after taking damage"
   },
   {
     "Id": "C_GIMLI_TITLE",
-    "Text": "‰Gimli   ",
-    "Text_CN": "‰Gimli   ",
-    "Text_FR": "‰Gimli   "
+    "Text": "‰Gimli   "
   },
   {
     "Id": "C_GOBLINSNIPER_FLAVOR",
@@ -9103,5 +9097,17 @@
   {
     "Id": "C_MANOFDALE_TEXT",
     "Text": "<b>Ranged</b>"
+  },
+  {
+    "Id": "C_RHOVANIONOUTRIDER_FLAVOR",
+    "Text": "C_RHOVANIONOUTRIDER_FLAVOR"
+  },
+  {
+    "Id": "C_RHOVANIONOUTRIDER_TITLE",
+    "Text": "Rhovanion Outrider"
+  },
+  {
+    "Id": "C_RHOVANIONOUTRIDER_TEXT",
+    "Text": ""
   }
 ]
