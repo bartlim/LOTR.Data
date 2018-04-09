@@ -9220,5 +9220,17 @@
   {
     "Id": "C_SPIKETRAP_TEXT",
     "Text": "Attach to a non-unique Enemy.<br>Upkeep: Deal 1 Damage to this Enemy"
+  },
+  {
+    "Id": "C_LONGBEARDMAPMAKER_TITLE",
+    "Text": "Longbeard Mapmaker"
+  },
+  {
+    "Id": "C_LONGBEARDMAPMAKER_TEXT",
+    "Text": "Power: +1 Willpower until end of round (Cost 1)"
+  },
+  {
+    "Id": "C_LONGBEARDMAPMAKER_FLAVOR",
+    "Text": "C_LONGBEARDMAPMAKER_FLAVOR"
   }
 ]
