@@ -248,7 +248,9 @@
       {
         "Title": "DarkForest",
         "SoloGameSetup": [
-          "FindYourFriends"
+          "FindYourFriends",
+          "ForestSpider",
+          "ForestSpider"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -286,7 +288,9 @@
         "Title": "ForestGlade",
         "SoloGameSetup": [
           "UngoliantsSpawn",
-          "GiantSpider"
+          "GiantSpider",
+          "ForestSpider",
+          "ForestSpider"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -298,9 +302,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180329020733144",
+  "Version": "20180410083935162",
   "Key": "MainQuest",
   "SubKey": "FliesAndSpiders",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_FliesAndSpiders_20180329020733144"
+  "InternalKey": "MainQuest_FliesAndSpiders_20180410083935162"
 }
