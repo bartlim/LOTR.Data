@@ -4795,15 +4795,11 @@
   },
   {
     "Id": "C_ELVENSCOUT_TEXT",
-    "Text": "<b>Ranged</b>",
-    "Text_CN": "远程。",
-    "Text_FR": "À distance."
+    "Text": "<b>Ranged</b>"
   },
   {
     "Id": "C_ELVENSCOUT_TITLE",
-    "Text": "Elven Scout",
-    "Text_CN": "精灵斥候",
-    "Text_FR": "Éclaireur elfe"
+    "Text": "Elven Scout"
   },
   {
     "Id": "C_ENFEEBLED_FLAVOR",
@@ -8716,5 +8712,9 @@
   {
     "Id": "C_GRIMBEORN_FLAVOR",
     "Text": "Frodo learned that Grimbeorn the Old, son of Beorn, was now the lord of many sturdy men, and to their land between the Mountains and Mirkwood neither orc nor wolf dared to go.\r\n—<i>The Fellowship of the Ring</i>\r"
+  },
+  {
+    "Id": "C_ELVENSCOUT_FLAVOR",
+    "Text": "\"Some of the scouts have been sent out already. More will go tomorrow.\"\r\n—Gandalf, <i>The Fellowship of the Ring</i>"
   }
 ]
