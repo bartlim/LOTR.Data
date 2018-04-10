@@ -4441,15 +4441,11 @@
   },
   {
     "Id": "C_ATEST180307_TEXT",
-    "Text": "test",
-    "Text_CN": "test",
-    "Text_FR": "test"
+    "Text": "test one"
   },
   {
     "Id": "C_ATEST180307_TITLE",
-    "Text": "test",
-    "Text_CN": "test",
-    "Text_FR": "test"
+    "Text": "test"
   },
   {
     "Id": "C_ATEST181120_FLAVOR",
@@ -9232,5 +9228,9 @@
   {
     "Id": "C_RHOVANIONOUTRIDER_FLAVOR",
     "Text": "C_RHOVANIONOUTRIDER_FLAVOR"
+  },
+  {
+    "Id": "C_ATEST180307_FLAVOR",
+    "Text": "C_ATEST180307_FLAVOR"
   }
 ]
