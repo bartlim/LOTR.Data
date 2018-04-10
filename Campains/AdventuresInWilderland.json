@@ -1,8 +1,8 @@
 {
   "Id": "AdventuresInWilderland",
   "IconSprite": null,
-  "MapPosX": 3.8,
-  "MapPosY": -8.0,
+  "MapPosX": 0.0,
+  "MapPosY": -16.0,
   "Quests": [
     {
       "Id": "PassageThroughMirkwood",
@@ -21,7 +21,8 @@
             "HiddenPath",
             "EastBightPatrol",
             "EastBightPatrol",
-            "EliteDolGuldurOrcs"
+            "DolGuldurArcher",
+            "DolGuldurArcher"
           ],
           "NextStageId": "CapturedBySpiders",
           "BGM": "mus_thewilderlands"
@@ -243,7 +244,9 @@
           "IntroVoice": "Q2L1_DarkForest",
           "IntroSprite": "Sprites/Locations/Quest2_Stage01",
           "SoloGameSetup": [
-            "FindYourFriends"
+            "FindYourFriends",
+            "ForestSpider",
+            "ForestSpider"
           ],
           "NextStageId": "TheSpidersLair",
           "BGM": "mus_mirkwood"
@@ -281,7 +284,9 @@
           "IntroSprite": "Sprites/Locations/Quest2_Stage04",
           "SoloGameSetup": [
             "UngoliantsSpawn",
-            "GiantSpider"
+            "GiantSpider",
+            "ForestSpider",
+            "ForestSpider"
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme"
@@ -459,7 +464,8 @@
             "SearchForAPath",
             "WildBear",
             "MuckAdder",
-            "PackOfWargs"
+            "PackOfWargs",
+            "Wargs"
           ],
           "NextStageId": "BareHilltop",
           "BGM": "mus_mirkwood"
@@ -473,7 +479,8 @@
             "InvestigateSmoke",
             "SearchForAPath",
             "WargRiders",
-            "Wargs"
+            "Wargs",
+            "PackOfWargs"
           ],
           "NextStageId": "MirkwoodSwamp",
           "BGM": "mus_mirkwood"
@@ -486,6 +493,8 @@
           "SoloGameSetup": [
             "GiantMarshWorm",
             "Hummerhorns",
+            "MuckAdder",
+            "MuckAdder",
             "MuckAdder"
           ],
           "NextStageId": "OvergrownTrail",
@@ -511,7 +520,7 @@
           "IntroVoice": "Q3L3C_AbandonedVillage",
           "IntroSprite": "Sprites/Locations/Quest3_Stage03C",
           "SoloGameSetup": [
-            "EliteDolGuldurOrcs",
+            "DolGuldurOrcs",
             "OrcMarauder",
             "VeteranPatrol",
             "EastBightPatrol"
