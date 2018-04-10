@@ -351,7 +351,8 @@
           "SearchForAPath",
           "WildBear",
           "MuckAdder",
-          "PackOfWargs"
+          "PackOfWargs",
+          "Wargs"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -365,7 +366,8 @@
           "InvestigateSmoke",
           "SearchForAPath",
           "WargRiders",
-          "Wargs"
+          "Wargs",
+          "PackOfWargs"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -378,6 +380,8 @@
         "SoloGameSetup": [
           "GiantMarshWorm",
           "Hummerhorns",
+          "MuckAdder",
+          "MuckAdder",
           "MuckAdder"
         ],
         "CoopGameSetup": [],
@@ -403,7 +407,7 @@
       {
         "Title": "AbandonedVillage",
         "SoloGameSetup": [
-          "EliteDolGuldurOrcs",
+          "DolGuldurOrcs",
           "OrcMarauder",
           "VeteranPatrol",
           "EastBightPatrol"
@@ -418,9 +422,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180329020738126",
+  "Version": "20180410083940475",
   "Key": "MainQuest",
   "SubKey": "LostInMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_LostInMirkwood_20180329020738126"
+  "InternalKey": "MainQuest_LostInMirkwood_20180410083940475"
 }
