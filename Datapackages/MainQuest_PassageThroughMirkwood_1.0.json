@@ -265,7 +265,8 @@
           "HiddenPath",
           "EastBightPatrol",
           "EastBightPatrol",
-          "EliteDolGuldurOrcs"
+          "DolGuldurArcher",
+          "DolGuldurArcher"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -333,9 +334,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180329020728212",
+  "Version": "20180410083929833",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180329020728212"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180410083929833"
 }
