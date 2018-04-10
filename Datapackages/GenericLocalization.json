@@ -4441,15 +4441,11 @@
   },
   {
     "Id": "C_ATEST180307_TEXT",
-    "Text": "test",
-    "Text_CN": "test",
-    "Text_FR": "test"
+    "Text": "test for exp"
   },
   {
     "Id": "C_ATEST180307_TITLE",
-    "Text": "test",
-    "Text_CN": "test",
-    "Text_FR": "test"
+    "Text": "test"
   },
   {
     "Id": "C_ATEST181120_FLAVOR",
@@ -4525,15 +4521,11 @@
   },
   {
     "Id": "C_BEORNSHOSPITALITY_TEXT",
-    "Text": "Heal 3 damage to a Character",
-    "Text_CN": "0",
-    "Text_FR": "Heal 3 damage to a Character."
+    "Text": "<b>Choose</b>: Restore 1 Damage to all Characters or Restore 4 Health to a single Hero"
   },
   {
     "Id": "C_BEORNSHOSPITALITY_TITLE",
-    "Text": "Beorn's Hospitality",
-    "Text_CN": "0",
-    "Text_FR": "Beorn's Hospitality"
+    "Text": "Beorn's Hospitality"
   },
   {
     "Id": "C_BILBOSCLOAK_FLAVOR",
@@ -6577,21 +6569,15 @@
   },
   {
     "Id": "C_RANGERPROVISIONS_FLAVOR",
-    "Text": "\"Rangers have been here lately. It is they who left the firewood behind.\"\n—Aragorn, <i>The Fellowship of the Ring</i>",
-    "Text_CN": "\"Rangers have been here lately. It is they who left the firewood behind.\"\n—Aragorn, <i>The Fellowship of the Ring</i>",
-    "Text_FR": "\"Rangers have been here lately. It is they who left the firewood behind.\"\n—Aragorn, <i>The Fellowship of the Ring</i>"
+    "Text": "\"Rangers have been here lately. It is they who left the firewood behind.\"\n—Aragorn, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_RANGERPROVISIONS_TEXT",
-    "Text": "Gain +1 Resource",
-    "Text_CN": "Gain +1 Resource",
-    "Text_FR": "Gain +1 Resource"
+    "Text": "Gain +1 Resource"
   },
   {
     "Id": "C_RANGERPROVISIONS_TITLE",
-    "Text": "Ranger Provisions",
-    "Text_CN": "Ranger Provisions",
-    "Text_FR": "Ranger Provisions"
+    "Text": "Ranger Provisions"
   },
   {
     "Id": "C_RANGERSBLADE_FLAVOR",
@@ -7453,21 +7439,15 @@
   },
   {
     "Id": "C_UNEXPECTEDCOURAGE_FLAVOR",
-    "Text": "\"Here am I, naughty little fly;\nyou are fat and lazy \nYou cannot trap me, though you try,\nin your cobwebs crazy.\"\n—Bilbo Baggins, <i>The Hobbit</i>",
-    "Text_CN": "\"Here am I, naughty little fly;\nyou are fat and lazy \nYou cannot trap me, though you try,\nin your cobwebs crazy.\"\n–Bilbo Baggins, <i>The Hobbit</i>",
-    "Text_FR": "\"Here am I, naughty little fly;\nyou are fat and lazy \nYou cannot trap me, though you try,\nin your cobwebs crazy.\"\n–Bilbo Baggins, <i>The Hobbit</i>"
+    "Text": "\"Here am I, naughty little fly;\nyou are fat and lazy \nYou cannot trap me, though you try,\nin your cobwebs crazy.\"\n–Bilbo Baggins, <i>The Hobbit</i>"
   },
   {
     "Id": "C_UNEXPECTEDCOURAGE_TEXT",
-    "Text": "Ready after defeating an Enemy or resolving an Objective",
-    "Text_CN": "Ready after defeating an Enemy or resolving an Objective",
-    "Text_FR": "Ready after defeating an Enemy or resolving an Objective"
+    "Text": "Ready after defeating an Enemy or resolving an Objective"
   },
   {
     "Id": "C_UNEXPECTEDCOURAGE_TITLE",
-    "Text": "Unexpected Courage",
-    "Text_CN": "0",
-    "Text_FR": "Unexpected Courage"
+    "Text": "Unexpected Courage"
   },
   {
     "Id": "C_UNGOLIANTSBROOD_FLAVOR",
@@ -9100,5 +9080,157 @@
     "Text": "Willpower",
     "Text_CN": "领导型",
     "Text_FR": "Volonté"
+  },
+  {
+    "Id": "C_COMMONCAUSE_TITLE",
+    "Text": "Common Cause"
+  },
+  {
+    "Id": "C_COMMONCAUSE_TEXT",
+    "Text": "Exhaust an Ally to ready another Character"
+  },
+  {
+    "Id": "C_COMMONCAUSE_FLAVOR",
+    "Text": "C_COMMONCAUSE_FLAVOR"
+  },
+  {
+    "Id": "C_GUARDOFTHELONELYMOUNTAIN_TITLE",
+    "Text": "Guard of Erebor"
+  },
+  {
+    "Id": "C_GUARDOFTHELONELYMOUNTAIN_TEXT",
+    "Text": "<b>Block</b>"
+  },
+  {
+    "Id": "C_GUARDOFTHELONELYMOUNTAIN_FLAVOR",
+    "Text": "C_GUARDOFTHELONELYMOUNTAIN_FLAVOR"
+  },
+  {
+    "Id": "C_CAREFULPLANNING_TITLE",
+    "Text": "Careful Planning"
+  },
+  {
+    "Id": "C_CAREFULPLANNING_TEXT",
+    "Text": "Lose Threat equal to the cost of the next card Sauron plays (minimum 1)"
+  },
+  {
+    "Id": "C_CAREFULPLANNING_FLAVOR",
+    "Text": "C_CAREFULPLANNING_FLAVOR"
+  },
+  {
+    "Id": "C_FAVOROFTHEVALAR_TITLE",
+    "Text": "Favor of the Valar"
+  },
+  {
+    "Id": "C_FAVOROFTHEVALAR_TEXT",
+    "Text": "If your threat would reach 50, Lose 3 Threat instead"
+  },
+  {
+    "Id": "C_FAVOROFTHEVALAR_FLAVOR",
+    "Text": "C_FAVOROFTHEVALAR_FLAVOR"
+  },
+  {
+    "Id": "C_DUNEDAINQUEST_TITLE",
+    "Text": "Dunedain Quest"
+  },
+  {
+    "Id": "C_DUNEDAINQUEST_TEXT",
+    "Text": "Gain <b>Stealth</b>.<br>Gain +1 Health"
+  },
+  {
+    "Id": "C_DUNEDAINQUEST_FLAVOR",
+    "Text": "C_DUNEDAINQUEST_FLAVOR"
+  },
+  {
+    "Id": "C_DWAVENAXE_FLAVOR",
+    "Text": "C_DWAVENAXE_FLAVOR"
+  },
+  {
+    "Id": "C_DWAVENAXE_TITLE",
+    "Text": "Dwarven Axe"
+  },
+  {
+    "Id": "C_DWAVENAXE_TEXT",
+    "Text": "C_DWAVENAXE_TEXT"
+  },
+  {
+    "Id": "C_DWARVENAXE_FLAVOR",
+    "Text": "C_DWARVENAXE_FLAVOR"
+  },
+  {
+    "Id": "C_DWARVENAXE_TITLE",
+    "Text": "Dwarven Axe"
+  },
+  {
+    "Id": "C_DWARVENAXE_TEXT",
+    "Text": "C_DWARVENAXE_TEXT"
+  },
+  {
+    "Id": "C_MANOFDALE_TITLE",
+    "Text": "Man of Dale"
+  },
+  {
+    "Id": "C_MANOFDALE_TEXT",
+    "Text": "<b>Ranged</b>"
+  },
+  {
+    "Id": "C_MANOFDALE_FLAVOR",
+    "Text": "C_MANOFDALE_FLAVOR"
+  },
+  {
+    "Id": "C_SPEARWALL_FLAVOR",
+    "Text": "C_SPEARWALL_FLAVOR"
+  },
+  {
+    "Id": "C_SPEARWALL_TITLE",
+    "Text": "Spear Wall"
+  },
+  {
+    "Id": "C_SPEARWALL_TEXT",
+    "Text": "All Enemies have their attack reduced by 2 (minimum 0) until end of the round."
+  },
+  {
+    "Id": "C_SPIKETRAP_FLAVOR",
+    "Text": "C_SPIKETRAP_FLAVOR"
+  },
+  {
+    "Id": "C_SPIKETRAP_TITLE",
+    "Text": "Spike Trap"
+  },
+  {
+    "Id": "C_SPIKETRAP_TEXT",
+    "Text": "Attach to a non-unique Enemy.<br>Upkeep: Deal 1 Damage to this Enemy"
+  },
+  {
+    "Id": "C_LONGBEARDMAPMAKER_TITLE",
+    "Text": "Longbeard Mapmaker"
+  },
+  {
+    "Id": "C_LONGBEARDMAPMAKER_TEXT",
+    "Text": "<b>Power</b>: Gain +1 Willpower until end of round (Cost 1)"
+  },
+  {
+    "Id": "C_LONGBEARDMAPMAKER_FLAVOR",
+    "Text": "C_LONGBEARDMAPMAKER_FLAVOR"
+  },
+  {
+    "Id": "C_BEORNSHOSPITALITY_FLAVOR",
+    "Text": "C_BEORNSHOSPITALITY_FLAVOR"
+  },
+  {
+    "Id": "C_RHOVANIONOUTRIDER_TITLE",
+    "Text": "Rhovanion Outrider"
+  },
+  {
+    "Id": "C_RHOVANIONOUTRIDER_TEXT",
+    "Text": "Gain +1 Willpower this round when engaging an Objective at full Quest value"
+  },
+  {
+    "Id": "C_RHOVANIONOUTRIDER_FLAVOR",
+    "Text": "C_RHOVANIONOUTRIDER_FLAVOR"
+  },
+  {
+    "Id": "C_ATEST180307_FLAVOR",
+    "Text": "C_ATEST180307_FLAVOR"
   }
 ]
