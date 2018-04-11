@@ -61,20 +61,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "GrowingDarkness",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "MirkwoodFlock",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "PursuedByShadow",
           "Quantity": 1,
           "MinThreatLevel": 0,
@@ -195,7 +181,7 @@
         },
         {
           "Id": "AnduinTrollSpawn",
-          "Quantity": 2,
+          "Quantity": 3,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -298,9 +284,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180411015819974",
+  "Version": "20180411062427855",
   "Key": "MainQuest",
   "SubKey": "ConflictAtTheCarrock",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180411015819974"
+  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180411062427855"
 }
