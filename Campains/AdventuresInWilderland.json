@@ -297,10 +297,6 @@
           "Amount": 2
         },
         {
-          "Id": "AccursedForest",
-          "Amount": 1
-        },
-        {
           "Id": "CreatureOfDarkness",
           "Amount": 2
         },
@@ -345,10 +341,6 @@
           "Amount": 1
         },
         {
-          "Id": "WatchfulEyes",
-          "Amount": 2
-        },
-        {
           "Id": "CaughtInAWeb",
           "Amount": 1
         },
@@ -385,15 +377,19 @@
           "Amount": 2
         },
         {
-          "Id": "SpidersOfMirkwood",
-          "Amount": 2
-        },
-        {
           "Id": "ThickWebs",
           "Amount": 1
         },
         {
           "Id": "UnderTheWatchfulEye",
+          "Amount": 1
+        },
+        {
+          "Id": "WatchfulEyes",
+          "Amount": 2
+        },
+        {
+          "Id": "AccursedForest",
           "Amount": 1
         },
         {
@@ -410,6 +406,10 @@
         },
         {
           "Id": "KingSpider",
+          "Amount": 2
+        },
+        {
+          "Id": "SpidersOfMirkwood",
           "Amount": 2
         },
         {
@@ -1012,14 +1012,6 @@
           "Amount": 1
         },
         {
-          "Id": "GrowingDarkness",
-          "Amount": 1
-        },
-        {
-          "Id": "MirkwoodFlock",
-          "Amount": 2
-        },
-        {
           "Id": "PursuedByShadow",
           "Amount": 1
         },
@@ -1089,7 +1081,7 @@
         },
         {
           "Id": "AnduinTrollSpawn",
-          "Amount": 2
+          "Amount": 3
         },
         {
           "Id": "Exhaustion",
