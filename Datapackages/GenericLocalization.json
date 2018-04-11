@@ -6819,15 +6819,11 @@
   },
   {
     "Id": "C_SPIDERQUEEN_TEXT",
-    "Text": "n/a",
-    "Text_CN": "n/a",
-    "Text_FR": "n/a"
+    "Text": "n/a"
   },
   {
     "Id": "C_SPIDERQUEEN_TITLE",
-    "Text": "Spider Queen",
-    "Text_CN": "0",
-    "Text_FR": "Spider Queen"
+    "Text": "Spider Queen"
   },
   {
     "Id": "C_SPIDERSNEST_FLAVOR",
@@ -9190,5 +9186,9 @@
   {
     "Id": "C_DARKNESSFOLLOWS_TEXT",
     "Text": "Gain <b>Pursuit</b>"
+  },
+  {
+    "Id": "C_SPIDERQUEEN_FLAVOR",
+    "Text": ""
   }
 ]
