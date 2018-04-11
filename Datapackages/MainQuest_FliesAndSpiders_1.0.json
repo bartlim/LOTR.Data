@@ -19,13 +19,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "AccursedForest",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "CreatureOfDarkness",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -103,13 +96,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "WatchfulEyes",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "CaughtInAWeb",
           "Quantity": 1,
           "MinThreatLevel": 0,
@@ -173,13 +159,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "SpidersOfMirkwood",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "ThickWebs",
           "Quantity": 1,
           "MinThreatLevel": 0,
@@ -188,6 +167,20 @@
         },
         {
           "Id": "UnderTheWatchfulEye",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "WatchfulEyes",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "AccursedForest",
           "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -216,6 +209,13 @@
         },
         {
           "Id": "KingSpider",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "SpidersOfMirkwood",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -298,9 +298,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180411015804681",
+  "Version": "20180411062411868",
   "Key": "MainQuest",
   "SubKey": "FliesAndSpiders",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_FliesAndSpiders_20180411015804681"
+  "InternalKey": "MainQuest_FliesAndSpiders_20180411062411868"
 }
