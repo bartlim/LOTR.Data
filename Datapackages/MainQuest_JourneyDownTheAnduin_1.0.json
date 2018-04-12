@@ -265,7 +265,8 @@
           "LeftRiverFork",
           "Rapids",
           "RightRiverFork",
-          "GoblinSniper"
+          "GoblinSniper",
+          "DolGuldurArcher"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -321,9 +322,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180412150323236",
+  "Version": "20180412160009613",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180412150323236"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180412160009613"
 }
