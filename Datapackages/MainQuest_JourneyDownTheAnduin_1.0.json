@@ -6,7 +6,7 @@
       "DeckList": [
         {
           "Id": "BlackForestBats",
-          "Quantity": 2,
+          "Quantity": 4,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -76,7 +76,7 @@
         },
         {
           "Id": "MirkwoodFlock",
-          "Quantity": 1,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -139,7 +139,7 @@
         },
         {
           "Id": "Enfeebled",
-          "Quantity": 1,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -216,7 +216,7 @@
         },
         {
           "Id": "GoblinSniper",
-          "Quantity": 1,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -265,8 +265,7 @@
           "LeftRiverFork",
           "Rapids",
           "RightRiverFork",
-          "GoblinSniper",
-          "DolGuldurArcher"
+          "GoblinSniper"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -281,8 +280,7 @@
           "Rapids",
           "Rocks",
           "SwirlingEddy",
-          "GoblinSniper",
-          "DolGuldurArcher"
+          "GoblinSniper"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -294,6 +292,7 @@
         "Title": "GentleWaters",
         "SoloGameSetup": [
           "RiverBend",
+          "Rocks",
           "Rocks",
           "RangerProvisions"
         ],
@@ -322,9 +321,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180412193152963",
+  "Version": "20180412204359934",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180412193152963"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180412204359934"
 }
