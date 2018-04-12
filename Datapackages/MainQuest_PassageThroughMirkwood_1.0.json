@@ -19,20 +19,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "AccursedForest",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "BlockedPath",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "CreatureOfDarkness",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -48,6 +34,13 @@
         },
         {
           "Id": "Despair",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "DolGuldurArcher",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -131,15 +124,15 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "WatchfulEyes",
-          "Quantity": 2,
+          "Id": "BlockedPath",
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
           "Id": "EastBightPatrol",
-          "Quantity": 2,
+          "Quantity": 4,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -173,13 +166,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "SpidersOfMirkwood",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "Tribulation",
           "Quantity": 1,
           "MinThreatLevel": 0,
@@ -194,7 +180,14 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "EliteDolGuldurOrcs",
+          "Id": "WatchfulEyes",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "AccursedForest",
           "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -215,42 +208,14 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "GoblinSniper",
+          "Id": "SpidersOfMirkwood",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
-          "Id": "OrcBeastmaster",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "OrcHound",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "OrcMarauder",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "TheNecromancersReach",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "VeteranPatrol",
           "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -333,9 +298,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180412160240599",
+  "Version": "20180412174503121",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180412160240599"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180412174503121"
 }
