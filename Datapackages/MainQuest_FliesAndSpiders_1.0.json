@@ -249,6 +249,7 @@
         "Title": "DarkForest",
         "SoloGameSetup": [
           "FindYourFriends",
+          "ForestSpider",
           "ForestSpider"
         ],
         "CoopGameSetup": [],
@@ -301,9 +302,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180412151431147",
+  "Version": "20180412191715508",
   "Key": "MainQuest",
   "SubKey": "FliesAndSpiders",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_FliesAndSpiders_20180412151431147"
+  "InternalKey": "MainQuest_FliesAndSpiders_20180412191715508"
 }
