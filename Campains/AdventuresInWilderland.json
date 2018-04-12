@@ -93,14 +93,6 @@
           "Amount": 2
         },
         {
-          "Id": "AccursedForest",
-          "Amount": 1
-        },
-        {
-          "Id": "BlockedPath",
-          "Amount": 1
-        },
-        {
           "Id": "CreatureOfDarkness",
           "Amount": 2
         },
@@ -113,8 +105,16 @@
           "Amount": 2
         },
         {
+          "Id": "DolGuldurArcher",
+          "Amount": 2
+        },
+        {
           "Id": "DrivenByShadow",
           "Amount": 1
+        },
+        {
+          "Id": "EastBightPatrol",
+          "Amount": 4
         },
         {
           "Id": "EyesOfTheForest",
@@ -157,16 +157,16 @@
           "Amount": 1
         },
         {
-          "Id": "WatchfulEyes",
-          "Amount": 2
+          "Id": "BlockedPath",
+          "Amount": 1
         },
         {
-          "Id": "EastBightPatrol",
-          "Amount": 2
+          "Id": "DolGuldurOrcs",
+          "Amount": 1
         },
         {
           "Id": "Enfeebled",
-          "Amount": 1
+          "Amount": 2
         },
         {
           "Id": "GreedyFingers",
@@ -193,8 +193,12 @@
           "Amount": 1
         },
         {
-          "Id": "EliteDolGuldurOrcs",
-          "Amount": 1
+          "Id": "WatchfulEyes",
+          "Amount": 2
+        },
+        {
+          "Id": "AccursedForest",
+          "Amount": 2
         },
         {
           "Id": "Exhaustion",
@@ -205,27 +209,7 @@
           "Amount": 2
         },
         {
-          "Id": "GoblinSniper",
-          "Amount": 2
-        },
-        {
-          "Id": "OrcBeastmaster",
-          "Amount": 1
-        },
-        {
-          "Id": "OrcHound",
-          "Amount": 1
-        },
-        {
-          "Id": "OrcMarauder",
-          "Amount": 1
-        },
-        {
           "Id": "TheNecromancersReach",
-          "Amount": 1
-        },
-        {
-          "Id": "VeteranPatrol",
           "Amount": 1
         }
       ]
@@ -245,6 +229,7 @@
           "IntroSprite": "Sprites/Locations/Quest2_Stage01",
           "SoloGameSetup": [
             "FindYourFriends",
+            "ForestSpider",
             "ForestSpider"
           ],
           "NextStageId": "TheSpidersLair",
@@ -735,7 +720,7 @@
             "HillTroll"
           ],
           "NextStageId": "AnduinPassage",
-          "BGM": "mus_mirkwood"
+          "BGM": "mus_stream"
         },
         {
           "Id": "AnduinPassage",
