@@ -265,8 +265,7 @@
           "LeftRiverFork",
           "Rapids",
           "RightRiverFork",
-          "GoblinSniper",
-          "DolGuldurArcher"
+          "GoblinSniper"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -281,8 +280,7 @@
           "Rapids",
           "Rocks",
           "SwirlingEddy",
-          "GoblinSniper",
-          "DolGuldurArcher"
+          "GoblinSniper"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -294,7 +292,6 @@
         "Title": "GentleWaters",
         "SoloGameSetup": [
           "RiverBend",
-          "Rocks",
           "Rocks",
           "RangerProvisions"
         ],
@@ -310,7 +307,7 @@
           "AmbushOnTheShore",
           "OrcMarauder",
           "Wargs",
-          "DolGuldurOrcs",
+          "EliteDolGuldurOrcs",
           "ChieftainUfthak"
         ],
         "CoopGameSetup": [],
@@ -323,9 +320,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180412160256987",
+  "Version": "20180412174522972",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180412160256987"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180412174522972"
 }
