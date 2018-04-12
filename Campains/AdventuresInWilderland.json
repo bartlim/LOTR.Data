@@ -92,14 +92,6 @@
           "Amount": 2
         },
         {
-          "Id": "AccursedForest",
-          "Amount": 1
-        },
-        {
-          "Id": "BlockedPath",
-          "Amount": 1
-        },
-        {
           "Id": "CreatureOfDarkness",
           "Amount": 2
         },
@@ -109,6 +101,10 @@
         },
         {
           "Id": "Despair",
+          "Amount": 2
+        },
+        {
+          "Id": "DolGuldurArcher",
           "Amount": 2
         },
         {
@@ -156,12 +152,12 @@
           "Amount": 1
         },
         {
-          "Id": "WatchfulEyes",
-          "Amount": 2
+          "Id": "BlockedPath",
+          "Amount": 1
         },
         {
           "Id": "EastBightPatrol",
-          "Amount": 2
+          "Amount": 4
         },
         {
           "Id": "Enfeebled",
@@ -180,10 +176,6 @@
           "Amount": 2
         },
         {
-          "Id": "SpidersOfMirkwood",
-          "Amount": 2
-        },
-        {
           "Id": "Tribulation",
           "Amount": 1
         },
@@ -192,7 +184,11 @@
           "Amount": 1
         },
         {
-          "Id": "EliteDolGuldurOrcs",
+          "Id": "WatchfulEyes",
+          "Amount": 2
+        },
+        {
+          "Id": "AccursedForest",
           "Amount": 1
         },
         {
@@ -204,27 +200,11 @@
           "Amount": 2
         },
         {
-          "Id": "GoblinSniper",
+          "Id": "SpidersOfMirkwood",
           "Amount": 2
         },
         {
-          "Id": "OrcBeastmaster",
-          "Amount": 1
-        },
-        {
-          "Id": "OrcHound",
-          "Amount": 1
-        },
-        {
-          "Id": "OrcMarauder",
-          "Amount": 1
-        },
-        {
           "Id": "TheNecromancersReach",
-          "Amount": 1
-        },
-        {
-          "Id": "VeteranPatrol",
           "Amount": 1
         }
       ]
@@ -738,8 +718,7 @@
             "LeftRiverFork",
             "Rapids",
             "RightRiverFork",
-            "GoblinSniper",
-            "DolGuldurArcher"
+            "GoblinSniper"
           ],
           "NextStageId": "TreacherousShortcut",
           "BGM": "mus_stream"
@@ -754,8 +733,7 @@
             "Rapids",
             "Rocks",
             "SwirlingEddy",
-            "GoblinSniper",
-            "DolGuldurArcher"
+            "GoblinSniper"
           ],
           "NextStageId": "AmbushOnTheShore",
           "BGM": "mus_desperation"
@@ -767,7 +745,6 @@
           "IntroSprite": "Sprites/Locations/Quest4_Stage03B",
           "SoloGameSetup": [
             "RiverBend",
-            "Rocks",
             "Rocks",
             "RangerProvisions"
           ],
@@ -783,7 +760,7 @@
             "AmbushOnTheShore",
             "OrcMarauder",
             "Wargs",
-            "DolGuldurOrcs",
+            "EliteDolGuldurOrcs",
             "ChieftainUfthak"
           ],
           "NextStageId": "",
