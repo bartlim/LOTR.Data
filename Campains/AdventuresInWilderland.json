@@ -707,7 +707,7 @@
             "HillTroll"
           ],
           "NextStageId": "AnduinPassage",
-          "BGM": "mus_mirkwood"
+          "BGM": "mus_stream"
         },
         {
           "Id": "AnduinPassage",
@@ -745,6 +745,7 @@
           "IntroSprite": "Sprites/Locations/Quest4_Stage03B",
           "SoloGameSetup": [
             "RiverBend",
+            "Rocks",
             "Rocks",
             "RangerProvisions"
           ],
