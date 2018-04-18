@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -9,19 +9,19 @@
     "Id": "U_GAME_TITLE",
     "Text": "The Lord of the Rings™: Living Card Game™",
     "Text_CN": "The Lord of the Rings™: Living Card Game™",
-    "Text_FR": "The Lord of the Rings™: Living Card Game™"
+    "Text_FR": "Le Seigneur des Anneaux™, jeu de carte évolutif™"
   },
   {
     "Id": "U_MENU_COMMON_LOADING",
     "Text": "Loading…",
     "Text_CN": "加载中…",
-    "Text_FR": "Loading…"
+    "Text_FR": "Chargement..."
   },
   {
     "Id": "U_MENU_COMMON_CONNECTING",
     "Text": "CONNECTING…",
     "Text_CN": "连接中…",
-    "Text_FR": "CONNECTING…"
+    "Text_FR": "CONNEXION..."
   },
   {
     "Id": "U_MENU_COMMON_PURCHASING",
@@ -33,85 +33,85 @@
     "Id": "U_MENU_COMMON_SEARCHING",
     "Text": "Searching…",
     "Text_CN": "搜寻…",
-    "Text_FR": "Recherche…"
+    "Text_FR": "Recherche..."
   },
   {
     "Id": "U_MENU_COMMON_CONTINUE",
     "Text": "Continue",
     "Text_CN": "继续",
-    "Text_FR": "Continue"
+    "Text_FR": "Continuer"
   },
   {
     "Id": "U_MENU_COMMON_YES",
     "Text": "Yes",
     "Text_CN": "是",
-    "Text_FR": "Yes"
+    "Text_FR": "Oui"
   },
   {
     "Id": "U_MENU_COMMON_NO",
     "Text": "No",
     "Text_CN": "否",
-    "Text_FR": "No"
+    "Text_FR": "Non"
   },
   {
     "Id": "U_MENU_COMMON_CONFIRM",
     "Text": "CONFIRM",
     "Text_CN": "确认",
-    "Text_FR": "Confirmer"
+    "Text_FR": "CONFIRMER"
   },
   {
     "Id": "U_ERROR_MSG_STRANGE",
     "Text": "An error has occurred. Please check the error log and report anything strange",
     "Text_CN": "发生问题，请提交错误日志",
-    "Text_FR": "An error has occurred. Please check the error log and report anything strange"
+    "Text_FR": "Une erreur est survenue. Veuillez consulter le journal d'erreurs et signaler ce qui sort de l'ordinaire"
   },
   {
     "Id": "U_MAINMENU_PLAY",
     "Text": "PLAY",
     "Text_CN": "游玩",
-    "Text_FR": "Jouer"
+    "Text_FR": "JOUER"
   },
   {
     "Id": "U_MAINMENU_DECKS",
     "Text": "DECKS",
     "Text_CN": "牌组",
-    "Text_FR": "Decks"
+    "Text_FR": "DECKS"
   },
   {
     "Id": "U_MAINMENU_PALANTIR",
     "Text": "PALANTÍR",
     "Text_CN": "真知晶石",
-    "Text_FR": "Palantír"
+    "Text_FR": "PALANTÍR"
   },
   {
     "Id": "U_MAINMENU_VALOR",
     "Text": "VALOR",
     "Text_CN": "勇猛值",
-    "Text_FR": "Vaillance"
+    "Text_FR": "VAILLANCE"
   },
   {
     "Id": "U_MAINMENU_SHOP",
     "Text": "SHOP",
     "Text_CN": "商店",
-    "Text_FR": "Boutique"
+    "Text_FR": "BOUTIQUE"
   },
   {
     "Id": "U_MAINMENU_VAULT",
     "Text": "VAULT",
     "Text_CN": "地窖",
-    "Text_FR": "VAULT"
+    "Text_FR": "CHAMBRE FORTE"
   },
   {
     "Id": "U_MAINMENU_PLAYER_DEFAULT_NAME",
     "Text": "PLAYER NAME",
     "Text_CN": "尊姓大名",
-    "Text_FR": "PLAYER NAME"
+    "Text_FR": "NOM DE JOUEUR"
   },
   {
     "Id": "U_OPTIONS_TITLE",
     "Text": "GAME OPTIONS",
     "Text_CN": "游戏选项",
-    "Text_FR": "GAME OPTIONS"
+    "Text_FR": "OPTIONS DU JEU"
   },
   {
     "Id": "U_OPTIONS_RESOLUTION",
@@ -123,73 +123,73 @@
     "Id": "U_OPTIONS_FULLSCREEN",
     "Text": "Fullscreen",
     "Text_CN": "全屏",
-    "Text_FR": "Fullscreen"
+    "Text_FR": "Plein écran"
   },
   {
     "Id": "U_OPTIONS_SKIPTUTORIAL",
     "Text": "SKIP TUTORIAL",
     "Text_CN": "跳过教程",
-    "Text_FR": "SKIP TUTORIAL"
+    "Text_FR": "PASSER LE DIDACTICIEL"
   },
   {
     "Id": "U_OPTIONS_REPLAYTUTORIAL",
     "Text": "REPLAY TUTORIAL",
     "Text_CN": "重玩教程",
-    "Text_FR": "Recommencer le didacticiel"
+    "Text_FR": "RECOMMENCER LE DIDACTICIEL"
   },
   {
     "Id": "U_OPTIONS_MAINMENU",
     "Text": "MAIN MENU",
     "Text_CN": "主菜单",
-    "Text_FR": "MAIN MENU"
+    "Text_FR": "MENU PRINCIPAL"
   },
   {
     "Id": "U_OPTIONS_QUITGAME",
     "Text": "QUIT GAME",
     "Text_CN": "退出游戏",
-    "Text_FR": "Quitter la partie"
+    "Text_FR": "QUITTER LE JEU"
   },
   {
     "Id": "U_OPTIONS_GLOSSARRY",
     "Text": "GLOSSARY",
     "Text_CN": "词表",
-    "Text_FR": "Glossaire"
+    "Text_FR": "GLOSSAIRE"
   },
   {
     "Id": "U_OPTIONS_QUALITY",
     "Text": "Graphics Quality",
     "Text_CN": "画质",
-    "Text_FR": "Graphics Quality"
+    "Text_FR": "Qualité graphique"
   },
   {
     "Id": "U_OPTIONS_QUALITY_L",
     "Text": "Low",
     "Text_CN": "简约",
-    "Text_FR": "Low"
+    "Text_FR": "Basse"
   },
   {
     "Id": "U_OPTIONS_QUALITY_M",
     "Text": "Medium",
     "Text_CN": "普通",
-    "Text_FR": "Medium"
+    "Text_FR": "Moyenne"
   },
   {
     "Id": "U_OPTIONS_QUALITY_H",
     "Text": "High",
     "Text_CN": "酷炫",
-    "Text_FR": "High"
+    "Text_FR": "Haute"
   },
   {
     "Id": "U_OPTIONS_AA",
     "Text": "Antialiasing",
     "Text_CN": "抗锯齿",
-    "Text_FR": "Antialiasing"
+    "Text_FR": "Anticrénelage"
   },
   {
     "Id": "U_OPTIONS_RESTART_QUEST",
     "Text": "RESTART QUEST",
     "Text_CN": "重玩冒险",
-    "Text_FR": "RESTART QUEST"
+    "Text_FR": "RECOMMENCER LA QUÊTE"
   },
   {
     "Id": "U_DECKMENU_DECKBUILDER",
@@ -567,43 +567,43 @@
     "Id": "U_ASMODEE_TITLE",
     "Text": "Asmodee.net Account",
     "Text_CN": "爱思摩的账号",
-    "Text_FR": "Asmodee.net Account"
+    "Text_FR": "Compte Asmodee.net"
   },
   {
     "Id": "U_ASMODEE_USERNAME",
     "Text": "User Name",
     "Text_CN": "用户名",
-    "Text_FR": "User Name"
+    "Text_FR": "Nom d'utilisateur"
   },
   {
     "Id": "U_ASMODEE_PASSWORD",
     "Text": "Password",
     "Text_CN": "密码",
-    "Text_FR": "Password"
+    "Text_FR": "Mot de passe"
   },
   {
     "Id": "U_ASMODEE_EMAIL",
     "Text": "Email Address",
     "Text_CN": "邮件地址",
-    "Text_FR": "Email Address"
+    "Text_FR": "Adresse électronique"
   },
   {
     "Id": "U_ASMODEE_REPEAT_PASSWORD",
     "Text": "Confirm Password",
     "Text_CN": "确认密码",
-    "Text_FR": "Confirm Password"
+    "Text_FR": "Confirmer le mot de passe"
   },
   {
     "Id": "U_ASMODEE_ACCEPT",
     "Text": "Accept Agreement",
     "Text_CN": "接受用户协议",
-    "Text_FR": "Accept Agreement"
+    "Text_FR": "Accepter l'accord"
   },
   {
     "Id": "U_ASMODEE_LOGIN",
     "Text": "ACCOUNT LOGIN",
     "Text_CN": "账户登录",
-    "Text_FR": "ACCOUNT LOGIN"
+    "Text_FR": "CONNEXION AU COMPTE"
   },
   {
     "Id": "U_ASMODEE_LOGGINGIN",
@@ -615,109 +615,109 @@
     "Id": "U_ASMODEE_CREATE",
     "Text": "CREATE ACCOUNT",
     "Text_CN": "创建账户",
-    "Text_FR": "CREATE ACCOUNT"
+    "Text_FR": "CRÉER UN COMPTE"
   },
   {
     "Id": "U_ASMODEE_PLAY_TUT",
     "Text": "REPLAY TUTORIAL",
     "Text_CN": "重玩教程",
-    "Text_FR": "Recommencer le didacticiel"
+    "Text_FR": "RECOMMENCER LE DIDACTICIEL"
   },
   {
     "Id": "U_ASMODEE_BACK",
     "Text": "BACK TO MAIN MENU",
     "Text_CN": "回到主菜单",
-    "Text_FR": "BACK TO MAIN MENU"
+    "Text_FR": "RETOUR AU MENU PRINCIPAL"
   },
   {
     "Id": "U_ASMODEE_MSG_EMAILINVALID",
     "Text": "Email address is invalid. Please check your input",
     "Text_CN": "邮件地址不正确，请检查",
-    "Text_FR": "Email address is invalid. Please check your input"
+    "Text_FR": "Adresse électronique non valide. Veuillez vérifier votre saisie."
   },
   {
     "Id": "U_ASMODEE_MSG_PASSWORDNOTSAME",
     "Text": "Passwords do not match. Please re-enter your password",
     "Text_CN": "密码不一直，请检查",
-    "Text_FR": "Passwords do not match. Please re-enter your password"
+    "Text_FR": "Les mots de passe ne correspondent pas. Veuillez saisir à nouveau votre mot de passe."
   },
   {
     "Id": "U_ASMODEE_MSG_ACCOUNTEXIST",
     "Text": "This account already exists. Please use the correct password, or login with a different account",
     "Text_CN": "账号已存在。请使用正确的密码，或使用其他账号",
-    "Text_FR": "This account already exists. Please use the correct password, or login with a different account"
+    "Text_FR": "Ce compte existe déjà. Veuillez utiliser le bon mot de passe ou vous connecter avec un autre compte."
   },
   {
     "Id": "U_ASMODEE_MSG_ACCOUNTNOTFOUND",
     "Text": "Account not found. Please check your user name",
     "Text_CN": "账号未找到，请检查",
-    "Text_FR": "Account not found. Please check your user name"
+    "Text_FR": "Compte introuvable. Veuillez vérifier votre nom d'utilisateur."
   },
   {
     "Id": "U_ASMODEE_MSG_ACCOUNTCREATED",
     "Text": "Account created. A confirmation email was sent. Please check your email to confirm and complete login",
     "Text_CN": "账号创建成功。一封确认邮件正在路上。请检查您的邮箱并确认",
-    "Text_FR": "Account created. A confirmation email was sent. Please check your email to confirm and complete login"
+    "Text_FR": "Compte créé. Un e-mail de confirmation vous a été adressé. Veuillez consulter votre boîte de réception pour confirmer et finaliser votre inscription."
   },
   {
     "Id": "U_ASMODEE_MSG_CREATED_CONGRATES_1",
     "Text": "<b>Congratulations on creating your Asmodee.net account!</b>\nYour account gives you many rewards: new Heroes, cards, a starter deck, a gift of 3000 Valor points, and the first Quest free!",
     "Text_CN": "恭喜您创建了新的爱思摩的账号！\n您的新账号给与您许多奖励：新的英雄，卡牌，初始卡组，3000勇猛点，以及免费的第一个冒险包！",
-    "Text_FR": "<b>Congratulations on creating your Asmodee.net account!</b>\nYour account gives you many rewards: new Heroes, cards, a starter deck, a gift of 3000 Valor points, and the first Quest free!"
+    "Text_FR": "<b>Félicitations, vous avez créé votre compte Asmodee.net !</b>\nIl vous offre de nombreuses récompenses : nouveaux héros, cartes, un deck de démarrage, un cadeau de 3 000 points de vaillance et votre première quête gratuite !"
   },
   {
     "Id": "U_ASMODEE_MSG_CREATED_CONGRATES_2",
     "Text": "The time has come to begin your journey. Go forth and fare well!",
     "Text_CN": "开启征程的时候到了，去吧，再会！",
-    "Text_FR": "The time has come to begin your journey. Go forth and fare well!"
+    "Text_FR": "Il est temps de commencer votre périple. Lancez-vous et bonne chance !"
   },
   {
     "Id": "U_ASMODEE_MSG_USERNAMEEXISTED",
     "Text": "The user name is not available. Please try a different one",
     "Text_CN": "用户名不可用，请重新选择",
-    "Text_FR": "The user name is not available. Please try a different one"
+    "Text_FR": "Ce nom d'utilisateur n'est pas disponible. Veuillez en essayer un autre."
   },
   {
     "Id": "U_ASMODEE_EULA",
     "Text": "EULA",
     "Text_CN": "最终用户协议",
-    "Text_FR": "EULA"
+    "Text_FR": "CLUF"
   },
   {
     "Id": "U_ASMODEE_PP",
     "Text": "Privacy Policy",
     "Text_CN": "隐私条款",
-    "Text_FR": "Privacy Policy"
+    "Text_FR": "Politique de confidentialité"
   },
   {
     "Id": "U_INGAME_ENDROUND",
     "Text": "END ROUND",
     "Text_CN": "结束回合",
-    "Text_FR": "END ROUND"
+    "Text_FR": "FIN DE TOUR"
   },
   {
     "Id": "U_INGAME_ENDPLANNING",
     "Text": "END PLANNING",
     "Text_CN": "结束规划",
-    "Text_FR": "END PLANNING"
+    "Text_FR": "FIN D'ORGANISATION"
   },
   {
     "Id": "U_INGAME_ENDPHASE",
     "Text": "END PHASE",
     "Text_CN": "结束回合",
-    "Text_FR": "END PHASE"
+    "Text_FR": "FIN DE PHASE"
   },
   {
     "Id": "U_INGAME_PASS",
     "Text": "PASS",
     "Text_CN": "过",
-    "Text_FR": "PASS"
+    "Text_FR": "PASSER"
   },
   {
     "Id": "U_INGAME_TRAVEL",
     "Text": "Travel",
     "Text_CN": "启程",
-    "Text_FR": "Travel"
+    "Text_FR": "Voyager"
   },
   {
     "Id": "U_INGAME_TUTORIALSKIP_CONFIRM",
@@ -729,85 +729,85 @@
     "Id": "U_INGAME_SELECT_CARD_TO_REPLACE",
     "Text": "Select any cards you wish to change",
     "Text_CN": "选择您想替换的卡牌",
-    "Text_FR": "Select any cards you wish to change"
+    "Text_FR": "Sélectionnez les cartes que vous souhaitez changer."
   },
   {
     "Id": "U_INGAME_INITIAL_DRAW",
     "Text": "INITIAL DRAW",
     "Text_CN": "首抽",
-    "Text_FR": "INITIAL DRAW"
+    "Text_FR": "TIRAGE INITIAL"
   },
   {
     "Id": "U_INGAME_PICK_FAVOR_CARDS_EASY",
     "Text": "Pick up to 2 Favor Cards or skip this option",
     "Text_CN": "选择最多2张福利卡，或跳过",
-    "Text_FR": "Pick up to 2 Favor Cards or skip this option"
+    "Text_FR": "Choisissez jusqu'à 2 cartes de faveur ou passez cette option."
   },
   {
     "Id": "U_INGAME_PICK_FAVOR_CARDS_NORMAL",
     "Text": "Pick up to 2 Favor Cards or skip this option",
     "Text_CN": "选择最多2张福利卡，或跳过",
-    "Text_FR": "Pick up to 2 Favor Cards or skip this option"
+    "Text_FR": "Choisissez une carte de faveur ou passez cette option."
   },
   {
     "Id": "U_INGAME_POPUP_ATTACHMENT_REPLACE",
     "Text": "This will replace the current Attachment. \nAre you sure?",
     "Text_CN": "将替换已装备的同类装备\n确认吗？",
-    "Text_FR": "This will replace the current Attachment. \nAre you sure?"
+    "Text_FR": "Cela remplacera l'attachement actuel. \nVous confirmez ?"
   },
   {
     "Id": "U_INGAME_POPUP_QUICK_STRIKE",
     "Text": "Select a highlighted Character to perform <b>Ambush</b>",
     "Text_CN": "选择一个高亮的角色进行<b>伏击</b>",
-    "Text_FR": "Select a highlighted Character to perform <b>Ambush</b>"
+    "Text_FR": "Sélectionnez un personnage en surbrillance pour déclencher une <b>embuscade</b>"
   },
   {
     "Id": "U_INGAME_CARD_OPTION_DRAW",
     "Text": "Draw {0} cards",
     "Text_CN": "抽{0}张卡",
-    "Text_FR": "Draw {0} cards"
+    "Text_FR": "Piochez {0} cartes."
   },
   {
     "Id": "U_INGAME_CARD_OPTION_REDUCE",
     "Text": "Lose {0} Threat",
     "Text_CN": "降低{0}点威胁",
-    "Text_FR": "Lose {0} Threat"
+    "Text_FR": "Perdez {0} en Menace"
   },
   {
     "Id": "U_INGAME_CARD_OPTION_DEAL",
     "Text": "Deal {0} damage",
     "Text_CN": "攻击并造成{0}点伤害",
-    "Text_FR": "Deal {0} damage"
+    "Text_FR": "Infligez {0} point(s) de dégâts"
   },
   {
     "Id": "U_INGAME_CARD_OPTION_RAISETHREAT",
     "Text": "Gain 1 Threat for each Ally",
     "Text_CN": "麾下每名盟友增加1点威胁值。",
-    "Text_FR": "Augmentez votre niveau de Menace de 1 pour chaque allié sous votre contrôle."
+    "Text_FR": "Gagnez 1 point de Menace pour chaque allié"
   },
   {
     "Id": "U_INGAME_CARD_OPTION_DISCARDALLY",
     "Text": "Discard an Ally",
     "Text_CN": "弃置麾下一名盟友。",
-    "Text_FR": "Défaussez un allié sous votre contrôle."
+    "Text_FR": "Défaussez un allié"
   },
   {
     "Id": "U_INGAME_DISCARD_HANDCARD",
     "Text": "Please Discard 1 Card",
     "Text_CN": "请丢弃1张手牌",
-    "Text_FR": "Please Discard 1 Card"
+    "Text_FR": "Veuillez vous défausser d'1 carte"
   },
   {
     "Id": "U_INGAME_DISCARD_HANDCARDS",
     "Text": "Please Discard {0} Cards",
     "Text_CN": "请丢弃{0}张手牌",
-    "Text_FR": "Please Discard {0} Cards"
+    "Text_FR": "Veuillez vous défausser de {0} cartes"
   },
   {
     "Id": "U_INGAME_DISCARD_WARNING",
     "Text": "Incorrect number of cards selected. Please choose again",
     "Text_CN": "所选手牌数量不正确。请重新选取",
-    "Text_FR": "Incorrect number of cards selected. Please choose again"
+    "Text_FR": "Nombre de cartes sélectionné incorrect. Veuillez choisir à nouveau."
   },
   {
     "Id": "U_CARDTYPE_ALLY",
@@ -849,7 +849,7 @@
     "Id": "U_CARDTYPE_PLAYER",
     "Text": "Player",
     "Text_CN": "玩家",
-    "Text_FR": "Player"
+    "Text_FR": "Joueur"
   },
   {
     "Id": "U_CARDTYPE_SHADOW",
@@ -861,7 +861,7 @@
     "Id": "U_CARDTYPE_TREACHERY",
     "Text": "Treachery",
     "Text_CN": "阴谋",
-    "Text_FR": "Treachery"
+    "Text_FR": "Traîtrise"
   },
   {
     "Id": "U_CARDSPHERE_LEADERSHIP",
@@ -897,13 +897,13 @@
     "Id": "U_PLAYERID_PLAYERONE",
     "Text": "PlayerOne",
     "Text_CN": "玩家一",
-    "Text_FR": "PlayerOne"
+    "Text_FR": "Joueur Un"
   },
   {
     "Id": "U_PLAYERID_PLAYERTWO",
     "Text": "PlayerTwo",
     "Text_CN": "玩家二",
-    "Text_FR": "PlayerTwo"
+    "Text_FR": "Joueur Deux"
   },
   {
     "Id": "U_PLAYERID_SAURON",
@@ -993,7 +993,7 @@
     "Id": "U_TRAITTYPE_PREPARATION",
     "Text": "Preparation",
     "Text_CN": "格挡",
-    "Text_FR": "Palantír"
+    "Text_FR": "Préparation"
   },
   {
     "Id": "U_TRAITTYPE_ROHAN",
@@ -1011,7 +1011,7 @@
     "Id": "U_TRAITTYPE_SILVAN",
     "Text": "Silvan",
     "Text_CN": "西尔凡精灵",
-    "Text_FR": "Sylvains"
+    "Text_FR": "Sylvain"
   },
   {
     "Id": "U_TRAITTYPE_SPECIAL",
@@ -1047,25 +1047,25 @@
     "Id": "U_TRAITTYPE_NAZGUL",
     "Text": "Nazgûl",
     "Text_CN": "强壮",
-    "Text_FR": "Les ombres de la Forêt Noire"
+    "Text_FR": "Nazgûl"
   },
   {
     "Id": "U_DECKTYPE_PLAYER",
     "Text": "Player",
     "Text_CN": "玩家",
-    "Text_FR": "Player"
+    "Text_FR": "Joueur"
   },
   {
     "Id": "U_DECKTYPE_ENCOUNTER",
     "Text": "Encounter",
     "Text_CN": "障碍",
-    "Text_FR": "Encounter"
+    "Text_FR": "Rencontre"
   },
   {
     "Id": "U_DECKTYPE_QUEST",
     "Text": "Quest",
     "Text_CN": "冒险",
-    "Text_FR": "Quest"
+    "Text_FR": "Quête"
   },
   {
     "Id": "U_TARGETGROUPTYPE_ENEMY",
@@ -1089,25 +1089,25 @@
     "Id": "U_INGAME_SAURONSDECK",
     "Text": "SAURON'S DECK",
     "Text_CN": "索隆的牌组",
-    "Text_FR": "Deck de Sauron"
+    "Text_FR": "DECK DE SAURON"
   },
   {
     "Id": "U_INGAME_CHOOSEHERO_AVOIDSPIDER",
     "Text": "Choose a Hero to remain free of the spiders' webs",
     "Text_CN": "看看是哪个英雄躲过了蜘蛛网",
-    "Text_FR": "Choose a Hero to remain free of the spiders' webs"
+    "Text_FR": "Choisissez un héros pour ne pas vous empêtrer dans les toiles d'araignée."
   },
   {
     "Id": "U_INGAME_GAME_OVER",
     "Text": "Game Over",
     "Text_CN": "游戏结束",
-    "Text_FR": "Game Over"
+    "Text_FR": "Partie terminée"
   },
   {
     "Id": "U_INGAME_BACK_TO_LOBBY",
     "Text": "Return to Play Menu",
     "Text_CN": "回到游玩菜单",
-    "Text_FR": "Return to Play Menu"
+    "Text_FR": "Retour au menu du jeu"
   },
   {
     "Id": "U_INGAME_MAIN_OBJECTIVE",
@@ -1119,31 +1119,31 @@
     "Id": "U_INGAME_NEW_ROUND",
     "Text": "NEW ROUND",
     "Text_CN": "新回合",
-    "Text_FR": "NEW ROUND"
+    "Text_FR": "TOUR SUIVANT"
   },
   {
     "Id": "U_INGAME_SAURON_PASSES",
     "Text": "Sauron Passes",
     "Text_CN": "索伦按兵不动",
-    "Text_FR": "Sauron Passes"
+    "Text_FR": "Sauron passe"
   },
   {
     "Id": "U_DECKMENU_PURCHASE_IN_SHOP",
     "Text": "Purchase in the Shop?",
     "Text_CN": "在商店中购买？",
-    "Text_FR": "Purchase in the Shop?"
+    "Text_FR": "Acheter à la boutique ?"
   },
   {
     "Id": "U_INGAME_DEFEAT_HERO_DEAD",
     "Text": "Your last Hero falls, bringing your journey to a tragic end.",
     "Text_CN": "您的最后一个英雄闭上了眼睛，给您的冒险画上了句号",
-    "Text_FR": "Your last Hero falls, bringing your journey to a tragic end."
+    "Text_FR": "Votre dernier héros est tombé, et votre périple prend fin de façon tragique."
   },
   {
     "Id": "U_INGAME_DEFEAT_THREAT_FULL",
     "Text": "You draw Sauron's full attention, bringing your journey to a tragic end.",
     "Text_CN": "您被索伦彻底的发现了，给您的冒险画上了句号",
-    "Text_FR": "You draw Sauron's full attention, bringing your journey to a tragic end."
+    "Text_FR": "Vous attirez l'attention totale de Sauron et votre périple prend fin de façon tragique."
   },
   {
     "Id": "U_SHOP_HEROPACK_01_TITLE",
@@ -1317,55 +1317,55 @@
     "Id": "CHOICETEXT_GANDALF_GANDALFCHOICE00",
     "Text": "Draw 3 cards",
     "Text_CN": "抽取3张卡牌",
-    "Text_FR": "Draw 3 cards"
+    "Text_FR": "Piochez 3 cartes"
   },
   {
     "Id": "CHOICETEXT_GANDALF_GANDALFCHOICE01",
     "Text": "Lose 3 Threat",
     "Text_CN": "玩家的威胁降低3点。",
-    "Text_FR": "Réduisez de 3 le niveau de Menace d'un joueur."
+    "Text_FR": "Perdez 3 en Menace"
   },
   {
     "Id": "CHOICETEXT_GANDALF_GANDALFCHOICE02",
     "Text": "Deal 3 damage",
     "Text_CN": "攻击并造成3点伤害",
-    "Text_FR": "Deal 3 damage"
+    "Text_FR": "Infligez 3 points de dégâts"
   },
   {
     "Id": "CHOICETEXT_HUNTED_HUNTEDCHOICE00",
     "Text": "Gain 1 Threat for each Ally",
     "Text_CN": "麾下每名盟友增加1点威胁值。",
-    "Text_FR": "Augmentez votre niveau de Menace de 1 pour chaque allié sous votre contrôle."
+    "Text_FR": "Gagnez 1 point de Menace pour chaque allié"
   },
   {
     "Id": "CHOICETEXT_HUNTED_HUNTEDCHOICE01",
     "Text": "Discard an Ally",
     "Text_CN": "弃置麾下一名盟友。",
-    "Text_FR": "Défaussez un allié sous votre contrôle."
+    "Text_FR": "Défaussez un allié"
   },
   {
     "Id": "U_INGAME_SELECT_FOR_ATTACHMENT",
     "Text": "To equip this Attachment, select\na highlighted Character",
     "Text_CN": "选择一个高亮的角色进行装备",
-    "Text_FR": "To equip this Attachment, select\na highlighted Character"
+    "Text_FR": "Pour équiper cet attachement, sélectionnez\nun personnage en surbrillance."
   },
   {
     "Id": "U_INGAME_HISTORY_CARDPLAYED",
     "Text": "Card Played",
     "Text_CN": "已出牌",
-    "Text_FR": "Card Played"
+    "Text_FR": "Carte jouée"
   },
   {
     "Id": "U_INGAME_HISTORY_PREPTRIGGERED",
     "Text": "Prep. Triggered",
     "Text_CN": "伏击卡触发",
-    "Text_FR": "Prep. Triggered"
+    "Text_FR": "Prép activée"
   },
   {
     "Id": "U_INGAME_HISTORY",
     "Text": "History",
     "Text_CN": "历史",
-    "Text_FR": "History"
+    "Text_FR": "Histoire"
   },
   {
     "Id": "U_DECKMENU_PURCHASE_INFO",
@@ -1437,13 +1437,13 @@
     "Id": "U_QUEST_YOUR_QUEST_LIST",
     "Text": "YOUR DECK LIST",
     "Text_CN": "您的卡组列表",
-    "Text_FR": "YOUR DECK LIST"
+    "Text_FR": "VOTRE LISTE DE DECKS"
   },
   {
     "Id": "U_QUEST_SAURON_S_DECK",
     "Text": "SAURON'S DECK",
     "Text_CN": "索隆的牌组",
-    "Text_FR": "Deck de Sauron"
+    "Text_FR": "DECK DE SAURON"
   },
   {
     "Id": "U_AVATAR_AVATARS",
@@ -1455,73 +1455,73 @@
     "Id": "U_AVATAR_FRAMES",
     "Text": "FRAMES",
     "Text_CN": "头像框",
-    "Text_FR": "FRAMES"
+    "Text_FR": "BORDURES"
   },
   {
     "Id": "U_AVATAR_PREVIEW",
     "Text": "PREVIEW",
     "Text_CN": "效果抢先看",
-    "Text_FR": "PREVIEW"
+    "Text_FR": "APERÇU"
   },
   {
     "Id": "U_OPTIONS_GLOSSARY",
     "Text": "GLOSSARY",
     "Text_CN": "词表",
-    "Text_FR": "Glossaire"
+    "Text_FR": "GLOSSAIRE"
   },
   {
     "Id": "U_OPTIONS_REPLAY_TUTORIAL",
     "Text": "REPLAY TUTORIAL",
     "Text_CN": "重玩教程",
-    "Text_FR": "Recommencer le didacticiel"
+    "Text_FR": "RECOMMENCER LE DIDACTICIEL"
   },
   {
     "Id": "U_OPTIONS_MAIN_MENU",
     "Text": "MAIN MENU",
     "Text_CN": "主菜单",
-    "Text_FR": "MAIN MENU"
+    "Text_FR": "MENU PRINCIPAL"
   },
   {
     "Id": "U_OPTIONS_SKIP_TUTORIAL",
     "Text": "SKIP TUTORIAL",
     "Text_CN": "跳过教程",
-    "Text_FR": "SKIP TUTORIAL"
+    "Text_FR": "PASSER LE DIDACTICIEL"
   },
   {
     "Id": "U_BATTLE_UPKEEP",
     "Text": "UPKEEP",
     "Text_CN": "诺多精灵",
-    "Text_FR": "Terre du Milieu"
+    "Text_FR": "ENTRETIEN"
   },
   {
     "Id": "U_BATTLE_PLANNING",
     "Text": "PLANNING",
     "Text_CN": "规划中",
-    "Text_FR": "PLANNING"
+    "Text_FR": "ORGANISATION"
   },
   {
     "Id": "U_BATTLE_ADVENTURE",
     "Text": "ADVENTURE",
     "Text_CN": "冒险",
-    "Text_FR": "ADVENTURE"
+    "Text_FR": "AVENTURE"
   },
   {
     "Id": "U_BATTLE_NEW_ROUND",
     "Text": "NEW ROUND",
     "Text_CN": "新回合",
-    "Text_FR": "NEW ROUND"
+    "Text_FR": "TOUR SUIVANT"
   },
   {
     "Id": "U_BATTLE_YOUR_TURN",
     "Text": "YOUR TURN",
     "Text_CN": "您的回合",
-    "Text_FR": "YOUR TURN"
+    "Text_FR": "VOTRE TOUR"
   },
   {
     "Id": "U_BATTLE_SAURON_PASSES",
     "Text": "SAURON PASSES",
     "Text_CN": "索伦按兵不动",
-    "Text_FR": "SAURON PASSES"
+    "Text_FR": "SAURON PASSE"
   },
   {
     "Id": "U_SHOP_FAILED_PURCHASE_PALANTIR_CHECK",
@@ -1563,25 +1563,25 @@
     "Id": "U_ASMODEE_PLEASE_SIGNIN",
     "Text": "Please login with an Asmodee.net account",
     "Text_CN": "请使用爱思摩的账号登录",
-    "Text_FR": "Please login with an Asmodee.net account"
+    "Text_FR": "Veuillez vous connecter avec un compte Asmodee.net"
   },
   {
     "Id": "U_BATTLE_HERO_DEFEATED",
     "Text": "{0} has been defeated!",
     "Text_CN": "{0} 被打败了！",
-    "Text_FR": "{0} has been defeated!"
+    "Text_FR": "Défaite de {0} !"
   },
   {
     "Id": "U_OPTION_QUIT_CONFIRM",
     "Text": "Are you sure you want to\nquit the game?",
     "Text_CN": "确认退出游戏吗？",
-    "Text_FR": "Are you sure you want to\nquit the game?"
+    "Text_FR": "Voulez-vous vraiment\nquitter le jeu ?"
   },
   {
     "Id": "U_TITLE_PRESS_ANY_KEY",
     "Text": "PRESS ANY KEY",
     "Text_CN": "点击任意键",
-    "Text_FR": "Appuyez sur une touche"
+    "Text_FR": "APPUYEZ SUR UNE TOUCHE"
   },
   {
     "Id": "U_INGAME_GLOSSARY",
@@ -1593,7 +1593,7 @@
     "Id": "U_AVATAR_CHANGED",
     "Text": "Avatar changed",
     "Text_CN": "头像已更改",
-    "Text_FR": "Avatar changed"
+    "Text_FR": "Avatar modifié"
   },
   {
     "Id": "U_DECKMENU_ADD_FAIL_DECK_FULL",
@@ -1623,19 +1623,19 @@
     "Id": "U_BATTLE_PLAY_AREA_FULL",
     "Text": "Your play area is full. \nDo you want to replace an Ally?",
     "Text_CN": "战场已人满为患，需要替换哪位盟友？",
-    "Text_FR": "Your play area is full. \nDo you want to replace an Ally?"
+    "Text_FR": "Votre zone de jeu est pleine. \nVoulez-vous remplacer un allié ?"
   },
   {
     "Id": "U_OPTIONS_LANGUAGE_TITLE",
     "Text": "LANGUAGE",
     "Text_CN": "语言",
-    "Text_FR": "LANGUAGE"
+    "Text_FR": "LANGUE"
   },
   {
     "Id": "U_OPTIONS_LANGUAGE",
     "Text": "Language",
     "Text_CN": "语言",
-    "Text_FR": "Language"
+    "Text_FR": "Langue"
   },
   {
     "Id": "U_OPTIONS_LANGUAGE_DE",
@@ -1647,7 +1647,7 @@
     "Id": "U_OPTIONS_LANGUAGE_EN",
     "Text": "English",
     "Text_CN": "简体中文",
-    "Text_FR": "Français"
+    "Text_FR": "English"
   },
   {
     "Id": "U_OPTIONS_LANGUAGE_ES",
@@ -1683,7 +1683,7 @@
     "Id": "U_OPTIONS_DISPLAY",
     "Text": "DISPLAY",
     "Text_CN": "显示",
-    "Text_FR": "DISPLAY"
+    "Text_FR": "AFFICHER"
   },
   {
     "Id": "U_OPTIONS_AUDIO",
@@ -1695,43 +1695,43 @@
     "Id": "U_OPTIONS_AUDIO_MASTER",
     "Text": "Master Volume",
     "Text_CN": "主音量",
-    "Text_FR": "Master Volume"
+    "Text_FR": "Volume principal"
   },
   {
     "Id": "U_OPTIONS_AUDIO_BGM",
     "Text": "Music Volume",
     "Text_CN": "音乐音量",
-    "Text_FR": "Music Volume"
+    "Text_FR": "Volume musique"
   },
   {
     "Id": "U_OPTIONS_AUDIO_SFX",
     "Text": "Effects Volume",
     "Text_CN": "音效音量",
-    "Text_FR": "Effects Volume"
+    "Text_FR": "Volume effets"
   },
   {
     "Id": "U_OPTIONS_AUDIO_VOICE",
     "Text": "Voice Volume",
     "Text_CN": "语音音量",
-    "Text_FR": "Voice Volume"
+    "Text_FR": "Volume voix"
   },
   {
     "Id": "U_OPTIONS_AUDIO_AMBIENT",
     "Text": "Ambient Volume",
     "Text_CN": "环境音量",
-    "Text_FR": "Ambient Volume"
+    "Text_FR": "Volume ambiant"
   },
   {
     "Id": "U_BATTLE_CARDS_LEFT",
     "Text": "Cards Remaining",
     "Text_CN": "剩余卡牌",
-    "Text_FR": "Cards Remaining"
+    "Text_FR": "Cartes restantes"
   },
   {
     "Id": "U_BATTLE_DECK_EMPTY",
     "Text": "Your deck is empty!",
     "Text_CN": "您的卡组空了！",
-    "Text_FR": "Your deck is empty!"
+    "Text_FR": "Votre deck est vide !"
   },
   {
     "Id": "U_DECKMENU_RARITY_S",
@@ -1947,7 +1947,7 @@
     "Id": "U_CREDITS_29",
     "Text": "Creative Content Development",
     "Text_CN": "Creative Content Development",
-    "Text_FR": "Développement du contenu créatif"
+    "Text_FR": "Développement des contenus créatifs"
   },
   {
     "Id": "U_CREDITS_30",
@@ -2265,7 +2265,7 @@
     "Id": "U_OPTIONS_CREDITS",
     "Text": "CREDITS",
     "Text_CN": "制作人员名单",
-    "Text_FR": "CREDITS"
+    "Text_FR": "CRÉDITS"
   },
   {
     "Id": "U_SHOP_WRONG_PRICE",
@@ -2433,109 +2433,109 @@
     "Id": "U_BATTLE_QUEST_BEGIN",
     "Text": "YOUR QUEST BEGINS",
     "Text_CN": "冒险开始",
-    "Text_FR": "YOUR QUEST BEGINS"
+    "Text_FR": "VOTRE QUÊTE COMMENCE"
   },
   {
     "Id": "U_BATTLE_UPKEEP_PHASE",
     "Text": "UPKEEP PHASE",
     "Text_CN": "修整阶段",
-    "Text_FR": "UPKEEP PHASE"
+    "Text_FR": "PHASE D'ENTRETIEN"
   },
   {
     "Id": "U_BATTLE_ADVENTURE_PHASE",
     "Text": "ADVENTURE PHASE",
     "Text_CN": "冒险阶段",
-    "Text_FR": "À distance"
+    "Text_FR": "PHASE D'AVENTURE"
   },
   {
     "Id": "U_BATTLE_PLANNING_PHASE",
     "Text": "PLANNING PHASE",
     "Text_CN": "规划阶段",
-    "Text_FR": "Niveau de menace"
+    "Text_FR": "PHASE D'ORGANISATION"
   },
   {
     "Id": "U_BATTLE_FINAL_ENCOUNTER",
     "Text": "FINAL ENCOUNTER",
     "Text_CN": "最终的敌人",
-    "Text_FR": "FINAL ENCOUNTER"
+    "Text_FR": "RENCONTRE FINALE"
   },
   {
     "Id": "U_BATTLE_TRAVELLING",
     "Text": "TRAVELING",
     "Text_CN": "行进中",
-    "Text_FR": "TRAVELING"
+    "Text_FR": "VOYAGER"
   },
   {
     "Id": "U_MAINMENU_DAILY_COMING_SOON",
     "Text": "Daily challenge content coming soon!",
     "Text_CN": "每日挑战内容即将上线！",
-    "Text_FR": "Daily challenge content coming soon!"
+    "Text_FR": "Prochainement, des défis quotidiens !"
   },
   {
     "Id": "U_QUEST_COOP_COMING_SOON",
     "Text": "Multiplayer coming soon!",
     "Text_CN": "多人游戏模式即将上线！",
-    "Text_FR": "Multiplayer coming soon!"
+    "Text_FR": "Prochainement, un mode multijoueur !"
   },
   {
     "Id": "U_BATTLE_POWER",
     "Text": "Power",
     "Text_CN": "攻击",
-    "Text_FR": "Objectif principal"
+    "Text_FR": "Pouvoir"
   },
   {
     "Id": "U_BATTLE_STEALTH",
     "Text": "Stealth",
     "Text_CN": "潜行",
-    "Text_FR": "Stealth"
+    "Text_FR": "Furtif"
   },
   {
     "Id": "U_BATTLE_STEALTH_DESC",
     "Text": "Activate Stealth. A Character cannot be attacked while in Stealth. When a Character takes an action, Stealth is deactivated.",
     "Text_CN": "进入潜行状态。在所有其他未潜行的角色力竭之前不会受到攻击。",
-    "Text_FR": "Enter Stealth mode so this character cannot be attacked unless all other characters without Stealth are exhasuted."
+    "Text_FR": "Activez le mode Furtif. Un personnage ne peut être attaqué s'il est Furtif. Dès qu'il agit, le personnage sort du mode Furtif."
   },
   {
     "Id": "U_BATTLE_GUARD",
     "Text": "Guard",
     "Text_CN": "守卫",
-    "Text_FR": "Guard"
+    "Text_FR": "Garde"
   },
   {
     "Id": "U_BATTLE_GUARD_DESC",
     "Text": "Activate Guard. Characters with Guard must be attacked first.",
     "Text_CN": "进入守卫状态。敌人会首先攻击守卫状态的角色。",
-    "Text_FR": "Enter Guard mode. Enemies will  attack Guard characters first before they can attack another."
+    "Text_FR": "Activez la garde. Un personnage en Garde doit être attaqué en premier."
   },
   {
     "Id": "U_BATTLE_THREAT_35_EASY",
     "Text": "Sauron gains +1 Resource this round",
     "Text_CN": "这个回合索伦资源+1",
-    "Text_FR": "Sauron gains +1 Resource this round"
+    "Text_FR": "Sauron gagne +1 ressource à ce tour"
   },
   {
     "Id": "U_BATTLE_THREAT_35_NORMAL",
     "Text": "Sauron gains +2 Resources this round",
     "Text_CN": "这个回合索伦资源+2",
-    "Text_FR": "Sauron gains +2 Resources this round"
+    "Text_FR": "Sauron gagne +2 ressources à ce tour"
   },
   {
     "Id": "U_BATTLE_THREAT_35_HARD",
     "Text": "Sauron gains +3 Resources this round",
     "Text_CN": "这个回合索伦资源+3",
-    "Text_FR": "Sauron gains +3 Resources this round"
+    "Text_FR": "Sauron gagne +3 ressources à ce tour"
   },
   {
     "Id": "U_BATTLE_THREAT_40",
     "Text": "Sauron draws a Treachery card",
     "Text_CN": "索伦打出一张诡计卡",
-    "Text_FR": "Sauron draws a Treachery card"
+    "Text_FR": "Sauron pioche une carte Traîtrise"
   },
   {
     "Id": "U_BATTLE_THREAT_45",
     "Text": "An Agent of Sauron appears",
     "Text_CN": "索伦代理人出现了",
-    "Text_FR": "An Agent of Sauron appears"
+    "Text_FR": "Un agent de Sauron apparaît"
   },
   {
     "Id": "U_BATTLE_ELVEN_SCOUT",
@@ -2547,7 +2547,7 @@
     "Id": "U_MENU_COMMON_SKIP",
     "Text": "SKIP",
     "Text_CN": "跳过",
-    "Text_FR": "SKIP"
+    "Text_FR": "PASSER"
   },
   {
     "Id": "U_DECKMENU_ALL_COSTS",
@@ -2583,109 +2583,109 @@
     "Id": "U_QUEST_SCORE_YOUR_SCORE",
     "Text": "SCORING",
     "Text_CN": "您的分数",
-    "Text_FR": "SCORING"
+    "Text_FR": "SCORE"
   },
   {
     "Id": "U_QUEST_SCORE_BONUS_REWARDS",
     "Text": "BONUS REWARDS",
     "Text_CN": "额外奖励",
-    "Text_FR": "BONUS REWARDS"
+    "Text_FR": "RÉCOMPENSES BONUS"
   },
   {
     "Id": "U_QUEST_SCORE_THREAT_LEVEL",
     "Text": "Final Threat Level",
     "Text_CN": "最终的威胁值",
-    "Text_FR": "Final Threat Level"
+    "Text_FR": "Niveau de Menace final"
   },
   {
     "Id": "U_QUEST_SCORE_SURVIVING_HERO",
     "Text": "Surviving Heroes",
     "Text_CN": "幸存的英雄",
-    "Text_FR": "Surviving Heroes"
+    "Text_FR": "Héros survivants"
   },
   {
     "Id": "U_QUEST_SCORE_HERO_HEALTH",
     "Text": "Surviving Heroes' Health",
     "Text_CN": "幸存的英雄的生命值",
-    "Text_FR": "Surviving Heroes' Health"
+    "Text_FR": "Points de vie des héros survivants"
   },
   {
     "Id": "U_QUEST_SCORE_OBJECTIVE_RESOLVED",
     "Text": "Objectives Resolved",
     "Text_CN": "解决的目标数量",
-    "Text_FR": "Objectives Resolved"
+    "Text_FR": "Objectifs atteints"
   },
   {
     "Id": "U_QUEST_SCORE_FAVOR_CARD_BONUS",
     "Text": "Favor Card Selected",
     "Text_CN": "福利卡已选择",
-    "Text_FR": "Favor Card Selected"
+    "Text_FR": "Carte de faveur sélectionnée"
   },
   {
     "Id": "U_QUEST_SCORE_TOTAL",
     "Text": "Final Score",
     "Text_CN": "总计",
-    "Text_FR": "Final Score"
+    "Text_FR": "Score final"
   },
   {
     "Id": "U_QUEST_SCORE_TOP_SCORE",
     "Text": "Top Score",
     "Text_CN": "最高记录",
-    "Text_FR": "Top Score"
+    "Text_FR": "Meilleur score"
   },
   {
     "Id": "U_QUEST_SCORE_REWARDS",
     "Text": "REWARDS",
     "Text_CN": "奖励",
-    "Text_FR": "REWARDS"
+    "Text_FR": "RÉCOMPENSES"
   },
   {
     "Id": "U_QUEST_SCORE_REWARD",
     "Text": "REWARD",
     "Text_CN": "奖励",
-    "Text_FR": "REWARD"
+    "Text_FR": "RÉCOMPENSE"
   },
   {
     "Id": "U_QUEST_SCORE_QUEST_REWARDS",
     "Text": "Quest Reward",
     "Text_CN": "冒险奖励",
-    "Text_FR": "Quest Reward"
+    "Text_FR": "Récompense de quête"
   },
   {
     "Id": "U_QUEST_SCORE_VICTORY",
     "Text": "VICTORY",
     "Text_CN": "胜利",
-    "Text_FR": "VICTORY"
+    "Text_FR": "VICTOIRE"
   },
   {
     "Id": "U_QUEST_SCORE_EXPLAIN_1",
     "Text": "Your final score determines whether any Bonus Rewards are granted for this Quest. A Hero can gain each reward only once per Quest",
     "Text_CN": "您的最终分数决定了您在这次冒险中是否能获得额外的奖励。每个英雄在每个冒险中只能获得一次。",
-    "Text_FR": "Your final score determines whether any Bonus Rewards are granted for this Quest. A Hero can gain each reward only once per Quest."
+    "Text_FR": "Votre score final détermine l'obtention ou non de récompenses bonus pour cette quête. Un héros ne peut gagner chaque récompense qu'une seule fois par quête."
   },
   {
     "Id": "U_QUEST_SCORE_EXPLAIN_2",
     "Text": "If you didn't earn any rewards this time, you can try again until you do!",
     "Text_CN": "如果这次没有获得额外奖励，下次再尝试一下吧！",
-    "Text_FR": "If you didn't earn any rewards this time, you can try again until you do!"
+    "Text_FR": "Si vous n'avez pas gagné de récompense cette fois-ci, vous pouvez réessayer jusqu'à ce que vous en décrochiez une !"
   },
   {
     "Id": "U_QUEST_SCORE_MSG_NEXT_QUEST_AVAILABLE",
     "Text": "Your next Quest is available!\nPurchase it in the Shop now \nto continue your adventure",
     "Text_CN": "下一个冒险解锁了！\n在商店中购买\n继续战斗吧",
-    "Text_FR": "Your next Quest is available!\nPurchase it in the Shop now \nto continue your adventure"
+    "Text_FR": "Votre quête suivante est disponible !\nAchetez-la dès maintenant dans la boutique \npour continuer votre aventure"
   },
   {
     "Id": "U_QUEST_SCORE_MSG_PURCHASE_LOCKED",
     "Text": "You must complete the previous \nQuest before you can play this one.\nDo you want to purchase this Quest?",
     "Text_CN": "您必须先完成上一个冒险\n才能挑战这一个\n您还是想购买这个冒险吗？",
-    "Text_FR": "You must complete the previous \nQuest before you can play this one.\nDo you want to purchase this Quest?"
+    "Text_FR": "Vous devez terminer la quête \nprécédente avant de pouvoir jouer à celle-ci.\nVoulez-vous acheter cette quête ?"
   },
   {
     "Id": "U_QUEST_SCORE_MSG_PLAY_LOCKED",
     "Text": "You must complete the previous \nQuest before you can play this one",
     "Text_CN": "您必须先完成上一个冒险\n才能挑战这一个冒险",
-    "Text_FR": "You must complete the previous \nQuest before you can play this one"
+    "Text_FR": "Vous devez terminer la quête \nprécédente avant de pouvoir jouer à celle-ci."
   },
   {
     "Id": "U_SHOP_VALOR_CARDS_ONE_ONLY",
@@ -2757,37 +2757,37 @@
     "Id": "U_BATTLE_PREP_TRIGGERED",
     "Text": "PREPARATION TRIGGERED",
     "Text_CN": "准备卡被触发了！",
-    "Text_FR": "PREPARATION TRIGGERED"
+    "Text_FR": "PRÉPARATION ACTIVÉE"
   },
   {
     "Id": "U_ASMODEE_MSG_INPUT_WRONG",
     "Text": "The user name or password is invalid",
     "Text_CN": "用户名或密码不正确",
-    "Text_FR": "The user name or password entered is invalid"
+    "Text_FR": "Nom d'utilisateur ou mot de passe non valide"
   },
   {
     "Id": "U_BATTLE_THREAT_EVENT",
     "Text": "THREAT EVENT",
     "Text_CN": "威胁事件",
-    "Text_FR": "THREAT EVENT"
+    "Text_FR": "ÉVÉNEMENT NIVEAU DE MENACE"
   },
   {
     "Id": "U_BATTLE_EVENT",
     "Text": "EVENT",
     "Text_CN": "事件",
-    "Text_FR": "Événement"
+    "Text_FR": "ÉVÉNEMENT"
   },
   {
     "Id": "U_BATTLE_TREACHERY",
     "Text": "TREACHERY",
     "Text_CN": "诡计",
-    "Text_FR": "TREACHERY"
+    "Text_FR": "TRAÎTRISE"
   },
   {
     "Id": "U_BATTLE_TREACHERY_TRIGGERED",
     "Text": "TREACHERY TRIGGERED",
     "Text_CN": "诡计卡被触发了！",
-    "Text_FR": "TREACHERY TRIGGERED"
+    "Text_FR": "TRAÎTRISE ACTIVÉE"
   },
   {
     "Id": "U_SHOP_VALOR_MAX_2",
@@ -2817,19 +2817,19 @@
     "Id": "U_EA_MSG_TITLE",
     "Text": "What is Early Access?",
     "Text_CN": "What is Early Access?",
-    "Text_FR": "What is Early Access?"
+    "Text_FR": "Qu'est-ce que l'accès anticipé ?"
   },
   {
     "Id": "U_EA_MSG_BODY",
     "Text": "<b>The Lord of the Rings™: Living Card Game™</b> is still in active development.\n \nFeatures, cards, effects, and mechanics are subject to change for\nany number of reasons based on game play data and user feedback.\n \nIf you run into any game play issues or bugs, or have any feedback,\nplease let us know at our <a href=\"http://steamcommunity.com/app/509580/discussions/\">Steam Discussions</a>.\n \nWe appreciate your taking part in our early access development so that we can\nrefine, balance, and improve the game.  \n \nNow… on to Middle-earth and the adventures that await you there!",
     "Text_CN": "<b>The Lord of the Rings™: Living Card Game™</b> is still in active development.\n \nMany features, cards, effects and mechanics are subject to change for any number of reasons based on game play data and user feedback.\n \nIf you run into any game play issues or bugs, or have any feedback, please let us know at our <a href=\"http://steamcommunity.com/app/509580/discussions/\">Steam Discussions</a>.\n \nWe appreciate your taking part in our early access development so that we can refine, balance, and improve the game.  \n \nNow… on to Middle-earth and the adventures that await you there!",
-    "Text_FR": "<b>The Lord of the Rings™: Living Card Game™</b> is still in active development.\n \nMany features, cards, effects and mechanics are subject to change for any number of reasons based on game play data and user feedback.\n \nIf you run into any game play issues or bugs, or have any feedback, please let us know at our <a href=\"http://steamcommunity.com/app/509580/discussions/\">Steam Discussions</a>.\n \nWe appreciate your taking part in our early access development so that we can refine, balance, and improve the game.  \n \nNow… on to Middle-earth and the adventures that await you there!"
+    "Text_FR": "<b>Le Seigneur des Anneaux™, jeu de carte évolutif™</b> est toujours en cours de développement.\n \nLes fonctionnalités, cartes, effets et mécanismes de jeu sont susceptibles de changer pour\nun certain nombre de raisons basées sur les données de jeu et les retours des utilisateurs.\n \nSi vous rencontrez des problèmes ou des bugs dans le jeu, ou que vous avez des commentaires,\nmerci de nous en informer sur nos <a href=\"http://steamcommunity.com/app/509580/discussions/\">Discussions Steam</a>.\n \nNous apprécions beaucoup que vous preniez part au développement grâce à l'accès anticipé, nous pourrons ainsi\naffiner, équilibrer et améliorer le jeu.  \n \nEt maintenant... en route vers la Terre du Milieu et les aventures qui vous y attendent !"
   },
   {
     "Id": "U_QUEST_COMPLETE",
     "Text": "QUEST COMPLETE",
     "Text_CN": "冒险完成",
-    "Text_FR": "QUEST COMPLETE"
+    "Text_FR": "QUÊTE TERMINÉE"
   },
   {
     "Id": "U_PROLOGUE_P1",
@@ -3711,7 +3711,7 @@
     "Id": "Q_QUEST_LOSTINMIRKWOOD_DESCRIPTION",
     "Text": "Though free of the giant spiders' lair, your party is lost in the dark forest. You must get your bearings if you hope to escape the vastness of Mirkwood.",
     "Text_CN": "Though free of the giant spiders' lair, your party is lost in the dark forest. You must get your bearings if you hope to escape the vastness of Mirkwood.",
-    "Text_FR": "Though free of the giant spiders' lair, your party is lost in the dark forest. You must get your bearings if you hope to escape the vastness of Mirkwood."
+    "Text_FR": "Même s'il a réussi à se sortir de l'antre des araignées géantes, votre groupe est perdu dans cette sombre futaie. Vous devez arriver à vous orienter si vous espérez sortir de la vaste Forêt Noire."
   },
   {
     "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_DESCRIPTION",
@@ -3933,37 +3933,37 @@
     "Id": "Q_STAGE_MIRKWOODFOREST_TEXT",
     "Text": "<line-height=100%><i><size=58>Y</size>ou have rescued your friends and escaped the spiders' lair, only to find yourself lost in the vastness of Mirkwood. Far from the relative safety of the Forest Road, the woods are a dark tangle of twisted trees. It is impossible to know the correct direction to travel within this wooded maze. \n<indent=50>If</indent> you are to find your way out and continue your mission for the King of Dale, you must first find some landmarks to get your bearings…</i>",
     "Text_CN": "<line-height=100%><i><size=58>Y</size>ou have rescued your friends and escaped the spiders' lair, only to find yourself lost in the vastness of Mirkwood. Far from the relative safety of the Forest Road, the woods are a dark tangle of twisted trees. It is impossible to know the correct direction to travel within this wooded maze. \n<indent=50>If</indent> you are to find your way out and continue your mission for the King of Dale, you must first find some landmarks to get your bearings…</i>",
-    "Text_FR": "<line-height=100%><i><size=58>Y</size>ou have rescued your friends and escaped the spiders' lair, only to find yourself lost in the vastness of Mirkwood. Far from the relative safety of the Forest Road, the woods are a dark tangle of twisted trees. It is impossible to know the correct direction to travel within this wooded maze. \n<indent=50>If</indent> you are to find your way out and continue your mission for the King of Dale, you must first find some landmarks to get your bearings…</i>"
+    "Text_FR": "<line-height=100%><i><size=58>V</size>ous avez sauvé vos amis et avez échappé à l'antre des araignées, mais vous vous êtes perdus dans la vaste Forêt Noire. À l'écart de la sécurité toute relative du Sentier forestier, les bois ressemblent à un enchevêtrement sombre d'arbres tordus. Impossible de déterminer la direction à prendre dans ce labyrinthe arboré. \n<indent=50>Si</indent> vous voulez trouver la sortie et continuer votre mission pour le roi de Dale, vous devez d'abord trouver des points de repère pour vous orienter...</i>"
   },
   {
     "Id": "Q_STAGE_FORESTSTREAM_TEXT",
     "Text": "<line-height=100%><i><size=58>A</size> stream winds its way through the twisted roots of ancient trees that crowd the riverbank. You follow the water's course as best you can, battling uneven terrain each step of the way. Though the stream should lead you from Mirkwood eventually, you wonder if a less arduous option can be found.</i>",
     "Text_CN": "<line-height=100%><i><size=58>A</size> stream winds its way through the twisted roots of ancient trees that crowd the riverbank. You follow the water's course as best you can, battling uneven terrain each step of the way. Though the stream should lead you from Mirkwood eventually, you wonder if a less arduous option can be found.</i>",
-    "Text_FR": "<line-height=100%><i><size=58>A</size> stream winds its way through the twisted roots of ancient trees that crowd the riverbank. You follow the water's course as best you can, battling uneven terrain each step of the way. Though the stream should lead you from Mirkwood eventually, you wonder if a less arduous option can be found.</i>"
+    "Text_FR": "<line-height=100%><i><size=58>U</size>n ruisseau serpente entre les racines tordues des vieux arbres qui occupent la berge. Vous suivez son cours du mieux que vous pouvez, bataillant à chaque pas contre le terrain accidenté. Même si le ruisseau finira bien par vous faire sortir de la Forêt Noire, vous vous demandez s'il n'existerait pas une option moins fatigante.</i>"
   },
   {
     "Id": "Q_STAGE_BAREHILLTOP_TEXT",
     "Text": "<line-height=100%><i><size=58>Y</size>ou stand atop a low hill, a sea of green spreading for miles in all directions. Scanning the horizon, you spy a faint trail of grey smoke rising in the distance. Smoke suggests civilization, though in Mirkwood there's no telling whether this means friend or foe. Alternately, you could keep searching for the Forest Road or some other path through these corrupted woods</i>",
     "Text_CN": "<line-height=100%><i><size=58>Y</size>ou stand atop a low hill, a sea of green spreading for miles in all directions. Scanning the horizon, you spy a faint trail of grey smoke rising in the distance. Smoke suggests civilization, though in Mirkwood there's no telling whether this means friend or foe. Alternately, you could keep searching for the Forest Road or some other path through these corrupted woods</i>",
-    "Text_FR": "<line-height=100%><i><size=58>Y</size>ou stand atop a low hill, a sea of green spreading for miles in all directions. Scanning the horizon, you spy a faint trail of grey smoke rising in the distance. Smoke suggests civilization, though in Mirkwood there's no telling whether this means friend or foe. Alternately, you could keep searching for the Forest Road or some other path through these corrupted woods</i>"
+    "Text_FR": "<line-height=100%><i><size=58>V</size>ous vous tenez au sommet d'une petite colline, une mer de verdure s'étale sur des kilomètres, dans toutes les directions. En scrutant l'horizon, vous détectez un léger filet de fumée grise au loin. Qui dit fumée, dit civilisation, même si au sein de la Forêt Noire il est impossible de savoir si elle sera amicale ou hostile. Sinon, vous pouvez continuer à chercher le Sentier forestier ou tout autre chemin pour traverser ces bois corrompus.</i>"
   },
   {
     "Id": "Q_STAGE_MIRKWOODSWAMP_TEXT",
     "Text": "<line-height=100%><i><size=58>A</size>t long last, the stream you have been following empties into a wide bog. The Anduin River vale must lie beyond this morass. Though the moist ground sucks greedily at your feet with each step, you make your way across the swamp doggedly and with no small amount of relief at leaving the accursed wood behind. Just then, the bog ahead erupts in a shower of brackish water! A Giant Marsh Worm lunges for you with a ravenous speed that belies its size…</i>",
     "Text_CN": "<line-height=100%><i><size=58>A</size>t long last, the stream you have been following empties into a wide bog. The Anduin River vale must lie beyond this morass. Though the moist ground sucks greedily at your feet with each step, you make your way across the swamp doggedly and with no small amount of relief at leaving the accursed wood behind. Just then, the bog ahead erupts in a shower of brackish water! A Giant Marsh Worm lunges for you with a ravenous speed that belies its size…</i>",
-    "Text_FR": "<line-height=100%><i><size=58>A</size>t long last, the stream you have been following empties into a wide bog. The Anduin River vale must lie beyond this morass. Though the moist ground sucks greedily at your feet with each step, you make your way across the swamp doggedly and with no small amount of relief at leaving the accursed wood behind. Just then, the bog ahead erupts in a shower of brackish water! A Giant Marsh Worm lunges for you with a ravenous speed that belies its size…</i>"
+    "Text_FR": "<line-height=100%><i><size=58>E</size>nfin, le ruisseau débouche sur un large marais. La vallée de la rivière Anduin doit se trouver derrière. Bien que le sol détrempé aspire goulument vos chaussures à chaque pas, à force de persévérance vous traversez le marécage et laissez derrière vous le bois maudit avec un grand soupir de soulagement. Mais soudain, une fondrière devant vous érupte dans une gerbe d'eau saumâtre ! Un Ver géant des marais affamé plonge sur vous à une vitesse que sa taille n'aurait jamais laissé supposer...</i>"
   },
   {
     "Id": "Q_STAGE_OVERGROWNTRAIL_TEXT",
     "Text": "<line-height=100%><i><size=58>A</size>fter a long, desperate search you find the trail at last. Overgrown and covered in animal tracks, this nonetheless promises to be your best means of reaching the Anduin Vale. You make good time at first, but soon realize that your presence has not gone unnoticed. While the path may ease travel, the roused denizens of Mirkwood shall make you fight for every step…</i>",
     "Text_CN": "<line-height=100%><i><size=58>A</size>fter a long, desperate search you find the trail at last. Overgrown and covered in animal tracks, this nonetheless promises to be your best means of reaching the Anduin Vale. You make good time at first, but soon realize that your presence has not gone unnoticed. While the path may ease travel, the roused denizens of Mirkwood shall make you fight for every step…</i>",
-    "Text_FR": "<line-height=100%><i><size=58>A</size>fter a long, desperate search you find the trail at last. Overgrown and covered in animal tracks, this nonetheless promises to be your best means of reaching the Anduin Vale. You make good time at first, but soon realize that your presence has not gone unnoticed. While the path may ease travel, the roused denizens of Mirkwood shall make you fight for every step…</i>"
+    "Text_FR": "<line-height=100%><i><size=58>A</size>près l'avoir cherchée désespérément, vous trouvez enfin la piste. Envahie et couverte de traces d'animaux, elle reste néanmoins votre meilleur moyen d'atteindre le Val d'Anduin. Vous progressez rapidement au début, mais réalisez très vite que votre présence a été remarquée. Le chemin facilite peut-être les déplacements, mais les résidents aux aguets de la Forêt Noire pourrait bien vous obliger à vous battre à chaque pas...</i>"
   },
   {
     "Id": "Q_STAGE_ABANDONEDVILLAGE_TEXT",
     "Text": "<line-height=100%><i><size=58>N</size>avigating through the dense forest toward the smoke is no easy task, but at last you find the remains of an old Woodsmen village. Even more welcome to your eyes is the clear blue sky in the distance: you stand near the eaves of Mirkwood! Your relief is short-lived, however, as the village is overrun with Orcs! They spot your weary group, making it clear that you must fight to reach the Anduin Vale.</i>",
     "Text_CN": "<line-height=100%><i><size=58>N</size>avigating through the dense forest toward the smoke is no easy task, but at last you find the remains of an old Woodsmen village. Even more welcome to your eyes is the clear blue sky in the distance: you stand near the eaves of Mirkwood! Your relief is short-lived, however, as the village is overrun with Orcs! They spot your weary group, making it clear that you must fight to reach the Anduin Vale.</i>",
-    "Text_FR": "<line-height=100%><i><size=58>N</size>avigating through the dense forest toward the smoke is no easy task, but at last you find the remains of an old Woodsmen village. Even more welcome to your eyes is the clear blue sky in the distance: you stand near the eaves of Mirkwood! Your relief is short-lived, however, as the village is overrun with Orcs! They spot your weary group, making it clear that you must fight to reach the Anduin Vale.</i>"
+    "Text_FR": "<line-height=100%><i><size=58>A</size>vancer au sein de cette forêt dense en direction de la fumée n'est pas chose aisée, mais vous tombez enfin sur les vestiges d'un ancien village de bûcherons. Et ce qui vous réjouit par-dessus tout, vous voyez au loin un ciel bleu dégagé : vous voici à l'orée de la Forêt Noire ! Votre soulagement est de courte durée toutefois, car le village grouille d'Orques ! Ils repèrent votre groupe épuisé et il devient évident que vous devrez combattre pour atteindre le Val d'Anduin.</i>"
   },
   {
     "Id": "Q_STAGE_TOTHERIVER_TEXT",
@@ -4077,37 +4077,37 @@
     "Id": "Q_STAGE_MIRKWOODFOREST_OBJECTIVE",
     "Text": "Resolve either <i>Follow the Stream</i> or <i>Climb the Hill</i> to advance immediately to the next Location",
     "Text_CN": "Resolve <i>Follow the Stream</i> to advance immediately to <i>Forest Stream</i>, or <i>Climb the Hill</i> to advance immediately to <i>Bare Hilltop</i>",
-    "Text_FR": "Resolve <i>Follow the Stream</i> to advance immediately to <i>Forest Stream</i>, or <i>Climb the Hill</i> to advance immediately to <i>Bare Hilltop</i>"
+    "Text_FR": "Résolvez soit <i>Suivre le courant</i>, soit <i>Ascension de la colline</i> pour avancer immédiatement jusqu'au lieu suivant."
   },
   {
     "Id": "Q_STAGE_FORESTSTREAM_OBJECTIVE",
     "Text": "Resolve <i>Continue Downstream</i> or <i>Search for a Path</i> to advance immediately to the next Location",
     "Text_CN": "Resolve <i>Continue Downstream</i> to advance immediately to <i>Mirkwood Swamp</i>, or <i>Search for a Path</i> to advance immediately to <i>Overgrown Trail</i>",
-    "Text_FR": "Resolve <i>Continue Downstream</i> to advance immediately to <i>Mirkwood Swamp</i>, or <i>Search for a Path</i> to advance immediately to <i>Overgrown Trail</i>"
+    "Text_FR": "Résolvez <i>Continuer à suivre le courant</i> ou <i>Chercher un chemin</i> pour avancer immédiatement jusqu'au lieu suivant."
   },
   {
     "Id": "Q_STAGE_BAREHILLTOP_OBJECTIVE",
     "Text": "Resolve either <i>Investigate the Smoke</i> or <i>Search for a Path</i> to advance immediately to the next Location",
     "Text_CN": "Resolve <i>Investigate the Smoke</i> to advance immediately to <i>Abandoned Village</i>, or <i>Search for a Path</i> to advance immediately to <i>Overgrown Trail</i>",
-    "Text_FR": "Resolve <i>Investigate the Smoke</i> to advance immediately to <i>Abandoned Village</i>, or <i>Search for a Path</i> to advance immediately to <i>Overgrown Trail</i>"
+    "Text_FR": "Résolvez <i>Enquêter sur la fumée</i> ou <i>Chercher un chemin</i> pour avancer immédiatement jusqu'au lieu suivant."
   },
   {
     "Id": "Q_STAGE_MIRKWOODSWAMP_OBJECTIVE",
     "Text": "Defeat <i>Giant Marsh Worm</i> to complete the Quest",
     "Text_CN": "Defeat <i>Giant Marsh Worm</i> to complete the Quest",
-    "Text_FR": "Defeat <i>Giant Marsh Worm</i> to complete the Quest"
+    "Text_FR": "Venez à bout du <i>Ver géant des marais</i> pour terminer la quête"
   },
   {
     "Id": "Q_STAGE_OVERGROWNTRAIL_OBJECTIVE",
     "Text": "Resolve <i>Escape the Forest</i> to complete the Quest",
     "Text_CN": "Resolve <i>Escape the Forest</i> to complete the Quest",
-    "Text_FR": "Resolve <i>Escape the Forest</i> to complete the Quest"
+    "Text_FR": "Résolvez <i>Fuir la forêt</i> pour terminer la quête"
   },
   {
     "Id": "Q_STAGE_ABANDONEDVILLAGE_OBJECTIVE",
     "Text": "Defeat each Enemy in play to complete the Quest",
     "Text_CN": "Defeat each Enemy in play to complete the Quest",
-    "Text_FR": "Defeat each Enemy in play to complete the Quest"
+    "Text_FR": "Venez à bout de chaque ennemi actif pour terminer la quête"
   },
   {
     "Id": "Q_STAGE_TOTHERIVER_OBJECTIVE",
@@ -4179,7 +4179,7 @@
     "Id": "Q_QUEST_LOSTINMIRKWOOD_VICTORY_TEXT",
     "Text": "<i><size=58>A</size>gainst all odds, you have escaped Mirkwood Forest. Before you stretches the vales of Anduin, and the Misty Mountains beyond. The next leg of your journey lies to the south: the realm of the Beornings. Having seen firsthand the menace rising within Mirkwood, you know well the urgency to your mission. Still, you grant yourself a brief pause to gather your strength, the clear sky being a welcome change from your time under Mirkwood's dark canopy…</i>",
     "Text_CN": "尽管一路艰辛，但你终于还是逃出了幽暗密林并抵达了安都因河谷的西口。接下来，你需要沿着安都因河继续前进，前往比翁族的领地。",
-    "Text_FR": "Contre toute attente, vous avez réussi à fuir la Forêt Noire et à atteindre les vallons de l'Anduin occidental. La prochaine étape de votre trajet sera de descendre l'Anduin jusqu'au territoire des Béornides."
+    "Text_FR": "<i><size=58>C</size>ontre toute attente, vous êtes sortis de la Forêt Noire. Sous vos yeux s'étale le Val d'Anduin et au loin, les Monts Brumeux. L'étape suivante de votre voyage se trouve au sud, au royaume des Béornides. Ayant été témoin, en première ligne, de la menace qui enfle dans la Forêt Noire, vous savez à quel point votre mission est urgente. Néanmoins, vous vous accordez une brève pause pour reprendre des forces, le ciel dégagé contraste agréablement après la canopée sombre de la Forêt Noire...</i>"
   },
   {
     "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_VICTORY_TEXT",
@@ -4215,7 +4215,7 @@
     "Id": "Q_QUEST_LOSTINMIRKWOOD_DEFEAT_TEXT",
     "Text": "Your journey has come to a tragic end.",
     "Text_CN": "Your journey has come to a tragic end.",
-    "Text_FR": "Your journey has come to a tragic end."
+    "Text_FR": "Votre périple prend fin de façon tragique."
   },
   {
     "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_DEFEAT_TEXT",
@@ -4323,7 +4323,7 @@
     "Id": "C_ACCURSEDFOREST_TEXT",
     "Text": "<b>Upkeep</b>: Discard the top 3 cards from each player's deck",
     "Text_CN": "休整：弃置每名玩家牌堆顶端的3张卡牌。",
-    "Text_FR": "Entretien : défaussez les 3 premières cartes du deck de chaque joueur."
+    "Text_FR": "<b>Entretien</b> : défaussez les 3 premières cartes du deck de chaque joueur."
   },
   {
     "Id": "C_ACCURSEDFOREST_TITLE",
@@ -4341,7 +4341,7 @@
     "Id": "C_ADVANCEWARNING_TEXT",
     "Text": "Exhaust the next Enemy\n that Sauron plays",
     "Text_CN": "Exhaust the next Enemy\n that Sauron plays",
-    "Text_FR": "Exhaust the next Enemy\n that Sauron plays"
+    "Text_FR": "Épuisez le prochain ennemi\n joué par Sauron."
   },
   {
     "Id": "C_ADVANCEWARNING_TITLE",
@@ -4395,13 +4395,13 @@
     "Id": "C_AGENTOFSAURON_TEXT",
     "Text": "<b>Fleeting</b>. <b>Stalwart</b>. <b>Surge</b>",
     "Text_CN": "<b>Fleeting</b>. <b>Stalwart</b>. <b>Surge</b>",
-    "Text_FR": "<b>Fleeting</b>. <b>Stalwart</b>. <b>Surge</b>"
+    "Text_FR": "<b>Fugacité</b>. <b>Loyal</b>. <b>Ruée</b>"
   },
   {
     "Id": "C_AGENTOFSAURON_TITLE",
     "Text": "‰Agent of Sauron",
     "Text_CN": "‰Agent of Sauron",
-    "Text_FR": "‰Agent of Sauron"
+    "Text_FR": "‰Agent de Sauron"
   },
   {
     "Id": "C_AMBUSHONTHESHORE_FLAVOR",
@@ -4449,7 +4449,7 @@
     "Id": "C_ARAGORN_TEXT",
     "Text": "<b>Power</b>: Ready <i>Aragorn</i> \n(cost 1)",
     "Text_CN": "<b>Power</b>: Ready <i>Aragorn</i> \n(cost 1)",
-    "Text_FR": "<b>Power</b>: Ready <i>Aragorn</i> \n(cost 1)"
+    "Text_FR": "<b>Pouvoir</b> : préparez <i>Aragorn</i> \n(coût 1)"
   },
   {
     "Id": "C_ARAGORN_TITLE",
@@ -4467,7 +4467,7 @@
     "Id": "C_ARWEN_TEXT",
     "Text": "<b>Upkeep</b>: Restore 1 Health\nto a Character",
     "Text_CN": "休整：为一位人物治愈1点伤害。",
-    "Text_FR": "Entretien : soignez 1 point de dégâts d'un personnage."
+    "Text_FR": "<b>Entretien</b> : restaurez 1 point de vie à un personnage"
   },
   {
     "Id": "C_ARWEN_TITLE",
@@ -4521,7 +4521,7 @@
     "Id": "C_AWATCHFULPEACE_TEXT",
     "Text": "Lose 2 Threat",
     "Text_CN": "令威胁降低2点。 ",
-    "Text_FR": "Réduit de 2 votre niveau de Menace. "
+    "Text_FR": "Perdez 2 en Menace"
   },
   {
     "Id": "C_AWATCHFULPEACE_TITLE",
@@ -4539,7 +4539,7 @@
     "Id": "C_BARLIMANBUTTERBUR_TEXT",
     "Text": "<b>Upkeep</b>: Draw 1 card \n(50% chance)",
     "Text_CN": "<b>Upkeep</b>: Draw 1 card \n(50% chance)",
-    "Text_FR": "<b>Upkeep</b>: Draw 1 card \n(50% chance)"
+    "Text_FR": "<b>Entretien</b> : piochez 1 carte \n(50 % de chances)"
   },
   {
     "Id": "C_BARLIMANBUTTERBUR_TITLE",
@@ -4557,7 +4557,7 @@
     "Id": "C_BEORN_TEXT",
     "Text": "<b>Stalwart</b>. Gain +1 Attack \nfor each point below \nmaximum Health. \nCannot equip Attachments",
     "Text_CN": "<b>Stalwart</b>. Gain +1 Attack \nfor each point below \nmaximum Health. \nCannot equip Attachments",
-    "Text_FR": "<b>Stalwart</b>. Gain +1 Attack \nfor each point below \nmaximum Health. \nCannot equip Attachments"
+    "Text_FR": "<b>Loyal</b>. Gagnez +1 en Attaque \npour chaque point de vie \nsous sa santé maximale. \nImpossible d'équiper des attachements"
   },
   {
     "Id": "C_BEORN_TITLE",
@@ -4575,13 +4575,13 @@
     "Id": "C_BEORNSHOSPITALITY_TEXT",
     "Text": "<b>Choose</b>: Restore 1 Health\nto each Character; or restore\n4 Health to a Hero",
     "Text_CN": "0",
-    "Text_FR": "Heal 3 damage to a Character."
+    "Text_FR": "Soignez 3 points de dégâts d'un personnage."
   },
   {
     "Id": "C_BEORNSHOSPITALITY_TITLE",
     "Text": "Beorn's Hospitality",
     "Text_CN": "0",
-    "Text_FR": "Beorn's Hospitality"
+    "Text_FR": "Hospitalité de Beorn"
   },
   {
     "Id": "C_BILBOSCLOAK_FLAVOR",
@@ -4611,13 +4611,13 @@
     "Id": "C_BILLTHEPONY_TEXT",
     "Text": "(Cost –2 while you control \n<i>Sam Gamgee</i>.) \n<b>Upkeep</b>: Gain +1 Resource",
     "Text_CN": "(Cost –2 while you control \n<i>Sam Gamgee</i>.) \n<b>Upkeep</b>: Gain +1 Resource",
-    "Text_FR": "(Cost –2 while you control \n<i>Sam Gamgee</i>.) \n<b>Upkeep</b>: Gain +1 Resource"
+    "Text_FR": "(Coût : -2 quand vous contrôlez \n<i>Sam Gamegie</i>.) \n<b>Entretien</b> : gagnez +1 ressource"
   },
   {
     "Id": "C_BILLTHEPONY_TITLE",
     "Text": "‰Bill the Pony ",
     "Text_CN": "‰小马比尔",
-    "Text_FR": "‰Bill le poney"
+    "Text_FR": "‰Bill le poney "
   },
   {
     "Id": "C_BLACKBLOOD_FLAVOR",
@@ -4647,7 +4647,7 @@
     "Id": "C_BLACKFORESTBATS_TEXT",
     "Text": "",
     "Text_CN": "",
-    "Text_FR": ""
+    "Text_FR": "0"
   },
   {
     "Id": "C_BLACKFORESTBATS_TITLE",
@@ -4665,13 +4665,13 @@
     "Id": "C_BLADEOFGONDOLIN_TEXT",
     "Text": "Gain +2 Attack; \nlose 1 Willpower",
     "Text_CN": "Gain +2 Attack; \nlose 1 Willpower",
-    "Text_FR": "Gain +2 Attack; \nlose 1 Willpower"
+    "Text_FR": "Gagnez +2 en Attaque, \nperdez 1 en Volonté."
   },
   {
     "Id": "C_BLADEOFGONDOLIN_TITLE",
     "Text": "Blade of Gondolin",
     "Text_CN": "0",
-    "Text_FR": "Blade of Gondolin"
+    "Text_FR": "Lame de Gondolin"
   },
   {
     "Id": "C_BLOCKEDPATH_FLAVOR",
@@ -4683,7 +4683,7 @@
     "Id": "C_BLOCKEDPATH_TEXT",
     "Text": "You cannot engage other Objectives",
     "Text_CN": "无法从此前往其他目标。",
-    "Text_FR": "You cannot engage other Objectives"
+    "Text_FR": "Vous ne pouvez pas participer à d'autres objectifs"
   },
   {
     "Id": "C_BLOCKEDPATH_TITLE",
@@ -4809,7 +4809,7 @@
     "Id": "C_CHIEFTAINUFTHAK_TEXT",
     "Text": "<b>Pursuit</b>. End of round: Add 1 \n<i>Dol Guldur Orcs</i>",
     "Text_CN": "追逐。轮次结束：添加1位多尔哥多兽人，且无需花费成本。",
-    "Text_FR": "Poursuite. Fin du tour : ajoutez 1 x Orques de Dol Guldur au coût de 0."
+    "Text_FR": "<b>Poursuite</b>. Fin du tour : ajoutez 1 \n<i>Orques de Dol Guldur</i>"
   },
   {
     "Id": "C_CHIEFTAINUFTHAK_TITLE",
@@ -4827,7 +4827,7 @@
     "Id": "C_CLIMBTHEHILL_TEXT",
     "Text": "Travel immediately to \n<i>Bare Hilltop</i>",
     "Text_CN": "Travel immediately to \n<i>Bare Hilltop</i>",
-    "Text_FR": "Travel immediately to \n<i>Bare Hilltop</i>"
+    "Text_FR": "Voyagez immédiatement jusqu'à la \n<i>Colline dénudée</i>"
   },
   {
     "Id": "C_CLIMBTHEHILL_TITLE",
@@ -4881,7 +4881,7 @@
     "Id": "C_CONTINUEDOWNSTREAM_TEXT",
     "Text": "Travel immediately to\n<i>Mirkwood Swamp</i>",
     "Text_CN": "结算：立刻前往幽暗密林沼泽。",
-    "Text_FR": "Résolution : voyagez immédiatement jusqu'au Marais de la Forêt Noire."
+    "Text_FR": "Voyagez immédiatement jusqu'au\n<i>Marais de la Forêt Noire</i>"
   },
   {
     "Id": "C_CONTINUEDOWNSTREAM_TITLE",
@@ -4899,7 +4899,7 @@
     "Id": "C_CREATUREOFDARKNESS_TEXT",
     "Text": "End of round: Gain +1 Threat",
     "Text_CN": "装备（敌人）：获得关键词『强力威胁』。",
-    "Text_FR": "Attacher (Ennemi) : gagnez Menaçant."
+    "Text_FR": "Fin de tour : gagnez +1 en Menace"
   },
   {
     "Id": "C_CREATUREOFDARKNESS_TITLE",
@@ -4917,7 +4917,7 @@
     "Id": "C_DARKSORCERY_TEXT",
     "Text": "Cancel the next Event played",
     "Text_CN": "蓄势：取消玩家打出的下一张事件牌的效果。",
-    "Text_FR": "Prép : annulez le prochain événement joueur."
+    "Text_FR": "Annulez le prochain événement joueur."
   },
   {
     "Id": "C_DARKSORCERY_TITLE",
@@ -4953,7 +4953,7 @@
     "Id": "C_DESPAIR_TEXT",
     "Text": "After being attacked, \ngain +1 Threat",
     "Text_CN": "装备（敌人）：在人物发动攻击后为目标增加1点威胁。",
-    "Text_FR": "Attacher (Ennemi) : après l'attaque du personnage, augmentez de 1 le niveau de Menace de la cible."
+    "Text_FR": "Après avoir subi une attaque, \ngagnez +1 en Menace"
   },
   {
     "Id": "C_DESPAIR_TITLE",
@@ -4989,7 +4989,7 @@
     "Id": "C_DOLGULDURORCS_TEXT",
     "Text": "<b>Guard</b>",
     "Text_CN": "哨兵。",
-    "Text_FR": "Sentinelle."
+    "Text_FR": "<b>Garde</b>"
   },
   {
     "Id": "C_DOLGULDURORCS_TITLE",
@@ -5007,7 +5007,7 @@
     "Id": "C_DRIVENBYSHADOW_TEXT",
     "Text": "Gain +2 Attack",
     "Text_CN": "装备（敌人）：攻击+2。",
-    "Text_FR": "Attacher (Ennemi) : gagnez +2 en Attaque."
+    "Text_FR": "Gagnez +2 en Attaque"
   },
   {
     "Id": "C_DRIVENBYSHADOW_TITLE",
@@ -5035,15 +5035,21 @@
   },
   {
     "Id": "C_DWARVENAXE_FLAVOR",
-    "Text": "Beside them Gimli stood with his stout legs apart, wielding his dwarf-axe.\n—<i>The Fellowship of the Ring</i>"
+    "Text": "Beside them Gimli stood with his stout legs apart, wielding his dwarf-axe.\n—<i>The Fellowship of the Ring</i>",
+    "Text_CN": "C_DWARVENAXE_FLAVOR",
+    "Text_FR": "C_DWARVENAXE_FLAVOR"
   },
   {
     "Id": "C_DWARVENAXE_TEXT",
-    "Text": "Gain +1 Attack; or\ngain +2 Attack if the Character\nis a Dwarf"
+    "Text": "Gain +1 Attack; or\ngain +2 Attack if the Character\nis a Dwarf",
+    "Text_CN": "C_DWARVENAXE_TEXT",
+    "Text_FR": "C_DWARVENAXE_TEXT"
   },
   {
     "Id": "C_DWARVENAXE_TITLE",
-    "Text": "Dwarven Axe"
+    "Text": "Dwarven Axe",
+    "Text_CN": "Dwarven Axe",
+    "Text_FR": "Dwarven Axe"
   },
   {
     "Id": "C_DWAVENAXE_FLAVOR",
@@ -5073,7 +5079,7 @@
     "Id": "C_EASTBIGHTPATROL_TEXT",
     "Text": "",
     "Text_CN": "",
-    "Text_FR": ""
+    "Text_FR": "0"
   },
   {
     "Id": "C_EASTBIGHTPATROL_TITLE",
@@ -5091,7 +5097,7 @@
     "Id": "C_ELITEDOLGULDURORCS_TEXT",
     "Text": "<b>Surge</b>",
     "Text_CN": "警惕。",
-    "Text_FR": "Vigilant."
+    "Text_FR": "<b>Ruée</b>"
   },
   {
     "Id": "C_ELITEDOLGULDURORCS_TITLE",
@@ -5127,7 +5133,7 @@
     "Id": "C_ELRONDSCOUNSEL_TEXT",
     "Text": "Lose 2 Threat",
     "Text_CN": "令威胁降低2点。 ",
-    "Text_FR": "Réduit de 2 votre niveau de Menace. "
+    "Text_FR": "Perdez 2 en Menace"
   },
   {
     "Id": "C_ELRONDSCOUNSEL_TITLE",
@@ -5139,7 +5145,7 @@
     "Id": "C_ELVENSCOUT_TEXT",
     "Text": "<b>Ranged</b>",
     "Text_CN": "远程。",
-    "Text_FR": "À distance."
+    "Text_FR": "<b>À distance</b>"
   },
   {
     "Id": "C_ELVENSCOUT_TITLE",
@@ -5157,7 +5163,7 @@
     "Id": "C_ENFEEBLED_TEXT",
     "Text": "Deal 1 damage to each \nexhausted Character",
     "Text_CN": "对玩家的每位行动完毕的人物造成1点伤害。",
-    "Text_FR": "Infligez 1 point de dégâts à chaque personnage de joueur Épuisé."
+    "Text_FR": "Infligez 1 point de dégâts à chaque \npersonnage Épuisé"
   },
   {
     "Id": "C_ENFEEBLED_TITLE",
@@ -5175,7 +5181,7 @@
     "Id": "C_EOWYN_TEXT",
     "Text": "Gain +2 Willpower this round after the first Character is damaged",
     "Text_CN": "每轮首次有人物被击败时，伊欧玟意志力+2，持续至轮次结束。",
-    "Text_FR": "Après le 1er personnage vaincu chaque tour, Éowyn gagne +2 en Volonté jusqu'à la fin du tour."
+    "Text_FR": "Gagnez +2 en Volonté pendant ce tour après que le premier personnage a subi des dégâts."
   },
   {
     "Id": "C_EOWYN_TITLE",
@@ -5193,7 +5199,7 @@
     "Id": "C_ERKENBRAND_TEXT",
     "Text": "<b>Block</b>. <b>Guard</b>",
     "Text_CN": "格挡。哨兵 ",
-    "Text_FR": "Blocage. Sentinelle. "
+    "Text_FR": "<b>Blocage</b>. <b>Garde</b>"
   },
   {
     "Id": "C_ERKENBRAND_TITLE",
@@ -5247,7 +5253,7 @@
     "Id": "C_ESCORTFROMEDORAS_TEXT",
     "Text": "<b>Revenge</b>: Ready a Character",
     "Text_CN": "临终：令你控制的一位人物重新就绪。",
-    "Text_FR": "Moribond : préparez un personnage que vous contrôlez."
+    "Text_FR": "<b>Vengeance</b> : préparez un personnage"
   },
   {
     "Id": "C_ESCORTFROMEDORAS_TITLE",
@@ -5301,7 +5307,7 @@
     "Id": "C_EXHAUSTION_TEXT",
     "Text": "Exhaust all wounded Characters",
     "Text_CN": "令玩家的所有受伤的人物进入行动完毕状态。",
-    "Text_FR": "Tous les personnages de joueurs blessés sont Épuisés."
+    "Text_FR": "Tous les personnages blessés sont Épuisés."
   },
   {
     "Id": "C_EXHAUSTION_TITLE",
@@ -5337,7 +5343,7 @@
     "Id": "C_EYESOFTHEFOREST_TEXT",
     "Text": "Sauron gains +1 Resource \nfor each Ally",
     "Text_CN": "场上每存在1名盟友，索隆便会获得1点资源。",
-    "Text_FR": "Sauron gagne 1 ressource pour chaque allié en jeu."
+    "Text_FR": "Sauron gagne +1 ressource \npour chaque allié"
   },
   {
     "Id": "C_EYESOFTHEFOREST_TITLE",
@@ -5355,7 +5361,7 @@
     "Id": "C_FARAMIR_TEXT",
     "Text": "<b>Ranged</b>. <b>Vanquish</b>: \nDraw 1 card",
     "Text_CN": "<b>Ranged</b>. <b>Vanquish</b>: \nDraw 1 card",
-    "Text_FR": "<b>Ranged</b>. <b>Vanquish</b>: \nDraw 1 card"
+    "Text_FR": "<b>À distance</b>. <b>Vainqueur</b> : \npiochez 1 carte."
   },
   {
     "Id": "C_FARAMIR_TITLE",
@@ -5373,7 +5379,7 @@
     "Id": "C_FAVOROFTHELADY_TEXT",
     "Text": "Gain +1 Willpower",
     "Text_CN": "装备：意志力+1。",
-    "Text_FR": "Attacher : gagnez +1 en Volonté."
+    "Text_FR": "Gagnez +1 en Volonté."
   },
   {
     "Id": "C_FAVOROFTHELADY_TITLE",
@@ -5409,7 +5415,7 @@
     "Id": "C_FEINT_TEXT",
     "Text": "Reduce a non-unique Enemy to 0 Attack this round",
     "Text_CN": "令一名不唯一的敌人攻击力降至0点，持续至轮次结束。",
-    "Text_FR": "Réduisez à 0 l'Attaque d'un ennemi non-unique jusqu'à la fin du tour."
+    "Text_FR": "Réduisez à 0 l'Attaque d'un ennemi non-unique pendant ce tour."
   },
   {
     "Id": "C_FEINT_TITLE",
@@ -5535,7 +5541,7 @@
     "Id": "C_FOLLOWTHESTREAM_TEXT",
     "Text": "Travel immediately to \n<i>Forest Stream</i>",
     "Text_CN": "Travel immediately to \n<i>Forest Stream</i>",
-    "Text_FR": "Travel immediately to \n<i>Forest Stream</i>"
+    "Text_FR": "Voyagez immédiatement jusqu'au \n<i>Ruisseau forestier</i>"
   },
   {
     "Id": "C_FOLLOWTHESTREAM_TITLE",
@@ -5595,13 +5601,13 @@
     "Id": "C_FREETOCHOOSE_TEXT",
     "Text": "<b>Power</b>: Lose 2 Threat",
     "Text_CN": "0",
-    "Text_FR": "<b>Power</b>: Lose 2 Threat"
+    "Text_FR": "<b>Pouvoir</b> : perdez 2 en Menace"
   },
   {
     "Id": "C_FREETOCHOOSE_TITLE",
     "Text": "Free to Choose",
     "Text_CN": "0",
-    "Text_FR": "Free to Choose"
+    "Text_FR": "Libre de choisir"
   },
   {
     "Id": "C_FRODO_FLAVOR",
@@ -5613,13 +5619,13 @@
     "Id": "C_FRODO_TEXT",
     "Text": "<b>Stealth</b>. Gain +2 Willpower while Sauron has 0 Resources",
     "Text_CN": "潜行。当索隆的资源为0时，弗罗多意志力+2。",
-    "Text_FR": "Furtif. Tant que Sauron a 0 ressource, Frodon gagne +2 en Volonté."
+    "Text_FR": "<b>Furtif</b>. Tant que Sauron a 0 ressource, gagnez +2 en Volonté."
   },
   {
     "Id": "C_FRODO_TITLE",
     "Text": "‰Frodo   ",
     "Text_CN": "‰Frodo   ",
-    "Text_FR": "‰Frodo   "
+    "Text_FR": "‰Frodon   "
   },
   {
     "Id": "C_GAININGSTRENGTH_FLAVOR",
@@ -5631,7 +5637,7 @@
     "Id": "C_GAININGSTRENGTH_TEXT",
     "Text": "Gain +1 Resource",
     "Text_CN": "获得1点资源。",
-    "Text_FR": "Gagnez 1 ressource."
+    "Text_FR": "Gagnez +1 ressource"
   },
   {
     "Id": "C_GAININGSTRENGTH_TITLE",
@@ -5649,7 +5655,7 @@
     "Id": "C_GALADHONARCHER_TEXT",
     "Text": "<b>Ranged</b>. <b>Arrival</b>:\nDeal 1 damage",
     "Text_CN": "远程。登场：对一名敌人造成1点伤害。",
-    "Text_FR": "À distance. Arrivée : infligez 1 point de dégâts à un ennemi."
+    "Text_FR": "<b>À distance</b>. <b>Arrivée</b> : infligez 1 point de dégâts"
   },
   {
     "Id": "C_GALADHONARCHER_TITLE",
@@ -5667,7 +5673,7 @@
     "Id": "C_GALADRIELSHANDMAIDEN_TEXT",
     "Text": "<b>Arrival</b>: Lose 1 Threat",
     "Text_CN": "登场：令威胁降低1点。",
-    "Text_FR": "Arrivée : réduit de 1 votre niveau de Menace."
+    "Text_FR": "<b>Arrivée</b> : perdez 1 en Menace"
   },
   {
     "Id": "C_GALADRIELSHANDMAIDEN_TITLE",
@@ -5685,25 +5691,25 @@
     "Id": "C_GANDALF_TEXT",
     "Text": "<b>Fleeting</b>. <b>Arrival</b> <b>(choose)</b>:\nDraw 3 cards; lose 3 Threat;\nor deal 3 damage",
     "Text_CN": "一闪而过。登场（选择）：抽取3张卡牌；令威胁降低3点；或对一名敌人造成3点伤害。",
-    "Text_FR": "Fugacité. Arrivée (Choix) : piochez 3 cartes, niveau de Menace -3, ou infligez 3 points de dégâts à un ennemi."
+    "Text_FR": "<b>Fugacité</b>. <b>Arrivée<b> (<b>Choix</b>) : piochez 3 cartes, perdez 3 en Menace ou infligez 3 points de dégâts"
   },
   {
     "Id": "C_GANDALF_TITLE",
     "Text": "‰Gandalf",
     "Text_CN": "甘道夫",
-    "Text_FR": "Gandalf"
+    "Text_FR": "‰Gandalf"
   },
   {
     "Id": "C_GANDALFSSEARCH_TEXT",
     "Text": "Draw 2 cards",
     "Text_CN": "0",
-    "Text_FR": "Action: Draw 2 cards."
+    "Text_FR": "Piochez 2 cartes"
   },
   {
     "Id": "C_GANDALFSSEARCH_TITLE",
     "Text": "Gandalf's Search",
     "Text_CN": "0",
-    "Text_FR": "Gandalf's Search"
+    "Text_FR": "Les recherches de Gandalf"
   },
   {
     "Id": "C_GATHERINGGLOOM_FLAVOR",
@@ -5715,7 +5721,7 @@
     "Id": "C_GATHERINGGLOOM_TEXT",
     "Text": "Reduce each Ally to \n0 Willpower this round",
     "Text_CN": "Reduce each Ally to \n0 Willpower this round",
-    "Text_FR": "Reduce each Ally to \n0 Willpower this round"
+    "Text_FR": "Réduisez à 0 la Volonté \nde chaque allié pendant ce tour"
   },
   {
     "Id": "C_GATHERINGGLOOM_TITLE",
@@ -5733,7 +5739,7 @@
     "Id": "C_GHANBURIGHAN_TEXT",
     "Text": "<b>Stealth</b>. Gain +<u>X</u> Willpower \n(<u>X</u> equals Objectives in play)",
     "Text_CN": "<b>Stealth</b>. Gain +<u>X</u> Willpower \n(<u>X</u> equals Objectives in play)",
-    "Text_FR": "<b>Stealth</b>. Gain +<u>X</u> Willpower \n(<u>X</u> equals Objectives in play)"
+    "Text_FR": "<b>Furtif</b>. Gagnez +<u>X</u> en Volonté \n(<u>X</u> est égal au nombre d'objectifs en jeu)"
   },
   {
     "Id": "C_GHANBURIGHAN_TITLE",
@@ -5769,7 +5775,7 @@
     "Id": "C_GIANTMARSHWORM_TEXT",
     "Text": "<b>Stalwart</b>. <b>Surge</b>. \nGain +1 Threat when\n<i>Giant Marsh Worm</i> attacks",
     "Text_CN": "<b>Stalwart</b>. <b>Surge</b>. \nGain +1 Threat when\n<i>Giant Marsh Worm</i> attacks",
-    "Text_FR": "<b>Stalwart</b>. <b>Surge</b>. \nGain +1 Threat when\n<i>Giant Marsh Worm</i> attacks"
+    "Text_FR": "<b>Loyal</b>. <b>Ruée</b>. \nGagnez +1 en menace quand le\n<i>Ver géant des marais</i> attaque"
   },
   {
     "Id": "C_GIANTMARSHWORM_TITLE",
@@ -5787,7 +5793,7 @@
     "Id": "C_GIANTSPIDER_TEXT",
     "Text": "<b>Guard</b>",
     "Text_CN": "哨兵。",
-    "Text_FR": "Sentinelle."
+    "Text_FR": "<b>Garde</b>"
   },
   {
     "Id": "C_GIANTSPIDER_TITLE",
@@ -5805,7 +5811,7 @@
     "Id": "C_GIMLI_TEXT",
     "Text": "<b>Stalwart</b>. Gain +2 Attack this round after taking damage",
     "Text_CN": "强壮。当受到伤害时，金雳攻击+2，持续至轮次结束。",
-    "Text_FR": "Loyal. Lorsque Gimli subit des points de dégâts, il gagne +2 en Attaque jusqu'à la fin du tour."
+    "Text_FR": "<b>Loyal</b>. Gagnez +2 en Attaque pendant ce tour après avoir subi des dégâts"
   },
   {
     "Id": "C_GIMLI_TITLE",
@@ -5823,7 +5829,7 @@
     "Id": "C_GOBLINSNIPER_TEXT",
     "Text": "<b>Ranged</b>. <b>Stealth</b>. <b>Upkeep</b>: \nDeal 1 damage to a random Character",
     "Text_CN": "<b>Ranged</b>. <b>Stealth</b>. <b>Upkeep</b>: \nDeal 1 damage to a random Character",
-    "Text_FR": "<b>Ranged</b>. <b>Stealth</b>. <b>Upkeep</b>: \nDeal 1 damage to a random Character"
+    "Text_FR": "<b>À distance</b>. <b>Furtif</b>. <b>Entretien</b> : \ninfligez 1 point de dégâts à un personnage aléatoire"
   },
   {
     "Id": "C_GOBLINSNIPER_TITLE",
@@ -5859,13 +5865,13 @@
     "Id": "C_GREEDYFINGERS_TEXT",
     "Text": "Discard a random Hero's Attachment",
     "Text_CN": "摧毁一位英雄的一件随机装备。",
-    "Text_FR": "Détruisez un attachement aléatoire sur un héros."
+    "Text_FR": "Défaussez aléatoirement un attachement du héros"
   },
   {
     "Id": "C_GREEDYFINGERS_TITLE",
     "Text": "Greedy Fingers",
     "Text_CN": "吞没",
-    "Text_FR": "Dévoré"
+    "Text_FR": "Poigne avide"
   },
   {
     "Id": "C_GRIMBEORN_TEXT",
@@ -5889,7 +5895,7 @@
     "Id": "C_GROWINGDARKNESS_TEXT",
     "Text": "<b>Upkeep</b>: Sauron gains \n+1 Resource",
     "Text_CN": "<b>Upkeep</b>: Sauron gains \n+1 Resource",
-    "Text_FR": "<b>Upkeep</b>: Sauron gains \n+1 Resource"
+    "Text_FR": "<b>Entretien</b> : Sauron gagne \n+1 ressource"
   },
   {
     "Id": "C_GROWINGDARKNESS_TITLE",
@@ -5907,7 +5913,7 @@
     "Id": "C_GUARDOFTHECITADEL_TEXT",
     "Text": "<b>Guard</b>",
     "Text_CN": "哨兵。",
-    "Text_FR": "Sentinelle."
+    "Text_FR": "<b>Garde</b>"
   },
   {
     "Id": "C_GUARDOFTHECITADEL_TITLE",
@@ -5997,7 +6003,7 @@
     "Id": "C_HIDDENCACHE_TEXT",
     "Text": "Gain +1 Resource",
     "Text_CN": "获得1点资源。",
-    "Text_FR": "Gagnez 1 ressource."
+    "Text_FR": "Gagnez +1 ressource"
   },
   {
     "Id": "C_HIDDENCACHE_TITLE",
@@ -6069,7 +6075,7 @@
     "Id": "C_HOBBITCLOAK_TEXT",
     "Text": "(Hobbits only.) \n<b>Upkeep</b>: Gain <b>Stealth</b>\nthis round (50% chance)",
     "Text_CN": "(Hobbits only.) \n<b>Upkeep</b>: Gain <b>Stealth</b>\nthis round (50% chance)",
-    "Text_FR": "(Hobbits only.) \n<b>Upkeep</b>: Gain <b>Stealth</b>\nthis round (50% chance)"
+    "Text_FR": "(Hobbits uniquement) \n<b>Entretien</b> : gagnez <b>Furtif</b>\npendant ce tour (50 % de chances)"
   },
   {
     "Id": "C_HOBBITCLOAK_TITLE",
@@ -6105,7 +6111,7 @@
     "Id": "C_HUMMERHORNS_TEXT",
     "Text": "End of round: Add 1 <i>Hummerhorns</i>",
     "Text_CN": "End of round: Add 1 <i>Hummerhorns</i>",
-    "Text_FR": "End of round: Add 1 <i>Hummerhorns</i>"
+    "Text_FR": "Fin du tour : ajoutez 1 <i>Vrombicornes</i>"
   },
   {
     "Id": "C_HUMMERHORNS_TITLE",
@@ -6141,7 +6147,7 @@
     "Id": "C_IMLADRISCAREGIVER_TEXT",
     "Text": "<b>Arrival</b>: Restore 2 Health\nto a Character",
     "Text_CN": "登场：为一位人物治愈2点伤害。",
-    "Text_FR": "Arrivée : soignez 2 points de dégâts d'un personnage."
+    "Text_FR": "<b>Arrivée</b> : restaurez 2 points de vie à un personnage"
   },
   {
     "Id": "C_IMLADRISCAREGIVER_TITLE",
@@ -6159,7 +6165,7 @@
     "Id": "C_INVESTIGATESMOKE_TEXT",
     "Text": "Travel immediately to\n<i>Abandoned Village</i>",
     "Text_CN": "结算：立刻前往废弃村庄。",
-    "Text_FR": "Résolution : voyagez immédiatement jusqu'au Village abandonné."
+    "Text_FR": "Voyagez immédiatement jusqu'au\n<i>Village abandonné</i>"
   },
   {
     "Id": "C_INVESTIGATESMOKE_TITLE",
@@ -6195,7 +6201,7 @@
     "Id": "C_ITHILIENLOOKOUT_TEXT",
     "Text": "",
     "Text_CN": "",
-    "Text_FR": ""
+    "Text_FR": "0"
   },
   {
     "Id": "C_ITHILIENLOOKOUT_TITLE",
@@ -6231,7 +6237,7 @@
     "Id": "C_KINGSPIDER_TEXT",
     "Text": "",
     "Text_CN": "",
-    "Text_FR": ""
+    "Text_FR": "0"
   },
   {
     "Id": "C_KINGSPIDER_TITLE",
@@ -6267,7 +6273,7 @@
     "Id": "C_LEGACYBLADE_TEXT",
     "Text": "Gain +1 Attack for each Resource in your pool (limit +3)",
     "Text_CN": "装备：玩家每有1点资源则攻击+1（至多攻击+3）。",
-    "Text_FR": "Attacher : gagnez +1 en Attaque pour chaque ressource dans votre réserve (limite de +3 en Attaque)."
+    "Text_FR": "Gagnez +1 en Attaque pour chaque ressource dans votre réserve (limite de +3)."
   },
   {
     "Id": "C_LEGACYBLADE_TITLE",
@@ -6285,7 +6291,7 @@
     "Id": "C_LEGOLAS_TEXT",
     "Text": "<b>Ranged</b>. <b>Upkeep</b>: Deal 1 damage",
     "Text_CN": "<b>Ranged</b>. <b>Upkeep</b>: Deal 1 damage",
-    "Text_FR": "<b>Ranged</b>. <b>Upkeep</b>: Deal 1 damage"
+    "Text_FR": "<b>À distance</b>. <b>Entretien</b> : infligez 1 point de dégâts"
   },
   {
     "Id": "C_LEGOLAS_TITLE",
@@ -6339,7 +6345,7 @@
     "Id": "C_LORIENSWEALTH_TEXT",
     "Text": "Draw 2 cards",
     "Text_CN": "摸取2张卡牌。",
-    "Text_FR": "Piochez 2 cartes."
+    "Text_FR": "Piochez 2 cartes"
   },
   {
     "Id": "C_LORIENSWEALTH_TITLE",
@@ -6393,7 +6399,7 @@
     "Id": "C_LOWONSUPPLIES_TEXT",
     "Text": "Gain +1 Threat each time\nyou play a card",
     "Text_CN": "强制：当玩家打出卡牌后，此玩家的威胁值增加1点。",
-    "Text_FR": "Forcé : lorsqu'un joueur joue une carte, son niveau de Menace augmente de 1."
+    "Text_FR": "Gagnez +1 en Menace à chaque fois\nque vous jouez une carte"
   },
   {
     "Id": "C_LOWONSUPPLIES_TITLE",
@@ -6411,7 +6417,7 @@
     "Id": "C_MABLUNG_TEXT",
     "Text": "<b>Ranged</b>. <b>Arrival</b>: Exhaust a\nnon-unique Enemy",
     "Text_CN": "远程。登场：令一名不唯一的敌人立刻进入行动完毕状态。",
-    "Text_FR": "À distance. Arrivée : épuisez un ennemi non-unique."
+    "Text_FR": "<b>À distance</b>. <b>Arrivée</b> : épuisez un ennemi non-unique."
   },
   {
     "Id": "C_MABLUNG_TITLE",
@@ -6465,7 +6471,7 @@
     "Id": "C_MIRKWOODFLOCK_TEXT",
     "Text": "<b>Revenge</b>: Sauron gains \n+1 Resource",
     "Text_CN": "<b>Revenge</b>: Sauron gains \n+1 Resource",
-    "Text_FR": "<b>Revenge</b>: Sauron gains \n+1 Resource"
+    "Text_FR": "<b>Vengeance</b> : Sauron gagne \n+1 ressource"
   },
   {
     "Id": "C_MIRKWOODFLOCK_TITLE",
@@ -6483,7 +6489,7 @@
     "Id": "C_MIRKWOODPATROL_TEXT",
     "Text": "<b>Guard</b>",
     "Text_CN": "哨兵。",
-    "Text_FR": "Sentinelle."
+    "Text_FR": "<b>Garde</b>"
   },
   {
     "Id": "C_MIRKWOODPATROL_TITLE",
@@ -6501,7 +6507,7 @@
     "Id": "C_MITHRANDIRSADVICE_TEXT",
     "Text": "Draw 2 cards",
     "Text_CN": "摸取2张卡牌。",
-    "Text_FR": "Piochez 2 cartes."
+    "Text_FR": "Piochez 2 cartes"
   },
   {
     "Id": "C_MITHRANDIRSADVICE_TITLE",
@@ -6537,7 +6543,7 @@
     "Id": "C_MUCKADDER_TEXT",
     "Text": "<b>Ambush</b>. <i>Muck Adder</i> attacks\n the Character with the lowest current Health\n",
     "Text_CN": "先攻。淤泥蝰蛇会攻击玩家手中当前生命值最低的人物。",
-    "Text_FR": "Initiative. La Vipère de fange attaque le personnage avec le moins de points de vie."
+    "Text_FR": "<b>Embuscade</b>. La <i>Vipère de fange</i> attaque\n le personnage avec le moins de points de vie\n"
   },
   {
     "Id": "C_MUCKADDER_TITLE",
@@ -6573,7 +6579,7 @@
     "Id": "C_ORCBEASTMASTER_TEXT",
     "Text": "<b>Arrival</b>: Add 1 <i>Orc Hound</i>",
     "Text_CN": "登场：添加1头兽人猎犬，且无需花费成本。",
-    "Text_FR": "Arrivée : ajoutez 1 x Limier orque au coût de 0."
+    "Text_FR": "<b>Arrivée</b> : ajoutez 1 <i>Limier orque</i>"
   },
   {
     "Id": "C_ORCBEASTMASTER_TITLE",
@@ -6591,7 +6597,7 @@
     "Id": "C_ORCHOUND_TEXT",
     "Text": "<b>Pursuit</b>. Each Orc gains <b>Pursuit</b>",
     "Text_CN": "追逐。所有兽人获得关键词『追逐』。",
-    "Text_FR": "Poursuite. Chaque orque gagne Poursuite."
+    "Text_FR": "<b>Poursuite</b>. Chaque orque gagne <b>Poursuite</b>"
   },
   {
     "Id": "C_ORCHOUND_TITLE",
@@ -6609,7 +6615,7 @@
     "Id": "C_ORCMARAUDER_TEXT",
     "Text": "When <i>Orc Marauder</i> attacks, Sauron gains +1 Resource",
     "Text_CN": "强制：当兽人掠夺者攻击时，索隆获得1点资源。",
-    "Text_FR": "Forcé : lorsqu'un Maraudeur orque attaque, Sauron gagne 1 ressource."
+    "Text_FR": "Lorsqu'un <i>Maraudeur orque</i> attaque, Sauron gagne +1 ressource"
   },
   {
     "Id": "C_ORCMARAUDER_TITLE",
@@ -6627,7 +6633,7 @@
     "Id": "C_PACKOFWARGS_TEXT",
     "Text": "<b>Pursuit</b>. <b>Upkeep</b>: <i>Pack of Wargs</i> gains +1 Health",
     "Text_CN": "追逐。休整：座狼群生命+1。",
-    "Text_FR": "Poursuite. Entretien : la Meute de wargs gagne +1 point de vie."
+    "Text_FR": "<b>Poursuite</b>. <b>Entretien</b> : la <i>Meute de wargs</i> gagne +1 point de vie"
   },
   {
     "Id": "C_PACKOFWARGS_TITLE",
@@ -6645,13 +6651,13 @@
     "Id": "C_PARTINGGIFTS_TEXT",
     "Text": "Gain +1 Resource",
     "Text_CN": "获得1点资源。",
-    "Text_FR": "Gagnez 1 ressource."
+    "Text_FR": "Gagnez +1 ressource"
   },
   {
     "Id": "C_PARTINGGIFTS_TITLE",
     "Text": "Parting Gifts",
     "Text_CN": "0",
-    "Text_FR": "Parting Gifts"
+    "Text_FR": "Cadeaux d'adieu"
   },
   {
     "Id": "C_POISONEDBYSPIDERS_FLAVOR",
@@ -6681,7 +6687,7 @@
     "Id": "C_PURSUEDBYSHADOW_TEXT",
     "Text": "Exhaust the next Ally that\nenters play",
     "Text_CN": "蓄势：下个进入游戏的盟友会立刻进入行动完毕状态。",
-    "Text_FR": "Prép : épuisez le prochain allié qui entre en jeu."
+    "Text_FR": "Épuisez le prochain allié qui\nentre en jeu."
   },
   {
     "Id": "C_PURSUEDBYSHADOW_TITLE",
@@ -6897,7 +6903,7 @@
     "Id": "C_RESCUETHEHORSES_TEXT",
     "Text": "Each player gains +2 Resources",
     "Text_CN": "结算：每名玩家获得2点资源。",
-    "Text_FR": "Résolution : chaque joueur gagne 2 ressources."
+    "Text_FR": "Chaque joueur gagne +2 ressources"
   },
   {
     "Id": "C_RESCUETHEHORSES_TITLE",
@@ -7023,13 +7029,13 @@
     "Id": "C_ROHIRRIMLANCER_TEXT",
     "Text": "<b>Ranged</b>. Deal +1 damage when attacking",
     "Text_CN": "<b>Ranged</b>. Deal +1 damage when attacking",
-    "Text_FR": "<b>Ranged</b>. Deal +1 damage when attacking"
+    "Text_FR": "<b>À distance</b>. Infligez +1 point de dégâts en attaquant"
   },
   {
     "Id": "C_ROHIRRIMLANCER_TITLE",
     "Text": "Rohirrim Lancer",
     "Text_CN": "骑乘射手",
-    "Text_FR": "Archer à cheval"
+    "Text_FR": "Lancier Rohirrim"
   },
   {
     "Id": "C_ROUNDSHIELD_FLAVOR",
@@ -7041,7 +7047,7 @@
     "Id": "C_ROUNDSHIELD_TEXT",
     "Text": "Gain <b>Block</b>",
     "Text_CN": "装备：获得关键词『格挡』。",
-    "Text_FR": "Attacher : gagnez Blocage."
+    "Text_FR": "Gagnez <b>Blocage</b>"
   },
   {
     "Id": "C_ROUNDSHIELD_TITLE",
@@ -7095,13 +7101,13 @@
     "Id": "C_SAMGAMGEE_TEXT",
     "Text": "<b>Stalwart</b>. Gain +1 Attack \nand <b>Surge</b> when Sauron has \n0 Resources",
     "Text_CN": "<b>Stalwart</b>. Gain +1 Attack \nand <b>Surge</b> when Sauron has \n0 Resources",
-    "Text_FR": "<b>Stalwart</b>. Gain +1 Attack \nand <b>Surge</b> when Sauron has \n0 Resources"
+    "Text_FR": "<b>Loyal</b>. Gagnez +1 en Attaque \net <b>Ruée</b> tant que Sauron a \n0 ressource"
   },
   {
     "Id": "C_SAMGAMGEE_TITLE",
     "Text": "‰Sam Gamgee ",
     "Text_CN": "‰Sam Gamgee ",
-    "Text_FR": "‰Sam Gamgee "
+    "Text_FR": "‰Sam Gamegie "
   },
   {
     "Id": "C_SEARCHFORAPATH_FLAVOR",
@@ -7113,7 +7119,7 @@
     "Id": "C_SEARCHFORAPATH_TEXT",
     "Text": "Travel immediately to\n<i>Overgrown Trail</i>",
     "Text_CN": "结算：立刻前往林蔓小径。",
-    "Text_FR": "Résolution : voyagez immédiatement jusqu'au Sentier abandonné."
+    "Text_FR": "Voyagez immédiatement jusqu'au\n<i>Sentier abandonné</i>"
   },
   {
     "Id": "C_SEARCHFORAPATH_TITLE",
@@ -7143,7 +7149,7 @@
     "Id": "C_SECRETPATHS_TEXT",
     "Text": "Apply 2 progress",
     "Text_CN": "令一个目标获得2点进度。",
-    "Text_FR": "Appliquez 2 en progression à un objectif."
+    "Text_FR": "Appliquez 2 en Progression"
   },
   {
     "Id": "C_SECRETPATHS_TITLE",
@@ -7161,7 +7167,7 @@
     "Id": "C_SELFPRESERVATION_TEXT",
     "Text": "<b>Upkeep</b>: Restore 1 Health",
     "Text_CN": "休整：为一位人物治愈1点伤害。",
-    "Text_FR": "Entretien : soignez 1 point de dégâts d'un personnage."
+    "Text_FR": "<b>Entretien</b> : restaurez 1 point de vie"
   },
   {
     "Id": "C_SELFPRESERVATION_TITLE",
@@ -7197,7 +7203,7 @@
     "Id": "C_SILVANTRACKER_TEXT",
     "Text": "<b>Arrival</b>: Give a Character\n<b>Stealth</b> this round",
     "Text_CN": "登场：令一位人物获得关键词『潜行』，持续至轮次结束。",
-    "Text_FR": "Arrivée : choisissez un personnage. Il gagne Furtif jusqu'à la fin du tour."
+    "Text_FR": "<b>Arrivée</b> : accorde <b>Furtif</b> à un personnage pendant ce tour"
   },
   {
     "Id": "C_SILVANTRACKER_TITLE",
@@ -7215,7 +7221,7 @@
     "Id": "C_SNEAKATTACK_TEXT",
     "Text": "Play a random Ally.\nThat Ally gains <b>Fleeting</b>",
     "Text_CN": "令一位随机盟友登场为你效力。此盟友获得关键词『一闪而过』。",
-    "Text_FR": "Placez un allié aléatoire en jeu sous votre contrôle. Cet allié gagne Fugacité."
+    "Text_FR": "Jouez un allié aléatoire. Cet allié gagne <b>Fugacité</b>"
   },
   {
     "Id": "C_SNEAKATTACK_TITLE",
@@ -7299,7 +7305,7 @@
     "Id": "C_SPIDERSOFMIRKWOOD_TEXT",
     "Text": "",
     "Text_CN": "",
-    "Text_FR": ""
+    "Text_FR": "0"
   },
   {
     "Id": "C_SPIDERSOFMIRKWOOD_TITLE",
@@ -7317,13 +7323,13 @@
     "Id": "C_SPIESOFSHADOW_TEXT",
     "Text": "End of round: Gain +1 Threat",
     "Text_CN": "End of round: Gain +1 Threat",
-    "Text_FR": "End of round: Gain +1 Threat"
+    "Text_FR": "Fin de tour : gagnez +1 en Menace"
   },
   {
     "Id": "C_SPIESOFSHADOW_TITLE",
     "Text": "Spies of Shadow",
     "Text_CN": "Spies of Shadow",
-    "Text_FR": "Spies of Shadow"
+    "Text_FR": "Espions de l'ombre"
   },
   {
     "Id": "C_SPIKETRAP_FLAVOR",
@@ -7353,7 +7359,7 @@
     "Id": "C_SPOOKEDHORSES_TEXT",
     "Text": "Each player loses 2 Resources",
     "Text_CN": "每名玩家失去2点资源。",
-    "Text_FR": "Chaque joueur perd 2 ressources."
+    "Text_FR": "Chaque joueur perd 2 ressources"
   },
   {
     "Id": "C_SPOOKEDHORSES_TITLE",
@@ -7569,13 +7575,13 @@
     "Id": "C_THETREEPEOPLE_TEXT",
     "Text": "Return a Silvan Ally to your hand to play a random \nSilvan Ally",
     "Text_CN": "Return a Silvan Ally to your hand to play a random \nSilvan Ally",
-    "Text_FR": "Return a Silvan Ally to your hand to play a random \nSilvan Ally"
+    "Text_FR": "Récupérez un allié sylvain dans votre main pour jouer un \nallié sylvain aléatoire"
   },
   {
     "Id": "C_THETREEPEOPLE_TITLE",
     "Text": "The Tree People",
     "Text_CN": "林中住民",
-    "Text_FR": "Les gens des arbres"
+    "Text_FR": "Le peuple des arbres"
   },
   {
     "Id": "C_THICKWEBS_FLAVOR",
@@ -7587,7 +7593,7 @@
     "Id": "C_THICKWEBS_TEXT",
     "Text": "Each Ally that enters play is exhausted",
     "Text_CN": "强制：进入游戏的每名盟友都将立刻进入行动完毕状态。",
-    "Text_FR": "Forcé : chaque allié joué est immédiatement Épuisé."
+    "Text_FR": "Chaque allié joué est Épuisé"
   },
   {
     "Id": "C_THICKWEBS_TITLE",
@@ -7605,7 +7611,7 @@
     "Id": "C_TOMBOMBADIL_TEXT",
     "Text": "<b>Fleeting</b>. <b>Arrival</b>: Defeat \na non-unique Enemy",
     "Text_CN": "<b>Fleeting</b>. <b>Arrival</b>: Defeat \na non-unique Enemy",
-    "Text_FR": "<b>Fleeting</b>. <b>Arrival</b>: Defeat \na non-unique Enemy"
+    "Text_FR": "<b>Fugacité</b>. <b>Arrivée</b> : venez à bout \nd'un ennemi non-unique."
   },
   {
     "Id": "C_TOMBOMBADIL_TITLE",
@@ -7623,7 +7629,7 @@
     "Id": "C_TREACHEROUSFOG_TEXT",
     "Text": "After you play a card, lose a random card from your hand",
     "Text_CN": "蓄势：在一位玩家打出卡牌后，从他的手中随机弃置1张卡牌。",
-    "Text_FR": "Prép : lorsqu'un joueur joue une carte, défaussez 1 carte aléatoire de sa main."
+    "Text_FR": "Après avoir joué une carte, vous perdez une carte aléatoire de votre main"
   },
   {
     "Id": "C_TREACHEROUSFOG_TITLE",
@@ -7641,7 +7647,7 @@
     "Id": "C_TRIBULATION_TEXT",
     "Text": "Deal 1 damage to each Ally",
     "Text_CN": "对游戏中的每名盟友造成1点伤害。",
-    "Text_FR": "Infligez 1 point de dégâts à chaque allié en jeu."
+    "Text_FR": "Infligez 1 point de dégâts à chaque allié"
   },
   {
     "Id": "C_TRIBULATION_TITLE",
@@ -7677,7 +7683,7 @@
     "Id": "C_TROLLSHAWSCOUT_TEXT",
     "Text": "<b>Revenge</b>: Exhaust a random Enemy",
     "Text_CN": "临终：令一名随机敌人进入行动完毕状态。",
-    "Text_FR": "Moribond : épuisez un ennemi aléatoire."
+    "Text_FR": "<b>Vengeance</b> : Épuisez un ennemi aléatoire"
   },
   {
     "Id": "C_TROLLSHAWSCOUT_TITLE",
@@ -7695,7 +7701,7 @@
     "Id": "C_TURNEDAROUND_TEXT",
     "Text": "Restore each Objective\nto its full Quest value",
     "Text_CN": "结算游戏中的每个目标为初始冒险值。",
-    "Text_FR": "Réinitialise chaque objectif en jeu à sa valeur de quête de départ."
+    "Text_FR": "Réinitialisez chaque objectif à sa valeur de quête de départ"
   },
   {
     "Id": "C_TURNEDAROUND_TITLE",
@@ -7713,7 +7719,7 @@
     "Id": "C_UNDERTHESHADOW_TEXT",
     "Text": "Gain +2 Health",
     "Text_CN": "装备（敌人）：生命+2。",
-    "Text_FR": "Attacher (Ennemi) : gagnez +2 points de vie."
+    "Text_FR": "Gagnez +2 points de vie"
   },
   {
     "Id": "C_UNDERTHESHADOW_TITLE",
@@ -7731,7 +7737,7 @@
     "Id": "C_UNDERTHEWATCHFULEYE_TEXT",
     "Text": "Each player's hand size\nis reduced to 5 cards",
     "Text_CN": "Each player's hand size\nis reduced to 5 cards",
-    "Text_FR": "Each player's hand size\nis reduced to 5 cards"
+    "Text_FR": "Réduisez la main de\nchaque joueur à 5 cartes"
   },
   {
     "Id": "C_UNDERTHEWATCHFULEYE_TITLE",
@@ -7803,7 +7809,7 @@
     "Id": "C_UNWAVERING_TEXT",
     "Text": "Gain <b>Stalwart</b>",
     "Text_CN": "装备（敌人）：获得关键词『强壮』。",
-    "Text_FR": "Attacher (Ennemi) : gagnez Loyal."
+    "Text_FR": "Gagnez <b>Loyal</b>"
   },
   {
     "Id": "C_UNWAVERING_TITLE",
@@ -7821,7 +7827,7 @@
     "Id": "C_VETERAN_TEXT",
     "Text": "Gain <b>Block</b>",
     "Text_CN": "装备：获得关键词『格挡』。",
-    "Text_FR": "Attacher : gagnez Blocage."
+    "Text_FR": "Gagnez <b>Blocage</b>"
   },
   {
     "Id": "C_VETERAN_TITLE",
@@ -7839,7 +7845,7 @@
     "Id": "C_VETERANAXEHAND_TEXT",
     "Text": "",
     "Text_CN": "",
-    "Text_FR": ""
+    "Text_FR": "0"
   },
   {
     "Id": "C_VETERANAXEHAND_TITLE",
@@ -7857,7 +7863,7 @@
     "Id": "C_VETERANPATROL_TEXT",
     "Text": "<b>Ambush</b>",
     "Text_CN": "哨兵。",
-    "Text_FR": "Sentinelle."
+    "Text_FR": "<b>Embuscade</b>"
   },
   {
     "Id": "C_VETERANPATROL_TITLE",
@@ -7875,13 +7881,13 @@
     "Id": "C_VICIOUSSPEED_TEXT",
     "Text": "Gain <b>Surge</b>",
     "Text_CN": "装备：获得关键词『警惕』。",
-    "Text_FR": "Attacher : gagnez Vigilant."
+    "Text_FR": "Gagnez <b>Ruée</b>"
   },
   {
     "Id": "C_VICIOUSSPEED_TITLE",
     "Text": "Vicious Speed",
     "Text_CN": "邪恶速度",
-    "Text_FR": "Rapidité vicieuse"
+    "Text_FR": "Rapidité brutale"
   },
   {
     "Id": "C_VILESPAWN_FLAVOR",
@@ -7911,7 +7917,7 @@
     "Id": "C_WANDERINGTOOK_TEXT",
     "Text": "<b>Arrival</b>: Sauron loses\n1 Resource",
     "Text_CN": "<b>Arrival</b>: Sauron loses 1 Resource",
-    "Text_FR": "<b>Arrival</b>: Sauron loses 1 Resource"
+    "Text_FR": "<b>Arrivée</b> : Sauron perd 1 ressource"
   },
   {
     "Id": "C_WANDERINGTOOK_TITLE",
@@ -7929,13 +7935,13 @@
     "Id": "C_WARDENOFANNUMINAS_TEXT",
     "Text": "<b>Surge</b>",
     "Text_CN": "警惕。",
-    "Text_FR": "Vigilant."
+    "Text_FR": "<b>Ruée</b>"
   },
   {
     "Id": "C_WARDENOFANNUMINAS_TITLE",
     "Text": "Warden of Annúminas",
     "Text_CN": "Warden of Annúminas",
-    "Text_FR": "Warden of Annúminas"
+    "Text_FR": "Gardien d'Annúminas"
   },
   {
     "Id": "C_WARGRIDERS_FLAVOR",
@@ -7965,7 +7971,7 @@
     "Id": "C_WARGS_TEXT",
     "Text": "<b>Surge</b>. Deal +1 damage when attacking",
     "Text_CN": "侵攻（1）。警惕。",
-    "Text_FR": "Agressif 1. Vigilant."
+    "Text_FR": "<b>Ruée</b>. Infligez +1 point de dégâts en attaquant"
   },
   {
     "Id": "C_WARGS_TITLE",
@@ -7983,7 +7989,7 @@
     "Id": "C_WARRIORSWORD_TEXT",
     "Text": "Gain +1 Attack.\nDeal 1 damage when attacked",
     "Text_CN": "装备：攻击+1。",
-    "Text_FR": "Attacher : gagnez +1 en Attaque."
+    "Text_FR": "Gagnez +1 en Attaque"
   },
   {
     "Id": "C_WARRIORSWORD_TITLE",
@@ -8001,13 +8007,13 @@
     "Id": "C_WATCHERSINTHEDARK_TEXT",
     "Text": "Gain +1 Threat",
     "Text_CN": "Gain +1 Threat",
-    "Text_FR": "Gain +1 Threat"
+    "Text_FR": "Gagnez +1 en Menace"
   },
   {
     "Id": "C_WATCHERSINTHEDARK_TITLE",
     "Text": "Watchers in the Dark",
     "Text_CN": "Watchers in the Dark",
-    "Text_FR": "Watchers in the Dark"
+    "Text_FR": "Guetteurs dans la nuit"
   },
   {
     "Id": "C_WATCHFULEYES_FLAVOR",
@@ -8019,7 +8025,7 @@
     "Id": "C_WATCHFULEYES_TEXT",
     "Text": "End of round: Gain +1 Threat",
     "Text_CN": "强力威胁。",
-    "Text_FR": "Menaçant."
+    "Text_FR": "Fin de tour : gagnez +1 en Menace"
   },
   {
     "Id": "C_WATCHFULEYES_TITLE",
@@ -8037,7 +8043,7 @@
     "Id": "C_WATCHFULSCOUT_TEXT",
     "Text": "Recruit <i>Elven Scout</i>",
     "Text_CN": "结算：控制精灵斥候。",
-    "Text_FR": "Résolution : prenez contrôle de l'Éclaireur elfe."
+    "Text_FR": "Recrutez <i>Éclaireur elfe</i>"
   },
   {
     "Id": "C_WATCHFULSCOUT_TITLE",
@@ -8055,7 +8061,7 @@
     "Id": "C_WATERSOFNIMRODEL_TEXT",
     "Text": "Restore 3 Health",
     "Text_CN": "为一名人物治愈3点伤害。",
-    "Text_FR": "Soignez 3 points de dégâts d'un personnage."
+    "Text_FR": "Restaurez 3 points de vie"
   },
   {
     "Id": "C_WATERSOFNIMRODEL_TITLE",
@@ -8073,7 +8079,7 @@
     "Id": "C_WESTFOLDOUTRIDER_TEXT",
     "Text": "<b>Arrival</b>: Deal 2 damage to an unwounded Enemy",
     "Text_CN": "登场：对一名未受到伤害的敌人造成2点伤害。",
-    "Text_FR": "Arrivée : inflige 2 points de dégâts à un ennemi indemne."
+    "Text_FR": "<b>Arrivée</b> : infligez 2 points de dégâts à un ennemi indemne."
   },
   {
     "Id": "C_WESTFOLDOUTRIDER_TITLE",
@@ -8091,7 +8097,7 @@
     "Id": "C_WILDBEAR_TEXT",
     "Text": "<b>Pursuit</b>. <b>Stalwart</b>",
     "Text_CN": "追逐。强壮。",
-    "Text_FR": "Poursuite. Loyal."
+    "Text_FR": "<b>Poursuite</b>. <b>Loyal</b>"
   },
   {
     "Id": "C_WILDBEAR_TITLE",
@@ -8109,7 +8115,7 @@
     "Id": "C_WOODLANDCOURIER_TEXT",
     "Text": "<b>Arrival</b>: Apply 1 progress",
     "Text_CN": "登场：令一个目标获得1点进度。",
-    "Text_FR": "Arrivée : appliquez 1 en progression à un objectif."
+    "Text_FR": "<b>Arrivée</b> : appliquez 1 en Progression"
   },
   {
     "Id": "C_WOODLANDCOURIER_TITLE",
@@ -8127,7 +8133,7 @@
     "Id": "C_ZIGILMINER_TEXT",
     "Text": "<b>Power</b>: Exhaust to gain \n+1 Resource",
     "Text_CN": "<b>Power</b>: Exhaust to gain \n+1 Resource",
-    "Text_FR": "<b>Power</b>: Exhaust to gain \n+1 Resource"
+    "Text_FR": "<b>Pouvoir</b> : appliquez Épuisé pour gagner \n+1 ressource"
   },
   {
     "Id": "C_ZIGILMINER_TITLE",
@@ -8517,19 +8523,19 @@
     "Id": "G_001_DESC",
     "Text": "You take turns with Sauron during this phase, and may attack Enemies or engage Objectives.",
     "Text_CN": "关键词。拥有此关键词的人物会在轮次结束时离开游戏并被弃置。",
-    "Text_FR": "Un personnage avec ce mot-clé ne subit pas de points de dégâts lorsqu'il attaque une cible épuisée."
+    "Text_FR": "Durant cette phase, vous alternez avec Sauron et pouvez attaquer des ennemis ou participer à des objectifs."
   },
   {
     "Id": "G_001_TERM",
     "Text": "Adventure Phase",
     "Text_CN": "一闪而过",
-    "Text_FR": "À distance"
+    "Text_FR": "Phase d'aventure"
   },
   {
     "Id": "G_002_DESC",
     "Text": "A card type representing friends, followers, creatures, and hirelings that you can play to assist your Heroes on their Quest.",
     "Text_CN": "这是玩家在前往下个场景前所必须完成的主要目标。 ",
-    "Text_FR": "Mot-clé pour une capacité de carte qui se déclenche immédiatement après d'un personnage arrive en jeu."
+    "Text_FR": "Type de carte représentant les amis, acolytes, créatures et mercenaires que vous pouvez jouer pour aider vos héros dans leur quête."
   },
   {
     "Id": "G_002_TERM",
@@ -8541,7 +8547,7 @@
     "Id": "G_003_DESC",
     "Text": "The attacker resolves damage before the target does. If this defeats the target, the attacker takes no damage.",
     "Text_CN": "The attacker resolves damage before the target does. If this defeats the target, the attacker takes no damage.",
-    "Text_FR": "The attacker resolves damage before the target does. If this defeats the target, the attacker takes no damage."
+    "Text_FR": "L'attaquant calcule d'abord les points de dégâts qu'il inflige. S'il vainc la cible, il ne subit aucun dégât."
   },
   {
     "Id": "G_003_TERM",
@@ -8553,7 +8559,7 @@
     "Id": "G_004_DESC",
     "Text": "An Attachment type. A Character can have only one Attachment of each type at a time.",
     "Text_CN": "An Attachment type. A Character can have only one Attachment of each type at a time.",
-    "Text_FR": "An Attachment type. A Character can have only one Attachment of each type at a time."
+    "Text_FR": "Type d'attachement. Un personnage ne peut avoir qu'un attachement de même type à la fois."
   },
   {
     "Id": "G_004_TERM",
@@ -8565,19 +8571,19 @@
     "Id": "G_005_DESC",
     "Text": "This ability triggers when the card enters play.",
     "Text_CN": "This ability triggers when the card enters play.",
-    "Text_FR": "This ability triggers when the card enters play."
+    "Text_FR": "Cette capacité s'active quand la carte est mise en jeu."
   },
   {
     "Id": "G_005_TERM",
     "Text": "Arrival",
     "Text_CN": "乌鲁克",
-    "Text_FR": "Attachement"
+    "Text_FR": "Arrivée"
   },
   {
     "Id": "G_006_DESC",
     "Text": "A card type representing armor, weapons, or special abilities. Unless otherwise stated, it modifies only the Character to which it is equipped.",
     "Text_CN": "A card type representing armor, weapons, or special abilities. Unless otherwise stated, it modifies only the Character to which it is equipped.",
-    "Text_FR": "A card type representing armor, weapons, or special abilities. Unless otherwise stated, it modifies only the Character to which it is equipped."
+    "Text_FR": "Type de carte représentant l'armure, les armes ou les capacités spéciales. Sauf mention contraire, cette carte modifie uniquement le personnage qui en est équipé."
   },
   {
     "Id": "G_006_TERM",
@@ -8589,19 +8595,19 @@
     "Id": "G_007_DESC",
     "Text": "Effectiveness when attacking or defending in combat.",
     "Text_CN": "卡牌大类。代表所有的英雄与盟友。当玩家有机会选择一位人物时，你可以选择任何可用的英雄或盟友。敌人也会被视为人物，并可以成为对人物起效的游戏效果的有效目标。",
-    "Text_FR": "L'icône affichée dans votre profil."
+    "Text_FR": "L'efficacité d'un personnage lorsqu'il attaque ou se défend en combat."
   },
   {
     "Id": "G_007_TERM",
     "Text": "Attack",
     "Text_CN": "人物",
-    "Text_FR": "Avatar"
+    "Text_FR": "Attaque"
   },
   {
     "Id": "G_008_DESC",
     "Text": "The icon shown in your profile.",
     "Text_CN": "中土世界的种族之一，并非特指『男人』。",
-    "Text_FR": "La première campagne du jeu Le Seigneur des Anneaux : Jeu de cartes évolutif."
+    "Text_FR": "L'icône affichée dans votre profil."
   },
   {
     "Id": "G_008_TERM",
@@ -8613,13 +8619,13 @@
     "Id": "G_009_DESC",
     "Text": "Each time damage is taken, reduce the amount by 1.",
     "Text_CN": "Each time damage is taken, reduce the amount by 1.",
-    "Text_FR": "Each time damage is taken, reduce the amount by 1."
+    "Text_FR": "À chaque fois que des dégâts sont reçus, le total est réduit de 1."
   },
   {
     "Id": "G_009_TERM",
     "Text": "Block",
     "Text_CN": "休整",
-    "Text_FR": "Bonus de Vaillance"
+    "Text_FR": "Blocage"
   },
   {
     "Id": "G_010_DESC",
@@ -8637,55 +8643,55 @@
     "Id": "G_011_DESC",
     "Text": "The first time you log into the game every 24 hours, the game generates a challenge tied to a random unlocked Quest. You receive Valor (and potential additional rewards) for completing each daily challenge.",
     "Text_CN": "这是真知晶石提供的奖励，或者也可在游玩困难难度时获取。你可以使用5个信号火炬来解锁一个你选定的英雄包。",
-    "Text_FR": "Il s'agit d'une carte que vous pouvez utiliser pour obtenir un effet immédiat en jeu. Il n'est possible de disposer que d'une seule carte de faveur dans votre deck au début d'une quête."
+    "Text_FR": "Lors de votre première connexion toutes les 24 heures, le jeu génère un défi lié à une quête aléatoire déverrouillée. Vous recevez de la Vaillance (et potentiellement des récompenses supplémentaires) pour avoir terminé chaque défi quotidien."
   },
   {
     "Id": "G_011_TERM",
     "Text": "Challenge, Daily",
     "Text_CN": "信号火炬",
-    "Text_FR": "Carte de faveur"
+    "Text_FR": "Défi quotidien"
   },
   {
     "Id": "G_012_DESC",
     "Text": "Achievements that are tracked over the lifetime of your account.",
     "Text_CN": "关键词。拥有此关键词的人物会在敌人发动攻击前抢先发起反击。如果此举能够击败敌人，那么敌人就无法发动攻击了，否则敌人将正常结算攻击流程。",
-    "Text_FR": "Il s'agit des cartes Allié, Attachement et Événement que vous pouvez utiliser lors d'une quête. Chaque carte de joueur se rattache à l'une des quatre sphères d'influence (Commandement, Connaissance, Énergie ou Tactique) ou bien est neutre."
+    "Text_FR": "Succès enregistrés depuis la création de votre compte."
   },
   {
     "Id": "G_012_TERM",
     "Text": "Challenge, Epic",
     "Text_CN": "先攻",
-    "Text_FR": "Cartes de joueur"
+    "Text_FR": "Défi épique"
   },
   {
     "Id": "G_013_DESC",
     "Text": "This card type refers to all Heroes and Allies. Enemies are also considered Characters.",
     "Text_CN": "This card type refers to all Heroes and Allies. Enemies are also considered Characters.",
-    "Text_FR": "This card type refers to all Heroes and Allies. Enemies are also considered Characters."
+    "Text_FR": "Ce type de carte représente tous les héros et alliés. Les ennemis sont également considérés comme des Personnages."
   },
   {
     "Id": "G_013_TERM",
     "Text": "Character",
     "Text_CN": "兽人",
-    "Text_FR": "Cible"
+    "Text_FR": "Personnage"
   },
   {
     "Id": "G_014_DESC",
     "Text": "Displayed in the upper-left corner, this is the number of Resources needed to play a card. Hero cards do not have a cost, since they begin the game in play.",
     "Text_CN": "由3到5个场景所构成的特制冒险故事。 ",
-    "Text_FR": "Cette sphère d'influence souligne le charisme et le magnétisme d'un héros. Elle représente son potentiel à diriger, stimuler et commander des alliés et d'autres héros."
+    "Text_FR": "Affiché dans le coin supérieur gauche, il représente la quantité de ressources requises pour jouer une carte. Les héros n'ont pas de coût, puisqu'ils commencent la partie en jeu."
   },
   {
     "Id": "G_014_TERM",
     "Text": "Cost",
     "Text_CN": "冒险包",
-    "Text_FR": "Commandement"
+    "Text_FR": "Coût"
   },
   {
     "Id": "G_015_DESC",
     "Text": "The cards you use in the Quest. Rollover to see how many remain.",
     "Text_CN": "The cards you use in the Quest. Rollover to see how many remain.",
-    "Text_FR": "The cards you use in the Quest. Rollover to see how many remain."
+    "Text_FR": "Les cartes que vous utilisez lors de la quête. Passez au-dessus du deck pour voir combien il reste de cartes."
   },
   {
     "Id": "G_015_TERM",
@@ -8697,31 +8703,31 @@
     "Id": "G_016_DESC",
     "Text": "A defeated Character is discarded. This can occur by falling to 0 Health or through some other means.",
     "Text_CN": "A defeated Character is discarded. This can occur by falling to 0 Health or through some other means.",
-    "Text_FR": "A defeated Character is discarded. This can occur by falling to 0 Health or through some other means."
+    "Text_FR": "Un personnage vaincu est Défaussé. Cela peut arriver quand il tombe à 0 point de vie ou par d'autres moyens."
   },
   {
     "Id": "G_016_TERM",
     "Text": "Defeated",
     "Text_CN": "冒险点数",
-    "Text_FR": "Connaissance"
+    "Text_FR": "Vaincu"
   },
   {
     "Id": "G_017_DESC",
     "Text": "The challenge level you face in a Quest: Easy, Normal, or Hard. Sauron's Resources increase as the difficulty goes up, but you can gain greater rewards if you survive!",
     "Text_CN": "你会在这个阶段内与索隆进行回合制的较量，并可攻击敌人或者挑战目标。",
-    "Text_FR": "Toutes les cartes des joueurs et de Sauron ont un coût qui est indiqué dans le coin en haut à gauche. Il s'agit de la quantité de ressources à dépenser pour pouvoir jouer chaque carte. Les héros n'ont pas de coût, puisqu'ils commencent la partie en jeu."
+    "Text_FR": "Le niveau de défi d'une quête : Facile, Normal ou Difficile. Les ressources de Sauron augmentent avec la difficulté, mais les récompenses aussi... si vous survivez !"
   },
   {
     "Id": "G_017_TERM",
     "Text": "Difficulty",
     "Text_CN": "冒险阶段",
-    "Text_FR": "Coût"
+    "Text_FR": "Difficulté"
   },
   {
     "Id": "G_018_DESC",
     "Text": "One of the Dúnedain, the Men of the West.",
     "Text_CN": "One of the Dúnedain, the Men of the West.",
-    "Text_FR": "One of the Dúnedain, the Men of the West."
+    "Text_FR": "Un des Dúnedain, les Hommes de l'Ouest."
   },
   {
     "Id": "G_018_TERM",
@@ -8733,19 +8739,19 @@
     "Id": "G_019_DESC",
     "Text": "The act of committing a Character to an Objective.",
     "Text_CN": "关键词。当游戏中存在敌人时，玩家无法挑战拥有此关键词的目标。",
-    "Text_FR": "Combinaison de cartes alliés, attachements ou événements que vous piochez lors d'une quête. Chaque deck est composé de 30 cartes et ne peut disposer que d'un maximum de 2 copies de chaque carte. Un deck de joueur est basé sur 3 héros de votre choix, et déterminez les sphères parmi lesquelles choisir les cartes de votre deck."
+    "Text_FR": "L'action pour un personnage de prendre part à un objectif."
   },
   {
     "Id": "G_019_TERM",
     "Text": "Engage",
     "Text_CN": "加护",
-    "Text_FR": "Deck de joueur"
+    "Text_FR": "Participer"
   },
   {
     "Id": "G_020_DESC",
     "Text": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game.",
     "Text_CN": "游玩困难难度时获得的勇猛点数加成。",
-    "Text_FR": "Une aventure spécifique composée de 3 à 5 lieux. "
+    "Text_FR": "Type de carte qui décrit un piège, un coup du sort ou tout autre effet se déroulant pendant la partie."
   },
   {
     "Id": "G_020_TERM",
@@ -8757,67 +8763,67 @@
     "Id": "G_021_DESC",
     "Text": "A card is exhausted when it is used. All exhausted cards ready during Upkeep.",
     "Text_CN": "A card is exhausted when it is used. All exhausted cards ready during Upkeep.",
-    "Text_FR": "A card is exhausted when it is used. All exhausted cards ready during Upkeep."
+    "Text_FR": "Une carte est Épuisée une fois utilisée. Toutes les cartes Épuisées sont préparées pendant l'entretien."
   },
   {
     "Id": "G_021_TERM",
     "Text": "Exhausted",
     "Text_CN": "勇猛点数",
-    "Text_FR": "Défi épique"
+    "Text_FR": "Épuisé"
   },
   {
     "Id": "G_022_DESC",
     "Text": "An expendable card that you can use for an immediate in-game effect.",
     "Text_CN": "显示在你的概况界面上的图标。",
-    "Text_FR": "La première fois qu'un joueur se connecte chaque 24 heures, le jeu génère un défi aléatoire lié à une quête déverrouillée aléatoire. Le joueur reçoit une récompense en Vaillance (et d'autres récompenses potentielles) une fois le défi quotidien terminé."
+    "Text_FR": "Carte jetable que vous pouvez utiliser pour obtenir un effet immédiat en jeu."
   },
   {
     "Id": "G_022_TERM",
     "Text": "Favor Card",
     "Text_CN": "化身",
-    "Text_FR": "Défi quotidien"
+    "Text_FR": "Carte de faveur"
   },
   {
     "Id": "G_023_DESC",
     "Text": "This card is removed at the end of the round.",
     "Text_CN": "This card is removed at the end of the round.",
-    "Text_FR": "This card is removed at the end of the round."
+    "Text_FR": "Cette carte est retirée à la fin du tour."
   },
   {
     "Id": "G_023_TERM",
     "Text": "Fleeting",
     "Text_CN": "博学型",
-    "Text_FR": "Difficulté"
+    "Text_FR": "Fugacité"
   },
   {
     "Id": "G_024_DESC",
     "Text": "Select to adjust game settings or to leave the Quest.",
     "Text_CN": "Select to adjust game settings or to leave the Quest.",
-    "Text_FR": "Select to adjust game settings or to leave the Quest."
+    "Text_FR": "Sélectionnez-les pour ajuster les paramètres du jeu ou pour quitter la quête."
   },
   {
     "Id": "G_024_TERM",
     "Text": "Game Options",
     "Text_CN": "Game Options",
-    "Text_FR": "Game Options"
+    "Text_FR": "Options du jeu"
   },
   {
     "Id": "G_025_DESC",
     "Text": "Important keywords and terminology.",
     "Text_CN": "Important keywords and terminology.",
-    "Text_FR": "Important keywords and terminology."
+    "Text_FR": "Mots-clés importants et terminologie."
   },
   {
     "Id": "G_025_TERM",
     "Text": "Glossary",
     "Text_CN": "Glossary",
-    "Text_FR": "Glossary"
+    "Text_FR": "Glossaire"
   },
   {
     "Id": "G_026_DESC",
     "Text": "A person from the most prominent kingdom of Men in Middle-earth.",
     "Text_CN": "A person from the most prominent kingdom of Men in Middle-earth.",
-    "Text_FR": "A person from the most prominent kingdom of Men in Middle-earth."
+    "Text_FR": "Personne appartenant au plus grand royaume des Hommes de la Terre du Milieu."
   },
   {
     "Id": "G_026_TERM",
@@ -8829,31 +8835,31 @@
     "Id": "G_027_DESC",
     "Text": "This target must be defeated before you can attack another target.",
     "Text_CN": "This target must be defeated before you can attack another target.",
-    "Text_FR": "This target must be defeated before you can attack another target."
+    "Text_FR": "Cette cible doit être vaincue avant que vous puissiez en attaquer une autre."
   },
   {
     "Id": "G_027_TERM",
     "Text": "Guard",
     "Text_CN": "神恩卡牌",
-    "Text_FR": "Protection"
+    "Text_FR": "Garde"
   },
   {
     "Id": "G_028_DESC",
     "Text": "Damage amount that can be suffered before being defeated.",
     "Text_CN": "Damage amount that can be suffered before being defeated.",
-    "Text_FR": "Damage amount that can be suffered before being defeated."
+    "Text_FR": "La quantité de points de dégâts qui peuvent être subis avant d'être vaincu."
   },
   {
     "Id": "G_028_TERM",
     "Text": "Health",
     "Text_CN": "场景",
-    "Text_FR": "Événement"
+    "Text_FR": "Points de vie"
   },
   {
     "Id": "G_029_DESC",
     "Text": "A main Character that you control during a Quest. Heroes start the game in play, and have a Threat value instead of a cost. If all your Heroes are defeated, you fail the Quest.",
     "Text_CN": "中土世界的一处地区。",
-    "Text_FR": "Ce mot-clé se réfère à une capacité qui ne peut être ni évitée, ni annulée."
+    "Text_FR": "Personnage principal que vous contrôlez durant une quête. Les héros commencent la partie en jeu, et disposent d'un Niveau de Menace à la place du coût. Si tous vos héros sont vaincus, la quête échoue."
   },
   {
     "Id": "G_029_TERM",
@@ -8865,19 +8871,19 @@
     "Id": "G_030_DESC",
     "Text": "Shows recent actions in gameplay.",
     "Text_CN": "Shows recent actions in gameplay.",
-    "Text_FR": "Shows recent actions in gameplay."
+    "Text_FR": "Affiche les actions en jeu récentes."
   },
   {
     "Id": "G_030_TERM",
     "Text": "History",
     "Text_CN": "History",
-    "Text_FR": "History"
+    "Text_FR": "Histoire"
   },
   {
     "Id": "G_031_DESC",
     "Text": "One of a race of gentle beings with a reputation for preferring a settled life over excitement and adventure.",
     "Text_CN": "One of a race of gentle beings with a reputation for preferring a settled life over excitement and adventure.",
-    "Text_FR": "One of a race of gentle beings with a reputation for preferring a settled life over excitement and adventure."
+    "Text_FR": "Une race bienveillante, réputée préférer une vie bien tranquille à l'excitation de l'aventure."
   },
   {
     "Id": "G_031_TERM",
@@ -8889,7 +8895,7 @@
     "Id": "G_032_DESC",
     "Text": "An individual such as Gandalf or Saruman who is more than mortal and possessed of great age and power. ",
     "Text_CN": "An individual such as Gandalf or Saruman who is more than mortal and possessed of great age and power. ",
-    "Text_FR": "An individual such as Gandalf or Saruman who is more than mortal and possessed of great age and power. "
+    "Text_FR": "Mage de même type que Gandalf ou Saroumane. Plus qu'un simple mortel, très âgé, son pouvoir est immense. "
   },
   {
     "Id": "G_032_TERM",
@@ -8901,7 +8907,7 @@
     "Id": "G_033_DESC",
     "Text": "A Sphere of Influence representing the potential to lead, inspire, and command others.",
     "Text_CN": "对于成为行动对象的人物或任务的一般性描述。 ",
-    "Text_FR": "Le plus grand royaume des Hommes de la Terre du Milieu."
+    "Text_FR": "Sphère d'influence qui représente le potentiel à diriger, stimuler et commander les autres."
   },
   {
     "Id": "G_033_TERM",
@@ -8913,19 +8919,19 @@
     "Id": "G_034_DESC",
     "Text": "A distinct Quest stage. Completing a Quest requires advancing through a series of Locations.",
     "Text_CN": "游戏中存在四种属性类别：领导型、博学型、精神型与战术型。每种类别均注重于一种特定属性的强度。每个英雄都会从属于一个类别，这也决定了你在牌组中可以使用的卡牌种类。",
-    "Text_FR": "Un héros est le personnage principal que vous contrôlez lors d'une quête. Les héros peuvent participer à des objectifs ou à des combats contre les ennemis, et peuvent disposer de pouvoirs supplémentaires que vous pourrez utiliser. Les héros forment la base de chaque deck que vous créez : les héros choisis déterminent la sphère d'influence dont vous devrez choisir les cartes pour composer votre deck. Les héros commencent la partie en jeu, et disposent d'un niveau de menace à la place du coût. Si tous vos héros sont vaincus, la quête est échouée."
+    "Text_FR": "Une étape de quête distincte. Terminer une quête requiert de franchir une série de lieux."
   },
   {
     "Id": "G_034_TERM",
     "Text": "Location",
     "Text_CN": "属性类别",
-    "Text_FR": "Héros"
+    "Text_FR": "Lieu"
   },
   {
     "Id": "G_035_DESC",
     "Text": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge.",
     "Text_CN": "在这个阶段中，玩家与索隆会依次从各自的牌组中布置盟友、装备与事件卡牌。",
-    "Text_FR": "Une race bienveillante avec la réputation de préférer une vie bien tranquille à l'excitation de l'aventure."
+    "Text_FR": "Une sphère d'influence qui accentue l'intelligence, la sagesse et le savoir spécialisé."
   },
   {
     "Id": "G_035_TERM",
@@ -8937,7 +8943,7 @@
     "Id": "G_036_DESC",
     "Text": "A person from the second clan of the Elves.",
     "Text_CN": "A person from the second clan of the Elves.",
-    "Text_FR": "A person from the second clan of the Elves."
+    "Text_FR": "Personne appartenant au second clan des elfes."
   },
   {
     "Id": "G_036_TERM",
@@ -8949,7 +8955,7 @@
     "Id": "G_037_DESC",
     "Text": "A task that you may face in the course of a Quest.",
     "Text_CN": "人物在挑战目标时的效率。 ",
-    "Text_FR": "Un personnage avec ce mot-clé n'est pas épuisé la première fois qu'il est attaqué."
+    "Text_FR": "Une tâche à laquelle vous devrez faire face au cours d'une quête."
   },
   {
     "Id": "G_037_TERM",
@@ -8961,19 +8967,19 @@
     "Id": "G_038_DESC",
     "Text": "The primary goal you must resolve before you can advance to the next Location. ",
     "Text_CN": "The primary goal you must resolve before you can advance to the next Location. ",
-    "Text_FR": "The primary goal you must resolve before you can advance to the next Location. "
+    "Text_FR": "L'objectif premier à atteindre avant de pouvoir progresser vers le lieu suivant. "
   },
   {
     "Id": "G_038_TERM",
     "Text": "Objective, Main",
     "Text_CN": "成本",
-    "Text_FR": "Menaçant"
+    "Text_FR": "Objectif principal"
   },
   {
     "Id": "G_039_DESC",
     "Text": "A member of an evil and violent race who serve Sauron.",
     "Text_CN": "A member of an evil and violent race who serve Sauron.",
-    "Text_FR": "A member of an evil and violent race who serve Sauron."
+    "Text_FR": "Membre d'une race violente et maléfique au service de Sauron."
   },
   {
     "Id": "G_039_TERM",
@@ -8985,7 +8991,7 @@
     "Id": "G_040_DESC",
     "Text": "You can use the Palantír to gain rewards such as Valor Points, new cards, and cosmetic items.",
     "Text_CN": "You can use the Palantír to gain rewards such as Valor Points, new cards, and cosmetic items.",
-    "Text_FR": "You can use the Palantír to gain rewards such as Valor Points, new cards, and cosmetic items."
+    "Text_FR": "Vous pouvez utiliser le Palantír pour obtenir des récompenses telles que des points de Vaillance, de nouvelles cartes et des objets cosmétiques."
   },
   {
     "Id": "G_040_TERM",
@@ -8997,187 +9003,187 @@
     "Id": "G_041_DESC",
     "Text": "Select to advance gameplay.",
     "Text_CN": "Select to advance gameplay.",
-    "Text_FR": "Select to advance gameplay."
+    "Text_FR": "Sélectionnez-le pour faire avancer le jeu."
   },
   {
     "Id": "G_041_TERM",
     "Text": "Phase Button",
     "Text_CN": "Phase Button",
-    "Text_FR": "Phase Button"
+    "Text_FR": "Bouton Phase"
   },
   {
     "Id": "G_042_DESC",
     "Text": "During this phase, you and Sauron take turns playing cards prior to adventuring.",
     "Text_CN": "这种属性类别注重于军事技艺，特别是那些在冒险中所需处理的战斗与战术挑战。",
-    "Text_FR": "Uniquement trouvé sur les cartes de héros, ce chiffre est ajouté au compteur de niveau de Menace au début de toute quête dans laquelle vous utilisez ce héros."
+    "Text_FR": "Durant cette phase, Sauron et vous jouez vos cartes chacun votre tour avant l'aventure."
   },
   {
     "Id": "G_042_TERM",
     "Text": "Planning Phase",
     "Text_CN": "战术型",
-    "Text_FR": "Niveau de menace"
+    "Text_FR": "Phase d'organisation"
   },
   {
     "Id": "G_043_DESC",
     "Text": "These are any Ally, Attachment, and Event cards you use throughout a Quest.",
     "Text_CN": "These are any Ally, Attachment, and Event cards you use throughout a Quest.",
-    "Text_FR": "These are any Ally, Attachment, and Event cards you use throughout a Quest."
+    "Text_FR": "Il s'agit des cartes Allié, Attachement et Événement que vous pouvez utiliser lors d'une quête."
   },
   {
     "Id": "G_043_TERM",
     "Text": "Player Cards",
     "Text_CN": "战败",
-    "Text_FR": "Ñoldor"
+    "Text_FR": "Cartes de joueur"
   },
   {
     "Id": "G_044_DESC",
     "Text": "A deck of 30 cards based on 3 Heroes of your choice. You build each deck based on these Heroes, and you cannot have more than 2 copies of any individual card.",
     "Text_CN": "将人物派去挑战目标的游戏操作。 ",
-    "Text_FR": "Il représente une tâche à laquelle vous devrez faire face au cours d'une quête. Les objectifs peuvent ralentir ou compliquer votre route vers la victoire, et devront souvent être atteints avant de pouvoir progresser vers le lieu suivant. Remplir des objectifs requiert de la Volonté et/ou de vaincre un ennemi. "
+    "Text_FR": "Chaque deck est composé de 30 cartes basées sur 3 héros de votre choix. Vous constituez chaque deck autour de ces héros, et seuls 2 exemplaires de chaque carte sont autorisés."
   },
   {
     "Id": "G_044_TERM",
     "Text": "Player Deck",
     "Text_CN": "挑战",
-    "Text_FR": "Objectif"
+    "Text_FR": "Deck de joueur"
   },
   {
     "Id": "G_045_DESC",
     "Text": "An ability that you may choose to activate.",
     "Text_CN": "An ability that you may choose to activate.",
-    "Text_FR": "An ability that you may choose to activate."
+    "Text_FR": "Une capacité que vous pouvez choisir d'activer."
   },
   {
     "Id": "G_045_TERM",
     "Text": "Power",
     "Text_CN": "攻击",
-    "Text_FR": "Objectif principal"
+    "Text_FR": "Pouvoir"
   },
   {
     "Id": "G_046_DESC",
     "Text": "An Event card type whose effect triggers based on a timing window or circumstance.",
     "Text_CN": "An Event card type whose effect triggers based on a timing window or circumstance.",
-    "Text_FR": "An Event card type whose effect triggers based on a timing window or circumstance."
+    "Text_FR": "Carte de type Événement dont l'effet s'active en fonction d'une fenêtre de temps ou d'une circonstance."
   },
   {
     "Id": "G_046_TERM",
     "Text": "Preparation",
     "Text_CN": "格挡",
-    "Text_FR": "Palantír"
+    "Text_FR": "Préparation"
   },
   {
     "Id": "G_047_DESC",
     "Text": "Indicates unrevealed Preparation cards.",
     "Text_CN": "Indicates unrevealed Preparation cards.",
-    "Text_FR": "Indicates unrevealed Preparation cards."
+    "Text_FR": "Indique les cartes Préparation cachées."
   },
   {
     "Id": "G_047_TERM",
     "Text": "Preparation Sockets",
     "Text_CN": "Preparation Sockets",
-    "Text_FR": "Preparation Sockets"
+    "Text_FR": "Emplacements de Préparation"
   },
   {
     "Id": "G_048_DESC",
     "Text": "The amount by which you reduce an Objective's Quest value each time you apply Willpower.",
     "Text_CN": "每隔24小时，当玩家首次登录游戏后，游戏都会提供一项与已解锁的随机冒险相关的任务。完成每日任务后，玩家便会得到一项勇猛奖励（以及可能会存在的额外奖励）。",
-    "Text_FR": "L'action pour un personnage de prendre part à un objectif. "
+    "Text_FR": "Le montant de la réduction des points d'un objectif de quête chaque fois que la Volonté est appliquée."
   },
   {
     "Id": "G_048_TERM",
     "Text": "Progress",
     "Text_CN": "每日任务",
-    "Text_FR": "Participer"
+    "Text_FR": "Progression"
   },
   {
     "Id": "G_049_DESC",
     "Text": "Follows your Heroes from one Location to the next.",
     "Text_CN": "Follows your Heroes from one Location to the next.",
-    "Text_FR": "Follows your Heroes from one Location to the next."
+    "Text_FR": "Suit vos héros d'un lieu à l'autre."
   },
   {
     "Id": "G_049_TERM",
     "Text": "Pursuit",
     "Text_CN": "潜行",
-    "Text_FR": "Peuples libres"
+    "Text_FR": "Poursuite"
   },
   {
     "Id": "G_050_DESC",
     "Text": "The value of an Objective. You use Willpower to resolve an Objective.",
     "Text_CN": "The value of an Objective. You use Willpower to resolve an Objective.",
-    "Text_FR": "The value of an Objective. You use Willpower to resolve an Objective."
+    "Text_FR": "Valeur d'un objectif. La Volonté est utilisée dans la résolution d'un objectif."
   },
   {
     "Id": "G_050_TERM",
     "Text": "Quest Points",
     "Text_CN": "Quest Points",
-    "Text_FR": "Quest Points"
+    "Text_FR": "Points de quête"
   },
   {
     "Id": "G_051_DESC",
     "Text": "The attacker does not take damage when attacking an exhausted target.",
     "Text_CN": "The attacker does not take damage when attacking an exhausted target.",
-    "Text_FR": "The attacker does not take damage when attacking an exhausted target."
+    "Text_FR": "L'assaillant ne subit pas de points de dégâts lorsqu'il attaque une cible Épuisée."
   },
   {
     "Id": "G_051_TERM",
     "Text": "Ranged",
     "Text_CN": "玩家牌组",
-    "Text_FR": "Points de vie"
+    "Text_FR": "À distance"
   },
   {
     "Id": "G_052_DESC",
     "Text": "All player cards have a listed rarity: Starter and Hero, as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities.",
     "Text_CN": "All player cards have a listed rarity: Starter and Hero, as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities.",
-    "Text_FR": "All player cards have a listed rarity: Starter and Hero, as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities."
+    "Text_FR": "Toutes la cartes de joueur affichent une rareté : Deck de départ et Héros, ainsi que Commune, Inhabituelle, Rare et Légendaire. Plus le degré de rareté est élevé, plus ses capacités sont puissantes."
   },
   {
     "Id": "G_052_TERM",
     "Text": "Rarity",
     "Text_CN": "生命",
-    "Text_FR": "Poursuite"
+    "Text_FR": "Rareté"
   },
   {
     "Id": "G_053_DESC",
     "Text": "The act of completing, overcoming, or otherwise removing an Objective.",
     "Text_CN": "关键词。拥有此关键词的卡牌技能会在人物进入游戏时即刻触发。",
-    "Text_FR": "Capacité de carte pouvant être activée lors de votre tour. En fonction de sa description, un pouvoir peut être activé une ou plusieurs fois par tour."
+    "Text_FR": "Le fait de terminer, venir à bout ou supprimer un objectif."
   },
   {
     "Id": "G_053_TERM",
     "Text": "Resolve",
     "Text_CN": "登场",
-    "Text_FR": "Pouvoir"
+    "Text_FR": "Résolution"
   },
   {
     "Id": "G_054_DESC",
     "Text": "Used to play cards. Resources refresh during Upkeep.",
     "Text_CN": "Used to play cards. Resources refresh during Upkeep.",
-    "Text_FR": "Used to play cards. Resources refresh during Upkeep."
+    "Text_FR": "Servent à jouer des cartes de joueur. Les ressources se réinitialisent durant l'entretien."
   },
   {
     "Id": "G_054_TERM",
     "Text": "Resources",
     "Text_CN": "盟友",
-    "Text_FR": "Prép"
+    "Text_FR": "Ressources"
   },
   {
     "Id": "G_055_DESC",
     "Text": "This ability triggers when the card is defeated.",
     "Text_CN": "This ability triggers when the card is defeated.",
-    "Text_FR": "This ability triggers when the card is defeated."
+    "Text_FR": "Cette capacité s'active lorsque la carte est vaincue."
   },
   {
     "Id": "G_055_TERM",
     "Text": "Revenge",
     "Text_CN": "强力威胁",
-    "Text_FR": "Istar"
+    "Text_FR": "Vengeance"
   },
   {
     "Id": "G_056_DESC",
     "Text": "A person from the kingdom between the Misty Mountains and White Mountains.",
     "Text_CN": "A person from the kingdom between the Misty Mountains and White Mountains.",
-    "Text_FR": "A person from the kingdom between the Misty Mountains and White Mountains."
+    "Text_FR": "Personne appartenant au royaume situé entre les Monts Brumeux et les Montagnes Blanches."
   },
   {
     "Id": "G_056_TERM",
@@ -9189,19 +9195,19 @@
     "Id": "G_057_DESC",
     "Text": "An Elf who is more interested in knowledge than in combat, compared to their Noldor cousins.",
     "Text_CN": "An Elf who is more interested in knowledge than in combat, compared to their Noldor cousins.",
-    "Text_FR": "An Elf who is more interested in knowledge than in combat, compared to their Noldor cousins."
+    "Text_FR": "Elfe plus intéressé par la sagesse que par le combat, à l'inverse de ses cousins Ñoldor"
   },
   {
     "Id": "G_057_TERM",
     "Text": "Silvan",
     "Text_CN": "西尔凡精灵",
-    "Text_FR": "Sylvains"
+    "Text_FR": "Sylvain"
   },
   {
     "Id": "G_058_DESC",
     "Text": "An Attachment type. A Character can have only one Attachment of each type at a time.",
     "Text_CN": "An Attachment type. A Character can have only one Attachment of each type at a time.",
-    "Text_FR": "An Attachment type. A Character can have only one Attachment of each type at a time."
+    "Text_FR": "Type d'attachement. Un personnage ne peut avoir qu'un attachement de même type à la fois."
   },
   {
     "Id": "G_058_TERM",
@@ -9213,19 +9219,19 @@
     "Id": "G_059_DESC",
     "Text": "Each of the four Spheres of Influence (Leadership, Lore, Spirit, Tactics) focuses on a particular personality aspect. Every Hero belongs to a Sphere, which dictates the cards you can include in a deck.",
     "Text_CN": "不受索隆统治的人。",
-    "Text_FR": "Ce mot-clé fait référence à un effet qui a lieu à un moment particulier."
+    "Text_FR": "Chacune des quatre sphères d'influence (Commandement, Connaissance, Énergie, Tactique) se concentre sur une facette particulière de la personnalité. Chaque héros se réfère à une sphère, qui dicte les cartes que vous pouvez inclure dans un deck."
   },
   {
     "Id": "G_059_TERM",
     "Text": "Sphere of Influence",
     "Text_CN": "Sphere of Influence",
-    "Text_FR": "Sphere of Influence"
+    "Text_FR": "Sphères d'influence"
   },
   {
     "Id": "G_060_DESC",
     "Text": "A Sphere of Influence encompassing strength of will and aspects of the supernatural.",
     "Text_CN": "英雄是你在冒险中所控制的主要人物。英雄可以攻击敌人或者挑战目标，并拥有一些可用使用的特技。英雄也是你创建的每个牌组的基础，他决定了你可用来选择组成牌组的卡牌的类别。在游戏开始时，英雄便会配置完毕。他们的成本值会被威胁值所取代。如果你的英雄全部战败，那么冒险也就会宣告失败了。",
-    "Text_FR": "Le fait de venir à bout d'un objectif."
+    "Text_FR": "Cette sphère d'influence recouvre la force de volonté du héros et l'aspect surnaturel."
   },
   {
     "Id": "G_060_TERM",
@@ -9237,43 +9243,43 @@
     "Id": "G_061_DESC",
     "Text": "This card does not exhaust the first time it is attacked.",
     "Text_CN": "This card does not exhaust the first time it is attacked.",
-    "Text_FR": "This card does not exhaust the first time it is attacked."
+    "Text_FR": "Avec cette carte, un personnage n'est pas Épuisé la première fois qu'il est attaqué."
   },
   {
     "Id": "G_061_TERM",
     "Text": "Stalwart",
     "Text_CN": "英雄包",
-    "Text_FR": "Ressources"
+    "Text_FR": "Loyal"
   },
   {
     "Id": "G_062_DESC",
     "Text": "Cannot be attacked unless all non-Stealth targets are exhausted.",
     "Text_CN": "Cannot be attacked unless all non-Stealth targets are exhausted.",
-    "Text_FR": "Cannot be attacked unless all non-Stealth targets are exhausted."
+    "Text_FR": "Impossible à attaquer tant que toutes les cibles non Furtives ne sont pas Épuisées."
   },
   {
     "Id": "G_062_TERM",
     "Text": "Stealth",
     "Text_CN": "蓄势",
-    "Text_FR": "Rhovanion"
+    "Text_FR": "Furtif"
   },
   {
     "Id": "G_063_DESC",
     "Text": "Does not exhaust after the first action each round.",
     "Text_CN": "Does not exhaust after the first action each round.",
-    "Text_FR": "Does not exhaust after the first action each round."
+    "Text_FR": "À chaque tour, évite d'être Épuisé après la première action."
   },
   {
     "Id": "G_063_TERM",
     "Text": "Surge",
     "Text_CN": "难度",
-    "Text_FR": "Vainqueur"
+    "Text_FR": "Ruée"
   },
   {
     "Id": "G_064_DESC",
     "Text": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat.",
     "Text_CN": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat.",
-    "Text_FR": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat."
+    "Text_FR": "Cette Sphère d'influence recouvre les prouesses martiales, depuis les défis tactiques jusqu'aux combats eux-mêmes."
   },
   {
     "Id": "G_064_TERM",
@@ -9285,103 +9291,103 @@
     "Id": "G_065_DESC",
     "Text": "This increases each round and when you travel. If you reach 50 Threat, your Quest fails. ",
     "Text_CN": "This increases each round and when you travel. If you reach 50 Threat, your Quest fails. ",
-    "Text_FR": "This increases each round and when you travel. If you reach 50 Threat, your Quest fails. "
+    "Text_FR": "Elle augmente à chaque tour et quand vous voyagez. Si vous atteignez 50 en Menace, votre quête échoue. "
   },
   {
     "Id": "G_065_TERM",
     "Text": "Threat",
     "Text_CN": "Threat",
-    "Text_FR": "Threat"
+    "Text_FR": "Menace"
   },
   {
     "Id": "G_066_DESC",
     "Text": "This tracks the level of risk you take during a Quest. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, you fail the Quest. ",
     "Text_CN": "This tracks the level of risk you take during a Quest. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, you fail the Quest. ",
-    "Text_FR": "This tracks the level of risk you take during a Quest. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, you fail the Quest. "
+    "Text_FR": "Elle suit le niveau de risque que vous prenez durant une quête. Votre niveau de Menace augmente à la fin de chaque tour et quand vous voyagez. Si vous atteignez 50 en menace, votre quête échoue. "
   },
   {
     "Id": "G_066_TERM",
     "Text": "Threat Meter",
     "Text_CN": "装备",
-    "Text_FR": "Sentinelle"
+    "Text_FR": "Jauge de Menace"
   },
   {
     "Id": "G_067_DESC",
     "Text": "This number applies from each Hero to the Threat meter at the start of the Quest.",
     "Text_CN": "This number applies from each Hero to the Threat meter at the start of the Quest.",
-    "Text_FR": "This number applies from each Hero to the Threat meter at the start of the Quest."
+    "Text_FR": "Ce chiffre, lié à chaque héros, s'ajoute à la Jauge de Menace en début de quête."
   },
   {
     "Id": "G_067_TERM",
     "Text": "Threat Value",
     "Text_CN": "装备",
-    "Text_FR": "Sphères d'influence"
+    "Text_FR": "Niveau de Menace"
   },
   {
     "Id": "G_068_DESC",
     "Text": "Some cards have traits which indicate certain behavior or restrictions.",
     "Text_CN": "关键词。拥有此关键词的人物不会在执行首次行动后便进入行动完毕状态。 ",
-    "Text_FR": "Cette sphère d'influence souligne la prouesse martiale d'un héros, particulièrement à tout ce qui se rattache à l'art du combat et à la résolution des défis tactiques que les joueurs vont devoir affronter durant une quête."
+    "Text_FR": "Certaines cartes possèdent des traits, induisant un certain comportement ou des restrictions."
   },
   {
     "Id": "G_068_TERM",
     "Text": "Trait",
     "Text_CN": "警惕",
-    "Text_FR": "Tactique"
+    "Text_FR": "Trait"
   },
   {
     "Id": "G_069_DESC",
     "Text": "Indicates unrevealed Treachery cards",
     "Text_CN": "Indicates unrevealed Treachery cards",
-    "Text_FR": "Indicates unrevealed Treachery cards"
+    "Text_FR": "Indique les cartes Traîtrise cachées"
   },
   {
     "Id": "G_069_TERM",
     "Text": "Treachery Sockets",
     "Text_CN": "Treachery Sockets",
-    "Text_FR": "Treachery Sockets"
+    "Text_FR": "Emplacements de Traîtrise"
   },
   {
     "Id": "G_070_DESC",
     "Text": "At the start of each round, your cards ready, you gain Resources, and you draw 1 card from your deck; Sauron then does the same. Certain abilities may also activate at this time.",
     "Text_CN": "精灵族的次级分支。",
-    "Text_FR": "Le territoire sur lequel de nombreuses aventures du Seigneur des anneaux se déroulent."
+    "Text_FR": "Au début de chaque tour, vos cartes se préparent, vous gagnez des ressources et vous piochez 1 carte du deck. Sauron en fait de même. Certaines capacités peuvent également s'activer à ce moment-là."
   },
   {
     "Id": "G_070_TERM",
     "Text": "Upkeep",
     "Text_CN": "诺多精灵",
-    "Text_FR": "Terre du Milieu"
+    "Text_FR": "Entretien"
   },
   {
     "Id": "G_071_DESC",
     "Text": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more. ",
     "Text_CN": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more. ",
-    "Text_FR": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more. "
+    "Text_FR": "Récompenses du jeu que vous pouvez dépenser pour obtenir des quêtes, des héros, des cartes, des avatars et bien plus encore. "
   },
   {
     "Id": "G_071_TERM",
     "Text": "Valor Points",
     "Text_CN": "追逐",
-    "Text_FR": "Uruk-hai"
+    "Text_FR": "Points de Vaillance"
   },
   {
     "Id": "G_072_DESC",
     "Text": "This ability triggers upon defeating a target.",
     "Text_CN": "This ability triggers upon defeating a target.",
-    "Text_FR": "This ability triggers upon defeating a target."
+    "Text_FR": "Cette capacité s'active en venant à bout d'une cible."
   },
   {
     "Id": "G_072_TERM",
     "Text": "Vanquish",
     "Text_CN": "防护",
-    "Text_FR": "Vaincu"
+    "Text_FR": "Vainqueur"
   },
   {
     "Id": "G_073_DESC",
     "Text": "An Attachment type. A Character can have only one Attachment of each type at a time.",
     "Text_CN": "An Attachment type. A Character can have only one Attachment of each type at a time.",
-    "Text_FR": "An Attachment type. A Character can have only one Attachment of each type at a time."
+    "Text_FR": "Type d'attachement. Un personnage ne peut avoir qu'un attachement de même type à la fois."
   },
   {
     "Id": "G_073_TERM",
@@ -9393,204 +9399,12 @@
     "Id": "G_074_DESC",
     "Text": "Effectiveness when engaging an Objective.",
     "Text_CN": "Effectiveness when engaging an Objective.",
-    "Text_FR": "Effectiveness when engaging an Objective."
+    "Text_FR": "Efficacité en participant à un objectif."
   },
   {
     "Id": "G_074_TERM",
     "Text": "Willpower",
     "Text_CN": "领导型",
     "Text_FR": "Volonté"
-  },
-  {
-    "Id": "C_ATEST180402_TITLE",
-    "Text": "test card dev"
-  },
-  {
-    "Id": "C_ATEST180402_TEXT",
-    "Text": "TEST CARD ON DEV"
-  },
-  {
-    "Id": "C_ATEST180402_FLAVOR",
-    "Text": "TEST CARD ON DEV"
-  },
-  {
-    "Id": "C_ATEST18030706_TITLE",
-    "Text": ""
-  },
-  {
-    "Id": "C_ATEST18030706_TEXT",
-    "Text": "C_ATEST18030706_TEXT"
-  },
-  {
-    "Id": "C_ATEST18030706_FLAVOR",
-    "Text": "C_ATEST18030706_FLAVOR"
-  },
-  {
-    "Id": "C_BALIN_TITLE",
-    "Text": "‰Balin"
-  },
-  {
-    "Id": "C_BALIN_TEXT",
-    "Text": "<b>Power</b>: Remove an Enemy Shadow (Cost 2)"
-  },
-  {
-    "Id": "C_BALIN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_BEREVOR_TITLE",
-    "Text": "‰Berevor"
-  },
-  {
-    "Id": "C_BEREVOR_TEXT",
-    "Text": "<b>Power</b>: Exhaust to Draw 1 Card"
-  },
-  {
-    "Id": "C_BEREVOR_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_CALDARA_TITLE",
-    "Text": "‰Caldara"
-  },
-  {
-    "Id": "C_CALDARA_TEXT",
-    "Text": "<b>Power</b>: Gain a 1/0/1 <i>Gondorian Soldier</i> with <b>Fleeting</b>"
-  },
-  {
-    "Id": "C_CALDARA_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_EOMER_TITLE",
-    "Text": "‰Eomer"
-  },
-  {
-    "Id": "C_EOMER_TEXT",
-    "Text": "Once per round, when a Rohan character leaves play, gain +1 Attack and <b>Stalwart</b> until end of round"
-  },
-  {
-    "Id": "C_EOMER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_FREDEGARBOLGER_TITLE",
-    "Text": "‰Fredegar Bolger"
-  },
-  {
-    "Id": "C_FREDEGARBOLGER_TEXT",
-    "Text": "<b>Power</b>: Give a character <b>Stealth</b> until end of round"
-  },
-  {
-    "Id": "C_FREDEGARBOLGER_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GLOIN_TITLE",
-    "Text": "‰Gloin"
-  },
-  {
-    "Id": "C_GLOIN_TEXT",
-    "Text": "<b>Power</b>: Each damaged Dwarf gains +1 Willpower until end of round"
-  },
-  {
-    "Id": "C_GLOIN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GLORFINDEL_TITLE",
-    "Text": "‰Glorfindel"
-  },
-  {
-    "Id": "C_GLORFINDEL_TEXT",
-    "Text": "When <i>Glorfindel</i> dies, he returns with 5 Health, +1 Attack, +1 Willpower (Once per game)"
-  },
-  {
-    "Id": "C_GLORFINDEL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_HALDIR_TITLE",
-    "Text": "‰Haldir"
-  },
-  {
-    "Id": "C_HALDIR_TEXT",
-    "Text": "After Attacking, if the defender is a non-unique enemy reduce it's Attack to 1"
-  },
-  {
-    "Id": "C_HALDIR_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_IDRAEN_TITLE",
-    "Text": "‰Idraen"
-  },
-  {
-    "Id": "C_IDRAEN_TEXT",
-    "Text": "<b>Vanquish</b>: Ready <i>Idraen<i> (Once per round)"
-  },
-  {
-    "Id": "C_IDRAEN_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_IMRAHIL_TITLE",
-    "Text": "‰Imrahil"
-  },
-  {
-    "Id": "C_IMRAHIL_TEXT",
-    "Text": "Gondor characters all gain <b>Surge</b>"
-  },
-  {
-    "Id": "C_IMRAHIL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_ROSSIEL_TITLE",
-    "Text": "‰Rossiel"
-  },
-  {
-    "Id": "C_ROSSIEL_TEXT",
-    "Text": "<b>Power</b>: Exhaust to recall a non-unique Ally to your hand (Cost 1)"
-  },
-  {
-    "Id": "C_ROSSIEL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_THEODRED_TITLE",
-    "Text": "‰Theodred"
-  },
-  {
-    "Id": "C_THEODRED_TEXT",
-    "Text": "After applying progress on a quest with <i>Theodred</i> gain +1 Resource"
-  },
-  {
-    "Id": "C_THEODRED_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GONDORIANSOLDIERSPECIAL_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_GONDORIANSOLDIERSPECIAL_TITLE",
-    "Text": "Gondorian Soldier"
-  },
-  {
-    "Id": "C_GONDORIANSOLDIERSPECIAL_TEXT",
-    "Text": "<b>Fleeting</b>"
-  },
-  {
-    "Id": "C_MISPLACEDBAG_FLAVOR",
-    "Text": ""
-  },
-  {
-    "Id": "C_MISPLACEDBAG_TITLE",
-    "Text": "Misplaced Bag"
-  },
-  {
-    "Id": "C_MISPLACEDBAG_TEXT",
-    "Text": "Return a random attachment to its player's hand"
   }
 ]
