@@ -1,0 +1,34 @@
+{
+  "CardData": {
+    "Id": "Idraen",
+    "Owner": "Player",
+    "CardType": 5,
+    "ShopType": "HeroPack_WardenOfArnor",
+    "Cost": 9,
+    "QuestPoints": 0,
+    "Attack": 2,
+    "Willpower": 1,
+    "Health": 9,
+    "Trait": "Dunadan",
+    "Rarity": 5,
+    "Sphere": 4,
+    "SphereLevel": 0,
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "",
+    "ArtistName": "",
+    "Status": "WIP",
+    "ArtworkMD5": null,
+    "BannerMD5": null,
+    "IconMD5": null
+  },
+  "Localization": {
+    "Title": "‰Idraen",
+    "Text": "<b>Vanquish</b>: Ready <i>Idraen<i> (Once per round)"
+  }
+}

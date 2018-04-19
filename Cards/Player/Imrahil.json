@@ -1,0 +1,34 @@
+{
+  "CardData": {
+    "Id": "Imrahil",
+    "Owner": "Player",
+    "CardType": 5,
+    "ShopType": "HeroPack_PrinceOfDolAmroth",
+    "Cost": 11,
+    "QuestPoints": 0,
+    "Attack": 2,
+    "Willpower": 2,
+    "Health": 9,
+    "Trait": "Gondor",
+    "Rarity": 5,
+    "Sphere": 4,
+    "SphereLevel": 0,
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "",
+    "ArtistName": "",
+    "Status": "WIP",
+    "ArtworkMD5": null,
+    "BannerMD5": null,
+    "IconMD5": null
+  },
+  "Localization": {
+    "Title": "‰Imrahil",
+    "Text": "Gondor characters all gain <b>Surge</b>"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "CardData": {
+    "Id": "FredegarBolger",
+    "Owner": "Player",
+    "CardType": 5,
+    "ShopType": "HeroPack_UnsungHero",
+    "Cost": 7,
+    "QuestPoints": 0,
+    "Attack": 1,
+    "Willpower": 2,
+    "Health": 7,
+    "Trait": "Hobbit",
+    "Rarity": 5,
+    "Sphere": 1,
+    "SphereLevel": 0,
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "",
+    "ArtistName": "",
+    "Status": "WIP",
+    "ArtworkMD5": null,
+    "BannerMD5": null,
+    "IconMD5": null
+  },
+  "Localization": {
+    "Title": "‰Fredegar Bolger",
+    "Text": "<b>Power</b>: Give a character <b>Stealth</b> until end of round"
+  }
+}
