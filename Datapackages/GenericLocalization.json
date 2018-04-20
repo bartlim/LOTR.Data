@@ -4574,13 +4574,13 @@
   {
     "Id": "C_BEORNSHOSPITALITY_TEXT",
     "Text": "<b>Choose</b>: Restore 1 Health\nto each Character; or restore\n4 Health to a Hero",
-    "Text_CN": "0",
+    "Text_CN": "",
     "Text_FR": "Soignez 3 points de dégâts d'un personnage."
   },
   {
     "Id": "C_BEORNSHOSPITALITY_TITLE",
     "Text": "Beorn's Hospitality",
-    "Text_CN": "0",
+    "Text_CN": "",
     "Text_FR": "Hospitalité de Beorn"
   },
   {
@@ -4647,7 +4647,7 @@
     "Id": "C_BLACKFORESTBATS_TEXT",
     "Text": "",
     "Text_CN": "",
-    "Text_FR": "0"
+    "Text_FR": ""
   },
   {
     "Id": "C_BLACKFORESTBATS_TITLE",
@@ -4670,7 +4670,7 @@
   {
     "Id": "C_BLADEOFGONDOLIN_TITLE",
     "Text": "Blade of Gondolin",
-    "Text_CN": "0",
+    "Text_CN": "",
     "Text_FR": "Lame de Gondolin"
   },
   {
@@ -4760,14 +4760,14 @@
   {
     "Id": "C_BURSTINTOSONG_TITLE",
     "Text": "Burst into Song",
-    "Text_CN": "0",
+    "Text_CN": "",
     "Text_FR": "Burst into Song"
   },
   {
     "Id": "C_CAREFULPLANNING_FLAVOR",
     "Text": "\"In the meanwhile stick to your plan; but be more careful than ever, especially of the Ring.\"\n—Gandalf, <i>The Fellowship of the Ring</i>",
-    "Text_CN": "C_CAREFULPLANNING_FLAVOR",
-    "Text_FR": "C_CAREFULPLANNING_FLAVOR"
+    "Text_CN": "\"In the meanwhile stick to your plan; but be more careful than ever, especially of the Ring.\"\n—Gandalf, <i>The Fellowship of the Ring</i>",
+    "Text_FR": "\"In the meanwhile stick to your plan; but be more careful than ever, especially of the Ring.\"\n—Gandalf, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_CAREFULPLANNING_TEXT",
@@ -4855,15 +4855,21 @@
   },
   {
     "Id": "C_COMMONCAUSE_FLAVOR",
-    "Text": "You have come and are here met, in this very nick of time, by chance as it may seem. Yet it is not so. Believe rather that it is so ordered that we, who sit here, and none others, must now find counsel for the peril of the world.\n—Gandalf, <i>The Fellowship of the Ring</i>"
+    "Text": "You have come and are here met, in this very nick of time, by chance as it may seem. Yet it is not so. Believe rather that it is so ordered that we, who sit here, and none others, must now find counsel for the peril of the world.\n—Gandalf, <i>The Fellowship of the Ring</i>",
+    "Text_CN": "You have come and are here met, in this very nick of time, by chance as it may seem. Yet it is not so. Believe rather that it is so ordered that we, who sit here, and none others, must now find counsel for the peril of the world.\n—Gandalf, <i>The Fellowship of the Ring</i>",
+    "Text_FR": "You have come and are here met, in this very nick of time, by chance as it may seem. Yet it is not so. Believe rather that it is so ordered that we, who sit here, and none others, must now find counsel for the peril of the world.\n—Gandalf, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_COMMONCAUSE_TEXT",
-    "Text": "Exhaust an Ally to ready another Character"
+    "Text": "Exhaust an Ally to ready another Character",
+    "Text_CN": "Exhaust an Ally to ready another Character",
+    "Text_FR": "Exhaust an Ally to ready another Character"
   },
   {
     "Id": "C_COMMONCAUSE_TITLE",
-    "Text": "Common Cause"
+    "Text": "Common Cause",
+    "Text_CN": "Common Cause",
+    "Text_FR": "Common Cause"
   },
   {
     "Id": "C_CONTINUEDOWNSTREAM_FLAVOR",
@@ -5012,8 +5018,8 @@
   {
     "Id": "C_DUNEDAINQUEST_FLAVOR",
     "Text": "\"Word came to Rivendell, they say: <i>Aragorn has need of his kindred. Let the Dúnedain ride to him in Rohan!</i>\"\n—Gimli, <i>The Return of the King</i>",
-    "Text_CN": "C_DUNEDAINQUEST_FLAVOR",
-    "Text_FR": "C_DUNEDAINQUEST_FLAVOR"
+    "Text_CN": "\"Word came to Rivendell, they say: <i>Aragorn has need of his kindred. Let the Dúnedain ride to him in Rohan!</i>\"\n—Gimli, <i>The Return of the King</i>",
+    "Text_FR": "\"Word came to Rivendell, they say: <i>Aragorn has need of his kindred. Let the Dúnedain ride to him in Rohan!</i>\"\n—Gimli, <i>The Return of the King</i>"
   },
   {
     "Id": "C_DUNEDAINQUEST_TEXT",
@@ -5030,14 +5036,14 @@
   {
     "Id": "C_DWARVENAXE_FLAVOR",
     "Text": "Beside them Gimli stood with his stout legs apart, wielding his dwarf-axe.\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": "C_DWARVENAXE_FLAVOR",
-    "Text_FR": "C_DWARVENAXE_FLAVOR"
+    "Text_CN": "Beside them Gimli stood with his stout legs apart, wielding his dwarf-axe.\n—<i>The Fellowship of the Ring</i>",
+    "Text_FR": "Beside them Gimli stood with his stout legs apart, wielding his dwarf-axe.\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_DWARVENAXE_TEXT",
     "Text": "Gain +1 Attack; or\ngain +2 Attack if the Character\nis a Dwarf",
-    "Text_CN": "C_DWARVENAXE_TEXT",
-    "Text_FR": "C_DWARVENAXE_TEXT"
+    "Text_CN": "Gain +1 Attack; or\ngain +2 Attack if the Character\nis a Dwarf",
+    "Text_FR": "Gain +1 Attack; or\ngain +2 Attack if the Character\nis a Dwarf"
   },
   {
     "Id": "C_DWARVENAXE_TITLE",
@@ -5073,7 +5079,7 @@
     "Id": "C_EASTBIGHTPATROL_TEXT",
     "Text": "",
     "Text_CN": "",
-    "Text_FR": "0"
+    "Text_FR": ""
   },
   {
     "Id": "C_EASTBIGHTPATROL_TITLE",
@@ -5594,13 +5600,13 @@
   {
     "Id": "C_FREETOCHOOSE_TEXT",
     "Text": "<b>Power</b>: Lose 2 Threat",
-    "Text_CN": "0",
+    "Text_CN": "",
     "Text_FR": "<b>Pouvoir</b> : perdez 2 en Menace"
   },
   {
     "Id": "C_FREETOCHOOSE_TITLE",
     "Text": "Free to Choose",
-    "Text_CN": "0",
+    "Text_CN": "",
     "Text_FR": "Libre de choisir"
   },
   {
@@ -5696,13 +5702,13 @@
   {
     "Id": "C_GANDALFSSEARCH_TEXT",
     "Text": "Draw 2 cards",
-    "Text_CN": "0",
+    "Text_CN": "",
     "Text_FR": "Piochez 2 cartes"
   },
   {
     "Id": "C_GANDALFSSEARCH_TITLE",
     "Text": "Gandalf's Search",
-    "Text_CN": "0",
+    "Text_CN": "",
     "Text_FR": "Les recherches de Gandalf"
   },
   {
@@ -5918,8 +5924,8 @@
   {
     "Id": "C_GUARDOFTHELONELYMOUNTAIN_FLAVOR",
     "Text": "“Here,” said Balin, “in the old days we used always to keep watchmen, and that door behind leads into a rock-hewn chamber that was made here as a guardroom.\"\n—<i>The Hobbit</i>",
-    "Text_CN": "C_GUARDOFTHELONELYMOUNTAIN_FLAVOR",
-    "Text_FR": "C_GUARDOFTHELONELYMOUNTAIN_FLAVOR"
+    "Text_CN": "“Here,” said Balin, “in the old days we used always to keep watchmen, and that door behind leads into a rock-hewn chamber that was made here as a guardroom.\"\n—<i>The Hobbit</i>",
+    "Text_FR": "“Here,” said Balin, “in the old days we used always to keep watchmen, and that door behind leads into a rock-hewn chamber that was made here as a guardroom.\"\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_GUARDOFTHELONELYMOUNTAIN_TEXT",
@@ -5966,7 +5972,7 @@
   {
     "Id": "C_HASTYSTROKE_TITLE",
     "Text": "Hasty Stroke",
-    "Text_CN": "0",
+    "Text_CN": "",
     "Text_FR": "Hasty Stroke"
   },
   {
@@ -6182,7 +6188,7 @@
   {
     "Id": "C_ITHILIENARCHER_TITLE",
     "Text": "Ithilien Archer",
-    "Text_CN": "0",
+    "Text_CN": "",
     "Text_FR": "Ithilien Archer"
   },
   {
@@ -6195,7 +6201,7 @@
     "Id": "C_ITHILIENLOOKOUT_TEXT",
     "Text": "",
     "Text_CN": "",
-    "Text_FR": "0"
+    "Text_FR": ""
   },
   {
     "Id": "C_ITHILIENLOOKOUT_TITLE",
@@ -6231,7 +6237,7 @@
     "Id": "C_KINGSPIDER_TEXT",
     "Text": "",
     "Text_CN": "",
-    "Text_FR": "0"
+    "Text_FR": ""
   },
   {
     "Id": "C_KINGSPIDER_TITLE",
@@ -6242,8 +6248,8 @@
   {
     "Id": "C_LEFTRIVERFORK_FLAVOR",
     "Text": "…it was the same stream that trickled far above out of the round pool, now grown to a swift torrent, leaping down over many stones…\n—<i>The Two Towers</i>",
-    "Text_CN": "C_LEFTRIVERFORK_FLAVOR",
-    "Text_FR": "C_LEFTRIVERFORK_FLAVOR"
+    "Text_CN": "…it was the same stream that trickled far above out of the round pool, now grown to a swift torrent, leaping down over many stones…\n—<i>The Two Towers</i>",
+    "Text_FR": "…it was the same stream that trickled far above out of the round pool, now grown to a swift torrent, leaping down over many stones…\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_LEFTRIVERFORK_TEXT",
@@ -6290,7 +6296,7 @@
   {
     "Id": "C_LEGOLAS_TITLE",
     "Text": "‰Legolas   ",
-    "Text_CN": "0",
+    "Text_CN": "",
     "Text_FR": "‰Legolas   "
   },
   {
@@ -6314,8 +6320,8 @@
   {
     "Id": "C_LONGBEARDMAPMAKER_FLAVOR",
     "Text": "“Durin, Durin!” said Thorin. “He was the father of the fathers of the eldest race of Dwarves, the Longbeards, and my first ancestor: I am his heir.”\n—<i>The Hobbit</i>",
-    "Text_CN": "C_LONGBEARDMAPMAKER_FLAVOR",
-    "Text_FR": "C_LONGBEARDMAPMAKER_FLAVOR"
+    "Text_CN": "“Durin, Durin!” said Thorin. “He was the father of the fathers of the eldest race of Dwarves, the Longbeards, and my first ancestor: I am his heir.”\n—<i>The Hobbit</i>",
+    "Text_FR": "“Durin, Durin!” said Thorin. “He was the father of the fathers of the eldest race of Dwarves, the Longbeards, and my first ancestor: I am his heir.”\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_LONGBEARDMAPMAKER_TEXT",
@@ -6650,7 +6656,7 @@
   {
     "Id": "C_PARTINGGIFTS_TITLE",
     "Text": "Parting Gifts",
-    "Text_CN": "0",
+    "Text_CN": "",
     "Text_FR": "Cadeaux d'adieu"
   },
   {
@@ -6836,8 +6842,8 @@
   {
     "Id": "C_RAPIDS_FLAVOR",
     "Text": "It was flowing fast and noisily, as mountain-streams do of a summer evening, when sun has been all day on the snow far up above.\n—<i>The Hobbit</i>",
-    "Text_CN": "C_RAPIDS_FLAVOR",
-    "Text_FR": "C_RAPIDS_FLAVOR"
+    "Text_CN": "It was flowing fast and noisily, as mountain-streams do of a summer evening, when sun has been all day on the snow far up above.\n—<i>The Hobbit</i>",
+    "Text_FR": "It was flowing fast and noisily, as mountain-streams do of a summer evening, when sun has been all day on the snow far up above.\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_RAPIDS_TEXT",
@@ -6926,8 +6932,8 @@
   {
     "Id": "C_RHOVANIONOUTRIDER_FLAVOR",
     "Text": "…others had climbed the pass at the source of the Gladden River, and had come down into Wilderland and over the Gladden Fields…\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": "C_RHOVANIONOUTRIDER_FLAVOR",
-    "Text_FR": "C_RHOVANIONOUTRIDER_FLAVOR"
+    "Text_CN": "…others had climbed the pass at the source of the Gladden River, and had come down into Wilderland and over the Gladden Fields…\n—<i>The Fellowship of the Ring</i>",
+    "Text_FR": "…others had climbed the pass at the source of the Gladden River, and had come down into Wilderland and over the Gladden Fields…\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_RHOVANIONOUTRIDER_TEXT",
@@ -6962,8 +6968,8 @@
   {
     "Id": "C_RIVERBEND_FLAVOR",
     "Text": "After a while the river rounded a steep shoulder of land that came down upon their left.\n—<i>The Hobbit</i>",
-    "Text_CN": "C_RIVERBEND_FLAVOR",
-    "Text_FR": "C_RIVERBEND_FLAVOR"
+    "Text_CN": "After a while the river rounded a steep shoulder of land that came down upon their left.\n—<i>The Hobbit</i>",
+    "Text_FR": "After a while the river rounded a steep shoulder of land that came down upon their left.\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_RIVERBEND_TEXT",
@@ -6980,8 +6986,8 @@
   {
     "Id": "C_RIVERCHANNEL_FLAVOR",
     "Text": "\t\t\"…on the other side is a cliff standing up from a swirling channel.\"\n—Gandalf, <i>The Hobbit</i>",
-    "Text_CN": "C_RIVERCHANNEL_FLAVOR",
-    "Text_FR": "C_RIVERCHANNEL_FLAVOR"
+    "Text_CN": "\t\t\"…on the other side is a cliff standing up from a swirling channel.\"\n—Gandalf, <i>The Hobbit</i>",
+    "Text_FR": "\t\t\"…on the other side is a cliff standing up from a swirling channel.\"\n—Gandalf, <i>The Hobbit</i>"
   },
   {
     "Id": "C_RIVERCHANNEL_TEXT",
@@ -6997,15 +7003,21 @@
   },
   {
     "Id": "C_ROCKS_FLAVOR",
-    "Text": "…the shores grew rocky, the river gathered all its wandering waters together into a deep and rapid flood, and they swept along at great speed.\r\n—<i>The Hobbit</i>"
+    "Text": "…the shores grew rocky, the river gathered all its wandering waters together into a deep and rapid flood, and they swept along at great speed.\n—<i>The Hobbit</i>",
+    "Text_CN": "…the shores grew rocky, the river gathered all its wandering waters together into a deep and rapid flood, and they swept along at great speed.\n—<i>The Hobbit</i>",
+    "Text_FR": "…the shores grew rocky, the river gathered all its wandering waters together into a deep and rapid flood, and they swept along at great speed.\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_ROCKS_TEXT",
-    "Text": "End of round: Gain +2 Threat"
+    "Text": "End of round: Gain +2 Threat.",
+    "Text_CN": "End of round: Gain +2 Threat",
+    "Text_FR": "End of round: Gain +2 Threat"
   },
   {
     "Id": "C_ROCKS_TITLE",
-    "Text": "Rocks!"
+    "Text": "Rocks!",
+    "Text_CN": "Rocks!",
+    "Text_FR": "Rocks!"
   },
   {
     "Id": "C_ROHIRRIMLANCER_FLAVOR",
@@ -7262,7 +7274,7 @@
   {
     "Id": "C_SPIDERQUEEN_TITLE",
     "Text": "Spider Queen",
-    "Text_CN": "0",
+    "Text_CN": "",
     "Text_FR": "Spider Queen"
   },
   {
@@ -7293,7 +7305,7 @@
     "Id": "C_SPIDERSOFMIRKWOOD_TEXT",
     "Text": "",
     "Text_CN": "",
-    "Text_FR": "0"
+    "Text_FR": ""
   },
   {
     "Id": "C_SPIDERSOFMIRKWOOD_TITLE",
@@ -7322,8 +7334,8 @@
   {
     "Id": "C_SPIKETRAP_FLAVOR",
     "Text": "\"Walk warily!\" said Merry. \"There are loose slabs that may tilt up and throw you down into a pit, if you don’t take care.\"\n—<i>The Two Towers</i>",
-    "Text_CN": "C_SPIKETRAP_FLAVOR",
-    "Text_FR": "C_SPIKETRAP_FLAVOR"
+    "Text_CN": "\"Walk warily!\" said Merry. \"There are loose slabs that may tilt up and throw you down into a pit, if you don’t take care.\"\n—<i>The Two Towers</i>",
+    "Text_FR": "\"Walk warily!\" said Merry. \"There are loose slabs that may tilt up and throw you down into a pit, if you don’t take care.\"\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_SPIKETRAP_TEXT",
@@ -7484,8 +7496,8 @@
   {
     "Id": "C_SWIRLINGEDDY_FLAVOR",
     "Text": "Sam shuffled along, clutching hard, and looking down into the pale eddying water as if it was a chasm in the mountains.\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": "C_SWIRLINGEDDY_FLAVOR",
-    "Text_FR": "C_SWIRLINGEDDY_FLAVOR"
+    "Text_CN": "Sam shuffled along, clutching hard, and looking down into the pale eddying water as if it was a chasm in the mountains.\n—<i>The Fellowship of the Ring</i>",
+    "Text_FR": "Sam shuffled along, clutching hard, and looking down into the pale eddying water as if it was a chasm in the mountains.\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_SWIRLINGEDDY_TEXT",
@@ -7748,7 +7760,7 @@
   {
     "Id": "C_UNEXPECTEDCOURAGE_TITLE",
     "Text": "Unexpected Courage",
-    "Text_CN": "0",
+    "Text_CN": "",
     "Text_FR": "Unexpected Courage"
   },
   {
@@ -7833,7 +7845,7 @@
     "Id": "C_VETERANAXEHAND_TEXT",
     "Text": "",
     "Text_CN": "",
-    "Text_FR": "0"
+    "Text_FR": ""
   },
   {
     "Id": "C_VETERANAXEHAND_TITLE",
@@ -9396,7 +9408,15 @@
     "Text_FR": "Volonté"
   },
   {
-    "Id": "C_MAGICRING_FLAVOR",
+    "Id": "C_ATEST18030706_FLAVOR",
+    "Text": "C_ATEST18030706_FLAVOR"
+  },
+  {
+    "Id": "C_ATEST18030706_TITLE",
     "Text": ""
+  },
+  {
+    "Id": "C_ATEST18030706_TEXT",
+    "Text": "C_ATEST18030706_TEXT"
   }
 ]
