@@ -1,17 +1,17 @@
 {
   "CardData": {
-    "Id": "ATest18030706",
+    "Id": "Rossiel",
     "Owner": "Player",
-    "CardType": 0,
-    "ShopType": "",
-    "Cost": 1,
+    "CardType": 5,
+    "ShopType": "HeroPack_ElvenScout",
+    "Cost": 8,
     "QuestPoints": 0,
     "Attack": 1,
     "Willpower": 2,
-    "Health": 5,
-    "Trait": "",
-    "Rarity": 0,
-    "Sphere": 0,
+    "Health": 8,
+    "Trait": "Silvan",
+    "Rarity": 5,
+    "Sphere": 3,
     "SphereLevel": 0,
     "Revision": "test",
     "PlayVFX": "",
@@ -20,15 +20,15 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "C_ATEST18030706_FLAVOR",
+    "FlavorText": "",
     "ArtistName": "",
-    "Status": "None",
-    "ArtworkMD5": "6a96f6c6303730ca9811c9d6abdedfd5",
+    "Status": "WIP",
+    "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
-    "Title": "",
-    "Text": "C_ATEST18030706_TEXT"
+    "Title": "‰Rossiel",
+    "Text": "<b>Power</b>: Exhaust to recall a non-unique Ally to your hand (Cost 1)"
   }
 }

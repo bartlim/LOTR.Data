@@ -1,21 +1,21 @@
 {
-  "Id": "test0227",
+  "Id": "test0416",
   "IconSprite": "Sprites/Quest/icon_q1",
-  "MapPosX": 12.0,
-  "MapPosY": -20.0,
+  "MapPosX": 4.0,
+  "MapPosY": -13.0,
   "Quests": [
     {
-      "Id": "test0227Quest01",
+      "Id": "test0416Quest01",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
-      "VictoryVoice": "Victory",
-      "DefeatVoice": "Defeat",
+      "VictoryVoice": null,
+      "DefeatVoice": null,
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
           "Id": "Location101",
           "SceneName": "Q01_L01_ForestGate",
-          "IntroVoice": "test0227Quest01Location101IntroVoice",
+          "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
             "FindThePath",
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "Id": "test0227Quest02",
+      "Id": "test0416Quest02",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "Id": "test0227Quest03",
+      "Id": "test0416Quest03",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "Id": "test0227Quest04",
+      "Id": "test0416Quest04",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "Id": "test0227Quest05",
+      "Id": "test0416Quest05",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,

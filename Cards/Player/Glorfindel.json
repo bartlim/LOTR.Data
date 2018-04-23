@@ -1,0 +1,34 @@
+{
+  "CardData": {
+    "Id": "Glorfindel",
+    "Owner": "Player",
+    "CardType": 5,
+    "ShopType": "HeroPack_TheLightOfHope",
+    "Cost": 10,
+    "QuestPoints": 0,
+    "Attack": 2,
+    "Willpower": 2,
+    "Health": 9,
+    "Trait": "Noldor",
+    "Rarity": 5,
+    "Sphere": 3,
+    "SphereLevel": 0,
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "",
+    "ArtistName": "",
+    "Status": "WIP",
+    "ArtworkMD5": null,
+    "BannerMD5": null,
+    "IconMD5": null
+  },
+  "Localization": {
+    "Title": "‰Glorfindel",
+    "Text": "When <i>Glorfindel</i> dies, he returns with 5 Health, +1 Attack, +1 Willpower (Once per game)"
+  }
+}

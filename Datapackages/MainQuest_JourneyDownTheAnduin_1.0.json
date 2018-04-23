@@ -249,7 +249,6 @@
         "Title": "ToTheRiver",
         "SoloGameSetup": [
           "BoardTheRaft",
-          "DolGuldurOrcs",
           "EastBightPatrol",
           "HillTroll"
         ],
@@ -293,6 +292,7 @@
         "SoloGameSetup": [
           "RiverBend",
           "Rocks",
+          "Rocks",
           "RangerProvisions"
         ],
         "CoopGameSetup": [],
@@ -320,9 +320,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180412174522972",
+  "Version": "20180416202037466",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180412174522972"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180416202037466"
 }

@@ -1,18 +1,18 @@
 {
   "CardData": {
-    "Id": "ATest18030706",
+    "Id": "GondorianSoldierSpecial",
     "Owner": "Player",
     "CardType": 0,
-    "ShopType": "",
-    "Cost": 1,
+    "ShopType": "Special",
+    "Cost": 0,
     "QuestPoints": 0,
     "Attack": 1,
-    "Willpower": 2,
-    "Health": 5,
-    "Trait": "",
+    "Willpower": 0,
+    "Health": 1,
+    "Trait": "Gondor",
     "Rarity": 0,
     "Sphere": 0,
-    "SphereLevel": 0,
+    "SphereLevel": 1,
     "Revision": "test",
     "PlayVFX": "",
     "PlaySFX": "",
@@ -20,15 +20,15 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "C_ATEST18030706_FLAVOR",
+    "FlavorText": "",
     "ArtistName": "",
-    "Status": "None",
-    "ArtworkMD5": "6a96f6c6303730ca9811c9d6abdedfd5",
+    "Status": "WIP",
+    "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
-    "Title": "",
-    "Text": "C_ATEST18030706_TEXT"
+    "Title": "Gondorian Soldier",
+    "Text": "<b>Fleeting</b>"
   }
 }

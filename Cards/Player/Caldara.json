@@ -1,0 +1,34 @@
+{
+  "CardData": {
+    "Id": "Caldara",
+    "Owner": "Player",
+    "CardType": 5,
+    "ShopType": "HeroPack_DefenderOfGondor",
+    "Cost": 10,
+    "QuestPoints": 0,
+    "Attack": 2,
+    "Willpower": 1,
+    "Health": 9,
+    "Trait": "Gondor",
+    "Rarity": 5,
+    "Sphere": 0,
+    "SphereLevel": 0,
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "",
+    "ArtistName": "",
+    "Status": "WIP",
+    "ArtworkMD5": null,
+    "BannerMD5": null,
+    "IconMD5": null
+  },
+  "Localization": {
+    "Title": "‰Caldara",
+    "Text": "<b>Power</b>: Gain a 1/0/1 <i>Gondorian Soldier</i> with <b>Fleeting</b>"
+  }
+}

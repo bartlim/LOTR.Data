@@ -1,17 +1,17 @@
 {
   "CardData": {
-    "Id": "ATest18030706",
-    "Owner": "Player",
-    "CardType": 0,
+    "Id": "MisplacedBag",
+    "Owner": "Sauron",
+    "CardType": 9,
     "ShopType": "",
     "Cost": 1,
     "QuestPoints": 0,
-    "Attack": 1,
-    "Willpower": 2,
-    "Health": 5,
+    "Attack": 0,
+    "Willpower": 0,
+    "Health": 0,
     "Trait": "",
     "Rarity": 0,
-    "Sphere": 0,
+    "Sphere": 2,
     "SphereLevel": 0,
     "Revision": "test",
     "PlayVFX": "",
@@ -20,15 +20,15 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "C_ATEST18030706_FLAVOR",
+    "FlavorText": "",
     "ArtistName": "",
-    "Status": "None",
-    "ArtworkMD5": "6a96f6c6303730ca9811c9d6abdedfd5",
+    "Status": "WIP",
+    "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
-    "Title": "",
-    "Text": "C_ATEST18030706_TEXT"
+    "Title": "Misplaced Bag",
+    "Text": "Return a random attachment to its player's hand"
   }
 }

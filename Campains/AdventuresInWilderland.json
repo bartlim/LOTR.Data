@@ -32,7 +32,6 @@
           "IntroVoice": "Q1L2_CapturedBySpiders",
           "IntroSprite": "Sprites/Locations/Quest1_Stage02",
           "SoloGameSetup": [
-            "Hummerhorns",
             "KingSpider",
             "KingSpider"
           ],
@@ -702,7 +701,6 @@
           "IntroSprite": "Sprites/Locations/Quest4_Stage01",
           "SoloGameSetup": [
             "BoardTheRaft",
-            "DolGuldurOrcs",
             "EastBightPatrol",
             "HillTroll"
           ],
@@ -745,6 +743,7 @@
           "IntroSprite": "Sprites/Locations/Quest4_Stage03B",
           "SoloGameSetup": [
             "RiverBend",
+            "Rocks",
             "Rocks",
             "RangerProvisions"
           ],
