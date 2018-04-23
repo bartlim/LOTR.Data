@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -9407,10 +9407,13 @@
     "Text_CN": "[C]领导型",
     "Text_FR": "Volonté"
 <<<<<<< HEAD
+<<<<<<< HEAD
   },
   {
     "Id": "C_ATEST18030706_FLAVOR",
     "Text": "C_ATEST18030706_FLAVOR"
+=======
+>>>>>>> 10accd131f1a3eddcbfcf7087f6836ce9f9605c5
   },
   {
     "Id": "C_ATEST18030706_TITLE",
@@ -9421,9 +9424,14 @@
     "Text": "C_ATEST18030706_TEXT"
   },
   {
+<<<<<<< HEAD
     "Id": "C_MAGICRING_FLAVOR",
     "Text": ""
 =======
 >>>>>>> dev-testing
+=======
+    "Id": "C_ATEST18030706_FLAVOR",
+    "Text": "C_ATEST18030706_FLAVOR"
+>>>>>>> 10accd131f1a3eddcbfcf7087f6836ce9f9605c5
   }
 ]
