@@ -4481,7 +4481,7 @@
   },
   {
     "Id": "C_ATEST180307_TEXT",
-    "Text": "tes one for dev"
+    "Text": "test one for dev"
   },
   {
     "Id": "C_ATEST180307_TITLE",
@@ -9402,6 +9402,10 @@
     "Text_FR": "Volonté"
   },
   {
+    "Id": "C_ATEST18030706_FLAVOR",
+    "Text": "C_ATEST18030706_FLAVOR"
+  },
+  {
     "Id": "C_ATEST18030706_TITLE",
     "Text": ""
   },
@@ -9410,7 +9414,19 @@
     "Text": "C_ATEST18030706_TEXT"
   },
   {
-    "Id": "C_ATEST18030706_FLAVOR",
-    "Text": "C_ATEST18030706_FLAVOR"
+    "Id": "C_MAGICRING_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_ATEST180402_TITLE",
+    "Text": "test card dev"
+  },
+  {
+    "Id": "C_ATEST180402_TEXT",
+    "Text": "TEST CARD ON DEV"
+  },
+  {
+    "Id": "C_ATEST180402_FLAVOR",
+    "Text": "TEST CARD ON DEV"
   }
 ]
