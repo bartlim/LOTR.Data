@@ -6829,15 +6829,11 @@
   },
   {
     "Id": "C_SEARCHTHEAREA_TEXT",
-    "Text": "You resolve this Objective",
-    "Text_CN": "You resolve this Objective",
-    "Text_FR": "You resolve this Objective"
+    "Text": "You resolve this Objective"
   },
   {
     "Id": "C_SEARCHTHEAREA_TITLE",
-    "Text": "Search the Area",
-    "Text_CN": "搜索区域",
-    "Text_FR": "Fouiller la zone"
+    "Text": "Search the Area"
   },
   {
     "Id": "C_SECRETPATHS_FLAVOR",
@@ -10285,6 +10281,10 @@
   },
   {
     "Id": "C_ATEST180424_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "C_SEARCHTHEAREA_FLAVOR",
     "Text": ""
   }
 ]
