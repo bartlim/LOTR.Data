@@ -18,17 +18,23 @@
     "PlaySFX": "",
     "AttackVFX": "",
     "AttackSFX": "",
-    "DeathVFX": "",
+    "DeathVFX": "Effect_Door",
     "DeathSFX": "",
     "FlavorText": "C_RAPIDS_FLAVOR",
     "ArtistName": "David Lecossu",
     "Status": "WIP",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 0.0,
+    "CameoOffsetY": 0.0,
+    "CameoScale": 0.0,
     "ArtworkMD5": "9b18feda64e802103199ebef49c05211",
     "BannerMD5": "52415abb47e3c81be2bc0d4ae9b23ea1",
     "IconMD5": "b7b7452404efc9d978067c4575824a15"
   },
   "Localization": {
     "Title": "Rapids",
-    "Text": "End of round: Deal 2 damage\nto a random Character\nuntil this is resolved"
+    "Text": "End of round: Deal 2 damage\nto a random Character"
   }
 }
