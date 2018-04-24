@@ -3,13 +3,13 @@
     "Id": "ATest180307",
     "Owner": "Player",
     "CardType": 5,
-    "ShopType": "",
+    "ShopType": "Starter",
     "Cost": 3,
     "QuestPoints": 3,
-    "Attack": 9,
-    "Willpower": 9,
+    "Attack": 8,
+    "Willpower": 7,
     "Health": 9,
-    "Trait": "test",
+    "Trait": "test1",
     "Rarity": 0,
     "Sphere": 0,
     "SphereLevel": 3,
@@ -23,12 +23,18 @@
     "FlavorText": "ffdd exp",
     "ArtistName": "test",
     "Status": "None",
+    "CardOffsetX": 1.5,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.5,
+    "CameoScale": 1.0,
     "ArtworkMD5": "6a96f6c6303730ca9811c9d6abdedfd5",
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "test",
-    "Text": "loclov exp"
+    "Text": "loclov exps"
   }
 }

@@ -1,0 +1,40 @@
+{
+  "CardData": {
+    "Id": "RangerBow",
+    "Owner": "Player",
+    "CardType": 1,
+    "ShopType": "Valor",
+    "Cost": 1,
+    "QuestPoints": 0,
+    "Attack": 0,
+    "Willpower": 0,
+    "Health": 0,
+    "Trait": "Weapon",
+    "Rarity": 1,
+    "Sphere": 1,
+    "SphereLevel": 1,
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "",
+    "ArtistName": "",
+    "Status": "None",
+    "CardOffsetX": 0.0,
+    "CardOffsetY": 0.0,
+    "CardScale": 0.0,
+    "CameoOffsetX": 0.0,
+    "CameoOffsetY": 0.0,
+    "CameoScale": 0.0,
+    "ArtworkMD5": null,
+    "BannerMD5": null,
+    "IconMD5": null
+  },
+  "Localization": {
+    "Title": "Ranger Bow",
+    "Text": "Gain <b>Ranged</b>"
+  }
+}

@@ -33,7 +33,6 @@
           "IntroVoice": "Q1L2_CapturedBySpiders",
           "IntroSprite": "Sprites/Locations/Quest1_Stage02",
           "SoloGameSetup": [
-            "Hummerhorns",
             "KingSpider",
             "KingSpider"
           ],
@@ -114,7 +113,7 @@
         },
         {
           "Id": "EastBightPatrol",
-          "Amount": 4
+          "Amount": 3
         },
         {
           "Id": "EyesOfTheForest",
@@ -179,6 +178,10 @@
         {
           "Id": "LowOnSupplies",
           "Amount": 2
+        },
+        {
+          "Id": "OrcMarauder",
+          "Amount": 1
         },
         {
           "Id": "SpidersOfMirkwood",
@@ -477,7 +480,6 @@
           "SoloGameSetup": [
             "GiantMarshWorm",
             "Hummerhorns",
-            "MuckAdder",
             "MuckAdder",
             "MuckAdder"
           ],
@@ -961,9 +963,9 @@
           "IntroVoice": "Q5L3_FightWithTheTrolls",
           "IntroSprite": "Sprites/Locations/Quest5_Stage03",
           "SoloGameSetup": [
+            "Morris",
             "Louis",
             "Stuart",
-            "Rupert",
             "DelayUntilDawn"
           ],
           "NextStageId": "",

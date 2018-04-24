@@ -1,0 +1,40 @@
+{
+  "CardData": {
+    "Id": "HatedFoe",
+    "Owner": "Player",
+    "CardType": 4,
+    "ShopType": "Valor",
+    "Cost": 0,
+    "QuestPoints": 0,
+    "Attack": 0,
+    "Willpower": 0,
+    "Health": 0,
+    "Trait": "",
+    "Rarity": 0,
+    "Sphere": 0,
+    "SphereLevel": 1,
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "",
+    "ArtistName": "",
+    "Status": "WIP",
+    "CardOffsetX": 0.0,
+    "CardOffsetY": 0.0,
+    "CardScale": 0.0,
+    "CameoOffsetX": 0.0,
+    "CameoOffsetY": 0.0,
+    "CameoScale": 0.0,
+    "ArtworkMD5": null,
+    "BannerMD5": null,
+    "IconMD5": "e2a51ecc859f5d78d586a14835ab9e66"
+  },
+  "Localization": {
+    "Title": "Hated Foe",
+    "Text": "Gain +1 Resource per Orc in play (limit 3)"
+  }
+}

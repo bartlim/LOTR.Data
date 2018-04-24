@@ -23,12 +23,18 @@
     "FlavorText": "It flowed fast and strong but not very wide right across the way, and it was black, or looked it in the gloom. \n—<i>The Hobbit</i>",
     "ArtistName": "Trudi Castle",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
     "ArtworkMD5": "80653c9a032f070cd7b695f6421d687c",
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Follow the Stream",
-    "Text": "Travel immediately to \n<i>Forest Stream</i>"
+    "Text": "Travel immediately to \n<i>Forest Stream</i> "
   }
 }

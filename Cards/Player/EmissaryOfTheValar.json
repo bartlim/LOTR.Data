@@ -1,0 +1,40 @@
+{
+  "CardData": {
+    "Id": "EmissaryOfTheValar",
+    "Owner": "Player",
+    "CardType": 4,
+    "ShopType": "HeroPack_TheLightOfHope",
+    "Cost": 4,
+    "QuestPoints": 0,
+    "Attack": 0,
+    "Willpower": 0,
+    "Health": 0,
+    "Trait": "",
+    "Rarity": 4,
+    "Sphere": 3,
+    "SphereLevel": 2,
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "",
+    "ArtistName": "",
+    "Status": "WIP",
+    "CardOffsetX": 0.0,
+    "CardOffsetY": 0.0,
+    "CardScale": 0.0,
+    "CameoOffsetX": 0.0,
+    "CameoOffsetY": 0.0,
+    "CameoScale": 0.0,
+    "ArtworkMD5": null,
+    "BannerMD5": null,
+    "IconMD5": null
+  },
+  "Localization": {
+    "Title": "Emissary of the Valar",
+    "Text": "All Enemies in play lose <i>X</i> Attack this round. <br><i>X</i> is the current Threat Tier"
+  }
+}
