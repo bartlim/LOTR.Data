@@ -5,7 +5,7 @@
     "CardType": 6,
     "ShopType": "Starter",
     "Cost": 2,
-    "QuestPoints": 5,
+    "QuestPoints": 3,
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
@@ -18,17 +18,23 @@
     "PlaySFX": "",
     "AttackVFX": "",
     "AttackSFX": "",
-    "DeathVFX": "",
+    "DeathVFX": "Effect_Door",
     "DeathSFX": "",
     "FlavorText": "\"His Eye is now straining towards us, blind almost to all else that is moving.\"\n—Gandalf, <i>The Return of the King</i>",
     "ArtistName": "Gabriel Verdon",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 0.0,
+    "CameoOffsetY": 0.0,
+    "CameoScale": 0.0,
     "ArtworkMD5": "8c94141a6f1fad6dc561e0a08c815ae5",
     "BannerMD5": null,
     "IconMD5": "c547d096d9455efe89d0ec2f69140cdb"
   },
   "Localization": {
     "Title": "Under the Watchful Eye",
-    "Text": "Each player's hand size\nis reduced to 5 cards"
+    "Text": "Each player's hand size\nis reduced to 3 cards"
   }
 }

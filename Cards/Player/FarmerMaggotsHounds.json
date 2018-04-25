@@ -1,0 +1,40 @@
+{
+  "CardData": {
+    "Id": "FarmerMaggotsHounds",
+    "Owner": "Player",
+    "CardType": 0,
+    "ShopType": "Special",
+    "Cost": 0,
+    "QuestPoints": 0,
+    "Attack": 1,
+    "Willpower": 0,
+    "Health": 2,
+    "Trait": "Creature",
+    "Rarity": 2,
+    "Sphere": 4,
+    "SphereLevel": 0,
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "",
+    "ArtistName": "",
+    "Status": "None",
+    "CardOffsetX": 0.0,
+    "CardOffsetY": 0.0,
+    "CardScale": 0.0,
+    "CameoOffsetX": 0.0,
+    "CameoOffsetY": 0.0,
+    "CameoScale": 0.0,
+    "ArtworkMD5": null,
+    "BannerMD5": null,
+    "IconMD5": null
+  },
+  "Localization": {
+    "Title": "Farmer Maggot's Hounds",
+    "Text": "<b>Revenge</b>: Remove a Shadow from play"
+  }
+}

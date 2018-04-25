@@ -23,12 +23,18 @@
     "FlavorText": "Somehow or other Fili was got on to the branch, and then he did his best to help the hobbit, although he was feeling very sick and ill from spider-poison…\n—<i>The Hobbit</i>",
     "ArtistName": "Jason Ward",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 0.0,
+    "CameoOffsetY": 0.0,
+    "CameoScale": 0.0,
     "ArtworkMD5": "d040d2c2dbecd80d8c82406167bd1767",
     "BannerMD5": null,
     "IconMD5": "1efa14bddfcfb8c7bf883de4de419297"
   },
   "Localization": {
     "Title": "Poisoned by Spiders",
-    "Text": "The next Character that a Spider damages but does not defeat is exhausted until after Upkeep"
+    "Text": "The next Character that a Spider damages but does not defeat is exhausted through the next round"
   }
 }

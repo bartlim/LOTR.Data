@@ -55,7 +55,7 @@
         },
         {
           "Id": "EastBightPatrol",
-          "Quantity": 4,
+          "Quantity": 3,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -173,6 +173,13 @@
           "MaxDifficulty": 4
         },
         {
+          "Id": "OrcMarauder",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
           "Id": "SpidersOfMirkwood",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -249,7 +256,6 @@
       {
         "Title": "CapturedBySpiders",
         "SoloGameSetup": [
-          "Hummerhorns",
           "KingSpider",
           "KingSpider"
         ],
@@ -306,9 +312,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180412204343012",
+  "Version": "20180423222156717",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180412204343012"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180423222156717"
 }

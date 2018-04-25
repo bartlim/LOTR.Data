@@ -1,0 +1,40 @@
+{
+  "CardData": {
+    "Id": "SwanKnight",
+    "Owner": "Player",
+    "CardType": 0,
+    "ShopType": "HeroPack_PrinceOfDolAmroth",
+    "Cost": 4,
+    "QuestPoints": 0,
+    "Attack": 2,
+    "Willpower": 1,
+    "Health": 6,
+    "Trait": "Gondor",
+    "Rarity": 4,
+    "Sphere": 0,
+    "SphereLevel": 2,
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "",
+    "ArtistName": "",
+    "Status": "WIP",
+    "CardOffsetX": 0.0,
+    "CardOffsetY": 0.0,
+    "CardScale": 0.0,
+    "CameoOffsetX": 0.0,
+    "CameoOffsetY": 0.0,
+    "CameoScale": 0.0,
+    "ArtworkMD5": null,
+    "BannerMD5": null,
+    "IconMD5": null
+  },
+  "Localization": {
+    "Title": "Swan Knight",
+    "Text": "<b>Block</b>. <b>Stalwart</b>"
+  }
+}

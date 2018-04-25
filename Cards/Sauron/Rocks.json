@@ -18,17 +18,23 @@
     "PlaySFX": "",
     "AttackVFX": "",
     "AttackSFX": "",
-    "DeathVFX": "",
+    "DeathVFX": "Effect_Door",
     "DeathSFX": "",
     "FlavorText": "C_ROCKS_FLAVOR",
     "ArtistName": "Jake Bullock",
     "Status": "WIP",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 0.0,
+    "CameoOffsetY": 0.0,
+    "CameoScale": 0.0,
     "ArtworkMD5": "2b9a6102a09da35c4b6cb7102ab96889",
     "BannerMD5": "baab9e684e12bb3d1e7c8fb307d7fbba",
     "IconMD5": "3d49cf80873418f273fd5274b48850d8"
   },
   "Localization": {
     "Title": "Rocks!",
-    "Text": "End of round: Gain +2 Threat. <br>You cannot advance other objectives until this is resolved"
+    "Text": "End of round: Gain +2 Threat"
   }
 }
