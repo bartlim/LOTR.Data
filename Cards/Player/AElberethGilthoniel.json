@@ -4,7 +4,7 @@
     "Owner": "Player",
     "CardType": 4,
     "ShopType": "Valor",
-    "Cost": 3,
+    "Cost": 4,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
@@ -35,6 +35,6 @@
   },
   "Localization": {
     "Title": "A Elbereth! Gilthoniel!",
-    "Text": "When attacked by a non-unique Enemy, remove that enemy from play. Lose threat equal to its cost"
+    "Text": "When attacked by a non-unique Enemy, remove that enemy from play. Lose threat equal to its attack."
   }
 }
