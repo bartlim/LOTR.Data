@@ -13,16 +13,17 @@
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
-          "Id": "Location101",
-          "SceneName": "Q01_L01_ForestGate",
+          "Id": "TheWoodmanVillage",
+          "SceneName": "Q01_L01_RansackedWoodmenVillage",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
-            "FindThePath",
-            "VeteranPatrol"
+            "DolGuldurOrcs",
+            "OrcMarauder",
+            "OrcMarauder"
           ],
-          "NextStageId": "",
-          "BGM": null
+          "NextStageId": "TrackingTheFoe",
+          "BGM": "mus_danger"
         }
       ],
       "SauronDeck": [
