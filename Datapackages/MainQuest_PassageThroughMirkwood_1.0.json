@@ -307,14 +307,28 @@
         "NextStageTitles": [
           ""
         ]
+      },
+      {
+        "Title": "TheEnchantedStreamAlt",
+        "SoloGameSetup": [
+          "MirkwoodPatrol",
+          " EliteDolGuldurOrcs",
+          "EliteDolGuldurOrcs",
+          "OrcMarauder"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ]
       }
     ],
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180426174807371",
+  "Version": "20180426192042428",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180426174807371"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180426192042428"
 }
