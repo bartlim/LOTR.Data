@@ -29,12 +29,14 @@
     "CameoOffsetX": 0.0,
     "CameoOffsetY": 0.0,
     "CameoScale": 0.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "For Gondor!",
-    "Text": "Until end of round: All Characters gain +1 Attack. Gondor Characters also gain <b>Block</b>"
+    "Text": "All Characters gain +1 Attack this round. Gondor Characters also gain <b>Block</b> this round"
   }
 }

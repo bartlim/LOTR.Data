@@ -2,14 +2,14 @@
   "CardData": {
     "Id": "HorseLord",
     "Owner": "Player",
-    "CardType": 4,
+    "CardType": 1,
     "ShopType": "HeroPack_PrinceOfRohan",
     "Cost": 1,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "",
+    "Trait": "Special",
     "Rarity": 0,
     "Sphere": 1,
     "SphereLevel": 1,
@@ -29,12 +29,14 @@
     "CameoOffsetX": 0.0,
     "CameoOffsetY": 0.0,
     "CameoScale": 0.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Horse-Lord",
-    "Text": "Give target non-unique Ally the Rohan trait and +1 Health"
+    "Text": "Gain the Rohan trait and +1 Health"
   }
 }
