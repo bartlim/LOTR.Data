@@ -286,14 +286,14 @@
         "SoloGameSetup": [
           "FindThePath",
           "RangerProvisions",
-          "ForestSpider",
-          "HatchlingSpider",
-          "HatchlingSpider"
+          "DolGuldurOrcs",
+          "GoblinSniper",
+          "DolGuldurArcher"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          "TheEnchantedStream"
+          "TheEnchantedStreamAlt"
         ]
       },
       {
@@ -326,9 +326,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180426192042428",
+  "Version": "20180426192337039",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180426192042428"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180426192337039"
 }
