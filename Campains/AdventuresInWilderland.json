@@ -80,6 +80,20 @@
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme"
+        },
+        {
+          "Id": "TheEnchantedStreamAlt",
+          "SceneName": "Q01_L04_TheEnchantedStream",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": [
+            "MirkwoodPatrol",
+            " EliteDolGuldurOrcs",
+            "EliteDolGuldurOrcs",
+            "OrcMarauder"
+          ],
+          "NextStageId": "",
+          "BGM": "mus_saurontheme"
         }
       ],
       "SauronDeck": [
