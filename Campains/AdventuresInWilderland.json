@@ -84,11 +84,11 @@
         {
           "Id": "TheEnchantedStreamAlt",
           "SceneName": "Q01_L04_TheEnchantedStream",
-          "IntroVoice": null,
-          "IntroSprite": null,
+          "IntroVoice": "PassageThroughMirkwoodTheEnchantedStreamAltIntroVoice",
+          "IntroSprite": "PassageThroughMirkwoodTheEnchantedStreamAltIntroSprite",
           "SoloGameSetup": [
             "MirkwoodPatrol",
-            " EliteDolGuldurOrcs",
+            "EliteDolGuldurOrcs",
             "EliteDolGuldurOrcs",
             "OrcMarauder"
           ],
