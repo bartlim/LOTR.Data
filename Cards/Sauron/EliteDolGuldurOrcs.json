@@ -24,17 +24,19 @@
     "ArtistName": "Anton Kokarev",
     "Status": "Ready",
     "CardOffsetX": 1.0,
-    "CardOffsetY": 1.0,
-    "CardScale": 1.0,
-    "CameoOffsetX": 0.0,
-    "CameoOffsetY": 0.0,
-    "CameoScale": 0.0,
+    "CardOffsetY": 1.02,
+    "CardScale": 0.97,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 0.95,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "66e9da85ddfb5d9f9ae70dee07b1889d",
     "BannerMD5": null,
     "IconMD5": "d2a343283198d0a10544227aa7b09ee8"
   },
   "Localization": {
     "Title": "Elite Dol Guldur Orcs",
-    "Text": "<b>Surge</b>. <b>Guard</b>"
+    "Text": "<b>Surge</b>. <b>Block</b>"
   }
 }

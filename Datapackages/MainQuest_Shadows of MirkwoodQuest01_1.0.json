@@ -71,24 +71,25 @@
     },
     "Stages": [
       {
-        "Title": "Location101",
+        "Title": "TheWoodmanVillage",
         "SoloGameSetup": [
-          "FindThePath",
-          "VeteranPatrol"
+          "DolGuldurOrcs",
+          "OrcMarauder",
+          "OrcMarauder"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "TrackingTheFoe"
         ]
       }
     ],
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180226110528201",
+  "Version": "20180426194433518",
   "Key": "MainQuest",
   "SubKey": "Shadows of MirkwoodQuest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Shadows of MirkwoodQuest01_20180226110528201"
+  "InternalKey": "MainQuest_Shadows of MirkwoodQuest01_20180426194433518"
 }

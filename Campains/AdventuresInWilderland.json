@@ -62,11 +62,11 @@
           "SoloGameSetup": [
             "FindThePath",
             "RangerProvisions",
-            "ForestSpider",
-            "HatchlingSpider",
-            "HatchlingSpider"
+            "DolGuldurOrcs",
+            "GoblinSniper",
+            "DolGuldurArcher"
           ],
-          "NextStageId": "TheEnchantedStream",
+          "NextStageId": "TheEnchantedStreamAlt",
           "BGM": "mus_mirkwood"
         },
         {
@@ -77,6 +77,19 @@
           "SoloGameSetup": [
             "Kingsfoil",
             "MarshAdder"
+          ],
+          "NextStageId": "",
+          "BGM": "mus_saurontheme"
+        },
+        {
+          "Id": "TheEnchantedStreamAlt",
+          "SceneName": "Q01_L04_TheEnchantedStream",
+          "IntroVoice": "PassageThroughMirkwoodTheEnchantedStreamAltIntroVoice",
+          "IntroSprite": "PassageThroughMirkwoodTheEnchantedStreamAltIntroSprite",
+          "SoloGameSetup": [
+            "MirkwoodPatrol",
+            "EliteDolGuldurOrcs",
+            "OrcMarauder"
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme"
@@ -725,7 +738,7 @@
         },
         {
           "Id": "AnduinPassage",
-          "SceneName": "Q04_L02_AnduinPassage",
+          "SceneName": "Q05_L01_SearchingForGrimbeorn",
           "IntroVoice": "Q4L2_AnduinPassage",
           "IntroSprite": "Sprites/Locations/Quest4_Stage02",
           "SoloGameSetup": [
@@ -739,7 +752,7 @@
         },
         {
           "Id": "TreacherousShortcut",
-          "SceneName": "Q04_L02_AnduinPassage",
+          "SceneName": "Q05_L01_SearchingForGrimbeorn",
           "IntroVoice": "Q4L3A_TreacherousShortcut",
           "IntroSprite": "Sprites/Locations/Quest4_Stage03A",
           "SoloGameSetup": [
@@ -754,7 +767,7 @@
         },
         {
           "Id": "GentleWaters",
-          "SceneName": "Q04_L02_AnduinPassage",
+          "SceneName": "Q04_L03_AmbushOnTheShore",
           "IntroVoice": "Q4L3B_GentleWaters",
           "IntroSprite": "Sprites/Locations/Quest4_Stage03B",
           "SoloGameSetup": [

@@ -23,12 +23,20 @@
     "FlavorText": "A sword was in her hand, and she raised her shield against the horror of her enemy's eyes. \n—<i>The Return of the King</i>",
     "ArtistName": "Sara Biddle",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 0.9,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "b464636f7d8a1483aa7e5ec057e4893d",
     "BannerMD5": null,
     "IconMD5": "59d4aafedcc2d6bcf579a4a7b8838645"
   },
   "Localization": {
     "Title": "Shield of Rohan",
-    "Text": "Gain +2 Health and <b>Vanquish</b>: Gain <b>Stalwart</b> until end of round"
+    "Text": "Gain +2 Health and <b>Ambush</b>"
   }
 }
