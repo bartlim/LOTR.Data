@@ -1,0 +1,45 @@
+{
+  "DataSet": {
+    "Title": "Tutorial",
+    "SauronDeckInfo": {
+      "Id": null,
+      "DeckList": []
+    },
+    "Stages": [
+      {
+        "Title": "Tutorial_Stage_01",
+        "SoloGameSetup": [],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "Tutorial_Stage_02"
+        ]
+      },
+      {
+        "Title": "Tutorial_Stage_02",
+        "SoloGameSetup": [],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "Tutorial_Stage_03"
+        ]
+      },
+      {
+        "Title": "Tutorial_Stage_03",
+        "SoloGameSetup": [],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ]
+      }
+    ],
+    "Sequences": [],
+    "Stories": []
+  },
+  "Version": "20180430170157685",
+  "Key": "MainQuest",
+  "SubKey": "Tutorial",
+  "RequiredClientVersion": "1.0",
+  "InternalKey": "MainQuest_Tutorial_20180430170157685"
+}
