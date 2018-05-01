@@ -349,7 +349,6 @@
         "SoloGameSetup": [
           "ContinueDownstream",
           "SearchForAPath",
-          "WildBear",
           "MuckAdder",
           "PackOfWargs",
           "Wargs"
@@ -421,9 +420,9 @@
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180501150457250",
+  "Version": "20180501153458573",
   "Key": "MainQuest",
   "SubKey": "LostInMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_LostInMirkwood_20180501150457250"
+  "InternalKey": "MainQuest_LostInMirkwood_20180501153458573"
 }
