@@ -1,8 +1,8 @@
 {
   "Id": "Tutorial",
   "IconSprite": "Sprites/Quest/icon_q1",
-  "MapPosX": 0,
-  "MapPosY": 0,
+  "MapPosX": 2.0,
+  "MapPosY": 0.0,
   "Quests": [
     {
       "Id": "Tutorial",
@@ -40,7 +40,7 @@
           "BGM": null
         }
       ],
-      "SauronDeck": null
+      "SauronDeck": []
     }
   ]
 }
