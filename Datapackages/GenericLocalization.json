@@ -7847,15 +7847,11 @@
   },
   {
     "Id": "C_SPIKETRAP_TEXT",
-    "Text": "Attach to a non-unique Enemy.\n<b>Upkeep</b>: Deal 1 damage to this Enemy",
-    "Text_CN": "Attach to a non-unique Enemy.\n<b>Upkeep</b>: Deal 1 damage to this Enemy",
-    "Text_FR": "Attach to a non-unique Enemy.\n<b>Upkeep</b>: Deal 1 damage to this Enemy"
+    "Text": "(Non-Unique Only) <b>Upkeep</b>: Deal 1 Damage to attached Enemy each round"
   },
   {
     "Id": "C_SPIKETRAP_TITLE",
-    "Text": "Spike Trap",
-    "Text_CN": "Spike Trap",
-    "Text_FR": "Spike Trap"
+    "Text": "Spike Trap"
   },
   {
     "Id": "C_SPOOKEDHORSES_FLAVOR",
