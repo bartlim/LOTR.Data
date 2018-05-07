@@ -26,6 +26,20 @@
           ],
           "NextStageId": "MirkwoodSwampDemo,AbandonedVillageDemo",
           "BGM": "mus_spookyforest"
+        },
+        {
+          "Id": "MirkwoodSwampDemo",
+          "SceneName": "Q03_L03a_MirkwoodSwamp",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": [
+            "GiantMarshWorm",
+            "Hummerhorns",
+            "MuckAdder",
+            "MuckAdder"
+          ],
+          "NextStageId": "",
+          "BGM": "mus_desperation"
         }
       ],
       "SauronDeck": [
