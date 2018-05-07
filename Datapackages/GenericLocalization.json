@@ -11846,5 +11846,17 @@
   {
     "Id": "Q_STAGE_MIRKWOODFORESTDEMO_OBJECTIVE",
     "Text": "Resolve either <i>Along the River</i> or <i>Investigate the Village</i> to immediately travel to the next location."
+  },
+  {
+    "Id": "Q_STAGE_MIRKWOODSWAMPDEMO_NAME",
+    "Text": "Mirkwood Swamp"
+  },
+  {
+    "Id": "Q_STAGE_MIRKWOODSWAMPDEMO_TEXT",
+    "Text": "<i><size=58>T</size>he stream you have been following empties into a wide bog. The Anduin River vale must lie beyond this morass. Though the moist ground sucks greedily at your feet with each step, you make your way across the swamp doggedly and with no small amount of relief at leaving the accursed wood behind. Just then, the bog ahead erupts in a shower of brackish water! A Giant Marsh Worm lunges for you hungrily with a speed that belies its size…</i>"
+  },
+  {
+    "Id": "Q_STAGE_MIRKWOODSWAMPDEMO_OBJECTIVE",
+    "Text": "<b>Final Encounter</b>: Defeat <i>Giant Marsh Worm</i> to complete the Quest"
   }
 ]
