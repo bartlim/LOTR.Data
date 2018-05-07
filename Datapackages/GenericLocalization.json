@@ -7745,15 +7745,11 @@
   },
   {
     "Id": "C_SPEARWALL_TEXT",
-    "Text": "All Enemies lose 2 Attack (minimum 0) this round",
-    "Text_CN": "All Enemies lose 2 Attack (minimum 0) this round",
-    "Text_FR": "All Enemies lose 2 Attack (minimum 0) this round"
+    "Text": "All Enemies have their attack reduced by 2 (limit 0) until the end of the round."
   },
   {
     "Id": "C_SPEARWALL_TITLE",
-    "Text": "Spear Wall",
-    "Text_CN": "Spear Wall",
-    "Text_FR": "Spear Wall"
+    "Text": "Spear Wall"
   },
   {
     "Id": "C_SPIDERGUARD_FLAVOR",
