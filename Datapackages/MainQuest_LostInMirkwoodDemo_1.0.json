@@ -71,24 +71,28 @@
     },
     "Stages": [
       {
-        "Title": "Location101",
+        "Title": "MirkwoodForestDemo",
         "SoloGameSetup": [
-          "FindThePath",
-          "VeteranPatrol"
+          "AlongTheRiver",
+          "InvestigateTheVillage",
+          "BlackForestBats",
+          "GiantSpider",
+          "WildBear"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "MirkwoodSwampDemo",
+          "AbandonedVillageDemo"
         ]
       }
     ],
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180507161918300",
+  "Version": "20180507162635402",
   "Key": "MainQuest",
   "SubKey": "LostInMirkwoodDemo",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_LostInMirkwoodDemo_20180507161918300"
+  "InternalKey": "MainQuest_LostInMirkwoodDemo_20180507162635402"
 }
