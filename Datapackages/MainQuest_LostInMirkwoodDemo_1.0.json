@@ -99,14 +99,28 @@
         "NextStageTitles": [
           ""
         ]
+      },
+      {
+        "Title": "AbandonedVillageDemo",
+        "SoloGameSetup": [
+          "DolGuldurOrcs",
+          "OrcMarauder",
+          "VeteranPatrol",
+          "EastBightPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ]
       }
     ],
     "Sequences": [],
     "Stories": []
   },
-  "Version": "20180507163137831",
+  "Version": "20180507163525756",
   "Key": "MainQuest",
   "SubKey": "LostInMirkwoodDemo",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_LostInMirkwoodDemo_20180507163137831"
+  "InternalKey": "MainQuest_LostInMirkwoodDemo_20180507163525756"
 }
