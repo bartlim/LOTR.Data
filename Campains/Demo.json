@@ -40,6 +40,20 @@
           ],
           "NextStageId": "",
           "BGM": "mus_desperation"
+        },
+        {
+          "Id": "AbandonedVillageDemo",
+          "SceneName": "Q03_L03c_AbandonedVillage",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": [
+            "DolGuldurOrcs",
+            "OrcMarauder",
+            "VeteranPatrol",
+            "EastBightPatrol"
+          ],
+          "NextStageId": "",
+          "BGM": "mus_desperation"
         }
       ],
       "SauronDeck": [
