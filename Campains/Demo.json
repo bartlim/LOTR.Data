@@ -13,16 +13,19 @@
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
-          "Id": "Location101",
-          "SceneName": "Q01_L01_ForestGate",
+          "Id": "MirkwoodForestDemo",
+          "SceneName": "Q03_L01_MirkwoodForest",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
-            "FindThePath",
-            "VeteranPatrol"
+            "AlongTheRiver",
+            "InvestigateTheVillage",
+            "BlackForestBats",
+            "GiantSpider",
+            "WildBear"
           ],
-          "NextStageId": "",
-          "BGM": null
+          "NextStageId": "MirkwoodSwampDemo,AbandonedVillageDemo",
+          "BGM": "mus_spookyforest"
         }
       ],
       "SauronDeck": [
