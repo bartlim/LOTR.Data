@@ -23,12 +23,20 @@
     "FlavorText": "\"Yet I do not bid you flee from peril, but to ride to battle where your sword may win renown and victory.\"\n—Aragorn, <i>The Return of the King</i>",
     "ArtistName": "Aleksander Karcz",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "64f787db995e4914942e638cffc1addc",
     "BannerMD5": null,
     "IconMD5": "893fbc9ebce36cdfa2d5938e3f37ebe4"
   },
   "Localization": {
     "Title": "Warrior Sword",
-    "Text": "Gain +1 Attack. \nDeal 1 Damage when attacked"
+    "Text": "Gain +1 Attack. \n<b>Counter</b>"
   }
 }

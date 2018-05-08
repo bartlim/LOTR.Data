@@ -1,0 +1,42 @@
+{
+  "CardData": {
+    "Id": "BeornsHospitality",
+    "Owner": "Player",
+    "CardType": 4,
+    "ShopType": "Starter",
+    "Cost": 2,
+    "QuestPoints": 0,
+    "Attack": 0,
+    "Willpower": 0,
+    "Health": 0,
+    "Trait": "",
+    "Rarity": 3,
+    "Sphere": 1,
+    "SphereLevel": 1,
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "He never invited people into his house, if he could help it. He had very few friends and they lived a good way away; and he never invited more than a couple of these to his house at a time.\r\n—<i>The Hobbit</i>",
+    "ArtistName": "David A. Nash",
+    "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
+    "ArtworkMD5": "8eea581516076b8daa71f04857067fd1",
+    "BannerMD5": "f232d9774b866c59779ef533e6423dd4",
+    "IconMD5": "bc869ae2383be5abc3881dc6992f0829"
+  },
+  "Localization": {
+    "Title": "Beorn's Hospitality",
+    "Text": "<b>Choose</b>: Restore 1 Health to each character; Restore 4 Health to a Hero"
+  }
+}

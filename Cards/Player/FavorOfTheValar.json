@@ -1,0 +1,42 @@
+{
+  "CardData": {
+    "Id": "FavorOfTheValar",
+    "Owner": "Player",
+    "CardType": 4,
+    "ShopType": "Starter",
+    "Cost": 2,
+    "QuestPoints": 0,
+    "Attack": 0,
+    "Willpower": 0,
+    "Health": 0,
+    "Trait": "Preparation",
+    "Rarity": 3,
+    "Sphere": 2,
+    "SphereLevel": 0,
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "",
+    "ArtistName": "Matthew Cowdery",
+    "Status": "WIP",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
+    "ArtworkMD5": "50b8f1b000a0752a9dcb4572bbe8e3ed",
+    "BannerMD5": "a1e5caa845707a08bff8346401f06078",
+    "IconMD5": "4305bd9abcf2a0833c0c9966d6abba15"
+  },
+  "Localization": {
+    "Title": "Favor of the Valar",
+    "Text": "If you would reach 50 Threat level, lose 3 Threat instead"
+  }
+}
