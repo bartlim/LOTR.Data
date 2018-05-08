@@ -1,0 +1,42 @@
+{
+  "CardData": {
+    "Id": "SpearWall",
+    "Owner": "Player",
+    "CardType": 4,
+    "ShopType": "Starter",
+    "Cost": 4,
+    "QuestPoints": 0,
+    "Attack": 0,
+    "Willpower": 0,
+    "Health": 0,
+    "Trait": "",
+    "Rarity": 3,
+    "Sphere": 4,
+    "SphereLevel": 1,
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "…spears bristling like thickets of new-planted trees.\r\n—<i>The Return of the King</i>",
+    "ArtistName": "David Horne",
+    "Status": "None",
+    "CardOffsetX": 0.95,
+    "CardOffsetY": 1.0,
+    "CardScale": 0.9,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
+    "ArtworkMD5": "e2426cd7568da6e205b76a82520fc059",
+    "BannerMD5": "a543bcf6498417d238da382c971a15ae",
+    "IconMD5": "1af09ac1425417cf027fe1e57797d68c"
+  },
+  "Localization": {
+    "Title": "Spear Wall",
+    "Text": "All Enemies have their attack reduced by 2 (limit 0) until the end of the round."
+  }
+}
