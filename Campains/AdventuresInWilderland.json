@@ -88,8 +88,9 @@
           "IntroSprite": "PassageThroughMirkwoodTheEnchantedStreamAltIntroSprite",
           "SoloGameSetup": [
             "MirkwoodPatrol",
-            "EliteDolGuldurOrcs",
-            "OrcMarauder"
+            "VeteranPatrol",
+            "OrcMarauder",
+            "DolGuldurArcher"
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme"
