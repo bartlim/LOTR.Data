@@ -3702,6 +3702,18 @@
     "Text_FR": "Target already has Block, attach anyway?"
   },
   {
+    "Id": "T_ROLLOVER_TITLE_QUESTVALUE",
+    "Text": "Quest Value",
+    "Text_CN": "[C]Quest Value",
+    "Text_FR": "Quest Value"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_QUESTVALUE",
+    "Text": "Amount of Willpower that must be applied to resolve an Objective.",
+    "Text_CN": "[C]Amount of Willpower that must be applied to resolve an Objective.",
+    "Text_FR": "Amount of Willpower that must be applied to resolve an Objective."
+  }
+  {
     "Id": "PLACEHOLDER2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
