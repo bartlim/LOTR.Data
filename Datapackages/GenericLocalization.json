@@ -3714,6 +3714,18 @@
     "Text_FR": "Amount of Willpower that must be applied to resolve an Objective."
   },
   {
+    "Id": "U_INGAME_CHOOSEHERO_COCOONED",
+    "Text": "Choose the unfortunate Hero captured by the spiders' webs",
+    "Text_CN": "[C]Choose the unfortunate Hero to be captured by the spiders' webs",
+    "Text_FR": "Choose the unfortunate Hero to be captured by the spiders' webs"
+  },
+  {
+    "Id": "Q_STAGECHOICE_STANDANDFIGHT_TURNANDFLEE",
+    "Text": "You have rescued your friend, but the spiders continue to swarm around you.\nYou must act quickly before all is lost!",
+    "Text_CN": "[C]You have rescued your friend, but the spiders continue to swarm around you.\nYou must act quickly before all is lost!",
+    "Text_FR": "You have rescued your friend, but the spiders continue to swarm around you.\nYou must act quickly before all is lost!"
+  },
+  {
     "Id": "PLACEHOLDER2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -11428,6 +11440,30 @@
     "Text": "Willpower",
     "Text_CN": "领导型",
     "Text_FR": "Volonté"
+  },
+  {
+    "Id": "G_075_DESC",
+    "Text": "Multiple ability options are available for this card",
+    "Text_CN": "Multiple ability options are available for this card",
+    "Text_FR": "Multiple ability options are available for this card"
+  },
+  {
+    "Id": "G_075_TERM",
+    "Text": "Choose",
+    "Text_CN": "Choose",
+    "Text_FR": "Choose"
+  },
+  {
+    "Id": "G_076_DESC",
+    "Text": "Deal 1 damage when defending.",
+    "Text_CN": "Deal 1 damage when defending.",
+    "Text_FR": "Deal 1 damage when defending."
+  },
+  {
+    "Id": "G_076_TERM",
+    "Text": "Counter",
+    "Text_CN": "Counter",
+    "Text_FR": "Counter"
   },
   {
     "Id": "Q_CAMPAIGN_DEMO_NAME",
