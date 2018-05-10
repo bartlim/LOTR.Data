@@ -3714,6 +3714,18 @@
     "Text_FR": "Amount of Willpower that must be applied to resolve an Objective."
   },
   {
+    "Id": "U_INGAME_CHOOSEHERO_COCOONED",
+    "Text": "Choose the unfortunate Hero captured by the spiders' webs",
+    "Text_CN": "[C]Choose the unfortunate Hero to be captured by the spiders' webs",
+    "Text_FR": "Choose the unfortunate Hero to be captured by the spiders' webs"
+  },
+  {
+    "Id": "Q_STAGECHOICE_STANDANDFIGHT_TURNANDFLEE",
+    "Text": "You have rescued your friend, but the spiders continue to swarm around you.\nYou must act quickly before all is lost!",
+    "Text_CN": "[C]You have rescued your friend, but the spiders continue to swarm around you.\nYou must act quickly before all is lost!",
+    "Text_FR": "You have rescued your friend, but the spiders continue to swarm around you.\nYou must act quickly before all is lost!"
+  },
+  {
     "Id": "PLACEHOLDER2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -3783,7 +3795,7 @@
   },
   {
     "Id": "Q_STAGE_FORESTGATE_NAME",
-    "Text": "Forest Gate"
+    "Text": "Forest's Edge"
   },
   {
     "Id": "Q_STAGE_CAPTUREDBYSPIDERS_NAME",
@@ -4765,21 +4777,15 @@
   },
   {
     "Id": "C_AMBUSHONTHESHORE_FLAVOR",
-    "Text": "There seemed no chance of reaching the Ford before he was cut off by the others that had lain in ambush. \n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": "There seemed no chance of reaching the Ford before he was cut off by the others that had lain in ambush. \n—<i>The Fellowship of the Ring</i>",
-    "Text_FR": "There seemed no chance of reaching the Ford before he was cut off by the others that had lain in ambush. \n—<i>The Fellowship of the Ring</i>"
+    "Text": "There seemed no chance of reaching the Ford before he was cut off by the others that had lain in ambush. \n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_AMBUSHONTHESHORE_TEXT",
-    "Text": "(Cannot engage while\nan Enemy is in play.)\n<b>Upkeep</b>: Sauron gains \n+1 Resource per player",
-    "Text_CN": "(Cannot engage while an\nEnemy is in play.)\n<b>Upkeep</b>: Sauron gains \n+1 Resource per player",
-    "Text_FR": "(Cannot engage while an\nEnemy is in play.)\n<b>Upkeep</b>: Sauron gains \n+1 Resource per player"
+    "Text": "(Cannot engage while\nnon-Stealth Enemies are in play.)\n<b>Upkeep</b>: Sauron gains \n+1 Resource per player"
   },
   {
     "Id": "C_AMBUSHONTHESHORE_TITLE",
-    "Text": "Ambush on the Shore",
-    "Text_CN": "岸边的伏击",
-    "Text_FR": "Embuscade sur la rive"
+    "Text": "Ambush on the Shore"
   },
   {
     "Id": "C_ANDUINTROLLSPAWN_FLAVOR",
@@ -6007,21 +6013,15 @@
   },
   {
     "Id": "C_GANDALF_FLAVOR",
-    "Text": "\"I am a servant of the Secret Fire, wielder of the flame of Anor.\" \n—Gandalf, <i>The Fellowship of the Ring</i>",
-    "Text_CN": "\"I am a servant of the Secret Fire, wielder of the flame of Anor.\" \n—Gandalf, <i>The Fellowship of the Ring</i>",
-    "Text_FR": "\"I am a servant of the Secret Fire, wielder of the flame of Anor.\" \n—Gandalf, <i>The Fellowship of the Ring</i>"
+    "Text": "\"I am a servant of the Secret Fire, wielder of the flame of Anor.\" \n—Gandalf, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_GANDALF_TEXT",
-    "Text": "<b>Fleeting</b>. <b>Arrival</b> (<b>choose</b>):\nDraw 3 cards; lose 3 Threat;\nor deal 3 damage",
-    "Text_CN": "一闪而过。登场（选择）：抽取3张卡牌；令威胁降低3点；或对一名敌人造成3点伤害。",
-    "Text_FR": "Fugacité. Arrivée (Choix) : piochez 3 cartes, niveau de Menace -3, ou infligez 3 points de dégâts à un ennemi."
+    "Text": "<b>Fleeting</b>. <b>Arrival</b> (<b>Choose</b>):\nDraw 3 cards; lose 3 Threat;\nor deal 3 damage"
   },
   {
     "Id": "C_GANDALF_TITLE",
-    "Text": "‰Gandalf",
-    "Text_CN": "甘道夫",
-    "Text_FR": "Gandalf"
+    "Text": "‰Gandalf"
   },
   {
     "Id": "C_GANDALFSSEARCH_TEXT",
@@ -11436,6 +11436,30 @@
     "Text_FR": "Volonté"
   },
   {
+    "Id": "G_075_DESC",
+    "Text": "Multiple ability options are available for this card",
+    "Text_CN": "Multiple ability options are available for this card",
+    "Text_FR": "Multiple ability options are available for this card"
+  },
+  {
+    "Id": "G_075_TERM",
+    "Text": "Choose",
+    "Text_CN": "Choose",
+    "Text_FR": "Choose"
+  },
+  {
+    "Id": "G_076_DESC",
+    "Text": "Deal 1 damage when defending.",
+    "Text_CN": "Deal 1 damage when defending.",
+    "Text_FR": "Deal 1 damage when defending."
+  },
+  {
+    "Id": "G_076_TERM",
+    "Text": "Counter",
+    "Text_CN": "Counter",
+    "Text_FR": "Counter"
+  },
+  {
     "Id": "Q_CAMPAIGN_DEMO_NAME",
     "Text": "Demo"
   },
@@ -11762,5 +11786,113 @@
   {
     "Id": "Q_QUEST_TESTWHQUEST05_DEFEAT_TEXT",
     "Text": null
+  },
+  {
+    "Id": "Q_CAMPAIGN_TEST050903_NAME",
+    "Text": "Q_CAMPAIGN_TEST050903_NAME"
+  },
+  {
+    "Id": "Q_QUEST_TEST050903QUEST01_NAME",
+    "Text": "Q_QUEST_TEST050903QUEST01_NAME"
+  },
+  {
+    "Id": "Q_QUEST_TEST050903QUEST01_DESCRIPTION",
+    "Text": "Q_QUEST_TEST050903QUEST01_DESCRIPTION"
+  },
+  {
+    "Id": "Q_QUEST_TEST050903QUEST01_VICTORY_TEXT",
+    "Text": "Q_QUEST_TEST050903QUEST01_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_TEST050903QUEST01_DEFEAT_TEXT",
+    "Text": "Q_QUEST_TEST050903QUEST01_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_TEST050903QUEST02_NAME",
+    "Text": "Q_QUEST_TEST050903QUEST02_NAME"
+  },
+  {
+    "Id": "Q_QUEST_TEST050903QUEST02_DESCRIPTION",
+    "Text": "Q_QUEST_TEST050903QUEST02_DESCRIPTION"
+  },
+  {
+    "Id": "Q_QUEST_TEST050903QUEST02_VICTORY_TEXT",
+    "Text": "Q_QUEST_TEST050903QUEST02_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_TEST050903QUEST02_DEFEAT_TEXT",
+    "Text": "Q_QUEST_TEST050903QUEST02_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_TEST050903QUEST03_NAME",
+    "Text": "Q_QUEST_TEST050903QUEST03_NAME"
+  },
+  {
+    "Id": "Q_QUEST_TEST050903QUEST03_DESCRIPTION",
+    "Text": "Q_QUEST_TEST050903QUEST03_DESCRIPTION"
+  },
+  {
+    "Id": "Q_QUEST_TEST050903QUEST03_VICTORY_TEXT",
+    "Text": "Q_QUEST_TEST050903QUEST03_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_TEST050903QUEST03_DEFEAT_TEXT",
+    "Text": "Q_QUEST_TEST050903QUEST03_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_TEST050903QUEST04_NAME",
+    "Text": "Q_QUEST_TEST050903QUEST04_NAME"
+  },
+  {
+    "Id": "Q_QUEST_TEST050903QUEST04_DESCRIPTION",
+    "Text": "Q_QUEST_TEST050903QUEST04_DESCRIPTION"
+  },
+  {
+    "Id": "Q_QUEST_TEST050903QUEST04_VICTORY_TEXT",
+    "Text": "Q_QUEST_TEST050903QUEST04_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_TEST050903QUEST04_DEFEAT_TEXT",
+    "Text": "Q_QUEST_TEST050903QUEST04_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_TEST050903QUEST05_NAME",
+    "Text": "Q_QUEST_TEST050903QUEST05_NAME"
+  },
+  {
+    "Id": "Q_QUEST_TEST050903QUEST05_DESCRIPTION",
+    "Text": "Q_QUEST_TEST050903QUEST05_DESCRIPTION"
+  },
+  {
+    "Id": "Q_QUEST_TEST050903QUEST05_VICTORY_TEXT",
+    "Text": "Q_QUEST_TEST050903QUEST05_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_TEST050903QUEST05_DEFEAT_TEXT",
+    "Text": "Q_QUEST_TEST050903QUEST05_DEFEAT_TEXT"
+  },
+  {
+    "Id": "C_ATEST180509_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_ATEST180509_TITLE",
+    "Text": ""
+  },
+  {
+    "Id": "C_ATEST180509_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "C_ELVENBLADE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_ELVENBLADE_TITLE",
+    "Text": "Elven Blade"
+  },
+  {
+    "Id": "C_ELVENBLADE_TEXT",
+    "Text": "(Silvan or Noldor Only) \n+2 Attack"
   }
 ]
