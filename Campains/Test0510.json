@@ -1,8 +1,8 @@
 {
   "Id": "Test0510",
   "IconSprite": "Sprites/Quest/icon_q1",
-  "MapPosX": 0.0,
-  "MapPosY": 0.0,
+  "MapPosX": -8.0,
+  "MapPosY": -14.0,
   "Quests": [
     {
       "Id": "Test0510Quest01",
@@ -65,7 +65,7 @@
         }
       ],
       "FateCardList": [],
-      "ThreatCardList": []
+      "ThreatCardList": null
     },
     {
       "Id": "Test0510Quest02",
@@ -128,7 +128,7 @@
         }
       ],
       "FateCardList": [],
-      "ThreatCardList": []
+      "ThreatCardList": null
     },
     {
       "Id": "Test0510Quest03",
@@ -191,7 +191,7 @@
         }
       ],
       "FateCardList": [],
-      "ThreatCardList": []
+      "ThreatCardList": null
     },
     {
       "Id": "Test0510Quest04",
@@ -254,7 +254,7 @@
         }
       ],
       "FateCardList": [],
-      "ThreatCardList": []
+      "ThreatCardList": null
     },
     {
       "Id": "Test0510Quest05",
@@ -317,7 +317,7 @@
         }
       ],
       "FateCardList": [],
-      "ThreatCardList": []
+      "ThreatCardList": null
     }
   ]
 }
