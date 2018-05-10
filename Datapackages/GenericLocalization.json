@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -3721,9 +3721,33 @@
   },
   {
     "Id": "Q_STAGECHOICE_STANDANDFIGHT_TURNANDFLEE",
-    "Text": "You have rescued your friend, but the spiders continue to swarm around you.\nYou must act quickly before all is lost!",
-    "Text_CN": "[C]You have rescued your friend, but the spiders continue to swarm around you.\nYou must act quickly before all is lost!",
-    "Text_FR": "You have rescued your friend, but the spiders continue to swarm around you.\nYou must act quickly before all is lost!"
+    "Text": "You decide that the mission is too important to confront an unknown number of Orcs. You seek to bypass them by taking an alternate path, but the trail soon becomes increasingly overgrown and the forest floor covered in thick shrouds of webbing. You hear the skittering sound of many legs encroaching all around as it becomes clear you’ve stumbled into another spiders’ nest! You must fight past the chitinous horde if you wish to press on through Mirkwood this day.",
+    "Text_CN": "[C]You decide that the mission is too important to confront an unknown number of Orcs. You seek to bypass them by taking an alternate path, but the trail soon becomes increasingly overgrown and the forest floor covered in thick shrouds of webbing. You hear the skittering sound of many legs encroaching all around as it becomes clear you’ve stumbled into another spiders’ nest! You must fight past the chitinous horde if you wish to press on through Mirkwood this day.",
+    "Text_FR": "You decide that the mission is too important to confront an unknown number of Orcs. You seek to bypass them by taking an alternate path, but the trail soon becomes increasingly overgrown and the forest floor covered in thick shrouds of webbing. You hear the skittering sound of many legs encroaching all around as it becomes clear you’ve stumbled into another spiders’ nest! You must fight past the chitinous horde if you wish to press on through Mirkwood this day."
+  },
+  {
+    "Id": "U_CAMPAIGN_CHOOSE_PATH",
+    "Text": "Choose Your Path",
+    "Text_CN": "[C]Choose Your Path",
+    "Text_FR": "Choose Your Path"
+  },
+  {
+    "Id": "U_PALANTIR_REWARD_CARD_BACK",
+    "Text": "Card Back",
+    "Text_CN": "[C]Card Back",
+    "Text_FR": "Card Back"
+  },
+  {
+    "Id": "U_PALANTIR_REWARD_AVATAR",
+    "Text": "Avatar",
+    "Text_CN": "[C]Avatar",
+    "Text_FR": "Avatar"
+  },
+  {
+    "Id": "U_PALANTIR_REWARD_PLAYER_FRAME",
+    "Text": "Player Frame",
+    "Text_CN": "[C]Player Frame",
+    "Text_FR": "Player Frame"
   },
   {
     "Id": "PLACEHOLDER2",
