@@ -1,0 +1,42 @@
+{
+  "CardData": {
+    "Id": "ATest180402Exp",
+    "Owner": "Sauron",
+    "CardType": "5",
+    "ShopType": "",
+    "Cost": 4,
+    "QuestPoints": 0,
+    "Attack": 5,
+    "Willpower": 3,
+    "Health": 6,
+    "Trait": "Orc",
+    "Rarity": "5",
+    "Sphere": "2",
+    "SphereLevel": 0,
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "test card on exp -1-2",
+    "ArtistName": "",
+    "Status": "WIP",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
+    "ArtworkMD5": "6a96f6c6303730ca9811c9d6abdedfd5",
+    "BannerMD5": "b04256e78348995841b971a8afbd5b3c",
+    "IconMD5": "3acb4c4f70dd9daf206c0bded2ef1a95"
+  },
+  "Localization": {
+    "Title": "card for exp",
+    "Text": "test card on exp2"
+  }
+}
