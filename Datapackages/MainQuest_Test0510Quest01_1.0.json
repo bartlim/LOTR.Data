@@ -81,15 +81,23 @@
         "NextStageTitles": [
           "",
           ""
-        ]
+        ],
+        "FateCardList": null
       }
     ],
     "Sequences": [],
-    "Stories": []
+    "Stories": [],
+    "FateCardList": [
+      {
+        "Id": "fate1",
+        "Treshold": 4
+      }
+    ],
+    "ThreatCardList": null
   },
-  "Version": "20180511170345383",
+  "Version": "20180511173414327",
   "Key": "MainQuest",
   "SubKey": "Test0510Quest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Test0510Quest01_20180511170345383"
+  "InternalKey": "MainQuest_Test0510Quest01_20180511173414327"
 }
