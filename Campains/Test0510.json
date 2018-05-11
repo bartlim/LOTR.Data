@@ -66,8 +66,12 @@
       ],
       "FateCardList": [
         {
-          "Id": "fate1",
+          "Id": "Fate1",
           "Amount": 1
+        },
+        {
+          "Id": "Fate2",
+          "Amount": 2
         }
       ],
       "ThreatCardList": null
