@@ -64,7 +64,12 @@
           "Amount": 2
         }
       ],
-      "FateCardList": null,
+      "FateCardList": [
+        {
+          "Id": "fate1",
+          "Amount": 2
+        }
+      ],
       "ThreatCardList": null
     },
     {
