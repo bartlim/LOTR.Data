@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "Id": "PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -793,13 +793,13 @@
   },
   {
     "Id": "U_INGAME_DISCARD_HANDCARD",
-    "Text": "Please Discard 1 Card",
+    "Text": "Discard 1 Card",
     "Text_CN": "[C]请丢弃1张手牌",
     "Text_FR": "Veuillez vous défausser d'1 carte"
   },
   {
     "Id": "U_INGAME_DISCARD_HANDCARDS",
-    "Text": "Please Discard {0} Cards",
+    "Text": "Discard {0} Cards",
     "Text_CN": "[C]请丢弃{0}张手牌",
     "Text_FR": "Veuillez vous défausser de {0} cartes"
   },
