@@ -1,7 +1,7 @@
 {
   "Id": "Test0510",
   "IconSprite": "Sprites/Quest/icon_q1",
-  "MapPosX": -7.0,
+  "MapPosX": -8.0,
   "MapPosY": -14.0,
   "Quests": [
     {
@@ -23,16 +23,7 @@
           ],
           "NextStageId": ",",
           "BGM": "mus_cave",
-          "FateCardList": [
-            {
-              "Id": "fate3",
-              "Amount": 3
-            },
-            {
-              "Id": "fate4",
-              "Amount": 4
-            }
-          ]
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -73,22 +64,8 @@
           "Amount": 2
         }
       ],
-      "FateCardList": [
-        {
-          "Id": "fate1",
-          "Amount": 1
-        },
-        {
-          "Id": "fate2",
-          "Amount": 2
-        }
-      ],
-      "ThreatCardList": [
-        {
-          "Id": "threat1",
-          "Amount": 1
-        }
-      ]
+      "FateCardList": null,
+      "ThreatCardList": null
     },
     {
       "Id": "Test0510Quest02",
