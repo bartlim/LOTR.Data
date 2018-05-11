@@ -21,7 +21,7 @@
             "FindThePath",
             "VeteranPatrol"
           ],
-          "NextStageId": "",
+          "NextStageId": ",",
           "BGM": "mus_cave",
           "FateCardList": [
             {
@@ -87,10 +87,6 @@
         {
           "Id": "threat1",
           "Amount": 1
-        },
-        {
-          "Id": "threat2",
-          "Amount": 2
         }
       ]
     },
