@@ -1,7 +1,7 @@
 {
   "Id": "Test0510",
   "IconSprite": "Sprites/Quest/icon_q1",
-  "MapPosX": -8.0,
+  "MapPosX": -7.0,
   "MapPosY": -14.0,
   "Quests": [
     {
@@ -64,18 +64,8 @@
           "Amount": 2
         }
       ],
-      "FateCardList": [
-        {
-          "Id": "fate3",
-          "Amount": 3
-        }
-      ],
-      "ThreatCardList": [
-        {
-          "Id": "threat1",
-          "Amount": 1
-        }
-      ]
+      "FateCardList": null,
+      "ThreatCardList": null
     },
     {
       "Id": "Test0510Quest02",
