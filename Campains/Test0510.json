@@ -23,16 +23,7 @@
           ],
           "NextStageId": ",",
           "BGM": "mus_cave",
-          "FateCardList": [
-            {
-              "Id": "fate3",
-              "Amount": 3
-            },
-            {
-              "Id": "fate4",
-              "Amount": 4
-            }
-          ]
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -75,20 +66,11 @@
       ],
       "FateCardList": [
         {
-          "Id": "fate1",
-          "Amount": 1
-        },
-        {
-          "Id": "fate2",
+          "Id": "Fate1",
           "Amount": 2
         }
       ],
-      "ThreatCardList": [
-        {
-          "Id": "threat1",
-          "Amount": 1
-        }
-      ]
+      "ThreatCardList": null
     },
     {
       "Id": "Test0510Quest02",
