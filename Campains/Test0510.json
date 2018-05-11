@@ -23,16 +23,7 @@
           ],
           "NextStageId": ",",
           "BGM": "mus_cave",
-          "FateCardList": [
-            {
-              "Id": "fate3",
-              "Amount": 3
-            },
-            {
-              "Id": "fate4",
-              "Amount": 4
-            }
-          ]
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -75,12 +66,8 @@
       ],
       "FateCardList": [
         {
-          "Id": "fate1",
-          "Amount": 1
-        },
-        {
-          "Id": "fate2",
-          "Amount": 2
+          "Id": "fate3",
+          "Amount": 3
         }
       ],
       "ThreatCardList": [
