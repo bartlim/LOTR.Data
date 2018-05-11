@@ -60,7 +60,7 @@
               "Id": "TurnAndFlee",
               "SceneName": "Q01_L03b_TurnAndFlee",
               "IntroVoice": "Q1L3B_TurnAndFlee",
-              "IntroSprite": "PassageThroughMirkwoodTurnAndFleeIntroSprite",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage03B",
               "SoloGameSetup": [
                 "FindThePath",
                 "RangerProvisions",
@@ -86,7 +86,7 @@
             {
               "Id": "TheEnchantedStreamAlt",
               "SceneName": "Q01_L04_TheEnchantedStream",
-              "IntroVoice": "PassageThroughMirkwoodTheEnchantedStreamAltIntroVoice",
+              "IntroVoice": "Sprites/Locations/Quest1_Stage04B",
               "IntroSprite": "PassageThroughMirkwoodTheEnchantedStreamAltIntroSprite",
               "SoloGameSetup": [
                 "MirkwoodPatrol",
@@ -2111,8 +2111,8 @@
                 "FindThePath",
                 "VeteranPatrol"
               ],
-              "NextStageId": "",
-              "BGM": null
+              "NextStageId": ",",
+              "BGM": "mus_cave"
             }
           ],
           "SauronDeck": [
