@@ -61,6 +61,20 @@
           "MaxDifficulty": 4
         },
         {
+          "Id": "GrowingDarkness",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "MirkwoodFlock",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
           "Id": "PursuedByShadow",
           "Quantity": 1,
           "MinThreatLevel": 0,
@@ -181,7 +195,7 @@
         },
         {
           "Id": "AnduinTrollSpawn",
-          "Quantity": 3,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -250,8 +264,7 @@
         "NextStages": [],
         "NextStageTitles": [
           "TheTrollsDinner"
-        ],
-        "FateCardList": null
+        ]
       },
       {
         "Title": "TheTrollsDinner",
@@ -265,8 +278,7 @@
         "NextStages": [],
         "NextStageTitles": [
           "FightWithTheTrolls"
-        ],
-        "FateCardList": null
+        ]
       },
       {
         "Title": "FightWithTheTrolls",
@@ -280,18 +292,15 @@
         "NextStages": [],
         "NextStageTitles": [
           ""
-        ],
-        "FateCardList": null
+        ]
       }
     ],
     "Sequences": [],
-    "Stories": [],
-    "FateCardList": null,
-    "ThreatCardList": null
+    "Stories": []
   },
-  "Version": "20180514063005746",
+  "Version": "20180514145741021",
   "Key": "MainQuest",
   "SubKey": "ConflictAtTheCarrock",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180514063005746"
+  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180514145741021"
 }
