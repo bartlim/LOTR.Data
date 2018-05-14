@@ -54,6 +54,13 @@
           "MaxDifficulty": 4
         },
         {
+          "Id": "EastBightPatrol",
+          "Quantity": 3,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
           "Id": "EyesOfTheForest",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -131,15 +138,15 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "EastBightPatrol",
-          "Quantity": 4,
+          "Id": "DolGuldurOrcs",
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
         },
         {
           "Id": "Enfeebled",
-          "Quantity": 1,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -160,6 +167,20 @@
         },
         {
           "Id": "LowOnSupplies",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "OrcMarauder",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "SpidersOfMirkwood",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -188,7 +209,7 @@
         },
         {
           "Id": "AccursedForest",
-          "Quantity": 1,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -202,13 +223,6 @@
         },
         {
           "Id": "GiantSpider",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "SpidersOfMirkwood",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -237,16 +251,6 @@
         "NextStages": [],
         "NextStageTitles": [
           "CapturedBySpiders"
-        ],
-        "FateCardList": [
-          {
-            "Id": "LocationFateOne",
-            "Treshold": 2
-          },
-          {
-            "Id": "LocationFateTwo",
-            "Treshold": 4
-          }
         ]
       },
       {
@@ -260,8 +264,7 @@
         "NextStageTitles": [
           "StandAndFight",
           "TurnAndFlee"
-        ],
-        "FateCardList": null
+        ]
       },
       {
         "Title": "StandAndFight",
@@ -276,8 +279,7 @@
         "NextStages": [],
         "NextStageTitles": [
           "TheEnchantedStream"
-        ],
-        "FateCardList": null
+        ]
       },
       {
         "Title": "TurnAndFlee",
@@ -292,8 +294,7 @@
         "NextStages": [],
         "NextStageTitles": [
           "TheEnchantedStreamAlt"
-        ],
-        "FateCardList": null
+        ]
       },
       {
         "Title": "TheEnchantedStream",
@@ -305,8 +306,7 @@
         "NextStages": [],
         "NextStageTitles": [
           ""
-        ],
-        "FateCardList": null
+        ]
       },
       {
         "Title": "TheEnchantedStreamAlt",
@@ -320,36 +320,15 @@
         "NextStages": [],
         "NextStageTitles": [
           ""
-        ],
-        "FateCardList": null
+        ]
       }
     ],
     "Sequences": [],
-    "Stories": [],
-    "FateCardList": [
-      {
-        "Id": "QuestFateOne",
-        "Treshold": 1
-      },
-      {
-        "Id": "QuestFateTwo",
-        "Treshold": 3
-      }
-    ],
-    "ThreatCardList": [
-      {
-        "Id": "QuestThreatOne",
-        "Treshold": 35
-      },
-      {
-        "Id": "QuestThreatTwo",
-        "Treshold": 40
-      }
-    ]
+    "Stories": []
   },
-  "Version": "20180514062945269",
+  "Version": "20180514145719976",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180514062945269"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180514145719976"
 }
