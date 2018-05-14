@@ -23,9 +23,9 @@
     "FlavorText": "\"We're going on; but we'll settle with you first. Come on, and taste it again!\" \n—Sam Gamgee, <i>The Two Towers</i>",
     "ArtistName": "Piya Wannachaiwong",
     "Status": "Ready",
-    "CardOffsetX": 0.98,
+    "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
-    "CardScale": 0.9,
+    "CardScale": 1.0,
     "CameoOffsetX": 1.0,
     "CameoOffsetY": 1.0,
     "CameoScale": 1.0,
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "Taste it Again!",
-    "Text": "Gain <b>Ambush</b> when defending against the next attack"
+    "Text": "Before the next Enemy attack, deal damage to the attacker equal to the defender's Attack value"
   }
 }
