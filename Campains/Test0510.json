@@ -67,10 +67,15 @@
       "FateCardList": [
         {
           "Id": "fate1",
-          "Treshold": 4
+          "Treshold": 1
         }
       ],
-      "ThreatCardList": null
+      "ThreatCardList": [
+        {
+          "Id": "threat1",
+          "Treshold": 0
+        }
+      ]
     },
     {
       "Id": "Test0510Quest02",
