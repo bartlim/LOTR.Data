@@ -238,7 +238,16 @@
         "NextStageTitles": [
           "CapturedBySpiders"
         ],
-        "FateCardList": null
+        "FateCardList": [
+          {
+            "Id": "LocationFateOne",
+            "Treshold": 2
+          },
+          {
+            "Id": "LocationFateTwo",
+            "Treshold": 4
+          }
+        ]
       },
       {
         "Title": "CapturedBySpiders",
@@ -338,9 +347,9 @@
       }
     ]
   },
-  "Version": "20180514062522190",
+  "Version": "20180514062945269",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180514062522190"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180514062945269"
 }
