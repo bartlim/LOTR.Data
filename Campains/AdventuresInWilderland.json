@@ -26,8 +26,16 @@
           ],
           "NextStageId": "CapturedBySpiders",
           "BGM": "mus_thewilderlands",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": [
+            {
+              "Id": "LocationFateOne",
+              "Treshold": 2
+            },
+            {
+              "Id": "LocationFateTwo",
+              "Treshold": 4
+            }
+          ]
         },
         {
           "Id": "CapturedBySpiders",
@@ -40,8 +48,7 @@
           ],
           "NextStageId": "StandAndFight,TurnAndFlee",
           "BGM": "mus_dungeon",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         },
         {
           "Id": "StandAndFight",
@@ -57,8 +64,7 @@
           ],
           "NextStageId": "TheEnchantedStream",
           "BGM": "mus_cave",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         },
         {
           "Id": "TurnAndFlee",
@@ -74,8 +80,7 @@
           ],
           "NextStageId": "TheEnchantedStreamAlt",
           "BGM": "mus_mirkwood",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         },
         {
           "Id": "TheEnchantedStream",
@@ -88,8 +93,7 @@
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         },
         {
           "Id": "TheEnchantedStreamAlt",
@@ -104,8 +108,7 @@
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -136,10 +139,6 @@
         {
           "Id": "DrivenByShadow",
           "Amount": 1
-        },
-        {
-          "Id": "EastBightPatrol",
-          "Amount": 3
         },
         {
           "Id": "EyesOfTheForest",
@@ -186,12 +185,12 @@
           "Amount": 1
         },
         {
-          "Id": "DolGuldurOrcs",
-          "Amount": 1
+          "Id": "EastBightPatrol",
+          "Amount": 4
         },
         {
           "Id": "Enfeebled",
-          "Amount": 2
+          "Amount": 1
         },
         {
           "Id": "GreedyFingers",
@@ -203,14 +202,6 @@
         },
         {
           "Id": "LowOnSupplies",
-          "Amount": 2
-        },
-        {
-          "Id": "OrcMarauder",
-          "Amount": 1
-        },
-        {
-          "Id": "SpidersOfMirkwood",
           "Amount": 2
         },
         {
@@ -227,7 +218,7 @@
         },
         {
           "Id": "AccursedForest",
-          "Amount": 2
+          "Amount": 1
         },
         {
           "Id": "Exhaustion",
@@ -238,11 +229,34 @@
           "Amount": 2
         },
         {
+          "Id": "SpidersOfMirkwood",
+          "Amount": 2
+        },
+        {
           "Id": "TheNecromancersReach",
           "Amount": 1
         }
       ],
-      "FateCardList": null
+      "FateCardList": [
+        {
+          "Id": "QuestFateOne",
+          "Treshold": 1
+        },
+        {
+          "Id": "QuestFateTwo",
+          "Treshold": 3
+        }
+      ],
+      "ThreatCardList": [
+        {
+          "Id": "QuestThreatOne",
+          "Treshold": 35
+        },
+        {
+          "Id": "QuestThreatTwo",
+          "Treshold": 40
+        }
+      ]
     },
     {
       "Id": "FliesAndSpiders",
@@ -264,8 +278,7 @@
           ],
           "NextStageId": "TheSpidersLair",
           "BGM": "mus_mirkwood",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         },
         {
           "Id": "TheSpidersLair",
@@ -279,8 +292,7 @@
           ],
           "NextStageId": "TheSpidersWebs",
           "BGM": "mus_dungeon",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         },
         {
           "Id": "TheSpidersWebs",
@@ -294,8 +306,7 @@
           ],
           "NextStageId": "ForestGlade",
           "BGM": "mus_dungeon",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         },
         {
           "Id": "ForestGlade",
@@ -310,8 +321,7 @@
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -322,10 +332,6 @@
         {
           "Id": "WatchersintheDark",
           "Amount": 2
-        },
-        {
-          "Id": "AccursedForest",
-          "Amount": 1
         },
         {
           "Id": "CreatureOfDarkness",
@@ -372,10 +378,6 @@
           "Amount": 1
         },
         {
-          "Id": "WatchfulEyes",
-          "Amount": 2
-        },
-        {
           "Id": "CaughtInAWeb",
           "Amount": 1
         },
@@ -412,15 +414,19 @@
           "Amount": 2
         },
         {
-          "Id": "SpidersOfMirkwood",
-          "Amount": 2
-        },
-        {
           "Id": "ThickWebs",
           "Amount": 1
         },
         {
           "Id": "UnderTheWatchfulEye",
+          "Amount": 1
+        },
+        {
+          "Id": "WatchfulEyes",
+          "Amount": 2
+        },
+        {
+          "Id": "AccursedForest",
           "Amount": 1
         },
         {
@@ -440,6 +446,10 @@
           "Amount": 2
         },
         {
+          "Id": "SpidersOfMirkwood",
+          "Amount": 2
+        },
+        {
           "Id": "TurnedAround",
           "Amount": 1
         },
@@ -452,7 +462,8 @@
           "Amount": 1
         }
       ],
-      "FateCardList": null
+      "FateCardList": null,
+      "ThreatCardList": null
     },
     {
       "Id": "LostInMirkwood",
@@ -476,8 +487,7 @@
           ],
           "NextStageId": "ForestStream",
           "BGM": "mus_mirkwood",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         },
         {
           "Id": "ForestStream",
@@ -493,8 +503,7 @@
           ],
           "NextStageId": "BareHilltop",
           "BGM": "mus_mirkwood",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         },
         {
           "Id": "BareHilltop",
@@ -510,8 +519,7 @@
           ],
           "NextStageId": "MirkwoodSwamp",
           "BGM": "mus_mirkwood",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         },
         {
           "Id": "MirkwoodSwamp",
@@ -526,8 +534,7 @@
           ],
           "NextStageId": "OvergrownTrail",
           "BGM": "mus_mirkwood",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         },
         {
           "Id": "OvergrownTrail",
@@ -542,8 +549,7 @@
           ],
           "NextStageId": "AbandonedVillage",
           "BGM": "mus_mirkwood",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         },
         {
           "Id": "AbandonedVillage",
@@ -558,8 +564,7 @@
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -748,7 +753,8 @@
           "Amount": 1
         }
       ],
-      "FateCardList": null
+      "FateCardList": null,
+      "ThreatCardList": null
     },
     {
       "Id": "JourneyDownTheAnduin",
@@ -770,8 +776,7 @@
           ],
           "NextStageId": "AnduinPassage",
           "BGM": "mus_stream",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         },
         {
           "Id": "AnduinPassage",
@@ -786,8 +791,7 @@
           ],
           "NextStageId": "TreacherousShortcut",
           "BGM": "mus_stream",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         },
         {
           "Id": "TreacherousShortcut",
@@ -803,8 +807,7 @@
           ],
           "NextStageId": "AmbushOnTheShore",
           "BGM": "mus_desperation",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         },
         {
           "Id": "GentleWaters",
@@ -819,8 +822,7 @@
           ],
           "NextStageId": "AmbushOnTheShore",
           "BGM": "mus_stream",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         },
         {
           "Id": "AmbushOnTheShore",
@@ -836,14 +838,13 @@
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
         {
           "Id": "BlackForestBats",
-          "Amount": 4
+          "Amount": 2
         },
         {
           "Id": "WatchersintheDark",
@@ -883,7 +884,7 @@
         },
         {
           "Id": "MirkwoodFlock",
-          "Amount": 2
+          "Amount": 1
         },
         {
           "Id": "PursuedByShadow",
@@ -919,7 +920,7 @@
         },
         {
           "Id": "Enfeebled",
-          "Amount": 2
+          "Amount": 1
         },
         {
           "Id": "EvilStorm",
@@ -963,7 +964,7 @@
         },
         {
           "Id": "GoblinSniper",
-          "Amount": 2
+          "Amount": 1
         },
         {
           "Id": "PursuitOnTheShore",
@@ -978,7 +979,8 @@
           "Amount": 2
         }
       ],
-      "FateCardList": null
+      "FateCardList": null,
+      "ThreatCardList": null
     },
     {
       "Id": "ConflictAtTheCarrock",
@@ -1001,8 +1003,7 @@
           ],
           "NextStageId": "TheTrollsDinner",
           "BGM": "mus_cave",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         },
         {
           "Id": "TheTrollsDinner",
@@ -1017,8 +1018,7 @@
           ],
           "NextStageId": "FightWithTheTrolls",
           "BGM": "mus_cave",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         },
         {
           "Id": "FightWithTheTrolls",
@@ -1033,8 +1033,7 @@
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme",
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -1069,14 +1068,6 @@
         {
           "Id": "GatheringGloom",
           "Amount": 1
-        },
-        {
-          "Id": "GrowingDarkness",
-          "Amount": 1
-        },
-        {
-          "Id": "MirkwoodFlock",
-          "Amount": 2
         },
         {
           "Id": "PursuedByShadow",
@@ -1148,7 +1139,7 @@
         },
         {
           "Id": "AnduinTrollSpawn",
-          "Amount": 2
+          "Amount": 3
         },
         {
           "Id": "Exhaustion",
@@ -1179,7 +1170,8 @@
           "Amount": 1
         }
       ],
-      "FateCardList": null
+      "FateCardList": null,
+      "ThreatCardList": null
     }
   ]
 }

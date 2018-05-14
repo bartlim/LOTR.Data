@@ -19,13 +19,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "AccursedForest",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "CreatureOfDarkness",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -103,13 +96,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "WatchfulEyes",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "CaughtInAWeb",
           "Quantity": 1,
           "MinThreatLevel": 0,
@@ -173,13 +159,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "SpidersOfMirkwood",
-          "Quantity": 2,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "ThickWebs",
           "Quantity": 1,
           "MinThreatLevel": 0,
@@ -188,6 +167,20 @@
         },
         {
           "Id": "UnderTheWatchfulEye",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "WatchfulEyes",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "AccursedForest",
           "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -216,6 +209,13 @@
         },
         {
           "Id": "KingSpider",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "SpidersOfMirkwood",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -256,7 +256,8 @@
         "NextStages": [],
         "NextStageTitles": [
           "TheSpidersLair"
-        ]
+        ],
+        "FateCardList": null
       },
       {
         "Title": "TheSpidersLair",
@@ -269,7 +270,8 @@
         "NextStages": [],
         "NextStageTitles": [
           "TheSpidersWebs"
-        ]
+        ],
+        "FateCardList": null
       },
       {
         "Title": "TheSpidersWebs",
@@ -282,7 +284,8 @@
         "NextStages": [],
         "NextStageTitles": [
           "ForestGlade"
-        ]
+        ],
+        "FateCardList": null
       },
       {
         "Title": "ForestGlade",
@@ -296,15 +299,18 @@
         "NextStages": [],
         "NextStageTitles": [
           ""
-        ]
+        ],
+        "FateCardList": null
       }
     ],
     "Sequences": [],
-    "Stories": []
+    "Stories": [],
+    "FateCardList": null,
+    "ThreatCardList": null
   },
-  "Version": "20180510163152494",
+  "Version": "20180514062949692",
   "Key": "MainQuest",
   "SubKey": "FliesAndSpiders",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_FliesAndSpiders_20180510163152494"
+  "InternalKey": "MainQuest_FliesAndSpiders_20180514062949692"
 }

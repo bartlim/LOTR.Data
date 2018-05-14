@@ -6,7 +6,7 @@
       "DeckList": [
         {
           "Id": "BlackForestBats",
-          "Quantity": 4,
+          "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -76,7 +76,7 @@
         },
         {
           "Id": "MirkwoodFlock",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -139,7 +139,7 @@
         },
         {
           "Id": "Enfeebled",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -216,7 +216,7 @@
         },
         {
           "Id": "GoblinSniper",
-          "Quantity": 2,
+          "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -256,7 +256,8 @@
         "NextStages": [],
         "NextStageTitles": [
           "AnduinPassage"
-        ]
+        ],
+        "FateCardList": null
       },
       {
         "Title": "AnduinPassage",
@@ -270,7 +271,8 @@
         "NextStages": [],
         "NextStageTitles": [
           "TreacherousShortcut"
-        ]
+        ],
+        "FateCardList": null
       },
       {
         "Title": "TreacherousShortcut",
@@ -285,7 +287,8 @@
         "NextStages": [],
         "NextStageTitles": [
           "AmbushOnTheShore"
-        ]
+        ],
+        "FateCardList": null
       },
       {
         "Title": "GentleWaters",
@@ -299,7 +302,8 @@
         "NextStages": [],
         "NextStageTitles": [
           "AmbushOnTheShore"
-        ]
+        ],
+        "FateCardList": null
       },
       {
         "Title": "AmbushOnTheShore",
@@ -314,15 +318,18 @@
         "NextStages": [],
         "NextStageTitles": [
           ""
-        ]
+        ],
+        "FateCardList": null
       }
     ],
     "Sequences": [],
-    "Stories": []
+    "Stories": [],
+    "FateCardList": null,
+    "ThreatCardList": null
   },
-  "Version": "20180510163202719",
+  "Version": "20180514063000366",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180510163202719"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180514063000366"
 }
