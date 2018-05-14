@@ -6127,15 +6127,21 @@
   },
   {
     "Id": "C_GIMLI_FLAVOR",
-    "Text": "\"Men need many words before deeds. My axe is restless in my hands.\" \n—Gimli, <i>The Two Towers</i>"
+    "Text": "\"Men need many words before deeds. My axe is restless in my hands.\" \n—Gimli, <i>The Two Towers</i>",
+    "Text_CN": "\"Men need many words before deeds. My axe is restless in my hands.\" \n—Gimli, <i>The Two Towers</i>",
+    "Text_FR": "\"Men need many words before deeds. My axe is restless in my hands.\" \n—Gimli, <i>The Two Towers</i>"
   },
   {
     "Id": "C_GIMLI_TEXT",
-    "Text": "<b>Counter</b>. Gain +1 Attack this round after any Character takes damage"
+    "Text": "<b>Counter</b>. Gain +2 Attack this round after taking damage",
+    "Text_CN": "<b>Counter</b>. Gain +2 Attack this round after taking damage",
+    "Text_FR": "<b>Counter</b>. Gain +2 Attack this round after taking damage"
   },
   {
     "Id": "C_GIMLI_TITLE",
-    "Text": "‰Gimli   "
+    "Text": "‰Gimli   ",
+    "Text_CN": "‰Gimli   ",
+    "Text_FR": "‰Gimli   "
   },
   {
     "Id": "C_GOBLINSNIPER_FLAVOR",
@@ -7033,15 +7039,21 @@
   },
   {
     "Id": "C_QUICKSTRIKE_FLAVOR",
-    "Text": "\"…for he that strikes the first blow, if he strikes it hard enough, may need to strike no more.\" \n—Gandalf, <i>The Two Towers</i>"
+    "Text": "\"…for he that strikes the first blow, if he strikes it hard enough, may need to strike no more.\" \n—Gandalf, <i>The Two Towers</i>",
+    "Text_CN": "\"…for he that strikes the first blow, if he strikes it hard enough, may need to strike no more.\" \n—Gandalf, <i>The Two Towers</i>",
+    "Text_FR": "\"…for he that strikes the first blow, if he strikes it hard enough, may need to strike no more.\" \n—Gandalf, <i>The Two Towers</i>"
   },
   {
     "Id": "C_QUICKSTRIKE_TEXT",
-    "Text": "Deal damage to an Enemy equal to the selected Character's Attack value"
+    "Text": "Gain <b>Ambush</b> on your next attack",
+    "Text_CN": "Gain <b>Ambush</b> on your next attack",
+    "Text_FR": "Gain <b>Ambush</b> on your next attack"
   },
   {
     "Id": "C_QUICKSTRIKE_TITLE",
-    "Text": "Quick Strike"
+    "Text": "Quick Strike",
+    "Text_CN": "速击",
+    "Text_FR": "Coup rapide"
   },
   {
     "Id": "C_RAIMENTOFWAR_FLAVOR",
@@ -7519,11 +7531,15 @@
   },
   {
     "Id": "C_SPIDERQUEEN_TEXT",
-    "Text": "<b>Arrival</b>: Play <i>Hatchling Spider</i> and Gain +1 Threat"
+    "Text": "n/a",
+    "Text_CN": "n/a",
+    "Text_FR": "n/a"
   },
   {
     "Id": "C_SPIDERQUEEN_TITLE",
-    "Text": "Mirkwood Broodmother"
+    "Text": "Spider Queen",
+    "Text_CN": "0",
+    "Text_FR": "Spider Queen"
   },
   {
     "Id": "C_SPIDERSNEST_FLAVOR",
@@ -7743,15 +7759,21 @@
   },
   {
     "Id": "C_TASTEITAGAIN_FLAVOR",
-    "Text": "\"We're going on; but we'll settle with you first. Come on, and taste it again!\" \n—Sam Gamgee, <i>The Two Towers</i>"
+    "Text": "\"We're going on; but we'll settle with you first. Come on, and taste it again!\" \n—Sam Gamgee, <i>The Two Towers</i>",
+    "Text_CN": "\"We're going on; but we'll settle with you first. Come on, and taste it again!\" \n—Sam Gamgee, <i>The Two Towers</i>",
+    "Text_FR": "\"We're going on; but we'll settle with you first. Come on, and taste it again!\" \n—Sam Gamgee, <i>The Two Towers</i>"
   },
   {
     "Id": "C_TASTEITAGAIN_TEXT",
-    "Text": "Before the next Enemy attack, deal damage to the attacker equal to the defender's Attack value"
+    "Text": "Gain <b>Ambush</b> when defending against the next attack",
+    "Text_CN": "Gain <b>Ambush</b> when defending against the next attack",
+    "Text_FR": "Gain <b>Ambush</b> when defending against the next attack"
   },
   {
     "Id": "C_TASTEITAGAIN_TITLE",
-    "Text": "Taste it Again!"
+    "Text": "Taste it Again!",
+    "Text_CN": "再尝一次！",
+    "Text_FR": "Viens donc en tâter !"
   },
   {
     "Id": "C_THECLOAKEDSTRANGER_FLAVOR",
@@ -11835,7 +11857,7 @@
   },
   {
     "Id": "C_ATEST180509_TEXT",
-    "Text": "new card testing"
+    "Text": ""
   },
   {
     "Id": "C_ELVENBLADE_FLAVOR",
@@ -12018,7 +12040,15 @@
     "Text": "Q_QUEST_HASDECKQUEST05_DEFEAT_TEXT"
   },
   {
-    "Id": "C_SPIDERQUEEN_FLAVOR",
+    "Id": "C_AATEST180514_TITLE",
+    "Text": "test"
+  },
+  {
+    "Id": "C_AATEST180514_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "C_AATEST180514_FLAVOR",
     "Text": ""
   }
 ]
