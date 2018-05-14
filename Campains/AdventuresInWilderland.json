@@ -58,7 +58,7 @@
           "Id": "TurnAndFlee",
           "SceneName": "Q01_L03b_TurnAndFlee",
           "IntroVoice": "Q1L3B_TurnAndFlee",
-          "IntroSprite": "Sprites/Locations/Quest1_Stage03B",
+          "IntroSprite": "PassageThroughMirkwoodTurnAndFleeIntroSprite",
           "SoloGameSetup": [
             "FindThePath",
             "RangerProvisions",
