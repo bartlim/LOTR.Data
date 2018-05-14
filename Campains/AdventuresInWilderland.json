@@ -26,7 +26,16 @@
           ],
           "NextStageId": "CapturedBySpiders",
           "BGM": "mus_thewilderlands",
-          "FateCardList": null
+          "FateCardList": [
+            {
+              "Id": "LocationFateOne",
+              "Treshold": 2
+            },
+            {
+              "Id": "LocationFateTwo",
+              "Treshold": 4
+            }
+          ]
         },
         {
           "Id": "CapturedBySpiders",
