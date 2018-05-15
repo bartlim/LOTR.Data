@@ -23,18 +23,20 @@
     "FlavorText": "",
     "ArtistName": "",
     "Status": "WIP",
-    "CardOffsetX": 0.0,
-    "CardOffsetY": 0.0,
-    "CardScale": 0.0,
-    "CameoOffsetX": 0.0,
-    "CameoOffsetY": 0.0,
-    "CameoScale": 0.0,
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.05,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 0.99,
+    "CameoScale": 1.07,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Defender of the Mark",
-    "Text": "All Character with the Rohan trait gain +1 Willpower and Restore 1 Health"
+    "Text": "Restore 1 Health and give \n+1 Willpower to all Rohan Characters"
   }
 }
