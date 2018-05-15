@@ -268,7 +268,12 @@
         "NextStageTitles": [
           "TheEnchantedStream"
         ],
-        "FateCardList": null
+        "FateCardList": [
+          {
+            "Id": "TheSquirmingCocoon",
+            "Treshold": 6
+          }
+        ]
       },
       {
         "Title": "TurnAndFlee",
@@ -342,9 +347,9 @@
       }
     ]
   },
-  "Version": "20180515031615095",
+  "Version": "20180515031740212",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180515031615095"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180515031740212"
 }
