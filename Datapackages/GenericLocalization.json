@@ -9877,21 +9877,15 @@
   },
   {
     "Id": "C_DUNEDAINHUNTER_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_DUNEDAINHUNTER_TITLE",
-    "Text": "Dunedain Hunter",
-    "Text_CN": "Dunedain Hunter",
-    "Text_FR": "Dunedain Hunter"
+    "Text": "Dúnedain Hunter"
   },
   {
     "Id": "C_DUNEDAINHUNTER_TEXT",
-    "Text": "<b>Arrival</b>: Sauron plays a random Enemy from his deck",
-    "Text_CN": "<b>Arrival</b>: Sauron plays a random Enemy from his deck",
-    "Text_FR": "<b>Arrival</b>: Sauron plays a random Enemy from his deck"
+    "Text": "<b>Arrival</b>: Sauron plays a random non-unique Enemy from his deck"
   },
   {
     "Id": "C_RANGERCLOAK_FLAVOR",
