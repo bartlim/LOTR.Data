@@ -89,15 +89,20 @@
     "Stories": [],
     "FateCardList": [
       {
-        "Id": "Fate1",
+        "Id": "fate1",
         "Treshold": 1
       }
     ],
-    "ThreatCardList": null
+    "ThreatCardList": [
+      {
+        "Id": "threat2",
+        "Treshold": 2
+      }
+    ]
   },
-  "Version": "20180514161503141",
+  "Version": "20180515024625722",
   "Key": "MainQuest",
   "SubKey": "Test0510Quest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Test0510Quest01_20180514161503141"
+  "InternalKey": "MainQuest_Test0510Quest01_20180515024625722"
 }
