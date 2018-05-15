@@ -57,7 +57,12 @@
               ],
               "NextStageId": "TheEnchantedStream",
               "BGM": "mus_cave",
-              "FateCardList": null
+              "FateCardList": [
+                {
+                  "Id": "TheSquirmingCocoon",
+                  "Treshold": 6
+                }
+              ]
             },
             {
               "Id": "TurnAndFlee",
@@ -86,7 +91,12 @@
               ],
               "NextStageId": "",
               "BGM": "mus_saurontheme",
-              "FateCardList": null
+              "FateCardList": [
+                {
+                  "Id": "FateKingsfoil",
+                  "Treshold": 6
+                }
+              ]
             },
             {
               "Id": "TheEnchantedStreamAlt",
@@ -101,7 +111,12 @@
               ],
               "NextStageId": "",
               "BGM": "mus_saurontheme",
-              "FateCardList": null
+              "FateCardList": [
+                {
+                  "Id": "SavedbytheElves",
+                  "Treshold": 6
+                }
+              ]
             }
           ],
           "SauronDeck": [
@@ -132,10 +147,6 @@
             {
               "Id": "DrivenByShadow",
               "Amount": 1
-            },
-            {
-              "Id": "EastBightPatrol",
-              "Amount": 3
             },
             {
               "Id": "EyesOfTheForest",
@@ -182,12 +193,12 @@
               "Amount": 1
             },
             {
-              "Id": "DolGuldurOrcs",
-              "Amount": 1
+              "Id": "EastBightPatrol",
+              "Amount": 4
             },
             {
               "Id": "Enfeebled",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "GreedyFingers",
@@ -199,14 +210,6 @@
             },
             {
               "Id": "LowOnSupplies",
-              "Amount": 2
-            },
-            {
-              "Id": "OrcMarauder",
-              "Amount": 1
-            },
-            {
-              "Id": "SpidersOfMirkwood",
               "Amount": 2
             },
             {
@@ -223,7 +226,7 @@
             },
             {
               "Id": "AccursedForest",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "Exhaustion",
@@ -234,12 +237,38 @@
               "Amount": 2
             },
             {
+              "Id": "SpidersOfMirkwood",
+              "Amount": 2
+            },
+            {
               "Id": "TheNecromancersReach",
               "Amount": 1
             }
           ],
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": [
+            {
+              "Id": "RangersCache",
+              "Treshold": 4
+            },
+            {
+              "Id": "ShaftofSunlight",
+              "Treshold": 7
+            },
+            {
+              "Id": "SupportfromDale",
+              "Treshold": 10
+            }
+          ],
+          "ThreatCardList": [
+            {
+              "Id": "SpidersDescend\r",
+              "Treshold": 1
+            },
+            {
+              "Id": "WaveofFear\r",
+              "Treshold": 2
+            }
+          ]
         },
         {
           "Id": "FliesAndSpiders",
@@ -317,10 +346,6 @@
               "Amount": 2
             },
             {
-              "Id": "AccursedForest",
-              "Amount": 1
-            },
-            {
               "Id": "CreatureOfDarkness",
               "Amount": 2
             },
@@ -365,10 +390,6 @@
               "Amount": 1
             },
             {
-              "Id": "WatchfulEyes",
-              "Amount": 2
-            },
-            {
               "Id": "CaughtInAWeb",
               "Amount": 1
             },
@@ -405,15 +426,19 @@
               "Amount": 2
             },
             {
-              "Id": "SpidersOfMirkwood",
-              "Amount": 2
-            },
-            {
               "Id": "ThickWebs",
               "Amount": 1
             },
             {
               "Id": "UnderTheWatchfulEye",
+              "Amount": 1
+            },
+            {
+              "Id": "WatchfulEyes",
+              "Amount": 2
+            },
+            {
+              "Id": "AccursedForest",
               "Amount": 1
             },
             {
@@ -430,6 +455,10 @@
             },
             {
               "Id": "KingSpider",
+              "Amount": 2
+            },
+            {
+              "Id": "SpidersOfMirkwood",
               "Amount": 2
             },
             {
@@ -827,7 +856,7 @@
           "SauronDeck": [
             {
               "Id": "BlackForestBats",
-              "Amount": 4
+              "Amount": 2
             },
             {
               "Id": "WatchersintheDark",
@@ -867,7 +896,7 @@
             },
             {
               "Id": "MirkwoodFlock",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "PursuedByShadow",
@@ -903,7 +932,7 @@
             },
             {
               "Id": "Enfeebled",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "EvilStorm",
@@ -947,7 +976,7 @@
             },
             {
               "Id": "GoblinSniper",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "PursuitOnTheShore",
@@ -1053,14 +1082,6 @@
               "Amount": 1
             },
             {
-              "Id": "GrowingDarkness",
-              "Amount": 1
-            },
-            {
-              "Id": "MirkwoodFlock",
-              "Amount": 2
-            },
-            {
               "Id": "PursuedByShadow",
               "Amount": 1
             },
@@ -1130,7 +1151,7 @@
             },
             {
               "Id": "AnduinTrollSpawn",
-              "Amount": 2
+              "Amount": 3
             },
             {
               "Id": "Exhaustion",
