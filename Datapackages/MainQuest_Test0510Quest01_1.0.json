@@ -97,12 +97,16 @@
       {
         "Id": "threat2",
         "Treshold": 2
+      },
+      {
+        "Id": "threat3",
+        "Treshold": 3
       }
     ]
   },
-  "Version": "20180515024625722",
+  "Version": "20180515024744048",
   "Key": "MainQuest",
   "SubKey": "Test0510Quest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Test0510Quest01_20180515024625722"
+  "InternalKey": "MainQuest_Test0510Quest01_20180515024744048"
 }
