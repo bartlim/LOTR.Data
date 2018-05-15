@@ -24,7 +24,7 @@
     "ArtistName": "John Stanko",
     "Status": "Ready",
     "CardOffsetX": 1.0,
-    "CardOffsetY": 1.0,
+    "CardOffsetY": 1.05,
     "CardScale": 1.0,
     "CameoOffsetX": 1.0,
     "CameoOffsetY": 1.0,
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "‰Aragorn  ",
-    "Text": "<b>Power</b>: +1 Attack and +1 Willpower until end of round (cost 1)"
+    "Text": "<b>Power</b>: Gain +1 Attack and \n+1 Willpower this round\n(cost 1)"
   }
 }
