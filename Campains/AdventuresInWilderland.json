@@ -55,7 +55,12 @@
           ],
           "NextStageId": "TheEnchantedStream",
           "BGM": "mus_cave",
-          "FateCardList": null
+          "FateCardList": [
+            {
+              "Id": "TheSquirmingCocoon",
+              "Treshold": 6
+            }
+          ]
         },
         {
           "Id": "TurnAndFlee",
