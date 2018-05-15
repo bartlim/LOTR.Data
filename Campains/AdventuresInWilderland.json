@@ -89,7 +89,12 @@
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme",
-          "FateCardList": null
+          "FateCardList": [
+            {
+              "Id": "FateKingsfoil",
+              "Treshold": 6
+            }
+          ]
         },
         {
           "Id": "TheEnchantedStreamAlt",
