@@ -23,12 +23,20 @@
     "FlavorText": "\"I have something to do before the end, and it lies ahead, not in the Shire. I must see it through, sir, if you understand me.\" \n–Sam Gamgee, <i>The Fellowship of the Ring</i>",
     "ArtistName": "Magali Villeneuve",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "792a3be1b234853e380fbad0f08f46a2",
     "BannerMD5": null,
     "IconMD5": "4ae0b4ef77b77e86b4427e30ab30b96b"
   },
   "Localization": {
     "Title": "Halfling Determination",
-    "Text": "Restore 4 Health\nto each Hobbit"
+    "Text": "Restore 4 Health\nto all Hobbit Characters"
   }
 }
