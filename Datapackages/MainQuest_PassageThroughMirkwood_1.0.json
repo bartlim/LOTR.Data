@@ -322,7 +322,12 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": null
+        "FateCardList": [
+          {
+            "Id": "SavedbytheElves",
+            "Treshold": 6
+          }
+        ]
       }
     ],
     "Sequences": [],
@@ -352,9 +357,9 @@
       }
     ]
   },
-  "Version": "20180515032020064",
+  "Version": "20180515032125718",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180515032020064"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180515032125718"
 }
