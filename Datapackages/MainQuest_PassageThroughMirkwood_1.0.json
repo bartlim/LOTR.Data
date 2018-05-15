@@ -302,7 +302,12 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": null
+        "FateCardList": [
+          {
+            "Id": "FateKingsfoil",
+            "Treshold": 6
+          }
+        ]
       },
       {
         "Title": "TheEnchantedStreamAlt",
@@ -347,9 +352,9 @@
       }
     ]
   },
-  "Version": "20180515031740212",
+  "Version": "20180515032020064",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180515031740212"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180515032020064"
 }
