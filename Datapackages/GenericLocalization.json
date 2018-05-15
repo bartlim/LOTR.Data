@@ -9337,21 +9337,15 @@
   },
   {
     "Id": "C_GLOIN_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_GLOIN_TITLE",
-    "Text": "‰Gloin",
-    "Text_CN": "‰Gloin",
-    "Text_FR": "‰Gloin"
+    "Text": "‰Gloin"
   },
   {
     "Id": "C_GLOIN_TEXT",
-    "Text": "<b>Power</b>: Each damaged Dwarf gains +1 Willpower this round (Cost 1 Damage)",
-    "Text_CN": "<b>Power</b>: Each damaged Dwarf gains +1 Willpower this round (Cost 1 Damage)",
-    "Text_FR": "<b>Power</b>: Each damaged Dwarf gains +1 Willpower this round (Cost 1 Damage)"
+    "Text": "<b>Power</b>: Deal 1 damage to <i>Gloin</i>; all wounded Dwarf Characters gain +1 Willpower this round"
   },
   {
     "Id": "C_DWARVENRECLAIMER_FLAVOR",
