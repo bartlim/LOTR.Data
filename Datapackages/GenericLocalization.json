@@ -9517,21 +9517,15 @@
   },
   {
     "Id": "C_EMISSARYOFTHEVALAR_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_EMISSARYOFTHEVALAR_TITLE",
-    "Text": "Emissary of the Valar",
-    "Text_CN": "Emissary of the Valar",
-    "Text_FR": "Emissary of the Valar"
+    "Text": "Emissary of the Valar"
   },
   {
     "Id": "C_EMISSARYOFTHEVALAR_TEXT",
-    "Text": "All Enemies in play lose <i>X</i> Attack this round. \n<i>X</i> is the current Threat Tier",
-    "Text_CN": "All Enemies in play lose <i>X</i> Attack this round. \n<i>X</i> is the current Threat Tier",
-    "Text_FR": "All Enemies in play lose <i>X</i> Attack this round. \n<i>X</i> is the current Threat Tier"
+    "Text": "All Enemies lose <u>X</u> Attack this round.\n<u>X</u> is the number of the most recent Threat event triggered"
   },
   {
     "Id": "C_ALIGHTFROMWITHIN_FLAVOR",
