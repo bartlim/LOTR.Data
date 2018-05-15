@@ -9619,21 +9619,15 @@
   },
   {
     "Id": "C_GONDORIANMILITIA_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_GONDORIANMILITIA_TITLE",
-    "Text": "Gondorian Militia",
-    "Text_CN": "Gondorian Militia",
-    "Text_FR": "Gondorian Militia"
+    "Text": "Gondorian Militia"
   },
   {
     "Id": "C_GONDORIANMILITIA_TEXT",
-    "Text": "<b>Arrival</b>: Gain +1 Health for every other Gondor Character in play",
-    "Text_CN": "<b>Arrival</b>: Gain +1 Health for every other Gondor Character in play",
-    "Text_FR": "<b>Arrival</b>: Gain +1 Health for every other Gondor Character in play"
+    "Text": "<b>Arrival</b>: Gain +1 Health for each other Gondor Character in play"
   },
   {
     "Id": "C_EOMER_FLAVOR",
