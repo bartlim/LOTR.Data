@@ -348,18 +348,18 @@
     ],
     "ThreatCardList": [
       {
-        "Id": "SpidersDescend\r",
+        "Id": "SpidersDescend",
         "Treshold": 1
       },
       {
-        "Id": "WaveofFear\r",
+        "Id": "WaveofFear",
         "Treshold": 2
       }
     ]
   },
-  "Version": "20180515032125718",
+  "Version": "20180515032458761",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180515032125718"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180515032458761"
 }
