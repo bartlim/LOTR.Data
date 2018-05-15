@@ -109,7 +109,12 @@
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme",
-          "FateCardList": null
+          "FateCardList": [
+            {
+              "Id": "SavedbytheElves",
+              "Treshold": 6
+            }
+          ]
         }
       ],
       "SauronDeck": [
