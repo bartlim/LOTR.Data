@@ -25,10 +25,10 @@
     "Status": "Ready",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
-    "CardScale": 1.0,
+    "CardScale": 0.9,
     "CameoOffsetX": 1.0,
-    "CameoOffsetY": 1.0,
-    "CameoScale": 1.0,
+    "CameoOffsetY": 1.02,
+    "CameoScale": 0.95,
     "CombatValue": 0,
     "ResolutionValue": 0,
     "ArtworkMD5": "e9fa5db21c900612733a0b78d38943f1",
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "Against the Shadow",
-    "Text": "Lose 1 <size=110%><sprite=4></size> for each Enemy \nin play"
+    "Text": "<line-height=100%>Lose 1 <size=120%><sprite=4></size> for each Enemy \nin play"
   }
 }
