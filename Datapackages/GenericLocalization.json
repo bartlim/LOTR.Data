@@ -8103,21 +8103,15 @@
   },
   {
     "Id": "C_SWORDOFNUMENOR_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_SWORDOFNUMENOR_TITLE",
-    "Text": "Sword of Numenor",
-    "Text_CN": "Sword of Numenor",
-    "Text_FR": "Sword of Numenor"
+    "Text": "Sword of Numenor"
   },
   {
     "Id": "C_SWORDOFNUMENOR_TEXT",
-    "Text": "Gain +1 Attack. <b>Vanquish</b>: Gain +1 Resource",
-    "Text_CN": "Gain +1 Attack. <b>Vanquish</b>: Gain +1 Resource",
-    "Text_FR": "Gain +1 Attack. <b>Vanquish</b>: Gain +1 Resource"
+    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=0></size>. \n<b>Vanquish</b>: Gain +1 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_ASTONISHINGSPEED_FLAVOR",
