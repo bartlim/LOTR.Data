@@ -13,16 +13,19 @@
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
-          "Id": "Location101",
-          "SceneName": "Q01_L01_ForestGate",
+          "Id": "DemoLocation1",
+          "SceneName": "Q03_L01_MirkwoodForest",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
-            "FindThePath",
-            "VeteranPatrol"
+            "AlongTheStream",
+            "InvestigateTheVillage",
+            "BlackForestBats",
+            "GiantSpider",
+            "WildBear"
           ],
-          "NextStageId": "",
-          "BGM": null,
+          "NextStageId": "DemoLocation2a,DemoLocation2b",
+          "BGM": "mus_mirkwood",
           "FateCardList": []
         }
       ],
