@@ -24,10 +24,10 @@
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
-    "CardOffsetY": 0.95,
+    "CardOffsetY": 1.0,
     "CardScale": 1.0,
     "CameoOffsetX": 1.0,
-    "CameoOffsetY": 0.95,
+    "CameoOffsetY": 1.0,
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "‰Balin",
-    "Text": "<b>Power</b>: Remove a Shadow\nfrom play (cost 1<sprite=3>)"
+    "Text": "<b>Power</b>: Remove a Shadow\nfrom play (cost 1 <sprite=3>)"
   }
 }
