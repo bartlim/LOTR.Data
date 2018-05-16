@@ -1192,6 +1192,362 @@
       ]
     },
     {
+      "Id": "Demo051618",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "MapPosX": -3.0,
+      "MapPosY": -5.0,
+      "Quests": [
+        {
+          "Id": "DemoQuest",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": "Victory",
+          "DefeatVoice": "Defeat",
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "Stages": [
+            {
+              "Id": "DemoLocation1",
+              "SceneName": "Q03_L01_MirkwoodForest",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "DemoQuestDemoLocation1IntroSprite",
+              "SoloGameSetup": [
+                "AlongTheStream",
+                "InvestigateTheVillage",
+                "BlackForestBats",
+                "GiantSpider",
+                "WildBear"
+              ],
+              "NextStageId": "DemoLocation2a,DemoLocation2b",
+              "BGM": "mus_mirkwood",
+              "FateCardList": []
+            },
+            {
+              "Id": "DemoLocation2a",
+              "SceneName": "Q03_L03a_MirkwoodSwamp",
+              "IntroVoice": null,
+              "IntroSprite": "DemoQuestDemoLocation2aIntroSprite",
+              "SoloGameSetup": [
+                "GiantMarshWorm",
+                "Hummerhorns",
+                "MuckAdder",
+                "MuckAdder"
+              ],
+              "NextStageId": "",
+              "BGM": "mus_mirkwood",
+              "FateCardList": null
+            },
+            {
+              "Id": "DemoLocation2b",
+              "SceneName": "Q03_L03c_AbandonedVillage",
+              "IntroVoice": null,
+              "IntroSprite": "DemoQuestDemoLocation2bIntroSprite",
+              "SoloGameSetup": [
+                "DolGuldurOrcs",
+                "OrcMarauder",
+                "VeteranPatrol",
+                "EastBightPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": "mus_mirkwood",
+              "FateCardList": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ],
+          "FateCardList": [],
+          "ThreatCardList": []
+        },
+        {
+          "Id": "Demo051618Quest02",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "Stages": [
+            {
+              "Id": "Location201",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null,
+              "FateCardList": []
+            }
+          ],
+          "SauronDeck": [
+            {
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ],
+          "FateCardList": [],
+          "ThreatCardList": []
+        },
+        {
+          "Id": "Demo051618Quest03",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "Stages": [
+            {
+              "Id": "Location301",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null,
+              "FateCardList": []
+            }
+          ],
+          "SauronDeck": [
+            {
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ],
+          "FateCardList": [],
+          "ThreatCardList": []
+        },
+        {
+          "Id": "Demo051618Quest04",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "Stages": [
+            {
+              "Id": "Location401",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null,
+              "FateCardList": []
+            }
+          ],
+          "SauronDeck": [
+            {
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ],
+          "FateCardList": [],
+          "ThreatCardList": []
+        },
+        {
+          "Id": "Demo051618Quest05",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "Stages": [
+            {
+              "Id": "Location501",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null,
+              "FateCardList": []
+            }
+          ],
+          "SauronDeck": [
+            {
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ],
+          "FateCardList": [],
+          "ThreatCardList": []
+        }
+      ]
+    },
+    {
       "Id": "Shadows of Mirkwood",
       "IconSprite": "Sprites/Quest/icon_q1",
       "MapPosX": 3.0,
