@@ -28,7 +28,7 @@
     "CardScale": 0.9,
     "CameoOffsetX": 1.0,
     "CameoOffsetY": 1.0,
-    "CameoScale": 1.0,
+    "CameoScale": 0.9,
     "CombatValue": 0,
     "ResolutionValue": 0,
     "ArtworkMD5": "20e33e8cb54b4a44dc7eb1d06a0d9228",
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "Black Blood",
-    "Text": "<line-height=100%>Restore 2 <size=120%><sprite=2></size> to all Trolls"
+    "Text": "Restore 2 <size=120%><sprite=2></size> to all Trolls"
   }
 }
