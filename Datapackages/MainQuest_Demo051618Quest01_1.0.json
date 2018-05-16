@@ -71,17 +71,51 @@
     },
     "Stages": [
       {
-        "Title": "Location101",
+        "Title": "DemoLocation1",
         "SoloGameSetup": [
-          "FindThePath",
-          "VeteranPatrol"
+          "AlongTheStream",
+          "InvestigateTheVillage",
+          "BlackForestBats",
+          "GiantSpider",
+          "WildBear"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "DemoLocation2a",
+          "DemoLocation2b"
+        ],
+        "FateCardList": []
+      },
+      {
+        "Title": "DemoLocation2a",
+        "SoloGameSetup": [
+          "GiantMarshWorm",
+          "Hummerhorns",
+          "MuckAdder",
+          "MuckAdder"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": []
+        "FateCardList": null
+      },
+      {
+        "Title": "DemoLocation2b",
+        "SoloGameSetup": [
+          "DolGuldurOrcs",
+          "OrcMarauder",
+          "VeteranPatrol",
+          "EastBightPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ],
+        "FateCardList": null
       }
     ],
     "Sequences": [],
@@ -89,9 +123,9 @@
     "FateCardList": [],
     "ThreatCardList": []
   },
-  "Version": "20180516142409595",
+  "Version": "20180516152144180",
   "Key": "MainQuest",
   "SubKey": "Demo051618Quest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Demo051618Quest01_20180516142409595"
+  "InternalKey": "MainQuest_Demo051618Quest01_20180516152144180"
 }
