@@ -12042,5 +12042,29 @@
   {
     "Id": "Q_STAGE_DEMOLOCATION1_OBJECTIVE",
     "Text": "Resolve either <i>Along the Stream</i> or <i>Investigate the Village</i> to travel immediately to the next Location"
+  },
+  {
+    "Id": "Q_STAGE_DEMOLOCATION2A_NAME",
+    "Text": "Mirkwood Swamp"
+  },
+  {
+    "Id": "Q_STAGE_DEMOLOCATION2A_TEXT",
+    "Text": "<i><size=58>A</size>t long last, the stream you have been following empties into a wide bog. The Anduin River vale must lie beyond this morass. Though the moist ground sucks greedily at your feet with each step, you make your way across the swamp doggedly and with no small amount of relief at leaving the accursed wood behind. Just then, the bog ahead erupts in a shower of brackish water! A Giant Marsh Worm lunges for you hungrily with a speed that belies its size…</i>"
+  },
+  {
+    "Id": "Q_STAGE_DEMOLOCATION2A_OBJECTIVE",
+    "Text": "<b>Final Encounter</b>: Defeat <i>Giant Marsh Worm</i> to complete the Quest"
+  },
+  {
+    "Id": "Q_STAGE_DEMOLOCATION2B_NAME",
+    "Text": "Abandoned Village"
+  },
+  {
+    "Id": "Q_STAGE_DEMOLOCATION2B_TEXT",
+    "Text": "<i><size=58>N</size>avigating through the dense forest toward the smoke is no easy task, but at last you find the remains of an old Woodsmen village. Even more welcome to your eyes is the clear blue sky in the distance: you stand near the eaves of Mirkwood! Your relief is short-lived, however, as the village is overrun with Orcs! They spot your weary group, making it clear that you must fight to reach the Anduin Vale.</i>"
+  },
+  {
+    "Id": "Q_STAGE_DEMOLOCATION2B_OBJECTIVE",
+    "Text": "<b>Final Encounter</b>: Defeat all Enemies in play to complete the Quest"
   }
 ]
