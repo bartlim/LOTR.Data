@@ -23,12 +23,20 @@
     "FlavorText": "The Bree-folk called them Rangers, and knew nothing of their origin. They… were believed to have strange powers of sight and hearing, and to understand the languages of beasts and birds.\n—<i>The Fellowship of the Ring</i>",
     "ArtistName": "Jeff Himmelman",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "5b55d57c71451d068de59caabf04b12f",
     "BannerMD5": null,
     "IconMD5": "ad501eec872b93764a92cef06b1a9e88"
   },
   "Localization": {
     "Title": "Ranger's Blade",
-    "Text": "Gain +1 Attack"
+    "Text": "Gain +1 <size=120%><sprite=0></size>"
   }
 }
