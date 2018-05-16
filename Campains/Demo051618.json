@@ -5,7 +5,7 @@
   "MapPosY": -5.0,
   "Quests": [
     {
-      "Id": "Demo051618Quest01",
+      "Id": "Demo051618Quest1",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": "Victory",
@@ -164,11 +164,11 @@
       "ThreatCardList": []
     },
     {
-      "Id": "DemoDeckNamingTest",
+      "Id": "Demo051618Quest03",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
-      "VictoryVoice": "Victory",
-      "DefeatVoice": "Defeat",
+      "VictoryVoice": null,
+      "DefeatVoice": null,
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
