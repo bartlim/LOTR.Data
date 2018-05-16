@@ -8803,21 +8803,15 @@
   },
   {
     "Id": "C_KHAZADAIMENU_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_KHAZADAIMENU_TITLE",
-    "Text": "Khazâd ai-mênu!",
-    "Text_CN": "Khazâd ai-mênu!",
-    "Text_FR": "Khazâd ai-mênu!"
+    "Text": "Khazâd ai-mênu!"
   },
   {
     "Id": "C_KHAZADAIMENU_TEXT",
-    "Text": "Give target Dwarf +2 Attack this round. Give an additional +1 if the target is damaged",
-    "Text_CN": "Give target Dwarf +2 Attack this round. Give an additional +1 if the target is damaged",
-    "Text_FR": "Give target Dwarf +2 Attack this round. Give an additional +1 if the target is damaged"
+    "Text": "<line-height=100%>[Dwarf only.]\n Gain +2 <size=120%><sprite=0></size> this round; \nor gain +3 <size=120%><sprite=0></size> if wounded"
   },
   {
     "Id": "C_BOOKOFMAZARBUL_FLAVOR",
