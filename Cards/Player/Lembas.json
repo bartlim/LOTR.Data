@@ -23,12 +23,20 @@
     "FlavorText": "\"…it is more strengthing than any food made by Men, and it is more pleasant than cram, by all accounts. \n–Lórien Elf, <i>The Fellowship of the Ring</i>",
     "ArtistName": "Sara Biddle",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "2c80494f42034e842534550d30586520",
     "BannerMD5": null,
     "IconMD5": "28330545d1a6db7f868d6a302f171ee3"
   },
   "Localization": {
     "Title": "Lembas",
-    "Text": "Restore 2 Health to a Character and Ready them"
+    "Text": "Restore 2 <size=120%><sprite=2></size> to a Character \nand ready them"
   }
 }
