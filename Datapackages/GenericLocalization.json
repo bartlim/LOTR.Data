@@ -12034,5 +12034,21 @@
   {
     "Id": "Q_QUEST_DEMOIDTEST_DEFEAT_TEXT",
     "Text": "<i><size=58>Y</size>our last Hero falls, bringing your journey to a tragic end.</i>"
+  },
+  {
+    "Id": "Q_QUEST_DEMODECKNAMINGTEST_NAME",
+    "Text": "DeckNamingTest"
+  },
+  {
+    "Id": "Q_QUEST_DEMODECKNAMINGTEST_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_DEMODECKNAMINGTEST_VICTORY_TEXT",
+    "Text": "Q_QUEST_DEMO051618QUEST03_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_DEMODECKNAMINGTEST_DEFEAT_TEXT",
+    "Text": "Q_QUEST_DEMO051618QUEST03_DEFEAT_TEXT"
   }
 ]
