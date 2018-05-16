@@ -24,7 +24,7 @@
     "ArtistName": "John Stanko",
     "Status": "Ready",
     "CardOffsetX": 1.0,
-    "CardOffsetY": 1.05,
+    "CardOffsetY": 1.0,
     "CardScale": 1.0,
     "CameoOffsetX": 1.0,
     "CameoOffsetY": 1.0,
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "‰Aragorn  ",
-    "Text": "<b>Power</b>: Gain +1 <sprite=0> and \n+1 <sprite=5> this round\n(cost 1<sprite=3>)"
+    "Text": "<b>Power</b>: Gain +1 <sprite=0> and +1 <sprite=5> \nthis round (cost 1<sprite=3>)"
   }
 }
