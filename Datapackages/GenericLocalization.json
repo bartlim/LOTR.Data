@@ -6961,21 +6961,15 @@
   },
   {
     "Id": "C_RUPERT_FLAVOR",
-    "Text": "Trolls simply detest the very sight of dwarves (uncooked).\n—<i>The Hobbit</i>",
-    "Text_CN": "Trolls simply detest the very sight of dwarves (uncooked).\n—<i>The Hobbit</i>",
-    "Text_FR": "Trolls simply detest the very sight of dwarves (uncooked).\n—<i>The Hobbit</i>"
+    "Text": "Trolls simply detest the very sight of dwarves (uncooked).\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_RUPERT_TEXT",
-    "Text": "<b>Counter</b>. <b>Fleeting</b>. \nEach Troll gains +1 Attack",
-    "Text_CN": "<b>Counter</b>. <b>Fleeting</b>. \nEach Troll gains +1 Attack",
-    "Text_FR": "<b>Counter</b>. <b>Fleeting</b>. \nEach Troll gains +1 Attack"
+    "Text": "<line-height=100%><b>Counter</b>. <b>Fleeting</b>. \nAll Trolls gain +1 <size=120%><sprite=0></size>"
   },
   {
     "Id": "C_RUPERT_TITLE",
-    "Text": "‰Rupert",
-    "Text_CN": "‰鲁伯特",
-    "Text_FR": "‰Rupert"
+    "Text": "‰Rupert"
   },
   {
     "Id": "C_SACKED_FLAVOR",
