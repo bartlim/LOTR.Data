@@ -25,10 +25,10 @@
     "Status": "WIP",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
-    "CardScale": 1.0,
+    "CardScale": 0.9,
     "CameoOffsetX": 1.0,
-    "CameoOffsetY": 1.0,
-    "CameoScale": 1.0,
+    "CameoOffsetY": 1.02,
+    "CameoScale": 0.95,
     "CombatValue": 0,
     "ResolutionValue": 0,
     "ArtworkMD5": null,
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "A Elbereth! Gilthoniel!",
-    "Text": "<line-height=100%>The next non-unique Enemy to attack is removed from play; then lose <size=120%><sprite=4></size> equal to its <size=120%><sprite=0> <size=100%>value"
+    "Text": "The next non-unique Enemy to attack is removed from play; then lose <size=120%><sprite=4></size> equal to its <size=120%><sprite=0></size> value"
   }
 }
