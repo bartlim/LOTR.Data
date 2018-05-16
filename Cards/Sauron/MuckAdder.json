@@ -23,12 +23,20 @@
     "FlavorText": "…the stream gurgled and fell down into a brown bog and was lost. Dry reeds hissed and rattled though they could feel no wind.\n—<i>The Two Towers</i>",
     "ArtistName": "Joe Wilson",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "33f532f053a39fb4ef74be27fae93147",
     "BannerMD5": null,
     "IconMD5": "a6fe06a7b4b6ebeb40991e9c3595e490"
   },
   "Localization": {
     "Title": "Muck Adder",
-    "Text": "<b>Ambush</b>. <i>Muck Adder</i> attacks\n the Character with the lowest current Health"
+    "Text": "<line-height=100%><b>Ambush</b>. <i>Muck Adder</i> \nattacks the Character with \nthe lowest current <size=120%><sprite=2></size>"
   }
 }
