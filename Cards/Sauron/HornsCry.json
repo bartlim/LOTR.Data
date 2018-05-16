@@ -1,0 +1,42 @@
+{
+  "CardData": {
+    "Id": "HornsCry",
+    "Owner": "Sauron",
+    "CardType": 1,
+    "ShopType": "Valor",
+    "Cost": 2,
+    "QuestPoints": 0,
+    "Attack": 0,
+    "Willpower": 0,
+    "Health": 0,
+    "Trait": "Special",
+    "Rarity": 1,
+    "Sphere": 4,
+    "SphereLevel": 1,
+    "Revision": "test",
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "",
+    "ArtistName": "",
+    "Status": "WIP",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
+    "ArtworkMD5": null,
+    "BannerMD5": null,
+    "IconMD5": null
+  },
+  "Localization": {
+    "Title": "Horn's Cry",
+    "Text": "<b>Power</b>: Select a non-unique Enemy to lose 1 Attack this round (cost 1)"
+  }
+}

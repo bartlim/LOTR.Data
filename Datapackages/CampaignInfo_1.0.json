@@ -27,7 +27,8 @@
                 "DolGuldurArcher"
               ],
               "NextStageId": "CapturedBySpiders",
-              "BGM": "mus_thewilderlands"
+              "BGM": "mus_thewilderlands",
+              "FateCardList": null
             },
             {
               "Id": "CapturedBySpiders",
@@ -39,7 +40,8 @@
                 "KingSpider"
               ],
               "NextStageId": "StandAndFight,TurnAndFlee",
-              "BGM": "mus_dungeon"
+              "BGM": "mus_dungeon",
+              "FateCardList": null
             },
             {
               "Id": "StandAndFight",
@@ -54,13 +56,19 @@
                 "SpiderGuard"
               ],
               "NextStageId": "TheEnchantedStream",
-              "BGM": "mus_cave"
+              "BGM": "mus_cave",
+              "FateCardList": [
+                {
+                  "Id": "TheSquirmingCocoon",
+                  "Treshold": 6
+                }
+              ]
             },
             {
               "Id": "TurnAndFlee",
               "SceneName": "Q01_L03b_TurnAndFlee",
               "IntroVoice": "Q1L3B_TurnAndFlee",
-              "IntroSprite": "PassageThroughMirkwoodTurnAndFleeIntroSprite",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage03B",
               "SoloGameSetup": [
                 "FindThePath",
                 "RangerProvisions",
@@ -69,7 +77,8 @@
                 "DolGuldurArcher"
               ],
               "NextStageId": "TheEnchantedStreamAlt",
-              "BGM": "mus_mirkwood"
+              "BGM": "mus_mirkwood",
+              "FateCardList": null
             },
             {
               "Id": "TheEnchantedStream",
@@ -81,13 +90,19 @@
                 "MarshAdder"
               ],
               "NextStageId": "",
-              "BGM": "mus_saurontheme"
+              "BGM": "mus_saurontheme",
+              "FateCardList": [
+                {
+                  "Id": "FateKingsfoil",
+                  "Treshold": 6
+                }
+              ]
             },
             {
               "Id": "TheEnchantedStreamAlt",
               "SceneName": "Q01_L04_TheEnchantedStream",
-              "IntroVoice": "PassageThroughMirkwoodTheEnchantedStreamAltIntroVoice",
-              "IntroSprite": "PassageThroughMirkwoodTheEnchantedStreamAltIntroSprite",
+              "IntroVoice": "Sprites/Locations/Quest1_Stage04B",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage04B",
               "SoloGameSetup": [
                 "MirkwoodPatrol",
                 "VeteranPatrol",
@@ -95,7 +110,13 @@
                 "DolGuldurArcher"
               ],
               "NextStageId": "",
-              "BGM": "mus_saurontheme"
+              "BGM": "mus_saurontheme",
+              "FateCardList": [
+                {
+                  "Id": "SavedbytheElves",
+                  "Treshold": 6
+                }
+              ]
             }
           ],
           "SauronDeck": [
@@ -126,10 +147,6 @@
             {
               "Id": "DrivenByShadow",
               "Amount": 1
-            },
-            {
-              "Id": "EastBightPatrol",
-              "Amount": 3
             },
             {
               "Id": "EyesOfTheForest",
@@ -176,12 +193,12 @@
               "Amount": 1
             },
             {
-              "Id": "DolGuldurOrcs",
-              "Amount": 1
+              "Id": "EastBightPatrol",
+              "Amount": 4
             },
             {
               "Id": "Enfeebled",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "GreedyFingers",
@@ -193,14 +210,6 @@
             },
             {
               "Id": "LowOnSupplies",
-              "Amount": 2
-            },
-            {
-              "Id": "OrcMarauder",
-              "Amount": 1
-            },
-            {
-              "Id": "SpidersOfMirkwood",
               "Amount": 2
             },
             {
@@ -217,7 +226,7 @@
             },
             {
               "Id": "AccursedForest",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "Exhaustion",
@@ -228,8 +237,40 @@
               "Amount": 2
             },
             {
+              "Id": "SpidersOfMirkwood",
+              "Amount": 2
+            },
+            {
               "Id": "TheNecromancersReach",
               "Amount": 1
+            }
+          ],
+          "FateCardList": [
+            {
+              "Id": "RangersCache",
+              "Treshold": 4
+            },
+            {
+              "Id": "ShaftofSunlight",
+              "Treshold": 7
+            },
+            {
+              "Id": "SupportfromDale",
+              "Treshold": 10
+            }
+          ],
+          "ThreatCardList": [
+            {
+              "Id": "SpidersDescend",
+              "Treshold": 1
+            },
+            {
+              "Id": "WaveofFear",
+              "Treshold": 2
+            },
+            {
+              "Id": "Poisoned",
+              "Treshold": 3
             }
           ]
         },
@@ -252,7 +293,8 @@
                 "ForestSpider"
               ],
               "NextStageId": "TheSpidersLair",
-              "BGM": "mus_mirkwood"
+              "BGM": "mus_mirkwood",
+              "FateCardList": null
             },
             {
               "Id": "TheSpidersLair",
@@ -265,7 +307,8 @@
                 "HatchlingSpider"
               ],
               "NextStageId": "TheSpidersWebs",
-              "BGM": "mus_dungeon"
+              "BGM": "mus_dungeon",
+              "FateCardList": null
             },
             {
               "Id": "TheSpidersWebs",
@@ -278,7 +321,8 @@
                 "RangerProvisions"
               ],
               "NextStageId": "ForestGlade",
-              "BGM": "mus_dungeon"
+              "BGM": "mus_dungeon",
+              "FateCardList": null
             },
             {
               "Id": "ForestGlade",
@@ -292,7 +336,8 @@
                 "ForestSpider"
               ],
               "NextStageId": "",
-              "BGM": "mus_saurontheme"
+              "BGM": "mus_saurontheme",
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -303,10 +348,6 @@
             {
               "Id": "WatchersintheDark",
               "Amount": 2
-            },
-            {
-              "Id": "AccursedForest",
-              "Amount": 1
             },
             {
               "Id": "CreatureOfDarkness",
@@ -353,10 +394,6 @@
               "Amount": 1
             },
             {
-              "Id": "WatchfulEyes",
-              "Amount": 2
-            },
-            {
               "Id": "CaughtInAWeb",
               "Amount": 1
             },
@@ -393,15 +430,19 @@
               "Amount": 2
             },
             {
-              "Id": "SpidersOfMirkwood",
-              "Amount": 2
-            },
-            {
               "Id": "ThickWebs",
               "Amount": 1
             },
             {
               "Id": "UnderTheWatchfulEye",
+              "Amount": 1
+            },
+            {
+              "Id": "WatchfulEyes",
+              "Amount": 2
+            },
+            {
+              "Id": "AccursedForest",
               "Amount": 1
             },
             {
@@ -421,6 +462,10 @@
               "Amount": 2
             },
             {
+              "Id": "SpidersOfMirkwood",
+              "Amount": 2
+            },
+            {
               "Id": "TurnedAround",
               "Amount": 1
             },
@@ -432,7 +477,9 @@
               "Id": "VileSpawn",
               "Amount": 1
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "LostInMirkwood",
@@ -455,7 +502,8 @@
                 "WildBear"
               ],
               "NextStageId": "ForestStream",
-              "BGM": "mus_mirkwood"
+              "BGM": "mus_mirkwood",
+              "FateCardList": null
             },
             {
               "Id": "ForestStream",
@@ -470,7 +518,8 @@
                 "Wargs"
               ],
               "NextStageId": "BareHilltop",
-              "BGM": "mus_mirkwood"
+              "BGM": "mus_mirkwood",
+              "FateCardList": null
             },
             {
               "Id": "BareHilltop",
@@ -485,7 +534,8 @@
                 "PackOfWargs"
               ],
               "NextStageId": "MirkwoodSwamp",
-              "BGM": "mus_mirkwood"
+              "BGM": "mus_mirkwood",
+              "FateCardList": null
             },
             {
               "Id": "MirkwoodSwamp",
@@ -499,7 +549,8 @@
                 "MuckAdder"
               ],
               "NextStageId": "OvergrownTrail",
-              "BGM": "mus_mirkwood"
+              "BGM": "mus_mirkwood",
+              "FateCardList": null
             },
             {
               "Id": "OvergrownTrail",
@@ -513,7 +564,8 @@
                 "KingSpider"
               ],
               "NextStageId": "AbandonedVillage",
-              "BGM": "mus_mirkwood"
+              "BGM": "mus_mirkwood",
+              "FateCardList": null
             },
             {
               "Id": "AbandonedVillage",
@@ -527,7 +579,8 @@
                 "EastBightPatrol"
               ],
               "NextStageId": "",
-              "BGM": "mus_saurontheme"
+              "BGM": "mus_saurontheme",
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -715,7 +768,9 @@
               "Id": "WargRiders",
               "Amount": 1
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "JourneyDownTheAnduin",
@@ -736,7 +791,8 @@
                 "HillTroll"
               ],
               "NextStageId": "AnduinPassage",
-              "BGM": "mus_stream"
+              "BGM": "mus_stream",
+              "FateCardList": null
             },
             {
               "Id": "AnduinPassage",
@@ -750,7 +806,8 @@
                 "GoblinSniper"
               ],
               "NextStageId": "TreacherousShortcut",
-              "BGM": "mus_stream"
+              "BGM": "mus_stream",
+              "FateCardList": null
             },
             {
               "Id": "TreacherousShortcut",
@@ -765,7 +822,8 @@
                 "GoblinSniper"
               ],
               "NextStageId": "AmbushOnTheShore",
-              "BGM": "mus_desperation"
+              "BGM": "mus_desperation",
+              "FateCardList": null
             },
             {
               "Id": "GentleWaters",
@@ -779,7 +837,8 @@
                 "RangerProvisions"
               ],
               "NextStageId": "AmbushOnTheShore",
-              "BGM": "mus_stream"
+              "BGM": "mus_stream",
+              "FateCardList": null
             },
             {
               "Id": "AmbushOnTheShore",
@@ -794,13 +853,14 @@
                 "ChieftainUfthak"
               ],
               "NextStageId": "",
-              "BGM": "mus_saurontheme"
+              "BGM": "mus_saurontheme",
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
             {
               "Id": "BlackForestBats",
-              "Amount": 4
+              "Amount": 2
             },
             {
               "Id": "WatchersintheDark",
@@ -840,7 +900,7 @@
             },
             {
               "Id": "MirkwoodFlock",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "PursuedByShadow",
@@ -876,7 +936,7 @@
             },
             {
               "Id": "Enfeebled",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "EvilStorm",
@@ -920,7 +980,7 @@
             },
             {
               "Id": "GoblinSniper",
-              "Amount": 2
+              "Amount": 1
             },
             {
               "Id": "PursuitOnTheShore",
@@ -934,7 +994,9 @@
               "Id": "TurnedAround",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "ConflictAtTheCarrock",
@@ -956,7 +1018,8 @@
                 "Wargs"
               ],
               "NextStageId": "TheTrollsDinner",
-              "BGM": "mus_cave"
+              "BGM": "mus_cave",
+              "FateCardList": null
             },
             {
               "Id": "TheTrollsDinner",
@@ -970,7 +1033,8 @@
                 "BlackForestBats"
               ],
               "NextStageId": "FightWithTheTrolls",
-              "BGM": "mus_cave"
+              "BGM": "mus_cave",
+              "FateCardList": null
             },
             {
               "Id": "FightWithTheTrolls",
@@ -984,7 +1048,8 @@
                 "DelayUntilDawn"
               ],
               "NextStageId": "",
-              "BGM": "mus_saurontheme"
+              "BGM": "mus_saurontheme",
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -1019,14 +1084,6 @@
             {
               "Id": "GatheringGloom",
               "Amount": 1
-            },
-            {
-              "Id": "GrowingDarkness",
-              "Amount": 1
-            },
-            {
-              "Id": "MirkwoodFlock",
-              "Amount": 2
             },
             {
               "Id": "PursuedByShadow",
@@ -1098,7 +1155,7 @@
             },
             {
               "Id": "AnduinTrollSpawn",
-              "Amount": 2
+              "Amount": 3
             },
             {
               "Id": "Exhaustion",
@@ -1128,7 +1185,9 @@
               "Id": "PackOfWargs",
               "Amount": 1
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ]
     },
@@ -1159,7 +1218,8 @@
                 "WildBear"
               ],
               "NextStageId": "MirkwoodSwampDemo,AbandonedVillageDemo",
-              "BGM": "mus_spookyforest"
+              "BGM": "mus_spookyforest",
+              "FateCardList": null
             },
             {
               "Id": "MirkwoodSwampDemo",
@@ -1173,7 +1233,8 @@
                 "MuckAdder"
               ],
               "NextStageId": "",
-              "BGM": "mus_desperation"
+              "BGM": "mus_desperation",
+              "FateCardList": null
             },
             {
               "Id": "AbandonedVillageDemo",
@@ -1187,7 +1248,8 @@
                 "EastBightPatrol"
               ],
               "NextStageId": "",
-              "BGM": "mus_desperation"
+              "BGM": "mus_desperation",
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -1227,7 +1289,9 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "DemoQuest02",
@@ -1247,7 +1311,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -1287,7 +1352,9 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "DemoQuest03",
@@ -1307,7 +1374,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -1347,7 +1415,9 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "DemoQuest04",
@@ -1367,7 +1437,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -1407,7 +1478,9 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "DemoQuest05",
@@ -1427,7 +1500,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -1467,7 +1541,655 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
+        }
+      ]
+    },
+    {
+      "Id": "hasDeck",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "MapPosX": 15.0,
+      "MapPosY": -20.0,
+      "Quests": [
+        {
+          "Id": "hasDeckQuest01",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "Stages": [
+            {
+              "Id": "Location101",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null,
+              "FateCardList": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
+        },
+        {
+          "Id": "hasDeckQuest02",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "Stages": [
+            {
+              "Id": "Location201",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null,
+              "FateCardList": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
+        },
+        {
+          "Id": "hasDeckQuest03",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "Stages": [
+            {
+              "Id": "Location301",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null,
+              "FateCardList": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
+        },
+        {
+          "Id": "hasDeckQuest04",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "Stages": [
+            {
+              "Id": "Location401",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null,
+              "FateCardList": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
+        },
+        {
+          "Id": "hasDeckQuest05",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "Stages": [
+            {
+              "Id": "Location501",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null,
+              "FateCardList": null
+            }
+          ],
+          "SauronDeck": [
+            {
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
+        }
+      ]
+    },
+    {
+      "Id": "NewCampaign_Test",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "MapPosX": 1.0,
+      "MapPosY": -16.0,
+      "Quests": [
+        {
+          "Id": "NewCampaign_TestQuest01",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "Stages": [
+            {
+              "Id": "Location101",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null,
+              "FateCardList": []
+            }
+          ],
+          "SauronDeck": [
+            {
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ],
+          "FateCardList": [],
+          "ThreatCardList": []
+        },
+        {
+          "Id": "NewCampaign_TestQuest02",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "Stages": [
+            {
+              "Id": "Location201",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null,
+              "FateCardList": []
+            }
+          ],
+          "SauronDeck": [
+            {
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ],
+          "FateCardList": [],
+          "ThreatCardList": []
+        },
+        {
+          "Id": "NewCampaign_TestQuest03",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "Stages": [
+            {
+              "Id": "Location301",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null,
+              "FateCardList": []
+            }
+          ],
+          "SauronDeck": [
+            {
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ],
+          "FateCardList": [],
+          "ThreatCardList": []
+        },
+        {
+          "Id": "NewCampaign_TestQuest04",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "Stages": [
+            {
+              "Id": "Location401",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null,
+              "FateCardList": []
+            }
+          ],
+          "SauronDeck": [
+            {
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ],
+          "FateCardList": [],
+          "ThreatCardList": []
+        },
+        {
+          "Id": "NewCampaign_TestQuest05",
+          "IconSprite": "Sprites/Quest/icon_q1",
+          "ArtSprite": "Sprites/Quest/quest_1",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
+          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "Stages": [
+            {
+              "Id": "Location501",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "OpeningMirkwood_01",
+              "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
+              "NextStageId": "",
+              "BGM": null,
+              "FateCardList": []
+            }
+          ],
+          "SauronDeck": [
+            {
+              "Id": "BlackForestBats",
+              "Amount": 2
+            },
+            {
+              "Id": "DolGuldurOrcs",
+              "Amount": 2
+            },
+            {
+              "Id": "EastBightPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "Enfeebled",
+              "Amount": 2
+            },
+            {
+              "Id": "DrivenByShadow",
+              "Amount": 2
+            },
+            {
+              "Id": "GoblinSniper",
+              "Amount": 2
+            },
+            {
+              "Id": "MirkwoodPatrol",
+              "Amount": 2
+            },
+            {
+              "Id": "ThickWebs",
+              "Amount": 2
+            },
+            {
+              "Id": "Tribulation",
+              "Amount": 2
+            }
+          ],
+          "FateCardList": [],
+          "ThreatCardList": []
         }
       ]
     },
@@ -1496,7 +2218,8 @@
                 "OrcMarauder"
               ],
               "NextStageId": "TrackingTheFoe",
-              "BGM": "mus_danger"
+              "BGM": "mus_danger",
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -1536,7 +2259,9 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "Shadows of MirkwoodQuest02",
@@ -1556,7 +2281,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -1596,7 +2322,9 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "Shadows of MirkwoodQuest03",
@@ -1616,7 +2344,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -1656,7 +2385,9 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "Shadows of MirkwoodQuest04",
@@ -1676,7 +2407,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -1716,7 +2448,9 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "Shadows of MirkwoodQuest05",
@@ -1736,7 +2470,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -1776,7 +2511,9 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ]
     },
@@ -1804,7 +2541,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -1844,7 +2582,9 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "temp_1Quest02",
@@ -1864,7 +2604,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -1904,7 +2645,9 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "temp_1Quest03",
@@ -1924,7 +2667,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -1964,7 +2708,9 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "temp_1Quest04",
@@ -1984,7 +2730,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -2024,7 +2771,9 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "temp_1Quest05",
@@ -2044,7 +2793,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -2084,22 +2834,24 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ]
     },
     {
-      "Id": "Test050903",
+      "Id": "Test0510",
       "IconSprite": "Sprites/Quest/icon_q1",
-      "MapPosX": -6.0,
+      "MapPosX": -8.0,
       "MapPosY": -14.0,
       "Quests": [
         {
-          "Id": "Test050903Quest01",
+          "Id": "Test0510Quest01",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
-          "VictoryVoice": null,
-          "DefeatVoice": null,
+          "VictoryVoice": "Victory",
+          "DefeatVoice": "Defeat",
           "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
@@ -2111,8 +2863,9 @@
                 "FindThePath",
                 "VeteranPatrol"
               ],
-              "NextStageId": "",
-              "BGM": null
+              "NextStageId": ",",
+              "BGM": "mus_cave",
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -2152,10 +2905,26 @@
               "Id": "Tribulation",
               "Amount": 2
             }
+          ],
+          "FateCardList": [
+            {
+              "Id": "fate1",
+              "Treshold": 1
+            }
+          ],
+          "ThreatCardList": [
+            {
+              "Id": "threat2",
+              "Treshold": 2
+            },
+            {
+              "Id": "threat3",
+              "Treshold": 3
+            }
           ]
         },
         {
-          "Id": "Test050903Quest02",
+          "Id": "Test0510Quest02",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "VictoryVoice": null,
@@ -2172,7 +2941,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -2212,10 +2982,12 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
-          "Id": "Test050903Quest03",
+          "Id": "Test0510Quest03",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "VictoryVoice": null,
@@ -2232,7 +3004,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -2272,10 +3045,12 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
-          "Id": "Test050903Quest04",
+          "Id": "Test0510Quest04",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "VictoryVoice": null,
@@ -2292,7 +3067,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -2332,10 +3108,12 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
-          "Id": "Test050903Quest05",
+          "Id": "Test0510Quest05",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "VictoryVoice": null,
@@ -2352,7 +3130,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -2392,7 +3171,9 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ]
     },
@@ -2420,7 +3201,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -2460,7 +3242,9 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "ThreeCocoonTesterQuest02",
@@ -2480,7 +3264,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -2520,7 +3305,9 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "ThreeCocoonTesterQuest03",
@@ -2540,7 +3327,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -2580,7 +3368,9 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "ThreeCocoonTesterQuest04",
@@ -2600,7 +3390,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -2640,7 +3431,9 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "ThreeCocoonTesterQuest05",
@@ -2660,7 +3453,8 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
@@ -2700,7 +3494,9 @@
               "Id": "Tribulation",
               "Amount": 2
             }
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ]
     },
@@ -2725,7 +3521,8 @@
               "IntroSprite": "Sprites/Locations/Tutorial_NarrativeScreen-1",
               "SoloGameSetup": null,
               "NextStageId": "Tutorial_Stage_02",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             },
             {
               "Id": "Tutorial_Stage_02",
@@ -2734,7 +3531,8 @@
               "IntroSprite": "Sprites/Locations/Tutorial_NarrativeScreen-2",
               "SoloGameSetup": null,
               "NextStageId": "Tutorial_Stage_03",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             },
             {
               "Id": "Tutorial_Stage_03",
@@ -2743,10 +3541,13 @@
               "IntroSprite": "Sprites/Locations/Tutorial_NarrativeScreen-3",
               "SoloGameSetup": null,
               "NextStageId": "",
-              "BGM": null
+              "BGM": null,
+              "FateCardList": null
             }
           ],
-          "SauronDeck": []
+          "SauronDeck": [],
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ]
     }

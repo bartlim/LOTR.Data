@@ -24,8 +24,8 @@
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
-    "CardOffsetY": 1.0,
-    "CardScale": 1.0,
+    "CardOffsetY": 1.05,
+    "CardScale": 0.9,
     "CameoOffsetX": 1.0,
     "CameoOffsetY": 1.0,
     "CameoScale": 1.0,
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "‰Caldara",
-    "Text": "<b>Power</b>: Gain a 1/0/1 <i>Gondorian Soldier</i> with <b>Fleeting</b>"
+    "Text": "<b>Power</b>: Add 1 <i>Gondorian Soldier</i>"
   }
 }

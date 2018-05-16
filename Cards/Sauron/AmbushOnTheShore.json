@@ -27,16 +27,16 @@
     "CardOffsetY": 1.0,
     "CardScale": 1.0,
     "CameoOffsetX": 1.0,
-    "CameoOffsetY": 0.96,
+    "CameoOffsetY": 1.0,
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ArtworkMD5": "84bf4168154d9e35c1409c43d700ead3",
+    "ArtworkMD5": "a921f4c9efd262751654a3a4ac3f25bd",
     "BannerMD5": null,
     "IconMD5": "c84ef3806508e091f4a1f9205cfbfa46"
   },
   "Localization": {
     "Title": "Ambush on the Shore",
-    "Text": "(Cannot engage while\nan Enemy is in play.)\n<b>Upkeep</b>: Sauron gains \n+1 Resource per player"
+    "Text": "(Cannot engage while non-<b>Stealth</b> Enemies are in play.)\n<b>Upkeep</b>: Sauron gains \n+1 Resources per player"
   }
 }

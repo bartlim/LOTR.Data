@@ -342,7 +342,8 @@
         "NextStages": [],
         "NextStageTitles": [
           "ForestStream"
-        ]
+        ],
+        "FateCardList": null
       },
       {
         "Title": "ForestStream",
@@ -357,7 +358,8 @@
         "NextStages": [],
         "NextStageTitles": [
           "BareHilltop"
-        ]
+        ],
+        "FateCardList": null
       },
       {
         "Title": "BareHilltop",
@@ -372,7 +374,8 @@
         "NextStages": [],
         "NextStageTitles": [
           "MirkwoodSwamp"
-        ]
+        ],
+        "FateCardList": null
       },
       {
         "Title": "MirkwoodSwamp",
@@ -386,7 +389,8 @@
         "NextStages": [],
         "NextStageTitles": [
           "OvergrownTrail"
-        ]
+        ],
+        "FateCardList": null
       },
       {
         "Title": "OvergrownTrail",
@@ -400,7 +404,8 @@
         "NextStages": [],
         "NextStageTitles": [
           "AbandonedVillage"
-        ]
+        ],
+        "FateCardList": null
       },
       {
         "Title": "AbandonedVillage",
@@ -414,15 +419,18 @@
         "NextStages": [],
         "NextStageTitles": [
           ""
-        ]
+        ],
+        "FateCardList": null
       }
     ],
     "Sequences": [],
-    "Stories": []
+    "Stories": [],
+    "FateCardList": null,
+    "ThreatCardList": null
   },
-  "Version": "20180508191315739",
+  "Version": "20180515054829657",
   "Key": "MainQuest",
   "SubKey": "LostInMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_LostInMirkwood_20180508191315739"
+  "InternalKey": "MainQuest_LostInMirkwood_20180515054829657"
 }

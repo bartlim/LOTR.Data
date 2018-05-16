@@ -1,15 +1,15 @@
 {
-  "Id": "Test050903",
+  "Id": "Test0510",
   "IconSprite": "Sprites/Quest/icon_q1",
-  "MapPosX": -6.0,
+  "MapPosX": -8.0,
   "MapPosY": -14.0,
   "Quests": [
     {
-      "Id": "Test050903Quest01",
+      "Id": "Test0510Quest01",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
-      "VictoryVoice": null,
-      "DefeatVoice": null,
+      "VictoryVoice": "Victory",
+      "DefeatVoice": "Defeat",
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
@@ -21,8 +21,9 @@
             "FindThePath",
             "VeteranPatrol"
           ],
-          "NextStageId": "",
-          "BGM": null
+          "NextStageId": ",",
+          "BGM": "mus_cave",
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -62,10 +63,26 @@
           "Id": "Tribulation",
           "Amount": 2
         }
+      ],
+      "FateCardList": [
+        {
+          "Id": "fate1",
+          "Treshold": 1
+        }
+      ],
+      "ThreatCardList": [
+        {
+          "Id": "threat2",
+          "Treshold": 2
+        },
+        {
+          "Id": "threat3",
+          "Treshold": 3
+        }
       ]
     },
     {
-      "Id": "Test050903Quest02",
+      "Id": "Test0510Quest02",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,
@@ -82,7 +99,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -122,10 +140,12 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null
     },
     {
-      "Id": "Test050903Quest03",
+      "Id": "Test0510Quest03",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,
@@ -142,7 +162,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -182,10 +203,12 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null
     },
     {
-      "Id": "Test050903Quest04",
+      "Id": "Test0510Quest04",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,
@@ -202,7 +225,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -242,10 +266,12 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null
     },
     {
-      "Id": "Test050903Quest05",
+      "Id": "Test0510Quest05",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,
@@ -262,7 +288,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -302,7 +329,9 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null
     }
   ]
 }
