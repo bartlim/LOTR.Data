@@ -27,7 +27,7 @@
     "CardOffsetY": 1.0,
     "CardScale": 1.0,
     "CameoOffsetX": 1.0,
-    "CameoOffsetY": 1.0,
+    "CameoOffsetY": 0.96,
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
@@ -36,7 +36,7 @@
     "IconMD5": "0d06b38064a1c9a2af389166c870d73c"
   },
   "Localization": {
-    "Title": "Blood of Numenor",
+    "Title": "Blood of Númenor",
     "Text": "[Gondor or Dúnadan only.] <b>Power</b>: Gain <b>Block</b> this round (cost 1<sprite=3>)"
   }
 }
