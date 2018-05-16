@@ -4943,7 +4943,7 @@
   },
   {
     "Id": "C_BEORNSHOSPITALITY_TEXT",
-    "Text": "<b>Choose</b>: Restore 1 <sprite=2>\nto all Characters; or restore\n4 <sprite=2> to a Hero"
+    "Text": "<line-height=100%><b>Choose</b>: Restore 1 <size=120%><sprite=2></size>\nto all Characters; or restore\n4 <size=120%><sprite=2></size> to a Hero"
   },
   {
     "Id": "C_BEORNSHOSPITALITY_TITLE",
