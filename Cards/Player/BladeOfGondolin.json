@@ -23,12 +23,20 @@
     "FlavorText": "It was rather splendid to be wearing a blade made in Gondolin for the goblin-wars of which so many songs had sung…\n<i>—The Hobbit</i>",
     "ArtistName": "David Lecossu",
     "Status": "WIP",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "0ac571ea27f757e8c0b647ac8f0e47fc",
     "BannerMD5": null,
     "IconMD5": "1e1621ac4bfb09406453fb73922720e3"
   },
   "Localization": {
     "Title": "Blade of Gondolin",
-    "Text": "Gain +2 Attack; \nlose 1 Willpower"
+    "Text": "Gain +2 <sprite=0>; lose 1 <sprite=5>"
   }
 }
