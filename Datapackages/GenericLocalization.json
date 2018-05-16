@@ -8329,21 +8329,15 @@
   },
   {
     "Id": "C_FORGONDOR_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_FORGONDOR_TITLE",
-    "Text": "For Gondor!",
-    "Text_CN": "For Gondor!",
-    "Text_FR": "For Gondor!"
+    "Text": "For Gondor!"
   },
   {
     "Id": "C_FORGONDOR_TEXT",
-    "Text": "All Characters gain +1 Attack this round. Gondor Characters also gain <b>Block</b> this round",
-    "Text_CN": "All Characters gain +1 Attack this round. Gondor Characters also gain <b>Block</b> this round",
-    "Text_FR": "All Characters gain +1 Attack this round. Gondor Characters also gain <b>Block</b> this round"
+    "Text": "<line-height=100%>All Characters gain +1 <size=120%><sprite=0></size> this round. Gondor Characters also gain <b>Block</b> this round"
   },
   {
     "Id": "C_TRAFFICFROMDALE_FLAVOR",
