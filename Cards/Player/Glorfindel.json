@@ -24,11 +24,11 @@
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
-    "CardOffsetY": 1.0,
+    "CardOffsetY": 1.03,
     "CardScale": 1.0,
     "CameoOffsetX": 1.0,
-    "CameoOffsetY": 1.0,
-    "CameoScale": 1.0,
+    "CameoOffsetY": 1.02,
+    "CameoScale": 0.95,
     "CombatValue": 0,
     "ResolutionValue": 0,
     "ArtworkMD5": null,
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "Glorfindel",
-    "Text": "Once per game: When defeated, <i>Glorfindel</i> instead gains +1 Attack, +1 Willpower, restores 5 Health"
+    "Text": "Once per game: When defeated, <i>Glorfindel</i> instead gains +1 <size=120%><sprite=0></size>, +1 <size=120%><sprite=5></size>, and restores 5 <size=120%><sprite=2></size>"
   }
 }
