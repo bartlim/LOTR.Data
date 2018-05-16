@@ -9439,21 +9439,15 @@
   },
   {
     "Id": "C_GUTHWINE_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_GUTHWINE_TITLE",
-    "Text": "‰Guthwine",
-    "Text_CN": "‰Guthwine",
-    "Text_FR": "‰Guthwine"
+    "Text": "‰Guthwine"
   },
   {
     "Id": "C_GUTHWINE_TEXT",
-    "Text": "Gain +1 Attack. \nIf attached to <i>Eomer</i>  Gain +1 Willpower as well",
-    "Text_CN": "Gain +1 Attack. \nIf attached to <i>Eomer</i>  Gain +1 Willpower as well",
-    "Text_FR": "Gain +1 Attack. \nIf attached to <i>Eomer</i>  Gain +1 Willpower as well"
+    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=0></size>; also gain +1 <size=120%><sprite=5></size> if equipped to <i>Eomer</i>"
   },
   {
     "Id": "C_GLEOWINE_FLAVOR",
