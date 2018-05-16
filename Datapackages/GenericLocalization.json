@@ -8053,21 +8053,15 @@
   },
   {
     "Id": "C_MAGICRING_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_MAGICRING_TITLE",
-    "Text": "Magic Ring",
-    "Text_CN": "Magic Ring",
-    "Text_FR": "Magic Ring"
+    "Text": "Magic Ring"
   },
   {
     "Id": "C_MAGICRING_TEXT",
-    "Text": "<b>Power</b>: Gain +1 Threat. <b>Choose</b>: Gain +1 Resource or Restore 1 Health to attached character",
-    "Text_CN": "<b>Power</b>: Gain +1 Threat. <b>Choose</b>: Gain +1 Resource or Restore 1 Health to attached character",
-    "Text_FR": "<b>Power</b>: Gain +1 Threat. <b>Choose</b>: Gain +1 Resource or Restore 1 Health to attached character"
+    "Text": "<line-height=100%><b>Power</b>: Gain +1 <size=120%><sprite=4></size> and\n<b>Choose</b>: Gain +1 <size=120%><sprite=3></size>; or restore \n1 <size=120%><sprite=2></size> to attached Character"
   },
   {
     "Id": "C_RADAGAST_FLAVOR",
