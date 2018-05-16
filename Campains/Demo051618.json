@@ -16,7 +16,7 @@
           "Id": "DemoLocation1",
           "SceneName": "Q03_L01_MirkwoodForest",
           "IntroVoice": "OpeningMirkwood_01",
-          "IntroSprite": "DemoQuestDemoLocation1IntroSprite",
+          "IntroSprite": "Demo051618Quest01DemoLocation1IntroSprite",
           "SoloGameSetup": [
             "AlongTheStream",
             "InvestigateTheVillage",
@@ -65,15 +65,19 @@
           "Amount": 2
         },
         {
-          "Id": "DolGuldurOrcs",
+          "Id": "WatchersintheDark",
           "Amount": 2
         },
         {
-          "Id": "EastBightPatrol",
+          "Id": "CreatureOfDarkness",
           "Amount": 2
         },
         {
-          "Id": "Enfeebled",
+          "Id": "DarkSorcery",
+          "Amount": 1
+        },
+        {
+          "Id": "Despair",
           "Amount": 2
         },
         {
@@ -81,20 +85,164 @@
           "Amount": 2
         },
         {
-          "Id": "GoblinSniper",
+          "Id": "EastBightPatrol",
           "Amount": 2
         },
         {
-          "Id": "MirkwoodPatrol",
+          "Id": "EyesOfTheForest",
+          "Amount": 1
+        },
+        {
+          "Id": "GatheringGloom",
+          "Amount": 1
+        },
+        {
+          "Id": "GrowingDarkness",
+          "Amount": 1
+        },
+        {
+          "Id": "LostInTheWilderness",
+          "Amount": 1
+        },
+        {
+          "Id": "MirkwoodFlock",
+          "Amount": 2
+        },
+        {
+          "Id": "PursuedByShadow",
+          "Amount": 1
+        },
+        {
+          "Id": "SpiesofShadow",
+          "Amount": 2
+        },
+        {
+          "Id": "SpookedHorses",
+          "Amount": 1
+        },
+        {
+          "Id": "TreacherousFog",
+          "Amount": 1
+        },
+        {
+          "Id": "UnderTheShadow",
+          "Amount": 2
+        },
+        {
+          "Id": "Unwavering",
+          "Amount": 1
+        },
+        {
+          "Id": "Veteran",
+          "Amount": 1
+        },
+        {
+          "Id": "ViciousSpeed",
+          "Amount": 1
+        },
+        {
+          "Id": "BlockedPath",
+          "Amount": 1
+        },
+        {
+          "Id": "Enfeebled",
+          "Amount": 1
+        },
+        {
+          "Id": "EvilStorm",
+          "Amount": 1
+        },
+        {
+          "Id": "GreedyFingers",
+          "Amount": 1
+        },
+        {
+          "Id": "Hummerhorns",
+          "Amount": 2
+        },
+        {
+          "Id": "LowOnSupplies",
+          "Amount": 1
+        },
+        {
+          "Id": "MuckAdder",
           "Amount": 2
         },
         {
           "Id": "ThickWebs",
-          "Amount": 2
+          "Amount": 1
         },
         {
           "Id": "Tribulation",
+          "Amount": 1
+        },
+        {
+          "Id": "UnderTheWatchfulEye",
+          "Amount": 1
+        },
+        {
+          "Id": "WatchfulEyes",
           "Amount": 2
+        },
+        {
+          "Id": "AccursedForest",
+          "Amount": 1
+        },
+        {
+          "Id": "Exhaustion",
+          "Amount": 1
+        },
+        {
+          "Id": "GoblinSniper",
+          "Amount": 2
+        },
+        {
+          "Id": "KingSpider",
+          "Amount": 1
+        },
+        {
+          "Id": "OrcBeastmaster",
+          "Amount": 1
+        },
+        {
+          "Id": "OrcMarauder",
+          "Amount": 1
+        },
+        {
+          "Id": "SpidersOfMirkwood",
+          "Amount": 1
+        },
+        {
+          "Id": "TurnedAround",
+          "Amount": 1
+        },
+        {
+          "Id": "VeteranPatrol",
+          "Amount": 1
+        },
+        {
+          "Id": "Wargs",
+          "Amount": 2
+        },
+        {
+          "Id": "WargRiders",
+          "Amount": 1
+        },
+        {
+          "Id": "WildBear",
+          "Amount": 1
+        },
+        {
+          "Id": "ChieftainUfthak",
+          "Amount": 1
+        },
+        {
+          "Id": "EliteDolGuldurOrcs",
+          "Amount": 1
+        },
+        {
+          "Id": "PackOfWargs",
+          "Amount": 1
         }
       ],
       "FateCardList": [],
