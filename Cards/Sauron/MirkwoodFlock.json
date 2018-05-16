@@ -23,12 +23,20 @@
     "FlavorText": "Flocks of birds, flying at great speed, were wheeling and circling, and traversing all the land as if they were searching for something; and they were steadily drawing nearer.\n—<i>The Fellowship of the Ring</i>",
     "ArtistName": "Brandon Leach",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "1a425922787c6d732b27c3d56ef9f0e2",
     "BannerMD5": null,
     "IconMD5": "c158e6bc7311d9b12816e04e5e038c6f"
   },
   "Localization": {
     "Title": "Mirkwood Flock",
-    "Text": "<b>Revenge:</b> Sauron gains \n+1 Resource"
+    "Text": "<b>Revenge:</b> Sauron gains +1 <size=120%><sprite=2></size>"
   }
 }
