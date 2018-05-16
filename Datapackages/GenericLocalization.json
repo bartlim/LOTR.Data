@@ -6229,21 +6229,15 @@
   },
   {
     "Id": "C_ITHILIENARCHER_FLAVOR",
-    "Text": "C_ITHILIENARCHER_FLAVOR",
-    "Text_CN": "C_ITHILIENARCHER_FLAVOR",
-    "Text_FR": "C_ITHILIENARCHER_FLAVOR"
+    "Text": "C_ITHILIENARCHER_FLAVOR"
   },
   {
     "Id": "C_ITHILIENARCHER_TEXT",
-    "Text": "<b>Ranged</b>. Gain +1 Attack \nfor each exhausted Enemy",
-    "Text_CN": "<b>Ranged</b>. Gain +1 Attack \nfor each exhausted Enemy",
-    "Text_FR": "<b>Ranged</b>. Gain +1 Attack \nfor each exhausted Enemy"
+    "Text": "<line-height=100%><b>Ranged</b>. Gain +1 <size=120%><sprite=0></size> \nfor each exhausted Enemy"
   },
   {
     "Id": "C_ITHILIENARCHER_TITLE",
-    "Text": "Ithilien Archer",
-    "Text_CN": "0",
-    "Text_FR": "Ithilien Archer"
+    "Text": "Ithilien Archer"
   },
   {
     "Id": "C_ITHILIENLOOKOUT_FLAVOR",
