@@ -12036,5 +12036,17 @@
   {
     "Id": "Q_QUEST_DEMOQUEST_DEFEAT_TEXT",
     "Text": "<i><size=58>Y</size>our last Hero falls, bringing your journey to a tragic end.</i>"
+  },
+  {
+    "Id": "Q_STAGE_DEMOLOCATION1_NAME",
+    "Text": "Mirkwood Forest"
+  },
+  {
+    "Id": "Q_STAGE_DEMOLOCATION1_TEXT",
+    "Text": "<i><size=58>Y</size>ou have rescued your friends and escaped the spiders' lair, only to find yourself lost in the vastness of Mirkwood. Far from the relative safety of the Forest Road, the woods are a dark tangle of twisted trees. It is impossible to know the correct direction to travel within this wooded maze. \r\nIf you are to find your way out and continue your mission for the King of Dale, you must first find some landmarks to get your bearings…</i>"
+  },
+  {
+    "Id": "Q_STAGE_DEMOLOCATION1_OBJECTIVE",
+    "Text": "Resolve either <i>Along the Stream</i> or <i>Investigate the Village</i> to travel immediately to the next Location"
   }
 ]
