@@ -7213,15 +7213,11 @@
   },
   {
     "Id": "C_SPIDERQUEEN_TEXT",
-    "Text": "n/a",
-    "Text_CN": "n/a",
-    "Text_FR": "n/a"
+    "Text": "<line-height=100%><b>Arrival</b>: Gain +1 <size=120%><sprite=4></size>; and \nadd 1 <i>Hatchling Spider</i>"
   },
   {
     "Id": "C_SPIDERQUEEN_TITLE",
-    "Text": "Spider Queen",
-    "Text_CN": "0",
-    "Text_FR": "Spider Queen"
+    "Text": "Mirkwood Broodmother"
   },
   {
     "Id": "C_SPIDERSNEST_FLAVOR",
@@ -11855,6 +11851,10 @@
   },
   {
     "Id": "C_INVESTIGATETHEVILLAGE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_SPIDERQUEEN_FLAVOR",
     "Text": ""
   }
 ]
