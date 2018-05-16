@@ -16,7 +16,7 @@
           "Id": "DemoLocation1",
           "SceneName": "Q03_L01_MirkwoodForest",
           "IntroVoice": "OpeningMirkwood_01",
-          "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+          "IntroSprite": "DemoQuestDemoLocation1IntroSprite",
           "SoloGameSetup": [
             "AlongTheStream",
             "InvestigateTheVillage",
@@ -27,6 +27,36 @@
           "NextStageId": "DemoLocation2a,DemoLocation2b",
           "BGM": "mus_mirkwood",
           "FateCardList": []
+        },
+        {
+          "Id": "DemoLocation2a",
+          "SceneName": "Q03_L03a_MirkwoodSwamp",
+          "IntroVoice": null,
+          "IntroSprite": "DemoQuestDemoLocation2aIntroSprite",
+          "SoloGameSetup": [
+            "GiantMarshWorm",
+            "Hummerhorns",
+            "MuckAdder",
+            "MuckAdder"
+          ],
+          "NextStageId": "",
+          "BGM": "mus_mirkwood",
+          "FateCardList": null
+        },
+        {
+          "Id": "DemoLocation2b",
+          "SceneName": "Q03_L03c_AbandonedVillage",
+          "IntroVoice": null,
+          "IntroSprite": "DemoQuestDemoLocation2bIntroSprite",
+          "SoloGameSetup": [
+            "DolGuldurOrcs",
+            "OrcMarauder",
+            "VeteranPatrol",
+            "EastBightPatrol"
+          ],
+          "NextStageId": "",
+          "BGM": "mus_mirkwood",
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
