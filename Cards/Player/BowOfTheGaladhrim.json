@@ -23,12 +23,20 @@
     "FlavorText": "…longer and stronger than the bows of Mirkwood, and strung with a string of elf–hair. \n<i>—The Fellowship of the Ring</i>",
     "ArtistName": "Sara Biddle",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "35d30a70754e150be7cba69ac819221b",
     "BannerMD5": null,
     "IconMD5": "b605641ca9943d791bd6edd4766679ee"
   },
   "Localization": {
     "Title": "Bow of the Galadhrim",
-    "Text": "Gain +1 Attack and <b>Ranged</b>"
+    "Text": "Gain +1 <sprite=0> and <b>Ranged</b>"
   }
 }
