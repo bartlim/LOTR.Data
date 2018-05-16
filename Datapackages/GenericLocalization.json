@@ -8713,21 +8713,15 @@
   },
   {
     "Id": "C_MIGHTYPROWESS_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_MIGHTYPROWESS_TITLE",
-    "Text": "Mighty Prowess",
-    "Text_CN": "Mighty Prowess",
-    "Text_FR": "Mighty Prowess"
+    "Text": "Mighty Prowess"
   },
   {
     "Id": "C_MIGHTYPROWESS_TEXT",
-    "Text": "<b>Vanquish</b>: Deal 1 damage to another Enemy with the same Trait",
-    "Text_CN": "<b>Vanquish</b>: Deal 1 damage to another Enemy with the same Trait",
-    "Text_FR": "<b>Vanquish</b>: Deal 1 damage to another Enemy with the same Trait"
+    "Text": "<b>Vanquish</b>: Deal 1 damage to \nan additional Enemy with the same trait as the defeated Enemy (limit 1)"
   },
   {
     "Id": "C_BALIN_FLAVOR",
