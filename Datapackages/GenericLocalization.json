@@ -7275,21 +7275,15 @@
   },
   {
     "Id": "C_STUART_FLAVOR",
-    "Text": "\"Here you, are there any more of your sort a-sneakin' in these here woods, yer nassty little rabbit,\" said he looking at the hobbit's furry feet…\n—a Troll, <i>The Hobbit</i>",
-    "Text_CN": "\"Here you, are there any more of your sort a-sneakin' in these here woods, yer nassty little rabbit,\" said he looking at the hobbit's furry feet…\n—a Troll, <i>The Hobbit</i>",
-    "Text_FR": "\"Here you, are there any more of your sort a-sneakin' in these here woods, yer nassty little rabbit,\" said he looking at the hobbit's furry feet…\n—a Troll, <i>The Hobbit</i>"
+    "Text": "\"Here you, are there any more of your sort a-sneakin' in these here woods, yer nassty little rabbit,\" said he looking at the hobbit's furry feet…\n—a Troll, <i>The Hobbit</i>"
   },
   {
     "Id": "C_STUART_TEXT",
-    "Text": "<b>Counter</b>. <b>Upkeep</b>: Restore 1 Health to each Troll",
-    "Text_CN": "<b>Counter</b>. <b>Upkeep</b>: Restore 1 Health to each Troll",
-    "Text_FR": "<b>Counter</b>. <b>Upkeep</b>: Restore 1 Health to each Troll"
+    "Text": "<line-height=100%><b>Counter</b>. <b>Upkeep</b>: Restore \n1 <size=120%><sprite=2></size> to all Trolls"
   },
   {
     "Id": "C_STUART_TITLE",
-    "Text": "‰Stuart",
-    "Text_CN": "‰斯图亚特",
-    "Text_FR": "‰Stuart"
+    "Text": "‰Stuart"
   },
   {
     "Id": "C_SUDDENRIPOSTE_FLAVOR",
