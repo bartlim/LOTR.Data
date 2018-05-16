@@ -25,7 +25,7 @@
     "Status": "WIP",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
-    "CardScale": 1.0,
+    "CardScale": 0.9,
     "CameoOffsetX": 1.0,
     "CameoOffsetY": 1.0,
     "CameoScale": 1.0,
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "Book of Mazarbul",
-    "Text": "<b>Power</b>: Draw 2 cards (cost 1<sprite=3>)"
+    "Text": "<b>Power</b>: Draw 2 cards (cost 1 <sprite=3>)"
   }
 }
