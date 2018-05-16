@@ -4867,11 +4867,11 @@
   },
   {
     "Id": "C_ATEST180307_FLAVOR",
-    "Text": "new test"
+    "Text": "<b>Upkeep</b>: Restore <sprite=#>1 Health\nto a Char-acter"
   },
   {
     "Id": "C_ATEST180307_TEXT",
-    "Text": "new editor"
+    "Text": "<b>Upkeep</b>: Restore <sprite=#>1 Health\nto a Character<size>"
   },
   {
     "Id": "C_ATEST180307_TITLE",
@@ -11852,5 +11852,17 @@
   {
     "Id": "Q_QUEST_NEWCAMPAIGN_TESTQUEST05_DEFEAT_TEXT",
     "Text": "Q_QUEST_NEWCAMPAIGN_TESTQUEST05_DEFEAT_TEXT"
+  },
+  {
+    "Id": "C_ATEST18030706_TITLE",
+    "Text": ""
+  },
+  {
+    "Id": "C_ATEST18030706_TEXT",
+    "Text": "test–test"
+  },
+  {
+    "Id": "C_ATEST18030706_FLAVOR",
+    "Text": "C_ATEST18030706_FLAVOR"
   }
 ]

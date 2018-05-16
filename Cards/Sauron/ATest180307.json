@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "new test",
+    "FlavorText": "<b>Upkeep</b>: Restore <sprite=#>1 Health\nto a Char-acter",
     "ArtistName": "test",
     "Status": "None",
     "CardOffsetX": 1.0,
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "test",
-    "Text": "new editor"
+    "Text": "<b>Upkeep</b>: Restore <sprite=#>1 Health\nto a Character<size>"
   }
 }
