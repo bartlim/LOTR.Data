@@ -9225,21 +9225,15 @@
   },
   {
     "Id": "C_SCOUTINGREPORT_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_SCOUTINGREPORT_TITLE",
-    "Text": "Scouting Report",
-    "Text_CN": "Scouting Report",
-    "Text_FR": "Scouting Report"
+    "Text": "Scouting Report"
   },
   {
     "Id": "C_SCOUTINGREPORT_TEXT",
-    "Text": "Remove an Ally from play to give +1 Willpower to all Characters this round",
-    "Text_CN": "Remove an Ally from play to give +1 Willpower to all Characters this round",
-    "Text_FR": "Remove an Ally from play to give +1 Willpower to all Characters this round"
+    "Text": "Remove an Ally from play to give all friendly Characters +1 <size=120%><sprite=5></size> this round"
   },
   {
     "Id": "C_IDRAEN_FLAVOR",
