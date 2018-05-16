@@ -23,12 +23,20 @@
     "FlavorText": "And then all the host of Rohan burst into song, and they sang as they slew, for the joy of battle was on them, and the sound of their singing that was fair and terrible came even to the City.\n<i>—The Return of the King</i>",
     "ArtistName": "Javier Charro Martinez",
     "Status": "WIP",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "10c8dcae9a324152b7fbe02f1f1f57dd",
     "BannerMD5": null,
     "IconMD5": "376408402267f4e2b22eccd391f65714"
   },
   "Localization": {
     "Title": "Burst into Song",
-    "Text": "Cancel damage from the next unique Enemy attack"
+    "Text": "Cancel damage from the next unique Enemy's attack"
   }
 }

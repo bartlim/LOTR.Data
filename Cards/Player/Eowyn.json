@@ -23,12 +23,20 @@
     "FlavorText": "\"But I am of the House of Eorl and not a serving-woman. I can ride and wield blade, and I do not fear either pain or death.\" \n—Éowyn, <i>The Return of the King</i>",
     "ArtistName": "Magali Villeneuve",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "66824ceed8a93607d9822235ab84d196",
     "BannerMD5": null,
     "IconMD5": "b46af47c395f8335aab4d1d159ac3100"
   },
   "Localization": {
     "Title": "‰Éowyn",
-    "Text": "Gain +2 Willpower this round after the first Character is damaged"
+    "Text": "Gain +2 Willpower this round after the first time a Character \nis damaged in the round"
   }
 }

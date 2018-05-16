@@ -23,12 +23,20 @@
     "FlavorText": "“Here,” said Balin, “in the old days we used always to keep watchmen, and that door behind leads into a rock-hewn chamber that was made here as a guardroom.\"\n—<i>The Hobbit</i>",
     "ArtistName": "Michele Frigo",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "1d686fff4437aa9282621a6d6c7a6e8c",
     "BannerMD5": "1b7ddee369935ef18b69c8aa67954fb5",
     "IconMD5": "af699530399a34302a7fb41c14b0b9db"
   },
   "Localization": {
-    "Title": "Guard of Erebor",
+    "Title": "Erebor Watchman",
     "Text": "<b>Block</b>"
   }
 }

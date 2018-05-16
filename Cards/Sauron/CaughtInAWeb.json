@@ -25,9 +25,9 @@
     "Status": "Ready",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
-    "CardScale": 0.9,
+    "CardScale": 0.98,
     "CameoOffsetX": 1.0,
-    "CameoOffsetY": 1.0,
+    "CameoOffsetY": 1.02,
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "Caught in a Web",
-    "Text": "A random Ally is trapped in a <i>Cocoon</i>"
+    "Text": "A random Ally is trapped\nin a <i>Cocoon</i>"
   }
 }

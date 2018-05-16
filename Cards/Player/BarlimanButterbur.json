@@ -29,12 +29,14 @@
     "CameoOffsetX": 1.0,
     "CameoOffsetY": 1.0,
     "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "62771d446c7ff40c893f127ec9c424b6",
     "BannerMD5": null,
     "IconMD5": "82eb057446703f932d402d7982952181"
   },
   "Localization": {
     "Title": "‰Barliman Butterbur",
-    "Text": "<b>Power</b>: Exhaust to draw a card (Cost 1)"
+    "Text": "<b>Power</b>: Exhaust this Character\n to draw a card (cost 1)"
   }
 }

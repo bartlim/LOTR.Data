@@ -23,18 +23,20 @@
     "FlavorText": "",
     "ArtistName": "",
     "Status": "WIP",
-    "CardOffsetX": 0.0,
-    "CardOffsetY": 0.0,
-    "CardScale": 0.0,
-    "CameoOffsetX": 0.0,
-    "CameoOffsetY": 0.0,
-    "CameoScale": 0.0,
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Beorning Beekeeper",
-    "Text": "Cannot have Attachments. <b>Power</b>: Take 1 damage to deal 1 damage to all Enemies"
+    "Text": "(Cannot equip Attachments.)\n<b>Power</b>: Take 1 damage to deal\n1 damage to all Enemies"
   }
 }
