@@ -25,9 +25,9 @@
     "Status": "WIP",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
-    "CardScale": 1.0,
+    "CardScale": 0.98,
     "CameoOffsetX": 1.0,
-    "CameoOffsetY": 1.0,
+    "CameoOffsetY": 1.02,
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "Careful Planning",
-    "Text": "<line-height=100%>Lose <size=120%><sprite=4></size> equal to the cost of the next card that Sauron plays (minimum 1)"
+    "Text": "<line-height=100%>Lose <size=120%><sprite=4></size> equal to the cost of the next card that Sauron plays (minimum 1 <size=120%><sprite=3></size> cost)"
   }
 }
