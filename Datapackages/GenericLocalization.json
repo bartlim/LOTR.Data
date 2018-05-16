@@ -9313,21 +9313,15 @@
   },
   {
     "Id": "C_OATHSYOUHAVETAKEN_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_OATHSYOUHAVETAKEN_TITLE",
-    "Text": "Oaths You Have Taken",
-    "Text_CN": "Oaths You Have Taken",
-    "Text_FR": "Oaths You Have Taken"
+    "Text": "Oaths You Have Taken"
   },
   {
     "Id": "C_OATHSYOUHAVETAKEN_TEXT",
-    "Text": "When a character leaves play all Allies gain +1 Attack this round",
-    "Text_CN": "When a character leaves play all Allies gain +1 Attack this round",
-    "Text_FR": "When a character leaves play all Allies gain +1 Attack this round"
+    "Text": "When the next Character is defeated, all Allies gain \n+1 <size=120%><sprite=0></size> this round"
   },
   {
     "Id": "C_SCOUTINGREPORT_FLAVOR",
