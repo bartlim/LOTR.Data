@@ -8179,21 +8179,15 @@
   },
   {
     "Id": "C_IMLADRISSTARGAZER_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_IMLADRISSTARGAZER_TITLE",
-    "Text": "Imladris Stargazer",
-    "Text_CN": "Imladris Stargazer",
-    "Text_FR": "Imladris Stargazer"
+    "Text": "Imladris Stargazer"
   },
   {
     "Id": "C_IMLADRISSTARGAZER_TEXT",
-    "Text": "<b>Arrival</b>: Remove a Shadow from an Enemy. Lose Threat equal to that Shadow's cost",
-    "Text_CN": "<b>Arrival</b>: Remove a Shadow from an Enemy. Lose Threat equal to that Shadow's cost",
-    "Text_FR": "<b>Arrival</b>: Remove a Shadow from an Enemy. Lose Threat equal to that Shadow's cost"
+    "Text": "<line-height=100%><b>Arrival</b>: Remove a Shadow from an Enemy. Lose <size=120%><sprite=4></size> equal to that Shadow's cost"
   },
   {
     "Id": "C_EOTHAIN_FLAVOR",
