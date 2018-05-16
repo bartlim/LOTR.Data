@@ -24,11 +24,11 @@
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
-    "CardOffsetY": 1.04,
-    "CardScale": 1.02,
-    "CameoOffsetX": 1.0,
-    "CameoOffsetY": 0.98,
-    "CameoScale": 1.03,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.01,
+    "CameoOffsetY": 0.99,
+    "CameoScale": 1.05,
     "CombatValue": 0,
     "ResolutionValue": 0,
     "ArtworkMD5": "584f4ebccf5eae6a0f74b76042a4bc40",
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "Along the Stream",
-    "Text": "Resolve to immediately travel to <i>Mirkwood Swamp</i>"
+    "Text": "Resolve to allow travel to <i>Mirkwood Swamp</i>"
   }
 }
