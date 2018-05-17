@@ -821,7 +821,7 @@
                 "SwirlingEddy",
                 "GoblinSniper"
               ],
-              "NextStageId": "AmbushOnTheShore",
+              "NextStageId": "AmbushOnTheShoreStage",
               "BGM": "mus_desperation",
               "FateCardList": null
             },
@@ -836,12 +836,12 @@
                 "Rocks",
                 "RangerProvisions"
               ],
-              "NextStageId": "AmbushOnTheShore",
+              "NextStageId": "AmbushOnTheShoreStage",
               "BGM": "mus_stream",
               "FateCardList": null
             },
             {
-              "Id": "AmbushOnTheShore",
+              "Id": "AmbushOnTheShoreStage",
               "SceneName": "Q04_L03_AmbushOnTheShore",
               "IntroVoice": "Q4L3_AmbushOnTheShore",
               "IntroSprite": "Sprites/Locations/Quest4_Stage03",
@@ -2366,6 +2366,16 @@
                 "VeteranPatrol"
               ],
               "NextStageId": ",",
+              "BGM": "mus_cave",
+              "FateCardList": null
+            },
+            {
+              "Id": "",
+              "SceneName": "",
+              "IntroVoice": "",
+              "IntroSprite": null,
+              "SoloGameSetup": null,
+              "NextStageId": "",
               "BGM": "mus_cave",
               "FateCardList": null
             }
