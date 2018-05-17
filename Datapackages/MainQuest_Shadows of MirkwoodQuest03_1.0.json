@@ -71,11 +71,51 @@
     },
     "Stages": [
       {
-        "Title": "Location301",
+        "Title": "RacingThroughTheForest",
         "SoloGameSetup": [
-          "FindThePath",
-          "VeteranPatrol"
+          ""
         ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "UseTheStream",
+          "HideAndSeek"
+        ],
+        "FateCardList": null
+      },
+      {
+        "Title": "UseTheStream",
+        "SoloGameSetup": [],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "ApproachingRhosgobel"
+        ],
+        "FateCardList": null
+      },
+      {
+        "Title": "HideAndSeek",
+        "SoloGameSetup": [],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "ApproachingRhosgobel"
+        ],
+        "FateCardList": null
+      },
+      {
+        "Title": "ApproachingRhosgobel",
+        "SoloGameSetup": [],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "ALastStand"
+        ],
+        "FateCardList": null
+      },
+      {
+        "Title": "ALastStand",
+        "SoloGameSetup": [],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
@@ -89,9 +129,9 @@
     "FateCardList": null,
     "ThreatCardList": null
   },
-  "Version": "20180517191430400",
+  "Version": "20180517192150096",
   "Key": "MainQuest",
   "SubKey": "Shadows of MirkwoodQuest03",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Shadows of MirkwoodQuest03_20180517191430400"
+  "InternalKey": "MainQuest_Shadows of MirkwoodQuest03_20180517192150096"
 }
