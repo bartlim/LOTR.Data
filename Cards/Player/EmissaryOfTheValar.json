@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "Emissary of the Valar",
-    "Text": "All Enemies lose <u>X</u> Attack this round.\n<u>X</u> is the number of the most recent Threat event triggered"
+    "Text": "<line-height=100%>All Enemies lose <u>X</u> <size=120%><sprite=0></size> this round.\n(<u>X</u> equals the most recent \nThreat event tier)"
   }
 }

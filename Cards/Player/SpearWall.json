@@ -23,9 +23,9 @@
     "FlavorText": "…spears bristling like thickets of new-planted trees.\r\n—<i>The Return of the King</i>",
     "ArtistName": "David Horne",
     "Status": "None",
-    "CardOffsetX": 0.95,
+    "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
-    "CardScale": 0.9,
+    "CardScale": 1.0,
     "CameoOffsetX": 1.0,
     "CameoOffsetY": 1.0,
     "CameoScale": 1.0,
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "Spear Wall",
-    "Text": "All Enemies have their attack reduced by 2 (limit 0) until the end of the round."
+    "Text": "<line-height=100%>All Enemies lose 2 <size=120%><sprite=0></size> this round (minimum 0)"
   }
 }

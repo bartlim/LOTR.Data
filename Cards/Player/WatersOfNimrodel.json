@@ -23,12 +23,20 @@
     "FlavorText": "It was cold but its touch was clean, and as he went on and it mounted to his knees, he felt that the stain of travel and all weariness was washed from his limbs.\n—<i>The Fellowship of the Ring</i>",
     "ArtistName": "Jose Vega",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "f09944026be63884fdd588297e391cd3",
     "BannerMD5": null,
     "IconMD5": "75a2d070cc075748b2ff2d792bde9723"
   },
   "Localization": {
     "Title": "Waters of Nimrodel",
-    "Text": "Restore 3 Health"
+    "Text": "Restore 3 <size=120%><sprite=2></size>"
   }
 }

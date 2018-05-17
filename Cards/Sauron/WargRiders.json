@@ -23,12 +23,20 @@
     "FlavorText": "Swiftly a scout rode back and reported that wolf-riders were abroad in the valley…\n—<i>The Two Towers</i>",
     "ArtistName": "Guillaume Ducos",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "39c09fe550534bc1bb1171a63fcccdc3",
     "BannerMD5": null,
     "IconMD5": "51f8ce88c66782a3182a8ecf6db9820c"
   },
   "Localization": {
     "Title": "Warg Riders",
-    "Text": "<b>Pursuit</b>. Each Orc gains <b>Pursuit</b>"
+    "Text": "<b>Pursuit</b>. All Orcs gain <b>Pursuit</b>"
   }
 }

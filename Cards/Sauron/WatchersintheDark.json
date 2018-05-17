@@ -23,12 +23,20 @@
     "FlavorText": "Their cold eyes glittered, and they called to him with fell voices.\n—<i>The Fellowship of the Ring</i>",
     "ArtistName": "Adam Lane",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "227f1ff92c438e9c0c920bb2d9a1fb07",
     "BannerMD5": null,
     "IconMD5": "9f5b3b6fbc45da82431c197221ae0ee9"
   },
   "Localization": {
     "Title": "Watchers in the Dark",
-    "Text": "Gain +1 Threat"
+    "Text": "Gain +1 <size=120%><sprite=4></size>"
   }
 }

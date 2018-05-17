@@ -23,12 +23,20 @@
     "FlavorText": "C_ATEST18030706_FLAVOR",
     "ArtistName": "",
     "Status": "None",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "6a96f6c6303730ca9811c9d6abdedfd5",
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "",
-    "Text": "C_ATEST18030706_TEXT"
+    "Text": "test–test"
   }
 }

@@ -23,12 +23,20 @@
     "FlavorText": "\"Nay, my friends, I am the lawful master of the Stone, and I had both the right and the strength to use it...\" \n—Aragorn, <i>The Return of the King</i>",
     "ArtistName": "Magali Villeneuve",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "70e620c8ee8eb2e54cb9fe29bd466d94",
     "BannerMD5": null,
     "IconMD5": "95e88dea8c53d90f8eaee714409ccd04"
   },
   "Localization": {
     "Title": "Gaining Strength",
-    "Text": "Gain +1 Resource"
+    "Text": "Gain +1 <size=120%><sprite=3></size>"
   }
 }

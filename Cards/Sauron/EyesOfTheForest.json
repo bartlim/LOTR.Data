@@ -23,12 +23,20 @@
     "FlavorText": "…he would see gleams in the darkness round them, and sometimes pairs of yellow or red or green eyes would stare at him from a little distance…\n—<i>The Hobbit</i>",
     "ArtistName": "Yoann Boissonnet",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Eyes of the Forest",
-    "Text": "Sauron gains +1 Resource \nfor each Ally"
+    "Text": "<line-height=100%>Sauron gains +1 <size=120%><sprite=3></size> \nfor each Ally in play"
   }
 }
