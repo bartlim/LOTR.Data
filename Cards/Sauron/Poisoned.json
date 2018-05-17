@@ -4,7 +4,7 @@
     "Owner": "Sauron",
     "CardType": 11,
     "ShopType": "",
-    "Cost": 44,
+    "Cost": 3,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "Poisoned!",
-    "Text": "<b>Upkeep</b>: Deal 1 damage to the same random Hero until the Quest ends"
+    "Text": "A random Hero is poisoned!\n<b>Upkeep</b>: Deal 1 damage to that Hero until the Quest ends"
   }
 }
