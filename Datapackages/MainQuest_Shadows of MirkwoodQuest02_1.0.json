@@ -71,11 +71,54 @@
     },
     "Stages": [
       {
-        "Title": "Location201",
+        "Title": "TheCaveEntrance",
         "SoloGameSetup": [
           "FindThePath",
           "VeteranPatrol"
         ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "TheHallsOfNibindum"
+        ],
+        "FateCardList": null
+      },
+      {
+        "Title": "TheHallsOfNibindum",
+        "SoloGameSetup": [
+          ""
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "ASneakyPath",
+          "ADirectAssault"
+        ],
+        "FateCardList": null
+      },
+      {
+        "Title": "ASneakyPath",
+        "SoloGameSetup": [],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "TheOrcsLair"
+        ],
+        "FateCardList": null
+      },
+      {
+        "Title": "ADirectAssault",
+        "SoloGameSetup": [],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "TheOrcsLair"
+        ],
+        "FateCardList": null
+      },
+      {
+        "Title": "TheOrcsLair",
+        "SoloGameSetup": [],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
@@ -89,9 +132,9 @@
     "FateCardList": null,
     "ThreatCardList": null
   },
-  "Version": "20180517190123107",
+  "Version": "20180517190809045",
   "Key": "MainQuest",
   "SubKey": "Shadows of MirkwoodQuest02",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Shadows of MirkwoodQuest02_20180517190123107"
+  "InternalKey": "MainQuest_Shadows of MirkwoodQuest02_20180517190809045"
 }
