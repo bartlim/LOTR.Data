@@ -23,12 +23,20 @@
     "FlavorText": "The black shadow stood close to the point where they had left the path, and it swayed from side to side. Frodo thought he heard the sound of snuffling. The shadow bent to the ground, and then began to crawl towards him.\n—<i>The Fellowship of the Ring</i>",
     "ArtistName": "Marc Scheff",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "48d15bed9d95162c73bf6e2f1b2f9499",
     "BannerMD5": "eb013a70c7535b0c8de118dab7f4405a",
     "IconMD5": "c1c719efffc41bb4c3bdbe63d9986054"
   },
   "Localization": {
     "Title": "Despair",
-    "Text": "After being attacked, \ngain +1 Threat"
+    "Text": "<line-height=100%>After being attacked, \ngain +1 <size=120%><sprite=4></size>"
   }
 }

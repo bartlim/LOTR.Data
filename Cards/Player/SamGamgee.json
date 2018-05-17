@@ -24,7 +24,7 @@
     "ArtistName": "Alexandre Dainche",
     "Status": "Ready",
     "CardOffsetX": 1.0,
-    "CardOffsetY": 0.95,
+    "CardOffsetY": 0.9,
     "CardScale": 0.9,
     "CameoOffsetX": 1.0,
     "CameoOffsetY": 1.0,
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "‰Sam Gamgee ",
-    "Text": "<b>Ambush</b>. \nWhile Sauron has 0 Resources: <b>Stalwart</b> and Gain +1 Attack"
+    "Text": "<line-height=100%><b>Ambush</b>. Gain +1 <size=120%><sprite=0></size> and <b>Stalwart</b> while Sauron has 0 <size=120%><sprite=3></size>"
   }
 }

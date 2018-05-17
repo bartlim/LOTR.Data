@@ -1,0 +1,131 @@
+{
+  "DataSet": {
+    "Title": "Demo051618Quest1",
+    "SauronDeckInfo": {
+      "Id": null,
+      "DeckList": [
+        {
+          "Id": "BlackForestBats",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "DolGuldurOrcs",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "EastBightPatrol",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "Enfeebled",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "DrivenByShadow",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "GoblinSniper",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "MirkwoodPatrol",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "ThickWebs",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "Tribulation",
+          "Quantity": 2,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        }
+      ]
+    },
+    "Stages": [
+      {
+        "Title": "DemoLocation1",
+        "SoloGameSetup": [
+          "AlongTheStream",
+          "InvestigateTheVillage",
+          "BlackForestBats",
+          "GiantSpider",
+          "WildBear"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "DemoLocation2a",
+          "DemoLocation2b"
+        ],
+        "FateCardList": []
+      },
+      {
+        "Title": "DemoLocation2a",
+        "SoloGameSetup": [
+          "GiantMarshWorm",
+          "Hummerhorns",
+          "MuckAdder",
+          "MuckAdder"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ],
+        "FateCardList": null
+      },
+      {
+        "Title": "DemoLocation2b",
+        "SoloGameSetup": [
+          "DolGuldurOrcs",
+          "OrcMarauder",
+          "VeteranPatrol",
+          "EastBightPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ],
+        "FateCardList": null
+      }
+    ],
+    "Sequences": [],
+    "Stories": [],
+    "FateCardList": [],
+    "ThreatCardList": []
+  },
+  "Version": "20180516160005896",
+  "Key": "MainQuest",
+  "SubKey": "Demo051618Quest1",
+  "RequiredClientVersion": "1.0",
+  "InternalKey": "MainQuest_Demo051618Quest1_20180516160005896"
+}

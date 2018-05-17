@@ -4,7 +4,7 @@
     "Owner": "Player",
     "CardType": 10,
     "ShopType": "",
-    "Cost": 0,
+    "Cost": 7,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "Shaft of Sunlight",
-    "Text": "Remove 4 Threat"
+    "Text": "Remove 4 <size=120%><sprite=4></size>"
   }
 }

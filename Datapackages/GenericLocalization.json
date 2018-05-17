@@ -2437,7 +2437,7 @@
   },
   {
     "Id": "U_BATTLE_UPKEEP_PHASE",
-    "Text": "UPKEEP PHASE",
+    "Text": "UPKEEP",
     "Text_CN": "[C]修整阶段",
     "Text_FR": "PHASE D'ENTRETIEN"
   },
@@ -3762,6 +3762,18 @@
     "Text_FR": "Restore 4 Health to a Hero"
   },
   {
+    "Id": "T_ROLLOVER_TITLE_FATE",
+    "Text": "Fate",
+    "Text_CN": "[C]Fate",
+    "Text_FR": "Fate"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_FATE",
+    "Text": "An ability that can unlock special powers unique to each Quest",
+    "Text_CN": "[C]An ability that can unlock special powers unique to each Quest",
+    "Text_FR": "An ability that can unlock special powers unique to each Quest"
+  },
+  {
     "Id": "PLACEHOLDER2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -4315,7 +4327,7 @@
   },
   {
     "Id": "Q_STAGE_LOCATION201_NAME",
-    "Text": null
+    "Text": "Mirkwood Forest"
   },
   {
     "Id": "Q_STAGE_LOCATION201_TEXT",
@@ -4777,21 +4789,15 @@
   },
   {
     "Id": "C_AGAINSTTHESHADOW_FLAVOR",
-    "Text": "\"Courage will now be your best defense against the storm that is at hand…\" \n—Gandalf, <i>The Return of the King</i>",
-    "Text_CN": "\"Courage will now be your best defense against the storm that is at hand…\" \n—Gandalf, <i>The Return of the King</i>",
-    "Text_FR": "\"Courage will now be your best defense against the storm that is at hand…\" \n—Gandalf, <i>The Return of the King</i>"
+    "Text": "\"Courage will now be your best defense against the storm that is at hand…\" \n—Gandalf, <i>The Return of the King</i>"
   },
   {
     "Id": "C_AGAINSTTHESHADOW_TEXT",
-    "Text": "Lose 1 Threat for each Enemy \nin play",
-    "Text_CN": "Lose 1 Threat for each Enemy \nin play",
-    "Text_FR": "Lose 1 Threat for each Enemy \nin play"
+    "Text": "<line-height=100%>Lose 1 <size=120%><sprite=4></size> for each Enemy \nin play"
   },
   {
     "Id": "C_AGAINSTTHESHADOW_TITLE",
-    "Text": "Against the Shadow",
-    "Text_CN": "对抗阴影",
-    "Text_FR": "Face à l’ombre"
+    "Text": "Against the Shadow"
   },
   {
     "Id": "C_AGENTOFSAURON_FLAVOR",
@@ -4817,7 +4823,7 @@
   },
   {
     "Id": "C_AMBUSHONTHESHORE_TEXT",
-    "Text": "(Cannot engage while non-<b>Stealth</b> Enemies are in play.)\n<b>Upkeep</b>: Sauron gains \n+1 Resources per player"
+    "Text": "[Cannot engage while \nnon-<b>Stealth</b> Enemies are in play.]\n<b>Upkeep</b>: Sauron gains +1 <size=120%><sprite=3></size> \nper player"
   },
   {
     "Id": "C_AMBUSHONTHESHORE_TITLE",
@@ -4847,7 +4853,7 @@
   },
   {
     "Id": "C_ARAGORN_TEXT",
-    "Text": "<b>Power</b>: Gain +1 Attack and \n+1 Willpower this round\n(cost 1)"
+    "Text": "<b>Power</b>: Gain +1 <size=120%><sprite=0></size> and +1 <size=120%><sprite=5></size> \nthis round (cost 1 <size=120%><sprite=3></size>)"
   },
   {
     "Id": "C_ARAGORN_TITLE",
@@ -4859,7 +4865,7 @@
   },
   {
     "Id": "C_ARWEN_TEXT",
-    "Text": "<b>Upkeep</b>: Restore 1 Health\nto a Character"
+    "Text": "<line-height=100%><b>Upkeep</b>: Restore 1 <size=120%><sprite=2></size>\nto a Character"
   },
   {
     "Id": "C_ARWEN_TITLE",
@@ -4897,21 +4903,15 @@
   },
   {
     "Id": "C_AWATCHFULPEACE_FLAVOR",
-    "Text": "…ever as they went forward they felt the watchfulness of the land increase. Tree and stone, blade and leaf were listening. \n—<i>The Return of the King</i>",
-    "Text_CN": "…ever as they went forward they felt the watchfulness of the land increase. Tree and stone, blade and leaf were listening. \n—<i>The Return of the King</i>",
-    "Text_FR": "…ever as they went forward they felt the watchfulness of the land increase. Tree and stone, blade and leaf were listening. \n—<i>The Return of the King</i>"
+    "Text": "…ever as they went forward they felt the watchfulness of the land increase. Tree and stone blade and leaf were listening. \n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_AWATCHFULPEACE_TEXT",
-    "Text": "Lose 2 Threat",
-    "Text_CN": "令威胁降低2点。 ",
-    "Text_FR": "Réduit de 2 votre niveau de Menace. "
+    "Text": "<line-height=100%>Lose 2 <size=120%><sprite=4></size>"
   },
   {
     "Id": "C_AWATCHFULPEACE_TITLE",
-    "Text": "A Watchful Peace",
-    "Text_CN": "暗流涌动的和平",
-    "Text_FR": "Une paix tendue"
+    "Text": "A Watchful Peace"
   },
   {
     "Id": "C_BARLIMANBUTTERBUR_FLAVOR",
@@ -4919,7 +4919,7 @@
   },
   {
     "Id": "C_BARLIMANBUTTERBUR_TEXT",
-    "Text": "<b>Power</b>: Exhaust this Character\n to draw a card (cost 1)"
+    "Text": "<line-height=100%><b>Power</b>: Exhaust this Character\n to draw a card (cost 1 <size=120%><sprite=3></size>)"
   },
   {
     "Id": "C_BARLIMANBUTTERBUR_TITLE",
@@ -4931,7 +4931,7 @@
   },
   {
     "Id": "C_BEORN_TEXT",
-    "Text": "(Cannot equip Attachments.)\nGain +1 Attack for each point\nbelow maximum Health"
+    "Text": "<line-height=100%>[Cannot equip Attachments.]\nGain +1 <size=120%><sprite=0></size> for each point\nbelow maximum <size=120%><sprite=2></size>"
   },
   {
     "Id": "C_BEORN_TITLE",
@@ -4943,7 +4943,7 @@
   },
   {
     "Id": "C_BEORNSHOSPITALITY_TEXT",
-    "Text": "<b>Choose</b>: Restore 1 Health\nto all Characters; or restore\n4 Health to a Hero"
+    "Text": "<line-height=100%><b>Choose</b>: Restore 1 <size=120%><sprite=2></size>\nto all Characters; or restore\n4 <size=120%><sprite=2></size> to a Hero"
   },
   {
     "Id": "C_BEORNSHOSPITALITY_TITLE",
@@ -4951,21 +4951,15 @@
   },
   {
     "Id": "C_BILBOSCLOAK_FLAVOR",
-    "Text": "…he kept in a drawer at Bag End the old cloak and hood that he had worn on his travels… \n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": "…he kept in a drawer at Bag End the old cloak and hood that he had worn on his travels… \n<i>—The Fellowship of the Ring</i>",
-    "Text_FR": "…he kept in a drawer at Bag End the old cloak and hood that he had worn on his travels… \n<i>—The Fellowship of the Ring</i>"
+    "Text": "…he kept in a drawer at Bag End the old cloak and hood that he had worn on his travels… \n<i>—The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_BILBOSCLOAK_TEXT",
-    "Text": "(Hobbits only.) \n<b>Upkeep</b>: Sauron loses \n1 Resource",
-    "Text_CN": "(Hobbits only.) \n<b>Upkeep</b>: Sauron loses \n1 Resource",
-    "Text_FR": "(Hobbits only.) \n<b>Upkeep</b>: Sauron loses \n1 Resource"
+    "Text": "<line-height=100%>[Hobbits only.]\n<b>Upkeep</b>: Sauron loses 1 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_BILBOSCLOAK_TITLE",
-    "Text": "‰Bilbo's Cloak",
-    "Text_CN": "‰Bilbo's Cloak",
-    "Text_FR": "‰Bilbo's Cloak"
+    "Text": "‰Bilbo's Cloak"
   },
   {
     "Id": "C_BILLTHEPONY_FLAVOR",
@@ -4973,7 +4967,7 @@
   },
   {
     "Id": "C_BILLTHEPONY_TEXT",
-    "Text": "(Cost -2 while you control \n<i>Sam Gamgee</i>.) \n<b>Upkeep</b>: Gain +1 Resource"
+    "Text": "<line-height=100%>[Cost -2 while you control \n<i>Sam Gamgee</i>.]\n<b>Upkeep</b>: Gain +1 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_BILLTHEPONY_TITLE",
@@ -4985,7 +4979,7 @@
   },
   {
     "Id": "C_BLACKBLOOD_TEXT",
-    "Text": "Restore 2 Health to all Trolls"
+    "Text": "Restore 2 <size=120%><sprite=2></size> to all Trolls"
   },
   {
     "Id": "C_BLACKBLOOD_TITLE",
@@ -5011,21 +5005,15 @@
   },
   {
     "Id": "C_BLADEOFGONDOLIN_FLAVOR",
-    "Text": "It was rather splendid to be wearing a blade made in Gondolin for the goblin–wars of which so many songs had sung…\n—<i>The Hobbit</i>",
-    "Text_CN": "It was rather splendid to be wearing a blade made in Gondolin for the goblin-wars of which so many songs had sung…\n<i>—The Hobbit</i>",
-    "Text_FR": "It was rather splendid to be wearing a blade made in Gondolin for the goblin-wars of which so many songs had sung…\n<i>—The Hobbit</i>"
+    "Text": "It was rather splendid to be wearing a blade made in Gondolin for the goblin-wars of which so many songs had sung…\n<i>—The Hobbit</i>"
   },
   {
     "Id": "C_BLADEOFGONDOLIN_TEXT",
-    "Text": "Gain +2 Attack; \nlose 1 Willpower",
-    "Text_CN": "Gain +2 Attack; \nlose 1 Willpower",
-    "Text_FR": "Gain +2 Attack; \nlose 1 Willpower"
+    "Text": "Gain +2 <size=120%><sprite=0></size>; lose 1 <size=120%><sprite=5></size>"
   },
   {
     "Id": "C_BLADEOFGONDOLIN_TITLE",
-    "Text": "Blade of Gondolin",
-    "Text_CN": "0",
-    "Text_FR": "Blade of Gondolin"
+    "Text": "Blade of Gondolin"
   },
   {
     "Id": "C_BLOCKEDPATH_FLAVOR",
@@ -5041,21 +5029,15 @@
   },
   {
     "Id": "C_BOARDTHERAFT_FLAVOR",
-    "Text": "The current was swift and they went forward slowly. Sam sat in the bows, clutching the sides, and looking back wistfully to the shore. \n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": "The current was swift and they went forward slowly. Sam sat in the bows, clutching the sides, and looking back wistfully to the shore. \n—<i>The Fellowship of the Ring</i>",
-    "Text_FR": "The current was swift and they went forward slowly. Sam sat in the bows, clutching the sides, and looking back wistfully to the shore. \n—<i>The Fellowship of the Ring</i>"
+    "Text": "The current was swift and they went forward slowly. Sam sat in the bows, clutching the sides, and looking back wistfully to the shore. \n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_BOARDTHERAFT_TEXT",
-    "Text": "(Cannot engage while\n<i>Hill Troll</i> is in play.)\nYou may travel from\nthis Location",
-    "Text_CN": "(Cannot engage while\n<i>Hill Troll</i> is in play.)\nYou may travel from this\nLocation",
-    "Text_FR": "(Cannot engage while\n<i>Hill Troll</i> is in play.)\nYou may travel from this\nLocation"
+    "Text": "[Cannot engage while\n<i>Hill Troll</i> is in play.]\nYou may travel from\nthis Location"
   },
   {
     "Id": "C_BOARDTHERAFT_TITLE",
-    "Text": "Board the Raft",
-    "Text_CN": "Board the Raft",
-    "Text_FR": "Board the Raft"
+    "Text": "Board the Raft"
   },
   {
     "Id": "C_BORNEALOFT_FLAVOR",
@@ -5071,21 +5053,15 @@
   },
   {
     "Id": "C_BOWOFTHEGALADHRIM_FLAVOR",
-    "Text": "…longer and stronger than the bows of Mirkwood, and strung with a string of elf–hair. \n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": "…longer and stronger than the bows of Mirkwood, and strung with a string of elf—hair. \n<i>—The Fellowship of the Ring</i>",
-    "Text_FR": "…longer and stronger than the bows of Mirkwood, and strung with a string of elf—hair. \n<i>—The Fellowship of the Ring</i>"
+    "Text": "…longer and stronger than the bows of Mirkwood, and strung with a string of elf–hair. \n<i>—The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_BOWOFTHEGALADHRIM_TEXT",
-    "Text": "Gain +1 Attack and <b>Ranged</b>",
-    "Text_CN": "Gain +1 Attack and <b>Ranged</b>",
-    "Text_FR": "Gain +1 Attack and <b>Ranged</b>"
+    "Text": "Gain +1 <size=120%><sprite=0></size> and <b>Ranged</b>"
   },
   {
     "Id": "C_BOWOFTHEGALADHRIM_TITLE",
-    "Text": "Bow of the Galadhrim",
-    "Text_CN": "凯兰崔姆之弓",
-    "Text_FR": "Arc des Galadhrim"
+    "Text": "Bow of the Galadhrim"
   },
   {
     "Id": "C_BURSTINTOSONG_FLAVOR",
@@ -5105,7 +5081,7 @@
   },
   {
     "Id": "C_CAREFULPLANNING_TEXT",
-    "Text": "Lose Threat equal to the cost of the next card Sauron plays (minimum 1)"
+    "Text": "<line-height=100%>Lose <size=120%><sprite=4></size> equal to the cost of the next card that Sauron plays (minimum 1 <size=120%><sprite=3></size> cost)"
   },
   {
     "Id": "C_CAREFULPLANNING_TITLE",
@@ -5129,7 +5105,7 @@
   },
   {
     "Id": "C_CHIEFTAINUFTHAK_TEXT",
-    "Text": "<b>Pursuit</b>. End of round: Add \n1 <i>Dol Guldur Orcs</i>"
+    "Text": "<b>Pursuit</b>. \nEnd of round: Add \n1 <i>Dol Guldur Orcs</i>"
   },
   {
     "Id": "C_CHIEFTAINUFTHAK_TITLE",
@@ -5141,7 +5117,7 @@
   },
   {
     "Id": "C_CLIMBTHEHILL_TEXT",
-    "Text": "Travel immediately to \n<i>Bare Hilltop</i>"
+    "Text": "You may travel to \n<i>Bare Hilltop</i>"
   },
   {
     "Id": "C_CLIMBTHEHILL_TITLE",
@@ -5173,39 +5149,27 @@
   },
   {
     "Id": "C_CONTINUEDOWNSTREAM_FLAVOR",
-    "Text": "The dale ran like a stony trough between the ridged hills, and a trickling stream flowed among the boulders at the bottom. \n—<i>The Two Towers</i>",
-    "Text_CN": "The dale ran like a stony trough between the ridged hills, and a trickling stream flowed among the boulders at the bottom. \n—<i>The Two Towers</i>",
-    "Text_FR": "The dale ran like a stony trough between the ridged hills, and a trickling stream flowed among the boulders at the bottom. \n—<i>The Two Towers</i>"
+    "Text": "The dale ran like a stony trough between the ridged hills, and a trickling stream flowed among the boulders at the bottom. \n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_CONTINUEDOWNSTREAM_TEXT",
-    "Text": "Travel immediately to\n<i>Mirkwood Swamp</i>",
-    "Text_CN": "结算：立刻前往幽暗密林沼泽。",
-    "Text_FR": "Résolution : voyagez immédiatement jusqu'au Marais de la Forêt Noire."
+    "Text": "You may travel to\n<i>Mirkwood Swamp</i>"
   },
   {
     "Id": "C_CONTINUEDOWNSTREAM_TITLE",
-    "Text": "Continue Downstream",
-    "Text_CN": "顺流而下",
-    "Text_FR": "Continuer à suivre le courant"
+    "Text": "Continue Downstream"
   },
   {
     "Id": "C_CREATUREOFDARKNESS_FLAVOR",
-    "Text": "…two pale lamplike eyes shone coldly as they peered inside, and then they lifted and gazed up at Frodo on the eyot. They were not more than a yard or two away, and Frodo heard the soft hiss of intaken breath. \n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": "…two pale lamplike eyes shone coldly as they peered inside, and then they lifted and gazed up at Frodo on the eyot. They were not more than a yard or two away, and Frodo heard the soft hiss of intaken breath. \n—<i>The Fellowship of the Ring</i>",
-    "Text_FR": "…two pale lamplike eyes shone coldly as they peered inside, and then they lifted and gazed up at Frodo on the eyot. They were not more than a yard or two away, and Frodo heard the soft hiss of intaken breath. \n—<i>The Fellowship of the Ring</i>"
+    "Text": "…two pale lamplike eyes shone coldly as they peered inside, and then they lifted and gazed up at Frodo on the eyot. They were not more than a yard or two away, and Frodo heard the soft hiss of intaken breath. \n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_CREATUREOFDARKNESS_TEXT",
-    "Text": "End of round: Gain +1 Threat",
-    "Text_CN": "装备（敌人）：获得关键词『强力威胁』。",
-    "Text_FR": "Attacher (Ennemi) : gagnez Menaçant."
+    "Text": "<line-height=100%>End of round: Gain +1 <size=120%><sprite=4></size>"
   },
   {
     "Id": "C_CREATUREOFDARKNESS_TITLE",
-    "Text": "Creature of Darkness",
-    "Text_CN": "黑暗生物",
-    "Text_FR": "Créature de l'ombre"
+    "Text": "Creature of Darkness"
   },
   {
     "Id": "C_DARKSORCERY_FLAVOR",
@@ -5239,21 +5203,15 @@
   },
   {
     "Id": "C_DESPAIR_FLAVOR",
-    "Text": "The black shadow stood close to the point where they had left the path, and it swayed from side to side. Frodo thought he heard the sound of snuffling. The shadow bent to the ground, and then began to crawl towards him.\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": "The black shadow stood close to the point where they had left the path, and it swayed from side to side. Frodo thought he heard the sound of snuffling. The shadow bent to the ground, and then began to crawl towards him.\n—<i>The Fellowship of the Ring</i>",
-    "Text_FR": "The black shadow stood close to the point where they had left the path, and it swayed from side to side. Frodo thought he heard the sound of snuffling. The shadow bent to the ground, and then began to crawl towards him.\n—<i>The Fellowship of the Ring</i>"
+    "Text": "The black shadow stood close to the point where they had left the path, and it swayed from side to side. Frodo thought he heard the sound of snuffling. The shadow bent to the ground, and then began to crawl towards him.\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_DESPAIR_TEXT",
-    "Text": "After being attacked, \ngain +1 Threat",
-    "Text_CN": "装备（敌人）：在人物发动攻击后为目标增加1点威胁。",
-    "Text_FR": "Attacher (Ennemi) : après l'attaque du personnage, augmentez de 1 le niveau de Menace de la cible."
+    "Text": "<line-height=100%>After being attacked, \ngain +1 <size=120%><sprite=4></size>"
   },
   {
     "Id": "C_DESPAIR_TITLE",
-    "Text": "Despair",
-    "Text_CN": "绝望",
-    "Text_FR": "Désespoir"
+    "Text": "Despair"
   },
   {
     "Id": "C_DOLGULDURARCHER_FLAVOR",
@@ -5287,21 +5245,15 @@
   },
   {
     "Id": "C_DRIVENBYSHADOW_FLAVOR",
-    "Text": "\"…in the dark they perceive many signs and forms that are hidden from us: then they are most to be feared.\" \n—Aragorn, <i>The Fellowship of the Ring</i>",
-    "Text_CN": "\"In the midst upon a stony height stands Dol Guldur, where long the hidden Enemy had his dwelling. We fear that now it is inhabited again, and with power sevenfold.\"\n—Haldir, <i>The Fellowship of the Ring</i>",
-    "Text_FR": "\"In the midst upon a stony height stands Dol Guldur, where long the hidden Enemy had his dwelling. We fear that now it is inhabited again, and with power sevenfold.\"\n—Haldir, <i>The Fellowship of the Ring</i>"
+    "Text": "\"…in the dark they perceive many signs and forms that are hidden from us: then they are most to be feared.\" \n—Aragorn, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_DRIVENBYSHADOW_TEXT",
-    "Text": "Gain +2 Attack",
-    "Text_CN": "装备（敌人）：攻击+2。",
-    "Text_FR": "Attacher (Ennemi) : gagnez +2 en Attaque."
+    "Text": "Gain +2 <size=120%><sprite=0></size>"
   },
   {
     "Id": "C_DRIVENBYSHADOW_TITLE",
-    "Text": "Driven by Shadow",
-    "Text_CN": "阴影驱策",
-    "Text_FR": "Conduite par l’ombre"
+    "Text": "Driven by Shadow"
   },
   {
     "Id": "C_DUNEDAINQUEST_FLAVOR",
@@ -5309,7 +5261,7 @@
   },
   {
     "Id": "C_DUNEDAINQUEST_TEXT",
-    "Text": "Gain +1 Health. Gain <b>Stealth</b> this round"
+    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=2></size>. \nGain <b>Stealth</b> this round"
   },
   {
     "Id": "C_DUNEDAINQUEST_TITLE",
@@ -5321,7 +5273,7 @@
   },
   {
     "Id": "C_DWARVENAXE_TEXT",
-    "Text": "Gain +1 Attack; or\ngain +2 Attack if the\nCharacter is a Dwarf"
+    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=0></size>; or\ngain +2 <size=120%><sprite=0></size> if Dwarf"
   },
   {
     "Id": "C_DWARVENAXE_TITLE",
@@ -5441,7 +5393,7 @@
   },
   {
     "Id": "C_EOWYN_TEXT",
-    "Text": "Gain +2 Willpower this round after the first time a Character \nis damaged in the round"
+    "Text": "<line-height=100%>Gain +2 <size=120%><sprite=5></size> this round after the first time a friendly Character \nis damaged in the round"
   },
   {
     "Id": "C_EOWYN_TITLE",
@@ -5593,21 +5545,15 @@
   },
   {
     "Id": "C_EYESOFTHEFOREST_FLAVOR",
-    "Text": "…he would see gleams in the darkness round them, and sometimes pairs of yellow or red or green eyes would stare at him from a little distance…\n—<i>The Hobbit</i>",
-    "Text_CN": "…he would see gleams in the darkness round them, and sometimes pairs of yellow or red or green eyes would stare at him from a little distance…\n—<i>The Hobbit</i>",
-    "Text_FR": "…he would see gleams in the darkness round them, and sometimes pairs of yellow or red or green eyes would stare at him from a little distance…\n—<i>The Hobbit</i>"
+    "Text": "…he would see gleams in the darkness round them, and sometimes pairs of yellow or red or green eyes would stare at him from a little distance…\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_EYESOFTHEFOREST_TEXT",
-    "Text": "Sauron gains +1 Resource \nfor each Ally",
-    "Text_CN": "场上每存在1名盟友，索隆便会获得1点资源。",
-    "Text_FR": "Sauron gagne 1 ressource pour chaque allié en jeu."
+    "Text": "<line-height=100%>Sauron gains +1 <size=120%><sprite=3></size> \nfor each Ally in play"
   },
   {
     "Id": "C_EYESOFTHEFOREST_TITLE",
-    "Text": "Eyes of the Forest",
-    "Text_CN": "森林之眼",
-    "Text_FR": "Les yeux de la forêt"
+    "Text": "Eyes of the Forest"
   },
   {
     "Id": "C_FARAMIR_FLAVOR",
@@ -5629,21 +5575,15 @@
   },
   {
     "Id": "C_FAVOROFTHELADY_FLAVOR",
-    "Text": "\"You are indeed high in the favor of the Lady!\"\n—an Elf of Lórien, <i>The Fellowship of the Ring</i>",
-    "Text_CN": "\"You are indeed high in the favor of the Lady!\"\n —an Elf of Lórien, <i>The Fellowship of the Ring</i>\n",
-    "Text_FR": "\"You are indeed high in the favor of the Lady!\"\n —an Elf of Lórien, <i>The Fellowship of the Ring</i>\n"
+    "Text": "\"You are indeed high in the favor of the Lady!\"\n —an Elf of Lórien, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_FAVOROFTHELADY_TEXT",
-    "Text": "Gain +1 Willpower",
-    "Text_CN": "装备：意志力+1。",
-    "Text_FR": "Attacher : gagnez +1 en Volonté."
+    "Text": "Gain +1 <size=120%><sprite=5></size>"
   },
   {
     "Id": "C_FAVOROFTHELADY_TITLE",
-    "Text": "Favor of the Lady",
-    "Text_CN": "女神之佑",
-    "Text_FR": "La faveur de la Dame"
+    "Text": "Favor of the Lady"
   },
   {
     "Id": "C_FAVOROFTHEVALAR_FLAVOR",
@@ -5651,7 +5591,7 @@
   },
   {
     "Id": "C_FAVOROFTHEVALAR_TEXT",
-    "Text": "If you would reach 50 on the Threat Meter, lose 3 Threat instead"
+    "Text": "<line-height=100%>If you would reach 50 on the Threat Meter, lose 3 <size=120%><sprite=4></size> instead"
   },
   {
     "Id": "C_FAVOROFTHEVALAR_TITLE",
@@ -5659,21 +5599,15 @@
   },
   {
     "Id": "C_FEINT_FLAVOR",
-    "Text": "A few brave men were strung before them to make a feint of resistance, and many there fell before the rest drew back and fled to either side. \n<i>—The Hobbit</i>",
-    "Text_CN": "A few brave men were strung before them to make a feint of resistance, and many there fell before the rest drew back and fled to either side. \n<i>—The Hobbit</i>",
-    "Text_FR": "A few brave men were strung before them to make a feint of resistance, and many there fell before the rest drew back and fled to either side. \n<i>—The Hobbit</i>"
+    "Text": "A few brave men were strung before them to make a feint of resistance, and many there fell before the rest drew back and fled to either side. \n<i>—The Hobbit</i>"
   },
   {
     "Id": "C_FEINT_TEXT",
-    "Text": "Reduce a non-unique Enemy to 0 Attack this round",
-    "Text_CN": "令一名不唯一的敌人攻击力降至0点，持续至轮次结束。",
-    "Text_FR": "Réduisez à 0 l'Attaque d'un ennemi non-unique jusqu'à la fin du tour."
+    "Text": "<line-height=100%>Reduce a non-unique Enemy \nto 0 <size=120%><sprite=0></size> this round"
   },
   {
     "Id": "C_FEINT_TITLE",
-    "Text": "Feint",
-    "Text_CN": "佯攻",
-    "Text_FR": "Feinte"
+    "Text": "Feint"
   },
   {
     "Id": "C_FINDSAFEPASSAGE_FLAVOR",
@@ -5849,7 +5783,7 @@
   },
   {
     "Id": "C_FRODO_TEXT",
-    "Text": "<b>Stealth</b>. Gain +2 Willpower \nwhile Sauron has 0 Resources"
+    "Text": "<line-height=100%><b>Stealth</b>. Gain +2 <size=120%><sprite=5></size> while \nSauron has 0 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_FRODO_TITLE",
@@ -5857,21 +5791,15 @@
   },
   {
     "Id": "C_GAININGSTRENGTH_FLAVOR",
-    "Text": "\"Nay, my friends, I am the lawful master of the Stone, and I had both the right and the strength to use it...\" \n—Aragorn, <i>The Return of the King</i>",
-    "Text_CN": "\"Nay, my friends, I am the lawful master of the Stone, and I had both the right and the strength to use it...\" \n—Aragorn, <i>The Return of the King</i>",
-    "Text_FR": "\"Nay, my friends, I am the lawful master of the Stone, and I had both the right and the strength to use it...\" \n—Aragorn, <i>The Return of the King</i>"
+    "Text": "\"Nay, my friends, I am the lawful master of the Stone, and I had both the right and the strength to use it...\" \n—Aragorn, <i>The Return of the King</i>"
   },
   {
     "Id": "C_GAININGSTRENGTH_TEXT",
-    "Text": "Gain +1 Resource",
-    "Text_CN": "获得1点资源。",
-    "Text_FR": "Gagnez 1 ressource."
+    "Text": "Gain +1 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_GAININGSTRENGTH_TITLE",
-    "Text": "Gaining Strength",
-    "Text_CN": "获取力量",
-    "Text_FR": "Regain de force"
+    "Text": "Gaining Strength"
   },
   {
     "Id": "C_GALADHONARCHER_FLAVOR",
@@ -5893,21 +5821,15 @@
   },
   {
     "Id": "C_GALADRIELSHANDMAIDEN_FLAVOR",
-    "Text": "Her maidens stood silent about her and a while she looked upon her guests.\n<i>—The Fellowship of the Ring</i>",
-    "Text_CN": "Her maidens stood silent about her and a while she looked upon her guests.\n<i>—The Fellowship of the Ring</i>",
-    "Text_FR": "Her maidens stood silent about her and a while she looked upon her guests.\n<i>—The Fellowship of the Ring</i>"
+    "Text": "Her maidens stood silent about her, and a while she looked upon her guests.\n<i>—The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_GALADRIELSHANDMAIDEN_TEXT",
-    "Text": "<b>Arrival</b>: Lose 1 Threat",
-    "Text_CN": "登场：令威胁降低1点。",
-    "Text_FR": "Arrivée : réduit de 1 votre niveau de Menace."
+    "Text": "<b>Arrival</b>: Lose 1 <size=120%><sprite=4></size>"
   },
   {
     "Id": "C_GALADRIELSHANDMAIDEN_TITLE",
-    "Text": "Galadriel's Handmaiden",
-    "Text_CN": "凯兰崔尔的侍女",
-    "Text_FR": "Suivante de Galadriel"
+    "Text": "Galadriel's Handmaiden"
   },
   {
     "Id": "C_GANDALF_FLAVOR",
@@ -5915,7 +5837,7 @@
   },
   {
     "Id": "C_GANDALF_TEXT",
-    "Text": "<b>Fleeting</b>. <b>Arrival</b> (<b>Choose</b>):\nDraw 3 cards; lose 3 Threat;\nor deal 3 damage"
+    "Text": "<line-height=100%><b>Fleeting</b>. <b>Arrival</b> (<b>Choose</b>):\nDraw 3 cards; lose 3 <size=120%><sprite=4></size>;\nor deal 3 damage"
   },
   {
     "Id": "C_GANDALF_TITLE",
@@ -5939,7 +5861,7 @@
   },
   {
     "Id": "C_GATHERINGGLOOM_TEXT",
-    "Text": "Reduce all Allies to \n0 Willpower this round"
+    "Text": "<line-height=100%>Reduce all Allies to \n0 <size=120%><sprite=5></size> this round"
   },
   {
     "Id": "C_GATHERINGGLOOM_TITLE",
@@ -5947,21 +5869,15 @@
   },
   {
     "Id": "C_GHANBURIGHAN_FLAVOR",
-    "Text": "\"Ghân-buri-Ghân will not lead you into trap.\" \n–Ghân-buri-Ghân, <i>The Fellowship of the Ring</i>",
-    "Text_CN": "\"Ghân-buri-Ghân will not lead you into trap.\" \n—Ghân-buri-Ghân, <i>The Fellowship of the Ring</i>",
-    "Text_FR": "\"Ghân-buri-Ghân will not lead you into trap.\" \n—Ghân-buri-Ghân, <i>The Fellowship of the Ring</i>"
+    "Text": "\"Ghân-buri-Ghân will not lead you into trap.\" \n—Ghân-buri-Ghân, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_GHANBURIGHAN_TEXT",
-    "Text": "<b>Stealth</b>. Gain +<u>X</u> Willpower \n(<u>X</u> equals Objectives in play)",
-    "Text_CN": "<b>Stealth</b>. Gain +<u>X</u> Willpower \n(<u>X</u> equals Objectives in play)",
-    "Text_FR": "<b>Stealth</b>. Gain +<u>X</u> Willpower \n(<u>X</u> equals Objectives in play)"
+    "Text": "<line-height=100%><b>Stealth</b>. Gain +<u>X</u> <size=120%><sprite=5></size> \n(<u>X</u> equals Objectives in play)"
   },
   {
     "Id": "C_GHANBURIGHAN_TITLE",
-    "Text": "‰Ghân-buri-Ghân",
-    "Text_CN": "‰悍-不里-悍",
-    "Text_FR": "‰Ghân-buri-Ghân"
+    "Text": "‰Ghân-buri-Ghân"
   },
   {
     "Id": "C_GIANTBEETLE_FLAVOR",
@@ -5983,21 +5899,15 @@
   },
   {
     "Id": "C_GIANTMARSHWORM_FLAVOR",
-    "Text": "\"No birds here. There are snakeses, wormses, things in the pools. Lot of things, lots of nasty things.\"\n—Gollum, <i>The Two Towers</i>",
-    "Text_CN": "\"No birds here. There are snakeses, wormses, things in the pools. Lot of things, lots of nasty things.\"\n—Gollum, <i>The Two Towers</i>",
-    "Text_FR": "\"No birds here. There are snakeses, wormses, things in the pools. Lot of things, lots of nasty things.\"\n—Gollum, <i>The Two Towers</i>"
+    "Text": "\"No birds here. There are snakeses, wormses, things in the pools. Lot of things, lots of nasty things.\"\n—Gollum, <i>The Two Towers</i>"
   },
   {
     "Id": "C_GIANTMARSHWORM_TEXT",
-    "Text": "<b>Counter</b>. <b>Stalwart</b>.\nGain +1 Threat when\n<i>Giant Marsh Worm</i> attacks",
-    "Text_CN": "<b>Counter</b>. <b>Stalwart</b>.\nGain +1 Threat when\n<i>Giant Marsh Worm</i> attacks",
-    "Text_FR": "<b>Counter</b>. <b>Stalwart</b>.\nGain +1 Threat when\n<i>Giant Marsh Worm</i> attacks"
+    "Text": "<line-height=100%><b>Counter</b>. <b>Stalwart</b>.\nGain +1 <size=120%><sprite=4></size> when\n<i>Giant Marsh Worm</i> attacks"
   },
   {
     "Id": "C_GIANTMARSHWORM_TITLE",
-    "Text": "‰Giant Marsh Worm",
-    "Text_CN": "‰巨型沼泽蠕虫",
-    "Text_FR": "‰Ver géant des marais"
+    "Text": "‰Giant Marsh Worm"
   },
   {
     "Id": "C_GIANTSPIDER_FLAVOR",
@@ -6023,7 +5933,7 @@
   },
   {
     "Id": "C_GIMLI_TEXT",
-    "Text": "<b>Counter</b>. Gain +1 Attack this round after the first time a Character is damaged in the round"
+    "Text": "<b>Counter</b>. Gain +1 <size=120%><sprite=0></size> this round after the first time a friendly Character is damaged in the round"
   },
   {
     "Id": "C_GIMLI_TITLE",
@@ -6031,39 +5941,27 @@
   },
   {
     "Id": "C_GOBLINSNIPER_FLAVOR",
-    "Text": "Out of the darkness arrows whistled.\n—<i>The Two Towers</i>",
-    "Text_CN": "Out of the darkness arrows whistled.\n—<i>The Two Towers</i>",
-    "Text_FR": "Out of the darkness arrows whistled.\n—<i>The Two Towers</i>"
+    "Text": "Out of the darkness arrows whistled.\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_GOBLINSNIPER_TEXT",
-    "Text": "<b>Ranged</b>. <b>Stealth</b>. <b>Upkeep</b>: \nDeal 1 damage to a random Character",
-    "Text_CN": "<b>Ranged</b>. <b>Stealth</b>. <b>Upkeep</b>: \nDeal 1 damage to a random Character",
-    "Text_FR": "<b>Ranged</b>. <b>Stealth</b>. <b>Upkeep</b>: \nDeal 1 damage to a random Character"
+    "Text": "<b>Ranged</b>. <b>Stealth</b>. \n<b>Upkeep</b>: Deal 1 damage to a random Character"
   },
   {
     "Id": "C_GOBLINSNIPER_TITLE",
-    "Text": "Goblin Sniper",
-    "Text_CN": "地精狙击手",
-    "Text_FR": "Tireur embusqué gobelin"
+    "Text": "Goblin Sniper"
   },
   {
     "Id": "C_GONDORIANSHIELD_FLAVOR",
-    "Text": "There flowered a White Tree, and that was for Gondor… \n—<i>The Return of the King</i>",
-    "Text_CN": "There flowered a White Tree, and that was for Gondor… \n<i>—The Return of the King</i>",
-    "Text_FR": "There flowered a White Tree, and that was for Gondor… \n<i>—The Return of the King</i>"
+    "Text": "There flowered a White Tree, and that was for Gondor… \n<i>–The Return of the King</i>"
   },
   {
     "Id": "C_GONDORIANSHIELD_TEXT",
-    "Text": "Gain +2 Health and <b>Block</b>",
-    "Text_CN": "装备（刚铎）：获得『格挡』关键词且生命+2。",
-    "Text_FR": "Attacher (Gondor) : gagnez +2 en points de vie et Blocage."
+    "Text": "Gain +2 <size=120%><sprite=2></size> and <b>Block</b>"
   },
   {
     "Id": "C_GONDORIANSHIELD_TITLE",
-    "Text": "Gondorian Shield",
-    "Text_CN": "刚铎之盾",
-    "Text_FR": "Bouclier du Gondor"
+    "Text": "Gondorian Shield"
   },
   {
     "Id": "C_GREEDYFINGERS_FLAVOR",
@@ -6097,21 +5995,15 @@
   },
   {
     "Id": "C_GROWINGDARKNESS_FLAVOR",
-    "Text": "The rising sun was hazy, and behind it, following it slowly up the sky, there was a growing darkness, as of a great storm moving out of the East.\n—<i>The Two Towers</i>",
-    "Text_CN": "The rising sun was hazy, and behind it, following it slowly up the sky, there was a growing darkness, as of a great storm moving out of the East.\n—<i>The Two Towers</i>",
-    "Text_FR": "The rising sun was hazy, and behind it, following it slowly up the sky, there was a growing darkness, as of a great storm moving out of the East.\n—<i>The Two Towers</i>"
+    "Text": "The rising sun was hazy, and behind it, following it slowly up the sky, there was a growing darkness, as of a great storm moving out of the East.\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_GROWINGDARKNESS_TEXT",
-    "Text": "<b>Upkeep</b>: Sauron gains \n+1 Resource",
-    "Text_CN": "<b>Upkeep</b>: Sauron gains \n+1 Resource",
-    "Text_FR": "<b>Upkeep</b>: Sauron gains \n+1 Resource"
+    "Text": "<b>Upkeep</b>: Sauron gains +1 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_GROWINGDARKNESS_TITLE",
-    "Text": "Growing Darkness",
-    "Text_CN": "黑暗渐浓",
-    "Text_FR": "Noirceur grandissante"
+    "Text": "Growing Darkness"
   },
   {
     "Id": "C_GUARDOFTHECITADEL_FLAVOR",
@@ -6149,7 +6041,7 @@
   },
   {
     "Id": "C_HALFLINGDETERMINATION_TEXT",
-    "Text": "Restore 4 Health\nto all Hobbit Characters"
+    "Text": "<line-height=100%>Restore 4 <size=120%><sprite=2></size>\nto all Hobbit Characters"
   },
   {
     "Id": "C_HALFLINGDETERMINATION_TITLE",
@@ -6187,21 +6079,15 @@
   },
   {
     "Id": "C_HIDDENCACHE_FLAVOR",
-    "Text": "…there was a good deal of food jumbled carlessly on shelves and on the ground, among an untidy litter of plunder… \n—<i>The Hobbit</i>",
-    "Text_CN": "…there was a good deal of food jumbled carlessly on shelves and on the ground, among an untidy litter of plunder… \n<i>—The Hobbit</i>",
-    "Text_FR": "…there was a good deal of food jumbled carlessly on shelves and on the ground, among an untidy litter of plunder… \n<i>—The Hobbit</i>"
+    "Text": "…there was a good deal of food jumbled carlessly on shelves and on the ground, among an untidy litter of plunder… \n<i>–The Hobbit</i>"
   },
   {
     "Id": "C_HIDDENCACHE_TEXT",
-    "Text": "Gain +1 Resource",
-    "Text_CN": "获得1点资源。",
-    "Text_FR": "Gagnez 1 ressource."
+    "Text": "Gain +1 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_HIDDENCACHE_TITLE",
-    "Text": "Hidden Cache",
-    "Text_CN": "隐秘储藏点",
-    "Text_FR": "Cache secrète"
+    "Text": "Hidden Cache"
   },
   {
     "Id": "C_HIDDENPATH_FLAVOR",
@@ -6259,21 +6145,15 @@
   },
   {
     "Id": "C_HOBBITCLOAK_FLAVOR",
-    "Text": "In their dark cloaks, they were as invisible as if they all had magic rings. \n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": "In their dark cloaks, they were as invisible as if they all had magic rings. \n<i>—The Fellowship of the Ring</i>",
-    "Text_FR": "In their dark cloaks, they were as invisible as if they all had magic rings. \n<i>—The Fellowship of the Ring</i>"
+    "Text": "In their dark cloaks, they were as invisible as if they all had magic rings. \n<i>—The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_HOBBITCLOAK_TEXT",
-    "Text": "(Hobbits only.) \n<b>Upkeep</b>: Gain <b>Stealth</b>\nthis round (50% chance)",
-    "Text_CN": "(Hobbits only.) \n<b>Upkeep</b>: Gain <b>Stealth</b>\nthis round (50% chance)",
-    "Text_FR": "(Hobbits only.) \n<b>Upkeep</b>: Gain <b>Stealth</b>\nthis round (50% chance)"
+    "Text": "[Hobbit only.]\n<b>Upkeep</b>: Gain <b>Stealth</b>\nthis round (50% chance)"
   },
   {
     "Id": "C_HOBBITCLOAK_TITLE",
-    "Text": "Hobbit Cloak",
-    "Text_CN": "霍比特披风",
-    "Text_FR": "Manteau de Hobbit"
+    "Text": "Hobbit Cloak"
   },
   {
     "Id": "C_HOUSESOFHEALING_FLAVOR",
@@ -6313,75 +6193,51 @@
   },
   {
     "Id": "C_HUNTED_FLAVOR",
-    "Text": "Another long screech rose and fell, and he threw himself back again from the wall, panting like a hunted animal.\n—<i>The Return of the King</i>",
-    "Text_CN": "Another long screech rose and fell, and he threw himself back again from the wall, panting like a hunted animal.\n—<i>The Return of the King</i>",
-    "Text_FR": "Another long screech rose and fell, and he threw himself back again from the wall, panting like a hunted animal.\n—<i>The Return of the King</i>"
+    "Text": "Another long screech rose and fell, and he threw himself back again from the wall, panting like a hunted animal.\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_HUNTED_TEXT",
-    "Text": "<b>Choose</b>: Gain +1 Threat for\n each Ally; or discard an Ally",
-    "Text_CN": "选择：麾下每名盟友增加1点威胁值，或者弃置麾下一名盟友。",
-    "Text_FR": "Choix : niveau de Menace +1 pour chaque allié contrôlé, ou défaussez un allié sous votre contrôle."
+    "Text": "<line-height=100%><b>Choose:</b> Gain +1 <size=120%><sprite=4></size> for \neach Ally; or discard an Ally"
   },
   {
     "Id": "C_HUNTED_TITLE",
-    "Text": "Hunted",
-    "Text_CN": "狩猎",
-    "Text_FR": "Traqué"
+    "Text": "Hunted"
   },
   {
     "Id": "C_IMLADRISCAREGIVER_FLAVOR",
-    "Text": "\"You are in Rivendell, and you need not worry about anything for the present.\"\n—Gandalf, <i>The Fellowship of the Ring</i>",
-    "Text_CN": "\"You are in Rivendell, and you need not worry about anything for the present.\"\n—Gandalf, <i>The Fellowship of the Ring</i>",
-    "Text_FR": "\"You are in Rivendell, and you need not worry about anything for the present.\"\n—Gandalf, <i>The Fellowship of the Ring</i>"
+    "Text": "\"You are in Rivendell, and you need not worry about anything for the present.\"\n—Gandalf, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_IMLADRISCAREGIVER_TEXT",
-    "Text": "<b>Arrival</b>: Restore 2 Health\nto a Character",
-    "Text_CN": "登场：为一位人物治愈2点伤害。",
-    "Text_FR": "Arrivée : soignez 2 points de dégâts d'un personnage."
+    "Text": "<line-height=100%><b>Arrival</b>: Restore 2 <size=120%><sprite=2></size>\nto a Character"
   },
   {
     "Id": "C_IMLADRISCAREGIVER_TITLE",
-    "Text": "Imladris Caregiver",
-    "Text_CN": "伊姆拉崔医师",
-    "Text_FR": "Guérisseuse d’Imladris"
+    "Text": "Imladris Caregiver"
   },
   {
     "Id": "C_INVESTIGATESMOKE_FLAVOR",
-    "Text": "Far behind them a dark smoke rose in thin curling threads.\n—<i>The Two Towers</i>",
-    "Text_CN": "Far behind them a dark smoke rose in thin curling threads.\n—<i>The Two Towers</i>",
-    "Text_FR": "Far behind them a dark smoke rose in thin curling threads.\n—<i>The Two Towers</i>"
+    "Text": "Far behind them a dark smoke rose in thin curling threads.\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_INVESTIGATESMOKE_TEXT",
-    "Text": "Travel immediately to\n<i>Abandoned Village</i>",
-    "Text_CN": "结算：立刻前往废弃村庄。",
-    "Text_FR": "Résolution : voyagez immédiatement jusqu'au Village abandonné."
+    "Text": "You may travel to\n <i>Abandoned Village</i>"
   },
   {
     "Id": "C_INVESTIGATESMOKE_TITLE",
-    "Text": "Investigate Smoke",
-    "Text_CN": "调查烟雾",
-    "Text_FR": "Enquêter sur la fumée"
+    "Text": "Investigate Smoke"
   },
   {
     "Id": "C_ITHILIENARCHER_FLAVOR",
-    "Text": "C_ITHILIENARCHER_FLAVOR",
-    "Text_CN": "C_ITHILIENARCHER_FLAVOR",
-    "Text_FR": "C_ITHILIENARCHER_FLAVOR"
+    "Text": "C_ITHILIENARCHER_FLAVOR"
   },
   {
     "Id": "C_ITHILIENARCHER_TEXT",
-    "Text": "<b>Ranged</b>. Gain +1 Attack \nfor each exhausted Enemy",
-    "Text_CN": "<b>Ranged</b>. Gain +1 Attack \nfor each exhausted Enemy",
-    "Text_FR": "<b>Ranged</b>. Gain +1 Attack \nfor each exhausted Enemy"
+    "Text": "<line-height=100%><b>Ranged</b>. Gain +1 <size=120%><sprite=0></size> \nfor each exhausted Enemy"
   },
   {
     "Id": "C_ITHILIENARCHER_TITLE",
-    "Text": "Ithilien Archer",
-    "Text_CN": "0",
-    "Text_FR": "Ithilien Archer"
+    "Text": "Ithilien Archer"
   },
   {
     "Id": "C_ITHILIENLOOKOUT_FLAVOR",
@@ -6407,7 +6263,7 @@
   },
   {
     "Id": "C_KINGSFOIL_TEXT",
-    "Text": "Restore 2 Health\nto all Characters"
+    "Text": "<line-height=100%>Restore 2 <size=120%><sprite=2></size> to all\nfriendly Characters"
   },
   {
     "Id": "C_KINGSFOIL_TITLE",
@@ -6451,21 +6307,15 @@
   },
   {
     "Id": "C_LEGACYBLADE_FLAVOR",
-    "Text": "…glad would he have been to know its fate who wrought it slowly long ago in the North-kingdom when the Dúnedain were young… \n—<i>The Return of the King</i>",
-    "Text_CN": "…glad would he have been to know its fate who wrought it slowly long ago in the North-kingdom when the Dúnedain were young… \n<i>—The Return of the King</i>",
-    "Text_FR": "…glad would he have been to know its fate who wrought it slowly long ago in the North-kingdom when the Dúnedain were young… \n<i>—The Return of the King</i>"
+    "Text": "…glad would he have been to know its fate who wrought it slowly long ago in the North-kingdom when the Dúnedain were young… \n<i>–The Return of the King</i>"
   },
   {
     "Id": "C_LEGACYBLADE_TEXT",
-    "Text": "Gain +1 Attack for each Resource in your pool (limit +3)",
-    "Text_CN": "装备：玩家每有1点资源则攻击+1（至多攻击+3）。",
-    "Text_FR": "Attacher : gagnez +1 en Attaque pour chaque ressource dans votre réserve (limite de +3 en Attaque)."
+    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=0></size> for each <size=120%><sprite=3></size> in your pool (limit +3)"
   },
   {
     "Id": "C_LEGACYBLADE_TITLE",
-    "Text": "Legacy Blade",
-    "Text_CN": "遗赠之剑",
-    "Text_FR": "Lame d'héritage"
+    "Text": "Legacy Blade"
   },
   {
     "Id": "C_LEGOLAS_FLAVOR",
@@ -6487,39 +6337,27 @@
   },
   {
     "Id": "C_LEMBAS_FLAVOR",
-    "Text": "\"…it is more strengthing than any food made by Men, and it is more pleasant than cram, by all accounts. \n—Lórien Elf, <i>The Fellowship of the Ring</i>",
-    "Text_CN": "\"…it is more strengthing than any food made by Men, and it is more pleasant than cram, by all accounts. \n—Lórien Elf, <i>The Fellowship of the Ring</i>",
-    "Text_FR": "\"…it is more strengthing than any food made by Men, and it is more pleasant than cram, by all accounts. \n—Lórien Elf, <i>The Fellowship of the Ring</i>"
+    "Text": "\"…it is more strengthing than any food made by Men, and it is more pleasant than cram, by all accounts. \n–Lórien Elf, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_LEMBAS_TEXT",
-    "Text": "Restore 2 Health to a Character and ready them",
-    "Text_CN": "Restore 2 Health to a Character and ready them",
-    "Text_FR": "Restore 2 Health to a Character and ready them"
+    "Text": "<line-height=100%>Restore 2 <size=120%><sprite=2></size> to a Character \nand ready them"
   },
   {
     "Id": "C_LEMBAS_TITLE",
-    "Text": "Lembas",
-    "Text_CN": "兰巴斯",
-    "Text_FR": "Lembas"
+    "Text": "Lembas"
   },
   {
     "Id": "C_LONGBEARDMAPMAKER_FLAVOR",
-    "Text": "“Durin, Durin!” said Thorin. “He was the father of the fathers of the eldest race of Dwarves, the Longbeards, and my first ancestor: I am his heir.”\n—<i>The Hobbit</i>",
-    "Text_CN": "“Durin, Durin!” said Thorin. “He was the father of the fathers of the eldest race of Dwarves, the Longbeards, and my first ancestor: I am his heir.”\n—<i>The Hobbit</i>",
-    "Text_FR": "“Durin, Durin!” said Thorin. “He was the father of the fathers of the eldest race of Dwarves, the Longbeards, and my first ancestor: I am his heir.”\n—<i>The Hobbit</i>"
+    "Text": "“Durin, Durin!” said Thorin. “He was the father of the fathers of the eldest race of Dwarves, the Longbeards, and my first ancestor: I am his heir.”\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_LONGBEARDMAPMAKER_TEXT",
-    "Text": "<b>Power</b>: Gain +1 Willpower\nthis round (cost 1)",
-    "Text_CN": "<b>Power</b>: Gain +1 Willpower\nthis round (cost 1)",
-    "Text_FR": "<b>Power</b>: Gain +1 Willpower\nthis round (cost 1)"
+    "Text": "<line-height=100%><b>Power</b>: Gain +1 <size=120%><sprite=5></size>\nthis round (cost 1 <size=120%><sprite=3></size>)"
   },
   {
     "Id": "C_LONGBEARDMAPMAKER_TITLE",
-    "Text": "Longbeard Mapmaker",
-    "Text_CN": "Longbeard Mapmaker",
-    "Text_FR": "Longbeard Mapmaker"
+    "Text": "Longbeard Mapmaker"
   },
   {
     "Id": "C_LORIENSWEALTH_FLAVOR",
@@ -6577,39 +6415,27 @@
   },
   {
     "Id": "C_LOWONSUPPLIES_FLAVOR",
-    "Text": "There they sat and made such a meal as they could.\n—<i>The Return of the King</i>",
-    "Text_CN": "There they sat and made such a meal as they could.\n—<i>The Return of the King</i>",
-    "Text_FR": "There they sat and made such a meal as they could.\n—<i>The Return of the King</i>"
+    "Text": "There they sat and made such a meal as they could.\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_LOWONSUPPLIES_TEXT",
-    "Text": "Gain +1 Threat each time\nyou play a card",
-    "Text_CN": "强制：当玩家打出卡牌后，此玩家的威胁值增加1点。",
-    "Text_FR": "Forcé : lorsqu'un joueur joue une carte, son niveau de Menace augmente de 1."
+    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=4></size> each time\nyou play a card"
   },
   {
     "Id": "C_LOWONSUPPLIES_TITLE",
-    "Text": "Low on Supplies",
-    "Text_CN": "补给不足",
-    "Text_FR": "Minces réserves"
+    "Text": "Low on Supplies"
   },
   {
     "Id": "C_MABLUNG_FLAVOR",
-    "Text": "But the Captains of the West were well warned by their scouts, skilled men from Henneth Annûn led by Mablung… \n—<i>The Return of the King</i>",
-    "Text_CN": "But the Captains of the West were well warned by their scouts, skilled men from Henneth Annûn led by Mablung… \n<i>—The Return of the King</i>",
-    "Text_FR": "But the Captains of the West were well warned by their scouts, skilled men from Henneth Annûn led by Mablung… \n<i>—The Return of the King</i>"
+    "Text": "But the Captains of the West were well warned by their scouts, skilled men from Henneth Annûn led by Mablung… \n<i>—The Return of the King</i>"
   },
   {
     "Id": "C_MABLUNG_TEXT",
-    "Text": "<b>Ranged</b>. <b>Arrival</b>: Exhaust a\nnon-unique Enemy",
-    "Text_CN": "远程。登场：令一名不唯一的敌人立刻进入行动完毕状态。",
-    "Text_FR": "À distance. Arrivée : épuisez un ennemi non-unique."
+    "Text": "<b>Ranged</b>. <b>Arrival</b>: Exhaust a \nnon-unique Enemy"
   },
   {
     "Id": "C_MABLUNG_TITLE",
-    "Text": "‰Mablung",
-    "Text_CN": "‰Mablung   ",
-    "Text_FR": "‰Mablung   "
+    "Text": "‰Mablung   "
   },
   {
     "Id": "C_MANOFDALE_FLAVOR",
@@ -6649,21 +6475,15 @@
   },
   {
     "Id": "C_MIRKWOODFLOCK_FLAVOR",
-    "Text": "Flocks of birds, flying at great speed, were wheeling and circling, and traversing all the land as if they were searching for something; and they were steadily drawing nearer.\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": "Flocks of birds, flying at great speed, were wheeling and circling, and traversing all the land as if they were searching for something; and they were steadily drawing nearer.\n—<i>The Fellowship of the Ring</i>",
-    "Text_FR": "Flocks of birds, flying at great speed, were wheeling and circling, and traversing all the land as if they were searching for something; and they were steadily drawing nearer.\n—<i>The Fellowship of the Ring</i>"
+    "Text": "Flocks of birds, flying at great speed, were wheeling and circling, and traversing all the land as if they were searching for something; and they were steadily drawing nearer.\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_MIRKWOODFLOCK_TEXT",
-    "Text": "<b>Revenge</b>: Sauron gains \n+1 Resource",
-    "Text_CN": "<b>Revenge</b>: Sauron gains \n+1 Resource",
-    "Text_FR": "<b>Revenge</b>: Sauron gains \n+1 Resource"
+    "Text": "<b>Revenge:</b> Sauron gains +1 <size=120%><sprite=2></size>"
   },
   {
     "Id": "C_MIRKWOODFLOCK_TITLE",
-    "Text": "Mirkwood Flock",
-    "Text_CN": "幽暗密林兽群",
-    "Text_FR": "Nuée de la Forêt Noire"
+    "Text": "Mirkwood Flock"
   },
   {
     "Id": "C_MIRKWOODPATROL_FLAVOR",
@@ -6721,21 +6541,15 @@
   },
   {
     "Id": "C_MUCKADDER_FLAVOR",
-    "Text": "…the stream gurgled and fell down into a brown bog and was lost. Dry reeds hissed and rattled though they could feel no wind.\n—<i>The Two Towers</i>",
-    "Text_CN": "…the stream gurgled and fell down into a brown bog and was lost. Dry reeds hissed and rattled though they could feel no wind.\n—<i>The Two Towers</i>",
-    "Text_FR": "…the stream gurgled and fell down into a brown bog and was lost. Dry reeds hissed and rattled though they could feel no wind.\n—<i>The Two Towers</i>"
+    "Text": "…the stream gurgled and fell down into a brown bog and was lost. Dry reeds hissed and rattled though they could feel no wind.\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_MUCKADDER_TEXT",
-    "Text": "<b>Ambush</b>. <i>Muck Adder</i> attacks\n the Character with the lowest current Health\n",
-    "Text_CN": "先攻。淤泥蝰蛇会攻击玩家手中当前生命值最低的人物。",
-    "Text_FR": "Initiative. La Vipère de fange attaque le personnage avec le moins de points de vie."
+    "Text": "<line-height=100%><b>Ambush</b>. <i>Muck Adder</i> \nattacks the Character with \nthe lowest current <size=120%><sprite=2></size>"
   },
   {
     "Id": "C_MUCKADDER_TITLE",
-    "Text": "Muck Adder",
-    "Text_CN": "淤泥蝰蛇",
-    "Text_FR": "Vipère de fange"
+    "Text": "Muck Adder"
   },
   {
     "Id": "C_NAVIGATETHERIVER_FLAVOR",
@@ -6769,21 +6583,15 @@
   },
   {
     "Id": "C_ORCHOUND_FLAVOR",
-    "Text": "\"Listen, Hound of Sauron!\" he cried. \"Gandalf is here. Fly, if you value your foul skin! I will shrivel you from tail to snout, if you come within this ring.\"\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": "\"Listen, Hound of Sauron!\" he cried. \"Gandalf is here. Fly, if you value your foul skin! I will shrivel you from tail to snout, if you come within this ring.\"\n—<i>The Fellowship of the Ring</i>",
-    "Text_FR": "\"Listen, Hound of Sauron!\" he cried. \"Gandalf is here. Fly, if you value your foul skin! I will shrivel you from tail to snout, if you come within this ring.\"\n—<i>The Fellowship of the Ring</i>"
+    "Text": "\"Listen, Hound of Sauron!\" he cried. \"Gandalf is here. Fly, if you value your foul skin! I will shrivel you from tail to snout, if you come within this ring.\"\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_ORCHOUND_TEXT",
-    "Text": "<b>Pursuit</b>. Each Orc gains <b>Pursuit</b>",
-    "Text_CN": "追逐。所有兽人获得关键词『追逐』。",
-    "Text_FR": "Poursuite. Chaque orque gagne Poursuite."
+    "Text": "<b>Pursuit.</b> All Orcs gain <b>Pursuit</b>"
   },
   {
     "Id": "C_ORCHOUND_TITLE",
-    "Text": "Orc Hound",
-    "Text_CN": "兽人猎犬",
-    "Text_FR": "Limier orque"
+    "Text": "Orc Hound"
   },
   {
     "Id": "C_ORCMARAUDER_FLAVOR",
@@ -6791,7 +6599,7 @@
   },
   {
     "Id": "C_ORCMARAUDER_TEXT",
-    "Text": "When <i>Orc Marauder</i> attacks, Sauron gains +1 Resource"
+    "Text": "<line-height=100%>When <i>Orc Marauder</i> attacks, Sauron gains +1 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_ORCMARAUDER_TITLE",
@@ -6799,21 +6607,15 @@
   },
   {
     "Id": "C_PACKOFWARGS_FLAVOR",
-    "Text": "Without warning a storm of howls broke out fierce and wild all about the camp. A great host of Wargs had gathered silently and was now attacking them from every side at once.\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": "Without warning a storm of howls broke out fierce and wild all about the camp. A great host of Wargs had gathered silently and was now attacking them from every side at once.\n—<i>The Fellowship of the Ring</i>",
-    "Text_FR": "Without warning a storm of howls broke out fierce and wild all about the camp. A great host of Wargs had gathered silently and was now attacking them from every side at once.\n—<i>The Fellowship of the Ring</i>"
+    "Text": "Without warning a storm of howls broke out fierce and wild all about the camp. A great host of Wargs had gathered silently and was now attacking them from every side at once.\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_PACKOFWARGS_TEXT",
-    "Text": "<b>Pursuit</b>. <b>Upkeep</b>: <i>Pack of Wargs</i> gains +1 Health",
-    "Text_CN": "追逐。休整：座狼群生命+1。",
-    "Text_FR": "Poursuite. Entretien : la Meute de wargs gagne +1 point de vie."
+    "Text": "<line-height=100%><b>Pursuit. Upkeep:</b> <i>Pack of Wargs</i> gains +1 <size=120%><sprite=2></size>"
   },
   {
     "Id": "C_PACKOFWARGS_TITLE",
-    "Text": "Pack of Wargs",
-    "Text_CN": "座狼群",
-    "Text_FR": "Meute de wargs"
+    "Text": "Pack of Wargs"
   },
   {
     "Id": "C_PARTINGGIFTS_FLAVOR",
@@ -6871,21 +6673,15 @@
   },
   {
     "Id": "C_PURSUITONTHESHORE_FLAVOR",
-    "Text": "\"Our peril will be greatest just ere we reach the river,\" said Glorfindel; \"for my heart warns me that the pursuit is now swift behind us, and other danger may be waiting by the Ford.\"\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": "\"Our peril will be greatest just ere we reach the river,\" said Glorfindel; \"for my heart warns me that the pursuit is now swift behind us, and other danger may be waiting by the Ford.\"\n—<i>The Fellowship of the Ring</i>",
-    "Text_FR": "\"Our peril will be greatest just ere we reach the river,\" said Glorfindel; \"for my heart warns me that the pursuit is now swift behind us, and other danger may be waiting by the Ford.\"\n—<i>The Fellowship of the Ring</i>"
+    "Text": "\"Our peril will be greatest just ere we reach the river,\" said Glorfindel; \"for my heart warns me that the pursuit is now swift behind us, and other danger may be waiting by the Ford.\"\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_PURSUITONTHESHORE_TEXT",
-    "Text": "Deal 1 damage to a random Character. Repeat for each \nEnemy (limit 3)",
-    "Text_CN": "对游戏中的一位随机玩家的人物造成1点伤害。场上每有1名敌人，则此效果重复一次。",
-    "Text_FR": "Infligez 1 point de dégâts à personnage de joueur aléatoire en jeu. Répétez cet effet pour chaque ennemi en jeu."
+    "Text": "Deal 1 damage to a random Character. Repeat for each \nEnemy in play (limit 3)"
   },
   {
     "Id": "C_PURSUITONTHESHORE_TITLE",
-    "Text": "Pursuit on the Shore",
-    "Text_CN": "岸上的追逐",
-    "Text_FR": "Poursuite sur les berges"
+    "Text": "Pursuit on the Shore"
   },
   {
     "Id": "C_QUICKERTHANSIGHT_FLAVOR",
@@ -6907,39 +6703,27 @@
   },
   {
     "Id": "C_QUICKSTRIKE_FLAVOR",
-    "Text": "\"…for he that strikes the first blow, if he strikes it hard enough, may need to strike no more.\" \n—Gandalf, <i>The Two Towers</i>",
-    "Text_CN": "\"…for he that strikes the first blow, if he strikes it hard enough, may need to strike no more.\" \n—Gandalf, <i>The Two Towers</i>",
-    "Text_FR": "\"…for he that strikes the first blow, if he strikes it hard enough, may need to strike no more.\" \n—Gandalf, <i>The Two Towers</i>"
+    "Text": "\"…for he that strikes the first blow, if he strikes it hard enough, may need to strike no more.\" \n—Gandalf, <i>The Two Towers</i>"
   },
   {
     "Id": "C_QUICKSTRIKE_TEXT",
-    "Text": "Gain <b>Ambush</b> on your next attack",
-    "Text_CN": "Gain <b>Ambush</b> on your next attack",
-    "Text_FR": "Gain <b>Ambush</b> on your next attack"
+    "Text": "<line-height=100%>Deal damage to an Enemy \nequal to the selected \nCharacter's <size=120%><sprite=0></size> value"
   },
   {
     "Id": "C_QUICKSTRIKE_TITLE",
-    "Text": "Quick Strike",
-    "Text_CN": "速击",
-    "Text_FR": "Coup rapide"
+    "Text": "Quick Strike"
   },
   {
     "Id": "C_RAIMENTOFWAR_FLAVOR",
-    "Text": "Now men came bearing raiment of war from the king's hoard… \n—<i>The Two Towers</i>",
-    "Text_CN": "Now men came bearing raiment of war from the king's hoard… \n<i>—The Two Towers</i>",
-    "Text_FR": "Now men came bearing raiment of war from the king's hoard… \n<i>—The Two Towers</i>"
+    "Text": "Now men came bearing raiment of war from the king's hoard… \n<i>–The Two Towers</i>"
   },
   {
     "Id": "C_RAIMENTOFWAR_TEXT",
-    "Text": "Gain +1 Attack, +2 Health, \nand <b>Block</b>",
-    "Text_CN": "Gain +1 Attack, +2 Health, \nand <b>Block</b>",
-    "Text_FR": "Gain +1 Attack, +2 Health, \nand <b>Block</b>"
+    "Text": "Gain +1 <size=120%><sprite=0></size>, +2 <size=120%><sprite=2></size>, and <b>Block</b>"
   },
   {
     "Id": "C_RAIMENTOFWAR_TITLE",
-    "Text": "Raiment of War",
-    "Text_CN": "战袍",
-    "Text_FR": "Équipement de guerre"
+    "Text": "Raiment of War"
   },
   {
     "Id": "C_RAINOFARROWS_FLAVOR",
@@ -6965,7 +6749,7 @@
   },
   {
     "Id": "C_RANGERPROVISIONS_TEXT",
-    "Text": "Gain +1 Resource"
+    "Text": "Gain +1 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_RANGERPROVISIONS_TITLE",
@@ -6973,21 +6757,15 @@
   },
   {
     "Id": "C_RANGERSBLADE_FLAVOR",
-    "Text": "The Bree-folk called them Rangers, and knew nothing of their origin. They… were believed to have strange powers of sight and hearing, and to understand the languages of beasts and birds.\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": "The Bree-folk called them Rangers, and knew nothing of their origin. They… were believed to have strange powers of sight and hearing, and to understand the languages of beasts and birds.\n—<i>The Fellowship of the Ring</i>",
-    "Text_FR": "The Bree-folk called them Rangers, and knew nothing of their origin. They… were believed to have strange powers of sight and hearing, and to understand the languages of beasts and birds.\n—<i>The Fellowship of the Ring</i>"
+    "Text": "The Bree-folk called them Rangers, and knew nothing of their origin. They… were believed to have strange powers of sight and hearing, and to understand the languages of beasts and birds.\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_RANGERSBLADE_TEXT",
-    "Text": "Deal +1 damage\nwhen attacking",
-    "Text_CN": "Deal +1 damage\nwhen attacking",
-    "Text_FR": "Deal +1 damage\nwhen attacking"
+    "Text": "Gain +1 <size=120%><sprite=0></size>"
   },
   {
     "Id": "C_RANGERSBLADE_TITLE",
-    "Text": "Ranger's Blade",
-    "Text_CN": "Ranger's Blade",
-    "Text_FR": "Ranger's Blade"
+    "Text": "Ranger's Blade"
   },
   {
     "Id": "C_RANGERSPEAR_FLAVOR",
@@ -6995,7 +6773,7 @@
   },
   {
     "Id": "C_RANGERSPEAR_TEXT",
-    "Text": "<b>Block</b>. Gain +1 Attack"
+    "Text": "Gain +1 <size=120%><sprite=0></size> and <b>Block</b>"
   },
   {
     "Id": "C_RANGERSPEAR_TITLE",
@@ -7039,39 +6817,27 @@
   },
   {
     "Id": "C_RESCUEGRIMBEORN_FLAVOR",
-    "Text": "\"A fine hunt you have led us! Two hundred leagues, through fen and forest, battle and death, to rescue you!\" \n—Gimli, <i>The Two Towers</i>",
-    "Text_CN": "A nice pickle they were all in now. \n—<i>The Hobbit</i>",
-    "Text_FR": "A nice pickle they were all in now. \n—<i>The Hobbit</i>"
+    "Text": "\"A fine hunt you have led us! Two hundred leagues through fen and forest battle and death to rescue you!\" \n—Gimli <i>The Two Towers</i>"
   },
   {
     "Id": "C_RESCUEGRIMBEORN_TEXT",
-    "Text": "You release <i>Grimbeorn</i>\nand travel immediately to\nthe next Location",
-    "Text_CN": "结算：可操控郁比翁，并立刻前往卡尔岩。",
-    "Text_FR": "Résolution : prenez le contrôle de Grimbeorn et voyagez immédiatement vers le Carrock."
+    "Text": "You release <i>Grimbeorn</i>\nand may travel to the next Location"
   },
   {
     "Id": "C_RESCUEGRIMBEORN_TITLE",
-    "Text": "Rescue Grimbeorn",
-    "Text_CN": "救出郁比翁",
-    "Text_FR": "Sauver Grimbeorn"
+    "Text": "Rescue Grimbeorn"
   },
   {
     "Id": "C_RESCUETHEHORSES_FLAVOR",
-    "Text": "Then, one of the ponies took fright at nothing and bolted. \n—<i>The Hobbit</i>",
-    "Text_CN": "Then, one of the ponies took fright at nothing and bolted. \n—<i>The Hobbit</i>",
-    "Text_FR": "Then, one of the ponies took fright at nothing and bolted. \n—<i>The Hobbit</i>"
+    "Text": "Then, one of the ponies took fright at nothing and bolted. \n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_RESCUETHEHORSES_TEXT",
-    "Text": "Each player gains +2 Resources",
-    "Text_CN": "结算：每名玩家获得2点资源。",
-    "Text_FR": "Résolution : chaque joueur gagne 2 ressources."
+    "Text": "Each player gains +2 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_RESCUETHEHORSES_TITLE",
-    "Text": "Rescue the Horses",
-    "Text_CN": "救出马匹",
-    "Text_FR": "Sauver les chevaux"
+    "Text": "Rescue the Horses"
   },
   {
     "Id": "C_RESCUEYOURFRIENDS_FLAVOR",
@@ -7097,7 +6863,7 @@
   },
   {
     "Id": "C_RHOVANIONOUTRIDER_TEXT",
-    "Text": "Gain +1 Willpower this round when engaging an Objective at full Quest value"
+    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=5></size> this round when engaging an Objective with a full Quest value"
   },
   {
     "Id": "C_RHOVANIONOUTRIDER_TITLE",
@@ -7153,21 +6919,15 @@
   },
   {
     "Id": "C_ROCKS_FLAVOR",
-    "Text": "…the shores grew rocky, the river gathered all its wandering waters together into a deep and rapid flood, and they swept along at great speed.\n—<i>The Hobbit</i>",
-    "Text_CN": "C_ROCKS_FLAVOR",
-    "Text_FR": "C_ROCKS_FLAVOR"
+    "Text": "…the shores grew rocky the river gathered all its wandering waters together into a deep and rapid flood and they swept along at great speed.\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_ROCKS_TEXT",
-    "Text": "End of round: Gain +2 Threat",
-    "Text_CN": "End of round: Gain +2 Threat",
-    "Text_FR": "End of round: Gain +2 Threat"
+    "Text": "End of round: Gain +2 <size=120%><sprite=4></size>"
   },
   {
     "Id": "C_ROCKS_TITLE",
-    "Text": "Rocks!",
-    "Text_CN": "Rocks!",
-    "Text_FR": "Rocks!"
+    "Text": "Rocks!"
   },
   {
     "Id": "C_ROHIRRIMLANCER_FLAVOR",
@@ -7201,21 +6961,15 @@
   },
   {
     "Id": "C_RUPERT_FLAVOR",
-    "Text": "Trolls simply detest the very sight of dwarves (uncooked).\n—<i>The Hobbit</i>",
-    "Text_CN": "Trolls simply detest the very sight of dwarves (uncooked).\n—<i>The Hobbit</i>",
-    "Text_FR": "Trolls simply detest the very sight of dwarves (uncooked).\n—<i>The Hobbit</i>"
+    "Text": "Trolls simply detest the very sight of dwarves (uncooked).\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_RUPERT_TEXT",
-    "Text": "<b>Counter</b>. <b>Fleeting</b>. \nEach Troll gains +1 Attack",
-    "Text_CN": "<b>Counter</b>. <b>Fleeting</b>. \nEach Troll gains +1 Attack",
-    "Text_FR": "<b>Counter</b>. <b>Fleeting</b>. \nEach Troll gains +1 Attack"
+    "Text": "<line-height=100%><b>Counter</b>. <b>Fleeting</b>. \nAll Trolls gain +1 <size=120%><sprite=0></size>"
   },
   {
     "Id": "C_RUPERT_TITLE",
-    "Text": "‰Rupert",
-    "Text_CN": "‰鲁伯特",
-    "Text_FR": "‰Rupert"
+    "Text": "‰Rupert"
   },
   {
     "Id": "C_SACKED_FLAVOR",
@@ -7237,39 +6991,27 @@
   },
   {
     "Id": "C_SAMGAMGEE_FLAVOR",
-    "Text": "\"I'm going with him… and if any of those Black Riders try to stop him, they'll have Sam Gamgee to reckon with.\" \n—Sam Gamgee, <i>The Fellowship of the Ring</i>",
-    "Text_CN": "\"I'm going with him… and if any of those Black Riders try to stop him, they'll have Sam Gamgee to reckon with.\" \n—Sam Gamgee, <i>The Fellowship of the Ring</i>",
-    "Text_FR": "\"I'm going with him… and if any of those Black Riders try to stop him, they'll have Sam Gamgee to reckon with.\" \n—Sam Gamgee, <i>The Fellowship of the Ring</i>"
+    "Text": "\"I'm going with him… and if any of those Black Riders try to stop him, they'll have Sam Gamgee to reckon with.\" \n—Sam Gamgee, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_SAMGAMGEE_TEXT",
-    "Text": "<b>Ambush</b>. \nWhile Sauron has 0 Resources: <b>Stalwart</b> and Gain +1 Attack",
-    "Text_CN": "<b>Ambush</b>. \nWhile Sauron has 0 Resources: <b>Stalwart</b> and Gain +1 Attack",
-    "Text_FR": "<b>Ambush</b>. \nWhile Sauron has 0 Resources: <b>Stalwart</b> and Gain +1 Attack"
+    "Text": "<line-height=100%><b>Ambush</b>. Gain +1 <size=120%><sprite=0></size> and <b>Stalwart</b> while Sauron has 0 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_SAMGAMGEE_TITLE",
-    "Text": "‰Sam Gamgee ",
-    "Text_CN": "‰Sam Gamgee ",
-    "Text_FR": "‰Sam Gamgee "
+    "Text": "‰Sam Gamgee "
   },
   {
     "Id": "C_SEARCHFORAPATH_FLAVOR",
-    "Text": "Aragorn was searching, bent towards the ground, among the folds and gullies leading up into the western ridge.\n—<i>The Two Towers</i>",
-    "Text_CN": "Aragorn was searching, bent towards the ground, among the folds and gullies leading up into the western ridge.\n—<i>The Two Towers</i>",
-    "Text_FR": "Aragorn was searching, bent towards the ground, among the folds and gullies leading up into the western ridge.\n—<i>The Two Towers</i>"
+    "Text": "Aragorn was searching, bent towards the ground, among the folds and gullies leading up into the western ridge.\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_SEARCHFORAPATH_TEXT",
-    "Text": "Travel immediately to\n<i>Overgrown Trail</i>",
-    "Text_CN": "结算：立刻前往林蔓小径。",
-    "Text_FR": "Résolution : voyagez immédiatement jusqu'au Sentier abandonné."
+    "Text": "You may travel to\n<i>Overgrown Trail</i>"
   },
   {
     "Id": "C_SEARCHFORAPATH_TITLE",
-    "Text": "Search for a Path",
-    "Text_CN": "寻找道路",
-    "Text_FR": "Chercher un chemin"
+    "Text": "Search for a Path"
   },
   {
     "Id": "C_SEARCHTHEAREA_TEXT",
@@ -7303,39 +7045,27 @@
   },
   {
     "Id": "C_SELFPRESERVATION_FLAVOR",
-    "Text": "…how much more of this would they have to endure, or could they endure?\n—<i>The Two Towers</i>",
-    "Text_CN": "…how much more of this would they have to endure, or could they endure?\n<i>—The Two Towers</i>",
-    "Text_FR": "…how much more of this would they have to endure, or could they endure?\n<i>—The Two Towers</i>"
+    "Text": "…how much more of this would they have to endure, or could they endure?\n<i>—The Two Towers</i>"
   },
   {
     "Id": "C_SELFPRESERVATION_TEXT",
-    "Text": "<b>Upkeep</b>: Restore 1 Health",
-    "Text_CN": "休整：为一位人物治愈1点伤害。",
-    "Text_FR": "Entretien : soignez 1 point de dégâts d'un personnage."
+    "Text": "<b>Upkeep</b>: Restore 1 <size=120%><sprite=2></size>"
   },
   {
     "Id": "C_SELFPRESERVATION_TITLE",
-    "Text": "Self-Preservation",
-    "Text_CN": "自护防身",
-    "Text_FR": "Instinct de survie"
+    "Text": "Self-Preservation"
   },
   {
     "Id": "C_SHIELDOFROHAN_FLAVOR",
-    "Text": "A sword was in her hand, and she raised her shield against the horror of her enemy's eyes. \n—<i>The Return of the King</i>",
-    "Text_CN": "A sword was in her hand, and she raised her shield against the horror of her enemy's eyes. \n—<i>The Return of the King</i>",
-    "Text_FR": "A sword was in her hand, and she raised her shield against the horror of her enemy's eyes. \n—<i>The Return of the King</i>"
+    "Text": "A sword was in her hand, and she raised her shield against the horror of her enemy's eyes. \n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_SHIELDOFROHAN_TEXT",
-    "Text": "Gain +2 Health and <b>Ambush</b>",
-    "Text_CN": "Gain +2 Health and <b>Ambush</b>",
-    "Text_FR": "Gain +2 Health and <b>Ambush</b>"
+    "Text": "Gain +2 <size=120%><sprite=2></size> and <b>Ambush</b>"
   },
   {
     "Id": "C_SHIELDOFROHAN_TITLE",
-    "Text": "Shield of Rohan",
-    "Text_CN": "洛汗之盾",
-    "Text_FR": "Bouclier du Rohan"
+    "Text": "Shield of Rohan"
   },
   {
     "Id": "C_SILVANTRACKER_FLAVOR",
@@ -7379,7 +7109,7 @@
   },
   {
     "Id": "C_SPEARWALL_TEXT",
-    "Text": "All Enemies have their attack reduced by 2 (limit 0) until the end of the round."
+    "Text": "<line-height=100%>All Enemies lose 2 <size=120%><sprite=0></size> this round (minimum 0)"
   },
   {
     "Id": "C_SPEARWALL_TITLE",
@@ -7399,33 +7129,23 @@
   },
   {
     "Id": "C_SPIDERQUEEN_TEXT",
-    "Text": "n/a",
-    "Text_CN": "n/a",
-    "Text_FR": "n/a"
+    "Text": "<line-height=100%><b>Arrival</b>: Gain +1 <size=120%><sprite=4></size>; and \nadd 1 <i>Hatchling Spider</i>"
   },
   {
     "Id": "C_SPIDERQUEEN_TITLE",
-    "Text": "Spider Queen",
-    "Text_CN": "0",
-    "Text_FR": "Spider Queen"
+    "Text": "Mirkwood Broodmother"
   },
   {
     "Id": "C_SPIDERSNEST_FLAVOR",
-    "Text": "…he noticed a place of dense black shadow ahead of him black even for that forest, like a patch of midnight that had never been cleared away. As he drew nearer, he saw that it was made by spider-webs one behind and over and tangled with another.\n—<i>The Hobbit</i>",
-    "Text_CN": "…he noticed a place of dense black shadow ahead of him black even for that forest, like a patch of midnight that had never been cleared away. As he drew nearer, he saw that it was made by spider-webs one behind and over and tangled with another.\n—<i>The Hobbit</i>",
-    "Text_FR": "…he noticed a place of dense black shadow ahead of him black even for that forest, like a patch of midnight that had never been cleared away. As he drew nearer, he saw that it was made by spider-webs one behind and over and tangled with another.\n—<i>The Hobbit</i>"
+    "Text": "…he noticed a place of dense black shadow ahead of him black even for that forest, like a patch of midnight that had never been cleared away. As he drew nearer, he saw that it was made by spider-webs one behind and over and tangled with another.\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_SPIDERSNEST_TEXT",
-    "Text": "You destroy the spiders' nest. Cannot engage while \n<i>King Spider</i> is in play",
-    "Text_CN": "You destroy the Spiders' nest. Cannot engage while \n<i>King Spider</i> is in play",
-    "Text_FR": "You destroy the Spiders' nest. Cannot engage while \n<i>King Spider</i> is in play"
+    "Text": "[Cannot engage while \n<i>King Spider</i> is in play.]\nYou destroy the spiders' nest!"
   },
   {
     "Id": "C_SPIDERSNEST_TITLE",
-    "Text": "Spiders' Nest",
-    "Text_CN": "Spiders' Nest",
-    "Text_FR": "Spiders' Nest"
+    "Text": "Spiders' Nest"
   },
   {
     "Id": "C_SPIDERSOFMIRKWOOD_FLAVOR",
@@ -7441,21 +7161,15 @@
   },
   {
     "Id": "C_SPIESOFSHADOW_FLAVOR",
-    "Text": "\"…possibly there is some trouble away south from which they are fleeing; but I think they are spying out the land.\"\n  —Gandalf, <i>The Fellowship of the Ring</i>",
-    "Text_CN": "\"…possibly there is some trouble away south from which they are fleeing; but I think they are spying out the land.\"\n  —<i>The Fellowship of the Ring</i>",
-    "Text_FR": "\"…possibly there is some trouble away south from which they are fleeing; but I think they are spying out the land.\"\n  —<i>The Fellowship of the Ring</i>"
+    "Text": "\"…possibly there is some trouble away south from which they are fleeing; but I think they are spying out the land.\"\n  —<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_SPIESOFSHADOW_TEXT",
-    "Text": "End of round: Gain +1 Threat",
-    "Text_CN": "End of round: Gain +1 Threat",
-    "Text_FR": "End of round: Gain +1 Threat"
+    "Text": "End of round: Gain +1 <size=120%><sprite=4></size>"
   },
   {
     "Id": "C_SPIESOFSHADOW_TITLE",
-    "Text": "Spies of Shadow",
-    "Text_CN": "Spies of Shadow",
-    "Text_FR": "Spies of Shadow"
+    "Text": "Spies of Shadow"
   },
   {
     "Id": "C_SPIKETRAP_FLAVOR",
@@ -7463,7 +7177,7 @@
   },
   {
     "Id": "C_SPIKETRAP_TEXT",
-    "Text": "(Non-Unique Only) <b>Upkeep</b>: Deal 1 Damage to attached Enemy each round"
+    "Text": "[Non-unique Enemy only.]\n<b>Upkeep</b>: Deal 1 damage to\nthis Enemy"
   },
   {
     "Id": "C_SPIKETRAP_TITLE",
@@ -7471,21 +7185,15 @@
   },
   {
     "Id": "C_SPOOKEDHORSES_FLAVOR",
-    "Text": "Then, one of the ponies took fright at nothing and bolted. \n—<i>The Hobbit</i>",
-    "Text_CN": "Then, one of the ponies took fright at nothing and bolted. \n—<i>The Hobbit</i>",
-    "Text_FR": "Then, one of the ponies took fright at nothing and bolted. \n—<i>The Hobbit</i>"
+    "Text": "Then, one of the ponies took fright at nothing and bolted. \n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_SPOOKEDHORSES_TEXT",
-    "Text": "Each player loses 2 Resources",
-    "Text_CN": "每名玩家失去2点资源。",
-    "Text_FR": "Chaque joueur perd 2 ressources."
+    "Text": "Each player loses 2 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_SPOOKEDHORSES_TITLE",
-    "Text": "Spooked Horses",
-    "Text_CN": "马匹受惊",
-    "Text_FR": "Chevaux effrayés"
+    "Text": "Spooked Horses"
   },
   {
     "Id": "C_SQUASHEDINTOJELLY_FLAVOR",
@@ -7555,39 +7263,27 @@
   },
   {
     "Id": "C_STERNERTHANSTEEL_FLAVOR",
-    "Text": "\"Do what you will; but I will hinder it, if I may.\"\n—Éowyn, <i>The Return of the King</i>",
-    "Text_CN": "\"Do what you will; but I will hinder it, if I may.\"\n—Éowyn, <i>The Return of the King</i>",
-    "Text_FR": "\"Do what you will; but I will hinder it, if I may.\"\n—Éowyn, <i>The Return of the King</i>"
+    "Text": "\"Do what you will; but I will hinder it, if I may.\"\n\n–Éowyn, <i>The Return of the King</i>"
   },
   {
     "Id": "C_STERNERTHANSTEEL_TEXT",
-    "Text": "Each Character gains \n+1 Willpower permanently",
-    "Text_CN": "Each Character gains \n+1 Willpower permanently",
-    "Text_FR": "Each Character gains \n+1 Willpower permanently"
+    "Text": "<line-height=100%>All friendly Characters gain \n+1 <size=120%><sprite=5></size> permanently"
   },
   {
     "Id": "C_STERNERTHANSTEEL_TITLE",
-    "Text": "Sterner than Steel",
-    "Text_CN": "坚赛钢铁",
-    "Text_FR": "Plus dur que l’acier"
+    "Text": "Sterner than Steel"
   },
   {
     "Id": "C_STUART_FLAVOR",
-    "Text": "\"Here you, are there any more of your sort a-sneakin' in these here woods, yer nassty little rabbit,\" said he looking at the hobbit's furry feet…\n—a Troll, <i>The Hobbit</i>",
-    "Text_CN": "\"Here you, are there any more of your sort a-sneakin' in these here woods, yer nassty little rabbit,\" said he looking at the hobbit's furry feet…\n—a Troll, <i>The Hobbit</i>",
-    "Text_FR": "\"Here you, are there any more of your sort a-sneakin' in these here woods, yer nassty little rabbit,\" said he looking at the hobbit's furry feet…\n—a Troll, <i>The Hobbit</i>"
+    "Text": "\"Here you, are there any more of your sort a-sneakin' in these here woods, yer nassty little rabbit,\" said he looking at the hobbit's furry feet…\n—a Troll, <i>The Hobbit</i>"
   },
   {
     "Id": "C_STUART_TEXT",
-    "Text": "<b>Counter</b>. <b>Upkeep</b>: Restore 1 Health to each Troll",
-    "Text_CN": "<b>Counter</b>. <b>Upkeep</b>: Restore 1 Health to each Troll",
-    "Text_FR": "<b>Counter</b>. <b>Upkeep</b>: Restore 1 Health to each Troll"
+    "Text": "<line-height=100%><b>Counter</b>. <b>Upkeep</b>: Restore \n1 <size=120%><sprite=2></size> to all Trolls"
   },
   {
     "Id": "C_STUART_TITLE",
-    "Text": "‰Stuart",
-    "Text_CN": "‰斯图亚特",
-    "Text_FR": "‰Stuart"
+    "Text": "‰Stuart"
   },
   {
     "Id": "C_SUDDENRIPOSTE_FLAVOR",
@@ -7609,39 +7305,27 @@
   },
   {
     "Id": "C_SWIRLINGEDDY_FLAVOR",
-    "Text": "Sam shuffled along, clutching hard, and looking down into the pale eddying water as if it was a chasm in the mountains.\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": "C_SWIRLINGEDDY_FLAVOR",
-    "Text_FR": "C_SWIRLINGEDDY_FLAVOR"
+    "Text": "C_SWIRLINGEDDY_FLAVOR"
   },
   {
     "Id": "C_SWIRLINGEDDY_TEXT",
-    "Text": "End of round: Discard a random card from each player's deck until this is resolved",
-    "Text_CN": "End of round: Discard a random card from each player's deck until this is resolved",
-    "Text_FR": "End of round: Discard a random card from each player's deck until this is resolved"
+    "Text": "End of round: Discard the top card from each player's deck"
   },
   {
     "Id": "C_SWIRLINGEDDY_TITLE",
-    "Text": "Swirling Eddy",
-    "Text_CN": "Swirling Eddy",
-    "Text_FR": "Swirling Eddy"
+    "Text": "Swirling Eddy"
   },
   {
     "Id": "C_TASTEITAGAIN_FLAVOR",
-    "Text": "\"We're going on; but we'll settle with you first. Come on, and taste it again!\" \n—Sam Gamgee, <i>The Two Towers</i>",
-    "Text_CN": "\"We're going on; but we'll settle with you first. Come on, and taste it again!\" \n—Sam Gamgee, <i>The Two Towers</i>",
-    "Text_FR": "\"We're going on; but we'll settle with you first. Come on, and taste it again!\" \n—Sam Gamgee, <i>The Two Towers</i>"
+    "Text": "\"We're going on; but we'll settle with you first. Come on, and taste it again!\" \n—Sam Gamgee, <i>The Two Towers</i>"
   },
   {
     "Id": "C_TASTEITAGAIN_TEXT",
-    "Text": "Gain <b>Ambush</b> when defending against the next attack",
-    "Text_CN": "Gain <b>Ambush</b> when defending against the next attack",
-    "Text_FR": "Gain <b>Ambush</b> when defending against the next attack"
+    "Text": "Before the next Enemy attack resolves, deal damage to the attacker equal to the defender's <size=120%><sprite=0></size> value"
   },
   {
     "Id": "C_TASTEITAGAIN_TITLE",
-    "Text": "Taste it Again!",
-    "Text_CN": "再尝一次！",
-    "Text_FR": "Viens donc en tâter !"
+    "Text": "Taste it Again!"
   },
   {
     "Id": "C_THECLOAKEDSTRANGER_FLAVOR",
@@ -7663,21 +7347,15 @@
   },
   {
     "Id": "C_THENECROMANCERSREACH_FLAVOR",
-    "Text": "There was an eye in the Dark Tower that did not sleep. He knew that it had become aware of his gaze. A fierce eager will was there. \n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": "There was an eye in the Dark Tower that did not sleep. He knew that it had become aware of his gaze. A fierce eager will was there. \n—<i>The Fellowship of the Ring</i>",
-    "Text_FR": "There was an eye in the Dark Tower that did not sleep. He knew that it had become aware of his gaze. A fierce eager will was there. \n—<i>The Fellowship of the Ring</i>"
+    "Text": "There was an eye in the Dark Tower that did not sleep. He knew that it had become aware of his gaze. A fierce eager will was there. \n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_THENECROMANCERSREACH_TEXT",
-    "Text": "Each Enemy gains +1 Attack permanently",
-    "Text_CN": "游戏中每位敌人攻击永久+1。",
-    "Text_FR": "Chaque ennemi en jeu gagne +1 en Attaque de façon permanente."
+    "Text": "<line-height=100%>All Enemies gain +1 <size=120%><sprite=0></size> permanently"
   },
   {
     "Id": "C_THENECROMANCERSREACH_TITLE",
-    "Text": "The Necromancer's Reach",
-    "Text_CN": "死灵法师的到来",
-    "Text_FR": "La portée du nécromancien"
+    "Text": "The Necromancer's Reach"
   },
   {
     "Id": "C_THETREEPEOPLE_FLAVOR",
@@ -7825,21 +7503,15 @@
   },
   {
     "Id": "C_UNDERTHESHADOW_FLAVOR",
-    "Text": "He broke off and lifted his eyes above the River, and it seemed to him that all he could see was a vast and threatening shadow.\n—<i>The Return of the King</i>",
-    "Text_CN": "He broke off and lifted his eyes above the River, and it seemed to him that all he could see was a vast and threatening shadow.\n—<i>The Return of the King</i>",
-    "Text_FR": "He broke off and lifted his eyes above the River, and it seemed to him that all he could see was a vast and threatening shadow.\n—<i>The Return of the King</i>"
+    "Text": "He broke off and lifted his eyes above the River, and it seemed to him that all he could see was a vast and threatening shadow.\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_UNDERTHESHADOW_TEXT",
-    "Text": "Gain +2 Health",
-    "Text_CN": "装备（敌人）：生命+2。",
-    "Text_FR": "Attacher (Ennemi) : gagnez +2 points de vie."
+    "Text": "Gain +2 <size=120%><sprite=2></size>"
   },
   {
     "Id": "C_UNDERTHESHADOW_TITLE",
-    "Text": "Under the Shadow",
-    "Text_CN": "阴影之下",
-    "Text_FR": "Sous l’ombre"
+    "Text": "Under the Shadow"
   },
   {
     "Id": "C_UNDERTHEWATCHFULEYE_FLAVOR",
@@ -7873,39 +7545,27 @@
   },
   {
     "Id": "C_UNGOLIANTSBROOD_FLAVOR",
-    "Text": "Far and wide her lesser broods, bastards of the miserable mates, her own offspring, that she slew, spread from glen to glen…\n—<i>The Return of the King</i>",
-    "Text_CN": "Far and wide her lesser broods, bastards of the miserable mates, her own offspring, that she slew, spread from glen to glen…\n—<i>The Return of the King</i>",
-    "Text_FR": "Far and wide her lesser broods, bastards of the miserable mates, her own offspring, that she slew, spread from glen to glen…\n—<i>The Return of the King</i>"
+    "Text": "Far and wide her lesser broods, bastards of the miserable mates, her own offspring, that she slew, spread from glen to glen…\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_UNGOLIANTSBROOD_TEXT",
-    "Text": "End of round: Each Spider gains\n+1 Health",
-    "Text_CN": "轮次结束:游戏中的每位蜘蛛生命+1。",
-    "Text_FR": "Fin du tour : chaque araignée en jeu gagne +1 points de vie."
+    "Text": "<line-height=100%>End of round: Each Spider \ngains +1 <size=120%><sprite=2></size>"
   },
   {
     "Id": "C_UNGOLIANTSBROOD_TITLE",
-    "Text": "Ungoliant's Brood",
-    "Text_CN": "乌苟立安特子孙",
-    "Text_FR": "Progéniture d’Ungoliant"
+    "Text": "Ungoliant's Brood"
   },
   {
     "Id": "C_UNGOLIANTSSPAWN_FLAVOR",
-    "Text": "…bloated and grown fat with endless brooding on her feasts, weaving webs of shadow; for all living things were her food, and her vomit darkness.\n—<i>The Return of the King</i>",
-    "Text_CN": "…bloated and grown fat with endless brooding on her feasts, weaving webs of shadow; for all living things were her food, and her vomit darkness.\n—<i>The Return of the King</i>",
-    "Text_FR": "…bloated and grown fat with endless brooding on her feasts, weaving webs of shadow; for all living things were her food, and her vomit darkness.\n—<i>The Return of the King</i>"
+    "Text": "…bloated and grown fat with endless brooding on her feasts, weaving webs of shadow; for all living things were her food, and her vomit darkness.\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_UNGOLIANTSSPAWN_TEXT",
-    "Text": "<b>Upkeep</b>: Add 1 <i>Hatchling Spider.</i> Each <i>Hatchling Spider</i> gains \n+1 Attack and <b>Guard</b>",
-    "Text_CN": "每只育卵蜘蛛攻击+1并获得关键词『哨兵』。休整：添加1只育卵蜘蛛，且无需花费成本。",
-    "Text_FR": "Chaque Rejeton arachnide gagne +1 en Attaque et Sentinelle. Entretien : ajoutez 1 x Rejeton arachnide au coût de 0."
+    "Text": "All <i>Hatchling Spiders</i> gain \n+1 <size=120%><sprite=0></size> and <b>Guard</b>.\n<b>Upkeep</b>: Add 1 <i>Hatchling Spider</i>"
   },
   {
     "Id": "C_UNGOLIANTSSPAWN_TITLE",
-    "Text": "‰Ungoliant's Spawn",
-    "Text_CN": "‰乌苟立安特后代",
-    "Text_FR": "‰Rejeton d'Ungoliant"
+    "Text": "‰Ungoliant's Spawn"
   },
   {
     "Id": "C_UNWAVERING_FLAVOR",
@@ -7999,39 +7659,27 @@
   },
   {
     "Id": "C_VILESPAWN_FLAVOR",
-    "Text": "It pleased him that she should dwell there hungry but unabated in malice, a more sure watch upon that ancient path into his land than any other that his skill could have devised.\n—<i>The Return of the King</i>",
-    "Text_CN": "It pleased him that she should dwell there hungry but unabated in malice, a more sure watch upon that ancient path into his land than any other that his skill could have devised.\n—<i>The Return of the King</i>",
-    "Text_FR": "It pleased him that she should dwell there hungry but unabated in malice, a more sure watch upon that ancient path into his land than any other that his skill could have devised.\n—<i>The Return of the King</i>"
+    "Text": "It pleased him that she should dwell there hungry but unabated in malice, a more sure watch upon that ancient path into his land than any other that his skill could have devised.\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_VILESPAWN_TEXT",
-    "Text": "Restore <i>Ungoliant's Spawn</i> \nto full Health",
-    "Text_CN": "Restore <i>Ungoliant's Spawn</i> \nto full Health",
-    "Text_FR": "Restore <i>Ungoliant's Spawn</i> \nto full Health"
+    "Text": "<line-height=100%>Restore <i>Ungoliant's Spawn</i> \nto its full <size=120%><sprite=2></size> value"
   },
   {
     "Id": "C_VILESPAWN_TITLE",
-    "Text": "Vile Spawn",
-    "Text_CN": "卑鄙后代",
-    "Text_FR": "Vile engeance"
+    "Text": "Vile Spawn"
   },
   {
     "Id": "C_WANDERINGTOOK_FLAVOR",
-    "Text": "…there was still something not entirely hobbit-like about them—and once in a while members of the Took-clan would go and have adventures.\n—<i>The Hobbit</i>",
-    "Text_CN": "…there was still something not entirely hobbit-like about them—and once in a while members of the Took-clan would go and have adventures.\n—<i>The Hobbit</i>",
-    "Text_FR": "…there was still something not entirely hobbit-like about them—and once in a while members of the Took-clan would go and have adventures.\n—<i>The Hobbit</i>"
+    "Text": "…there was still something not entirely hobbit-like about them—and once in a while members of the Took-clan would go and have adventures.\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_WANDERINGTOOK_TEXT",
-    "Text": "<b>Arrival</b>: Sauron loses\n1 Resource",
-    "Text_CN": "<b>Arrival</b>: Sauron loses 1 Resource",
-    "Text_FR": "<b>Arrival</b>: Sauron loses 1 Resource"
+    "Text": "<b>Arrival</b>: Sauron loses 1 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_WANDERINGTOOK_TITLE",
-    "Text": "Wandering Took",
-    "Text_CN": "流浪人",
-    "Text_FR": "Touque aventureux"
+    "Text": "Wandering Took"
   },
   {
     "Id": "C_WARDENOFANNUMINAS_FLAVOR",
@@ -8053,21 +7701,15 @@
   },
   {
     "Id": "C_WARGRIDERS_FLAVOR",
-    "Text": "Swiftly a scout rode back and reported that wolf-riders were abroad in the valley…\n—<i>The Two Towers</i>",
-    "Text_CN": "Swiftly a scout rode back and reported that wolf-riders were abroad in the valley…\n—<i>The Two Towers</i>",
-    "Text_FR": "Swiftly a scout rode back and reported that wolf-riders were abroad in the valley…\n—<i>The Two Towers</i>"
+    "Text": "Swiftly a scout rode back and reported that wolf-riders were abroad in the valley…\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_WARGRIDERS_TEXT",
-    "Text": "<b>Pursuit</b>. Each Orc gains <b>Pursuit</b>",
-    "Text_CN": "追逐。所有兽人获得关键词『追逐』。",
-    "Text_FR": "Poursuite. Chaque orque gagne Poursuite."
+    "Text": "<b>Pursuit</b>. All Orcs gain <b>Pursuit</b>"
   },
   {
     "Id": "C_WARGRIDERS_TITLE",
-    "Text": "Warg Riders",
-    "Text_CN": "座狼骑手",
-    "Text_FR": "Chevaucheurs de wargs"
+    "Text": "Warg Riders"
   },
   {
     "Id": "C_WARGS_FLAVOR",
@@ -8087,7 +7729,7 @@
   },
   {
     "Id": "C_WARRIORSWORD_TEXT",
-    "Text": "Gain <b>Counter</b>. \nGain +1 Attack \n"
+    "Text": "Gain +1 <size=120%><sprite=0></size> and <b>Counter</b>"
   },
   {
     "Id": "C_WARRIORSWORD_TITLE",
@@ -8095,21 +7737,15 @@
   },
   {
     "Id": "C_WATCHERSINTHEDARK_FLAVOR",
-    "Text": "Their cold eyes glittered, and they called to him with fell voices.\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": "Their cold eyes glittered, and they called to him with fell voices.\n—<i>The Fellowship of the Ring</i>",
-    "Text_FR": "Their cold eyes glittered, and they called to him with fell voices.\n—<i>The Fellowship of the Ring</i>"
+    "Text": "Their cold eyes glittered, and they called to him with fell voices.\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_WATCHERSINTHEDARK_TEXT",
-    "Text": "Gain +1 Threat",
-    "Text_CN": "Gain +1 Threat",
-    "Text_FR": "Gain +1 Threat"
+    "Text": "Gain +1 <size=120%><sprite=4></size>"
   },
   {
     "Id": "C_WATCHERSINTHEDARK_TITLE",
-    "Text": "Watchers in the Dark",
-    "Text_CN": "Watchers in the Dark",
-    "Text_FR": "Watchers in the Dark"
+    "Text": "Watchers in the Dark"
   },
   {
     "Id": "C_WATCHFULEYES_FLAVOR",
@@ -8117,7 +7753,7 @@
   },
   {
     "Id": "C_WATCHFULEYES_TEXT",
-    "Text": "End of round: Gain +1 Threat"
+    "Text": "End of round: Gain +1 <size=120%><sprite=4></size>"
   },
   {
     "Id": "C_WATCHFULEYES_TITLE",
@@ -8143,21 +7779,15 @@
   },
   {
     "Id": "C_WATERSOFNIMRODEL_FLAVOR",
-    "Text": "It was cold but its touch was clean, and as he went on and it mounted to his knees, he felt that the strain of travel and all weariness was washed from his limbs. \n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": "It was cold but its touch was clean, and as he went on and it mounted to his knees, he felt that the strain of travel and all weariness was washed from his limbs. \n<i>—The Fellowship of the Ring</i>",
-    "Text_FR": "It was cold but its touch was clean, and as he went on and it mounted to his knees, he felt that the strain of travel and all weariness was washed from his limbs. \n<i>—The Fellowship of the Ring</i>"
+    "Text": "It was cold but its touch was clean, and as he went on and it mounted to his knees, he felt that the stain of travel and all weariness was washed from his limbs.\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_WATERSOFNIMRODEL_TEXT",
-    "Text": "Restore 3 Health",
-    "Text_CN": "为一名人物治愈3点伤害。",
-    "Text_FR": "Soignez 3 points de dégâts d'un personnage."
+    "Text": "Restore 3 <size=120%><sprite=2></size>"
   },
   {
     "Id": "C_WATERSOFNIMRODEL_TITLE",
-    "Text": "Waters of Nimrodel",
-    "Text_CN": "宁若戴尔之水",
-    "Text_FR": "Eaux de la Nimrodel"
+    "Text": "Waters of Nimrodel"
   },
   {
     "Id": "C_WESTFOLDOUTRIDER_FLAVOR",
@@ -8215,39 +7845,27 @@
   },
   {
     "Id": "C_ZIGILMINER_FLAVOR",
-    "Text": "“From the lowest dungeon to the highest peak it climbed ascending in unbroken spiral in many thousand steps until it issued at last in Durin’s Tower carved in the living rock of Zirak-zigil the pinnacle of the Silvertine.”\n—Gandalf <i>The Two Towers</i>",
-    "Text_CN": "“From the lowest dungeon to the highest peak it climbed ascending in unbroken spiral in many thousand steps until it issued at last in Durin’s Tower carved in the living rock of Zirak-zigil the pinnacle of the Silvertine.”\n—Gandalf <i>The Two Towers</i>",
-    "Text_FR": "“From the lowest dungeon to the highest peak it climbed ascending in unbroken spiral in many thousand steps until it issued at last in Durin’s Tower carved in the living rock of Zirak-zigil the pinnacle of the Silvertine.”\n—Gandalf <i>The Two Towers</i>"
+    "Text": "“From the lowest dungeon to the highest peak it climbed, ascending in unbroken spiral in many thousand steps, until it issued at last in Durin’s Tower carved in the living rock of Zirak-zigil, the pinnacle of the Silvertine.”\n—Gandalf, <i>The Two Towers</i>"
   },
   {
     "Id": "C_ZIGILMINER_TEXT",
-    "Text": "<b>Power</b>: Exhaust to gain \n+1 Resource",
-    "Text_CN": "<b>Power</b>: Exhaust to gain \n+1 Resource",
-    "Text_FR": "<b>Power</b>: Exhaust to gain \n+1 Resource"
+    "Text": "<line-height=100%><b>Power</b>: Exhaust this Character \nto gain +1 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_ZIGILMINER_TITLE",
-    "Text": "Zigil Miner",
-    "Text_CN": "西吉尔矿工",
-    "Text_FR": "Mineur de Zigil"
+    "Text": "Zigil Miner"
   },
   {
     "Id": "C_MAGICRING_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_MAGICRING_TITLE",
-    "Text": "Magic Ring",
-    "Text_CN": "Magic Ring",
-    "Text_FR": "Magic Ring"
+    "Text": "Magic Ring"
   },
   {
     "Id": "C_MAGICRING_TEXT",
-    "Text": "<b>Power</b>: Gain +1 Threat. <b>Choose</b>: Gain +1 Resource or Restore 1 Health to attached character",
-    "Text_CN": "<b>Power</b>: Gain +1 Threat. <b>Choose</b>: Gain +1 Resource or Restore 1 Health to attached character",
-    "Text_FR": "<b>Power</b>: Gain +1 Threat. <b>Choose</b>: Gain +1 Resource or Restore 1 Health to attached character"
+    "Text": "<line-height=100%><b>Power</b>: Gain +1 <size=120%><sprite=4></size> and\n<b>Choose</b>: Gain +1 <size=120%><sprite=3></size>; or restore \n1 <size=120%><sprite=2></size> to attached Character"
   },
   {
     "Id": "C_RADAGAST_FLAVOR",
@@ -8313,25 +7931,19 @@
   },
   {
     "Id": "C_BROKIRONFIST_TEXT",
-    "Text": "<b>Guard</b>. When a Dwarf Hero is defeated while <i>Brok Ironfist</i> is in your hand, this card plays at 0 cost"
+    "Text": "<b>Guard</b>. When a Dwarf Hero is defeated while <i>Brok Ironfist</i> is in your hand, this card plays at 0 <size=120%><sprite=3></size> cost"
   },
   {
     "Id": "C_IMLADRISSTARGAZER_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_IMLADRISSTARGAZER_TITLE",
-    "Text": "Imladris Stargazer",
-    "Text_CN": "Imladris Stargazer",
-    "Text_FR": "Imladris Stargazer"
+    "Text": "Imladris Stargazer"
   },
   {
     "Id": "C_IMLADRISSTARGAZER_TEXT",
-    "Text": "<b>Arrival</b>: Remove a Shadow from an Enemy. Lose Threat equal to that Shadow's cost",
-    "Text_CN": "<b>Arrival</b>: Remove a Shadow from an Enemy. Lose Threat equal to that Shadow's cost",
-    "Text_FR": "<b>Arrival</b>: Remove a Shadow from an Enemy. Lose Threat equal to that Shadow's cost"
+    "Text": "<line-height=100%><b>Arrival</b>: Remove a Shadow from an Enemy. Lose <size=120%><sprite=4></size> equal to that Shadow's cost"
   },
   {
     "Id": "C_EOTHAIN_FLAVOR",
@@ -8355,7 +7967,7 @@
   },
   {
     "Id": "C_DEEPKNOWLEDGE_TEXT",
-    "Text": "-1 Willpower. <b>Power</b>: View the top card of your deck, then place it in the top or bottom of the deck"
+    "Text": "<line-height=100%>Lose 1 <size=120%><sprite=5></size>.\n<b>Power</b>: View the top card of the deck; then place it on the top or bottom of the deck"
   },
   {
     "Id": "C_FARMERMAGGOT_FLAVOR",
@@ -8397,97 +8009,67 @@
   },
   {
     "Id": "C_HOUROFWRATH_TEXT",
-    "Text": "Gain +2 Threat; all Allies gain \"<b>Revenge</b>: Deal 1 damage to attacker\""
+    "Text": "Gain +2 <size=120%><sprite=4></size>; all Allies gain \"<b>Revenge</b>: Deal 1 damage to attacker\""
   },
   {
     "Id": "C_FORGONDOR_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_FORGONDOR_TITLE",
-    "Text": "For Gondor!",
-    "Text_CN": "For Gondor!",
-    "Text_FR": "For Gondor!"
+    "Text": "For Gondor!"
   },
   {
     "Id": "C_FORGONDOR_TEXT",
-    "Text": "All Characters gain +1 Attack this round. Gondor Characters also gain <b>Block</b> this round",
-    "Text_CN": "All Characters gain +1 Attack this round. Gondor Characters also gain <b>Block</b> this round",
-    "Text_FR": "All Characters gain +1 Attack this round. Gondor Characters also gain <b>Block</b> this round"
+    "Text": "<line-height=100%>All Characters gain +1 <size=120%><sprite=0></size> this round. Gondor Characters also gain <b>Block</b> this round"
   },
   {
     "Id": "C_TRAFFICFROMDALE_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_TRAFFICFROMDALE_TITLE",
-    "Text": "Traffic from Dale",
-    "Text_CN": "Traffic from Dale",
-    "Text_FR": "Traffic from Dale"
+    "Text": "Traffic from Dale"
   },
   {
     "Id": "C_TRAFFICFROMDALE_TEXT",
-    "Text": "Gain +1 Resource for each Character that has an Attachment",
-    "Text_CN": "Gain +1 Resource for each Character that has an Attachment",
-    "Text_FR": "Gain +1 Resource for each Character that has an Attachment"
+    "Text": "Gain +1 <size=120%><sprite=3></size> for each Character with an Attachment"
   },
   {
     "Id": "C_SWORDOFNUMENOR_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_SWORDOFNUMENOR_TITLE",
-    "Text": "Sword of Numenor",
-    "Text_CN": "Sword of Numenor",
-    "Text_FR": "Sword of Numenor"
+    "Text": "Sword of Numenor"
   },
   {
     "Id": "C_SWORDOFNUMENOR_TEXT",
-    "Text": "Gain +1 Attack. <b>Vanquish</b>: Gain +1 Resource",
-    "Text_CN": "Gain +1 Attack. <b>Vanquish</b>: Gain +1 Resource",
-    "Text_FR": "Gain +1 Attack. <b>Vanquish</b>: Gain +1 Resource"
+    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=0></size>. \n<b>Vanquish</b>: Gain +1 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_ASTONISHINGSPEED_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_ASTONISHINGSPEED_TITLE",
-    "Text": "Astonishing Speed",
-    "Text_CN": "Astonishing Speed",
-    "Text_FR": "Astonishing Speed"
+    "Text": "Astonishing Speed"
   },
   {
     "Id": "C_ASTONISHINGSPEED_TEXT",
-    "Text": "All Rohan Characters gain +1 Willpower this round",
-    "Text_CN": "All Rohan Characters gain +1 Willpower this round",
-    "Text_FR": "All Rohan Characters gain +1 Willpower this round"
+    "Text": "<line-height=100%>All Rohan Characters gain \n+1 <size=120%><sprite=5></size> this round"
   },
   {
     "Id": "C_MIRKWOODLONGKNIFE_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_MIRKWOODLONGKNIFE_TITLE",
-    "Text": "Mirkwood Long Knife",
-    "Text_CN": "Mirkwood Long Knife",
-    "Text_FR": "Mirkwood Long Knife"
+    "Text": "Mirkwood Long Knife"
   },
   {
     "Id": "C_MIRKWOODLONGKNIFE_TEXT",
-    "Text": "Silvan Only. Gain +1 Attack. Gain +1 Willpower",
-    "Text_CN": "Silvan Only. Gain +1 Attack. Gain +1 Willpower",
-    "Text_FR": "Silvan Only. Gain +1 Attack. Gain +1 Willpower"
+    "Text": "<line-height=100%>[Silvan only.] \nGain +1 <size=120%><sprite=0></size> and +1 <size=120%><sprite=5></size>"
   },
   {
     "Id": "C_HOLDYOURGROUND_FLAVOR",
@@ -8535,7 +8117,7 @@
   },
   {
     "Id": "C_EREBORRECORDKEEPER_TEXT",
-    "Text": "<b>Arrival</b>: Draw 3 cards and choose 1; the other 2 cards are shuffled back into your deck"
+    "Text": "<b>Arrival</b>: Draw 3 cards and choose 1; the other 2 cards then shuffle back into your deck"
   },
   {
     "Id": "C_EXPECTINGTROUBLE_FLAVOR",
@@ -8571,7 +8153,7 @@
   },
   {
     "Id": "C_HORNSCRY_TEXT",
-    "Text": "<b>Power</b>: Select a non-unique Enemy to lose 1 Attack this round (cost 1)"
+    "Text": "<line-height=100%><b>Power</b>: Choose a non-unique Enemy to lose 1 <size=120%><sprite=0></size> this round (cost 1 <size=120%><sprite=3></size>)"
   },
   {
     "Id": "C_HATEDFOE_FLAVOR",
@@ -8583,25 +8165,19 @@
   },
   {
     "Id": "C_HATEDFOE_TEXT",
-    "Text": "Gain +1 Resource for each Orc\n(limit 3)"
+    "Text": "Gain +1 <size=120%><sprite=3></size> for each Orc in play\n(limit 3)"
   },
   {
     "Id": "C_DISTRACTION_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_DISTRACTION_TITLE",
-    "Text": "Distraction",
-    "Text_CN": "Distraction",
-    "Text_FR": "Distraction"
+    "Text": "Distraction"
   },
   {
     "Id": "C_DISTRACTION_TEXT",
-    "Text": "Exhaust an Ally to lose Threat equal to that Ally's cost",
-    "Text_CN": "Exhaust an Ally to lose Threat equal to that Ally's cost",
-    "Text_FR": "Exhaust an Ally to lose Threat equal to that Ally's cost"
+    "Text": "<line-height=100%>Exhaust an Ally to lose <size=120%><sprite=4></size> equal to that Ally's cost"
   },
   {
     "Id": "C_BLOODOFNUMENOR_FLAVOR",
@@ -8609,11 +8185,11 @@
   },
   {
     "Id": "C_BLOODOFNUMENOR_TITLE",
-    "Text": "Blood of Numenor"
+    "Text": "Blood of Númenor"
   },
   {
     "Id": "C_BLOODOFNUMENOR_TEXT",
-    "Text": "(Gondor or Dúnadan only.) \n<b>Power</b>: Gain <b>Block</b> this round (cost 1)"
+    "Text": "<line-height=100%>[Gondor or Dúnadan only.] <b>Power</b>: Gain <b>Block</b> this round (cost 1 <size=120%><sprite=3></size>)"
   },
   {
     "Id": "C_AELBERETHGILTHONIEL_FLAVOR",
@@ -8625,25 +8201,19 @@
   },
   {
     "Id": "C_AELBERETHGILTHONIEL_TEXT",
-    "Text": "The next non-unique Enemy to attack is removed from play; then lose Threat equal to its Attack value"
+    "Text": "The next non-unique Enemy to attack is removed from play; then lose <size=120%><sprite=4></size> equal to its <size=120%><sprite=0></size> value"
   },
   {
     "Id": "C_RIVENDELLSCHOLAR_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_RIVENDELLSCHOLAR_TITLE",
-    "Text": "Rivendell Scholar",
-    "Text_CN": "Rivendell Scholar",
-    "Text_FR": "Rivendell Scholar"
+    "Text": "Rivendell Scholar"
   },
   {
     "Id": "C_RIVENDELLSCHOLAR_TEXT",
-    "Text": "<b>Arrival</b>: Cancel an Unrevealed Treachery",
-    "Text_CN": "<b>Arrival</b>: Cancel an Unrevealed Treachery",
-    "Text_FR": "<b>Arrival</b>: Cancel an Unrevealed Treachery"
+    "Text": "<b>Arrival</b>: Cancel a random unrevealed Treachery"
   },
   {
     "Id": "C_FEARLESSSCOUT_FLAVOR",
@@ -8655,7 +8225,7 @@
   },
   {
     "Id": "C_FEARLESSSCOUT_TEXT",
-    "Text": "<b>Vanquish</b>: Give a Character \n+1 Willpower this round"
+    "Text": "<line-height=100%><b>Vanquish</b>: Give +1 <size=120%><sprite=5></size> to a Character this round"
   },
   {
     "Id": "C_STUDYTHESCROLLS_FLAVOR",
@@ -8677,21 +8247,15 @@
   },
   {
     "Id": "C_LEGACYOFDURIN_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_LEGACYOFDURIN_TITLE",
-    "Text": "Legacy of Durin",
-    "Text_CN": "Legacy of Durin",
-    "Text_FR": "Legacy of Durin"
+    "Text": "Legacy of Durin"
   },
   {
     "Id": "C_LEGACYOFDURIN_TEXT",
-    "Text": "When you play a Dwarf card, Draw 1 card",
-    "Text_CN": "When you play a Dwarf card, Draw 1 card",
-    "Text_FR": "When you play a Dwarf card, Draw 1 card"
+    "Text": "Draw 1 card each time you play \na Dwarf card"
   },
   {
     "Id": "C_DAUGHTEROFTHENIMRODEL_FLAVOR",
@@ -8703,7 +8267,7 @@
   },
   {
     "Id": "C_DAUGHTEROFTHENIMRODEL_TEXT",
-    "Text": "<b>Power</b>: Exhaust this Character \nto restore 2 Health to a Hero"
+    "Text": "<line-height=100%><b>Power</b>: Exhaust this Character \nto restore 2 <size=120%><sprite=2></size> to a Hero"
   },
   {
     "Id": "C_EASTROADRIDER_FLAVOR",
@@ -8715,7 +8279,7 @@
   },
   {
     "Id": "C_EASTROADRIDER_TEXT",
-    "Text": "Gain +2 Willpower when engaging a Hazard"
+    "Text": "<line-height=100%>Gain +2 <size=120%><sprite=5></size> when \nengaging a Hazard"
   },
   {
     "Id": "C_DAWNTAKEYOUALL_FLAVOR",
@@ -8737,21 +8301,15 @@
   },
   {
     "Id": "C_LOCKSHIELDS_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_LOCKSHIELDS_TITLE",
-    "Text": "Lock Shields",
-    "Text_CN": "Lock Shields",
-    "Text_FR": "Lock Shields"
+    "Text": "Lock Shields"
   },
   {
     "Id": "C_LOCKSHIELDS_TEXT",
-    "Text": "Until end of round: <br>Target Character gains <b>Guard</b>. \nDraw a Card",
-    "Text_CN": "Until end of round: <br>Target Character gains <b>Guard</b>. \nDraw a Card",
-    "Text_FR": "Until end of round: <br>Target Character gains <b>Guard</b>. \nDraw a Card"
+    "Text": "Gain <b>Guard</b> this round.\nDraw a Card"
   },
   {
     "Id": "C_BEORNINGBEEKEPER_FLAVOR",
@@ -8763,43 +8321,31 @@
   },
   {
     "Id": "C_BEORNINGBEEKEPER_TEXT",
-    "Text": "(Cannot equip Attachments.)\n<b>Power</b>: Take 1 damage to deal\n1 damage to all Enemies"
+    "Text": "[Cannot equip Attachments.]\n<b>Power</b>: Take 1 damage to deal\n1 damage to all Enemies"
   },
   {
     "Id": "C_MIGHTYWARRIOR_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_MIGHTYWARRIOR_TITLE",
-    "Text": "Mighty Warrior",
-    "Text_CN": "Mighty Warrior",
-    "Text_FR": "Mighty Warrior"
+    "Text": "Mighty Warrior"
   },
   {
     "Id": "C_MIGHTYWARRIOR_TEXT",
-    "Text": "Gain <b>Stalwart</b>. \nGain +1 Attack",
-    "Text_CN": "Gain <b>Stalwart</b>. \nGain +1 Attack",
-    "Text_FR": "Gain <b>Stalwart</b>. \nGain +1 Attack"
+    "Text": "Gain +1 <size=120%><sprite=0></size> and <b>Stalwart</b>"
   },
   {
     "Id": "C_THEODRED_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_THEODRED_TITLE",
-    "Text": "‰Theodred",
-    "Text_CN": "‰Theodred",
-    "Text_FR": "‰Theodred"
+    "Text": "‰Theodred"
   },
   {
     "Id": "C_THEODRED_TEXT",
-    "Text": "After applying progress on a quest with <i>Theodred</i> gain +1 Resource",
-    "Text_CN": "After applying progress on a quest with <i>Theodred</i> gain +1 Resource",
-    "Text_FR": "After applying progress on a quest with <i>Theodred</i> gain +1 Resource"
+    "Text": "Gain +1 <size=120%><sprite=03></size> after <i>Theodred</i> applies progress to an Objective or Hazard"
   },
   {
     "Id": "C_ELFHELM_FLAVOR",
@@ -8811,7 +8357,7 @@
   },
   {
     "Id": "C_ELFHELM_TEXT",
-    "Text": "While <i>Elfhelm</i> is in play, \nall Leadership Heroes \ngain +1 Attack"
+    "Text": "<line-height=100%>While <i>Elfhelm</i> is in play, \nall Leadership Heroes \ngain +1 <size=120%><sprite=0></size>"
   },
   {
     "Id": "C_RIDEROFROHAN_FLAVOR",
@@ -8841,7 +8387,7 @@
   },
   {
     "Id": "C_DEFENDEROFTHEMARK_TEXT",
-    "Text": "Restore 1 Health and give \n+1 Willpower to all Rohan Characters"
+    "Text": "<line-height=100%>Restore 1 <size=120%><sprite=2></size> and give +1 <size=120%><sprite=5></size>\nto all Rohan Characters"
   },
   {
     "Id": "C_HELPFULSQUIRE_FLAVOR",
@@ -8853,7 +8399,7 @@
   },
   {
     "Id": "C_HELPFULSQUIRE_TEXT",
-    "Text": "Gain +2 Willpower this round if <i>Helpful Squire</i> is not the first to engage an Objective"
+    "Text": "<line-height=100%>Gain +2 <size=120%><sprite=5></size> this round if \n<i>Helpful Squire</i> is not the first to engage an Objective"
   },
   {
     "Id": "C_HORSELORD_FLAVOR",
@@ -8865,7 +8411,7 @@
   },
   {
     "Id": "C_HORSELORD_TEXT",
-    "Text": "Gain +1 Health and the Rohan trait"
+    "Text": "Gain the Rohan trait and +1 <size=120%><sprite=2></size>"
   },
   {
     "Id": "C_SOLDIEROFTHEWHITECITY_FLAVOR",
@@ -8905,57 +8451,39 @@
   },
   {
     "Id": "C_WELLPREPARED_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_WELLPREPARED_TITLE",
-    "Text": "Well Prepared",
-    "Text_CN": "Well Prepared",
-    "Text_FR": "Well Prepared"
+    "Text": "Well Prepared"
   },
   {
     "Id": "C_WELLPREPARED_TEXT",
-    "Text": "Cancel the next Treachery Sauron plays",
-    "Text_CN": "Cancel the next Treachery Sauron plays",
-    "Text_FR": "Cancel the next Treachery Sauron plays"
+    "Text": "Cancel the next Treachery that Sauron plays"
   },
   {
     "Id": "C_ITHILIENPIT_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_ITHILIENPIT_TITLE",
-    "Text": "Ithilien Pit",
-    "Text_CN": "Ithilien Pit",
-    "Text_FR": "Ithilien Pit"
+    "Text": "Ithilien Pit"
   },
   {
     "Id": "C_ITHILIENPIT_TEXT",
-    "Text": "The next Enemy played is reduced to 1/1",
-    "Text_CN": "The next Enemy played is reduced to 1/1",
-    "Text_FR": "The next Enemy played is reduced to 1/1"
+    "Text": "<line-height=100%>Reduce the next Enemy played to 1 <size=120%><sprite=0></size> and <size=120%><sprite=2></size> this round"
   },
   {
     "Id": "C_MIGHTYPROWESS_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_MIGHTYPROWESS_TITLE",
-    "Text": "Mighty Prowess",
-    "Text_CN": "Mighty Prowess",
-    "Text_FR": "Mighty Prowess"
+    "Text": "Mighty Prowess"
   },
   {
     "Id": "C_MIGHTYPROWESS_TEXT",
-    "Text": "<b>Vanquish</b>: Deal 1 damage to another Enemy with the same Trait",
-    "Text_CN": "<b>Vanquish</b>: Deal 1 damage to another Enemy with the same Trait",
-    "Text_FR": "<b>Vanquish</b>: Deal 1 damage to another Enemy with the same Trait"
+    "Text": "<b>Vanquish</b>: Deal 1 damage to \nan additional Enemy with the same trait as the defeated Enemy"
   },
   {
     "Id": "C_BALIN_FLAVOR",
@@ -8967,7 +8495,7 @@
   },
   {
     "Id": "C_BALIN_TEXT",
-    "Text": "<b>Power</b>: Remove a Shadow\nfrom play (cost 1)"
+    "Text": "<line-height=100%><b>Power</b>: Remove a Shadow\nfrom play (cost 1 <size=120%><sprite=3></size>)"
   },
   {
     "Id": "C_CALDARA_TITLE",
@@ -8983,21 +8511,15 @@
   },
   {
     "Id": "C_KHAZADAIMENU_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_KHAZADAIMENU_TITLE",
-    "Text": "Khazâd ai-mênu!",
-    "Text_CN": "Khazâd ai-mênu!",
-    "Text_FR": "Khazâd ai-mênu!"
+    "Text": "Khazâd ai-mênu!"
   },
   {
     "Id": "C_KHAZADAIMENU_TEXT",
-    "Text": "Give target Dwarf +2 Attack this round. Give an additional +1 if the target is damaged",
-    "Text_CN": "Give target Dwarf +2 Attack this round. Give an additional +1 if the target is damaged",
-    "Text_FR": "Give target Dwarf +2 Attack this round. Give an additional +1 if the target is damaged"
+    "Text": "<line-height=100%>[Dwarf only.]\n Gain +2 <size=120%><sprite=0></size> this round; \nor gain +3 <size=120%><sprite=0></size> if wounded"
   },
   {
     "Id": "C_BOOKOFMAZARBUL_FLAVOR",
@@ -9009,7 +8531,7 @@
   },
   {
     "Id": "C_BOOKOFMAZARBUL_TEXT",
-    "Text": "<b>Power</b>: Draw 2 cards (cost 1)"
+    "Text": "<b>Power</b>: Draw 2 cards (cost 1 <size=120%><sprite=3></size>)"
   },
   {
     "Id": "C_GETTHEORCS_FLAVOR",
@@ -9025,21 +8547,15 @@
   },
   {
     "Id": "C_RECLAIMTHELOSTKINGDOM_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_RECLAIMTHELOSTKINGDOM_TITLE",
-    "Text": "Reclaim the Lost Kingdom",
-    "Text_CN": "Reclaim the Lost Kingdom",
-    "Text_FR": "Reclaim the Lost Kingdom"
+    "Text": "Reclaim the Lost Kingdom"
   },
   {
     "Id": "C_RECLAIMTHELOSTKINGDOM_TEXT",
-    "Text": "Target Hero applies their attack value to an Objective or Hazard",
-    "Text_CN": "Target Hero applies their attack value to an Objective or Hazard",
-    "Text_FR": "Target Hero applies their attack value to an Objective or Hazard"
+    "Text": "<line-height=100%>Apply a Hero's <size=120%><sprite=0></size> value as progress to an Objective or Hazard"
   },
   {
     "Id": "C_BERAVOR_FLAVOR",
@@ -9055,21 +8571,15 @@
   },
   {
     "Id": "C_WISDOMOFARNOR_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_WISDOMOFARNOR_TITLE",
-    "Text": "Wisdom of Arnor",
-    "Text_CN": "Wisdom of Arnor",
-    "Text_FR": "Wisdom of Arnor"
+    "Text": "Wisdom of Arnor"
   },
   {
     "Id": "C_WISDOMOFARNOR_TEXT",
-    "Text": "<b>Choose</b>: Draw 2 Cards or Reduce cost of all cards currently in your hand by 1 (minimum 0)",
-    "Text_CN": "<b>Choose</b>: Draw 2 Cards or Reduce cost of all cards currently in your hand by 1 (minimum 0)",
-    "Text_FR": "<b>Choose</b>: Draw 2 Cards or Reduce cost of all cards currently in your hand by 1 (minimum 0)"
+    "Text": "<b>Choose</b>: Draw 2 cards; or reduce the cost of all cards in your hand by 1 (minimum 0)"
   },
   {
     "Id": "C_RANGEROFTHELONELANDS_FLAVOR",
@@ -9091,21 +8601,15 @@
   },
   {
     "Id": "C_THROUGHTHEWILDERNESS_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_THROUGHTHEWILDERNESS_TITLE",
-    "Text": "Through the Wilderness",
-    "Text_CN": "Through the Wilderness",
-    "Text_FR": "Through the Wilderness"
+    "Text": "Through the Wilderness"
   },
   {
     "Id": "C_THROUGHTHEWILDERNESS_TEXT",
-    "Text": "Deal 1 damage to a Hero to remove a non-unique Enemy",
-    "Text_CN": "Deal 1 damage to a Hero to remove a non-unique Enemy",
-    "Text_FR": "Deal 1 damage to a Hero to remove a non-unique Enemy"
+    "Text": "Deal 1 damage to a Hero to defeat a non-unique Enemy"
   },
   {
     "Id": "C_DUNEDAINWATCHER_FLAVOR",
@@ -9117,7 +8621,7 @@
   },
   {
     "Id": "C_DUNEDAINWATCHER_TEXT",
-    "Text": "<b>Arrival</b>: All other Dúnedain Characters gain +1 Health"
+    "Text": "<line-height=100%><b>Arrival</b>: All other Dúnadan Characters gain +1 <size=120%><sprite=2></size>"
   },
   {
     "Id": "C_FREDEGARBOLGER_FLAVOR",
@@ -9151,21 +8655,15 @@
   },
   {
     "Id": "C_RAISETHESHIRE_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_RAISETHESHIRE_TITLE",
-    "Text": "Raise the Shire",
-    "Text_CN": "Raise the Shire",
-    "Text_FR": "Raise the Shire"
+    "Text": "Raise the Shire"
   },
   {
     "Id": "C_RAISETHESHIRE_TEXT",
-    "Text": "Gain a random Hobbit Ally",
-    "Text_CN": "Gain a random Hobbit Ally",
-    "Text_FR": "Gain a random Hobbit Ally"
+    "Text": "Play a random Hobbit Ally"
   },
   {
     "Id": "C_HOBBITPIPE_FLAVOR",
@@ -9177,7 +8675,7 @@
   },
   {
     "Id": "C_HOBBITPIPE_TEXT",
-    "Text": "Each time you lose Threat, \ndraw a card"
+    "Text": "Draw a card when you lose <size=120%><sprite=4></size>"
   },
   {
     "Id": "C_CURIOUSBRANDYBUCK_FLAVOR",
@@ -9201,25 +8699,19 @@
   },
   {
     "Id": "C_HALDIR_TEXT",
-    "Text": "After attacking, reduce a \nnon-unique Enemy to 1 Attack this round"
+    "Text": "<line-height=100%>After attacking, reduce a \nnon-unique Enemy to 1 <size=120%><sprite=0></size> this round"
   },
   {
     "Id": "C_WATCHINGTHESHADOW_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_WATCHINGTHESHADOW_TITLE",
-    "Text": "Watching the Shadow",
-    "Text_CN": "Watching the Shadow",
-    "Text_FR": "Watching the Shadow"
+    "Text": "Watching the Shadow"
   },
   {
     "Id": "C_WATCHINGTHESHADOW_TEXT",
-    "Text": "The next enemy played gains <b>Fleeting</b>",
-    "Text_CN": "The next enemy played gains <b>Fleeting</b>",
-    "Text_FR": "The next enemy played gains <b>Fleeting</b>"
+    "Text": "The next Enemy that Sauron plays gains <b>Fleeting</b>"
   },
   {
     "Id": "C_GUARDIANOFTHEFOREST_FLAVOR",
@@ -9285,25 +8777,19 @@
   },
   {
     "Id": "C_GLOIN_TEXT",
-    "Text": "<b>Power</b>: Take 1 damage to give\nall wounded Dwarf Characters \n+1 Willpower this round"
+    "Text": "<line-height=100%><b>Power</b>: Take 1 damage to give\nall wounded Dwarf Characters \n+1 <size=120%><sprite=5></size> this round"
   },
   {
     "Id": "C_DWARVENRECLAIMER_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_DWARVENRECLAIMER_TITLE",
-    "Text": "Dwarven Reclaimer",
-    "Text_CN": "Dwarven Reclaimer",
-    "Text_FR": "Dwarven Reclaimer"
+    "Text": "Dwarven Reclaimer"
   },
   {
     "Id": "C_DWARVENRECLAIMER_TEXT",
-    "Text": "<b>Vanquish</b>: Lose 1 Threat",
-    "Text_CN": "<b>Vanquish</b>: Lose 1 Threat",
-    "Text_FR": "<b>Vanquish</b>: Lose 1 Threat"
+    "Text": "<b>Vanquish</b>: Lose 1 <size=120%><sprite=4></size>"
   },
   {
     "Id": "C_DWARVENPEACEKEEPING_FLAVOR",
@@ -9331,21 +8817,15 @@
   },
   {
     "Id": "C_LESSONSOFTHEPAST_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_LESSONSOFTHEPAST_TITLE",
-    "Text": "Lessons of the Past",
-    "Text_CN": "Lessons of the Past",
-    "Text_FR": "Lessons of the Past"
+    "Text": "Lessons of the Past"
   },
   {
     "Id": "C_LESSONSOFTHEPAST_TEXT",
-    "Text": "When the next Dwarf character would take damage, reduce that damage to 1",
-    "Text_CN": "When the next Dwarf character would take damage, reduce that damage to 1",
-    "Text_FR": "When the next Dwarf character would take damage, reduce that damage to 1"
+    "Text": "The next time a Dwarf takes damage, reduce that damage to 1"
   },
   {
     "Id": "C_GLORFINDEL_FLAVOR",
@@ -9357,7 +8837,7 @@
   },
   {
     "Id": "C_GLORFINDEL_TEXT",
-    "Text": "Once per game: When defeated, <i>Glorfindel</i> instead gains +1 Attack, +1 Willpower, restores 5 Health"
+    "Text": "Once per game: When defeated, <i>Glorfindel</i> instead gains +1 <size=120%><sprite=0></size>, +1 <size=120%><sprite=5></size>, and restores 5 <size=120%><sprite=2></size>"
   },
   {
     "Id": "C_EMISSARYOFTHEVALAR_FLAVOR",
@@ -9369,7 +8849,7 @@
   },
   {
     "Id": "C_EMISSARYOFTHEVALAR_TEXT",
-    "Text": "All Enemies lose <u>X</u> Attack this round.\n<u>X</u> is the number of the most recent Threat event triggered"
+    "Text": "<line-height=100%>All Enemies lose <u>X</u> <size=120%><sprite=0></size> this round.\n(<u>X</u> equals the most recent \nThreat event tier)"
   },
   {
     "Id": "C_ALIGHTFROMWITHIN_FLAVOR",
@@ -9381,61 +8861,43 @@
   },
   {
     "Id": "C_ALIGHTFROMWITHIN_TEXT",
-    "Text": "Each Ally gains +1 Willpower this round"
+    "Text": "<line-height=100%>Each Ally gains +1 <size=120%><sprite=5></size> this round"
   },
   {
     "Id": "C_IMLADRISMINSTREL_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_IMLADRISMINSTREL_TITLE",
-    "Text": "Imladris Minstrel",
-    "Text_CN": "Imladris Minstrel",
-    "Text_FR": "Imladris Minstrel"
+    "Text": "Imladris Minstrel"
   },
   {
     "Id": "C_IMLADRISMINSTREL_TEXT",
-    "Text": "When any Enemy is defeated, restore 1 Health to a Character",
-    "Text_CN": "When any Enemy is defeated, restore 1 Health to a Character",
-    "Text_FR": "When any Enemy is defeated, restore 1 Health to a Character"
+    "Text": "<line-height=100%>When any Enemy is defeated, restore 1 <size=120%><sprite=2></size> to a Character"
   },
   {
     "Id": "C_ROSSIEL_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_ROSSIEL_TITLE",
-    "Text": "‰Rossiel",
-    "Text_CN": "‰Rossiel",
-    "Text_FR": "‰Rossiel"
+    "Text": "‰Rossiel"
   },
   {
     "Id": "C_ROSSIEL_TEXT",
-    "Text": "<b>Power</b>: Exhaust to recall a non-unique Ally to your hand",
-    "Text_CN": "<b>Power</b>: Exhaust to recall a non-unique Ally to your hand",
-    "Text_FR": "<b>Power</b>: Exhaust to recall a non-unique Ally to your hand"
+    "Text": "<b>Power</b>: Exhaust this Character to return a non-unique Ally to your hand"
   },
   {
     "Id": "C_WILLOFTHEFOREST_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_WILLOFTHEFOREST_TITLE",
-    "Text": "Will of the Forest",
-    "Text_CN": "Will of the Forest",
-    "Text_FR": "Will of the Forest"
+    "Text": "Will of the Forest"
   },
   {
     "Id": "C_WILLOFTHEFOREST_TEXT",
-    "Text": "All Silvan Allies gain +1 Willpower",
-    "Text_CN": "All Silvan Allies gain +1 Willpower",
-    "Text_FR": "All Silvan Allies gain +1 Willpower"
+    "Text": "All Silvan Allies gain +1 <size=120%><sprite=5></size>"
   },
   {
     "Id": "C_HEEDTHEDREAM_FLAVOR",
@@ -9447,25 +8909,19 @@
   },
   {
     "Id": "C_HEEDTHEDREAM_TEXT",
-    "Text": "Draw 3 cards, then choose 1; \nthe other 2 are shuffled back into the deck"
+    "Text": "Draw 3 cards, then choose 1; \nthe other 2 shuffle back into the deck"
   },
   {
     "Id": "C_MIRKWOODHUNTER_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_MIRKWOODHUNTER_TITLE",
-    "Text": "Mirkwood Hunter",
-    "Text_CN": "Mirkwood Hunter",
-    "Text_FR": "Mirkwood Hunter"
+    "Text": "Mirkwood Hunter"
   },
   {
     "Id": "C_MIRKWOODHUNTER_TEXT",
-    "Text": "<b>Stealth</b>. <b>Arrival</b>: Reduce an Enemy's attack by 1 this round",
-    "Text_CN": "<b>Stealth</b>. <b>Arrival</b>: Reduce an Enemy's attack by 1 this round",
-    "Text_FR": "<b>Stealth</b>. <b>Arrival</b>: Reduce an Enemy's attack by 1 this round"
+    "Text": "<line-height=100%><b>Stealth</b>. <b>Arrival</b>: An Enemy \nloses 1 <size=120%><sprite=0></size> this round"
   },
   {
     "Id": "C_LEGACYOFTHEFOREST_FLAVOR",
@@ -9517,39 +8973,27 @@
   },
   {
     "Id": "C_STANDAGAINSTTHEDARKNESS_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_STANDAGAINSTTHEDARKNESS_TITLE",
-    "Text": "Stand Against the Dark",
-    "Text_CN": "Stand Against the Dark",
-    "Text_FR": "Stand Against the Dark"
+    "Text": "Stand Against the Dark"
   },
   {
     "Id": "C_STANDAGAINSTTHEDARKNESS_TEXT",
-    "Text": "End of Round: Lose 1 Threat for each Ally played this round",
-    "Text_CN": "End of Round: Lose 1 Threat for each Ally played this round",
-    "Text_FR": "End of Round: Lose 1 Threat for each Ally played this round"
+    "Text": "End of round: Lose 1 <size=120%><sprite=4></size> for each Ally played this round"
   },
   {
     "Id": "C_STILLABREATHOFLIFE_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_STILLABREATHOFLIFE_TITLE",
-    "Text": "Still a Breath of Life",
-    "Text_CN": "Still a Breath of Life",
-    "Text_FR": "Still a Breath of Life"
+    "Text": "Still a Breath of Life"
   },
   {
     "Id": "C_STILLABREATHOFLIFE_TEXT",
-    "Text": "When the next Character would be defeated, leave them with 1 health instead",
-    "Text_CN": "When the next Character would be defeated, leave them with 1 health instead",
-    "Text_FR": "When the next Character would be defeated, leave them with 1 health instead"
+    "Text": "The next Character that would be defeated instead remains in play with 1 <size=120%><sprite=2></size>"
   },
   {
     "Id": "C_GONDORIANMILITIA_FLAVOR",
@@ -9561,7 +9005,7 @@
   },
   {
     "Id": "C_GONDORIANMILITIA_TEXT",
-    "Text": "<b>Arrival</b>: Gain +1 Health for each other Gondor Character in play"
+    "Text": "<line-height=100%><b>Arrival</b>: Gain +1 <size=120%><sprite=2></size> for each other Gondor Character in play"
   },
   {
     "Id": "C_EOMER_FLAVOR",
@@ -9573,25 +9017,19 @@
   },
   {
     "Id": "C_EOMER_TEXT",
-    "Text": "When a Rohan Character leaves play, gain +1 Attack and <b>Stalwart</b> this round"
+    "Text": "<line-height=100%>When a Rohan Character leaves play, gain +1 <size=120%><sprite=0></size> and <b>Stalwart</b> this round"
   },
   {
     "Id": "C_GUTHWINE_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_GUTHWINE_TITLE",
-    "Text": "‰Guthwine",
-    "Text_CN": "‰Guthwine",
-    "Text_FR": "‰Guthwine"
+    "Text": "‰Guthwine"
   },
   {
     "Id": "C_GUTHWINE_TEXT",
-    "Text": "Gain +1 Attack. \nIf attached to <i>Eomer</i>  Gain +1 Willpower as well",
-    "Text_CN": "Gain +1 Attack. \nIf attached to <i>Eomer</i>  Gain +1 Willpower as well",
-    "Text_FR": "Gain +1 Attack. \nIf attached to <i>Eomer</i>  Gain +1 Willpower as well"
+    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=0></size>; also gain +1 <size=120%><sprite=5></size> if equipped to <i>Eomer</i>"
   },
   {
     "Id": "C_GLEOWINE_FLAVOR",
@@ -9603,43 +9041,31 @@
   },
   {
     "Id": "C_GLEOWINE_TEXT",
-    "Text": "<b>Power</b>: Exhaust this Character to draw a card (cost 1)"
+    "Text": "<line-height=100%><b>Power</b>: Exhaust this Character to draw a card (cost 1 <size=120%><sprite=3></size>)"
   },
   {
     "Id": "C_OATHSYOUHAVETAKEN_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_OATHSYOUHAVETAKEN_TITLE",
-    "Text": "Oaths You Have Taken",
-    "Text_CN": "Oaths You Have Taken",
-    "Text_FR": "Oaths You Have Taken"
+    "Text": "Oaths You Have Taken"
   },
   {
     "Id": "C_OATHSYOUHAVETAKEN_TEXT",
-    "Text": "When a character leaves play all Allies gain +1 Attack this round",
-    "Text_CN": "When a character leaves play all Allies gain +1 Attack this round",
-    "Text_FR": "When a character leaves play all Allies gain +1 Attack this round"
+    "Text": "When the next Character is defeated, all Allies gain \n+1 <size=120%><sprite=0></size> this round"
   },
   {
     "Id": "C_SCOUTINGREPORT_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_SCOUTINGREPORT_TITLE",
-    "Text": "Scouting Report",
-    "Text_CN": "Scouting Report",
-    "Text_FR": "Scouting Report"
+    "Text": "Scouting Report"
   },
   {
     "Id": "C_SCOUTINGREPORT_TEXT",
-    "Text": "Remove an Ally from play to give +1 Willpower to all Characters this round",
-    "Text_CN": "Remove an Ally from play to give +1 Willpower to all Characters this round",
-    "Text_FR": "Remove an Ally from play to give +1 Willpower to all Characters this round"
+    "Text": "Remove an Ally from play to give all friendly Characters +1 <size=120%><sprite=5></size> this round"
   },
   {
     "Id": "C_IDRAEN_FLAVOR",
@@ -9723,7 +9149,7 @@
   },
   {
     "Id": "C_DUNEDAINTRAP_TEXT",
-    "Text": "Remove all keywords from\nthe attached Enemy"
+    "Text": "Remove all keywords from attached Enemy"
   },
   {
     "Id": "C_ATEST180424_TITLE",
@@ -11479,7 +10905,7 @@
   },
   {
     "Id": "C_ELVENBLADE_TEXT",
-    "Text": "(Silvan or Noldor only.) \nGain +2 Attack"
+    "Text": "<line-height=100%>[Silvan or Noldor only.] \n+2 <size=120%><sprite=0></size>"
   },
   {
     "Id": "Q_CAMPAIGN_TEST0510_NAME",
@@ -11655,7 +11081,7 @@
   },
   {
     "Id": "C_AATEST180514_TEXT",
-    "Text": ""
+    "Text": "test5"
   },
   {
     "Id": "C_AATEST180514_FLAVOR",
@@ -11667,7 +11093,7 @@
   },
   {
     "Id": "C_FATEKINGSFOIL_TEXT",
-    "Text": "Restore 2 Health to all friendly Characters"
+    "Text": "<line-height=100%>Restore 2 <size=120%><sprite=2></size> to all friendly Characters"
   },
   {
     "Id": "C_FATEKINGSFOIL_FLAVOR",
@@ -11679,7 +11105,7 @@
   },
   {
     "Id": "C_SAVEDBYTHEELVES_TEXT",
-    "Text": "Rain of 2Atk Arrows vs. Enemies"
+    "Text": "Rain of 2 <size=120%><sprite=0></size> Arrows vs. Enemies"
   },
   {
     "Id": "C_SAVEDBYTHEELVES_FLAVOR",
@@ -11715,7 +11141,7 @@
   },
   {
     "Id": "C_SHAFTOFSUNLIGHT_TEXT",
-    "Text": "Remove 4 Threat"
+    "Text": "Remove 4 <size=120%><sprite=4></size>"
   },
   {
     "Id": "C_SHAFTOFSUNLIGHT_FLAVOR",
@@ -11727,7 +11153,7 @@
   },
   {
     "Id": "C_RANGERSCACHE_TEXT",
-    "Text": "Grant +2 Resources"
+    "Text": "Gain +2 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_RANGERSCACHE_FLAVOR",
@@ -11739,7 +11165,7 @@
   },
   {
     "Id": "C_POISONED_TEXT",
-    "Text": "A random hero is poisoned and takes 1 point of damage every round until the quest ends."
+    "Text": "<b>Upkeep</b>: Deal 1 damage to the same random Hero until the Quest ends"
   },
   {
     "Id": "C_POISONED_FLAVOR",
@@ -11751,7 +11177,7 @@
   },
   {
     "Id": "C_WAVEOFFEAR_TEXT",
-    "Text": "All of the player Allies on the board flee in terror.  (Removed from the game)."
+    "Text": "All Allies in play flee in terror and are removed from the game"
   },
   {
     "Id": "C_WAVEOFFEAR_FLAVOR",
@@ -11763,7 +11189,7 @@
   },
   {
     "Id": "C_SPIDERSDESCEND_TEXT",
-    "Text": "The board is filled with 2/5 spiders. (Filling out all available enemy slots)."
+    "Text": "Add <u>X</u> <i>Forest Spiders</i> \n(<u>X</u> is the number of open spaces on the board)"
   },
   {
     "Id": "C_SPIDERSDESCEND_FLAVOR",
@@ -11864,5 +11290,301 @@
   {
     "Id": "C_ATEST18030706_FLAVOR",
     "Text": "C_ATEST18030706_FLAVOR"
+  },
+  {
+    "Id": "Q_CAMPAIGN_DOGNIGHT_NAME",
+    "Text": "Q_CAMPAIGN_DOGNIGHT_NAME"
+  },
+  {
+    "Id": "Q_QUEST_DOGNIGHTQUEST01_NAME",
+    "Text": "Q_QUEST_DOGNIGHTQUEST01_NAME"
+  },
+  {
+    "Id": "Q_QUEST_DOGNIGHTQUEST01_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_DOGNIGHTQUEST01_VICTORY_TEXT",
+    "Text": "Q_QUEST_DOGNIGHTQUEST01_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_DOGNIGHTQUEST01_DEFEAT_TEXT",
+    "Text": "Q_QUEST_DOGNIGHTQUEST01_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_DOGNIGHTQUEST02_NAME",
+    "Text": "Q_QUEST_DOGNIGHTQUEST02_NAME"
+  },
+  {
+    "Id": "Q_QUEST_DOGNIGHTQUEST02_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_DOGNIGHTQUEST02_VICTORY_TEXT",
+    "Text": "Q_QUEST_DOGNIGHTQUEST02_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_DOGNIGHTQUEST02_DEFEAT_TEXT",
+    "Text": "Q_QUEST_DOGNIGHTQUEST02_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_DOGNIGHTQUEST03_NAME",
+    "Text": "Q_QUEST_DOGNIGHTQUEST03_NAME"
+  },
+  {
+    "Id": "Q_QUEST_DOGNIGHTQUEST03_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_DOGNIGHTQUEST03_VICTORY_TEXT",
+    "Text": "Q_QUEST_DOGNIGHTQUEST03_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_DOGNIGHTQUEST03_DEFEAT_TEXT",
+    "Text": "Q_QUEST_DOGNIGHTQUEST03_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_DOGNIGHTQUEST04_NAME",
+    "Text": "Q_QUEST_DOGNIGHTQUEST04_NAME"
+  },
+  {
+    "Id": "Q_QUEST_DOGNIGHTQUEST04_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_DOGNIGHTQUEST04_VICTORY_TEXT",
+    "Text": "Q_QUEST_DOGNIGHTQUEST04_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_DOGNIGHTQUEST04_DEFEAT_TEXT",
+    "Text": "Q_QUEST_DOGNIGHTQUEST04_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_DOGNIGHTQUEST05_NAME",
+    "Text": "Q_QUEST_DOGNIGHTQUEST05_NAME"
+  },
+  {
+    "Id": "Q_QUEST_DOGNIGHTQUEST05_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_DOGNIGHTQUEST05_VICTORY_TEXT",
+    "Text": "Q_QUEST_DOGNIGHTQUEST05_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_DOGNIGHTQUEST05_DEFEAT_TEXT",
+    "Text": "Q_QUEST_DOGNIGHTQUEST05_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_CAMPAIGN_DEMO051618_NAME",
+    "Text": "Q_CAMPAIGN_DEMO051618_NAME"
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST01_NAME",
+    "Text": "Demo Lost in Mirkwood"
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST01_DESCRIPTION",
+    "Text": "<i><size=58>T</size>hough free of the giant spiders' lair, your party is lost in the dark forest. You must get your bearings if you hope to escape the vastness of Mirkwood.</i>"
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST01_VICTORY_TEXT",
+    "Text": "<i><size=58>A</size>gainst all odds, you have escaped Mirkwood Forest. Before you stretches the vales of Anduin, and the Misty Mountains beyond. The next leg of your journey lies to the south: the realm of the Beornings. Having seen firsthand the menace rising within Mirkwood, you know well the urgency to your mission. Still, you grant yourself a brief pause to gather your strength, the clear sky being a welcome change from your time under Mirkwood's dark canopy…</i>"
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST01_DEFEAT_TEXT",
+    "Text": "<i><size=58>Y</size>our last Hero falls, bringing your journey to a tragic end.</i>"
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST02_NAME",
+    "Text": "Q_QUEST_DEMO051618QUEST02_NAME"
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST02_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST02_VICTORY_TEXT",
+    "Text": "Q_QUEST_DEMO051618QUEST02_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST02_DEFEAT_TEXT",
+    "Text": "Q_QUEST_DEMO051618QUEST02_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST03_NAME",
+    "Text": "Q_QUEST_DEMO051618QUEST03_NAME"
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST03_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST03_VICTORY_TEXT",
+    "Text": "Q_QUEST_DEMO051618QUEST03_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST03_DEFEAT_TEXT",
+    "Text": "Q_QUEST_DEMO051618QUEST03_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST04_NAME",
+    "Text": "Q_QUEST_DEMO051618QUEST04_NAME"
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST04_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST04_VICTORY_TEXT",
+    "Text": "Q_QUEST_DEMO051618QUEST04_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST04_DEFEAT_TEXT",
+    "Text": "Q_QUEST_DEMO051618QUEST04_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST05_NAME",
+    "Text": "Q_QUEST_DEMO051618QUEST05_NAME"
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST05_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST05_VICTORY_TEXT",
+    "Text": "Q_QUEST_DEMO051618QUEST05_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST05_DEFEAT_TEXT",
+    "Text": "Q_QUEST_DEMO051618QUEST05_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_DEMOQUEST_NAME",
+    "Text": "Demo Lost in Mirkwood"
+  },
+  {
+    "Id": "Q_QUEST_DEMOQUEST_DESCRIPTION",
+    "Text": "<i><size=58>T</size>hough free of the giant spiders' lair, your party is lost in the dark forest. You must get your bearings if you hope to escape the vastness of Mirkwood.</i>"
+  },
+  {
+    "Id": "Q_QUEST_DEMOQUEST_VICTORY_TEXT",
+    "Text": "<i><size=58>A</size>gainst all odds, you have escaped Mirkwood Forest. Before you stretches the vales of Anduin, and the Misty Mountains beyond. The next leg of your journey lies to the south: the realm of the Beornings. Having seen firsthand the menace rising within Mirkwood, you know well the urgency to your mission. Still, you grant yourself a brief pause to gather your strength, the clear sky being a welcome change from your time under Mirkwood's dark canopy…</i>"
+  },
+  {
+    "Id": "Q_QUEST_DEMOQUEST_DEFEAT_TEXT",
+    "Text": "<i><size=58>Y</size>our last Hero falls, bringing your journey to a tragic end.</i>"
+  },
+  {
+    "Id": "Q_STAGE_DEMOLOCATION1_NAME",
+    "Text": "Mirkwood Forest"
+  },
+  {
+    "Id": "Q_STAGE_DEMOLOCATION1_TEXT",
+    "Text": "<i><size=58>Y</size>ou have rescued your friends and escaped the spiders' lair, only to find yourself lost in the vastness of Mirkwood. Far from the relative safety of the Forest Road, the woods are a dark tangle of twisted trees. It is impossible to know the correct direction to travel within this wooded maze. \r\nIf you are to find your way out and continue your mission for the King of Dale, you must first find some landmarks to get your bearings…</i>"
+  },
+  {
+    "Id": "Q_STAGE_DEMOLOCATION1_OBJECTIVE",
+    "Text": "Resolve either <i>Along the Stream</i> or <i>Investigate the Village</i> to travel immediately to the next Location"
+  },
+  {
+    "Id": "Q_STAGE_DEMOLOCATION2A_NAME",
+    "Text": "Mirkwood Swamp"
+  },
+  {
+    "Id": "Q_STAGE_DEMOLOCATION2A_TEXT",
+    "Text": "<i><size=58>A</size>t long last, the stream you have been following empties into a wide bog. The Anduin River vale must lie beyond this morass. Though the moist ground sucks greedily at your feet with each step, you make your way across the swamp doggedly and with no small amount of relief at leaving the accursed wood behind. Just then, the bog ahead erupts in a shower of brackish water! A Giant Marsh Worm lunges for you hungrily with a speed that belies its size…</i>"
+  },
+  {
+    "Id": "Q_STAGE_DEMOLOCATION2A_OBJECTIVE",
+    "Text": "<b>Final Encounter</b>: Defeat <i>Giant Marsh Worm</i> to complete the Quest"
+  },
+  {
+    "Id": "Q_STAGE_DEMOLOCATION2B_NAME",
+    "Text": "Abandoned Village"
+  },
+  {
+    "Id": "Q_STAGE_DEMOLOCATION2B_TEXT",
+    "Text": "<i><size=58>N</size>avigating through the dense forest toward the smoke is no easy task, but at last you find the remains of an old Woodsmen village. Even more welcome to your eyes is the clear blue sky in the distance: you stand near the eaves of Mirkwood! Your relief is short-lived, however, as the village is overrun with Orcs! They spot your weary group, making it clear that you must fight to reach the Anduin Vale.</i>"
+  },
+  {
+    "Id": "Q_STAGE_DEMOLOCATION2B_OBJECTIVE",
+    "Text": "<b>Final Encounter</b>: Defeat all Enemies in play to complete the Quest"
+  },
+  {
+    "Id": "Q_QUEST_DEMOIDTEST_NAME",
+    "Text": "Lost in Mirkwood"
+  },
+  {
+    "Id": "Q_QUEST_DEMOIDTEST_DESCRIPTION",
+    "Text": "<i><size=58>T</size>hough free of the giant spiders' lair, your party is lost in the dark forest. You must get your bearings if you hope to escape the vastness of Mirkwood.</i>"
+  },
+  {
+    "Id": "Q_QUEST_DEMOIDTEST_VICTORY_TEXT",
+    "Text": "<i><size=58>A</size>gainst all odds, you have escaped Mirkwood Forest. Before you stretches the vales of Anduin, and the Misty Mountains beyond. The next leg of your journey lies to the south: the realm of the Beornings. Having seen firsthand the menace rising within Mirkwood, you know well the urgency to your mission. Still, you grant yourself a brief pause to gather your strength, the clear sky being a welcome change from your time under Mirkwood's dark canopy…</i>"
+  },
+  {
+    "Id": "Q_QUEST_DEMOIDTEST_DEFEAT_TEXT",
+    "Text": "<i><size=58>Y</size>our last Hero falls, bringing your journey to a tragic end.</i>"
+  },
+  {
+    "Id": "Q_QUEST_DEMODECKNAMINGTEST_NAME",
+    "Text": "DeckNamingTest"
+  },
+  {
+    "Id": "Q_QUEST_DEMODECKNAMINGTEST_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_DEMODECKNAMINGTEST_VICTORY_TEXT",
+    "Text": "Q_QUEST_DEMO051618QUEST03_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_DEMODECKNAMINGTEST_DEFEAT_TEXT",
+    "Text": "Q_QUEST_DEMO051618QUEST03_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST1_NAME",
+    "Text": "Demo Lost in Mirkwood"
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST1_DESCRIPTION",
+    "Text": "<i><size=58>T</size>hough free of the giant spiders' lair, your party is lost in the dark forest. You must get your bearings if you hope to escape the vastness of Mirkwood.</i>"
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST1_VICTORY_TEXT",
+    "Text": "<i><size=58>A</size>gainst all odds, you have escaped Mirkwood Forest. Before you stretches the vales of Anduin, and the Misty Mountains beyond. The next leg of your journey lies to the south: the realm of the Beornings. Having seen firsthand the menace rising within Mirkwood, you know well the urgency to your mission. Still, you grant yourself a brief pause to gather your strength, the clear sky being a welcome change from your time under Mirkwood's dark canopy…</i>"
+  },
+  {
+    "Id": "Q_QUEST_DEMO051618QUEST1_DEFEAT_TEXT",
+    "Text": "<i><size=58>Y</size>our last Hero falls, bringing your journey to a tragic end.</i>"
+  },
+  {
+    "Id": "C_ALONGTHESTREAM_TITLE",
+    "Text": "Along the Stream"
+  },
+  {
+    "Id": "C_ALONGTHESTREAM_TEXT",
+    "Text": "You may travel to \n<i>Mirkwood Swamp</i>"
+  },
+  {
+    "Id": "C_ALONGTHESTREAM_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_INVESTIGATETHEVILLAGE_TITLE",
+    "Text": "Investigate the Village"
+  },
+  {
+    "Id": "C_INVESTIGATETHEVILLAGE_TEXT",
+    "Text": "You may travel to\n<i>Abandoned Village</i>"
+  },
+  {
+    "Id": "C_INVESTIGATETHEVILLAGE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_SPIDERQUEEN_FLAVOR",
+    "Text": ""
   }
 ]

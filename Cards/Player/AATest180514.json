@@ -2,7 +2,7 @@
   "CardData": {
     "Id": "AATest180514",
     "Owner": "Player",
-    "CardType": "Fate",
+    "CardType": 10,
     "ShopType": "",
     "Cost": 0,
     "QuestPoints": 0,
@@ -10,8 +10,8 @@
     "Willpower": 0,
     "Health": 0,
     "Trait": "",
-    "Rarity": "Common",
-    "Sphere": "Leadership",
+    "Rarity": 0,
+    "Sphere": 0,
     "SphereLevel": 1,
     "Revision": null,
     "PlayVFX": "",
@@ -22,9 +22,9 @@
     "DeathSFX": "",
     "FlavorText": "",
     "ArtistName": "artist",
-    "Status": "",
+    "Status": "None",
     "CardOffsetX": 1.0,
-    "CardOffsetY": 1.0,
+    "CardOffsetY": 1.1,
     "CardScale": 1.0,
     "CameoOffsetX": 1.0,
     "CameoOffsetY": 1.0,
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "test",
-    "Text": ""
+    "Text": "test5"
   }
 }

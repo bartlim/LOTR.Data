@@ -1,11 +1,11 @@
 {
-  "Id": "Demo",
+  "Id": "Demo051618",
   "IconSprite": "Sprites/Quest/icon_q1",
-  "MapPosX": -2.0,
+  "MapPosX": -3.0,
   "MapPosY": -5.0,
   "Quests": [
     {
-      "Id": "LostInMirkwoodDemo",
+      "Id": "Demo051618Quest01",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": "Victory",
@@ -13,25 +13,26 @@
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
-          "Id": "MirkwoodForestDemo",
+          "Id": "DemoLocation1",
           "SceneName": "Q03_L01_MirkwoodForest",
           "IntroVoice": "OpeningMirkwood_01",
-          "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+          "IntroSprite": "Demo051618Quest01DemoLocation1IntroSprite",
           "SoloGameSetup": [
-            "AlongTheRiver",
+            "AlongTheStream",
             "InvestigateTheVillage",
             "BlackForestBats",
             "GiantSpider",
             "WildBear"
           ],
-          "NextStageId": "MirkwoodSwampDemo,AbandonedVillageDemo",
-          "BGM": "mus_spookyforest"
+          "NextStageId": "DemoLocation2a,DemoLocation2b",
+          "BGM": "mus_mirkwood",
+          "FateCardList": []
         },
         {
-          "Id": "MirkwoodSwampDemo",
+          "Id": "DemoLocation2a",
           "SceneName": "Q03_L03a_MirkwoodSwamp",
           "IntroVoice": null,
-          "IntroSprite": null,
+          "IntroSprite": "DemoQuestDemoLocation2aIntroSprite",
           "SoloGameSetup": [
             "GiantMarshWorm",
             "Hummerhorns",
@@ -39,13 +40,14 @@
             "MuckAdder"
           ],
           "NextStageId": "",
-          "BGM": "mus_desperation"
+          "BGM": "mus_mirkwood",
+          "FateCardList": null
         },
         {
-          "Id": "AbandonedVillageDemo",
+          "Id": "DemoLocation2b",
           "SceneName": "Q03_L03c_AbandonedVillage",
           "IntroVoice": null,
-          "IntroSprite": null,
+          "IntroSprite": "DemoQuestDemoLocation2bIntroSprite",
           "SoloGameSetup": [
             "DolGuldurOrcs",
             "OrcMarauder",
@@ -53,7 +55,8 @@
             "EastBightPatrol"
           ],
           "NextStageId": "",
-          "BGM": "mus_desperation"
+          "BGM": "mus_mirkwood",
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -62,15 +65,19 @@
           "Amount": 2
         },
         {
-          "Id": "DolGuldurOrcs",
+          "Id": "WatchersintheDark",
           "Amount": 2
         },
         {
-          "Id": "EastBightPatrol",
+          "Id": "CreatureOfDarkness",
           "Amount": 2
         },
         {
-          "Id": "Enfeebled",
+          "Id": "DarkSorcery",
+          "Amount": 1
+        },
+        {
+          "Id": "Despair",
           "Amount": 2
         },
         {
@@ -78,29 +85,175 @@
           "Amount": 2
         },
         {
-          "Id": "GoblinSniper",
+          "Id": "EastBightPatrol",
           "Amount": 2
         },
         {
-          "Id": "MirkwoodPatrol",
+          "Id": "EyesOfTheForest",
+          "Amount": 1
+        },
+        {
+          "Id": "GatheringGloom",
+          "Amount": 1
+        },
+        {
+          "Id": "GrowingDarkness",
+          "Amount": 1
+        },
+        {
+          "Id": "LostInTheWilderness",
+          "Amount": 1
+        },
+        {
+          "Id": "MirkwoodFlock",
+          "Amount": 2
+        },
+        {
+          "Id": "PursuedByShadow",
+          "Amount": 1
+        },
+        {
+          "Id": "SpiesofShadow",
+          "Amount": 2
+        },
+        {
+          "Id": "SpookedHorses",
+          "Amount": 1
+        },
+        {
+          "Id": "TreacherousFog",
+          "Amount": 1
+        },
+        {
+          "Id": "UnderTheShadow",
+          "Amount": 2
+        },
+        {
+          "Id": "Unwavering",
+          "Amount": 1
+        },
+        {
+          "Id": "Veteran",
+          "Amount": 1
+        },
+        {
+          "Id": "ViciousSpeed",
+          "Amount": 1
+        },
+        {
+          "Id": "BlockedPath",
+          "Amount": 1
+        },
+        {
+          "Id": "Enfeebled",
+          "Amount": 1
+        },
+        {
+          "Id": "EvilStorm",
+          "Amount": 1
+        },
+        {
+          "Id": "GreedyFingers",
+          "Amount": 1
+        },
+        {
+          "Id": "Hummerhorns",
+          "Amount": 2
+        },
+        {
+          "Id": "LowOnSupplies",
+          "Amount": 1
+        },
+        {
+          "Id": "MuckAdder",
           "Amount": 2
         },
         {
           "Id": "ThickWebs",
-          "Amount": 2
+          "Amount": 1
         },
         {
           "Id": "Tribulation",
+          "Amount": 1
+        },
+        {
+          "Id": "UnderTheWatchfulEye",
+          "Amount": 1
+        },
+        {
+          "Id": "WatchfulEyes",
           "Amount": 2
+        },
+        {
+          "Id": "AccursedForest",
+          "Amount": 1
+        },
+        {
+          "Id": "Exhaustion",
+          "Amount": 1
+        },
+        {
+          "Id": "GoblinSniper",
+          "Amount": 2
+        },
+        {
+          "Id": "KingSpider",
+          "Amount": 1
+        },
+        {
+          "Id": "OrcBeastmaster",
+          "Amount": 1
+        },
+        {
+          "Id": "OrcMarauder",
+          "Amount": 1
+        },
+        {
+          "Id": "SpidersOfMirkwood",
+          "Amount": 1
+        },
+        {
+          "Id": "TurnedAround",
+          "Amount": 1
+        },
+        {
+          "Id": "VeteranPatrol",
+          "Amount": 1
+        },
+        {
+          "Id": "Wargs",
+          "Amount": 2
+        },
+        {
+          "Id": "WargRiders",
+          "Amount": 1
+        },
+        {
+          "Id": "WildBear",
+          "Amount": 1
+        },
+        {
+          "Id": "ChieftainUfthak",
+          "Amount": 1
+        },
+        {
+          "Id": "EliteDolGuldurOrcs",
+          "Amount": 1
+        },
+        {
+          "Id": "PackOfWargs",
+          "Amount": 1
         }
-      ]
+      ],
+      "FateCardList": [],
+      "ThreatCardList": []
     },
     {
-      "Id": "DemoQuest02",
+      "Id": "DemoIDTest",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
-      "VictoryVoice": null,
-      "DefeatVoice": null,
+      "VictoryVoice": "Victory",
+      "DefeatVoice": "Defeat",
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
@@ -113,7 +266,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": []
         }
       ],
       "SauronDeck": [
@@ -153,10 +307,12 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": [],
+      "ThreatCardList": []
     },
     {
-      "Id": "DemoQuest03",
+      "Id": "Demo051618Quest03",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,
@@ -173,7 +329,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": []
         }
       ],
       "SauronDeck": [
@@ -213,10 +370,12 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": [],
+      "ThreatCardList": []
     },
     {
-      "Id": "DemoQuest04",
+      "Id": "Demo051618Quest04",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,
@@ -233,7 +392,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": []
         }
       ],
       "SauronDeck": [
@@ -273,10 +433,12 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": [],
+      "ThreatCardList": []
     },
     {
-      "Id": "DemoQuest05",
+      "Id": "Demo051618Quest05",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "VictoryVoice": null,
@@ -293,7 +455,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": []
         }
       ],
       "SauronDeck": [
@@ -333,7 +496,9 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": [],
+      "ThreatCardList": []
     }
   ]
 }

@@ -24,7 +24,7 @@
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
-    "CardOffsetY": 1.0,
+    "CardOffsetY": 1.05,
     "CardScale": 1.0,
     "CameoOffsetX": 1.0,
     "CameoOffsetY": 1.0,
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "A Light From Within",
-    "Text": "Each Ally gains +1 Willpower this round"
+    "Text": "<line-height=100%>Each Ally gains +1 <size=120%><sprite=5></size> this round"
   }
 }

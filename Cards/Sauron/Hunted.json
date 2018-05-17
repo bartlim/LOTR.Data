@@ -23,12 +23,20 @@
     "FlavorText": "Another long screech rose and fell, and he threw himself back again from the wall, panting like a hunted animal.\n—<i>The Return of the King</i>",
     "ArtistName": "Adam Lane",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "ef1eccf3a15cb948708fa9a428570c87",
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Hunted",
-    "Text": "<b>Choose:</b> Gain +1 Threat for\n each Ally; or discard an Ally"
+    "Text": "<line-height=100%><b>Choose:</b> Gain +1 <size=120%><sprite=4></size> for \neach Ally; or discard an Ally"
   }
 }

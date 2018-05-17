@@ -1,0 +1,42 @@
+{
+  "CardData": {
+    "Id": "InvestigateTheVillage",
+    "Owner": "Sauron",
+    "CardType": 6,
+    "ShopType": "",
+    "Cost": 0,
+    "QuestPoints": 8,
+    "Attack": 0,
+    "Willpower": 0,
+    "Health": 0,
+    "Trait": "Main",
+    "Rarity": 0,
+    "Sphere": 2,
+    "SphereLevel": 0,
+    "Revision": null,
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "",
+    "ArtistName": "",
+    "Status": "WIP",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
+    "ArtworkMD5": "f53a049571fc6a8e7e268cf576a6301f",
+    "BannerMD5": null,
+    "IconMD5": "87e1103468be7811077ef103fadd6403"
+  },
+  "Localization": {
+    "Title": "Investigate the Village",
+    "Text": "You may travel to\n<i>Abandoned Village</i>"
+  }
+}
