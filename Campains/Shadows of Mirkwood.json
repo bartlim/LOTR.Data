@@ -53,6 +53,18 @@
           "NextStageId": "DelayingAttack",
           "BGM": "mus_mirkwood",
           "FateCardList": null
+        },
+        {
+          "Id": "DelayingAttack",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": [
+            "OrcVanguard"
+          ],
+          "NextStageId": "",
+          "BGM": "mus_desperation",
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
