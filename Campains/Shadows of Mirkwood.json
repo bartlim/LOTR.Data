@@ -23,7 +23,22 @@
             "OrcMarauder"
           ],
           "NextStageId": "TrackingTheFoe",
-          "BGM": "mus_danger"
+          "BGM": "mus_danger",
+          "FateCardList": null
+        },
+        {
+          "Id": "TrackingTheFoe",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": [
+            "EastBightPatrol",
+            "EastBightPatrol",
+            "Warg"
+          ],
+          "NextStageId": "GiveChase",
+          "BGM": "mus_mirkwood",
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -63,7 +78,9 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null
     },
     {
       "Id": "Shadows of MirkwoodQuest02",
@@ -83,7 +100,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -123,7 +141,9 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null
     },
     {
       "Id": "Shadows of MirkwoodQuest03",
@@ -143,7 +163,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -183,7 +204,9 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null
     },
     {
       "Id": "Shadows of MirkwoodQuest04",
@@ -203,7 +226,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -243,7 +267,9 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null
     },
     {
       "Id": "Shadows of MirkwoodQuest05",
@@ -263,7 +289,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -303,7 +330,9 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null
     }
   ]
 }
