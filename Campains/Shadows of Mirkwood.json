@@ -117,7 +117,7 @@
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
-          "Id": "Location201",
+          "Id": "TheCaveEntrance",
           "SceneName": "Q01_L01_ForestGate",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
@@ -125,8 +125,50 @@
             "FindThePath",
             "VeteranPatrol"
           ],
+          "NextStageId": "TheHallsOfNibindum",
+          "BGM": "mus_cave",
+          "FateCardList": null
+        },
+        {
+          "Id": "TheHallsOfNibindum",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": [
+            ""
+          ],
+          "NextStageId": "ASneakyPath,ADirectAssault",
+          "BGM": "mus_cave",
+          "FateCardList": null
+        },
+        {
+          "Id": "ASneakyPath",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": null,
+          "NextStageId": "TheOrcsLair",
+          "BGM": "mus_cave",
+          "FateCardList": null
+        },
+        {
+          "Id": "ADirectAssault",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": null,
+          "NextStageId": "TheOrcsLair",
+          "BGM": "mus_cave",
+          "FateCardList": null
+        },
+        {
+          "Id": "TheOrcsLair",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": null,
           "NextStageId": "",
-          "BGM": null,
+          "BGM": "mus_cave",
           "FateCardList": null
         }
       ],
