@@ -1722,6 +1722,46 @@
               "NextStageId": "TrackingTheFoe",
               "BGM": "mus_danger",
               "FateCardList": null
+            },
+            {
+              "Id": "TrackingTheFoe",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": null,
+              "IntroSprite": null,
+              "SoloGameSetup": [
+                "EastBightPatrol",
+                "EastBightPatrol",
+                "Warg"
+              ],
+              "NextStageId": "GiveChase",
+              "BGM": "mus_mirkwood",
+              "FateCardList": null
+            },
+            {
+              "Id": "GiveChase",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": null,
+              "IntroSprite": null,
+              "SoloGameSetup": [
+                "WargRiders",
+                "PackOfWargs",
+                "MirkwoodPatrol"
+              ],
+              "NextStageId": "DelayingAttack",
+              "BGM": "mus_mirkwood",
+              "FateCardList": null
+            },
+            {
+              "Id": "DelayingAttack",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": null,
+              "IntroSprite": null,
+              "SoloGameSetup": [
+                "OrcVanguard"
+              ],
+              "NextStageId": "",
+              "BGM": "mus_desperation",
+              "FateCardList": null
             }
           ],
           "SauronDeck": [
