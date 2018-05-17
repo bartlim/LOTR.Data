@@ -286,7 +286,7 @@
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          "AmbushOnTheShore"
+          "AmbushOnTheShoreStage"
         ],
         "FateCardList": null
       },
@@ -301,12 +301,12 @@
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          "AmbushOnTheShore"
+          "AmbushOnTheShoreStage"
         ],
         "FateCardList": null
       },
       {
-        "Title": "AmbushOnTheShore",
+        "Title": "AmbushOnTheShoreStage",
         "SoloGameSetup": [
           "AmbushOnTheShore",
           "OrcMarauder",
@@ -327,9 +327,9 @@
     "FateCardList": null,
     "ThreatCardList": null
   },
-  "Version": "20180515054834157",
+  "Version": "20180517082258658",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180515054834157"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180517082258658"
 }
