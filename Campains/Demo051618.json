@@ -31,7 +31,7 @@
         {
           "Id": "DemoLocation2a",
           "SceneName": "Q03_L03a_MirkwoodSwamp",
-          "IntroVoice": null,
+          "IntroVoice": "",
           "IntroSprite": "DemoQuestDemoLocation2aIntroSprite",
           "SoloGameSetup": [
             "GiantMarshWorm",
@@ -46,7 +46,7 @@
         {
           "Id": "DemoLocation2b",
           "SceneName": "Q03_L03c_AbandonedVillage",
-          "IntroVoice": null,
+          "IntroVoice": "",
           "IntroSprite": "DemoQuestDemoLocation2bIntroSprite",
           "SoloGameSetup": [
             "DolGuldurOrcs",
