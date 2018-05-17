@@ -80,15 +80,18 @@
         "NextStages": [],
         "NextStageTitles": [
           ""
-        ]
+        ],
+        "FateCardList": null
       }
     ],
     "Sequences": [],
-    "Stories": []
+    "Stories": [],
+    "FateCardList": null,
+    "ThreatCardList": null
   },
-  "Version": "20180426194438855",
+  "Version": "20180517174401909",
   "Key": "MainQuest",
   "SubKey": "Shadows of MirkwoodQuest02",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Shadows of MirkwoodQuest02_20180426194438855"
+  "InternalKey": "MainQuest_Shadows of MirkwoodQuest02_20180517174401909"
 }
