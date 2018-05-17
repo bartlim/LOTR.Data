@@ -83,6 +83,16 @@
           ""
         ],
         "FateCardList": null
+      },
+      {
+        "Title": "",
+        "SoloGameSetup": [],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ],
+        "FateCardList": null
       }
     ],
     "Sequences": [],
@@ -104,9 +114,9 @@
       }
     ]
   },
-  "Version": "20180515024744048",
+  "Version": "20180517144135763",
   "Key": "MainQuest",
   "SubKey": "Test0510Quest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Test0510Quest01_20180515024744048"
+  "InternalKey": "MainQuest_Test0510Quest01_20180517144135763"
 }
