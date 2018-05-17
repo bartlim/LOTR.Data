@@ -222,16 +222,55 @@
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
-          "Id": "Location301",
+          "Id": "RacingThroughTheForest",
           "SceneName": "Q01_L01_ForestGate",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
-            "FindThePath",
-            "VeteranPatrol"
+            ""
           ],
+          "NextStageId": "UseTheStream,HideAndSeek",
+          "BGM": "mus_danger",
+          "FateCardList": null
+        },
+        {
+          "Id": "UseTheStream",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": null,
+          "NextStageId": "ApproachingRhosgobel",
+          "BGM": "mus_danger",
+          "FateCardList": null
+        },
+        {
+          "Id": "HideAndSeek",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": null,
+          "NextStageId": "ApproachingRhosgobel",
+          "BGM": "mus_danger",
+          "FateCardList": null
+        },
+        {
+          "Id": "ApproachingRhosgobel",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": null,
+          "NextStageId": "ALastStand",
+          "BGM": "mus_danger",
+          "FateCardList": null
+        },
+        {
+          "Id": "ALastStand",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": null,
           "NextStageId": "",
-          "BGM": null,
+          "BGM": "mus_saurontheme",
           "FateCardList": null
         }
       ],
