@@ -39,6 +39,20 @@
           "NextStageId": "GiveChase",
           "BGM": "mus_mirkwood",
           "FateCardList": null
+        },
+        {
+          "Id": "GiveChase",
+          "SceneName": "",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": [
+            "WargRiders",
+            "PackOfWargs",
+            "MirkwoodPatrol"
+          ],
+          "NextStageId": "DelayingAttack",
+          "BGM": "mus_mirkwood",
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
