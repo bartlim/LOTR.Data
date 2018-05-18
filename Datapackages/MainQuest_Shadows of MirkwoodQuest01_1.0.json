@@ -81,15 +81,58 @@
         "NextStages": [],
         "NextStageTitles": [
           "TrackingTheFoe"
-        ]
+        ],
+        "FateCardList": null
+      },
+      {
+        "Title": "TrackingTheFoe",
+        "SoloGameSetup": [
+          "EastBightPatrol",
+          "EastBightPatrol",
+          "Warg"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "GiveChase"
+        ],
+        "FateCardList": null
+      },
+      {
+        "Title": "GiveChase",
+        "SoloGameSetup": [
+          "WargRiders",
+          "PackOfWargs",
+          "MirkwoodPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "DelayingAttack"
+        ],
+        "FateCardList": null
+      },
+      {
+        "Title": "DelayingAttack",
+        "SoloGameSetup": [
+          "OrcVanguard"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ],
+        "FateCardList": null
       }
     ],
     "Sequences": [],
-    "Stories": []
+    "Stories": [],
+    "FateCardList": null,
+    "ThreatCardList": null
   },
-  "Version": "20180426194433518",
+  "Version": "20180517192139798",
   "Key": "MainQuest",
   "SubKey": "Shadows of MirkwoodQuest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Shadows of MirkwoodQuest01_20180426194433518"
+  "InternalKey": "MainQuest_Shadows of MirkwoodQuest01_20180517192139798"
 }

@@ -23,12 +23,20 @@
     "FlavorText": "C_TEST032318_FLAVOR",
     "ArtistName": "",
     "Status": "None",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "test032318",
-    "Text": "C_TEST032318_TEXT"
+    "Text": "<line-height=100%><b>Power</b>: Gain +1 <size=120%><sprite=0></size> and +1 <size=120%><sprite=5></size> \nthis round (cost 1 <size=120%><sprite=3></size>)"
   }
 }

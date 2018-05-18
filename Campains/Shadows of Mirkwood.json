@@ -23,7 +23,48 @@
             "OrcMarauder"
           ],
           "NextStageId": "TrackingTheFoe",
-          "BGM": "mus_danger"
+          "BGM": "mus_danger",
+          "FateCardList": null
+        },
+        {
+          "Id": "TrackingTheFoe",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": [
+            "EastBightPatrol",
+            "EastBightPatrol",
+            "Warg"
+          ],
+          "NextStageId": "GiveChase",
+          "BGM": "mus_mirkwood",
+          "FateCardList": null
+        },
+        {
+          "Id": "GiveChase",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": [
+            "WargRiders",
+            "PackOfWargs",
+            "MirkwoodPatrol"
+          ],
+          "NextStageId": "DelayingAttack",
+          "BGM": "mus_mirkwood",
+          "FateCardList": null
+        },
+        {
+          "Id": "DelayingAttack",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": [
+            "OrcVanguard"
+          ],
+          "NextStageId": "",
+          "BGM": "mus_desperation",
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -63,18 +104,20 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null
     },
     {
       "Id": "Shadows of MirkwoodQuest02",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
-      "VictoryVoice": null,
-      "DefeatVoice": null,
+      "VictoryVoice": "Victory",
+      "DefeatVoice": "Defeat",
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
-          "Id": "Location201",
+          "Id": "TheCaveEntrance",
           "SceneName": "Q01_L01_ForestGate",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
@@ -82,8 +125,51 @@
             "FindThePath",
             "VeteranPatrol"
           ],
+          "NextStageId": "TheHallsOfNibindum",
+          "BGM": "mus_cave",
+          "FateCardList": null
+        },
+        {
+          "Id": "TheHallsOfNibindum",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": [
+            ""
+          ],
+          "NextStageId": "ASneakyPath,ADirectAssault",
+          "BGM": "mus_cave",
+          "FateCardList": null
+        },
+        {
+          "Id": "ASneakyPath",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": null,
+          "NextStageId": "TheOrcsLair",
+          "BGM": "mus_cave",
+          "FateCardList": null
+        },
+        {
+          "Id": "ADirectAssault",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": null,
+          "NextStageId": "TheOrcsLair",
+          "BGM": "mus_cave",
+          "FateCardList": null
+        },
+        {
+          "Id": "TheOrcsLair",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": null,
           "NextStageId": "",
-          "BGM": null
+          "BGM": "mus_cave",
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -123,27 +209,69 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null
     },
     {
       "Id": "Shadows of MirkwoodQuest03",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
-      "VictoryVoice": null,
-      "DefeatVoice": null,
+      "VictoryVoice": "Victory",
+      "DefeatVoice": "Defeat",
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
-          "Id": "Location301",
+          "Id": "RacingThroughTheForest",
           "SceneName": "Q01_L01_ForestGate",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
-            "FindThePath",
-            "VeteranPatrol"
+            ""
           ],
+          "NextStageId": "UseTheStream,HideAndSeek",
+          "BGM": "mus_danger",
+          "FateCardList": null
+        },
+        {
+          "Id": "UseTheStream",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": null,
+          "NextStageId": "ApproachingRhosgobel",
+          "BGM": "mus_danger",
+          "FateCardList": null
+        },
+        {
+          "Id": "HideAndSeek",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": null,
+          "NextStageId": "ApproachingRhosgobel",
+          "BGM": "mus_danger",
+          "FateCardList": null
+        },
+        {
+          "Id": "ApproachingRhosgobel",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": null,
+          "NextStageId": "ALastStand",
+          "BGM": "mus_danger",
+          "FateCardList": null
+        },
+        {
+          "Id": "ALastStand",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": null,
+          "IntroSprite": null,
+          "SoloGameSetup": null,
           "NextStageId": "",
-          "BGM": null
+          "BGM": "mus_saurontheme",
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -183,7 +311,9 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null
     },
     {
       "Id": "Shadows of MirkwoodQuest04",
@@ -203,7 +333,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -243,7 +374,9 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null
     },
     {
       "Id": "Shadows of MirkwoodQuest05",
@@ -263,7 +396,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -303,7 +437,9 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null
     }
   ]
 }
