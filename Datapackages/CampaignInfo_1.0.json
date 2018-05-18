@@ -60,7 +60,7 @@
               "FateCardList": [
                 {
                   "Id": "TheSquirmingCocoon",
-                  "Threshold": 0
+                  "Threshold": 6
                 }
               ]
             },
@@ -94,7 +94,7 @@
               "FateCardList": [
                 {
                   "Id": "FateKingsfoil",
-                  "Threshold": 0
+                  "Threshold": 6
                 }
               ]
             },
@@ -114,7 +114,7 @@
               "FateCardList": [
                 {
                   "Id": "SavedbytheElves",
-                  "Threshold": 0
+                  "Threshold": 6
                 }
               ]
             }
@@ -248,29 +248,29 @@
           "FateCardList": [
             {
               "Id": "RangersCache",
-              "Threshold": 0
+              "Threshold": 4
             },
             {
               "Id": "ShaftofSunlight",
-              "Threshold": 0
+              "Threshold": 7
             },
             {
               "Id": "SupportfromDale",
-              "Threshold": 0
+              "Threshold": 10
             }
           ],
           "ThreatCardList": [
             {
               "Id": "SpidersDescend",
-              "Threshold": 0
+              "Threshold": 1
             },
             {
               "Id": "WaveofFear",
-              "Threshold": 0
+              "Threshold": 2
             },
             {
               "Id": "Poisoned",
-              "Threshold": 0
+              "Threshold": 3
             }
           ]
         },
