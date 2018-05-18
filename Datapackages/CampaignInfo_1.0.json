@@ -60,7 +60,7 @@
               "FateCardList": [
                 {
                   "Id": "TheSquirmingCocoon",
-                  "Treshold": 6
+                  "Threshold": 0
                 }
               ]
             },
@@ -94,7 +94,7 @@
               "FateCardList": [
                 {
                   "Id": "FateKingsfoil",
-                  "Treshold": 6
+                  "Threshold": 0
                 }
               ]
             },
@@ -114,7 +114,7 @@
               "FateCardList": [
                 {
                   "Id": "SavedbytheElves",
-                  "Treshold": 6
+                  "Threshold": 0
                 }
               ]
             }
@@ -248,29 +248,29 @@
           "FateCardList": [
             {
               "Id": "RangersCache",
-              "Treshold": 4
+              "Threshold": 0
             },
             {
               "Id": "ShaftofSunlight",
-              "Treshold": 7
+              "Threshold": 0
             },
             {
               "Id": "SupportfromDale",
-              "Treshold": 10
+              "Threshold": 0
             }
           ],
           "ThreatCardList": [
             {
               "Id": "SpidersDescend",
-              "Treshold": 1
+              "Threshold": 0
             },
             {
               "Id": "WaveofFear",
-              "Treshold": 2
+              "Threshold": 0
             },
             {
               "Id": "Poisoned",
-              "Treshold": 3
+              "Threshold": 0
             }
           ]
         },
@@ -1914,21 +1914,60 @@
           "Id": "Shadows of MirkwoodQuest03",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
-          "VictoryVoice": null,
-          "DefeatVoice": null,
+          "VictoryVoice": "Victory",
+          "DefeatVoice": "Defeat",
           "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
-              "Id": "Location301",
+              "Id": "RacingThroughTheForest",
               "SceneName": "Q01_L01_ForestGate",
               "IntroVoice": "OpeningMirkwood_01",
               "IntroSprite": "Sprites/Locations/Quest1_Stage01",
               "SoloGameSetup": [
-                "FindThePath",
-                "VeteranPatrol"
+                ""
               ],
+              "NextStageId": "UseTheStream,HideAndSeek",
+              "BGM": "mus_danger",
+              "FateCardList": null
+            },
+            {
+              "Id": "UseTheStream",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": null,
+              "IntroSprite": null,
+              "SoloGameSetup": null,
+              "NextStageId": "ApproachingRhosgobel",
+              "BGM": "mus_danger",
+              "FateCardList": null
+            },
+            {
+              "Id": "HideAndSeek",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": null,
+              "IntroSprite": null,
+              "SoloGameSetup": null,
+              "NextStageId": "ApproachingRhosgobel",
+              "BGM": "mus_danger",
+              "FateCardList": null
+            },
+            {
+              "Id": "ApproachingRhosgobel",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": null,
+              "IntroSprite": null,
+              "SoloGameSetup": null,
+              "NextStageId": "ALastStand",
+              "BGM": "mus_danger",
+              "FateCardList": null
+            },
+            {
+              "Id": "ALastStand",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": null,
+              "IntroSprite": null,
+              "SoloGameSetup": null,
               "NextStageId": "",
-              "BGM": null,
+              "BGM": "mus_saurontheme",
               "FateCardList": null
             }
           ],
@@ -2503,17 +2542,17 @@
           "FateCardList": [
             {
               "Id": "fate1",
-              "Treshold": 1
+              "Threshold": 0
             }
           ],
           "ThreatCardList": [
             {
               "Id": "threat2",
-              "Treshold": 2
+              "Threshold": 0
             },
             {
               "Id": "threat3",
-              "Treshold": 3
+              "Threshold": 0
             }
           ]
         },
