@@ -478,8 +478,34 @@
               "Amount": 1
             }
           ],
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": [
+            {
+              "Id": "RangersCache",
+              "Threshold": 0
+            },
+            {
+              "Id": "ShaftofSunlight",
+              "Threshold": 0
+            },
+            {
+              "Id": "SupportfromDale",
+              "Threshold": 0
+            }
+          ],
+          "ThreatCardList": [
+            {
+              "Id": "SpidersDescend",
+              "Threshold": 0
+            },
+            {
+              "Id": "WaveofFear",
+              "Threshold": 0
+            },
+            {
+              "Id": "Poisoned",
+              "Threshold": 0
+            }
+          ]
         },
         {
           "Id": "LostInMirkwood",
@@ -2542,7 +2568,7 @@
           "FateCardList": [
             {
               "Id": "fate1",
-              "Threshold": 0
+              "Threshold": 1
             }
           ],
           "ThreatCardList": [
@@ -2552,7 +2578,7 @@
             },
             {
               "Id": "threat3",
-              "Threshold": 0
+              "Threshold": 2
             }
           ]
         },
