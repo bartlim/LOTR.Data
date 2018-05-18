@@ -271,7 +271,7 @@
         "FateCardList": [
           {
             "Id": "TheSquirmingCocoon",
-            "Treshold": 6
+            "Threshold": 0
           }
         ]
       },
@@ -305,7 +305,7 @@
         "FateCardList": [
           {
             "Id": "FateKingsfoil",
-            "Treshold": 6
+            "Threshold": 0
           }
         ]
       },
@@ -325,7 +325,7 @@
         "FateCardList": [
           {
             "Id": "SavedbytheElves",
-            "Treshold": 6
+            "Threshold": 0
           }
         ]
       }
@@ -335,35 +335,35 @@
     "FateCardList": [
       {
         "Id": "RangersCache",
-        "Treshold": 4
+        "Threshold": 0
       },
       {
         "Id": "ShaftofSunlight",
-        "Treshold": 7
+        "Threshold": 0
       },
       {
         "Id": "SupportfromDale",
-        "Treshold": 10
+        "Threshold": 0
       }
     ],
     "ThreatCardList": [
       {
         "Id": "SpidersDescend",
-        "Treshold": 1
+        "Threshold": 0
       },
       {
         "Id": "WaveofFear",
-        "Treshold": 2
+        "Threshold": 0
       },
       {
         "Id": "Poisoned",
-        "Treshold": 3
+        "Threshold": 0
       }
     ]
   },
-  "Version": "20180517082242199",
+  "Version": "20180518074501186",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180517082242199"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180518074501186"
 }
