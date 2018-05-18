@@ -9017,9 +9017,7 @@
   },
   {
     "Id": "C_TEST032318_TEXT",
-    "Text": "C_TEST032318_TEXT",
-    "Text_CN": "C_TEST032318_TEXT",
-    "Text_FR": "C_TEST032318_TEXT"
+    "Text": "<line-height=100%><b>Power</b>: Gain +1 <size=120%><sprite=0></size> and +1 <size=120%><sprite=5></size> \nthis round (cost 1 <size=120%><sprite=3></size>)"
   },
   {
     "Id": "C_ATEST180424_FLAVOR",
@@ -11634,5 +11632,13 @@
   {
     "Id": "Q_STAGE_ALASTSTAND_OBJECTIVE",
     "Text": "Placeholder"
+  },
+  {
+    "Id": "C_TEST032318_TITLE",
+    "Text": "test032318"
+  },
+  {
+    "Id": "C_TEST032318_FLAVOR",
+    "Text": "C_TEST032318_FLAVOR"
   }
 ]
