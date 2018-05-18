@@ -335,35 +335,35 @@
     "FateCardList": [
       {
         "Id": "RangersCache",
-        "Threshold": 0
+        "Threshold": 4
       },
       {
         "Id": "ShaftofSunlight",
-        "Threshold": 0
+        "Threshold": 7
       },
       {
         "Id": "SupportfromDale",
-        "Threshold": 0
+        "Threshold": 10
       }
     ],
     "ThreatCardList": [
       {
         "Id": "SpidersDescend",
-        "Threshold": 0
+        "Threshold": 1
       },
       {
         "Id": "WaveofFear",
-        "Threshold": 0
+        "Threshold": 2
       },
       {
         "Id": "Poisoned",
-        "Threshold": 0
+        "Threshold": 3
       }
     ]
   },
-  "Version": "20180518075538400",
+  "Version": "20180518092709924",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180518075538400"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180518092709924"
 }
