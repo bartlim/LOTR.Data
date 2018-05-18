@@ -11671,7 +11671,7 @@
   },
   {
     "Id": "C_INSPIRINGCOURAGE_TEXT",
-    "Text": "<b>Choose</b> an ability [<sprite=0>, <sprite=1>, <sprite=2>]; \nAll Heroes gain +1 to that ability until the Quest ends"
+    "Text": "<b>Choose</b> an ability [<size=120%><sprite=0></size>,<size=120%> <sprite=1></size>,<size=120%> <sprite=2></size>]; \nAll Heroes gain +1 to that ability until the Quest ends"
   },
   {
     "Id": "C_INSPIRINGCOURAGE_FLAVOR",
