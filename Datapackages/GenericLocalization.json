@@ -11724,5 +11724,17 @@
   {
     "Id": "C_SCOUTAHEAD_FLAVOR",
     "Text": ""
+  },
+  {
+    "Id": "C_FORAGEFORSUPPLIES_TITLE",
+    "Text": "Forage for Supplies"
+  },
+  {
+    "Id": "C_FORAGEFORSUPPLIES_TEXT",
+    "Text": "Restore 2 <size=120%><sprite=2></size> to all Characters; then reduce all Characters to 1 <sprite=1> this round"
+  },
+  {
+    "Id": "C_FORAGEFORSUPPLIES_FLAVOR",
+    "Text": ""
   }
 ]
