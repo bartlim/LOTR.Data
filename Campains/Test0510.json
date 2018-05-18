@@ -77,17 +77,17 @@
       "FateCardList": [
         {
           "Id": "fate1",
-          "Treshold": 1
+          "Threshold": 0
         }
       ],
       "ThreatCardList": [
         {
           "Id": "threat2",
-          "Treshold": 2
+          "Threshold": 0
         },
         {
           "Id": "threat3",
-          "Treshold": 3
+          "Threshold": 0
         }
       ]
     },
