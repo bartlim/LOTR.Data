@@ -8,8 +8,8 @@
       "Id": "temp_1Quest01",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
-      "VictoryVoice": null,
-      "DefeatVoice": null,
+      "VictoryVoice": "Victory",
+      "DefeatVoice": "Defeat",
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
@@ -22,7 +22,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -62,7 +63,10 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null,
+      "AIBehavior": "DefensiveAI"
     },
     {
       "Id": "temp_1Quest02",
@@ -82,7 +86,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -122,7 +127,10 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null,
+      "AIBehavior": null
     },
     {
       "Id": "temp_1Quest03",
@@ -142,7 +150,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -182,7 +191,10 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null,
+      "AIBehavior": null
     },
     {
       "Id": "temp_1Quest04",
@@ -202,7 +214,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -242,7 +255,10 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null,
+      "AIBehavior": null
     },
     {
       "Id": "temp_1Quest05",
@@ -262,7 +278,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -302,7 +319,10 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null,
+      "AIBehavior": null
     }
   ]
 }
