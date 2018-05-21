@@ -80,15 +80,18 @@
         "NextStages": [],
         "NextStageTitles": [
           ""
-        ]
+        ],
+        "FateCardList": null
       }
     ],
     "Sequences": [],
-    "Stories": []
+    "Stories": [],
+    "FateCardList": null,
+    "ThreatCardList": null
   },
-  "Version": "20180508074419582",
+  "Version": "20180521150855814",
   "Key": "MainQuest",
   "SubKey": "temp_1Quest05",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_temp_1Quest05_20180508074419582"
+  "InternalKey": "MainQuest_temp_1Quest05_20180521150855814"
 }
