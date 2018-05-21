@@ -11640,5 +11640,245 @@
   {
     "Id": "C_TEST032318_FLAVOR",
     "Text": "C_TEST032318_FLAVOR"
+  },
+  {
+    "Id": "C_UNEXPECTEDAID_TITLE",
+    "Text": "Unexpected Aid"
+  },
+  {
+    "Id": "C_UNEXPECTEDAID_TEXT",
+    "Text": "Play 1 <i>Guard of the Citadel</i>"
+  },
+  {
+    "Id": "C_UNEXPECTEDAID_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_INSPIRING COURAGE_TITLE",
+    "Text": ""
+  },
+  {
+    "Id": "C_INSPIRING COURAGE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "C_INSPIRING COURAGE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_INSPIRINGCOURAGE_TITLE",
+    "Text": "Inspiring Courage"
+  },
+  {
+    "Id": "C_INSPIRINGCOURAGE_TEXT",
+    "Text": "<b>Choose</b> an ability [<size=120%><sprite=0></size>,<size=120%> <sprite=1></size>,<size=120%> <sprite=2></size>]; \nAll Heroes gain +1 to that ability until the Quest ends"
+  },
+  {
+    "Id": "C_INSPIRINGCOURAGE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_LIGHTTHETORCHES_TITLE",
+    "Text": "Light the Torches"
+  },
+  {
+    "Id": "C_LIGHTTHETORCHES_TEXT",
+    "Text": "<b>Upkeep</b>: Deal 1 damage to an Enemy"
+  },
+  {
+    "Id": "C_LIGHTTHETORCHES_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_FEAROFTHEFLAMES_TITLE",
+    "Text": "Fear of the Flames"
+  },
+  {
+    "Id": "C_FEAROFTHEFLAMES_TEXT",
+    "Text": "You light a blazing fire to scare the Wargs! Defeat <i>Pack of Wargs</i>"
+  },
+  {
+    "Id": "C_FEAROFTHEFLAMES_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_DISTRACTINGCALL_TITLE",
+    "Text": "Distracting Call"
+  },
+  {
+    "Id": "C_DISTRACTINGCALL_TEXT",
+    "Text": "All Enemies lose <b>Pursuit</b> in this Location"
+  },
+  {
+    "Id": "C_DISTRACTINGCALL_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_SCOUTAHEAD_TITLE",
+    "Text": "Scout Ahead"
+  },
+  {
+    "Id": "C_SCOUTAHEAD_TEXT",
+    "Text": "All Enemies lose 1 <size=120%><sprite=0></size> this round (minimum 0)"
+  },
+  {
+    "Id": "C_SCOUTAHEAD_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_FORAGEFORSUPPLIES_TITLE",
+    "Text": "Forage for Supplies"
+  },
+  {
+    "Id": "C_FORAGEFORSUPPLIES_TEXT",
+    "Text": "Restore 2 <size=120%><sprite=2></size> to all Characters; then reduce all Characters to 1 <sprite=1> this round"
+  },
+  {
+    "Id": "C_FORAGEFORSUPPLIES_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_CUTTINGTHEWEBS_TITLE",
+    "Text": "Cutting the Webs"
+  },
+  {
+    "Id": "C_CUTTINGTHEWEBS_TEXT",
+    "Text": "Draw 2 cards"
+  },
+  {
+    "Id": "C_CUTTINGTHEWEBS_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_MAKEASTAND_TITLE",
+    "Text": "Make a Stand"
+  },
+  {
+    "Id": "C_MAKEASTAND_TEXT",
+    "Text": "Gain +1 <size=120%><sprite=3></size> for each Ally in play"
+  },
+  {
+    "Id": "C_MAKEASTAND_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_DISTRACTTHETROLL_TITLE",
+    "Text": "Distract the Troll"
+  },
+  {
+    "Id": "C_DISTRACTTHETROLL_TEXT",
+    "Text": "Remove the restriction from <i>Board the Raft</i>"
+  },
+  {
+    "Id": "C_DISTRACTTHETROLL_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_SAVEDBYTHEBEORNINGS_TITLE",
+    "Text": "Saved by the Beornings"
+  },
+  {
+    "Id": "C_SAVEDBYTHEBEORNINGS_TEXT",
+    "Text": "Play 1 <i>Beorning Roamer</i>"
+  },
+  {
+    "Id": "C_SAVEDBYTHEBEORNINGS_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_BEORNINGROAMER_TITLE",
+    "Text": "Beorning Roamer"
+  },
+  {
+    "Id": "C_BEORNINGROAMER_TEXT",
+    "Text": "<b>Ambush</b>. <b>Counter</b>"
+  },
+  {
+    "Id": "C_BEORNINGROAMER_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_CRIPPLINGBLOW_TITLE",
+    "Text": "Crippling Blow"
+  },
+  {
+    "Id": "C_CRIPPLINGBLOW_TEXT",
+    "Text": "Reduce a non-unique \nEnemy to 1 <size=120%><sprite=2></size>"
+  },
+  {
+    "Id": "C_CRIPPLINGBLOW_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_BENEFICIALCURRENT_TITLE",
+    "Text": "Beneficial Current"
+  },
+  {
+    "Id": "C_BENEFICIALCURRENT_TEXT",
+    "Text": "Lose 3 <size=120%><sprite=4></size>"
+  },
+  {
+    "Id": "C_BENEFICIALCURRENT_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_REFRESHINGWATERS_TITLE",
+    "Text": "Refreshing Waters"
+  },
+  {
+    "Id": "C_REFRESHINGWATERS_TEXT",
+    "Text": "Restore 1 <size=120%><sprite=2></size> to all Allies"
+  },
+  {
+    "Id": "C_REFRESHINGWATERS_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_BOLDRESOLVE_TITLE",
+    "Text": "Bold Resolve"
+  },
+  {
+    "Id": "C_BOLDRESOLVE_TEXT",
+    "Text": "All friendly Characters gain +1 Health until the Quest ends"
+  },
+  {
+    "Id": "C_BOLDRESOLVE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_SECOND WIND_TITLE",
+    "Text": "Second Wind"
+  },
+  {
+    "Id": "C_SECOND WIND_TEXT",
+    "Text": "Restore a Hero to full <size=120%><sprite=2></size>"
+  },
+  {
+    "Id": "C_SECOND WIND_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_AIDFROMTHEBEORNINGS_TITLE",
+    "Text": "Aid from the Beornings"
+  },
+  {
+    "Id": "C_AIDFROMTHEBEORNINGS_TEXT",
+    "Text": "<b>Upkeep</b>: Gain +1 <size=120%><sprite=3></size> [3 rounds]"
+  },
+  {
+    "Id": "C_AIDFROMTHEBEORNINGS_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_STAGGERINGBLOW_TITLE",
+    "Text": "Staggering Blow"
+  },
+  {
+    "Id": "C_STAGGERINGBLOW_TEXT",
+    "Text": "Your next attack exhausts the defender"
+  },
+  {
+    "Id": "C_STAGGERINGBLOW_FLAVOR",
+    "Text": ""
   }
 ]

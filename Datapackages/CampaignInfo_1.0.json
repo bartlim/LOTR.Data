@@ -60,7 +60,7 @@
               "FateCardList": [
                 {
                   "Id": "TheSquirmingCocoon",
-                  "Threshold": 0
+                  "Threshold": 6
                 }
               ]
             },
@@ -94,7 +94,7 @@
               "FateCardList": [
                 {
                   "Id": "FateKingsfoil",
-                  "Threshold": 0
+                  "Threshold": 6
                 }
               ]
             },
@@ -114,7 +114,7 @@
               "FateCardList": [
                 {
                   "Id": "SavedbytheElves",
-                  "Threshold": 0
+                  "Threshold": 6
                 }
               ]
             }
@@ -248,29 +248,29 @@
           "FateCardList": [
             {
               "Id": "RangersCache",
-              "Threshold": 0
+              "Threshold": 4
             },
             {
               "Id": "ShaftofSunlight",
-              "Threshold": 0
+              "Threshold": 7
             },
             {
               "Id": "SupportfromDale",
-              "Threshold": 0
+              "Threshold": 10
             }
           ],
           "ThreatCardList": [
             {
               "Id": "SpidersDescend",
-              "Threshold": 0
+              "Threshold": 1
             },
             {
               "Id": "WaveofFear",
-              "Threshold": 0
+              "Threshold": 2
             },
             {
               "Id": "Poisoned",
-              "Threshold": 0
+              "Threshold": 3
             }
           ]
         },
@@ -478,8 +478,34 @@
               "Amount": 1
             }
           ],
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": [
+            {
+              "Id": "RangersCache",
+              "Threshold": 4
+            },
+            {
+              "Id": "ShaftofSunlight",
+              "Threshold": 7
+            },
+            {
+              "Id": "SupportfromDale",
+              "Threshold": 10
+            }
+          ],
+          "ThreatCardList": [
+            {
+              "Id": "SpidersDescend",
+              "Threshold": 1
+            },
+            {
+              "Id": "WaveofFear",
+              "Threshold": 2
+            },
+            {
+              "Id": "Poisoned",
+              "Threshold": 3
+            }
+          ]
         },
         {
           "Id": "LostInMirkwood",
@@ -769,8 +795,34 @@
               "Amount": 1
             }
           ],
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": [
+            {
+              "Id": "RangersCache",
+              "Threshold": 4
+            },
+            {
+              "Id": "ShaftofSunlight",
+              "Threshold": 7
+            },
+            {
+              "Id": "SupportfromDale",
+              "Threshold": 10
+            }
+          ],
+          "ThreatCardList": [
+            {
+              "Id": "SpidersDescend",
+              "Threshold": 1
+            },
+            {
+              "Id": "WaveofFear",
+              "Threshold": 2
+            },
+            {
+              "Id": "Poisoned",
+              "Threshold": 3
+            }
+          ]
         },
         {
           "Id": "JourneyDownTheAnduin",
@@ -995,8 +1047,34 @@
               "Amount": 2
             }
           ],
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": [
+            {
+              "Id": "RangersCache",
+              "Threshold": 4
+            },
+            {
+              "Id": "ShaftofSunlight",
+              "Threshold": 7
+            },
+            {
+              "Id": "SupportfromDale",
+              "Threshold": 10
+            }
+          ],
+          "ThreatCardList": [
+            {
+              "Id": "SpidersDescend",
+              "Threshold": 1
+            },
+            {
+              "Id": "WaveofFear",
+              "Threshold": 2
+            },
+            {
+              "Id": "Poisoned",
+              "Threshold": 3
+            }
+          ]
         },
         {
           "Id": "ConflictAtTheCarrock",
@@ -1186,8 +1264,34 @@
               "Amount": 1
             }
           ],
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": [
+            {
+              "Id": "RangersCache",
+              "Threshold": 4
+            },
+            {
+              "Id": "ShaftofSunlight",
+              "Threshold": 7
+            },
+            {
+              "Id": "SupportfromDale",
+              "Threshold": 10
+            }
+          ],
+          "ThreatCardList": [
+            {
+              "Id": "SpidersDescend",
+              "Threshold": 1
+            },
+            {
+              "Id": "WaveofFear",
+              "Threshold": 2
+            },
+            {
+              "Id": "Poisoned",
+              "Threshold": 3
+            }
+          ]
         }
       ]
     },
@@ -2542,7 +2646,7 @@
           "FateCardList": [
             {
               "Id": "fate1",
-              "Threshold": 0
+              "Threshold": 1
             }
           ],
           "ThreatCardList": [
@@ -2552,7 +2656,7 @@
             },
             {
               "Id": "threat3",
-              "Threshold": 0
+              "Threshold": 2
             }
           ]
         },

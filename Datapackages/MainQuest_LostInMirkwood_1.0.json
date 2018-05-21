@@ -425,12 +425,38 @@
     ],
     "Sequences": [],
     "Stories": [],
-    "FateCardList": null,
-    "ThreatCardList": null
+    "FateCardList": [
+      {
+        "Id": "RangersCache",
+        "Threshold": 4
+      },
+      {
+        "Id": "ShaftofSunlight",
+        "Threshold": 7
+      },
+      {
+        "Id": "SupportfromDale",
+        "Threshold": 10
+      }
+    ],
+    "ThreatCardList": [
+      {
+        "Id": "SpidersDescend",
+        "Threshold": 1
+      },
+      {
+        "Id": "WaveofFear",
+        "Threshold": 2
+      },
+      {
+        "Id": "Poisoned",
+        "Threshold": 3
+      }
+    ]
   },
-  "Version": "20180517082253350",
+  "Version": "20180518093850794",
   "Key": "MainQuest",
   "SubKey": "LostInMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_LostInMirkwood_20180517082253350"
+  "InternalKey": "MainQuest_LostInMirkwood_20180518093850794"
 }
