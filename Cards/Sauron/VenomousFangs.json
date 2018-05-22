@@ -1,19 +1,19 @@
 {
   "CardData": {
-    "Id": "HourOfWrath",
-    "Owner": "Player",
-    "CardType": 4,
-    "ShopType": "Valor",
-    "Cost": 0,
+    "Id": "VenomousFangs",
+    "Owner": "Sauron",
+    "CardType": 11,
+    "ShopType": "",
+    "Cost": 2,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
     "Trait": "",
-    "Rarity": 2,
-    "Sphere": 4,
-    "SphereLevel": 1,
-    "Revision": "test",
+    "Rarity": 0,
+    "Sphere": 2,
+    "SphereLevel": 0,
+    "Revision": null,
     "PlayVFX": "",
     "PlaySFX": "",
     "AttackVFX": "",
@@ -22,7 +22,7 @@
     "DeathSFX": "",
     "FlavorText": "",
     "ArtistName": "",
-    "Status": "WIP",
+    "Status": "None",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
     "CardScale": 1.0,
@@ -36,7 +36,7 @@
     "IconMD5": null
   },
   "Localization": {
-    "Title": "Hour of Wrath",
-    "Text": "Gain +2 <size=120%><sprite=4></size>; Deal 1 damage to a random Enemy for each Character"
+    "Title": "Venomous Fangs",
+    "Text": "Deal 2 damage to a random Hero. Lose a random Ally"
   }
 }

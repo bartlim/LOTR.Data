@@ -6187,21 +6187,15 @@
   },
   {
     "Id": "C_ITHILIENLOOKOUT_FLAVOR",
-    "Text": "All had swords at their sides, and were clad in green and brown of varied hues, as if the better to walk unseen in the glades of Ithilien.\n—<i>The Two Towers</i>",
-    "Text_CN": "All had swords at their sides… \n<i>—The Two Towers</i>",
-    "Text_FR": "All had swords at their sides… \n<i>—The Two Towers</i>"
+    "Text": "All had swords at their sides… \n<i>–The Two Towers</i>"
   },
   {
     "Id": "C_ITHILIENLOOKOUT_TEXT",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_ITHILIENLOOKOUT_TITLE",
-    "Text": "Ithilien Lookout",
-    "Text_CN": "伊锡利恩哨兵",
-    "Text_FR": "Guetteur de l’Ithilien"
+    "Text": "Ithilien Lookout"
   },
   {
     "Id": "C_KINGSFOIL_FLAVOR",
@@ -7901,7 +7895,7 @@
   },
   {
     "Id": "C_HOUROFWRATH_TEXT",
-    "Text": "Gain +2 <size=120%><sprite=4></size>; all Allies gain \"<b>Revenge</b>: Deal 1 damage to attacker\""
+    "Text": "Gain +2 <size=120%><sprite=4></size>; Deal 1 damage to a random Enemy for each Character"
   },
   {
     "Id": "C_FORGONDOR_FLAVOR",
@@ -11067,7 +11061,7 @@
   },
   {
     "Id": "C_SPIDERSDESCEND_TEXT",
-    "Text": "<u>X</u> <i>Forest Spiders</i> appear! \n(<u>X</u> is the number of open spaces in Sauron's row)"
+    "Text": "<u>X</u> <i>Forest Spiders</i> appear! \n(<u>X</u> is the number of open spaces in Sauron's row; limit 3)"
   },
   {
     "Id": "C_SPIDERSDESCEND_FLAVOR",
@@ -11879,6 +11873,150 @@
   },
   {
     "Id": "C_STAGGERINGBLOW_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_WEBSEVERYWHERE_TITLE",
+    "Text": "Webs Everywhere!"
+  },
+  {
+    "Id": "C_WEBSEVERYWHERE_TEXT",
+    "Text": "Discard half the cards remaining in each player's deck"
+  },
+  {
+    "Id": "C_WEBSEVERYWHERE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_VENOMOUSFANGS_TITLE",
+    "Text": "Venomous Fangs"
+  },
+  {
+    "Id": "C_VENOMOUSFANGS_TEXT",
+    "Text": "Deal 2 damage to a random Hero. Lose a random Ally"
+  },
+  {
+    "Id": "C_VENOMOUSFANGS_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_ISOLATED AND ALONE_TITLE",
+    "Text": "Isolated and Alone"
+  },
+  {
+    "Id": "C_ISOLATED AND ALONE_TEXT",
+    "Text": "Draw no cards in the next Upkeep"
+  },
+  {
+    "Id": "C_ISOLATED AND ALONE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_AGENTOFSAURONTHREAT_TITLE",
+    "Text": "Agent of Sauron"
+  },
+  {
+    "Id": "C_AGENTOFSAURONTHREAT_TEXT",
+    "Text": "An <i>Agent of Sauron</i> appears"
+  },
+  {
+    "Id": "C_AGENTOFSAURONTHREAT_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_AFOULRAIN_TITLE",
+    "Text": "A Foul Rain"
+  },
+  {
+    "Id": "C_AFOULRAIN_TEXT",
+    "Text": "Deal 2 damage to 3 random Characters"
+  },
+  {
+    "Id": "C_AFOULRAIN_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_BOLTSFROMTHEDARK_TITLE",
+    "Text": "Bolts from the Dark"
+  },
+  {
+    "Id": "C_BOLTSFROMTHEDARK_TEXT",
+    "Text": "Deal 1 damage to all Characters"
+  },
+  {
+    "Id": "C_BOLTSFROMTHEDARK_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_WASHEDAWAY_TITLE",
+    "Text": "Washed Away"
+  },
+  {
+    "Id": "C_WASHEDAWAY_TEXT",
+    "Text": "Discard each player's current hand and 2 cards from the top of their decks"
+  },
+  {
+    "Id": "C_WASHEDAWAY_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_FORCEDOFFCOURSE_TITLE",
+    "Text": "Forced Off Course"
+  },
+  {
+    "Id": "C_FORCEDOFFCOURSE_TEXT",
+    "Text": "Restore all Objectives to their full Quest values, then add +2 to each"
+  },
+  {
+    "Id": "C_FORCEDOFFCOURSE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_UNSTABLECURRENTS_TITLE",
+    "Text": "Unstable Currents"
+  },
+  {
+    "Id": "C_UNSTABLECURRENTS_TEXT",
+    "Text": "Reduce all Heroes to 0 Willpower this round"
+  },
+  {
+    "Id": "C_UNSTABLECURRENTS_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_THESCENTOFMANFLESH_TITLE",
+    "Text": "The Scent of Man-Flesh"
+  },
+  {
+    "Id": "C_THESCENTOFMANFLESH_TEXT",
+    "Text": "Another troll appears, eager to feast upon you! \n<i>Rupert</i> enters play"
+  },
+  {
+    "Id": "C_THESCENTOFMANFLESH_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_AFOULWIND_TITLE",
+    "Text": "A Foul Wind"
+  },
+  {
+    "Id": "C_AFOULWIND_TEXT",
+    "Text": "All Enemies gain +2 <sprite=2>"
+  },
+  {
+    "Id": "C_AFOULWIND_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_RAINOFBOULDERS_TITLE",
+    "Text": "Rain of Boulders"
+  },
+  {
+    "Id": "C_RAINOFBOULDERS_TEXT",
+    "Text": "Flying boulders smash into your party! Deal 2 damage to all Characters"
+  },
+  {
+    "Id": "C_RAINOFBOULDERS_FLAVOR",
     "Text": ""
   }
 ]
