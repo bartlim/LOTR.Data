@@ -5811,15 +5811,11 @@
   },
   {
     "Id": "C_GRIMBEORN_TEXT",
-    "Text": "<b>Block</b>. <b>Stalwart</b>",
-    "Text_CN": "格挡。强壮。",
-    "Text_FR": "Blocage. Loyal."
+    "Text": "<b>Block</b>. <b>Stalwart</b>"
   },
   {
     "Id": "C_GRIMBEORN_TITLE",
-    "Text": "Grimbeorn",
-    "Text_CN": "Grimbeorn",
-    "Text_FR": "Grimbeorn"
+    "Text": "Grimbeorn"
   },
   {
     "Id": "C_GROWINGDARKNESS_FLAVOR",
@@ -11897,6 +11893,10 @@
   },
   {
     "Id": "C_ELVENSCOUT_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_GRIMBEORN_FLAVOR",
     "Text": ""
   }
 ]
