@@ -24,8 +24,8 @@
     "ArtistName": "Jose Vega",
     "Status": "Ready",
     "CardOffsetX": 1.0,
-    "CardOffsetY": 1.0,
-    "CardScale": 0.9,
+    "CardOffsetY": 0.92,
+    "CardScale": 0.8,
     "CameoOffsetX": 1.0,
     "CameoOffsetY": 1.02,
     "CameoScale": 0.95,
@@ -37,6 +37,6 @@
   },
   "Localization": {
     "Title": "‰Agent of Sauron",
-    "Text": "<b>Counter</b>. <b>Fleeting</b>. <b>Stalwart</b>\n"
+    "Text": "<b>Counter</b>. <b>Stalwart</b>\n"
   }
 }
