@@ -6187,21 +6187,15 @@
   },
   {
     "Id": "C_ITHILIENLOOKOUT_FLAVOR",
-    "Text": "All had swords at their sides, and were clad in green and brown of varied hues, as if the better to walk unseen in the glades of Ithilien.\n—<i>The Two Towers</i>",
-    "Text_CN": "All had swords at their sides… \n<i>—The Two Towers</i>",
-    "Text_FR": "All had swords at their sides… \n<i>—The Two Towers</i>"
+    "Text": "All had swords at their sides… \n<i>–The Two Towers</i>"
   },
   {
     "Id": "C_ITHILIENLOOKOUT_TEXT",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_ITHILIENLOOKOUT_TITLE",
-    "Text": "Ithilien Lookout",
-    "Text_CN": "伊锡利恩哨兵",
-    "Text_FR": "Guetteur de l’Ithilien"
+    "Text": "Ithilien Lookout"
   },
   {
     "Id": "C_KINGSFOIL_FLAVOR",
@@ -7901,7 +7895,7 @@
   },
   {
     "Id": "C_HOUROFWRATH_TEXT",
-    "Text": "Gain +2 <size=120%><sprite=4></size>; all Allies gain \"<b>Revenge</b>: Deal 1 damage to attacker\""
+    "Text": "Gain +2 <size=120%><sprite=4></size>; Deal 1 damage to a random Enemy for each Character"
   },
   {
     "Id": "C_FORGONDOR_FLAVOR",
@@ -11067,7 +11061,7 @@
   },
   {
     "Id": "C_SPIDERSDESCEND_TEXT",
-    "Text": "<u>X</u> <i>Forest Spiders</i> appear! \n(<u>X</u> is the number of open spaces in Sauron's row)"
+    "Text": "<u>X</u> <i>Forest Spiders</i> appear! \n(<u>X</u> is the number of open spaces in Sauron's row; limit 3)"
   },
   {
     "Id": "C_SPIDERSDESCEND_FLAVOR",
@@ -11640,5 +11634,414 @@
   {
     "Id": "C_TEST032318_FLAVOR",
     "Text": "C_TEST032318_FLAVOR"
+  },
+  {
+    "Id": "C_UNEXPECTEDAID_TITLE",
+    "Text": "Unexpected Aid"
+  },
+  {
+    "Id": "C_UNEXPECTEDAID_TEXT",
+    "Text": "Play 1 <i>Guard of the Citadel</i>"
+  },
+  {
+    "Id": "C_UNEXPECTEDAID_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_INSPIRING COURAGE_TITLE",
+    "Text": ""
+  },
+  {
+    "Id": "C_INSPIRING COURAGE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "C_INSPIRING COURAGE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_INSPIRINGCOURAGE_TITLE",
+    "Text": "Inspiring Courage"
+  },
+  {
+    "Id": "C_INSPIRINGCOURAGE_TEXT",
+    "Text": "<b>Choose</b> an ability [<size=120%><sprite=0></size>,<size=120%> <sprite=1></size>,<size=120%> <sprite=2></size>]; \nAll Heroes gain +1 to that ability until the Quest ends"
+  },
+  {
+    "Id": "C_INSPIRINGCOURAGE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_LIGHTTHETORCHES_TITLE",
+    "Text": "Light the Torches"
+  },
+  {
+    "Id": "C_LIGHTTHETORCHES_TEXT",
+    "Text": "<b>Upkeep</b>: Deal 1 damage to an Enemy"
+  },
+  {
+    "Id": "C_LIGHTTHETORCHES_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_FEAROFTHEFLAMES_TITLE",
+    "Text": "Fear of the Flames"
+  },
+  {
+    "Id": "C_FEAROFTHEFLAMES_TEXT",
+    "Text": "You light a blazing fire to scare the Wargs! Defeat <i>Pack of Wargs</i>"
+  },
+  {
+    "Id": "C_FEAROFTHEFLAMES_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_DISTRACTINGCALL_TITLE",
+    "Text": "Distracting Call"
+  },
+  {
+    "Id": "C_DISTRACTINGCALL_TEXT",
+    "Text": "All Enemies lose <b>Pursuit</b> in this Location"
+  },
+  {
+    "Id": "C_DISTRACTINGCALL_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_SCOUTAHEAD_TITLE",
+    "Text": "Scout Ahead"
+  },
+  {
+    "Id": "C_SCOUTAHEAD_TEXT",
+    "Text": "All Enemies lose 1 <size=120%><sprite=0></size> this round (minimum 0)"
+  },
+  {
+    "Id": "C_SCOUTAHEAD_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_FORAGEFORSUPPLIES_TITLE",
+    "Text": "Forage for Supplies"
+  },
+  {
+    "Id": "C_FORAGEFORSUPPLIES_TEXT",
+    "Text": "Restore 2 <size=120%><sprite=2></size> to all Characters; then reduce all Characters to 1 <sprite=1> this round"
+  },
+  {
+    "Id": "C_FORAGEFORSUPPLIES_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_CUTTINGTHEWEBS_TITLE",
+    "Text": "Cutting the Webs"
+  },
+  {
+    "Id": "C_CUTTINGTHEWEBS_TEXT",
+    "Text": "Draw 2 cards"
+  },
+  {
+    "Id": "C_CUTTINGTHEWEBS_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_MAKEASTAND_TITLE",
+    "Text": "Make a Stand"
+  },
+  {
+    "Id": "C_MAKEASTAND_TEXT",
+    "Text": "Gain +1 <size=120%><sprite=3></size> for each Ally in play"
+  },
+  {
+    "Id": "C_MAKEASTAND_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_DISTRACTTHETROLL_TITLE",
+    "Text": "Distract the Troll"
+  },
+  {
+    "Id": "C_DISTRACTTHETROLL_TEXT",
+    "Text": "Remove the restriction from <i>Board the Raft</i>"
+  },
+  {
+    "Id": "C_DISTRACTTHETROLL_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_SAVEDBYTHEBEORNINGS_TITLE",
+    "Text": "Saved by the Beornings"
+  },
+  {
+    "Id": "C_SAVEDBYTHEBEORNINGS_TEXT",
+    "Text": "Play 1 <i>Beorning Roamer</i>"
+  },
+  {
+    "Id": "C_SAVEDBYTHEBEORNINGS_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_BEORNINGROAMER_TITLE",
+    "Text": "Beorning Roamer"
+  },
+  {
+    "Id": "C_BEORNINGROAMER_TEXT",
+    "Text": "<b>Ambush</b>. <b>Counter</b>"
+  },
+  {
+    "Id": "C_BEORNINGROAMER_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_CRIPPLINGBLOW_TITLE",
+    "Text": "Crippling Blow"
+  },
+  {
+    "Id": "C_CRIPPLINGBLOW_TEXT",
+    "Text": "Reduce a non-unique \nEnemy to 1 <size=120%><sprite=2></size>"
+  },
+  {
+    "Id": "C_CRIPPLINGBLOW_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_BENEFICIALCURRENT_TITLE",
+    "Text": "Beneficial Current"
+  },
+  {
+    "Id": "C_BENEFICIALCURRENT_TEXT",
+    "Text": "Lose 3 <size=120%><sprite=4></size>"
+  },
+  {
+    "Id": "C_BENEFICIALCURRENT_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_REFRESHINGWATERS_TITLE",
+    "Text": "Refreshing Waters"
+  },
+  {
+    "Id": "C_REFRESHINGWATERS_TEXT",
+    "Text": "Restore 1 <size=120%><sprite=2></size> to all Allies"
+  },
+  {
+    "Id": "C_REFRESHINGWATERS_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_BOLDRESOLVE_TITLE",
+    "Text": "Bold Resolve"
+  },
+  {
+    "Id": "C_BOLDRESOLVE_TEXT",
+    "Text": "All friendly Characters gain +1 Health until the Quest ends"
+  },
+  {
+    "Id": "C_BOLDRESOLVE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_SECOND WIND_TITLE",
+    "Text": "Second Wind"
+  },
+  {
+    "Id": "C_SECOND WIND_TEXT",
+    "Text": "Restore a Hero to full <size=120%><sprite=2></size>"
+  },
+  {
+    "Id": "C_SECOND WIND_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_AIDFROMTHEBEORNINGS_TITLE",
+    "Text": "Aid from the Beornings"
+  },
+  {
+    "Id": "C_AIDFROMTHEBEORNINGS_TEXT",
+    "Text": "<b>Upkeep</b>: Gain +1 <size=120%><sprite=3></size> [3 rounds]"
+  },
+  {
+    "Id": "C_AIDFROMTHEBEORNINGS_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_STAGGERINGBLOW_TITLE",
+    "Text": "Staggering Blow"
+  },
+  {
+    "Id": "C_STAGGERINGBLOW_TEXT",
+    "Text": "Your next attack exhausts the defender"
+  },
+  {
+    "Id": "C_STAGGERINGBLOW_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_WEBSEVERYWHERE_TITLE",
+    "Text": "Webs Everywhere!"
+  },
+  {
+    "Id": "C_WEBSEVERYWHERE_TEXT",
+    "Text": "Discard half the cards remaining in each player's deck"
+  },
+  {
+    "Id": "C_WEBSEVERYWHERE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_VENOMOUSFANGS_TITLE",
+    "Text": "Venomous Fangs"
+  },
+  {
+    "Id": "C_VENOMOUSFANGS_TEXT",
+    "Text": "Deal 2 damage to a random Hero. Lose a random Ally"
+  },
+  {
+    "Id": "C_VENOMOUSFANGS_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_ISOLATED AND ALONE_TITLE",
+    "Text": "Isolated and Alone"
+  },
+  {
+    "Id": "C_ISOLATED AND ALONE_TEXT",
+    "Text": "Draw no cards in the next Upkeep"
+  },
+  {
+    "Id": "C_ISOLATED AND ALONE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_AGENTOFSAURONTHREAT_TITLE",
+    "Text": "Agent of Sauron"
+  },
+  {
+    "Id": "C_AGENTOFSAURONTHREAT_TEXT",
+    "Text": "An <i>Agent of Sauron</i> appears"
+  },
+  {
+    "Id": "C_AGENTOFSAURONTHREAT_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_AFOULRAIN_TITLE",
+    "Text": "A Foul Rain"
+  },
+  {
+    "Id": "C_AFOULRAIN_TEXT",
+    "Text": "Deal 2 damage to 3 random Characters"
+  },
+  {
+    "Id": "C_AFOULRAIN_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_BOLTSFROMTHEDARK_TITLE",
+    "Text": "Bolts from the Dark"
+  },
+  {
+    "Id": "C_BOLTSFROMTHEDARK_TEXT",
+    "Text": "Deal 1 damage to all Characters"
+  },
+  {
+    "Id": "C_BOLTSFROMTHEDARK_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_WASHEDAWAY_TITLE",
+    "Text": "Washed Away"
+  },
+  {
+    "Id": "C_WASHEDAWAY_TEXT",
+    "Text": "Discard each player's current hand and 2 cards from the top of their decks"
+  },
+  {
+    "Id": "C_WASHEDAWAY_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_FORCEDOFFCOURSE_TITLE",
+    "Text": "Forced Off Course"
+  },
+  {
+    "Id": "C_FORCEDOFFCOURSE_TEXT",
+    "Text": "Restore all Objectives to their full Quest values, then add +2 to each"
+  },
+  {
+    "Id": "C_FORCEDOFFCOURSE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_UNSTABLECURRENTS_TITLE",
+    "Text": "Unstable Currents"
+  },
+  {
+    "Id": "C_UNSTABLECURRENTS_TEXT",
+    "Text": "Reduce all Heroes to 0 Willpower this round"
+  },
+  {
+    "Id": "C_UNSTABLECURRENTS_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_THESCENTOFMANFLESH_TITLE",
+    "Text": "The Scent of Man-Flesh"
+  },
+  {
+    "Id": "C_THESCENTOFMANFLESH_TEXT",
+    "Text": "Another troll appears, eager to feast upon you! \n<i>Rupert</i> enters play"
+  },
+  {
+    "Id": "C_THESCENTOFMANFLESH_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_AFOULWIND_TITLE",
+    "Text": "A Foul Wind"
+  },
+  {
+    "Id": "C_AFOULWIND_TEXT",
+    "Text": "All Enemies gain +2 <sprite=2>"
+  },
+  {
+    "Id": "C_AFOULWIND_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_RAINOFBOULDERS_TITLE",
+    "Text": "Rain of Boulders"
+  },
+  {
+    "Id": "C_RAINOFBOULDERS_TEXT",
+    "Text": "Flying boulders smash into your party! Deal 2 damage to all Characters"
+  },
+  {
+    "Id": "C_RAINOFBOULDERS_FLAVOR",
+    "Text": ""
+  },
+  {
+<<<<<<< HEAD
+    "Id": "C_MIRKWOODBROODMOTHER_TITLE",
+    "Text": "Mirkwood Broodmother"
+  },
+  {
+    "Id": "C_MIRKWOODBROODMOTHER_TEXT",
+    "Text": "<b>Arrival</b>: Add 1 <i>Forest Hatchling</i> into play, gain +1 Threat"
+  },
+  {
+    "Id": "C_MIRKWOODBROODMOTHER_FLAVOR",
+    "Text": ""
+=======
+    "Id": "C_ATEST180408_TITLE",
+    "Text": ""
+  },
+  {
+    "Id": "C_ATEST180408_TEXT",
+    "Text": "0408 on exp"
+  },
+  {
+    "Id": "C_ATEST180408_FLAVOR",
+    "Text": "0408 flavor on exp"
+>>>>>>> experimental
   }
 ]

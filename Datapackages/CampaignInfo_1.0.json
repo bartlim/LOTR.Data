@@ -60,7 +60,7 @@
               "FateCardList": [
                 {
                   "Id": "TheSquirmingCocoon",
-                  "Threshold": 0
+                  "Threshold": 6
                 }
               ]
             },
@@ -94,7 +94,7 @@
               "FateCardList": [
                 {
                   "Id": "FateKingsfoil",
-                  "Threshold": 0
+                  "Threshold": 6
                 }
               ]
             },
@@ -114,7 +114,7 @@
               "FateCardList": [
                 {
                   "Id": "SavedbytheElves",
-                  "Threshold": 0
+                  "Threshold": 6
                 }
               ]
             }
@@ -248,31 +248,32 @@
           "FateCardList": [
             {
               "Id": "RangersCache",
-              "Threshold": 0
+              "Threshold": 4
             },
             {
               "Id": "ShaftofSunlight",
-              "Threshold": 0
+              "Threshold": 7
             },
             {
               "Id": "SupportfromDale",
-              "Threshold": 0
+              "Threshold": 10
             }
           ],
           "ThreatCardList": [
             {
               "Id": "SpidersDescend",
-              "Threshold": 0
+              "Threshold": 1
             },
             {
               "Id": "WaveofFear",
-              "Threshold": 0
+              "Threshold": 2
             },
             {
               "Id": "Poisoned",
-              "Threshold": 0
+              "Threshold": 3
             }
-          ]
+          ],
+          "AIBehavior": null
         },
         {
           "Id": "FliesAndSpiders",
@@ -478,8 +479,35 @@
               "Amount": 1
             }
           ],
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": [
+            {
+              "Id": "RangersCache",
+              "Threshold": 4
+            },
+            {
+              "Id": "ShaftofSunlight",
+              "Threshold": 7
+            },
+            {
+              "Id": "SupportfromDale",
+              "Threshold": 10
+            }
+          ],
+          "ThreatCardList": [
+            {
+              "Id": "SpidersDescend",
+              "Threshold": 1
+            },
+            {
+              "Id": "WaveofFear",
+              "Threshold": 2
+            },
+            {
+              "Id": "Poisoned",
+              "Threshold": 3
+            }
+          ],
+          "AIBehavior": null
         },
         {
           "Id": "LostInMirkwood",
@@ -769,8 +797,35 @@
               "Amount": 1
             }
           ],
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": [
+            {
+              "Id": "RangersCache",
+              "Threshold": 4
+            },
+            {
+              "Id": "ShaftofSunlight",
+              "Threshold": 7
+            },
+            {
+              "Id": "SupportfromDale",
+              "Threshold": 10
+            }
+          ],
+          "ThreatCardList": [
+            {
+              "Id": "SpidersDescend",
+              "Threshold": 1
+            },
+            {
+              "Id": "WaveofFear",
+              "Threshold": 2
+            },
+            {
+              "Id": "Poisoned",
+              "Threshold": 3
+            }
+          ],
+          "AIBehavior": null
         },
         {
           "Id": "JourneyDownTheAnduin",
@@ -995,8 +1050,35 @@
               "Amount": 2
             }
           ],
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": [
+            {
+              "Id": "RangersCache",
+              "Threshold": 4
+            },
+            {
+              "Id": "ShaftofSunlight",
+              "Threshold": 7
+            },
+            {
+              "Id": "SupportfromDale",
+              "Threshold": 10
+            }
+          ],
+          "ThreatCardList": [
+            {
+              "Id": "SpidersDescend",
+              "Threshold": 1
+            },
+            {
+              "Id": "WaveofFear",
+              "Threshold": 2
+            },
+            {
+              "Id": "Poisoned",
+              "Threshold": 3
+            }
+          ],
+          "AIBehavior": null
         },
         {
           "Id": "ConflictAtTheCarrock",
@@ -1186,8 +1268,35 @@
               "Amount": 1
             }
           ],
-          "FateCardList": null,
-          "ThreatCardList": null
+          "FateCardList": [
+            {
+              "Id": "RangersCache",
+              "Threshold": 4
+            },
+            {
+              "Id": "ShaftofSunlight",
+              "Threshold": 7
+            },
+            {
+              "Id": "SupportfromDale",
+              "Threshold": 10
+            }
+          ],
+          "ThreatCardList": [
+            {
+              "Id": "SpidersDescend",
+              "Threshold": 1
+            },
+            {
+              "Id": "WaveofFear",
+              "Threshold": 2
+            },
+            {
+              "Id": "Poisoned",
+              "Threshold": 3
+            }
+          ],
+          "AIBehavior": null
         }
       ]
     },
@@ -1439,7 +1548,8 @@
             }
           ],
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "AIBehavior": null
         },
         {
           "Id": "DemoIDTest",
@@ -1502,7 +1612,8 @@
             }
           ],
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "AIBehavior": null
         },
         {
           "Id": "Demo051618Quest03",
@@ -1565,7 +1676,8 @@
             }
           ],
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "AIBehavior": null
         },
         {
           "Id": "Demo051618Quest04",
@@ -1628,7 +1740,8 @@
             }
           ],
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "AIBehavior": null
         },
         {
           "Id": "Demo051618Quest05",
@@ -1691,7 +1804,8 @@
             }
           ],
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "AIBehavior": null
         }
       ]
     },
@@ -1803,7 +1917,8 @@
             }
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "AIBehavior": null
         },
         {
           "Id": "Shadows of MirkwoodQuest02",
@@ -1908,7 +2023,8 @@
             }
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "AIBehavior": null
         },
         {
           "Id": "Shadows of MirkwoodQuest03",
@@ -2010,7 +2126,8 @@
             }
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "AIBehavior": null
         },
         {
           "Id": "Shadows of MirkwoodQuest04",
@@ -2073,7 +2190,8 @@
             }
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "AIBehavior": null
         },
         {
           "Id": "Shadows of MirkwoodQuest05",
@@ -2136,7 +2254,8 @@
             }
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "AIBehavior": null
         }
       ]
     },
@@ -2150,8 +2269,8 @@
           "Id": "temp_1Quest01",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
-          "VictoryVoice": null,
-          "DefeatVoice": null,
+          "VictoryVoice": "Victory",
+          "DefeatVoice": "Defeat",
           "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
@@ -2207,7 +2326,8 @@
             }
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "AIBehavior": "DefensiveAI"
         },
         {
           "Id": "temp_1Quest02",
@@ -2270,7 +2390,8 @@
             }
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "AIBehavior": null
         },
         {
           "Id": "temp_1Quest03",
@@ -2333,7 +2454,8 @@
             }
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "AIBehavior": null
         },
         {
           "Id": "temp_1Quest04",
@@ -2396,7 +2518,8 @@
             }
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "AIBehavior": null
         },
         {
           "Id": "temp_1Quest05",
@@ -2459,7 +2582,8 @@
             }
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "AIBehavior": null
         }
       ]
     },
@@ -2542,7 +2666,7 @@
           "FateCardList": [
             {
               "Id": "fate1",
-              "Threshold": 0
+              "Threshold": 1
             }
           ],
           "ThreatCardList": [
@@ -2552,9 +2676,10 @@
             },
             {
               "Id": "threat3",
-              "Threshold": 0
+              "Threshold": 2
             }
-          ]
+          ],
+          "AIBehavior": null
         },
         {
           "Id": "Test0510Quest02",
@@ -2617,7 +2742,8 @@
             }
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "AIBehavior": null
         },
         {
           "Id": "Test0510Quest03",
@@ -2680,7 +2806,8 @@
             }
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "AIBehavior": null
         },
         {
           "Id": "Test0510Quest04",
@@ -2743,7 +2870,8 @@
             }
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "AIBehavior": null
         },
         {
           "Id": "Test0510Quest05",
@@ -2806,7 +2934,8 @@
             }
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "AIBehavior": null
         }
       ]
     },
@@ -2877,7 +3006,8 @@
             }
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "AIBehavior": null
         },
         {
           "Id": "ThreeCocoonTesterQuest02",
@@ -2940,7 +3070,8 @@
             }
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "AIBehavior": null
         },
         {
           "Id": "ThreeCocoonTesterQuest03",
@@ -3003,7 +3134,8 @@
             }
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "AIBehavior": null
         },
         {
           "Id": "ThreeCocoonTesterQuest04",
@@ -3066,7 +3198,8 @@
             }
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "AIBehavior": null
         },
         {
           "Id": "ThreeCocoonTesterQuest05",
@@ -3129,7 +3262,8 @@
             }
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "AIBehavior": null
         }
       ]
     },
@@ -3180,7 +3314,8 @@
           ],
           "SauronDeck": [],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "AIBehavior": null
         }
       ]
     }

@@ -100,7 +100,7 @@
     "FateCardList": [
       {
         "Id": "fate1",
-        "Threshold": 0
+        "Threshold": 1
       }
     ],
     "ThreatCardList": [
@@ -110,13 +110,13 @@
       },
       {
         "Id": "threat3",
-        "Threshold": 0
+        "Threshold": 2
       }
     ]
   },
-  "Version": "20180518114911592",
+  "Version": "20180518080227513",
   "Key": "MainQuest",
   "SubKey": "Test0510Quest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Test0510Quest01_20180518114911592"
+  "InternalKey": "MainQuest_Test0510Quest01_20180518080227513"
 }

@@ -1,3 +1,7 @@
 {
-  "SaveThresholdMinOffset": 65
+  "SaveThresholdMinOffset": 0,
+  "SaveThresholdMaxOffset": 2,
+  "PlayCardOdds": 20,
+  "AttackOdds": 80,
+  "PassAttackOdds": 10
 }
