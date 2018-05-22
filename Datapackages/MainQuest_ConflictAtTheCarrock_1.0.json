@@ -288,36 +288,40 @@
     "Stories": [],
     "FateCardList": [
       {
-        "Id": "RangersCache",
+        "Id": "StaggeringBlow",
         "Threshold": 4
       },
       {
-        "Id": "ShaftofSunlight",
+        "Id": "BoldResolve",
+        "Threshold": 6
+      },
+      {
+        "Id": "AidFromTheBeornings",
         "Threshold": 7
       },
       {
-        "Id": "SupportfromDale",
+        "Id": "SecondWind",
         "Threshold": 10
       }
     ],
     "ThreatCardList": [
       {
-        "Id": "SpidersDescend",
+        "Id": "RainOfBoulders",
         "Threshold": 1
       },
       {
-        "Id": "WaveofFear",
+        "Id": "AFoulWind",
         "Threshold": 2
       },
       {
-        "Id": "Poisoned",
+        "Id": "TheScentOfManFlesh",
         "Threshold": 3
       }
     ]
   },
-  "Version": "20180518093859813",
+  "Version": "20180522223144251",
   "Key": "MainQuest",
   "SubKey": "ConflictAtTheCarrock",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180518093859813"
+  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180522223144251"
 }
