@@ -1264,29 +1264,33 @@
       ],
       "FateCardList": [
         {
-          "Id": "RangersCache",
+          "Id": "StaggeringBlow",
           "Threshold": 4
         },
         {
-          "Id": "ShaftofSunlight",
+          "Id": "BoldResolve",
+          "Threshold": 6
+        },
+        {
+          "Id": "AidFromTheBeornings",
           "Threshold": 7
         },
         {
-          "Id": "SupportfromDale",
+          "Id": "SecondWind",
           "Threshold": 10
         }
       ],
       "ThreatCardList": [
         {
-          "Id": "SpidersDescend",
+          "Id": "RainOfBoulders",
           "Threshold": 1
         },
         {
-          "Id": "WaveofFear",
+          "Id": "AFoulWind",
           "Threshold": 2
         },
         {
-          "Id": "Poisoned",
+          "Id": "TheScentOfManFlesh",
           "Threshold": 3
         }
       ]
