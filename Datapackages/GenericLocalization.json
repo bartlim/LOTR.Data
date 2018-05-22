@@ -5269,15 +5269,11 @@
   },
   {
     "Id": "C_ELVENSCOUT_TEXT",
-    "Text": "<b>Ranged</b>",
-    "Text_CN": "远程。",
-    "Text_FR": "À distance."
+    "Text": "<b>Ranged</b>"
   },
   {
     "Id": "C_ELVENSCOUT_TITLE",
-    "Text": "Elven Scout",
-    "Text_CN": "精灵斥候",
-    "Text_FR": "Éclaireur elfe"
+    "Text": "Elven Scout"
   },
   {
     "Id": "C_ENFEEBLED_FLAVOR",
@@ -11952,5 +11948,9 @@
   {
     "Id": "C_ATEST180408_FLAVOR",
     "Text": "0408 flavor on exp"
+  },
+  {
+    "Id": "C_ELVENSCOUT_FLAVOR",
+    "Text": ""
   }
 ]
