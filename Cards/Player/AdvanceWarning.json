@@ -23,12 +23,20 @@
     "FlavorText": "Suddenly he halted and listened. Had he heard a whistle or not? Or was it the call of some strange bird? \n<i>—The Two Towers</i>",
     "ArtistName": "Adam Lane",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
     "ArtworkMD5": "87341bea2c2774dbd31233c3d31f3a0f",
     "BannerMD5": null,
     "IconMD5": "7d7804667fc2dc21536bfda0171b79cb"
   },
   "Localization": {
     "Title": "Advance Warning",
-    "Text": "Exhaust the next Enemy\n that Sauron plays "
+    "Text": "Exhaust the next Enemy that enters play\r"
   }
 }
