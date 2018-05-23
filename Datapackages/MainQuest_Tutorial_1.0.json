@@ -13,7 +13,8 @@
         "NextStages": [],
         "NextStageTitles": [
           "Tutorial_Stage_02"
-        ]
+        ],
+        "FateCardList": null
       },
       {
         "Title": "Tutorial_Stage_02",
@@ -22,7 +23,8 @@
         "NextStages": [],
         "NextStageTitles": [
           "Tutorial_Stage_03"
-        ]
+        ],
+        "FateCardList": null
       },
       {
         "Title": "Tutorial_Stage_03",
@@ -31,15 +33,24 @@
         "NextStages": [],
         "NextStageTitles": [
           ""
-        ]
+        ],
+        "FateCardList": null
       }
     ],
     "Sequences": [],
-    "Stories": []
+    "Stories": [],
+    "FateCardList": [
+      {
+        "Id": "RangersProvisions",
+        "Threshold": 3
+      }
+    ],
+    "ThreatCardList": null,
+    "AIBehavior": null
   },
-  "Version": "20180430170157685",
+  "Version": "20180523082205810",
   "Key": "MainQuest",
   "SubKey": "Tutorial",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Tutorial_20180430170157685"
+  "InternalKey": "MainQuest_Tutorial_20180523082205810"
 }
