@@ -3281,8 +3281,8 @@
           "Id": "Tutorial",
           "IconSprite": "Sprites/Quest/icon_q2",
           "ArtSprite": "Sprites/Quest/quest_2",
-          "VictoryVoice": "",
-          "DefeatVoice": "",
+          "VictoryVoice": "TutorialVictoryVoice",
+          "DefeatVoice": "TutorialDefeatVoice",
           "ResolutionArtSprite": null,
           "Stages": [
             {
