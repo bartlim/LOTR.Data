@@ -40,7 +40,13 @@
           "BGM": null
         }
       ],
-      "SauronDeck": []
+      "SauronDeck": [],
+      "FateCardList": [
+        {
+          "Id": "RangersProvisions",
+          "Threshold": 3
+        }
+      ]
     }
   ]
 }
