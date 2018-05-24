@@ -3774,6 +3774,36 @@
     "Text_FR": "An ability that can unlock special powers unique to each Quest"
   },
   {
+    "Id": "U_SHOP_AVATAR_AGENTOFSAURON",
+    "Text": "Agent of Sauron Avatar",
+    "Text_CN": "[C]Agent of Sauron Avatar",
+    "Text_FR": "Agent of Sauron Avatar"
+  },
+  {
+    "Id": "U_SHOP_AVATAR_COLLECTORS",
+    "Text": "Collector Avatar",
+    "Text_CN": "[C]Collector Avatar",
+    "Text_FR": "Collector Avatar"
+  },
+  {
+    "Id": "U_SHOP_CB_COLLECTOR_FLAVOR",
+    "Text": "Collector Card Back",
+    "Text_CN": "[C]Collector Card Back",
+    "Text_FR": "Collector Card Back"
+  },
+  {
+    "Id": "U_SHOP_PF_DARKARMOR",
+    "Text": "Collector Player Frame",
+    "Text_CN": "[C]Collector Player Frame",
+    "Text_FR": "Collector Player Frame"
+  },
+  {
+    "Id": "U_SHOP_FOUNDERPACK_COLLECTOR",
+    "Text": "Collector's Founder Pack",
+    "Text_CN": "[C]Collector's Founder Pack",
+    "Text_FR": "Collector's Founder Pack"
+  },
+  {
     "Id": "PLACEHOLDER2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -8994,174 +9024,6 @@
     "Text_FR": "Select to adjust game settings or to leave the Quest"
   },
   {
-    "Id": "T_POPUP_6D",
-    "Text": "Drag the card into play area",
-    "Text_CN": "[C]Drag the card into play area",
-    "Text_FR": "Drag the card into play area"
-  },
-  {
-    "Id": "T_POPUP_END_PLAN",
-    "Text": "End the \nPlanning phase",
-    "Text_CN": "[C]End the \nPlanning phase",
-    "Text_FR": "End the \nPlanning phase"
-  },
-  {
-    "Id": "T_POPUP_7B1",
-    "Text": "Use <i>Aragorn</i> to attack\n <i>Forest Spider</i>",
-    "Text_CN": "[C]Use <i>Aragorn</i> to attack\n <i>Forest Spider</i>",
-    "Text_FR": "Use <i>Aragorn</i> to attack\n <i>Forest Spider</i>"
-  },
-  {
-    "Id": "T_POPUP_7B2",
-    "Text": "Slay the Spiders!",
-    "Text_CN": "[C]Slay the Spiders!",
-    "Text_FR": "Slay the Spiders!"
-  },
-  {
-    "Id": "T_POPUP_7D",
-    "Text": "Combat exhausts both \nattacker and target",
-    "Text_CN": "[C]Combat exhausts both \nattacker and target",
-    "Text_FR": "Combat exhausts both \nattacker and target"
-  },
-  {
-    "Id": "T_POPUP_END_ADV",
-    "Text": "End the \nAdventure phase",
-    "Text_CN": "[C]End the \nAdventure phase",
-    "Text_FR": "End the \nAdventure phase"
-  },
-  {
-    "Id": "T_POPUP_9",
-    "Text": "Each round, exhausted \nCharacters ready; \nyou then gain 3 Resources \nand draw 1 card",
-    "Text_CN": "[C]Each round, exhausted \nCharacters ready; \nyou then gain 3 Resources \nand draw 1 card",
-    "Text_FR": "Each round, exhausted \nCharacters ready; \nyou then gain 3 Resources \nand draw 1 card"
-  },
-  {
-    "Id": "T_POPUP_10B",
-    "Text": "If you reach 50 Threat, \nyour Quest fails!",
-    "Text_CN": "[C]If you reach 50 Threat, \nyour Quest fails!",
-    "Text_FR": "If you reach 50 Threat, \nyour Quest fails!"
-  },
-  {
-    "Id": "T_POPUP_10F",
-    "Text": "Characters with <b>Guard</b> \nmust be attacked first",
-    "Text_CN": "[C]Characters with <b>Guard</b> \nmust be attacked first",
-    "Text_FR": "Characters with <b>Guard</b> \nmust be attacked first"
-  },
-  {
-    "Id": "T_POPUP_11E",
-    "Text": "Some Characters have \nspecial abilities! \nSelect <i>Aragorn</i> to \nuse his <b>Power</b>",
-    "Text_CN": "[C]Some Characters have \nspecial abilities! \nSelect <i>Aragorn</i> to \nuse his <b>Power</b>",
-    "Text_FR": "Some Characters have \nspecial abilities! \nSelect <i>Aragorn</i> to \nuse his <b>Power</b>"
-  },
-  {
-    "Id": "T_POPUP_11H",
-    "Text": "<i>Aragorn</i> can take \nanother action!",
-    "Text_CN": "[C]<i>Aragorn</i> can take \nanother action!",
-    "Text_FR": "<i>Aragorn</i> can take \nanother action!"
-  },
-  {
-    "Id": "T_POPUP_12A",
-    "Text": "You have defeated the Spiders. \nSelect TRAVEL to continue \nyour journey",
-    "Text_CN": "[C]You have defeated the Spiders. \nSelect TRAVEL to continue \nyour journey",
-    "Text_FR": "You have defeated the Spiders. \nSelect TRAVEL to continue \nyour journey"
-  },
-  {
-    "Id": "T_POPUP_15B",
-    "Text": "Use Willpower to \nresolve Objectives",
-    "Text_CN": "[C]Use Willpower to \nresolve Objectives",
-    "Text_FR": "Use Willpower to \nresolve Objectives"
-  },
-  {
-    "Id": "T_POPUP_18G",
-    "Text": "<b>Block</b> reduces \ndamage by 1",
-    "Text_CN": "[C]<b>Block</b> reduces \ndamage by 1",
-    "Text_FR": "<b>Block</b> reduces \ndamage by 1"
-  },
-  {
-    "Id": "T_POPUP_19A1",
-    "Text": "Rescue the \ncloaked stranger!",
-    "Text_CN": "[C]Rescue the \ncloaked stranger!",
-    "Text_FR": "Rescue the \ncloaked stranger!"
-  },
-  {
-    "Id": "T_POPUP_19A2",
-    "Text": "Slay the \nspiders!",
-    "Text_CN": "[C]Slay the \nSpiders!",
-    "Text_FR": "Slay the \nSpiders!"
-  },
-  {
-    "Id": "T_POPUP_19C",
-    "Text": "Use Willpower to \nresolve Objectives",
-    "Text_CN": "[C]Use Willpower to \nresolve Objectives",
-    "Text_FR": "Use Willpower to \nresolve Objectives"
-  },
-  {
-    "Id": "T_POPUP_19I",
-    "Text": "At the end of the round, \nyou gain 1 Threat for each \nEnemy that is not exhausted!",
-    "Text_CN": "[C]At the end of the round, \nyou gain 1 Threat for each \nEnemy that is not exhausted!",
-    "Text_FR": "At the end of the round, \nyou gain 1 Threat for each \nEnemy that is not exhausted!"
-  },
-  {
-    "Id": "T_POPUP_22F",
-    "Text": "A Character with <b>Ranged</b> \ndoes not take damage when \nattacking an exhausted target",
-    "Text_CN": "[C]A Character with <b>Ranged</b> \ndoes not take damage when \nattacking an exhausted target",
-    "Text_FR": "A Character with <b>Ranged</b> \ndoes not take damage when \nattacking an exhausted target"
-  },
-  {
-    "Id": "T_POPUP_23B",
-    "Text": "Use Willpower to \nresolve the Objective",
-    "Text_CN": "[C]Use Willpower to \nresolve the Objective",
-    "Text_FR": "Use Willpower to \nresolve the Objective"
-  },
-  {
-    "Id": "T_POPUP_23D",
-    "Text": "You have freed the \ncloaked stranger: <i>Arwen, \nElrond</i>'s daughter! \nSelect <b>Travel</b> to continue \nyour journey",
-    "Text_CN": "[C]You have freed the \ncloaked stranger: <i>Arwen, \nElrond</i>'s daughter! \nSelect <b>Travel</b> to continue \nyour journey",
-    "Text_FR": "You have freed the \ncloaked stranger: <i>Arwen, \nElrond</i>'s daughter! \nSelect <b>Travel</b> to continue \nyour journey"
-  },
-  {
-    "Id": "T_POPUP_23K",
-    "Text": "When you travel, Enemies \nthat are not exhausted can \nattack!",
-    "Text_CN": "[C]When you travel, Enemies \nthat are not exhausted can \nattack!",
-    "Text_FR": "When you travel, Enemies \nthat are not exhausted can \nattack!"
-  },
-  {
-    "Id": "T_POPUP_26B",
-    "Text": "Use Willpower to \nresolve Objectives",
-    "Text_CN": "[C]Use Willpower to \nresolve Objectives",
-    "Text_FR": "Use Willpower to \nresolve Objectives"
-  },
-  {
-    "Id": "T_POPUP_28D",
-    "Text": "Some Characters have \nspecial abilities that trigger \nduring the Upkeep phase",
-    "Text_CN": "[C]Some Characters have \nspecial abilities that trigger \nduring the Upkeep phase",
-    "Text_FR": "Some Characters have \nspecial abilities that trigger \nduring the Upkeep phase"
-  },
-  {
-    "Id": "T_POPUP_29D",
-    "Text": "Each Hero belongs to a Sphere \nof Influence. The Hero's \nSphere dictates the types of \ncards available in your deck",
-    "Text_CN": "[C]Each Hero belongs to a Sphere \nof Influence. The Hero's \nSphere dictates the types of \ncards available in your deck",
-    "Text_FR": "Each Hero belongs to a Sphere \nof Influence. The Hero's \nSphere dictates the types of \ncards available in your deck"
-  },
-  {
-    "Id": "T_POPUP_34F",
-    "Text": "Some Characters have special \nabilities! Select <i>Aragorn</i> \nto use his <b>Power</b>",
-    "Text_CN": "[C]Some Characters have special \nabilities! Select <i>Aragorn</i> \nto use his <b>Power</b>",
-    "Text_FR": "Some Characters have special \nabilities! Select <i>Aragorn</i> \nto use his <b>Power</b>"
-  },
-  {
-    "Id": "T_POPUP_34I",
-    "Text": "<i>Aragorn</i> can \ntake another action!",
-    "Text_CN": "[C]<i>Aragorn</i> can \ntake another action!",
-    "Text_FR": "<i>Aragorn</i> can \ntake another action!"
-  },
-  {
-    "Id": "T_POPUP_36C",
-    "Text": "Neutral cards may be \nused with any \nSphere of Influence",
-    "Text_CN": "[C]Neutral cards may be \nused with any \nSphere of Influence",
-    "Text_FR": "Neutral cards may be \nused with any \nSphere of Influence"
-  },
-  {
     "Id": "T_ASMODEE_SIGN_UP",
     "Text": "Congratulations! You have completed the prologue, but that was merely the beginning. \n\nCreate an Asmodee.net account now to unlock additional Heroes and cards to use on your further adventures across Middle-earth…",
     "Text_CN": "[C]Congratulations! You have completed the prologue, but that was merely the beginning. \n\nCreate an Asmodee.net account now to unlock additional Heroes and cards to use on your further adventures across Middle-earth…",
@@ -9178,6 +9040,186 @@
     "Text": "The time has come to begin your journey. Go forth and fare well!",
     "Text_CN": "[C]The time has come to begin your journey. Go forth and fare well!",
     "Text_FR": "The time has come to begin your journey. Go forth and fare well!"
+  },
+  {
+    "Id": "T_POP_7D",
+    "Text": "Drag the card into play area",
+    "Text_CN": "[C]Drag the card into play area",
+    "Text_FR": "Drag the card into play area"
+  },
+  {
+    "Id": "T_POP_7G",
+    "Text": "Combat exhausts the attacker",
+    "Text_CN": "[C]Combat exhausts the attacker",
+    "Text_FR": "Combat exhausts the attacker"
+  },
+  {
+    "Id": "T_POP_7I1",
+    "Text": "Use <i>Aragorn</i> to attack <i>Hatchling Spider</i>",
+    "Text_CN": "[C]Use <i>Aragorn</i> to attack <i>Hatchling Spider</i>",
+    "Text_FR": "Use <i>Aragorn</i> to attack <i>Hatchling Spider</i>"
+  },
+  {
+    "Id": "T_POP_7I2",
+    "Text": "Slay the spider!",
+    "Text_CN": "[C]Slay the spider!",
+    "Text_FR": "Slay the spider!"
+  },
+  {
+    "Id": "T_POP_UPKEEP",
+    "Text": "Each round, exhausted Characters ready. You then gain 3 Resources and draw 2 cards",
+    "Text_CN": "[C]Each round, exhausted Characters ready. You then gain 3 Resources and draw 2 cards",
+    "Text_FR": "Each round, exhausted Characters ready. You then gain 3 Resources and draw 2 cards"
+  },
+  {
+    "Id": "T_POP_GUARD",
+    "Text": "Characters with <b>Guard</b> must be attacked first",
+    "Text_CN": "[C]Characters with <b>Guard</b> must be attacked first",
+    "Text_FR": "Characters with <b>Guard</b> must be attacked first"
+  },
+  {
+    "Id": "T_POP_MAXTHREAT",
+    "Text": "If you reach 50 Threat, your Quest fails!",
+    "Text_CN": "[C]If you reach 50 Threat, your Quest fails!",
+    "Text_FR": "If you reach 50 Threat, your Quest fails!"
+  },
+  {
+    "Id": "T_POP_10K",
+    "Text": "Some events require you to select a target. Select <i>Aragorn</i> to ready him.",
+    "Text_CN": "[C]Some events require you to select a target. Select <i>Aragorn</i> to ready him.",
+    "Text_FR": "Some events require you to select a target. Select <i>Aragorn</i> to ready him."
+  },
+  {
+    "Id": "T_POP_SAURONPASS",
+    "Text": "Sauron will pass his turn when he has 0 Resources and no cards to play.",
+    "Text_CN": "[C]Sauron will pass his turn when he has 0 Resources and no cards to play.",
+    "Text_FR": "Sauron will pass his turn when he has 0 Resources and no cards to play."
+  },
+  {
+    "Id": "T_POP_12B",
+    "Text": "You have defeated the <i>Broodmother</i>! Select TRAVEL to continue your journey",
+    "Text_CN": "[C]You have defeated the <i>Broodmother</i>! Select TRAVEL to continue your journey",
+    "Text_FR": "You have defeated the <i>Broodmother</i>! Select TRAVEL to continue your journey"
+  },
+  {
+    "Id": "T_POP_18",
+    "Text": "Rescue the cloaked stranger!",
+    "Text_CN": "[C]Rescue the cloaked stranger!",
+    "Text_FR": "Rescue the cloaked stranger!"
+  },
+  {
+    "Id": "T_POP_BLOCK",
+    "Text": "<b>Block</b> reduces the damage from each attack by 1",
+    "Text_CN": "[C]<b>Block</b> reduces the damage from each attack by 1",
+    "Text_FR": "<b>Block</b> reduces the damage from each attack by 1"
+  },
+  {
+    "Id": "T_POP_18I",
+    "Text": "Use Aragorn's power to increase his Willpower for this turn.",
+    "Text_CN": "[C]Use Aragorn's power to increase his Willpower for this turn.",
+    "Text_FR": "Use Aragorn's power to increase his Willpower for this turn."
+  },
+  {
+    "Id": "T_POP_18K",
+    "Text": "Use Willpower to resolve Objectives",
+    "Text_CN": "[C]Use Willpower to resolve Objectives",
+    "Text_FR": "Use Willpower to resolve Objectives"
+  },
+  {
+    "Id": "T_POP_GAINTHREAT",
+    "Text": "At the end of the round, you gain 1 Threat for each Enemy that is not exhausted!",
+    "Text_CN": "[C]At the end of the round, you gain 1 Threat for each Enemy that is not exhausted!",
+    "Text_FR": "At the end of the round, you gain 1 Threat for each Enemy that is not exhausted!"
+  },
+  {
+    "Id": "T_POP_RANGED",
+    "Text": "A Character with <b>Ranged</b> can bypass <b>Guard</b>",
+    "Text_CN": "[C]A Character with <b>Ranged</b> can bypass <b>Guard</b>",
+    "Text_FR": "A Character with <b>Ranged</b> can bypass <b>Guard</b>"
+  },
+  {
+    "Id": "T_POP_22E",
+    "Text": "Use Willpower to resolve the Objective",
+    "Text_CN": "[C]Use Willpower to resolve the Objective",
+    "Text_FR": "Use Willpower to resolve the Objective"
+  },
+  {
+    "Id": "T_POP_22F",
+    "Text": "You have freed the cloaked stranger: <i>Arwen</i>, <i>Elrond</i>'s daughter! Select TRAVEL to continue your journey",
+    "Text_CN": "[C]You have freed the cloaked stranger: <i>Arwen</i>, <i>Elrond</i>'s daughter! Select TRAVEL to continue your journey",
+    "Text_FR": "You have freed the cloaked stranger: <i>Arwen</i>, <i>Elrond</i>'s daughter! Select TRAVEL to continue your journey"
+  },
+  {
+    "Id": "T_POP_22M",
+    "Text": "When you travel, Enemies that are not exhausted can attack!",
+    "Text_CN": "[C]When you travel, Enemies that are not exhausted can attack!",
+    "Text_FR": "When you travel, Enemies that are not exhausted can attack!"
+  },
+  {
+    "Id": "T_POP_28E",
+    "Text": "Some Characters have special abilities that trigger during the Upkeep phase",
+    "Text_CN": "[C]Some Characters have special abilities that trigger during the Upkeep phase",
+    "Text_FR": "Some Characters have special abilities that trigger during the Upkeep phase"
+  },
+  {
+    "Id": "T_POP_29B",
+    "Text": "Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck",
+    "Text_CN": "[C]Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck",
+    "Text_FR": "Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck"
+  },
+  {
+    "Id": "T_POP_33K",
+    "Text": "<i>Aragorn</i> can take another action!",
+    "Text_CN": "[C]<i>Aragorn</i> can take another action!",
+    "Text_FR": "<i>Aragorn</i> can take another action!"
+  },
+  {
+    "Id": "T_POP_33M",
+    "Text": "Activate Aragorn's Power to increase his Attack!",
+    "Text_CN": "[C]Activate Aragorn's Power to increase his Attack!",
+    "Text_FR": "Activate Aragorn's Power to increase his Attack!"
+  },
+  {
+    "Id": "T_POP_33P",
+    "Text": "<b>Ranged</b> attacks bypass <b>Guard</b>, and are unaffected by <b>Counter</b>",
+    "Text_CN": "[C]<b>Ranged</b> attacks bypass <b>Guard</b>, and are unaffected by <b>Counter</b>",
+    "Text_FR": "<b>Ranged</b> attacks bypass <b>Guard</b>, and are unaffected by <b>Counter</b>"
+  },
+  {
+    "Id": "T_POP_33Q",
+    "Text": "Sometimes Characters with low Attack values can be useful in other ways than attacking…",
+    "Text_CN": "[C]Sometimes Characters with low Attack values can be useful in other ways than attacking…",
+    "Text_FR": "Sometimes Characters with low Attack values can be useful in other ways than attacking…"
+  },
+  {
+    "Id": "T_POP_33R",
+    "Text": "Characters can take an action to contribute Willpower to the Fate Pool. This can unlock special single-use abilities.",
+    "Text_CN": "[C]Characters can take an action to contribute Willpower to the Fate Pool. This can unlock special single-use abilities.",
+    "Text_FR": "Characters can take an action to contribute Willpower to the Fate Pool. This can unlock special single-use abilities."
+  },
+  {
+    "Id": "T_POP_33S",
+    "Text": "Activate <i>Arwen</i>'s Fate Contribution",
+    "Text_CN": "[C]Activate <i>Arwen</i>'s Fate Contribution",
+    "Text_FR": "Activate <i>Arwen</i>'s Fate Contribution"
+  },
+  {
+    "Id": "T_POP_NEUTRAL",
+    "Text": "Neutral cards may be used with any Sphere of Influence",
+    "Text_CN": "[C]Neutral cards may be used with any Sphere of Influence",
+    "Text_FR": "Neutral cards may be used with any Sphere of Influence"
+  },
+  {
+    "Id": "T_POP_FATE",
+    "Text": "Fate can be used to give special one-use benefits in a Quest. Selecting an available Fate card is a free action.",
+    "Text_CN": "[C]Fate can be used to give special one-use benefits in a Quest. Selecting an available Fate card is a free action.",
+    "Text_FR": "Fate can be used to give special one-use benefits in a Quest. Selecting an available Fate card is a free action."
+  },
+  {
+    "Id": "T_POP_END_ADV",
+    "Text": "End the \nAdventure phase",
+    "Text_CN": "[C]End the \nAdventure phase",
+    "Text_FR": "End the \nAdventure phase"
   },
   {
     "Id": "_PLACEHOLDER5",
@@ -9211,9 +9253,9 @@
   },
   {
     "Id": "G_003_DESC",
-    "Text": "The attacker resolves damage before the target does. If this defeats the target, the attacker takes no damage.",
-    "Text_CN": "The attacker resolves damage before the target does. If this defeats the target, the attacker takes no damage.",
-    "Text_FR": "L'attaquant calcule d'abord les points de dégâts qu'il inflige. S'il vainc la cible, il ne subit aucun dégât."
+    "Text": "The attack ignores <b>Block</b> and <b>Counter</b>",
+    "Text_CN": "The attack ignores <b>Block</b> and <b>Counter</b>",
+    "Text_FR": "The attack ignores <b>Block</b> and <b>Counter</b>"
   },
   {
     "Id": "G_003_TERM",
@@ -9235,9 +9277,9 @@
   },
   {
     "Id": "G_005_DESC",
-    "Text": "This ability triggers when the card enters play.",
-    "Text_CN": "This ability triggers when the card enters play.",
-    "Text_FR": "Cette capacité s'active quand la carte est mise en jeu."
+    "Text": "The ability triggers when this card enters play",
+    "Text_CN": "The ability triggers when this card enters play",
+    "Text_FR": "The ability triggers when this card enters play"
   },
   {
     "Id": "G_005_TERM",
@@ -9283,9 +9325,9 @@
   },
   {
     "Id": "G_009_DESC",
-    "Text": "Each time damage is taken, reduce the amount by 1.",
-    "Text_CN": "Each time damage is taken, reduce the amount by 1.",
-    "Text_FR": "À chaque fois que des dégâts sont reçus, le total est réduit de 1."
+    "Text": "Reduces by 1 the damage taken from each attack",
+    "Text_CN": "Reduces by 1 the damage taken from each attack",
+    "Text_FR": "Reduces by 1 the damage taken from each attack"
   },
   {
     "Id": "G_009_TERM",
@@ -9499,9 +9541,9 @@
   },
   {
     "Id": "G_027_DESC",
-    "Text": "This target must be defeated before you can attack another target.",
-    "Text_CN": "This target must be defeated before you can attack another target.",
-    "Text_FR": "Cette cible doit être vaincue avant que vous puissiez en attaquer une autre."
+    "Text": "This card must be defeated before choosing another target or Objective. A card with <b>Stealth</b> cannot <b>Guard</b>",
+    "Text_CN": "This card must be defeated before choosing another target or Objective. A card with <b>Stealth</b> cannot <b>Guard</b>",
+    "Text_FR": "This card must be defeated before choosing another target or Objective. A card with <b>Stealth</b> cannot <b>Guard</b>"
   },
   {
     "Id": "G_027_TERM",
@@ -9727,9 +9769,9 @@
   },
   {
     "Id": "G_046_DESC",
-    "Text": "An Event card type whose effect triggers based on a timing window or circumstance.",
-    "Text_CN": "An Event card type whose effect triggers based on a timing window or circumstance.",
-    "Text_FR": "Carte de type Événement dont l'effet s'active en fonction d'une fenêtre de temps ou d'une circonstance."
+    "Text": "An Event card type which triggers based on a timing window or circumstance",
+    "Text_CN": "An Event card type which triggers based on a timing window or circumstance",
+    "Text_FR": "An Event card type which triggers based on a timing window or circumstance"
   },
   {
     "Id": "G_046_TERM",
@@ -9763,9 +9805,9 @@
   },
   {
     "Id": "G_049_DESC",
-    "Text": "Follows your Heroes from one Location to the next.",
-    "Text_CN": "Follows your Heroes from one Location to the next.",
-    "Text_FR": "Suit vos héros d'un lieu à l'autre."
+    "Text": "This card follows your Heroes from one Location to the next",
+    "Text_CN": "This card follows your Heroes from one Location to the next",
+    "Text_FR": "This card follows your Heroes from one Location to the next"
   },
   {
     "Id": "G_049_TERM",
@@ -9787,9 +9829,9 @@
   },
   {
     "Id": "G_051_DESC",
-    "Text": "The attacker does not take damage when attacking an exhausted target.",
-    "Text_CN": "The attacker does not take damage when attacking an exhausted target.",
-    "Text_FR": "L'assaillant ne subit pas de points de dégâts lorsqu'il attaque une cible Épuisée."
+    "Text": "This card ignores <b>Guard</b> and <b>Counter</b> when attacking",
+    "Text_CN": "This card ignores <b>Guard</b> and <b>Counter</b> when attacking",
+    "Text_FR": "This card ignores <b>Guard</b> and <b>Counter</b> when attacking"
   },
   {
     "Id": "G_051_TERM",
@@ -9835,9 +9877,9 @@
   },
   {
     "Id": "G_055_DESC",
-    "Text": "This ability triggers when the card is defeated.",
-    "Text_CN": "This ability triggers when the card is defeated.",
-    "Text_FR": "Cette capacité s'active lorsque la carte est vaincue."
+    "Text": "The ability triggers when this card is defeated",
+    "Text_CN": "The ability triggers when this card is defeated",
+    "Text_FR": "The ability triggers when this card is defeated"
   },
   {
     "Id": "G_055_TERM",
@@ -9907,9 +9949,9 @@
   },
   {
     "Id": "G_061_DESC",
-    "Text": "This card does not exhaust the first time it is attacked.",
-    "Text_CN": "This card does not exhaust the first time it is attacked.",
-    "Text_FR": "Avec cette carte, un personnage n'est pas Épuisé la première fois qu'il est attaqué."
+    "Text": "This card does not exhaust after the first action each round",
+    "Text_CN": "This card does not exhaust after the first action each round",
+    "Text_FR": "This card does not exhaust after the first action each round"
   },
   {
     "Id": "G_061_TERM",
@@ -9919,9 +9961,9 @@
   },
   {
     "Id": "G_062_DESC",
-    "Text": "Cannot be attacked unless all non-Stealth targets are exhausted.",
-    "Text_CN": "Cannot be attacked unless all non-Stealth targets are exhausted.",
-    "Text_FR": "Impossible à attaquer tant que toutes les cibles non Furtives ne sont pas Épuisées."
+    "Text": "While the ability is active, this card cannot be attacked and ignores <b>Guard</b> when targeting Enemies and Objectives. An exhausted card cannot have <b>Stealth</b> active. A card with <b>Stealth</b> cannot <b>Guard</b>",
+    "Text_CN": "While the ability is active, this card cannot be attacked and ignores <b>Guard</b> when targeting Enemies and Objectives. An exhausted card cannot have <b>Stealth</b> active. A card with <b>Stealth</b> cannot <b>Guard</b>",
+    "Text_FR": "While the ability is active, this card cannot be attacked and ignores <b>Guard</b> when targeting Enemies and Objectives. An exhausted card cannot have <b>Stealth</b> active. A card with <b>Stealth</b> cannot <b>Guard</b>"
   },
   {
     "Id": "G_062_TERM",
@@ -9931,9 +9973,9 @@
   },
   {
     "Id": "G_063_DESC",
-    "Text": "Does not exhaust after the first action each round.",
-    "Text_CN": "Does not exhaust after the first action each round.",
-    "Text_FR": "À chaque tour, évite d'être Épuisé après la première action."
+    "Text": "Gain an immediate action after this card is played",
+    "Text_CN": "Gain an immediate action after this card is played",
+    "Text_FR": "Gain an immediate action after this card is played"
   },
   {
     "Id": "G_063_TERM",
@@ -10015,9 +10057,9 @@
   },
   {
     "Id": "G_070_DESC",
-    "Text": "At the start of each round, your cards ready, you gain Resources, and you draw 1 card from your deck; Sauron then does the same. Certain abilities may also activate at this time.",
-    "Text_CN": "精灵族的次级分支。",
-    "Text_FR": "Au début de chaque tour, vos cartes se préparent, vous gagnez des ressources et vous piochez 1 carte du deck. Sauron en fait de même. Certaines capacités peuvent également s'activer à ce moment-là."
+    "Text": "The ability triggers at the start of the round",
+    "Text_CN": "The ability triggers at the start of the round",
+    "Text_FR": "The ability triggers at the start of the round"
   },
   {
     "Id": "G_070_TERM",
@@ -10039,9 +10081,9 @@
   },
   {
     "Id": "G_072_DESC",
-    "Text": "This ability triggers upon defeating a target.",
-    "Text_CN": "This ability triggers upon defeating a target.",
-    "Text_FR": "Cette capacité s'active en venant à bout d'une cible."
+    "Text": "The ability triggers upon defeating a target",
+    "Text_CN": "The ability triggers upon defeating a target",
+    "Text_FR": "The ability triggers upon defeating a target"
   },
   {
     "Id": "G_072_TERM",
@@ -10087,9 +10129,9 @@
   },
   {
     "Id": "G_076_DESC",
-    "Text": "Deal 1 damage when defending.",
-    "Text_CN": "Deal 1 damage when defending.",
-    "Text_FR": "Deal 1 damage when defending."
+    "Text": "This card deals 1 damage when defending against melee attacks. (Does not apply to ranged attacks)",
+    "Text_CN": "This card deals 1 damage when defending against melee attacks. (Does not apply to ranged attacks)",
+    "Text_FR": "This card deals 1 damage when defending against melee attacks. (Does not apply to ranged attacks)"
   },
   {
     "Id": "G_076_TERM",
