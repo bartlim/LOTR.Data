@@ -12,7 +12,7 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "WatchersintheDark",
+          "Id": "WatchersInTheDark",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -351,11 +351,12 @@
         "Id": "Poisoned",
         "Threshold": 3
       }
-    ]
+    ],
+    "AIBehavior": null
   },
-  "Version": "20180522223139924",
+  "Version": "20180524061311662",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180522223139924"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180524061311662"
 }
