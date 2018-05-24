@@ -5,7 +5,7 @@
       "Id": null,
       "DeckList": [
         {
-          "Id": "WatchersintheDark",
+          "Id": "WatchersInTheDark",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -201,13 +201,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "HillTroll",
-          "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "SquashedIntoJelly",
           "Quantity": 2,
           "MinThreatLevel": 0,
@@ -223,6 +216,13 @@
         },
         {
           "Id": "Wargs",
+          "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "HillTroll",
           "Quantity": 1,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -317,11 +317,12 @@
         "Id": "TheScentOfManFlesh",
         "Threshold": 3
       }
-    ]
+    ],
+    "AIBehavior": null
   },
-  "Version": "20180522223144251",
+  "Version": "20180524061316504",
   "Key": "MainQuest",
   "SubKey": "ConflictAtTheCarrock",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180522223144251"
+  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180524061316504"
 }
