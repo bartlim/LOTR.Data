@@ -123,7 +123,7 @@
           "Amount": 2
         },
         {
-          "Id": "WatchersintheDark",
+          "Id": "WatchersInTheDark",
           "Amount": 2
         },
         {
@@ -145,6 +145,10 @@
         {
           "Id": "DrivenByShadow",
           "Amount": 1
+        },
+        {
+          "Id": "EastBightPatrol",
+          "Amount": 4
         },
         {
           "Id": "EyesOfTheForest",
@@ -189,10 +193,6 @@
         {
           "Id": "BlockedPath",
           "Amount": 1
-        },
-        {
-          "Id": "EastBightPatrol",
-          "Amount": 4
         },
         {
           "Id": "Enfeebled",
@@ -270,7 +270,8 @@
           "Id": "Poisoned",
           "Threshold": 3
         }
-      ]
+      ],
+      "AIBehavior": null
     },
     {
       "Id": "FliesAndSpiders",
@@ -344,7 +345,11 @@
           "Amount": 2
         },
         {
-          "Id": "WatchersintheDark",
+          "Id": "HatchlingSpider",
+          "Amount": 1
+        },
+        {
+          "Id": "WatchersInTheDark",
           "Amount": 2
         },
         {
@@ -360,15 +365,15 @@
           "Amount": 2
         },
         {
+          "Id": "ForestSpider",
+          "Amount": 2
+        },
+        {
           "Id": "GatheringGloom",
           "Amount": 1
         },
         {
           "Id": "GrowingDarkness",
-          "Amount": 1
-        },
-        {
-          "Id": "HatchlingSpider",
           "Amount": 1
         },
         {
@@ -402,10 +407,6 @@
         {
           "Id": "EvilStorm",
           "Amount": 1
-        },
-        {
-          "Id": "ForestSpider",
-          "Amount": 2
         },
         {
           "Id": "GreedyFingers",
@@ -503,7 +504,8 @@
           "Id": "Poisoned",
           "Threshold": 3
         }
-      ]
+      ],
+      "AIBehavior": null
     },
     {
       "Id": "LostInMirkwood",
@@ -613,7 +615,7 @@
           "Amount": 2
         },
         {
-          "Id": "WatchersintheDark",
+          "Id": "WatchersInTheDark",
           "Amount": 2
         },
         {
@@ -630,6 +632,10 @@
         },
         {
           "Id": "DrivenByShadow",
+          "Amount": 2
+        },
+        {
+          "Id": "EastBightPatrol",
           "Amount": 2
         },
         {
@@ -689,10 +695,6 @@
           "Amount": 1
         },
         {
-          "Id": "EastBightPatrol",
-          "Amount": 2
-        },
-        {
           "Id": "Enfeebled",
           "Amount": 1
         },
@@ -737,10 +739,6 @@
           "Amount": 1
         },
         {
-          "Id": "EliteDolGuldurOrcs",
-          "Amount": 1
-        },
-        {
           "Id": "Exhaustion",
           "Amount": 1
         },
@@ -777,6 +775,10 @@
           "Amount": 2
         },
         {
+          "Id": "WargRiders",
+          "Amount": 1
+        },
+        {
           "Id": "WildBear",
           "Amount": 1
         },
@@ -785,11 +787,11 @@
           "Amount": 1
         },
         {
-          "Id": "PackOfWargs",
+          "Id": "EliteDolGuldurOrcs",
           "Amount": 1
         },
         {
-          "Id": "WargRiders",
+          "Id": "PackOfWargs",
           "Amount": 1
         }
       ],
@@ -820,7 +822,8 @@
           "Id": "Poisoned",
           "Threshold": 3
         }
-      ]
+      ],
+      "AIBehavior": null
     },
     {
       "Id": "JourneyDownTheAnduin",
@@ -913,7 +916,7 @@
           "Amount": 2
         },
         {
-          "Id": "WatchersintheDark",
+          "Id": "WatchersInTheDark",
           "Amount": 2
         },
         {
@@ -1072,7 +1075,8 @@
           "Id": "Poisoned",
           "Threshold": 3
         }
-      ]
+      ],
+      "AIBehavior": null
     },
     {
       "Id": "ConflictAtTheCarrock",
@@ -1130,7 +1134,7 @@
       ],
       "SauronDeck": [
         {
-          "Id": "WatchersintheDark",
+          "Id": "WatchersInTheDark",
           "Amount": 2
         },
         {
@@ -1242,10 +1246,6 @@
           "Amount": 1
         },
         {
-          "Id": "HillTroll",
-          "Amount": 1
-        },
-        {
           "Id": "SquashedIntoJelly",
           "Amount": 2
         },
@@ -1255,6 +1255,10 @@
         },
         {
           "Id": "Wargs",
+          "Amount": 1
+        },
+        {
+          "Id": "HillTroll",
           "Amount": 1
         },
         {
@@ -1293,7 +1297,8 @@
           "Id": "TheScentOfManFlesh",
           "Threshold": 3
         }
-      ]
+      ],
+      "AIBehavior": null
     }
   ]
 }
