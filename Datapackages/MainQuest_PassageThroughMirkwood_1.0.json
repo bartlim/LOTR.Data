@@ -12,7 +12,7 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "WatchersintheDark",
+          "Id": "WatchersInTheDark",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -49,6 +49,13 @@
         {
           "Id": "DrivenByShadow",
           "Quantity": 1,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "EastBightPatrol",
+          "Quantity": 4,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -126,13 +133,6 @@
         {
           "Id": "BlockedPath",
           "Quantity": 1,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "EastBightPatrol",
-          "Quantity": 4,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -359,11 +359,12 @@
         "Id": "Poisoned",
         "Threshold": 3
       }
-    ]
+    ],
+    "AIBehavior": null
   },
-  "Version": "20180522223124565",
+  "Version": "20180524061257200",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180522223124565"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180524061257200"
 }
