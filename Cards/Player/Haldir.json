@@ -2,7 +2,7 @@
   "CardData": {
     "Id": "Haldir",
     "Owner": "Player",
-    "CardType": 0,
+    "CardType": 5,
     "ShopType": "HeroPack_WardenOfLorien",
     "Cost": 10,
     "QuestPoints": 0,
@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": null,
     "ArtworkMD5": "30c5cac208019d26e2ad8f79a87e5f4e",
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Haldir",
-    "Text": "<line-height=100%>After attacking, reduce a \nnon-unique Enemy to 1 <size=120%><sprite=0></size> this round"
+    "Text": "<line-height=100%>After <i>Haldir</i> attacks, reduce \na non-unique Enemy to \n1 <size=120%><sprite=0></size> this round"
   }
 }
