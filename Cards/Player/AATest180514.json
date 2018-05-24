@@ -31,6 +31,16 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [
+      {
+        "CardId": "test1",
+        "Chance": 1
+      },
+      {
+        "CardId": "test2",
+        "Chance": 2
+      }
+    ],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
