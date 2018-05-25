@@ -9,7 +9,7 @@
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "",
+    "Trait": "Fate",
     "Rarity": 0,
     "Sphere": 2,
     "SphereLevel": 0,
@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Shaft of Sunlight",
-    "Text": "Remove 4 <size=120%><sprite=4></size>"
+    "Text": "<i>A rare patch of sun illuminates the way forward.</i>\n\nRemove 4 <size=120%><sprite=4></size>"
   }
 }
