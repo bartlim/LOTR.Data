@@ -9,7 +9,7 @@
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "",
+    "Trait": "Fate",
     "Rarity": 0,
     "Sphere": 2,
     "SphereLevel": 0,
@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Support from Dale",
-    "Text": "<u>X</u> <i>Men of Dale</i> appear! \n(<u>X</u> is the number of open spaces in your row)"
+    "Text": "<i>Men of Dale arrive to lend you aid!</i>\n\n(Add a <i>Man of Dale</i> in each open space in your row)"
   }
 }
