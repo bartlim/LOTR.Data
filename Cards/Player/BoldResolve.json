@@ -9,7 +9,7 @@
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "",
+    "Trait": "Fate",
     "Rarity": 0,
     "Sphere": 2,
     "SphereLevel": 0,
@@ -38,6 +38,6 @@
   },
   "Localization": {
     "Title": "Bold Resolve",
-    "Text": "All friendly Characters gain +1 Health until the Quest ends"
+    "Text": "<line-height=100%>All friendly Characters gain \n+1 <size=120%><sprite=2></size> for this Quest"
   }
 }
