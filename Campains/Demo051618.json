@@ -65,7 +65,7 @@
           "Amount": 2
         },
         {
-          "Id": "WatchersintheDark",
+          "Id": "WatchersInTheDark",
           "Amount": 2
         },
         {
@@ -245,8 +245,35 @@
           "Amount": 1
         }
       ],
-      "FateCardList": [],
-      "ThreatCardList": []
+      "FateCardList": [
+        {
+          "Id": "RangersCache",
+          "Threshold": 4
+        },
+        {
+          "Id": "ShaftofSunlight",
+          "Threshold": 7
+        },
+        {
+          "Id": "SupportfromDale",
+          "Threshold": 10
+        }
+      ],
+      "ThreatCardList": [
+        {
+          "Id": "SpidersDescend",
+          "Threshold": 1
+        },
+        {
+          "Id": "WaveofFear",
+          "Threshold": 2
+        },
+        {
+          "Id": "Poisoned",
+          "Threshold": 3
+        }
+      ],
+      "AIBehavior": null
     },
     {
       "Id": "DemoIDTest",
@@ -309,7 +336,8 @@
         }
       ],
       "FateCardList": [],
-      "ThreatCardList": []
+      "ThreatCardList": [],
+      "AIBehavior": null
     },
     {
       "Id": "Demo051618Quest03",
@@ -372,7 +400,8 @@
         }
       ],
       "FateCardList": [],
-      "ThreatCardList": []
+      "ThreatCardList": [],
+      "AIBehavior": null
     },
     {
       "Id": "Demo051618Quest04",
@@ -435,7 +464,8 @@
         }
       ],
       "FateCardList": [],
-      "ThreatCardList": []
+      "ThreatCardList": [],
+      "AIBehavior": null
     },
     {
       "Id": "Demo051618Quest05",
@@ -498,7 +528,8 @@
         }
       ],
       "FateCardList": [],
-      "ThreatCardList": []
+      "ThreatCardList": [],
+      "AIBehavior": null
     }
   ]
 }
