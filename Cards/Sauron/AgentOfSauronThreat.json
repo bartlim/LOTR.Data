@@ -9,7 +9,7 @@
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "",
+    "Trait": "Threat",
     "Rarity": 0,
     "Sphere": 2,
     "SphereLevel": 0,
@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Agent of Sauron",
-    "Text": "An <i>Agent of Sauron</i> appears"
+    "Text": "<i>An agent of Sauron lunges from the shadows in a deadly assault!</i>\n\nPlay 1 <i>Agent of Sauron</i>"
   }
 }
