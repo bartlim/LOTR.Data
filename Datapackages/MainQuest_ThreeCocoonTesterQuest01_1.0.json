@@ -80,15 +80,24 @@
         "NextStages": [],
         "NextStageTitles": [
           ""
-        ]
+        ],
+        "FateCardList": null
       }
     ],
     "Sequences": [],
-    "Stories": []
+    "Stories": [],
+    "FateCardList": [
+      {
+        "Id": "ForageForSupplies",
+        "Threshold": 1
+      }
+    ],
+    "ThreatCardList": null,
+    "AIBehavior": null
   },
-  "Version": "20180426075947771",
+  "Version": "20180525065714524",
   "Key": "MainQuest",
   "SubKey": "ThreeCocoonTesterQuest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ThreeCocoonTesterQuest01_20180426075947771"
+  "InternalKey": "MainQuest_ThreeCocoonTesterQuest01_20180525065714524"
 }
