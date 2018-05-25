@@ -12,7 +12,7 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "WatchersintheDark",
+          "Id": "WatchersInTheDark",
           "Quantity": 2,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -379,12 +379,39 @@
     ],
     "Sequences": [],
     "Stories": [],
-    "FateCardList": [],
-    "ThreatCardList": []
+    "FateCardList": [
+      {
+        "Id": "RangersCache",
+        "Threshold": 4
+      },
+      {
+        "Id": "ShaftofSunlight",
+        "Threshold": 7
+      },
+      {
+        "Id": "SupportfromDale",
+        "Threshold": 10
+      }
+    ],
+    "ThreatCardList": [
+      {
+        "Id": "SpidersDescend",
+        "Threshold": 1
+      },
+      {
+        "Id": "WaveofFear",
+        "Threshold": 2
+      },
+      {
+        "Id": "Poisoned",
+        "Threshold": 3
+      }
+    ],
+    "AIBehavior": null
   },
-  "Version": "20180516161805547",
+  "Version": "20180525035239227",
   "Key": "MainQuest",
   "SubKey": "Demo051618Quest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Demo051618Quest01_20180516161805547"
+  "InternalKey": "MainQuest_Demo051618Quest01_20180525035239227"
 }
