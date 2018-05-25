@@ -20,7 +20,7 @@
     "AttackSFX": "event_attack_axe_e",
     "DeathVFX": "Effect_Death3",
     "DeathSFX": "die_both_e",
-    "FlavorText": "C_MORRIS_FLAVOR",
+    "FlavorText": "\"Never a blinking bit of manflesh have we had for long enough...\"\n—a Troll, <i>The Hobbit</i>",
     "ArtistName": "Mariusz Gandzel",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -31,6 +31,7 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "b0d99329645f29b4e169d81d24e397d7",
     "BannerMD5": null,
     "IconMD5": "54f713e3a7fc6f9ab946f9a309209df8"
