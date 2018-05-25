@@ -9,7 +9,7 @@
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "",
+    "Trait": "Fate",
     "Rarity": 0,
     "Sphere": 2,
     "SphereLevel": 0,
@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "The Squirming Cocoon",
-    "Text": "Burst the Cocoon to free the captive inside (Elven Scout)"
+    "Text": "<i>Some poor soul struggles against the spiders' thick webs.</i>\n\nYou burst the <i>Cocoon</i> to free the captive!"
   }
 }
