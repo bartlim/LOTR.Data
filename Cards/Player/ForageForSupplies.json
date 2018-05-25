@@ -9,7 +9,7 @@
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "",
+    "Trait": "Fate",
     "Rarity": 0,
     "Sphere": 2,
     "SphereLevel": 0,
@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Forage for Supplies",
-    "Text": "Restore 2 <size=120%><sprite=2></size> to all Characters; then reduce all Characters to 1 <sprite=1> this round"
+    "Text": "<i>You pause for sustenance.</i>\nRestore 2 <size=120%><sprite=2></size> to all Characters; then reduce all Characters to 1 <sprite=1> this round"
   }
 }
