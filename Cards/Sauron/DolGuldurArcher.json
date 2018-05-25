@@ -20,7 +20,7 @@
     "AttackSFX": "event_attack_arrow_e",
     "DeathVFX": "Effect_Death3",
     "DeathSFX": "die_both_e",
-    "FlavorText": "C_DOLGULDURARCHER_FLAVOR",
+    "FlavorText": "…they had bows of yew, in length and shape like the bows of Men.\n—<i>The Two Towers</i>",
     "ArtistName": "Javier Charro Martinez",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,6 +31,7 @@
     "CameoScale": 0.8,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": null,
     "ArtworkMD5": "7e0db827a5c01e4736f32589c8692d27",
     "BannerMD5": "cc48a9ad5cb92d48cc255c9d6c5e0e99",
     "IconMD5": "dd5edca8e0929f8931e250f1ae463819"
