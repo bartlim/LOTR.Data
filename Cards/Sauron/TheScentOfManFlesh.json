@@ -9,7 +9,7 @@
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "",
+    "Trait": "Threat",
     "Rarity": 0,
     "Sphere": 2,
     "SphereLevel": 0,
@@ -31,13 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "The Scent of Man-Flesh",
-    "Text": "Another troll appears, eager to feast upon you! \n<i>Rupert</i> enters play"
+    "Text": "<i>Another troll appears, eager to feast upon you!</i>\n\nAdd <i>Rupert</i>"
   }
 }
