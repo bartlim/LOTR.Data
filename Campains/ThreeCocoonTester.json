@@ -22,7 +22,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": "mus_cave",
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -62,7 +63,15 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": [
+        {
+          "Id": "ForageForSupplies",
+          "Threshold": 1
+        }
+      ],
+      "ThreatCardList": null,
+      "AIBehavior": null
     },
     {
       "Id": "ThreeCocoonTesterQuest02",
@@ -82,7 +91,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -122,7 +132,10 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null,
+      "AIBehavior": null
     },
     {
       "Id": "ThreeCocoonTesterQuest03",
@@ -142,7 +155,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -182,7 +196,10 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null,
+      "AIBehavior": null
     },
     {
       "Id": "ThreeCocoonTesterQuest04",
@@ -202,7 +219,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -242,7 +260,10 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null,
+      "AIBehavior": null
     },
     {
       "Id": "ThreeCocoonTesterQuest05",
@@ -262,7 +283,8 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null
+          "BGM": null,
+          "FateCardList": null
         }
       ],
       "SauronDeck": [
@@ -302,7 +324,10 @@
           "Id": "Tribulation",
           "Amount": 2
         }
-      ]
+      ],
+      "FateCardList": null,
+      "ThreatCardList": null,
+      "AIBehavior": null
     }
   ]
 }
