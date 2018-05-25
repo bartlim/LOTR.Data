@@ -9,7 +9,7 @@
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "",
+    "Trait": "Threat",
     "Rarity": 0,
     "Sphere": 0,
     "SphereLevel": 0,
@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Poisoned!",
-    "Text": "A random Hero is poisoned!\n<b>Upkeep</b>: Deal 1 damage to that Hero until the Quest ends"
+    "Text": "<i>One of your Heroes is poisoned!</i>\n\n<b>Upkeep</b>: Deal 1 damage to the same random Hero for this Quest"
   }
 }
