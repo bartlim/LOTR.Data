@@ -9,7 +9,7 @@
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "",
+    "Trait": "Threat",
     "Rarity": 0,
     "Sphere": 2,
     "SphereLevel": 0,
@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "A Foul Rain",
-    "Text": "Deal 2 damage to 3 random Characters"
+    "Text": "<i>A thick shower of arrows falls in a deadly rain upon you!</i>\n\nDeal 2 damage to 3 random Characters"
   }
 }
