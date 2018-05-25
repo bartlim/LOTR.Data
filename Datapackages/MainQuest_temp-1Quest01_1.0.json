@@ -1,6 +1,6 @@
 {
   "DataSet": {
-    "Title": "temp_1Quest03",
+    "Title": "temp-1Quest01",
     "SauronDeckInfo": {
       "Id": null,
       "DeckList": [
@@ -71,7 +71,7 @@
     },
     "Stages": [
       {
-        "Title": "Location301",
+        "Title": "Location101",
         "SoloGameSetup": [
           "FindThePath",
           "VeteranPatrol"
@@ -88,11 +88,11 @@
     "Stories": [],
     "FateCardList": null,
     "ThreatCardList": null,
-    "AIBehavior": null
+    "AIBehavior": "DefensiveAI"
   },
-  "Version": "20180525104942390",
+  "Version": "20180525104918076",
   "Key": "MainQuest",
-  "SubKey": "temp_1Quest03",
+  "SubKey": "temp-1Quest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_temp_1Quest03_20180525104942390"
+  "InternalKey": "MainQuest_temp-1Quest01_20180525104918076"
 }
