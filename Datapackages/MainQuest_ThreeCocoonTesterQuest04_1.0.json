@@ -80,15 +80,19 @@
         "NextStages": [],
         "NextStageTitles": [
           ""
-        ]
+        ],
+        "FateCardList": null
       }
     ],
     "Sequences": [],
-    "Stories": []
+    "Stories": [],
+    "FateCardList": null,
+    "ThreatCardList": null,
+    "AIBehavior": null
   },
-  "Version": "20180426080002925",
+  "Version": "20180525065728302",
   "Key": "MainQuest",
   "SubKey": "ThreeCocoonTesterQuest04",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ThreeCocoonTesterQuest04_20180426080002925"
+  "InternalKey": "MainQuest_ThreeCocoonTesterQuest04_20180525065728302"
 }
