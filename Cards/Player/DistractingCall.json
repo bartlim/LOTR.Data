@@ -9,7 +9,7 @@
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "",
+    "Trait": "Fate",
     "Rarity": 0,
     "Sphere": 2,
     "SphereLevel": 0,
@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Distracting Call",
-    "Text": "All Enemies lose <b>Pursuit</b> in this Location"
+    "Text": "<i>You distract your foes with a well-timed call.</i>\n\nAll Enemies lose <b>Pursuit</b> in this Location"
   }
 }
