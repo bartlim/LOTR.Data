@@ -9,7 +9,7 @@
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "",
+    "Trait": "Threat",
     "Rarity": 0,
     "Sphere": 2,
     "SphereLevel": 0,
@@ -31,13 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Rain of Boulders",
-    "Text": "Flying boulders smash into your party! Deal 2 damage to all Characters"
+    "Text": "<i>Flying boulders smash into your party!</i>\n\nDeal 2 damage to all friendly Characters"
   }
 }
