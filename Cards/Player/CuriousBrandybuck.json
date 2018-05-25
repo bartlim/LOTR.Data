@@ -12,7 +12,7 @@
     "Trait": "Hobbit",
     "Rarity": 0,
     "Sphere": 4,
-    "SphereLevel": 0,
+    "SphereLevel": 1,
     "Revision": "test",
     "PlayVFX": "",
     "PlaySFX": "",
@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": null,
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Curious Brandybuck",
-    "Text": "<b>Revenge</b>: Return a non-unique Enemy in play to Sauron's hand"
+    "Text": "<b>Revenge</b>: Return to Sauron's hand a non-unique Enemy\nin play"
   }
 }

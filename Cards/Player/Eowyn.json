@@ -31,12 +31,13 @@
     "CameoScale": 0.8,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": null,
     "ArtworkMD5": "66824ceed8a93607d9822235ab84d196",
     "BannerMD5": null,
     "IconMD5": "b46af47c395f8335aab4d1d159ac3100"
   },
   "Localization": {
     "Title": "‰Éowyn",
-    "Text": "<line-height=100%>Gain +2 <size=120%><sprite=5></size> this round after the first time a friendly Character \nis damaged in the round"
+    "Text": "<line-height=100%>Gain +2 <size=120%><sprite=5></size> this round after the first time a Character is damaged in the round"
   }
 }

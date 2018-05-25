@@ -2,7 +2,7 @@
   "CardData": {
     "Id": "Eomer",
     "Owner": "Player",
-    "CardType": 0,
+    "CardType": 5,
     "ShopType": "HeroPack_MarshalOfTheRiddermark",
     "Cost": 10,
     "QuestPoints": 0,
@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": null,
     "ArtworkMD5": "abdda99eaaf832424c88da464a1b18b6",
     "BannerMD5": "fa62a36f93704209b2b7fe174c3ef21e",
     "IconMD5": null
   },
   "Localization": {
-    "Title": "‰Eomer",
-    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=0></size> and <b>Stalwart</b> this round after the first time a Character is defeated in the round"
+    "Title": "‰Éomer",
+    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=0></size> and <b>Stalwart</b> this round after the first time a \n<size=95%>Character is defeated in the round"
   }
 }

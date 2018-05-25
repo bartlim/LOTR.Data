@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": null,
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Mighty Prowess",
-    "Text": "<b>Vanquish</b>: Deal 1 damage to \nan additional Enemy with the same trait as the defeated Enemy"
+    "Text": "<b>Vanquish</b>: Deal 1 damage to \nan additional Enemy that has the same trait as the defeated Enemy"
   }
 }

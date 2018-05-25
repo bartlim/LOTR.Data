@@ -2,7 +2,7 @@
   "CardData": {
     "Id": "Imrahil",
     "Owner": "Player",
-    "CardType": 0,
+    "CardType": 5,
     "ShopType": "HeroPack_PrinceOfDolAmroth",
     "Cost": 11,
     "QuestPoints": 0,
@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": null,
     "ArtworkMD5": "d2fa4b1d1fd7591e969b9cc88669d513",
     "BannerMD5": "c6fb51f498beac9a8762f533ab28839a",
     "IconMD5": null
   },
   "Localization": {
     "Title": "‰Imrahil",
-    "Text": "Gondor Characters gain <b>Surge</b>"
+    "Text": "All Gondor Characters gain <b>Surge</b>"
   }
 }

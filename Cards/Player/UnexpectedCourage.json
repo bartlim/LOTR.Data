@@ -3,7 +3,7 @@
     "Id": "UnexpectedCourage",
     "Owner": "Player",
     "CardType": 1,
-    "ShopType": "Valor",
+    "ShopType": "Starter",
     "Cost": 2,
     "QuestPoints": 0,
     "Attack": 0,
@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "\"Here am I, naughty little fly;\nyou are fat and lazy \nYou cannot trap me, though you try,\nin your cobwebs crazy.\"\n–Bilbo Baggins, <i>The Hobbit</i>",
+    "FlavorText": "\"Here am I, naughty little fly;\nyou are fat and lazy \nYou cannot trap me, though you try,\nin your cobwebs crazy.\"\n—Bilbo Baggins, <i>The Hobbit</i>",
     "ArtistName": "Angela Sung",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": null,
     "ArtworkMD5": "913863bc9a9abab4fbc885c40441db60",
     "BannerMD5": "984588c4f0729482bd9a402929fa86f4",
     "IconMD5": "667cee1e3648206b41250e86b9fec75d"
   },
   "Localization": {
     "Title": "Unexpected Courage",
-    "Text": "Ready after defeating an Enemy or resolving an Objective"
+    "Text": "Ready after defeating an Enemy or resolving an Objective\n(limit once per round)"
   }
 }

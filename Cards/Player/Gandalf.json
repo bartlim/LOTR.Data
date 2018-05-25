@@ -31,12 +31,13 @@
     "CameoScale": 0.8,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": null,
     "ArtworkMD5": "db015ffb756f62f63a82561a88900ed3",
     "BannerMD5": null,
     "IconMD5": "59e86734086c38ac693d029a73b956f1"
   },
   "Localization": {
     "Title": "‰Gandalf",
-    "Text": "<line-height=100%><b>Fleeting</b>. <b>Arrival</b> (<b>Choose</b>):\nDraw 3 cards; lose 3 <size=120%><sprite=4></size>;\nor deal 3 damage"
+    "Text": "<line-height=100%><b>Fleeting</b>. <b>Arrival</b> (<b>choose</b>):\nDraw 3 cards; lose 3 <size=120%><sprite=4></size>;\nor deal 3 damage"
   }
 }

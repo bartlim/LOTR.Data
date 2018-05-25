@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": null,
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Heed the Dream",
-    "Text": "Draw 3 cards, then choose 1; \nthe other 2 cards then shuffle back into the deck"
+    "Text": "<b>Choose</b>: 1 card from the top 3 cards in your deck (the other cards shuffle back in the deck)"
   }
 }

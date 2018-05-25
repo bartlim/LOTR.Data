@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": null,
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Khazâd ai-mênu!",
-    "Text": "<line-height=100%>[Dwarf only.]\n Gain +2 <size=120%><sprite=0></size> this round; \nor gain +3 <size=120%><sprite=0></size> this round if wounded"
+    "Text": "<line-height=100%>Give a Dwarf +2 <size=120%><sprite=0></size> this round; \nor +3 <size=120%><sprite=0></size> this round if wounded"
   }
 }

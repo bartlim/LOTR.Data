@@ -2,7 +2,7 @@
   "CardData": {
     "Id": "Balin",
     "Owner": "Player",
-    "CardType": 0,
+    "CardType": 5,
     "ShopType": "HeroPack_LordOfMoria",
     "Cost": 11,
     "QuestPoints": 0,
@@ -31,6 +31,7 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": null,
     "ArtworkMD5": "581f0545890851cbc39b214fb0d7bd79",
     "BannerMD5": "25aa1830ad0b22d23b797d2e77b485dc",
     "IconMD5": null

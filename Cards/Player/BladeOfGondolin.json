@@ -3,7 +3,7 @@
     "Id": "BladeOfGondolin",
     "Owner": "Player",
     "CardType": 1,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 2,
     "QuestPoints": 0,
     "Attack": 0,
@@ -31,6 +31,7 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": null,
     "ArtworkMD5": "0ac571ea27f757e8c0b647ac8f0e47fc",
     "BannerMD5": null,
     "IconMD5": "1e1621ac4bfb09406453fb73922720e3"

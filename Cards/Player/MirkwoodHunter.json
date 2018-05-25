@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": null,
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Mirkwood Hunter",
-    "Text": "<line-height=100%><b>Stealth</b>. <b>Arrival</b>: Choose an Enemy to lose 1 <size=120%><sprite=0></size> this round"
+    "Text": "<line-height=100%><b>Stealth</b>. <b>Arrival</b>: An Enemy \nloses 1 <size=120%><sprite=0></size> this round"
   }
 }

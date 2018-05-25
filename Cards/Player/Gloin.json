@@ -2,7 +2,7 @@
   "CardData": {
     "Id": "Gloin",
     "Owner": "Player",
-    "CardType": 0,
+    "CardType": 5,
     "ShopType": "HeroPack_QuickTemperedDwarf",
     "Cost": 9,
     "QuestPoints": 0,
@@ -31,6 +31,7 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": null,
     "ArtworkMD5": "e815c2b1a5760adcdf24bb68118afed4",
     "BannerMD5": "e68c87c73e805da244219392ce0c7cfb",
     "IconMD5": null
