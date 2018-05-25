@@ -9,7 +9,7 @@
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "",
+    "Trait": "Fate",
     "Rarity": 0,
     "Sphere": 2,
     "SphereLevel": 0,
@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Make a Stand",
-    "Text": "Gain +1 <size=120%><sprite=3></size> for each Ally in play"
+    "Text": "<i>With iron will and weapons ready, you face your foes.</i>\n\nGain +1 <size=120%><sprite=3></size> for each Ally in play"
   }
 }
