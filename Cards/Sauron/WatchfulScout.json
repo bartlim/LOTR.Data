@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "Effect_Empty",
     "DeathSFX": "",
-    "FlavorText": "C_WATCHFULSCOUT_FLAVOR",
+    "FlavorText": "\"Still I for one am glad that he is safely kept by the watchful Elves of Mirkwood.\"\n—Aragorn, <i>The Fellowship of the Ring</i>",
     "ArtistName": "Anna Steinbauer",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -31,6 +31,7 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "df5c6e28ed33a36d2788abbc6755e22e",
     "BannerMD5": "ad5b9f5a0b734a678b9347b4037e3bc4",
     "IconMD5": "2535d78c7b5d332356989c6a6e3c6fa9"
