@@ -295,7 +295,12 @@
               ],
               "NextStageId": "TheSpidersLair",
               "BGM": "mus_mirkwood",
-              "FateCardList": null
+              "FateCardList": [
+                {
+                  "Id": "UnexpectedAid",
+                  "Threshold": 6
+                }
+              ]
             },
             {
               "Id": "TheSpidersLair",
@@ -481,29 +486,29 @@
           ],
           "FateCardList": [
             {
-              "Id": "RangersCache",
+              "Id": "CuttingTheWebs",
               "Threshold": 4
             },
             {
-              "Id": "ShaftofSunlight",
+              "Id": "LightTheTorches",
               "Threshold": 7
             },
             {
-              "Id": "SupportfromDale",
+              "Id": "InspiringCourage",
               "Threshold": 10
             }
           ],
           "ThreatCardList": [
             {
-              "Id": "SpidersDescend",
+              "Id": "IsolatedAndAlone",
               "Threshold": 1
             },
             {
-              "Id": "WaveofFear",
+              "Id": "VenomousFangs",
               "Threshold": 2
             },
             {
-              "Id": "Poisoned",
+              "Id": "WebsEverywhere",
               "Threshold": 3
             }
           ],
