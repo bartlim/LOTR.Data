@@ -326,37 +326,37 @@
     "Stories": [],
     "FateCardList": [
       {
-        "Id": "RangersCache",
+        "Id": "RefreshingWaters",
         "Threshold": 4
       },
       {
-        "Id": "ShaftofSunlight",
+        "Id": "BeneficialCurrent",
         "Threshold": 7
       },
       {
-        "Id": "SupportfromDale",
+        "Id": "CripplingBlow",
         "Threshold": 10
       }
     ],
     "ThreatCardList": [
       {
-        "Id": "SpidersDescend",
+        "Id": "UnstableCurrents",
         "Threshold": 1
       },
       {
-        "Id": "WaveofFear",
+        "Id": "ForcedOffCourse",
         "Threshold": 2
       },
       {
-        "Id": "Poisoned",
+        "Id": "WashedAway",
         "Threshold": 3
       }
     ],
     "AIBehavior": null
   },
-  "Version": "20180529092147483",
+  "Version": "20180529092538862",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180529092147483"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180529092538862"
 }
