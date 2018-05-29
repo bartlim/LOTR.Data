@@ -293,7 +293,12 @@
           ],
           "NextStageId": "TheSpidersLair",
           "BGM": "mus_mirkwood",
-          "FateCardList": null
+          "FateCardList": [
+            {
+              "Id": "UnexpectedAid",
+              "Threshold": 6
+            }
+          ]
         },
         {
           "Id": "TheSpidersLair",
