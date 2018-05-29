@@ -359,7 +359,12 @@
         "NextStageTitles": [
           "BareHilltop"
         ],
-        "FateCardList": null
+        "FateCardList": [
+          {
+            "Id": "FearOfTheFlames",
+            "Threshold": 6
+          }
+        ]
       },
       {
         "Title": "BareHilltop",
@@ -375,7 +380,12 @@
         "NextStageTitles": [
           "MirkwoodSwamp"
         ],
-        "FateCardList": null
+        "FateCardList": [
+          {
+            "Id": "DistractingCall",
+            "Threshold": 6
+          }
+        ]
       },
       {
         "Title": "MirkwoodSwamp",
@@ -455,9 +465,9 @@
     ],
     "AIBehavior": null
   },
-  "Version": "20180529091957148",
+  "Version": "20180529092142573",
   "Key": "MainQuest",
   "SubKey": "LostInMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_LostInMirkwood_20180529091957148"
+  "InternalKey": "MainQuest_LostInMirkwood_20180529092142573"
 }
