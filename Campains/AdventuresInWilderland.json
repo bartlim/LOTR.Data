@@ -860,7 +860,12 @@
           ],
           "NextStageId": "AnduinPassage",
           "BGM": "mus_stream",
-          "FateCardList": null
+          "FateCardList": [
+            {
+              "Id": "DistractTheTroll",
+              "Threshold": 6
+            }
+          ]
         },
         {
           "Id": "AnduinPassage",
@@ -906,7 +911,12 @@
           ],
           "NextStageId": "AmbushOnTheShoreStage",
           "BGM": "mus_stream",
-          "FateCardList": null
+          "FateCardList": [
+            {
+              "Id": "SavedByTheBeornings",
+              "Threshold": 6
+            }
+          ]
         },
         {
           "Id": "AmbushOnTheShoreStage",
