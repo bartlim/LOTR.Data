@@ -281,7 +281,12 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": null
+        "FateCardList": [
+          {
+            "Id": "BoldResolve",
+            "Threshold": 6
+          }
+        ]
       }
     ],
     "Sequences": [],
@@ -316,9 +321,9 @@
     ],
     "AIBehavior": null
   },
-  "Version": "20180529093251166",
+  "Version": "20180529093413802",
   "Key": "MainQuest",
   "SubKey": "ConflictAtTheCarrock",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180529093251166"
+  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180529093413802"
 }
