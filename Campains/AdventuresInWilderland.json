@@ -550,7 +550,12 @@
           ],
           "NextStageId": "BareHilltop",
           "BGM": "mus_mirkwood",
-          "FateCardList": null
+          "FateCardList": [
+            {
+              "Id": "FearOfTheFlames",
+              "Threshold": 6
+            }
+          ]
         },
         {
           "Id": "BareHilltop",
@@ -566,7 +571,12 @@
           ],
           "NextStageId": "MirkwoodSwamp",
           "BGM": "mus_mirkwood",
-          "FateCardList": null
+          "FateCardList": [
+            {
+              "Id": "DistractingCall",
+              "Threshold": 6
+            }
+          ]
         },
         {
           "Id": "MirkwoodSwamp",
