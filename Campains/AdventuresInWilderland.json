@@ -1154,7 +1154,12 @@
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme",
-          "FateCardList": null
+          "FateCardList": [
+            {
+              "Id": "BoldResolve",
+              "Threshold": 6
+            }
+          ]
         }
       ],
       "SauronDeck": [
