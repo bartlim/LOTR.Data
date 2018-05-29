@@ -3816,6 +3816,24 @@
     "Text_FR": "Threat"
   },
   {
+    "Id": "U_CARDNOTICE_LIGHTTHETORCHES_1",
+    "Text": "<b>Upkeep</b>: Deal 1 damage to an Enemy (limit 3 rounds)",
+    "Text_CN": "[C]<b>Upkeep</b>: Deal 1 damage to an Enemy (limit 3 rounds)",
+    "Text_FR": "<b>Upkeep</b>: Deal 1 damage to an Enemy (limit 3 rounds)"
+  },
+  {
+    "Id": "U_CARDNOTICE_LIGHTTHETORCHES_2",
+    "Text": "<b>Upkeep</b>: Deal 1 damage to an Enemy (limit 2 rounds)",
+    "Text_CN": "[C]<b>Upkeep</b>: Deal 1 damage to an Enemy (limit 2 rounds)",
+    "Text_FR": "<b>Upkeep</b>: Deal 1 damage to an Enemy (limit 2 rounds)"
+  },
+  {
+    "Id": "U_CARDNOTICE_LIGHTTHETORCHES_3",
+    "Text": "<b>Upkeep</b>: Deal 1 damage to an Enemy",
+    "Text_CN": "[C]<b>Upkeep</b>: Deal 1 damage to an Enemy",
+    "Text_FR": "<b>Upkeep</b>: Deal 1 damage to an Enemy"
+  },
+  {
     "Id": "PLACEHOLDER2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
