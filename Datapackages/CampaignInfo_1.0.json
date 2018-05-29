@@ -1156,7 +1156,12 @@
               ],
               "NextStageId": "",
               "BGM": "mus_saurontheme",
-              "FateCardList": null
+              "FateCardList": [
+                {
+                  "Id": "BoldResolve",
+                  "Threshold": 6
+                }
+              ]
             }
           ],
           "SauronDeck": [
@@ -1297,10 +1302,6 @@
             {
               "Id": "StaggeringBlow",
               "Threshold": 4
-            },
-            {
-              "Id": "BoldResolve",
-              "Threshold": 6
             },
             {
               "Id": "AidFromTheBeornings",
