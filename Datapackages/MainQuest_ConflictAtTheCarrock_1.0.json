@@ -292,10 +292,6 @@
         "Threshold": 4
       },
       {
-        "Id": "BoldResolve",
-        "Threshold": 6
-      },
-      {
         "Id": "AidFromTheBeornings",
         "Threshold": 7
       },
@@ -320,9 +316,9 @@
     ],
     "AIBehavior": null
   },
-  "Version": "20180529093024193",
+  "Version": "20180529093251166",
   "Key": "MainQuest",
   "SubKey": "ConflictAtTheCarrock",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180529093024193"
+  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180529093251166"
 }
