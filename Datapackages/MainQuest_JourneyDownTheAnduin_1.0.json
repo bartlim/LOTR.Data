@@ -257,7 +257,12 @@
         "NextStageTitles": [
           "AnduinPassage"
         ],
-        "FateCardList": null
+        "FateCardList": [
+          {
+            "Id": "DistractTheTroll",
+            "Threshold": 6
+          }
+        ]
       },
       {
         "Title": "AnduinPassage",
@@ -303,7 +308,12 @@
         "NextStageTitles": [
           "AmbushOnTheShoreStage"
         ],
-        "FateCardList": null
+        "FateCardList": [
+          {
+            "Id": "SavedByTheBeornings",
+            "Threshold": 6
+          }
+        ]
       },
       {
         "Title": "AmbushOnTheShoreStage",
@@ -354,9 +364,9 @@
     ],
     "AIBehavior": null
   },
-  "Version": "20180529092538862",
+  "Version": "20180529092822025",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180529092538862"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180529092822025"
 }
