@@ -455,7 +455,7 @@
         "Threshold": 1
       },
       {
-        "Id": "AFoulWind",
+        "Id": "AFoulRain",
         "Threshold": 2
       },
       {
@@ -465,9 +465,9 @@
     ],
     "AIBehavior": null
   },
-  "Version": "20180529092817320",
+  "Version": "20180529093014796",
   "Key": "MainQuest",
   "SubKey": "LostInMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_LostInMirkwood_20180529092817320"
+  "InternalKey": "MainQuest_LostInMirkwood_20180529093014796"
 }
