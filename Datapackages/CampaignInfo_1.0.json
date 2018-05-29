@@ -862,7 +862,12 @@
               ],
               "NextStageId": "AnduinPassage",
               "BGM": "mus_stream",
-              "FateCardList": null
+              "FateCardList": [
+                {
+                  "Id": "DistractTheTroll",
+                  "Threshold": 6
+                }
+              ]
             },
             {
               "Id": "AnduinPassage",
@@ -908,7 +913,12 @@
               ],
               "NextStageId": "AmbushOnTheShoreStage",
               "BGM": "mus_stream",
-              "FateCardList": null
+              "FateCardList": [
+                {
+                  "Id": "SavedByTheBeornings",
+                  "Threshold": 6
+                }
+              ]
             },
             {
               "Id": "AmbushOnTheShoreStage",
@@ -1067,29 +1077,29 @@
           ],
           "FateCardList": [
             {
-              "Id": "RangersCache",
+              "Id": "RefreshingWaters",
               "Threshold": 4
             },
             {
-              "Id": "ShaftofSunlight",
+              "Id": "BeneficialCurrent",
               "Threshold": 7
             },
             {
-              "Id": "SupportfromDale",
+              "Id": "CripplingBlow",
               "Threshold": 10
             }
           ],
           "ThreatCardList": [
             {
-              "Id": "SpidersDescend",
+              "Id": "UnstableCurrents",
               "Threshold": 1
             },
             {
-              "Id": "WaveofFear",
+              "Id": "ForcedOffCourse",
               "Threshold": 2
             },
             {
-              "Id": "Poisoned",
+              "Id": "WashedAway",
               "Threshold": 3
             }
           ],
