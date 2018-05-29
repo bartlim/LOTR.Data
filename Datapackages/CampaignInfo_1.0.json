@@ -552,7 +552,12 @@
               ],
               "NextStageId": "BareHilltop",
               "BGM": "mus_mirkwood",
-              "FateCardList": null
+              "FateCardList": [
+                {
+                  "Id": "FearOfTheFlames",
+                  "Threshold": 6
+                }
+              ]
             },
             {
               "Id": "BareHilltop",
@@ -568,7 +573,12 @@
               ],
               "NextStageId": "MirkwoodSwamp",
               "BGM": "mus_mirkwood",
-              "FateCardList": null
+              "FateCardList": [
+                {
+                  "Id": "DistractingCall",
+                  "Threshold": 6
+                }
+              ]
             },
             {
               "Id": "MirkwoodSwamp",
@@ -804,29 +814,29 @@
           ],
           "FateCardList": [
             {
-              "Id": "RangersCache",
+              "Id": "MakeAStand",
               "Threshold": 4
             },
             {
-              "Id": "ShaftofSunlight",
+              "Id": "ForageForSupplies",
               "Threshold": 7
             },
             {
-              "Id": "SupportfromDale",
+              "Id": "ScoutAhead",
               "Threshold": 10
             }
           ],
           "ThreatCardList": [
             {
-              "Id": "SpidersDescend",
+              "Id": "BoltsFromTheDark",
               "Threshold": 1
             },
             {
-              "Id": "WaveofFear",
+              "Id": "AFoulWind",
               "Threshold": 2
             },
             {
-              "Id": "Poisoned",
+              "Id": "AgentOfSauronThreat",
               "Threshold": 3
             }
           ],
