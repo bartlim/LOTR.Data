@@ -23,12 +23,21 @@
     "FlavorText": "Trolls are slow in the uptake, and mighty suspicious about anything new to them. \n—<i>The Hobbit</i>",
     "ArtistName": "Chun Lo",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "d2bb49e23bf46249e1e6f8bd985da900",
     "BannerMD5": null,
     "IconMD5": "01a78eb038e6906ec286178ff789db35"
   },
   "Localization": {
     "Title": "Anduin Troll Spawn",
-    "Text": "<b>Block</b>"
+    "Text": "<b>Upkeep</b>: Restore 1 <sprite=2>"
   }
 }
