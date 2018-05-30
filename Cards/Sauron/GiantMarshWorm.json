@@ -6,7 +6,7 @@
     "ShopType": "Starter",
     "Cost": 0,
     "QuestPoints": 0,
-    "Attack": 5,
+    "Attack": 4,
     "Willpower": 0,
     "Health": 10,
     "Trait": "Creature",
@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "2d190c42e7792404bd68bcf3e6d960c8",
     "BannerMD5": null,
     "IconMD5": "fff692ec623e5d817e0bfb9ad9c5055e"
   },
   "Localization": {
-    "Title": "‰Giant Marsh Worm",
-    "Text": "<line-height=100%><b>Counter</b>. <b>Stalwart</b>.\nGain +1 <size=120%><sprite=4></size> when\n<i>Giant Marsh Worm</i> attacks"
+    "Title": "‰Giant Worm",
+    "Text": "<line-height=100%><b>Counter</b>. <b>Stalwart</b>.\nGain +1 <size=120%><sprite=4></size> when\n<i>Giant Worm</i> attacks"
   }
 }
