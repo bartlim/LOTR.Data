@@ -5501,15 +5501,11 @@
   },
   {
     "Id": "C_FORESTFLIES_TEXT",
-    "Text": "n/a",
-    "Text_CN": "n/a",
-    "Text_FR": "n/a"
+    "Text": ""
   },
   {
     "Id": "C_FORESTFLIES_TITLE",
-    "Text": "Forest Flies",
-    "Text_CN": "森林苍蝇",
-    "Text_FR": "Mouches des forêts"
+    "Text": "Forest Flies"
   },
   {
     "Id": "C_FORESTSNARE_FLAVOR",
@@ -12185,6 +12181,10 @@
   },
   {
     "Id": "C_AAKILLALLENEMY_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_FORESTFLIES_FLAVOR",
     "Text": ""
   }
 ]
