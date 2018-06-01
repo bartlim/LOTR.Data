@@ -1231,7 +1231,7 @@
   },
   {
     "Id": "U_SHOP_PALANTIRPACK_DESC",
-    "Text": "Each Palantír Pack includes 3 Palantír Views and 1 random new Valor Card",
+    "Text": "Each Palantír Pack includes 3 Palantír Views",
     "Text_CN": "[C]每个晶石凝视包包含3个晶石凝视和一张随机勇气卡",
     "Text_FR": "Each Palantír Pack includes 3 Palantír Views and 1 random new Valor Card"
   },
@@ -2438,8 +2438,8 @@
   {
     "Id": "U_BATTLE_UPKEEP_PHASE",
     "Text": "UPKEEP",
-    "Text_CN": "[C]修整阶段",
-    "Text_FR": "PHASE D'ENTRETIEN"
+    "Text_CN": "[C]修整",
+    "Text_FR": "D'ENTRETIEN"
   },
   {
     "Id": "U_BATTLE_ADVENTURE_PHASE",
@@ -3654,18 +3654,6 @@
     "Text_FR": "SELECT STARTING HAND"
   },
   {
-    "Id": "T_ROLLOVER_DESC_QUEST_RESULT_PV",
-    "Text": "A 250+ final score unlocks\nthe +1 Palantír View reward",
-    "Text_CN": "[C]A 250+ final score unlocks\nthe +1 Palantir View reward",
-    "Text_FR": "A 250+ final score unlocks\nthe +1 Palantir View reward"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_QUEST_RESULT_VP",
-    "Text": "A 200+ final score unlocks\nthe +50 Valor Points reward",
-    "Text_CN": "[C]A 200+ final score unlocks\nthe +50 Valor Points reward",
-    "Text_FR": "A 200+ final score unlocks\nthe +50 Valor Points reward"
-  },
-  {
     "Id": "U_BATTLE_SURGE_ACTION",
     "Text": "SURGE ACTION",
     "Text_CN": "[C]SURGE ACTION",
@@ -3684,34 +3672,10 @@
     "Text_FR": "Welcome to Middle Earth! Be sure to check out the featured card packs in the shop to see the latest card offering."
   },
   {
-    "Id": "T_ROLLOVER_TITLE_DEFENSE",
-    "Text": "<b>Defense</b>",
-    "Text_CN": "[C]<b>Defense</b>",
-    "Text_FR": "<b>Defense</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_DEFENSE",
-    "Text": "Activate Guard. Characters with Guard must be\nattacked first. Expires during Upkeep.",
-    "Text_CN": "[C]Activate Guard. Characters with Guard must be\nattacked first. Expires during Upkeep.",
-    "Text_FR": "Activate Guard. Characters with Guard must be\nattacked first. Expires during Upkeep."
-  },
-  {
     "Id": "U_ALREADY_HAS_BLOCK",
     "Text": "Target already has Block, attach anyway?",
     "Text_CN": "[C]Target already has Block, attach anyway?",
     "Text_FR": "Target already has Block, attach anyway?"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_QUESTVALUE",
-    "Text": "Quest Value",
-    "Text_CN": "[C]Quest Value",
-    "Text_FR": "Quest Value"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_QUESTVALUE",
-    "Text": "Amount of Willpower that must be applied to resolve an Objective.",
-    "Text_CN": "[C]Amount of Willpower that must be applied to resolve an Objective.",
-    "Text_FR": "Amount of Willpower that must be applied to resolve an Objective."
   },
   {
     "Id": "U_INGAME_CHOOSEHERO_COCOONED",
@@ -3760,18 +3724,6 @@
     "Text": "Restore 4 Health to a Hero",
     "Text_CN": "[C]Restore 4 Health to a Hero",
     "Text_FR": "Restore 4 Health to a Hero"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_FATE",
-    "Text": "Fate",
-    "Text_CN": "[C]Fate",
-    "Text_FR": "Fate"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_FATE",
-    "Text": "An ability that can unlock special powers unique to each Quest",
-    "Text_CN": "[C]An ability that can unlock special powers unique to each Quest",
-    "Text_FR": "An ability that can unlock special powers unique to each Quest"
   },
   {
     "Id": "U_SHOP_AVATAR_AGENTOFSAURON",
@@ -8775,181 +8727,13 @@
     "Id": "T_TITLE",
     "Text": "TUTORIAL",
     "Text_CN": "[C]TUTORIAL",
-    "Text_FR": "TUTORIAL"
+    "Text_FR": "TUTORIAL3"
   },
   {
     "Id": "T_DESC",
     "Text": "Start your Journey…",
     "Text_CN": "[C]Start your journey",
     "Text_FR": "Start your journey"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_OBJECTIVE",
-    "Text": "<b>Objective</b>",
-    "Text_CN": "[C]<b>Objective</b>",
-    "Text_FR": "<b>Objective</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_THREAT",
-    "Text": "<b>Threat</b>",
-    "Text_CN": "[C]<b>Threat</b>",
-    "Text_FR": "<b>Threat</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_SAURONRESOURCES",
-    "Text": "<b>Sauron Resources</b>",
-    "Text_CN": "[C]<b>Sauron Resources</b>",
-    "Text_FR": "<b>Sauron Resources</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_TREACHERYSOCKET",
-    "Text": "<b>Treachery Sockets</b>",
-    "Text_CN": "[C]<b>Treachery Sockets</b>",
-    "Text_FR": "<b>Treachery Sockets</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_DECK",
-    "Text": "<b>Deck</b>",
-    "Text_CN": "[C]<b>Deck</b>",
-    "Text_FR": "<b>Deck</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_PLAYERRESOURCES",
-    "Text": "<b>Player Resources</b>",
-    "Text_CN": "[C]<b>Player Resources</b>",
-    "Text_FR": "<b>Player Resources</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_PREPARATIONSOCKET",
-    "Text": "<b>Preparation Sockets</b>",
-    "Text_CN": "[C]<b>Preparation Sockets</b>",
-    "Text_FR": "<b>Preparation Sockets</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_ATTACK",
-    "Text": "<b>Attack</b>",
-    "Text_CN": "[C]<b>Attack</b>",
-    "Text_FR": "<b>Attack</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_HEALTH",
-    "Text": "<b>Health</b>",
-    "Text_CN": "[C]<b>Health</b>",
-    "Text_FR": "<b>Health</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_WILLPOWER",
-    "Text": "<b>Willpower</b>",
-    "Text_CN": "[C]<b>Willpower</b>",
-    "Text_FR": "<b>Willpower</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_PHASEBUTTON",
-    "Text": "<b>Phase Button</b>",
-    "Text_CN": "[C]<b>Phase Button</b>",
-    "Text_FR": "<b>Phase Button</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_HISTORY",
-    "Text": "<b>History</b>",
-    "Text_CN": "[C]<b>History</b>",
-    "Text_FR": "<b>History</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_GLOSSARY",
-    "Text": "<b>Glossary</b>",
-    "Text_CN": "[C]<b>Glossary</b>",
-    "Text_FR": "<b>Glossary</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_GAMEOPTIONS",
-    "Text": "<b>Game Options</b>",
-    "Text_CN": "[C]<b>Game Options</b>",
-    "Text_FR": "<b>Game Options</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_OBJECTIVE",
-    "Text": "The primary goal you must resolve before you can advance to the next Location",
-    "Text_CN": "[C]The primary goal you must resolve before you can advance to the next Location",
-    "Text_FR": "The primary goal you must resolve before you can advance to the next Location"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_THREAT",
-    "Text": "This increases each round and when you travel. If you reach 50 Threat, your Quest fails",
-    "Text_CN": "[C]This increases each round and when you travel. If you reach 50 Threat, your Quest fails",
-    "Text_FR": "This increases each round and when you travel. If you reach 50 Threat, your Quest fails"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_SAURONRESOURCES",
-    "Text": "Used to play cards. Resources refresh during Upkeep",
-    "Text_CN": "[C]Used to play cards. Resources refresh during Upkeep",
-    "Text_FR": "Used to play cards. Resources refresh during Upkeep"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_TREACHERYSOCKET",
-    "Text": "Indicates unrevealed Treachery cards",
-    "Text_CN": "[C]Indicate Treachery cards that have not yet triggered",
-    "Text_FR": "Indicate Treachery cards that have not yet triggered"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_DECK",
-    "Text": "The cards you use in the Quest. Rollover to see how many remain",
-    "Text_CN": "[C]The cards you use in the Quest. Rollover to see how many remain",
-    "Text_FR": "The cards you use in the Quest. Rollover to see how many remain"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_PLAYERRESOURCES",
-    "Text": "Used to play cards. Resources refresh during Upkeep",
-    "Text_CN": "[C]Used to play cards. Resources refresh during Upkeep",
-    "Text_FR": "Used to play cards. Resources refresh during Upkeep"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_PREPARATIONSOCKET",
-    "Text": "Indicate unrevealed Preparation cards",
-    "Text_CN": "[C]Indicate Preparation cards that have not yet triggered",
-    "Text_FR": "Indicate Preparation cards that have not yet triggered"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_ATTACK",
-    "Text": "Effectiveness when attacking or defending in combat",
-    "Text_CN": "[C]Effectiveness when attacking or defending in combat",
-    "Text_FR": "Effectiveness when attacking or defending in combat"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_HEALTH",
-    "Text": "Damage amount that can be suffered before being defeated",
-    "Text_CN": "[C]Damage amount that can be suffered before being defeated",
-    "Text_FR": "Damage amount that can be suffered before being defeated"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_WILLPOWER",
-    "Text": "Effectiveness when engaging an Objective",
-    "Text_CN": "[C]Effectiveness when engaging an Objective",
-    "Text_FR": "Effectiveness when engaging an Objective"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_PHASEBUTTON",
-    "Text": "Select to advance gameplay",
-    "Text_CN": "[C]Select to advance gameplay",
-    "Text_FR": "Select to advance gameplay"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_HISTORY",
-    "Text": "Shows recent actions in gameplay",
-    "Text_CN": "[C]Shows recent actions in gameplay",
-    "Text_FR": "Shows recent actions in gameplay"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_GLOSSARY",
-    "Text": "Important keywords and terminology",
-    "Text_CN": "[C]Important keywords and terminology",
-    "Text_FR": "Important keywords and terminology"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_GAMEOPTIONS",
-    "Text": "Select to adjust game settings or to leave the Quest",
-    "Text_CN": "[C]Select to adjust game settings or to leave the Quest",
-    "Text_FR": "Select to adjust game settings or to leave the Quest"
   },
   {
     "Id": "T_ASMODEE_SIGN_UP",
@@ -9157,915 +8941,1407 @@
   },
   {
     "Id": "G_001_DESC",
-    "Text": "You take turns with Sauron during this phase, and may attack Enemies or engage Objectives.",
-    "Text_CN": "关键词。拥有此关键词的人物会在轮次结束时离开游戏并被弃置。",
-    "Text_FR": "Durant cette phase, vous alternez avec Sauron et pouvez attaquer des ennemis ou participer à des objectifs."
+    "Text": "During this phase, you take turns with Sauron and may play cards, attack Enemies, or engage Objectives",
+    "Text_CN": "During this phase, you take turns with Sauron and may play cards, attack Enemies, or engage Objectives",
+    "Text_FR": "During this phase, you take turns with Sauron and may play cards, attack Enemies, or engage Objectives"
   },
   {
     "Id": "G_001_TERM",
     "Text": "Adventure Phase",
-    "Text_CN": "一闪而过",
-    "Text_FR": "Phase d'aventure"
+    "Text_CN": "Adventure Phase",
+    "Text_FR": "Adventure Phase"
   },
   {
     "Id": "G_002_DESC",
-    "Text": "A card type representing friends, followers, creatures, and hirelings that you can play to assist your Heroes on their Quest.",
-    "Text_CN": "这是玩家在前往下个场景前所必须完成的主要目标。 ",
-    "Text_FR": "Type de carte représentant les amis, acolytes, créatures et mercenaires que vous pouvez jouer pour aider vos héros dans leur quête."
+    "Text": "A card type representing friends, followers, and creatures that you can play to assist your Heroes on their Quest",
+    "Text_CN": "A card type representing friends, followers, and creatures that you can play to assist your Heroes on their Quest",
+    "Text_FR": "A card type representing friends, followers, and creatures that you can play to assist your Heroes on their Quest"
   },
   {
     "Id": "G_002_TERM",
     "Text": "Ally",
-    "Text_CN": "盟友",
-    "Text_FR": "Allié"
+    "Text_CN": "Ally",
+    "Text_FR": "Ally"
   },
   {
     "Id": "G_003_DESC",
-    "Text": "The attack ignores <b>Block</b> and <b>Counter</b>",
-    "Text_CN": "The attack ignores <b>Block</b> and <b>Counter</b>",
-    "Text_FR": "The attack ignores <b>Block</b> and <b>Counter</b>"
+    "Text": "An Attachment type that typically provides a defensive benefit. A Character can have only one Attachment of each type at a time",
+    "Text_CN": "An Attachment type that typically provides a defensive benefit. A Character can have only one Attachment of each type at a time",
+    "Text_FR": "An Attachment type that typically provides a defensive benefit. A Character can have only one Attachment of each type at a time"
   },
   {
     "Id": "G_003_TERM",
-    "Text": "Ambush",
-    "Text_CN": "伏击",
-    "Text_FR": "Embuscade"
+    "Text": "Armor",
+    "Text_CN": "Armor",
+    "Text_FR": "Armor"
   },
   {
     "Id": "G_004_DESC",
-    "Text": "An Attachment type. A Character can have only one Attachment of each type at a time.",
-    "Text_CN": "An Attachment type. A Character can have only one Attachment of each type at a time.",
-    "Text_FR": "Type d'attachement. Un personnage ne peut avoir qu'un attachement de même type à la fois."
+    "Text": "A card type representing armor, weapons, or special abilities. Unless otherwise stated, it modifies only the Character to which it is equipped",
+    "Text_CN": "A card type representing armor, weapons, or special abilities. Unless otherwise stated, it modifies only the Character to which it is equipped",
+    "Text_FR": "A card type representing armor, weapons, or special abilities. Unless otherwise stated, it modifies only the Character to which it is equipped"
   },
   {
     "Id": "G_004_TERM",
-    "Text": "Armor",
-    "Text_CN": "护甲",
-    "Text_FR": "Armure"
+    "Text": "Attachment",
+    "Text_CN": "Attachment",
+    "Text_FR": "Attachment"
   },
   {
     "Id": "G_005_DESC",
-    "Text": "The ability triggers when this card enters play",
-    "Text_CN": "The ability triggers when this card enters play",
-    "Text_FR": "The ability triggers when this card enters play"
+    "Text": "Effectiveness when attacking in combat",
+    "Text_CN": "Effectiveness when attacking in combat",
+    "Text_FR": "Effectiveness when attacking in combat"
   },
   {
     "Id": "G_005_TERM",
-    "Text": "Arrival",
-    "Text_CN": "乌鲁克",
-    "Text_FR": "Arrivée"
+    "Text": "Attack",
+    "Text_CN": "Attack",
+    "Text_FR": "Attack"
   },
   {
     "Id": "G_006_DESC",
-    "Text": "A card type representing armor, weapons, or special abilities. Unless otherwise stated, it modifies only the Character to which it is equipped.",
-    "Text_CN": "A card type representing armor, weapons, or special abilities. Unless otherwise stated, it modifies only the Character to which it is equipped.",
-    "Text_FR": "Type de carte représentant l'armure, les armes ou les capacités spéciales. Sauf mention contraire, cette carte modifie uniquement le personnage qui en est équipé."
+    "Text": "The icon shown in your profile",
+    "Text_CN": "The icon shown in your profile",
+    "Text_FR": "The icon shown in your profile"
   },
   {
     "Id": "G_006_TERM",
-    "Text": "Attachment",
-    "Text_CN": "装备",
-    "Text_FR": "Attachement"
-  },
-  {
-    "Id": "G_007_DESC",
-    "Text": "Effectiveness when attacking or defending in combat.",
-    "Text_CN": "卡牌大类。代表所有的英雄与盟友。当玩家有机会选择一位人物时，你可以选择任何可用的英雄或盟友。敌人也会被视为人物，并可以成为对人物起效的游戏效果的有效目标。",
-    "Text_FR": "L'efficacité d'un personnage lorsqu'il attaque ou se défend en combat."
-  },
-  {
-    "Id": "G_007_TERM",
-    "Text": "Attack",
-    "Text_CN": "人物",
-    "Text_FR": "Attaque"
-  },
-  {
-    "Id": "G_008_DESC",
-    "Text": "The icon shown in your profile.",
-    "Text_CN": "中土世界的种族之一，并非特指『男人』。",
-    "Text_FR": "L'icône affichée dans votre profil."
-  },
-  {
-    "Id": "G_008_TERM",
     "Text": "Avatar",
-    "Text_CN": "化身",
+    "Text_CN": "Avatar",
     "Text_FR": "Avatar"
   },
   {
+    "Id": "G_007_DESC",
+    "Text": "A series of 5 Quests that tell a larger story",
+    "Text_CN": "A series of 5 Quests that tell a larger story",
+    "Text_FR": "A series of 5 Quests that tell a larger story"
+  },
+  {
+    "Id": "G_007_TERM",
+    "Text": "Campaign",
+    "Text_CN": "Campaign",
+    "Text_FR": "Campaign"
+  },
+  {
+    "Id": "G_008_DESC",
+    "Text": "The first time you log in every 24 hours, the game generates a challenge tied to a random unlocked Quest. Completing each daily challenge grants you Valor (and potential additional rewards)",
+    "Text_CN": "The first time you log in every 24 hours, the game generates a challenge tied to a random unlocked Quest. Completing each daily challenge grants you Valor (and potential additional rewards)",
+    "Text_FR": "The first time you log in every 24 hours, the game generates a challenge tied to a random unlocked Quest. Completing each daily challenge grants you Valor (and potential additional rewards)"
+  },
+  {
+    "Id": "G_008_TERM",
+    "Text": "Challenge, Daily",
+    "Text_CN": "Challenge, Daily",
+    "Text_FR": "Challenge, Daily"
+  },
+  {
     "Id": "G_009_DESC",
-    "Text": "Reduces by 1 the damage taken from each attack",
-    "Text_CN": "Reduces by 1 the damage taken from each attack",
-    "Text_FR": "Reduces by 1 the damage taken from each attack"
+    "Text": "Achievements that are tracked over the lifetime of your account",
+    "Text_CN": "Achievements that are tracked over the lifetime of your account",
+    "Text_FR": "Achievements that are tracked over the lifetime of your account"
   },
   {
     "Id": "G_009_TERM",
-    "Text": "Block",
-    "Text_CN": "休整",
-    "Text_FR": "Blocage"
+    "Text": "Challenge, Epic",
+    "Text_CN": "Challenge, Epic",
+    "Text_FR": "Challenge, Epic"
   },
   {
     "Id": "G_010_DESC",
-    "Text": "A series of 5 Quests that tell a larger story.",
-    "Text_CN": "关键词。拥有此项关键词的人物在发动攻击时会得到等同于此项数值的加成。",
-    "Text_FR": "Une série de 5 quêtes racontant une histoire complète."
+    "Text": "A card type that refers to all Heroes and Allies",
+    "Text_CN": "A card type that refers to all Heroes and Allies",
+    "Text_FR": "A card type that refers to all Heroes and Allies"
   },
   {
     "Id": "G_010_TERM",
-    "Text": "Campaign",
-    "Text_CN": "侵攻",
-    "Text_FR": "Campagne"
+    "Text": "Character",
+    "Text_CN": "Character",
+    "Text_FR": "Character"
   },
   {
     "Id": "G_011_DESC",
-    "Text": "The first time you log into the game every 24 hours, the game generates a challenge tied to a random unlocked Quest. You receive Valor (and potential additional rewards) for completing each daily challenge.",
-    "Text_CN": "这是真知晶石提供的奖励，或者也可在游玩困难难度时获取。你可以使用5个信号火炬来解锁一个你选定的英雄包。",
-    "Text_FR": "Lors de votre première connexion toutes les 24 heures, le jeu génère un défi lié à une quête aléatoire déverrouillée. Vous recevez de la Vaillance (et potentiellement des récompenses supplémentaires) pour avoir terminé chaque défi quotidien."
+    "Text": "Displayed in the upper-left of each card, this is the Resource amount needed to play a card. Heroes do not have a cost, since they begin the game in play",
+    "Text_CN": "Displayed in the upper-left of each card, this is the Resource amount needed to play a card. Heroes do not have a cost, since they begin the game in play",
+    "Text_FR": "Displayed in the upper-left of each card, this is the Resource amount needed to play a card. Heroes do not have a cost, since they begin the game in play"
   },
   {
     "Id": "G_011_TERM",
-    "Text": "Challenge, Daily",
-    "Text_CN": "信号火炬",
-    "Text_FR": "Défi quotidien"
+    "Text": "Cost",
+    "Text_CN": "Cost",
+    "Text_FR": "Cost"
   },
   {
     "Id": "G_012_DESC",
-    "Text": "Achievements that are tracked over the lifetime of your account.",
-    "Text_CN": "关键词。拥有此关键词的人物会在敌人发动攻击前抢先发起反击。如果此举能够击败敌人，那么敌人就无法发动攻击了，否则敌人将正常结算攻击流程。",
-    "Text_FR": "Succès enregistrés depuis la création de votre compte."
+    "Text": "A trait type representing one of the countless variety of beasts found throughout Middle-earth",
+    "Text_CN": "A trait type representing one of the countless variety of beasts found throughout Middle-earth",
+    "Text_FR": "A trait type representing one of the countless variety of beasts found throughout Middle-earth"
   },
   {
     "Id": "G_012_TERM",
-    "Text": "Challenge, Epic",
-    "Text_CN": "先攻",
-    "Text_FR": "Défi épique"
+    "Text": "Creature",
+    "Text_CN": "Creature",
+    "Text_FR": "Creature"
   },
   {
     "Id": "G_013_DESC",
-    "Text": "This card type refers to all Heroes and Allies. Enemies are also considered Characters.",
-    "Text_CN": "This card type refers to all Heroes and Allies. Enemies are also considered Characters.",
-    "Text_FR": "Ce type de carte représente tous les héros et alliés. Les ennemis sont également considérés comme des Personnages."
+    "Text": "A trait type representing a person from the city-state of Men in northeastern Rhovanion",
+    "Text_CN": "A trait type representing a person from the city-state of Men in northeastern Rhovanion",
+    "Text_FR": "A trait type representing a person from the city-state of Men in northeastern Rhovanion"
   },
   {
     "Id": "G_013_TERM",
-    "Text": "Character",
-    "Text_CN": "兽人",
-    "Text_FR": "Personnage"
+    "Text": "Dale",
+    "Text_CN": "Dale",
+    "Text_FR": "Dale"
   },
   {
     "Id": "G_014_DESC",
-    "Text": "Displayed in the upper-left corner, this is the number of Resources needed to play a card. Hero cards do not have a cost, since they begin the game in play.",
-    "Text_CN": "由3到5个场景所构成的特制冒险故事。 ",
-    "Text_FR": "Affiché dans le coin supérieur gauche, il représente la quantité de ressources requises pour jouer une carte. Les héros n'ont pas de coût, puisqu'ils commencent la partie en jeu."
+    "Text": "The cards you use in the Quest",
+    "Text_CN": "The cards you use in the Quest",
+    "Text_FR": "The cards you use in the Quest"
   },
   {
     "Id": "G_014_TERM",
-    "Text": "Cost",
-    "Text_CN": "冒险包",
-    "Text_FR": "Coût"
-  },
-  {
-    "Id": "G_015_DESC",
-    "Text": "The cards you use in the Quest. Rollover to see how many remain.",
-    "Text_CN": "The cards you use in the Quest. Rollover to see how many remain.",
-    "Text_FR": "Les cartes que vous utilisez lors de la quête. Passez au-dessus du deck pour voir combien il reste de cartes."
-  },
-  {
-    "Id": "G_015_TERM",
     "Text": "Deck",
     "Text_CN": "Deck",
     "Text_FR": "Deck"
   },
   {
+    "Id": "G_015_DESC",
+    "Text": "A defeated card is discarded. This can occur if the card falls to 0 Health or through some other means",
+    "Text_CN": "A defeated card is discarded. This can occur if the card falls to 0 Health or through some other means",
+    "Text_FR": "A defeated card is discarded. This can occur if the card falls to 0 Health or through some other means"
+  },
+  {
+    "Id": "G_015_TERM",
+    "Text": "Defeated",
+    "Text_CN": "Defeated",
+    "Text_FR": "Defeated"
+  },
+  {
     "Id": "G_016_DESC",
-    "Text": "A defeated Character is discarded. This can occur by falling to 0 Health or through some other means.",
-    "Text_CN": "A defeated Character is discarded. This can occur by falling to 0 Health or through some other means.",
-    "Text_FR": "Un personnage vaincu est Défaussé. Cela peut arriver quand il tombe à 0 point de vie ou par d'autres moyens."
+    "Text": "The challenge level you face in a Quest: Easy, Normal, or Hard. Sauron's Resources increase as the difficulty goes up, but you can gain greater rewards if you survive!",
+    "Text_CN": "The challenge level you face in a Quest: Easy, Normal, or Hard. Sauron's Resources increase as the difficulty goes up, but you can gain greater rewards if you survive!",
+    "Text_FR": "The challenge level you face in a Quest: Easy, Normal, or Hard. Sauron's Resources increase as the difficulty goes up, but you can gain greater rewards if you survive!"
   },
   {
     "Id": "G_016_TERM",
-    "Text": "Defeated",
-    "Text_CN": "冒险点数",
-    "Text_FR": "Vaincu"
+    "Text": "Difficulty",
+    "Text_CN": "Difficulty",
+    "Text_FR": "Difficulty"
   },
   {
     "Id": "G_017_DESC",
-    "Text": "The challenge level you face in a Quest: Easy, Normal, or Hard. Sauron's Resources increase as the difficulty goes up, but you can gain greater rewards if you survive!",
-    "Text_CN": "你会在这个阶段内与索隆进行回合制的较量，并可攻击敌人或者挑战目标。",
-    "Text_FR": "Le niveau de défi d'une quête : Facile, Normal ou Difficile. Les ressources de Sauron augmentent avec la difficulté, mais les récompenses aussi... si vous survivez !"
+    "Text": "A trait type representing one of the Dúnedain, the Men of the West.",
+    "Text_CN": "A trait type representing one of the Dúnedain, the Men of the West.",
+    "Text_FR": "A trait type representing one of the Dúnedain, the Men of the West."
   },
   {
     "Id": "G_017_TERM",
-    "Text": "Difficulty",
-    "Text_CN": "冒险阶段",
-    "Text_FR": "Difficulté"
-  },
-  {
-    "Id": "G_018_DESC",
-    "Text": "One of the Dúnedain, the Men of the West.",
-    "Text_CN": "One of the Dúnedain, the Men of the West.",
-    "Text_FR": "Un des Dúnedain, les Hommes de l'Ouest."
-  },
-  {
-    "Id": "G_018_TERM",
     "Text": "Dúnadan",
-    "Text_CN": "杜内丹人",
+    "Text_CN": "Dúnadan",
     "Text_FR": "Dúnadan"
   },
   {
+    "Id": "G_018_DESC",
+    "Text": "The act of committing a Character to an Objective",
+    "Text_CN": "The act of committing a Character to an Objective",
+    "Text_FR": "The act of committing a Character to an Objective"
+  },
+  {
+    "Id": "G_018_TERM",
+    "Text": "Engage",
+    "Text_CN": "Engage",
+    "Text_FR": "Engage"
+  },
+  {
     "Id": "G_019_DESC",
-    "Text": "The act of committing a Character to an Objective.",
-    "Text_CN": "关键词。当游戏中存在敌人时，玩家无法挑战拥有此关键词的目标。",
-    "Text_FR": "L'action pour un personnage de prendre part à un objectif."
+    "Text": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game",
+    "Text_CN": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game",
+    "Text_FR": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game"
   },
   {
     "Id": "G_019_TERM",
-    "Text": "Engage",
-    "Text_CN": "加护",
-    "Text_FR": "Participer"
+    "Text": "Event",
+    "Text_CN": "Event",
+    "Text_FR": "Event"
   },
   {
     "Id": "G_020_DESC",
-    "Text": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game.",
-    "Text_CN": "游玩困难难度时获得的勇猛点数加成。",
-    "Text_FR": "Type de carte qui décrit un piège, un coup du sort ou tout autre effet se déroulant pendant la partie."
+    "Text": "A card is exhausted when it is used. All exhausted cards ready during Upkeep",
+    "Text_CN": "A card is exhausted when it is used. All exhausted cards ready during Upkeep",
+    "Text_FR": "A card is exhausted when it is used. All exhausted cards ready during Upkeep"
   },
   {
     "Id": "G_020_TERM",
-    "Text": "Event",
-    "Text_CN": "事件",
-    "Text_FR": "Événement"
+    "Text": "Exhausted",
+    "Text_CN": "Exhausted",
+    "Text_FR": "Exhausted"
   },
   {
     "Id": "G_021_DESC",
-    "Text": "A card is exhausted when it is used. All exhausted cards ready during Upkeep.",
-    "Text_CN": "A card is exhausted when it is used. All exhausted cards ready during Upkeep.",
-    "Text_FR": "Une carte est Épuisée une fois utilisée. Toutes les cartes Épuisées sont préparées pendant l'entretien."
+    "Text": "An ability that can unlock special powers unique to each Quest",
+    "Text_CN": "An ability that can unlock special powers unique to each Quest",
+    "Text_FR": "An ability that can unlock special powers unique to each Quest"
   },
   {
     "Id": "G_021_TERM",
-    "Text": "Exhausted",
-    "Text_CN": "勇猛点数",
-    "Text_FR": "Épuisé"
+    "Text": "Fate",
+    "Text_CN": "Fate",
+    "Text_FR": "Fate"
   },
   {
     "Id": "G_022_DESC",
-    "Text": "An expendable card that you can use for an immediate in-game effect.",
-    "Text_CN": "显示在你的概况界面上的图标。",
-    "Text_FR": "Carte jetable que vous pouvez utiliser pour obtenir un effet immédiat en jeu."
+    "Text": "Select to adjust game settings or to leave the Quest",
+    "Text_CN": "Select to adjust game settings or to leave the Quest",
+    "Text_FR": "Select to adjust game settings or to leave the Quest"
   },
   {
     "Id": "G_022_TERM",
-    "Text": "Favor Card",
-    "Text_CN": "化身",
-    "Text_FR": "Carte de faveur"
+    "Text": "Game Options",
+    "Text_CN": "Game Options",
+    "Text_FR": "Game Options"
   },
   {
     "Id": "G_023_DESC",
-    "Text": "This card is removed at the end of the round.",
-    "Text_CN": "This card is removed at the end of the round.",
-    "Text_FR": "Cette carte est retirée à la fin du tour."
+    "Text": "A trait type representing a person from the most prominent kingdom of Men in Middle-earth.",
+    "Text_CN": "A trait type representing a person from the most prominent kingdom of Men in Middle-earth.",
+    "Text_FR": "A trait type representing a person from the most prominent kingdom of Men in Middle-earth."
   },
   {
     "Id": "G_023_TERM",
-    "Text": "Fleeting",
-    "Text_CN": "博学型",
-    "Text_FR": "Fugacité"
-  },
-  {
-    "Id": "G_024_DESC",
-    "Text": "Select to adjust game settings or to leave the Quest.",
-    "Text_CN": "Select to adjust game settings or to leave the Quest.",
-    "Text_FR": "Sélectionnez-les pour ajuster les paramètres du jeu ou pour quitter la quête."
-  },
-  {
-    "Id": "G_024_TERM",
-    "Text": "Game Options",
-    "Text_CN": "Game Options",
-    "Text_FR": "Options du jeu"
-  },
-  {
-    "Id": "G_025_DESC",
-    "Text": "Important keywords and terminology.",
-    "Text_CN": "Important keywords and terminology.",
-    "Text_FR": "Mots-clés importants et terminologie."
-  },
-  {
-    "Id": "G_025_TERM",
-    "Text": "Glossary",
-    "Text_CN": "Glossary",
-    "Text_FR": "Glossaire"
-  },
-  {
-    "Id": "G_026_DESC",
-    "Text": "A person from the most prominent kingdom of Men in Middle-earth.",
-    "Text_CN": "A person from the most prominent kingdom of Men in Middle-earth.",
-    "Text_FR": "Personne appartenant au plus grand royaume des Hommes de la Terre du Milieu."
-  },
-  {
-    "Id": "G_026_TERM",
     "Text": "Gondor",
-    "Text_CN": "刚铎人",
+    "Text_CN": "Gondor",
     "Text_FR": "Gondor"
   },
   {
+    "Id": "G_024_DESC",
+    "Text": "A task that you may face in the course of a Quest",
+    "Text_CN": "A task that you may face in the course of a Quest",
+    "Text_FR": "A task that you may face in the course of a Quest"
+  },
+  {
+    "Id": "G_024_TERM",
+    "Text": "Hazard",
+    "Text_CN": "Hazard",
+    "Text_FR": "Hazard"
+  },
+  {
+    "Id": "G_025_DESC",
+    "Text": "Damage amount that can be suffered before being defeated",
+    "Text_CN": "Damage amount that can be suffered before being defeated",
+    "Text_FR": "Damage amount that can be suffered before being defeated"
+  },
+  {
+    "Id": "G_025_TERM",
+    "Text": "Health",
+    "Text_CN": "Health",
+    "Text_FR": "Health"
+  },
+  {
+    "Id": "G_026_DESC",
+    "Text": "A main Character that you control during a Quest. Heroes start the game in play, and have a Threat value instead of a cost. If all your Heroes are defeated, you fail the Quest!",
+    "Text_CN": "A main Character that you control during a Quest. Heroes start the game in play, and have a Threat value instead of a cost. If all your Heroes are defeated, you fail the Quest!",
+    "Text_FR": "A main Character that you control during a Quest. Heroes start the game in play, and have a Threat value instead of a cost. If all your Heroes are defeated, you fail the Quest!"
+  },
+  {
+    "Id": "G_026_TERM",
+    "Text": "Hero",
+    "Text_CN": "Hero",
+    "Text_FR": "Hero"
+  },
+  {
     "Id": "G_027_DESC",
-    "Text": "This card must be defeated before choosing another target or Objective. A card with <b>Stealth</b> cannot <b>Guard</b>",
-    "Text_CN": "This card must be defeated before choosing another target or Objective. A card with <b>Stealth</b> cannot <b>Guard</b>",
-    "Text_FR": "This card must be defeated before choosing another target or Objective. A card with <b>Stealth</b> cannot <b>Guard</b>"
+    "Text": "A trait type representing one of a race of gentle beings with a reputation for preferring a settled life over excitement and adventure",
+    "Text_CN": "A trait type representing one of a race of gentle beings with a reputation for preferring a settled life over excitement and adventure",
+    "Text_FR": "A trait type representing one of a race of gentle beings with a reputation for preferring a settled life over excitement and adventure"
   },
   {
     "Id": "G_027_TERM",
-    "Text": "Guard",
-    "Text_CN": "神恩卡牌",
-    "Text_FR": "Garde"
-  },
-  {
-    "Id": "G_028_DESC",
-    "Text": "Damage amount that can be suffered before being defeated.",
-    "Text_CN": "Damage amount that can be suffered before being defeated.",
-    "Text_FR": "La quantité de points de dégâts qui peuvent être subis avant d'être vaincu."
-  },
-  {
-    "Id": "G_028_TERM",
-    "Text": "Health",
-    "Text_CN": "场景",
-    "Text_FR": "Points de vie"
-  },
-  {
-    "Id": "G_029_DESC",
-    "Text": "A main Character that you control during a Quest. Heroes start the game in play, and have a Threat value instead of a cost. If all your Heroes are defeated, you fail the Quest.",
-    "Text_CN": "中土世界的一处地区。",
-    "Text_FR": "Personnage principal que vous contrôlez durant une quête. Les héros commencent la partie en jeu, et disposent d'un Niveau de Menace à la place du coût. Si tous vos héros sont vaincus, la quête échoue."
-  },
-  {
-    "Id": "G_029_TERM",
-    "Text": "Hero",
-    "Text_CN": "英雄",
-    "Text_FR": "Héros"
-  },
-  {
-    "Id": "G_030_DESC",
-    "Text": "Shows recent actions in gameplay.",
-    "Text_CN": "Shows recent actions in gameplay.",
-    "Text_FR": "Affiche les actions en jeu récentes."
-  },
-  {
-    "Id": "G_030_TERM",
-    "Text": "History",
-    "Text_CN": "History",
-    "Text_FR": "Histoire"
-  },
-  {
-    "Id": "G_031_DESC",
-    "Text": "One of a race of gentle beings with a reputation for preferring a settled life over excitement and adventure.",
-    "Text_CN": "One of a race of gentle beings with a reputation for preferring a settled life over excitement and adventure.",
-    "Text_FR": "Une race bienveillante, réputée préférer une vie bien tranquille à l'excitation de l'aventure."
-  },
-  {
-    "Id": "G_031_TERM",
     "Text": "Hobbit",
-    "Text_CN": "霍比特人",
+    "Text_CN": "Hobbit",
     "Text_FR": "Hobbit"
   },
   {
-    "Id": "G_032_DESC",
-    "Text": "An individual such as Gandalf or Saruman who is more than mortal and possessed of great age and power. ",
-    "Text_CN": "An individual such as Gandalf or Saruman who is more than mortal and possessed of great age and power. ",
-    "Text_FR": "Mage de même type que Gandalf ou Saroumane. Plus qu'un simple mortel, très âgé, son pouvoir est immense. "
+    "Id": "G_028_DESC",
+    "Text": "A trait type representing an individual such as Gandalf or Saruman who is more than mortal and possessed of great age and power",
+    "Text_CN": "A trait type representing an individual such as Gandalf or Saruman who is more than mortal and possessed of great age and power",
+    "Text_FR": "A trait type representing an individual such as Gandalf or Saruman who is more than mortal and possessed of great age and power"
   },
   {
-    "Id": "G_032_TERM",
+    "Id": "G_028_TERM",
     "Text": "Istar",
-    "Text_CN": "伊斯塔尔",
+    "Text_CN": "Istar",
     "Text_FR": "Istar"
   },
   {
+    "Id": "G_029_DESC",
+    "Text": "A Sphere of Influence representing the potential to lead, inspire, and command others",
+    "Text_CN": "A Sphere of Influence representing the potential to lead, inspire, and command others",
+    "Text_FR": "A Sphere of Influence representing the potential to lead, inspire, and command others"
+  },
+  {
+    "Id": "G_029_TERM",
+    "Text": "Leadership",
+    "Text_CN": "Leadership",
+    "Text_FR": "Leadership"
+  },
+  {
+    "Id": "G_030_DESC",
+    "Text": "A distinct Quest stage. Completing a Quest requires advancing through a series of Locations",
+    "Text_CN": "A distinct Quest stage. Completing a Quest requires advancing through a series of Locations",
+    "Text_FR": "A distinct Quest stage. Completing a Quest requires advancing through a series of Locations"
+  },
+  {
+    "Id": "G_030_TERM",
+    "Text": "Location",
+    "Text_CN": "Location",
+    "Text_FR": "Location"
+  },
+  {
+    "Id": "G_031_DESC",
+    "Text": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge",
+    "Text_CN": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge",
+    "Text_FR": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge"
+  },
+  {
+    "Id": "G_031_TERM",
+    "Text": "Lore",
+    "Text_CN": "Lore",
+    "Text_FR": "Lore"
+  },
+  {
+    "Id": "G_032_DESC",
+    "Text": "A trait type representing a person from the second clan of the Elves, known for their martial prowess",
+    "Text_CN": "A trait type representing a person from the second clan of the Elves, known for their martial prowess",
+    "Text_FR": "A trait type representing a person from the second clan of the Elves, known for their martial prowess"
+  },
+  {
+    "Id": "G_032_TERM",
+    "Text": "Noldor",
+    "Text_CN": "Noldor",
+    "Text_FR": "Noldor"
+  },
+  {
     "Id": "G_033_DESC",
-    "Text": "A Sphere of Influence representing the potential to lead, inspire, and command others.",
-    "Text_CN": "对于成为行动对象的人物或任务的一般性描述。 ",
-    "Text_FR": "Sphère d'influence qui représente le potentiel à diriger, stimuler et commander les autres."
+    "Text": "The primary goal you must resolve before you can advance to the next Location",
+    "Text_CN": "The primary goal you must resolve before you can advance to the next Location",
+    "Text_FR": "The primary goal you must resolve before you can advance to the next Location"
   },
   {
     "Id": "G_033_TERM",
-    "Text": "Leadership",
-    "Text_CN": "领导型",
-    "Text_FR": "Commandement"
+    "Text": "Objective",
+    "Text_CN": "Objective",
+    "Text_FR": "Objective"
   },
   {
     "Id": "G_034_DESC",
-    "Text": "A distinct Quest stage. Completing a Quest requires advancing through a series of Locations.",
-    "Text_CN": "游戏中存在四种属性类别：领导型、博学型、精神型与战术型。每种类别均注重于一种特定属性的强度。每个英雄都会从属于一个类别，这也决定了你在牌组中可以使用的卡牌种类。",
-    "Text_FR": "Une étape de quête distincte. Terminer une quête requiert de franchir une série de lieux."
+    "Text": "A trait type representing a member of an evil and violent race who serve Sauron",
+    "Text_CN": "A trait type representing a member of an evil and violent race who serve Sauron",
+    "Text_FR": "A trait type representing a member of an evil and violent race who serve Sauron"
   },
   {
     "Id": "G_034_TERM",
-    "Text": "Location",
-    "Text_CN": "属性类别",
-    "Text_FR": "Lieu"
+    "Text": "Orc",
+    "Text_CN": "Orc",
+    "Text_FR": "Orc"
   },
   {
     "Id": "G_035_DESC",
-    "Text": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge.",
-    "Text_CN": "在这个阶段中，玩家与索隆会依次从各自的牌组中布置盟友、装备与事件卡牌。",
-    "Text_FR": "Une sphère d'influence qui accentue l'intelligence, la sagesse et le savoir spécialisé."
+    "Text": "You can use the Palantír to gain rewards such as Valor Points, new cards, and cosmetic items",
+    "Text_CN": "You can use the Palantír to gain rewards such as Valor Points, new cards, and cosmetic items",
+    "Text_FR": "You can use the Palantír to gain rewards such as Valor Points, new cards, and cosmetic items"
   },
   {
     "Id": "G_035_TERM",
-    "Text": "Lore",
-    "Text_CN": "博学型",
-    "Text_FR": "Connaissance"
-  },
-  {
-    "Id": "G_036_DESC",
-    "Text": "A person from the second clan of the Elves.",
-    "Text_CN": "A person from the second clan of the Elves.",
-    "Text_FR": "Personne appartenant au second clan des elfes."
-  },
-  {
-    "Id": "G_036_TERM",
-    "Text": "Noldor",
-    "Text_CN": "诺多精灵",
-    "Text_FR": "Ñoldor"
-  },
-  {
-    "Id": "G_037_DESC",
-    "Text": "A task that you may face in the course of a Quest.",
-    "Text_CN": "人物在挑战目标时的效率。 ",
-    "Text_FR": "Une tâche à laquelle vous devrez faire face au cours d'une quête."
-  },
-  {
-    "Id": "G_037_TERM",
-    "Text": "Objective",
-    "Text_CN": "目标",
-    "Text_FR": "Objectif"
-  },
-  {
-    "Id": "G_038_DESC",
-    "Text": "The primary goal you must resolve before you can advance to the next Location. ",
-    "Text_CN": "The primary goal you must resolve before you can advance to the next Location. ",
-    "Text_FR": "L'objectif premier à atteindre avant de pouvoir progresser vers le lieu suivant. "
-  },
-  {
-    "Id": "G_038_TERM",
-    "Text": "Objective, Main",
-    "Text_CN": "成本",
-    "Text_FR": "Objectif principal"
-  },
-  {
-    "Id": "G_039_DESC",
-    "Text": "A member of an evil and violent race who serve Sauron.",
-    "Text_CN": "A member of an evil and violent race who serve Sauron.",
-    "Text_FR": "Membre d'une race violente et maléfique au service de Sauron."
-  },
-  {
-    "Id": "G_039_TERM",
-    "Text": "Orc",
-    "Text_CN": "兽人",
-    "Text_FR": "Orque"
-  },
-  {
-    "Id": "G_040_DESC",
-    "Text": "You can use the Palantír to gain rewards such as Valor Points, new cards, and cosmetic items.",
-    "Text_CN": "You can use the Palantír to gain rewards such as Valor Points, new cards, and cosmetic items.",
-    "Text_FR": "Vous pouvez utiliser le Palantír pour obtenir des récompenses telles que des points de Vaillance, de nouvelles cartes et des objets cosmétiques."
-  },
-  {
-    "Id": "G_040_TERM",
     "Text": "Palantír",
-    "Text_CN": "真知晶石",
+    "Text_CN": "Palantír",
     "Text_FR": "Palantír"
   },
   {
-    "Id": "G_041_DESC",
-    "Text": "Select to advance gameplay.",
-    "Text_CN": "Select to advance gameplay.",
-    "Text_FR": "Sélectionnez-le pour faire avancer le jeu."
+    "Id": "G_036_DESC",
+    "Text": "Select to advance gameplay",
+    "Text_CN": "Select to advance gameplay",
+    "Text_FR": "Select to advance gameplay"
   },
   {
-    "Id": "G_041_TERM",
+    "Id": "G_036_TERM",
     "Text": "Phase Button",
     "Text_CN": "Phase Button",
-    "Text_FR": "Bouton Phase"
+    "Text_FR": "Phase Button"
   },
   {
-    "Id": "G_042_DESC",
-    "Text": "During this phase, you and Sauron take turns playing cards prior to adventuring.",
-    "Text_CN": "这种属性类别注重于军事技艺，特别是那些在冒险中所需处理的战斗与战术挑战。",
-    "Text_FR": "Durant cette phase, Sauron et vous jouez vos cartes chacun votre tour avant l'aventure."
+    "Id": "G_037_DESC",
+    "Text": "These are any Ally, Attachment, Event, and Hero cards you use throughout a Quest",
+    "Text_CN": "These are any Ally, Attachment, Event, and Hero cards you use throughout a Quest",
+    "Text_FR": "These are any Ally, Attachment, Event, and Hero cards you use throughout a Quest"
   },
   {
-    "Id": "G_042_TERM",
-    "Text": "Planning Phase",
-    "Text_CN": "战术型",
-    "Text_FR": "Phase d'organisation"
-  },
-  {
-    "Id": "G_043_DESC",
-    "Text": "These are any Ally, Attachment, and Event cards you use throughout a Quest.",
-    "Text_CN": "These are any Ally, Attachment, and Event cards you use throughout a Quest.",
-    "Text_FR": "Il s'agit des cartes Allié, Attachement et Événement que vous pouvez utiliser lors d'une quête."
-  },
-  {
-    "Id": "G_043_TERM",
+    "Id": "G_037_TERM",
     "Text": "Player Cards",
-    "Text_CN": "战败",
-    "Text_FR": "Cartes de joueur"
+    "Text_CN": "Player Cards",
+    "Text_FR": "Player Cards"
   },
   {
-    "Id": "G_044_DESC",
-    "Text": "A deck of 30 cards based on 3 Heroes of your choice. You build each deck based on these Heroes, and you cannot have more than 2 copies of any individual card.",
-    "Text_CN": "将人物派去挑战目标的游戏操作。 ",
-    "Text_FR": "Chaque deck est composé de 30 cartes basées sur 3 héros de votre choix. Vous constituez chaque deck autour de ces héros, et seuls 2 exemplaires de chaque carte sont autorisés."
+    "Id": "G_038_DESC",
+    "Text": "A deck of 30 cards based on 3 Heroes of your choice. You build each deck based on these Heroes, and you cannot have more than 2 copies of any individual card",
+    "Text_CN": "A deck of 30 cards based on 3 Heroes of your choice. You build each deck based on these Heroes, and you cannot have more than 2 copies of any individual card",
+    "Text_FR": "A deck of 30 cards based on 3 Heroes of your choice. You build each deck based on these Heroes, and you cannot have more than 2 copies of any individual card"
   },
   {
-    "Id": "G_044_TERM",
+    "Id": "G_038_TERM",
     "Text": "Player Deck",
-    "Text_CN": "挑战",
-    "Text_FR": "Deck de joueur"
+    "Text_CN": "Player Deck",
+    "Text_FR": "Player Deck"
   },
   {
-    "Id": "G_045_DESC",
-    "Text": "An ability that you may choose to activate.",
-    "Text_CN": "An ability that you may choose to activate.",
-    "Text_FR": "Une capacité que vous pouvez choisir d'activer."
-  },
-  {
-    "Id": "G_045_TERM",
-    "Text": "Power",
-    "Text_CN": "攻击",
-    "Text_FR": "Pouvoir"
-  },
-  {
-    "Id": "G_046_DESC",
+    "Id": "G_039_DESC",
     "Text": "An Event card type which triggers based on a timing window or circumstance",
     "Text_CN": "An Event card type which triggers based on a timing window or circumstance",
     "Text_FR": "An Event card type which triggers based on a timing window or circumstance"
   },
   {
-    "Id": "G_046_TERM",
+    "Id": "G_039_TERM",
     "Text": "Preparation",
-    "Text_CN": "格挡",
-    "Text_FR": "Préparation"
+    "Text_CN": "Preparation",
+    "Text_FR": "Preparation"
   },
   {
-    "Id": "G_047_DESC",
-    "Text": "Indicates unrevealed Preparation cards.",
-    "Text_CN": "Indicates unrevealed Preparation cards.",
-    "Text_FR": "Indique les cartes Préparation cachées."
+    "Id": "G_040_DESC",
+    "Text": "Indicates unrevealed Preparation cards",
+    "Text_CN": "Indicates unrevealed Preparation cards",
+    "Text_FR": "Indicates unrevealed Preparation cards"
   },
   {
-    "Id": "G_047_TERM",
+    "Id": "G_040_TERM",
     "Text": "Preparation Sockets",
     "Text_CN": "Preparation Sockets",
-    "Text_FR": "Emplacements de Préparation"
+    "Text_FR": "Preparation Sockets"
   },
   {
-    "Id": "G_048_DESC",
-    "Text": "The amount by which you reduce an Objective's Quest value each time you apply Willpower.",
-    "Text_CN": "每隔24小时，当玩家首次登录游戏后，游戏都会提供一项与已解锁的随机冒险相关的任务。完成每日任务后，玩家便会得到一项勇猛奖励（以及可能会存在的额外奖励）。",
-    "Text_FR": "Le montant de la réduction des points d'un objectif de quête chaque fois que la Volonté est appliquée."
+    "Id": "G_041_DESC",
+    "Text": "The amount by which you reduce the Quest value each time you engage an Objective",
+    "Text_CN": "The amount by which you reduce the Quest value each time you engage an Objective",
+    "Text_FR": "The amount by which you reduce the Quest value each time you engage an Objective"
   },
   {
-    "Id": "G_048_TERM",
+    "Id": "G_041_TERM",
     "Text": "Progress",
-    "Text_CN": "每日任务",
-    "Text_FR": "Progression"
+    "Text_CN": "Progress",
+    "Text_FR": "Progress"
   },
   {
-    "Id": "G_049_DESC",
-    "Text": "This card follows your Heroes from one Location to the next",
-    "Text_CN": "This card follows your Heroes from one Location to the next",
-    "Text_FR": "This card follows your Heroes from one Location to the next"
+    "Id": "G_042_DESC",
+    "Text": "The total Willpower amount required to resolve an Objective",
+    "Text_CN": "The total Willpower amount required to resolve an Objective",
+    "Text_FR": "The total Willpower amount required to resolve an Objective"
   },
   {
-    "Id": "G_049_TERM",
-    "Text": "Pursuit",
-    "Text_CN": "潜行",
-    "Text_FR": "Poursuite"
+    "Id": "G_042_TERM",
+    "Text": "Quest Value",
+    "Text_CN": "Quest Value",
+    "Text_FR": "Quest Value"
   },
   {
-    "Id": "G_050_DESC",
-    "Text": "The value of an Objective. You use Willpower to resolve an Objective.",
-    "Text_CN": "The value of an Objective. You use Willpower to resolve an Objective.",
-    "Text_FR": "Valeur d'un objectif. La Volonté est utilisée dans la résolution d'un objectif."
+    "Id": "G_043_DESC",
+    "Text": "All player cards have a listed rarity: Starter and Hero, as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities",
+    "Text_CN": "All player cards have a listed rarity: Starter and Hero, as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities",
+    "Text_FR": "All player cards have a listed rarity: Starter and Hero, as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities"
   },
   {
-    "Id": "G_050_TERM",
-    "Text": "Quest Points",
-    "Text_CN": "Quest Points",
-    "Text_FR": "Points de quête"
-  },
-  {
-    "Id": "G_051_DESC",
-    "Text": "This card ignores <b>Guard</b> and <b>Counter</b> when attacking",
-    "Text_CN": "This card ignores <b>Guard</b> and <b>Counter</b> when attacking",
-    "Text_FR": "This card ignores <b>Guard</b> and <b>Counter</b> when attacking"
-  },
-  {
-    "Id": "G_051_TERM",
-    "Text": "Ranged",
-    "Text_CN": "玩家牌组",
-    "Text_FR": "À distance"
-  },
-  {
-    "Id": "G_052_DESC",
-    "Text": "All player cards have a listed rarity: Starter and Hero, as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities.",
-    "Text_CN": "All player cards have a listed rarity: Starter and Hero, as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities.",
-    "Text_FR": "Toutes la cartes de joueur affichent une rareté : Deck de départ et Héros, ainsi que Commune, Inhabituelle, Rare et Légendaire. Plus le degré de rareté est élevé, plus ses capacités sont puissantes."
-  },
-  {
-    "Id": "G_052_TERM",
+    "Id": "G_043_TERM",
     "Text": "Rarity",
-    "Text_CN": "生命",
-    "Text_FR": "Rareté"
+    "Text_CN": "Rarity",
+    "Text_FR": "Rarity"
   },
   {
-    "Id": "G_053_DESC",
-    "Text": "The act of completing, overcoming, or otherwise removing an Objective.",
-    "Text_CN": "关键词。拥有此关键词的卡牌技能会在人物进入游戏时即刻触发。",
-    "Text_FR": "Le fait de terminer, venir à bout ou supprimer un objectif."
+    "Id": "G_044_DESC",
+    "Text": "The act of completing, overcoming, or otherwise removing an Objective",
+    "Text_CN": "The act of completing, overcoming, or otherwise removing an Objective",
+    "Text_FR": "The act of completing, overcoming, or otherwise removing an Objective"
   },
   {
-    "Id": "G_053_TERM",
+    "Id": "G_044_TERM",
     "Text": "Resolve",
-    "Text_CN": "登场",
-    "Text_FR": "Résolution"
+    "Text_CN": "Resolve",
+    "Text_FR": "Resolve"
   },
   {
-    "Id": "G_054_DESC",
-    "Text": "Used to play cards. Resources refresh during Upkeep.",
-    "Text_CN": "Used to play cards. Resources refresh during Upkeep.",
-    "Text_FR": "Servent à jouer des cartes de joueur. Les ressources se réinitialisent durant l'entretien."
+    "Id": "G_045_DESC",
+    "Text": "Spent to play cards. Resources refresh during Upkeep",
+    "Text_CN": "Spent to play cards. Resources refresh during Upkeep",
+    "Text_FR": "Spent to play cards. Resources refresh during Upkeep"
   },
   {
-    "Id": "G_054_TERM",
+    "Id": "G_045_TERM",
     "Text": "Resources",
-    "Text_CN": "盟友",
-    "Text_FR": "Ressources"
+    "Text_CN": "Resources",
+    "Text_FR": "Resources"
   },
   {
-    "Id": "G_055_DESC",
-    "Text": "The ability triggers when this card is defeated",
-    "Text_CN": "The ability triggers when this card is defeated",
-    "Text_FR": "The ability triggers when this card is defeated"
+    "Id": "G_046_DESC",
+    "Text": "A trait type representing a person from the kingdom between the Misty Mountains and White Mountains",
+    "Text_CN": "A trait type representing a person from the kingdom between the Misty Mountains and White Mountains",
+    "Text_FR": "A trait type representing a person from the kingdom between the Misty Mountains and White Mountains"
   },
   {
-    "Id": "G_055_TERM",
-    "Text": "Revenge",
-    "Text_CN": "强力威胁",
-    "Text_FR": "Vengeance"
-  },
-  {
-    "Id": "G_056_DESC",
-    "Text": "A person from the kingdom between the Misty Mountains and White Mountains.",
-    "Text_CN": "A person from the kingdom between the Misty Mountains and White Mountains.",
-    "Text_FR": "Personne appartenant au royaume situé entre les Monts Brumeux et les Montagnes Blanches."
-  },
-  {
-    "Id": "G_056_TERM",
+    "Id": "G_046_TERM",
     "Text": "Rohan",
-    "Text_CN": "洛汗人",
+    "Text_CN": "Rohan",
     "Text_FR": "Rohan"
   },
   {
-    "Id": "G_057_DESC",
-    "Text": "An Elf who is more interested in knowledge than in combat, compared to their Noldor cousins.",
-    "Text_CN": "An Elf who is more interested in knowledge than in combat, compared to their Noldor cousins.",
-    "Text_FR": "Elfe plus intéressé par la sagesse que par le combat, à l'inverse de ses cousins Ñoldor"
+    "Id": "G_047_DESC",
+    "Text": "A trait type representing an Elf who is more interested in knowledge than in combat, compared to Noldor",
+    "Text_CN": "A trait type representing an Elf who is more interested in knowledge than in combat, compared to Noldor",
+    "Text_FR": "A trait type representing an Elf who is more interested in knowledge than in combat, compared to Noldor"
   },
   {
-    "Id": "G_057_TERM",
+    "Id": "G_047_TERM",
     "Text": "Silvan",
-    "Text_CN": "西尔凡精灵",
-    "Text_FR": "Sylvain"
+    "Text_CN": "Silvan",
+    "Text_FR": "Silvan"
   },
   {
-    "Id": "G_058_DESC",
-    "Text": "An Attachment type. A Character can have only one Attachment of each type at a time.",
-    "Text_CN": "An Attachment type. A Character can have only one Attachment of each type at a time.",
-    "Text_FR": "Type d'attachement. Un personnage ne peut avoir qu'un attachement de même type à la fois."
+    "Id": "G_048_DESC",
+    "Text": "An Attachment type that provides a special in-game benefit. A Character can have only one Attachment of each type at a time",
+    "Text_CN": "An Attachment type that provides a special in-game benefit. A Character can have only one Attachment of each type at a time",
+    "Text_FR": "An Attachment type that provides a special in-game benefit. A Character can have only one Attachment of each type at a time"
   },
   {
-    "Id": "G_058_TERM",
+    "Id": "G_048_TERM",
     "Text": "Special",
-    "Text_CN": "特殊",
-    "Text_FR": "Spécial"
+    "Text_CN": "Special",
+    "Text_FR": "Special"
   },
   {
-    "Id": "G_059_DESC",
-    "Text": "Each of the four Spheres of Influence (Leadership, Lore, Spirit, Tactics) focuses on a particular personality aspect. Every Hero belongs to a Sphere, which dictates the cards you can include in a deck.",
-    "Text_CN": "不受索隆统治的人。",
-    "Text_FR": "Chacune des quatre sphères d'influence (Commandement, Connaissance, Énergie, Tactique) se concentre sur une facette particulière de la personnalité. Chaque héros se réfère à une sphère, qui dicte les cartes que vous pouvez inclure dans un deck."
+    "Id": "G_049_DESC",
+    "Text": "Each of the four Spheres of Influence (Leadership, Lore, Spirit, Tactics) focuses on a particular personality aspect. Every Hero belongs to a Sphere, which dictates the cards you can include in a deck",
+    "Text_CN": "Each of the four Spheres of Influence (Leadership, Lore, Spirit, Tactics) focuses on a particular personality aspect. Every Hero belongs to a Sphere, which dictates the cards you can include in a deck",
+    "Text_FR": "Each of the four Spheres of Influence (Leadership, Lore, Spirit, Tactics) focuses on a particular personality aspect. Every Hero belongs to a Sphere, which dictates the cards you can include in a deck"
   },
   {
-    "Id": "G_059_TERM",
+    "Id": "G_049_TERM",
     "Text": "Sphere of Influence",
     "Text_CN": "Sphere of Influence",
-    "Text_FR": "Sphères d'influence"
+    "Text_FR": "Sphere of Influence"
   },
   {
-    "Id": "G_060_DESC",
-    "Text": "A Sphere of Influence encompassing strength of will and aspects of the supernatural.",
-    "Text_CN": "英雄是你在冒险中所控制的主要人物。英雄可以攻击敌人或者挑战目标，并拥有一些可用使用的特技。英雄也是你创建的每个牌组的基础，他决定了你可用来选择组成牌组的卡牌的类别。在游戏开始时，英雄便会配置完毕。他们的成本值会被威胁值所取代。如果你的英雄全部战败，那么冒险也就会宣告失败了。",
-    "Text_FR": "Cette sphère d'influence recouvre la force de volonté du héros et l'aspect surnaturel."
+    "Id": "G_050_DESC",
+    "Text": "A Sphere of Influence encompassing strength of will and aspects of the supernatural",
+    "Text_CN": "A Sphere of Influence encompassing strength of will and aspects of the supernatural",
+    "Text_FR": "A Sphere of Influence encompassing strength of will and aspects of the supernatural"
   },
   {
-    "Id": "G_060_TERM",
+    "Id": "G_050_TERM",
     "Text": "Spirit",
-    "Text_CN": "精神型",
-    "Text_FR": "Énergie"
+    "Text_CN": "Spirit",
+    "Text_FR": "Spirit"
   },
   {
-    "Id": "G_061_DESC",
-    "Text": "This card does not exhaust after the first action each round",
-    "Text_CN": "This card does not exhaust after the first action each round",
-    "Text_FR": "This card does not exhaust after the first action each round"
+    "Id": "G_051_DESC",
+    "Text": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat",
+    "Text_CN": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat",
+    "Text_FR": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat"
   },
   {
-    "Id": "G_061_TERM",
-    "Text": "Stalwart",
-    "Text_CN": "英雄包",
-    "Text_FR": "Loyal"
-  },
-  {
-    "Id": "G_062_DESC",
-    "Text": "While the ability is active, this card cannot be attacked and ignores <b>Guard</b> when targeting Enemies and Objectives. An exhausted card cannot have <b>Stealth</b> active. A card with <b>Stealth</b> cannot <b>Guard</b>",
-    "Text_CN": "While the ability is active, this card cannot be attacked and ignores <b>Guard</b> when targeting Enemies and Objectives. An exhausted card cannot have <b>Stealth</b> active. A card with <b>Stealth</b> cannot <b>Guard</b>",
-    "Text_FR": "While the ability is active, this card cannot be attacked and ignores <b>Guard</b> when targeting Enemies and Objectives. An exhausted card cannot have <b>Stealth</b> active. A card with <b>Stealth</b> cannot <b>Guard</b>"
-  },
-  {
-    "Id": "G_062_TERM",
-    "Text": "Stealth",
-    "Text_CN": "蓄势",
-    "Text_FR": "Furtif"
-  },
-  {
-    "Id": "G_063_DESC",
-    "Text": "Gain an immediate action after this card is played",
-    "Text_CN": "Gain an immediate action after this card is played",
-    "Text_FR": "Gain an immediate action after this card is played"
-  },
-  {
-    "Id": "G_063_TERM",
-    "Text": "Surge",
-    "Text_CN": "难度",
-    "Text_FR": "Ruée"
-  },
-  {
-    "Id": "G_064_DESC",
-    "Text": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat.",
-    "Text_CN": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat.",
-    "Text_FR": "Cette Sphère d'influence recouvre les prouesses martiales, depuis les défis tactiques jusqu'aux combats eux-mêmes."
-  },
-  {
-    "Id": "G_064_TERM",
+    "Id": "G_051_TERM",
     "Text": "Tactics",
-    "Text_CN": "战术型",
-    "Text_FR": "Tactique"
+    "Text_CN": "Tactics",
+    "Text_FR": "Tactics"
   },
   {
-    "Id": "G_065_DESC",
-    "Text": "This increases each round and when you travel. If you reach 50 Threat, your Quest fails. ",
-    "Text_CN": "This increases each round and when you travel. If you reach 50 Threat, your Quest fails. ",
-    "Text_FR": "Elle augmente à chaque tour et quand vous voyagez. Si vous atteignez 50 en Menace, votre quête échoue. "
+    "Id": "G_052_DESC",
+    "Text": "This increases each round and when you travel. If you reach 50 Threat, your Quest fails!",
+    "Text_CN": "This increases each round and when you travel. If you reach 50 Threat, your Quest fails!",
+    "Text_FR": "This increases each round and when you travel. If you reach 50 Threat, your Quest fails!"
   },
   {
-    "Id": "G_065_TERM",
+    "Id": "G_052_TERM",
     "Text": "Threat",
     "Text_CN": "Threat",
-    "Text_FR": "Menace"
+    "Text_FR": "Threat"
   },
   {
-    "Id": "G_066_DESC",
-    "Text": "This tracks the level of risk you take during a Quest. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, you fail the Quest. ",
-    "Text_CN": "This tracks the level of risk you take during a Quest. Your Threat increases at the end of each round and when you travel. If you reach 50 Threat, you fail the Quest. ",
-    "Text_FR": "Elle suit le niveau de risque que vous prenez durant une quête. Votre niveau de Menace augmente à la fin de chaque tour et quand vous voyagez. Si vous atteignez 50 en menace, votre quête échoue. "
+    "Id": "G_053_DESC",
+    "Text": "This tracks the amount of risk you take during a Quest",
+    "Text_CN": "This tracks the amount of risk you take during a Quest",
+    "Text_FR": "This tracks the amount of risk you take during a Quest"
   },
   {
-    "Id": "G_066_TERM",
+    "Id": "G_053_TERM",
     "Text": "Threat Meter",
-    "Text_CN": "装备",
-    "Text_FR": "Jauge de Menace"
+    "Text_CN": "Threat Meter",
+    "Text_FR": "Threat Meter"
   },
   {
-    "Id": "G_067_DESC",
-    "Text": "This number applies from each Hero to the Threat meter at the start of the Quest.",
-    "Text_CN": "This number applies from each Hero to the Threat meter at the start of the Quest.",
-    "Text_FR": "Ce chiffre, lié à chaque héros, s'ajoute à la Jauge de Menace en début de quête."
+    "Id": "G_054_DESC",
+    "Text": "The number on the upper left of each Hero card that adds to the Threat meter when starting a Quest",
+    "Text_CN": "The number on the upper left of each Hero card that adds to the Threat meter when starting a Quest",
+    "Text_FR": "The number on the upper left of each Hero card that adds to the Threat meter when starting a Quest"
   },
   {
-    "Id": "G_067_TERM",
+    "Id": "G_054_TERM",
     "Text": "Threat Value",
-    "Text_CN": "装备",
-    "Text_FR": "Niveau de Menace"
+    "Text_CN": "Threat Value",
+    "Text_FR": "Threat Value"
   },
   {
-    "Id": "G_068_DESC",
-    "Text": "Some cards have traits which indicate certain behavior or restrictions.",
-    "Text_CN": "关键词。拥有此关键词的人物不会在执行首次行动后便进入行动完毕状态。 ",
-    "Text_FR": "Certaines cartes possèdent des traits, induisant un certain comportement ou des restrictions."
+    "Id": "G_055_DESC",
+    "Text": "Some cards have traits which indicate certain behavior or restrictions",
+    "Text_CN": "Some cards have traits which indicate certain behavior or restrictions",
+    "Text_FR": "Some cards have traits which indicate certain behavior or restrictions"
   },
   {
-    "Id": "G_068_TERM",
+    "Id": "G_055_TERM",
     "Text": "Trait",
-    "Text_CN": "警惕",
+    "Text_CN": "Trait",
     "Text_FR": "Trait"
   },
   {
-    "Id": "G_069_DESC",
+    "Id": "G_056_DESC",
     "Text": "Indicates unrevealed Treachery cards",
     "Text_CN": "Indicates unrevealed Treachery cards",
-    "Text_FR": "Indique les cartes Traîtrise cachées"
+    "Text_FR": "Indicates unrevealed Treachery cards"
   },
   {
-    "Id": "G_069_TERM",
+    "Id": "G_056_TERM",
     "Text": "Treachery Sockets",
     "Text_CN": "Treachery Sockets",
-    "Text_FR": "Emplacements de Traîtrise"
+    "Text_FR": "Treachery Sockets"
   },
   {
-    "Id": "G_070_DESC",
-    "Text": "The ability triggers at the start of the round",
-    "Text_CN": "The ability triggers at the start of the round",
-    "Text_FR": "The ability triggers at the start of the round"
+    "Id": "G_057_DESC",
+    "Text": "At the start of each round, you and Sauron gain Resources and draw cards automatically. Certain abilities may also activate",
+    "Text_CN": "At the start of each round, you and Sauron gain Resources and draw cards automatically. Certain abilities may also activate",
+    "Text_FR": "At the start of each round, you and Sauron gain Resources and draw cards automatically. Certain abilities may also activate"
   },
   {
-    "Id": "G_070_TERM",
+    "Id": "G_057_TERM",
     "Text": "Upkeep",
-    "Text_CN": "诺多精灵",
-    "Text_FR": "Entretien"
+    "Text_CN": "Upkeep",
+    "Text_FR": "Upkeep"
   },
   {
-    "Id": "G_071_DESC",
-    "Text": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more. ",
-    "Text_CN": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more. ",
-    "Text_FR": "Récompenses du jeu que vous pouvez dépenser pour obtenir des quêtes, des héros, des cartes, des avatars et bien plus encore. "
+    "Id": "G_058_DESC",
+    "Text": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more",
+    "Text_CN": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more",
+    "Text_FR": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more"
   },
   {
-    "Id": "G_071_TERM",
+    "Id": "G_058_TERM",
     "Text": "Valor Points",
-    "Text_CN": "追逐",
-    "Text_FR": "Points de Vaillance"
+    "Text_CN": "Valor Points",
+    "Text_FR": "Valor Points"
   },
   {
-    "Id": "G_072_DESC",
-    "Text": "The ability triggers upon defeating a target",
-    "Text_CN": "The ability triggers upon defeating a target",
-    "Text_FR": "The ability triggers upon defeating a target"
+    "Id": "G_059_DESC",
+    "Text": "An Attachment type that provides some benefit when attacking. A Character can have only one Attachment of each type at a time",
+    "Text_CN": "An Attachment type that provides some benefit when attacking. A Character can have only one Attachment of each type at a time",
+    "Text_FR": "An Attachment type that provides some benefit when attacking. A Character can have only one Attachment of each type at a time"
   },
   {
-    "Id": "G_072_TERM",
-    "Text": "Vanquish",
-    "Text_CN": "防护",
-    "Text_FR": "Vainqueur"
-  },
-  {
-    "Id": "G_073_DESC",
-    "Text": "An Attachment type. A Character can have only one Attachment of each type at a time.",
-    "Text_CN": "An Attachment type. A Character can have only one Attachment of each type at a time.",
-    "Text_FR": "Type d'attachement. Un personnage ne peut avoir qu'un attachement de même type à la fois."
-  },
-  {
-    "Id": "G_073_TERM",
+    "Id": "G_059_TERM",
     "Text": "Weapon",
-    "Text_CN": "武器",
-    "Text_FR": "Arme"
+    "Text_CN": "Weapon",
+    "Text_FR": "Weapon"
   },
   {
-    "Id": "G_074_DESC",
-    "Text": "Effectiveness when engaging an Objective.",
-    "Text_CN": "Effectiveness when engaging an Objective.",
-    "Text_FR": "Efficacité en participant à un objectif."
+    "Id": "G_060_DESC",
+    "Text": "Effectiveness when engaging an Objective",
+    "Text_CN": "Effectiveness when engaging an Objective",
+    "Text_FR": "Effectiveness when engaging an Objective"
   },
   {
-    "Id": "G_074_TERM",
+    "Id": "G_060_TERM",
     "Text": "Willpower",
-    "Text_CN": "领导型",
-    "Text_FR": "Volonté"
+    "Text_CN": "Willpower",
+    "Text_FR": "Willpower"
   },
   {
-    "Id": "G_075_DESC",
-    "Text": "Multiple ability options are available for this card",
-    "Text_CN": "Multiple ability options are available for this card",
-    "Text_FR": "Multiple ability options are available for this card"
+    "Id": "T_ROLLOVER_DESC_ARMOR",
+    "Text": "An Attachment type. A Character can have only one Attachment of each type at a time",
+    "Text_CN": "An Attachment type. A Character can have only one Attachment of each type at a time",
+    "Text_FR": "An Attachment type. A Character can have only one Attachment of each type at a time"
   },
   {
-    "Id": "G_075_TERM",
-    "Text": "Choose",
-    "Text_CN": "Choose",
-    "Text_FR": "Choose"
+    "Id": "T_ROLLOVER_DESC_ATTACK",
+    "Text": "Effectiveness when attacking in combat",
+    "Text_CN": "Effectiveness when attacking in combat",
+    "Text_FR": "Effectiveness when attacking in combat"
   },
   {
-    "Id": "G_076_DESC",
+    "Id": "T_ROLLOVER_DESC_AVATAR",
+    "Text": "The icon shown in your profile",
+    "Text_CN": "The icon shown in your profile",
+    "Text_FR": "The icon shown in your profile"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_COST",
+    "Text": "The Resource amount needed to play a card",
+    "Text_CN": "The Resource amount needed to play a card",
+    "Text_FR": "The Resource amount needed to play a card"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_DALE",
+    "Text": "A trait type, which indicates certain behavior or restrictions",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_DECK",
+    "Text": "The cards you use in the Quest. Rollover to see how many remain",
+    "Text_CN": "The cards you use in the Quest. Rollover to see how many remain",
+    "Text_FR": "The cards you use in the Quest. Rollover to see how many remain"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_DEFENSE",
+    "Text": "Activate Guard. Characters with Guard must be\nattacked first. Expires during Upkeep.",
+    "Text_CN": "Activate Guard. Characters with Guard must be\nattacked first. Expires during Upkeep.",
+    "Text_FR": "Activate Guard. Characters with Guard must be\nattacked first. Expires during Upkeep."
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_DUNADAN",
+    "Text": "A trait type, which indicates certain behavior or restrictions",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_EVENT",
+    "Text": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game",
+    "Text_CN": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game",
+    "Text_FR": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_FATE",
+    "Text": "An ability that can unlock special powers unique to each Quest",
+    "Text_CN": "An ability that can unlock special powers unique to each Quest",
+    "Text_FR": "An ability that can unlock special powers unique to each Quest"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_FATEMETER",
+    "Text": "This tracks your total Fate Pool, which can unlock special single-use abilities during your Quest",
+    "Text_CN": "This tracks your total Fate Pool, which can unlock special single-use abilities during your Quest",
+    "Text_FR": "This tracks your total Fate Pool, which can unlock special single-use abilities during your Quest"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_GAMEOPTIONS",
+    "Text": "Select to adjust game settings or to leave the Quest",
+    "Text_CN": "Select to adjust game settings or to leave the Quest",
+    "Text_FR": "Select to adjust game settings or to leave the Quest"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_GLOSSARY",
+    "Text": "Important keywords and terminology",
+    "Text_CN": "Important keywords and terminology",
+    "Text_FR": "Important keywords and terminology"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_GONDOR",
+    "Text": "A trait type, which indicates certain behavior or restrictions",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_HAZARD",
+    "Text": "A task that you may face in the course of a Quest",
+    "Text_CN": "A task that you may face in the course of a Quest",
+    "Text_FR": "A task that you may face in the course of a Quest"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_HEALTH",
+    "Text": "Damage amount that can be suffered before being defeated",
+    "Text_CN": "Damage amount that can be suffered before being defeated",
+    "Text_FR": "Damage amount that can be suffered before being defeated"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_HISTORY",
+    "Text": "Shows recent gameplay actions",
+    "Text_CN": "Shows recent gameplay actions",
+    "Text_FR": "Shows recent gameplay actions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_HOBBIT",
+    "Text": "A trait type, which indicates certain behavior or restrictions",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_ISTAR",
+    "Text": "A trait type, which indicates certain behavior or restrictions.",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions.",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions."
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_LEADERSHIP",
+    "Text": "A Sphere of Influence representing the potential to lead, inspire, and command others",
+    "Text_CN": "A Sphere of Influence representing the potential to lead, inspire, and command others",
+    "Text_FR": "A Sphere of Influence representing the potential to lead, inspire, and command others"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_LORE",
+    "Text": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge",
+    "Text_CN": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge",
+    "Text_FR": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_NOLDOR",
+    "Text": "A trait type, which indicates certain behavior or restrictions",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_OBJECTIVE",
+    "Text": "The primary goal you must resolve before you can advance to the next Location",
+    "Text_CN": "The primary goal you must resolve before you can advance to the next Location",
+    "Text_FR": "The primary goal you must resolve before you can advance to the next Location"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_ORC",
+    "Text": "A trait type, which indicates certain behavior or restrictions",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_PHASEBUTTON",
+    "Text": "Select to advance gameplay",
+    "Text_CN": "Select to advance gameplay",
+    "Text_FR": "Select to advance gameplay"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_PLAYERRESOURCES",
+    "Text": "Used to play cards. Resources refresh during Upkeep",
+    "Text_CN": "Used to play cards. Resources refresh during Upkeep",
+    "Text_FR": "Used to play cards. Resources refresh during Upkeep"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_PREPARATION",
+    "Text": "A trait type, which indicates certain behavior or restrictions",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_PREPARATIONSOCKET",
+    "Text": "Indicate unrevealed Preparation cards",
+    "Text_CN": "Indicate unrevealed Preparation cards",
+    "Text_FR": "Indicate unrevealed Preparation cards"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_QUEST_RESULT_PV",
+    "Text": "A 250+ final score unlocks\nthe +1 Palantír View reward",
+    "Text_CN": "A 250+ final score unlocks\nthe +1 Palantír View reward",
+    "Text_FR": "A 250+ final score unlocks\nthe +1 Palantír View reward"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_QUEST_RESULT_VP",
+    "Text": "A 200+ final score unlocks\nthe +50 Valor Points reward",
+    "Text_CN": "A 200+ final score unlocks\nthe +50 Valor Points reward",
+    "Text_FR": "A 200+ final score unlocks\nthe +50 Valor Points reward"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_QUESTVALUE",
+    "Text": "The total Willpower amount required to resolve an Objective",
+    "Text_CN": "The total Willpower amount required to resolve an Objective",
+    "Text_FR": "The total Willpower amount required to resolve an Objective"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_RESOURCES",
+    "Text": "Spent to play cards. Resources refresh during Upkeep",
+    "Text_CN": "Spent to play cards. Resources refresh during Upkeep",
+    "Text_FR": "Spent to play cards. Resources refresh during Upkeep"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_ROHAN",
+    "Text": "A trait type, which indicates certain behavior or restrictions",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_SAURONRESOURCES",
+    "Text": "Used to play cards. Resources refresh during Upkeep",
+    "Text_CN": "Used to play cards. Resources refresh during Upkeep",
+    "Text_FR": "Used to play cards. Resources refresh during Upkeep"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_SILVAN",
+    "Text": "A trait type, which indicates certain behavior or restrictions",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_SPECIAL",
+    "Text": "An Attachment type. A Character can have only one Attachment of each type at a time",
+    "Text_CN": "An Attachment type. A Character can have only one Attachment of each type at a time",
+    "Text_FR": "An Attachment type. A Character can have only one Attachment of each type at a time"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_SPIRIT",
+    "Text": "A Sphere of Influence encompassing strength of will and aspects of the supernatural",
+    "Text_CN": "A Sphere of Influence encompassing strength of will and aspects of the supernatural",
+    "Text_FR": "A Sphere of Influence encompassing strength of will and aspects of the supernatural"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_TACTICS",
+    "Text": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat",
+    "Text_CN": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat",
+    "Text_FR": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_THREAT",
+    "Text": "This increases each round and when you travel. If you reach 50 Threat, your Quest fails",
+    "Text_CN": "This increases each round and when you travel. If you reach 50 Threat, your Quest fails",
+    "Text_FR": "This increases each round and when you travel. If you reach 50 Threat, your Quest fails"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_THREATMETER",
+    "Text": "This tracks the amount of risk you take during a Quest. If you reach 50 Threat, your Quest fails",
+    "Text_CN": "This tracks the amount of risk you take during a Quest. If you reach 50 Threat, your Quest fails",
+    "Text_FR": "This tracks the amount of risk you take during a Quest. If you reach 50 Threat, your Quest fails"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_THREATVALUE",
+    "Text": "The number from each Hero that adds to the Threat meter when starting a Quest",
+    "Text_CN": "The number from each Hero that adds to the Threat meter when starting a Quest",
+    "Text_FR": "The number from each Hero that adds to the Threat meter when starting a Quest"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_TREACHERYSOCKET",
+    "Text": "Indicates unrevealed Treachery cards",
+    "Text_CN": "Indicates unrevealed Treachery cards",
+    "Text_FR": "Indicates unrevealed Treachery cards"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_WEAPON",
+    "Text": "An Attachment type. A Character can have only one Attachment of each type at a time",
+    "Text_CN": "An Attachment type. A Character can have only one Attachment of each type at a time",
+    "Text_FR": "An Attachment type. A Character can have only one Attachment of each type at a time"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_WILLPOWER",
+    "Text": "Effectiveness when engaging an Objective",
+    "Text_CN": "Effectiveness when engaging an Objective",
+    "Text_FR": "Effectiveness when engaging an Objective"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_ARMOR",
+    "Text": "<b>Armor</b>",
+    "Text_CN": "<b>Armor</b>",
+    "Text_FR": "<b>Armor</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_ATTACK",
+    "Text": "<b>Attack</b>",
+    "Text_CN": "<b>Attack</b>",
+    "Text_FR": "<b>Attack</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_AVATAR",
+    "Text": "<b>Avatar</b>",
+    "Text_CN": "<b>Avatar</b>",
+    "Text_FR": "<b>Avatar</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_COST",
+    "Text": "<b>Cost</b>",
+    "Text_CN": "<b>Cost</b>",
+    "Text_FR": "<b>Cost</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_DALE",
+    "Text": "<b>Dale</b>",
+    "Text_CN": "<b>Dale</b>",
+    "Text_FR": "<b>Dale</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_DECK",
+    "Text": "<b>Deck</b>",
+    "Text_CN": "<b>Deck</b>",
+    "Text_FR": "<b>Deck</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_DEFENSE",
+    "Text": "<b>Defense</b>",
+    "Text_CN": "<b>Defense</b>",
+    "Text_FR": "<b>Defense</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_DUNADAN",
+    "Text": "<b>Dúnadan</b>",
+    "Text_CN": "<b>Dúnadan</b>",
+    "Text_FR": "<b>Dúnadan</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_EVENT",
+    "Text": "<b>Event</b>",
+    "Text_CN": "<b>Event</b>",
+    "Text_FR": "<b>Event</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_FATE",
+    "Text": "<b>Fate</b>",
+    "Text_CN": "<b>Fate</b>",
+    "Text_FR": "<b>Fate</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_FATEMETER",
+    "Text": "<b>Fate Meter</b>",
+    "Text_CN": "<b>Fate Meter</b>",
+    "Text_FR": "<b>Fate Meter</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_GAMEOPTIONS",
+    "Text": "<b>Game Options</b>",
+    "Text_CN": "<b>Game Options</b>",
+    "Text_FR": "<b>Game Options</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_GLOSSARY",
+    "Text": "<b>Glossary</b>",
+    "Text_CN": "<b>Glossary</b>",
+    "Text_FR": "<b>Glossary</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_GONDOR",
+    "Text": "<b>Gondor</b>",
+    "Text_CN": "<b>Gondor</b>",
+    "Text_FR": "<b>Gondor</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_HAZARD",
+    "Text": "<b>Hazard</b>",
+    "Text_CN": "<b>Hazard</b>",
+    "Text_FR": "<b>Hazard</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_HEALTH",
+    "Text": "<b>Health</b>",
+    "Text_CN": "<b>Health</b>",
+    "Text_FR": "<b>Health</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_HISTORY",
+    "Text": "<b>History</b>",
+    "Text_CN": "<b>History</b>",
+    "Text_FR": "<b>History</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_HOBBIT",
+    "Text": "<b>Hobbit</b>",
+    "Text_CN": "<b>Hobbit</b>",
+    "Text_FR": "<b>Hobbit</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_ISTAR",
+    "Text": "<b>Istar</b>",
+    "Text_CN": "<b>Istar</b>",
+    "Text_FR": "<b>Istar</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_LEADERSHIP",
+    "Text": "<b>Leadership</b>",
+    "Text_CN": "<b>Leadership</b>",
+    "Text_FR": "<b>Leadership</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_LORE",
+    "Text": "<b>Lore</b>",
+    "Text_CN": "<b>Lore</b>",
+    "Text_FR": "<b>Lore</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_NOLDOR",
+    "Text": "<b>Noldor</b>",
+    "Text_CN": "<b>Noldor</b>",
+    "Text_FR": "<b>Noldor</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_OBJECTIVE",
+    "Text": "<b>Objective</b>",
+    "Text_CN": "<b>Objective</b>",
+    "Text_FR": "<b>Objective</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_ORC",
+    "Text": "<b>Orc</b>",
+    "Text_CN": "<b>Orc</b>",
+    "Text_FR": "<b>Orc</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_PHASEBUTTON",
+    "Text": "<b>Phase Button</b>",
+    "Text_CN": "<b>Phase Button</b>",
+    "Text_FR": "<b>Phase Button</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_PLAYERRESOURCES",
+    "Text": "<b>Player Resources</b>",
+    "Text_CN": "<b>Player Resources</b>",
+    "Text_FR": "<b>Player Resources</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_PREPARATION",
+    "Text": "<b>Preparation</b>",
+    "Text_CN": "<b>Preparation</b>",
+    "Text_FR": "<b>Preparation</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_PREPARATIONSOCKET",
+    "Text": "<b>Preparation Sockets</b>",
+    "Text_CN": "<b>Preparation Sockets</b>",
+    "Text_FR": "<b>Preparation Sockets</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_QUESTVALUE",
+    "Text": "<b>Quest Value</b>",
+    "Text_CN": "<b>Quest Value</b>",
+    "Text_FR": "<b>Quest Value</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_RESOURCES",
+    "Text": "<b>Resources</b>",
+    "Text_CN": "<b>Resources</b>",
+    "Text_FR": "<b>Resources</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_ROHAN",
+    "Text": "<b>Rohan</b>",
+    "Text_CN": "<b>Rohan</b>",
+    "Text_FR": "<b>Rohan</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_SAURONRESOURCES",
+    "Text": "<b>Sauron Resources</b>",
+    "Text_CN": "<b>Sauron Resources</b>",
+    "Text_FR": "<b>Sauron Resources</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_SILVAN",
+    "Text": "<b>Silvan</b>",
+    "Text_CN": "<b>Silvan</b>",
+    "Text_FR": "<b>Silvan</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_SPECIAL",
+    "Text": "<b>Special</b>",
+    "Text_CN": "<b>Special</b>",
+    "Text_FR": "<b>Special</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_SPIRIT",
+    "Text": "<b>Spirit</b>",
+    "Text_CN": "<b>Spirit</b>",
+    "Text_FR": "<b>Spirit</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_TACTICS",
+    "Text": "<b>Tactics</b>",
+    "Text_CN": "<b>Tactics</b>",
+    "Text_FR": "<b>Tactics</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_THREAT",
+    "Text": "<b>Threat</b>",
+    "Text_CN": "<b>Threat</b>",
+    "Text_FR": "<b>Threat</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_THREATMETER",
+    "Text": "<b>Threat Meter</b>",
+    "Text_CN": "<b>Threat Meter</b>",
+    "Text_FR": "<b>Threat Meter</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_THREATVALUE",
+    "Text": "<b>Threat Value</b>",
+    "Text_CN": "<b>Threat Value</b>",
+    "Text_FR": "<b>Threat Value</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_TREACHERYSOCKET",
+    "Text": "<b>Treachery Sockets</b>",
+    "Text_CN": "<b>Treachery Sockets</b>",
+    "Text_FR": "<b>Treachery Sockets</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_WEAPON",
+    "Text": "<b>Weapon</b>",
+    "Text_CN": "<b>Weapon</b>",
+    "Text_FR": "<b>Weapon</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_WILLPOWER",
+    "Text": "<b>Willpower</b>",
+    "Text_CN": "<b>Willpower</b>",
+    "Text_FR": "<b>Willpower</b>"
+  },
+  {
+    "Id": "K_AMBUSH_TERM",
+    "Text": "<b>Ambush</b>",
+    "Text_CN": "<b>Ambush</b>",
+    "Text_FR": "<b>Ambush</b>"
+  },
+  {
+    "Id": "K_ARRIVAL_TERM",
+    "Text": "<b>Arrival</b>",
+    "Text_CN": "<b>Arrival</b>",
+    "Text_FR": "<b>Arrival</b>"
+  },
+  {
+    "Id": "K_BLOCK_TERM",
+    "Text": "<b>Block</b>",
+    "Text_CN": "<b>Block</b>",
+    "Text_FR": "<b>Block</b>"
+  },
+  {
+    "Id": "K_COUNTER_TERM",
+    "Text": "<b>Counter</b>",
+    "Text_CN": "<b>Counter</b>",
+    "Text_FR": "<b>Counter</b>"
+  },
+  {
+    "Id": "K_FLEETING_TERM",
+    "Text": "<b>Fleeting</b>",
+    "Text_CN": "<b>Fleeting</b>",
+    "Text_FR": "<b>Fleeting</b>"
+  },
+  {
+    "Id": "K_GUARD_TERM",
+    "Text": "<b>Guard</b>",
+    "Text_CN": "<b>Guard</b>",
+    "Text_FR": "<b>Guard</b>"
+  },
+  {
+    "Id": "K_POWER_TERM",
+    "Text": "<b>Power</b>",
+    "Text_CN": "<b>Power</b>",
+    "Text_FR": "<b>Power</b>"
+  },
+  {
+    "Id": "K_PURSUIT_TERM",
+    "Text": "<b>Pursuit</b>",
+    "Text_CN": "<b>Pursuit</b>",
+    "Text_FR": "<b>Pursuit</b>"
+  },
+  {
+    "Id": "K_RANGED_TERM",
+    "Text": "<b>Ranged</b>",
+    "Text_CN": "<b>Ranged</b>",
+    "Text_FR": "<b>Ranged</b>"
+  },
+  {
+    "Id": "K_REVENGE_TERM",
+    "Text": "<b>Revenge</b>",
+    "Text_CN": "<b>Revenge</b>",
+    "Text_FR": "<b>Revenge</b>"
+  },
+  {
+    "Id": "K_STALWART_TERM",
+    "Text": "<b>Stalwart</b>",
+    "Text_CN": "<b>Stalwart</b>",
+    "Text_FR": "<b>Stalwart</b>"
+  },
+  {
+    "Id": "K_STEALTH_TERM",
+    "Text": "<b>Stealth</b>",
+    "Text_CN": "<b>Stealth</b>",
+    "Text_FR": "<b>Stealth</b>"
+  },
+  {
+    "Id": "K_SURGE_TERM",
+    "Text": "<b>Surge</b>",
+    "Text_CN": "<b>Surge</b>",
+    "Text_FR": "<b>Surge</b>"
+  },
+  {
+    "Id": "K_VANQUISH_TERM",
+    "Text": "<b>Vanquish</b>",
+    "Text_CN": "<b>Vanquish</b>",
+    "Text_FR": "<b>Vanquish</b>"
+  },
+  {
+    "Id": "K_AMBUSH_DESC",
+    "Text": "The attack ignores <b>Block</b> and <b>Counter</b>",
+    "Text_CN": "The attack ignores <b>Block</b> and <b>Counter</b>",
+    "Text_FR": "The attack ignores <b>Block</b> and <b>Counter</b>"
+  },
+  {
+    "Id": "K_ARRIVAL_DESC",
+    "Text": "The ability triggers when this card enters play",
+    "Text_CN": "The ability triggers when this card enters play",
+    "Text_FR": "The ability triggers when this card enters play"
+  },
+  {
+    "Id": "K_BLOCK_DESC",
+    "Text": "Reduces by 1 the damage taken from each attack",
+    "Text_CN": "Reduces by 1 the damage taken from each attack",
+    "Text_FR": "Reduces by 1 the damage taken from each attack"
+  },
+  {
+    "Id": "K_COUNTER_DESC",
     "Text": "This card deals 1 damage when defending against melee attacks. (Does not apply to ranged attacks)",
     "Text_CN": "This card deals 1 damage when defending against melee attacks. (Does not apply to ranged attacks)",
     "Text_FR": "This card deals 1 damage when defending against melee attacks. (Does not apply to ranged attacks)"
   },
   {
-    "Id": "G_076_TERM",
-    "Text": "Counter",
-    "Text_CN": "Counter",
-    "Text_FR": "Counter"
+    "Id": "K_FLEETING_DESC",
+    "Text": "This card is removed at the end of the round",
+    "Text_CN": "This card is removed at the end of the round",
+    "Text_FR": "This card is removed at the end of the round"
+  },
+  {
+    "Id": "K_GUARD_DESC",
+    "Text": "This card must be defeated before engaging an Objective or attacking another enemy.  A card with <b>Stealth</b> cannot <b>Guard</b>.",
+    "Text_CN": "This card must be defeated before engaging an Objective or attacking another enemy.  A card with <b>Stealth</b> cannot <b>Guard</b>.",
+    "Text_FR": "This card must be defeated before engaging an Objective or attacking another enemy.  A card with <b>Stealth</b> cannot <b>Guard</b>."
+  },
+  {
+    "Id": "K_POWER_DESC",
+    "Text": "An ability that you may choose to activate",
+    "Text_CN": "An ability that you may choose to activate",
+    "Text_FR": "An ability that you may choose to activate"
+  },
+  {
+    "Id": "K_PURSUIT_DESC",
+    "Text": "This card follows your Heroes from one Location to the next",
+    "Text_CN": "This card follows your Heroes from one Location to the next",
+    "Text_FR": "This card follows your Heroes from one Location to the next"
+  },
+  {
+    "Id": "K_RANGED_DESC",
+    "Text": "This card ignores <b>Guard</b> and <b>Counter</b> when attacking",
+    "Text_CN": "This card ignores <b>Guard</b> and <b>Counter</b> when attacking",
+    "Text_FR": "This card ignores <b>Guard</b> and <b>Counter</b> when attacking"
+  },
+  {
+    "Id": "K_REVENGE_DESC",
+    "Text": "The ability triggers when this card is defeated",
+    "Text_CN": "The ability triggers when this card is defeated",
+    "Text_FR": "The ability triggers when this card is defeated"
+  },
+  {
+    "Id": "K_STALWART_DESC",
+    "Text": "This card does not exhaust after the first action each round",
+    "Text_CN": "This card does not exhaust after the first action each round",
+    "Text_FR": "This card does not exhaust after the first action each round"
+  },
+  {
+    "Id": "K_STEALTH_DESC",
+    "Text": "While the ability is active, this card cannot be attacked and ignores <b>Guard</b> when targeting Enemies and Objectives.  An exhausted card cannot have <b>Stealth</b> active. A card with <b>Stealth</b> cannot <b>Guard</b>.",
+    "Text_CN": "While the ability is active, this card cannot be attacked and ignores <b>Guard</b> when targeting Enemies and Objectives.  An exhausted card cannot have <b>Stealth</b> active. A card with <b>Stealth</b> cannot <b>Guard</b>.",
+    "Text_FR": "While the ability is active, this card cannot be attacked and ignores <b>Guard</b> when targeting Enemies and Objectives.  An exhausted card cannot have <b>Stealth</b> active. A card with <b>Stealth</b> cannot <b>Guard</b>."
+  },
+  {
+    "Id": "K_SURGE_DESC",
+    "Text": "Gain an immediate action after this card is played",
+    "Text_CN": "Gain an immediate action after this card is played",
+    "Text_FR": "Gain an immediate action after this card is played"
+  },
+  {
+    "Id": "K_VANQUISH_DESC",
+    "Text": "The ability triggers upon defeating a target",
+    "Text_CN": "The ability triggers upon defeating a target",
+    "Text_FR": "The ability triggers upon defeating a target"
   },
   {
     "Id": "Q_CAMPAIGN_DEMO_NAME",
