@@ -1,17 +1,17 @@
 {
   "CardData": {
-    "Id": "DistractingCall",
+    "Id": "AAThreatReduceOne",
     "Owner": "Player",
-    "CardType": 10,
+    "CardType": 4,
     "ShopType": "",
-    "Cost": 6,
+    "Cost": 0,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "Fate",
+    "Trait": "",
     "Rarity": 0,
-    "Sphere": 2,
+    "Sphere": 0,
     "SphereLevel": 0,
     "Revision": null,
     "PlayVFX": "",
@@ -22,7 +22,7 @@
     "DeathSFX": "",
     "FlavorText": "",
     "ArtistName": "",
-    "Status": "WIP",
+    "Status": "",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
     "CardScale": 1.0,
@@ -37,7 +37,7 @@
     "IconMD5": null
   },
   "Localization": {
-    "Title": "Distracting Call",
-    "Text": "<i>You distract your foes with a well-timed call.</i>\n\nAll Enemies lose <b>Pursuit</b> in this Location"
+    "Title": "Reduce 1 Threat",
+    "Text": "Reduce 1 Threat"
   }
 }

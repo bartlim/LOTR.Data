@@ -4,7 +4,7 @@
     "Owner": "Player",
     "CardType": 0,
     "ShopType": "HeroPack_UnsungHero",
-    "Cost": 0,
+    "Cost": 3,
     "QuestPoints": 0,
     "Attack": 1,
     "Willpower": 1,
@@ -31,7 +31,7 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null

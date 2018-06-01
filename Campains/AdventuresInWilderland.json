@@ -263,11 +263,11 @@
           "Threshold": 1
         },
         {
-          "Id": "WaveofFear",
+          "Id": "Poisoned",
           "Threshold": 2
         },
         {
-          "Id": "Poisoned",
+          "Id": "WaveOfFear",
           "Threshold": 3
         }
       ],
@@ -932,7 +932,12 @@
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme",
-          "FateCardList": null
+          "FateCardList": [
+            {
+              "Id": "SavedByTheBeornings",
+              "Threshold": 6
+            }
+          ]
         }
       ],
       "SauronDeck": [

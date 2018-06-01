@@ -4,7 +4,7 @@
     "Owner": "Player",
     "CardType": 0,
     "ShopType": "Valor",
-    "Cost": 2,
+    "Cost": 1,
     "QuestPoints": 0,
     "Attack": 1,
     "Willpower": 1,
@@ -31,6 +31,7 @@
     "CameoScale": 0.95,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "69eaf789a6ffce88275e668b9b81a2b9",
     "BannerMD5": null,
     "IconMD5": "7aa1fec2f492970c15ac32b03f94ab07"

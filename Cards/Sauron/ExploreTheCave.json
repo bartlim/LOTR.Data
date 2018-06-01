@@ -9,7 +9,7 @@
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "",
+    "Trait": "Main",
     "Rarity": 0,
     "Sphere": 2,
     "SphereLevel": 0,
@@ -31,6 +31,7 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "0d532c9c97a82ed41faf71d2bcf75439",
     "BannerMD5": null,
     "IconMD5": "876ee1376aaa8c46e2e9ab979f5cf77b"

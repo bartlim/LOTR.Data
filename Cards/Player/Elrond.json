@@ -7,10 +7,10 @@
     "Cost": 10,
     "QuestPoints": 0,
     "Attack": 2,
-    "Willpower": 2,
+    "Willpower": 3,
     "Health": 10,
     "Trait": "Noldor",
-    "Rarity": 0,
+    "Rarity": 5,
     "Sphere": 1,
     "SphereLevel": 0,
     "Revision": "test",
@@ -31,13 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "ComboList": [],
     "ArtworkMD5": "38ddaa4a48becfb05764aea293832732",
     "BannerMD5": null,
     "IconMD5": "d818ae93fdd635587a413ac13ebe0cfd"
   },
   "Localization": {
     "Title": "‰Elrond",
-    "Text": "<i>Ability pending</i>"
+    "Text": "<b>End of Round</b>: Look at the top card of your deck. <b>Choose</b>: Keep it on top, send it to the bottom"
   }
 }
