@@ -352,19 +352,19 @@
         "Threshold": 1
       },
       {
-        "Id": "WaveofFear",
+        "Id": "Poisoned",
         "Threshold": 2
       },
       {
-        "Id": "Poisoned",
+        "Id": "WaveOfFear",
         "Threshold": 3
       }
     ],
     "AIBehavior": null
   },
-  "Version": "20180529093354777",
+  "Version": "20180601101610026",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180529093354777"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180601101610026"
 }
