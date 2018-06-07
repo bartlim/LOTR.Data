@@ -10991,7 +10991,7 @@
   },
   {
     "Id": "C_RANGERSCACHE_TEXT",
-    "Text": "<i>Following the Rangers' signs, you uncover a welcome cache of goods.</i>\n\nGain +2 <size=120%><sprite=3></size>"
+    "Text": "<line-height=50%><i>Following the Rangers' signs, you uncover a welcome cache of goods.</i>\n</line-height>\nGain +2 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_RANGERSCACHE_FLAVOR",
