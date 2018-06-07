@@ -11649,7 +11649,7 @@
   },
   {
     "Id": "C_LIGHTTHETORCHES_TEXT",
-    "Text": "<i>A foe stands revealed in your torchlight!</i>\n\n<b>Upkeep</b>: Deal 1 damage to an Enemy (limit 3 uses)"
+    "Text": "<line-height=50%><i>A foe stands revealed in your torchlight!</i>\n</line-height>\n<b>Upkeep</b>: Deal 1 damage to an Enemy (limit 3 uses)"
   },
   {
     "Id": "C_LIGHTTHETORCHES_FLAVOR",
