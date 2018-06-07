@@ -31,13 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": "fd6ab58639534e0aad66ffbdbdc57ad1"
   },
   "Localization": {
     "Title": "Board the Raft",
-    "Text": "<size=95%>[Cannot engage while\n<i>Hill Troll</i> is in play.]</size>\nYou may travel from\nthis Location"
+    "Text": "<size=95%>[Cannot engage with\n<i>Hill Troll</i> in play.]</size>\nWhen this is resolved, you may travel from this Location"
   }
 }
