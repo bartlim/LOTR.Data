@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": "404298ed4f6fa1252bcee22c353a2afa"
   },
   "Localization": {
     "Title": "Accursed Forest",
-    "Text": "<b>Upkeep</b>: Discard the top 3 cards from each player's deck"
+    "Text": "<b>Upkeep</b>: Discard the top 3 cards from each player's deck until \nthis is resolved"
   }
 }
