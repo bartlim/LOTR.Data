@@ -4741,7 +4741,7 @@
   },
   {
     "Id": "C_AMBUSHONTHESHORE_TEXT",
-    "Text": "<size=95%>[Cannot engage while \nnon-<b>Stealth</b> Enemies are in play.]</size>\n<b>Upkeep</b>: Sauron gains +1 <size=120%><sprite=3></size> \nper player"
+    "Text": "<size=95%>[Can't engage with\nnon-<b>Stealth</b> Enemies in play.]</size>\n<b>Upkeep</b>: Sauron gains +1 <size=120%><sprite=3></size> \nper player until resolved"
   },
   {
     "Id": "C_AMBUSHONTHESHORE_TITLE",
