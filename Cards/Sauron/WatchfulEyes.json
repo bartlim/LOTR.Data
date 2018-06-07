@@ -31,12 +31,13 @@
     "CameoScale": 0.89,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "c777a31d4500e27bc68dae42081893c5",
     "BannerMD5": "4cc756e63a05ea798860095ff4b302fc",
     "IconMD5": "71f3a878fc09b54593d67e4d950056d4"
   },
   "Localization": {
     "Title": "Watchful Eyes",
-    "Text": "End of round: Gain +1 <size=120%><sprite=4></size>"
+    "Text": "End of round: Gain +1 <size=120%><sprite=4></size>\nuntil this is resolved"
   }
 }
