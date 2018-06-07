@@ -835,7 +835,7 @@
               "Threshold": 3
             }
           ],
-          "AIBehavior": null
+          "AIBehavior": "AggressiveAI"
         },
         {
           "Id": "JourneyDownTheAnduin",
@@ -1103,7 +1103,7 @@
               "Threshold": 3
             }
           ],
-          "AIBehavior": null
+          "AIBehavior": "AggressiveAI"
         },
         {
           "Id": "ConflictAtTheCarrock",
@@ -1326,7 +1326,7 @@
               "Threshold": 3
             }
           ],
-          "AIBehavior": null
+          "AIBehavior": "AggressiveAI"
         }
       ]
     },
