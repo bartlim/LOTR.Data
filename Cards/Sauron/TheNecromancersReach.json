@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "c44cc125c91eae7a6ab4bf3e7841fd43",
     "BannerMD5": null,
     "IconMD5": "2e0fef349d70fcec68739831c69b545b"
   },
   "Localization": {
     "Title": "The Necromancer's Reach",
-    "Text": "<line-height=100%>All Enemies gain +1 <size=120%><sprite=0></size> permanently"
+    "Text": "<line-height=100%>All Enemies in play gain \n+1 <size=120%><sprite=0></size> on this Quest"
   }
 }
