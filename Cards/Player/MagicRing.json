@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": "b1a245bb990e9322f0a2091d4df9cbca"
   },
   "Localization": {
     "Title": "Magic Ring",
-    "Text": "<line-height=100%><b>Power</b>: Gain +1 <size=120%><sprite=4></size> and\n<b>Choose</b>: Gain +1 <size=120%><sprite=3></size>; or restore \n1 <size=120%><sprite=2></size> to attached Character"
+    "Text": "<line-height=100%><b>Power</b>: Gain +1 <size=120%><sprite=4></size>; then\n<b>choose</b>: Gain +1 <size=120%><sprite=3></size>; or restore \n1 <size=120%><sprite=2></size> to attached Character"
   }
 }
