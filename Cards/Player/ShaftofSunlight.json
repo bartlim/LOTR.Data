@@ -38,6 +38,6 @@
   },
   "Localization": {
     "Title": "Shaft of Sunlight",
-    "Text": "<i>A rare patch of sun illuminates the way forward.</i>\n\nLose 4 <size=120%><sprite=4></size>"
+    "Text": "<line-height=50%><i>A rare patch of sun illuminates the way forward.</i>\n</line-height>\nLose 4 <size=120%><sprite=4></size>"
   }
 }
