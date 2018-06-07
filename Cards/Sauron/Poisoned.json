@@ -38,6 +38,6 @@
   },
   "Localization": {
     "Title": "Poisoned!",
-    "Text": "<i>One of your Heroes is poisoned!</i>\n\n<b>Upkeep</b>: Deal 1 damage to the same random Hero for this Quest"
+    "Text": "<line-height=50%><i>One of your Heroes is poisoned!</i>\n</line-height>\nA single random Hero suffers 1 damage during Upkeep on this Quest"
   }
 }
