@@ -385,7 +385,7 @@
   },
   {
     "Id": "U_PALANTIR_SELECT_TO_GAZE",
-    "Text": "Gaze into the Palantír",
+    "Text": "Select to gaze into the Palantír",
     "Text_CN": "[C]选中以凝视真知晶石",
     "Text_FR": "Sélectionnez pour regarder dans le Palantír"
   },
@@ -1249,9 +1249,9 @@
   },
   {
     "Id": "U_SHOP_PALANTIRPACK_ITEMS",
-    "Text": "The Palantír is a wondrous object of mysterious ability.\nWhen you gaze into the Palantír, you receive two rewards from the following possibilities:\nValor Points; cards you do not own already; or new cosmetic items",
-    "Text_CN": "[C]The Palantír is a wondrous object of mysterious ability.\nWhen you gaze into the Palantír, you receive two rewards from the following:\nValor Points; cards you do not own already; or new cosmetic items",
-    "Text_FR": "The Palantír is a wondrous object of mysterious ability.\nWhen you gaze into the Palantír, you receive two rewards from the following:\nValor Points; cards you do not own already; or new cosmetic items"
+    "Text": "The Palantír is a wondrous object of mysterious ability.\n\nWhen you gaze into the Palantír, you receive two \nrewards from the following possibilities:\n\nValor Points; cards you do not own already; \nor new cosmetic items",
+    "Text_CN": "[C]The Palantír is a wondrous object of mysterious ability.\n\nWhen you gaze into the Palantír, you receive two \nrewards from the following possibilities:\n\nValor Points; cards you do not own already; \nor new cosmetic items",
+    "Text_FR": "The Palantír is a wondrous object of mysterious ability.\n\nWhen you gaze into the Palantír, you receive two \nrewards from the following possibilities:\n\nValor Points; cards you do not own already; \nor new cosmetic items"
   },
   {
     "Id": "U_SHOP_PALANTIRPACK_PACKS",
@@ -3838,6 +3838,12 @@
     "Text": "CHOOSE",
     "Text_CN": "[C]CHOOSE",
     "Text_FR": "CHOOSE"
+  },
+  {
+    "Id": "U_FATE_NOT_REVEALED",
+    "Text": "This <b>Fate</b> has yet to be revealed.\nAccrue enough <b>Fate</b> points to reveal the effect of this <b>Fate</b>.",
+    "Text_CN": "[C]This <b>Fate</b> has yet to be revealed.\nAccrue enough <b>Fate</b> points to reveal the effect of this <b>Fate</b>.",
+    "Text_FR": "This <b>Fate</b> has yet to be revealed.\nAccrue enough <b>Fate</b> points to reveal the effect of this <b>Fate</b>."
   },
   {
     "Id": "PLACEHOLDER2",
