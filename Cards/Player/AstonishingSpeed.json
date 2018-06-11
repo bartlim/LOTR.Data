@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Astonishing Speed",
-    "Text": "<line-height=100%>All Rohan Characters gain \n+1 <size=120%><sprite=5></size> this round"
+    "Text": "<line-height=100%>All <b><i>Rohan</b></i> Characters gain \n+1 <size=120%><sprite=5></size> this round"
   }
 }
