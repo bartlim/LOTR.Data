@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "d3e0ee13e89e9f47bcd5fd0efeaabb13",
     "BannerMD5": null,
     "IconMD5": "a6b5bf7144111622ff7709d93b8b3736"
   },
   "Localization": {
     "Title": "Ungoliant's Brood",
-    "Text": "<line-height=100%>End of round: All Spiders \ngain +1 <size=120%><sprite=2></size>"
+    "Text": "<line-height=100%>End of round: All <b><i>Spiders</b></i> \ngain +1 <size=120%><sprite=2></size>"
   }
 }
