@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Gondorian Militia",
-    "Text": "<line-height=100%><b>Arrival</b>: Gain +1 <size=120%><sprite=2></size> for each other Gondor Character in play"
+    "Text": "<line-height=100%><b>Arrival</b>: Gain +1 <size=120%><sprite=2></size> for each other <b><i>Gondor</b></i> Character in play"
   }
 }
