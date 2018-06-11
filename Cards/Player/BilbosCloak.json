@@ -31,13 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "ComboList": [],
     "ArtworkMD5": "786fe4d47261f50199ed37b637b4f265",
     "BannerMD5": null,
     "IconMD5": "318e8d5832eba5737031a9580abd1586"
   },
   "Localization": {
     "Title": "‰Bilbo's Cloak",
-    "Text": "<line-height=100%>[Hobbits only.]\n<b>Upkeep</b>: Sauron loses 1 <size=120%><sprite=3></size>"
+    "Text": "<line-height=100%>[<b><i>Hobbits</b></i> only.]\n<b>Upkeep</b>: Sauron loses 1 <size=120%><sprite=3></size>"
   }
 }
