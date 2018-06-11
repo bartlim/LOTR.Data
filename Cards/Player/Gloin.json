@@ -31,13 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "ComboList": [],
     "ArtworkMD5": "e815c2b1a5760adcdf24bb68118afed4",
     "BannerMD5": "e68c87c73e805da244219392ce0c7cfb",
     "IconMD5": null
   },
   "Localization": {
     "Title": "‰Gloin",
-    "Text": "<line-height=100%><b>Power</b>: Lose 1 <sprite=2> to give\nall wounded Dwarf Characters \n+1 <size=120%><sprite=5></size> this round"
+    "Text": "<line-height=100%><b>Power</b>: Lose 1 <sprite=2> to give\nall wounded <b><i>Dwarf</b></i> Characters \n+1 <size=120%><sprite=5></size> this round"
   }
 }
