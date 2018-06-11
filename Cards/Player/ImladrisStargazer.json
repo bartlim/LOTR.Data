@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Imladris Stargazer",
-    "Text": "<line-height=100%><b>Arrival</b>: Discard a Shadow; \nthen lose <size=120%><sprite=4></size> equal to that Shadow's cost"
+    "Text": "<line-height=100%><b>Arrival</b>: Discard a <b><i>Shadow</b></i> Attachment; then lose <size=120%><sprite=4></size> equal \nto its cost"
   }
 }
