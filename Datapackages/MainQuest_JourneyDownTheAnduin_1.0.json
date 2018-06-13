@@ -300,20 +300,14 @@
         "SoloGameSetup": [
           "RiverBend",
           "Rocks",
-          "Rocks",
-          "RangerProvisions"
+          "Rocks"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
           "AmbushOnTheShoreStage"
         ],
-        "FateCardList": [
-          {
-            "Id": "SavedByTheBeornings",
-            "Threshold": 6
-          }
-        ]
+        "FateCardList": []
       },
       {
         "Title": "AmbushOnTheShoreStage",
@@ -369,9 +363,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180613195133290",
+  "Version": "20180613195358366",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180613195133290"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180613195358366"
 }
