@@ -31,12 +31,13 @@
     "CameoScale": 0.9,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "df14e9c287274160c3ee0135cb37b3e2",
     "BannerMD5": null,
     "IconMD5": "66929594119bc676117a38ee1c0a8ec0"
   },
   "Localization": {
     "Title": "‰Beorn",
-    "Text": "<line-height=100%>[Cannot equip Attachments.]\nGain +1 <size=120%><sprite=0></size> for each point\nbelow maximum <size=120%><sprite=2></size>"
+    "Text": "<line-height=100%>Cannot equip Attachments.\nGain +1 <size=120%><sprite=0></size> for each point\nbelow maximum <size=120%><sprite=2></size>"
   }
 }
