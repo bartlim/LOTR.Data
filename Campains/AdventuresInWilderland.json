@@ -900,17 +900,11 @@
           "SoloGameSetup": [
             "RiverBend",
             "Rocks",
-            "Rocks",
-            "RangerProvisions"
+            "Rocks"
           ],
           "NextStageId": "AmbushOnTheShoreStage",
           "BGM": "mus_stream",
-          "FateCardList": [
-            {
-              "Id": "SavedByTheBeornings",
-              "Threshold": 6
-            }
-          ]
+          "FateCardList": []
         },
         {
           "Id": "AmbushOnTheShoreStage",
