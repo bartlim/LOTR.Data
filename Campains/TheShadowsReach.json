@@ -18,7 +18,6 @@
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "TheShadowsReachQuest01TheSpidersGladeIntroSprite",
           "SoloGameSetup": [
-            "FollowTheSpiders",
             "ForestSpider",
             "SpiderGuard",
             "ForestSpider"
@@ -77,36 +76,96 @@
           "Amount": 2
         },
         {
-          "Id": "DolGuldurOrcs",
-          "Amount": 2
+          "Id": "HatchlingSpider",
+          "Amount": 3
         },
         {
-          "Id": "EastBightPatrol",
-          "Amount": 2
-        },
-        {
-          "Id": "Enfeebled",
-          "Amount": 2
+          "Id": "CreatureOfDarkness",
+          "Amount": 1
         },
         {
           "Id": "DrivenByShadow",
           "Amount": 2
         },
         {
-          "Id": "GoblinSniper",
+          "Id": "EyesOfTheForest",
+          "Amount": 1
+        },
+        {
+          "Id": "ForestSpider",
           "Amount": 2
         },
         {
-          "Id": "MirkwoodPatrol",
+          "Id": "GrowingDarkness",
+          "Amount": 1
+        },
+        {
+          "Id": "MirkwoodFlock",
           "Amount": 2
+        },
+        {
+          "Id": "TreacherousFog",
+          "Amount": 1
+        },
+        {
+          "Id": "UnderTheShadow",
+          "Amount": 1
+        },
+        {
+          "Id": "Enfeebled",
+          "Amount": 2
+        },
+        {
+          "Id": "EvilStorm",
+          "Amount": 1
+        },
+        {
+          "Id": "GreedyFingers",
+          "Amount": 1
+        },
+        {
+          "Id": "Hummerhorns",
+          "Amount": 1
+        },
+        {
+          "Id": "MuckAdder",
+          "Amount": 1
+        },
+        {
+          "Id": "PoisonedBySpiders",
+          "Amount": 1
         },
         {
           "Id": "ThickWebs",
-          "Amount": 2
+          "Amount": 4
         },
         {
           "Id": "Tribulation",
           "Amount": 2
+        },
+        {
+          "Id": "UnderTheWatchfulEye",
+          "Amount": 1
+        },
+        {
+          "Id": "GiantSpider",
+          "Amount": 1
+        },
+        {
+          "Id": "HiveGuardian",
+          "Amount": 2
+        },
+        {
+          "Id": "KingSpider",
+          "Amount": 2
+        },
+        {
+          "Id": "MirkwoodBroodmother",
+          "Amount": 1
+        },
+        {
+          "Id": "UngoliantsBrood",
+          "Amount": 1
         }
       ],
       "FateCardList": [
