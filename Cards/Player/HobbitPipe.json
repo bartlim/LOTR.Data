@@ -31,13 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Hobbit Pipe",
-    "Text": "Draw a card each time you \nlose <size=120%><sprite=4></size>"
+    "Text": "Draw a card every time you \nlose <size=120%><sprite=4></size>"
   }
 }
