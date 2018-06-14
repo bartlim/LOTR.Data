@@ -4319,15 +4319,15 @@
   },
   {
     "Id": "Q_STAGE_LOCATION101_NAME",
-    "Text": "Location101"
+    "Text": null
   },
   {
     "Id": "Q_STAGE_LOCATION101_TEXT",
-    "Text": ""
+    "Text": null
   },
   {
     "Id": "Q_STAGE_LOCATION101_OBJECTIVE",
-    "Text": ""
+    "Text": null
   },
   {
     "Id": "Q_QUEST_THREECOCOONTESTERQUEST02_NAME",
@@ -4347,7 +4347,7 @@
   },
   {
     "Id": "Q_STAGE_LOCATION201_NAME",
-    "Text": "Mirkwood Forest"
+    "Text": null
   },
   {
     "Id": "Q_STAGE_LOCATION201_TEXT",
@@ -12198,5 +12198,89 @@
   {
     "Id": "C_AAADDSAURONRES_FLAVOR",
     "Text": ""
+  },
+  {
+    "Id": "Q_CAMPAIGN_THESHADOWSREACH_NAME",
+    "Text": "TheShadowsReach"
+  },
+  {
+    "Id": "Q_QUEST_THESHADOWSREACHQUEST01_NAME",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_THESHADOWSREACHQUEST01_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_THESHADOWSREACHQUEST01_VICTORY_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_THESHADOWSREACHQUEST01_DEFEAT_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_THESHADOWSREACHQUEST02_NAME",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_THESHADOWSREACHQUEST02_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_THESHADOWSREACHQUEST02_VICTORY_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_THESHADOWSREACHQUEST02_DEFEAT_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_THESHADOWSREACHQUEST03_NAME",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_THESHADOWSREACHQUEST03_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_THESHADOWSREACHQUEST03_VICTORY_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_THESHADOWSREACHQUEST03_DEFEAT_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_THESHADOWSREACHQUEST04_NAME",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_THESHADOWSREACHQUEST04_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_THESHADOWSREACHQUEST04_VICTORY_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_THESHADOWSREACHQUEST04_DEFEAT_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_THESHADOWSREACHQUEST05_NAME",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_THESHADOWSREACHQUEST05_DESCRIPTION",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_THESHADOWSREACHQUEST05_VICTORY_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_QUEST_THESHADOWSREACHQUEST05_DEFEAT_TEXT",
+    "Text": null
   }
 ]
