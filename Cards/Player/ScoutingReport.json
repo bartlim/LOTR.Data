@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Scouting Report",
-    "Text": "<line-height=100%>Discard an Ally to give all friendly Characters +1 <size=120%><sprite=5></size> this round"
+    "Text": "<line-height=100%>Discard an Ally to give every Character +1 <size=120%><sprite=5></size> this round"
   }
 }
