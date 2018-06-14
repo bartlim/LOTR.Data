@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "10c8dcae9a324152b7fbe02f1f1f57dd",
     "BannerMD5": null,
     "IconMD5": "376408402267f4e2b22eccd391f65714"
   },
   "Localization": {
     "Title": "Burst into Song",
-    "Text": "Cancel damage from the next unique Enemy's attack"
+    "Text": "Cancel all damage from the \nnext unique Enemy's attack"
   }
 }
