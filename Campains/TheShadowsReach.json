@@ -54,12 +54,7 @@
           ],
           "NextStageId": "TheSpidersWeb",
           "BGM": "mus_danger",
-          "FateCardList": [
-            {
-              "Id": "RoutTheSpiders",
-              "Threshold": 5
-            }
-          ]
+          "FateCardList": []
         },
         {
           "Id": "TheSpidersWebs",
@@ -73,7 +68,7 @@
           ],
           "NextStageId": "",
           "BGM": "mus_desperation",
-          "FateCardList": null
+          "FateCardList": []
         }
       ],
       "SauronDeck": [
