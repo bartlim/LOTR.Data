@@ -28,7 +28,7 @@
           "FateCardList": [
             {
               "Id": "StingFate",
-              "Threshold": 4
+              "Threshold": 6
             }
           ]
         },
@@ -43,7 +43,7 @@
           ],
           "NextStageId": "AnUnexpectedEnemy",
           "BGM": "mus_danger",
-          "FateCardList": null
+          "FateCardList": []
         },
         {
           "Id": "AnUnexpectedEnemy",
@@ -62,7 +62,7 @@
           "FateCardList": [
             {
               "Id": "RoutTheSpiders",
-              "Threshold": 5
+              "Threshold": 6
             }
           ]
         },
@@ -78,7 +78,7 @@
           ],
           "NextStageId": "",
           "BGM": "mus_desperation",
-          "FateCardList": null
+          "FateCardList": []
         }
       ],
       "SauronDeck": [
