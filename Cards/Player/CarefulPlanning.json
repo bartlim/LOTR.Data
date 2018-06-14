@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "bf8b1a8c3de24a3fc427ee4da9e4611a",
     "BannerMD5": "948371651c7ebc3a8a965f4362ccbd52",
     "IconMD5": "ed88571c251b2b801736f34e223eebb7"
   },
   "Localization": {
     "Title": "Careful Planning",
-    "Text": "<line-height=100%>Lose <size=120%><sprite=4></size> equal to the cost of the next Event that Sauron plays (minimum 1 <size=120%><sprite=3></size> cost)"
+    "Text": "<line-height=100%>Lose <size=120%><sprite=4></size> equal to the cost of the next 1 <size=120%><sprite=3></size> or greater Event that Sauron plays"
   }
 }
