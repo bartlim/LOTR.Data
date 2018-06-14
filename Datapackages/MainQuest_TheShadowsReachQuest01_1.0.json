@@ -86,13 +86,39 @@
     ],
     "Sequences": [],
     "Stories": [],
-    "FateCardList": [],
-    "ThreatCardList": [],
+    "FateCardList": [
+      {
+        "Id": "RangersCache",
+        "Threshold": 4
+      },
+      {
+        "Id": "ShaftOfSunlight",
+        "Threshold": 7
+      },
+      {
+        "Id": "SupportFromDale",
+        "Threshold": 10
+      }
+    ],
+    "ThreatCardList": [
+      {
+        "Id": "SpidersDescend",
+        "Threshold": 1
+      },
+      {
+        "Id": "Poisoned",
+        "Threshold": 2
+      },
+      {
+        "Id": "WaveOfFear",
+        "Threshold": 3
+      }
+    ],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180614143224224",
+  "Version": "20180614144353818",
   "Key": "MainQuest",
   "SubKey": "TheShadowsReachQuest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheShadowsReachQuest01_20180614143224224"
+  "InternalKey": "MainQuest_TheShadowsReachQuest01_20180614144353818"
 }
