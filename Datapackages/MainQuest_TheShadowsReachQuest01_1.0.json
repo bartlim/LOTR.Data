@@ -71,41 +71,66 @@
     },
     "Stages": [
       {
-        "Title": "Location101",
+        "Title": "TheSpidersGlade",
         "SoloGameSetup": [
-          "FindThePath",
-          "VeteranPatrol"
+          "FollowTheSpiders",
+          "ForestSpider",
+          "SpiderGuard",
+          "ForestSpider"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "TheEnchantedStream"
         ],
-        "FateCardList": []
+        "FateCardList": [
+          {
+            "Id": "StingFate",
+            "Threshold": 4
+          }
+        ]
       },
       {
-        "Title": "",
-        "SoloGameSetup": [],
+        "Title": "CrossingTheEnchantedStream",
+        "SoloGameSetup": [
+          "KingSpider",
+          "GiantSpider"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "AnUnexpectedEnemy"
         ],
         "FateCardList": null
       },
       {
-        "Title": "",
-        "SoloGameSetup": [],
+        "Title": "AnUnexpectedEnemy",
+        "SoloGameSetup": [
+          "GoblinHandler",
+          "ForestSpider",
+          "GoblinHandler",
+          "ForestSpider",
+          "GoblinHandler"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "TheSpidersWeb"
         ],
-        "FateCardList": null
+        "FateCardList": [
+          {
+            "Id": "RoutTheSpiders",
+            "Threshold": 5
+          }
+        ]
       },
       {
-        "Title": "",
-        "SoloGameSetup": [],
+        "Title": "TheSpidersWebs",
+        "SoloGameSetup": [
+          "SpiderLt1",
+          "SpiderLt2",
+          "SpiderLt3"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
@@ -146,9 +171,9 @@
     ],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180614144541718",
+  "Version": "20180614152221512",
   "Key": "MainQuest",
   "SubKey": "TheShadowsReachQuest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheShadowsReachQuest01_20180614144541718"
+  "InternalKey": "MainQuest_TheShadowsReachQuest01_20180614152221512"
 }
