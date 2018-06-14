@@ -31,13 +31,13 @@
     "CameoScale": 0.8,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "ComboList": [],
     "ArtworkMD5": "2c80494f42034e842534550d30586520",
     "BannerMD5": null,
     "IconMD5": "28330545d1a6db7f868d6a302f171ee3"
   },
   "Localization": {
     "Title": "Lembas",
-    "Text": "<line-height=100%>Restore 2 <size=120%><sprite=2></size> to a Character \nand ready them"
+    "Text": "<line-height=100%>Restore 2 <size=120%><sprite=2></size> to a Character; \nthen ready them"
   }
 }
