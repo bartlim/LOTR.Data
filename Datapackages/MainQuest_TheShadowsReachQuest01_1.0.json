@@ -86,7 +86,7 @@
         "FateCardList": [
           {
             "Id": "StingFate",
-            "Threshold": 6
+            "Threshold": 4
           }
         ]
       },
@@ -101,7 +101,7 @@
         "NextStageTitles": [
           "AnUnexpectedEnemy"
         ],
-        "FateCardList": []
+        "FateCardList": null
       },
       {
         "Title": "AnUnexpectedEnemy",
@@ -120,7 +120,7 @@
         "FateCardList": [
           {
             "Id": "RoutTheSpiders",
-            "Threshold": 6
+            "Threshold": 5
           }
         ]
       },
@@ -136,7 +136,7 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": []
+        "FateCardList": null
       }
     ],
     "Sequences": [],
@@ -171,9 +171,9 @@
     ],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180614192025738",
+  "Version": "20180614192738795",
   "Key": "MainQuest",
   "SubKey": "TheShadowsReachQuest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheShadowsReachQuest01_20180614192025738"
+  "InternalKey": "MainQuest_TheShadowsReachQuest01_20180614192738795"
 }
