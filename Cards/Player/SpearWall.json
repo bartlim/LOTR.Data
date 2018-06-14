@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "e2426cd7568da6e205b76a82520fc059",
     "BannerMD5": "a543bcf6498417d238da382c971a15ae",
     "IconMD5": "1af09ac1425417cf027fe1e57797d68c"
   },
   "Localization": {
     "Title": "Spear Wall",
-    "Text": "<line-height=100%>All Enemies lose 2 <size=120%><sprite=0></size> this round (minimum 0)"
+    "Text": "<line-height=100%>Every Enemy loses 2 <size=120%><sprite=0></size> \nthis round (minimum 0)"
   }
 }
