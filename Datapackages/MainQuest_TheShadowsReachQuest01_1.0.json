@@ -112,12 +112,7 @@
         "NextStageTitles": [
           "TheSpidersWeb"
         ],
-        "FateCardList": [
-          {
-            "Id": "RoutTheSpiders",
-            "Threshold": 5
-          }
-        ]
+        "FateCardList": []
       },
       {
         "Title": "TheSpidersWebs",
@@ -131,7 +126,7 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": null
+        "FateCardList": []
       }
     ],
     "Sequences": [],
@@ -166,9 +161,9 @@
     ],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180614204551196",
+  "Version": "20180614204641247",
   "Key": "MainQuest",
   "SubKey": "TheShadowsReachQuest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheShadowsReachQuest01_20180614204551196"
+  "InternalKey": "MainQuest_TheShadowsReachQuest01_20180614204641247"
 }
