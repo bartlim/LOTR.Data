@@ -31,13 +31,13 @@
     "CameoScale": 0.8,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "ComboList": [],
     "ArtworkMD5": "f00909b00b1ff8b8e0a945995f4d460c",
     "BannerMD5": null,
     "IconMD5": "b9ed6259420c391b9f0c611e681b1934"
   },
   "Localization": {
     "Title": "‰Gimli   ",
-    "Text": "<b>Counter</b>. Gain +1 <size=120%><sprite=0></size> this round after the first time a friendly\n<size=95%>Character is damaged in the round"
+    "Text": "<b>Counter</b>. Gain +1 <size=120%><sprite=0></size> this round after the first time a Character is damaged in the round"
   }
 }
