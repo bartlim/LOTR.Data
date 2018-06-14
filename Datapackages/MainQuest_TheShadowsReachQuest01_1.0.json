@@ -83,12 +83,7 @@
         "NextStageTitles": [
           "TheEnchantedStream"
         ],
-        "FateCardList": [
-          {
-            "Id": "StingFate",
-            "Threshold": 4
-          }
-        ]
+        "FateCardList": []
       },
       {
         "Title": "CrossingTheEnchantedStream",
@@ -171,9 +166,9 @@
     ],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180614201746989",
+  "Version": "20180614204551196",
   "Key": "MainQuest",
   "SubKey": "TheShadowsReachQuest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheShadowsReachQuest01_20180614201746989"
+  "InternalKey": "MainQuest_TheShadowsReachQuest01_20180614204551196"
 }
