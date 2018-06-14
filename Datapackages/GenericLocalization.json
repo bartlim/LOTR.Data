@@ -12306,5 +12306,17 @@
   {
     "Id": "Q_STAGE_ANUNEXPECTEDENEMY_OBJECTIVE",
     "Text": "Defeat all enemies in play."
+  },
+  {
+    "Id": "C_STING_TITLE",
+    "Text": "Sting"
+  },
+  {
+    "Id": "C_STING_TEXT",
+    "Text": "Gain +1 <size=120%><sprite=0></size>. \nGain an extra <size=120%><sprite=0></size> when attacking <b><i>Orc</i></b> or <b><i>Spider</i></b> enemies"
+  },
+  {
+    "Id": "C_STING_FLAVOR",
+    "Text": ""
   }
 ]
