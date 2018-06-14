@@ -3937,7 +3937,7 @@
   },
   {
     "Id": "Q_STAGE_THESPIDERSWEBS_NAME",
-    "Text": "The Spiders' Webs"
+    "Text": "The Spider's Webs"
   },
   {
     "Id": "Q_STAGE_FORESTGLADE_NAME",
@@ -4033,7 +4033,7 @@
   },
   {
     "Id": "Q_STAGE_THESPIDERSWEBS_TEXT",
-    "Text": "<line-height=100%><i><size=58>Y</size>ou've managed to cut your companions loose, but the spiders are determined to recapture you. They spin giant webs from tree to tree, trapping you in their lair. You will have to sunder the thick strands in order to escape.</i>"
+    "Text": "<color=red>Placeholder</color>\n<i><size=58>T</size>hese spiders did not have Bilbo. You must go deeper into their lair to find the Hobbit. Your fight however, did not go unnoticed as three massive spiders drop from the tree branches to deal with the intruders to their nest.</i>"
   },
   {
     "Id": "Q_STAGE_FORESTGLADE_TEXT",
@@ -4129,7 +4129,7 @@
   },
   {
     "Id": "Q_STAGE_THESPIDERSWEBS_OBJECTIVE",
-    "Text": "Resolve <i>Escape the Spiders</i> to allow travel from this Location"
+    "Text": "Defeat the three Spider Lieutenants"
   },
   {
     "Id": "Q_STAGE_FORESTGLADE_OBJECTIVE",
@@ -12276,5 +12276,41 @@
   {
     "Id": "Q_QUEST_THESHADOWSREACHQUEST05_DEFEAT_TEXT",
     "Text": "Q_QUEST_THESHADOWSREACHQUEST05_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_THESPIDERSGLADE_NAME",
+    "Text": "The Spider's Glade"
+  },
+  {
+    "Id": "Q_STAGE_THESPIDERSGLADE_TEXT",
+    "Text": "<color=red>Placeholder</color>\n<i><size=58>A</size>rriving at the location of Bilbo's capture, you find a group of spiders, but no Hobbit. You must find out what happened to Gloin's friend. Following the spiders may lead you back to their lair...</i>"
+  },
+  {
+    "Id": "Q_STAGE_THESPIDERSGLADE_OBJECTIVE",
+    "Text": "Defeat all enemies"
+  },
+  {
+    "Id": "Q_STAGE_CROSSINGTHEENCHANTEDSTREAM_NAME",
+    "Text": "Crossing the Enchanted Stream"
+  },
+  {
+    "Id": "Q_STAGE_CROSSINGTHEENCHANTEDSTREAM_TEXT",
+    "Text": "<color=red>Placeholder</color>\n<i><size=58>F</size>ollowing the Spiders has lead you towards the Enchanted Stream. Carefully crossing the foul river on a fallen log, you do not look upwards until it is too late! A member of your party is grabbed by the spiders before you can react.</i>"
+  },
+  {
+    "Id": "Q_STAGE_CROSSINGTHEENCHANTEDSTREAM_OBJECTIVE",
+    "Text": "Free your friend from the Cocoon"
+  },
+  {
+    "Id": "Q_STAGE_ANUNEXPECTEDENEMY_NAME",
+    "Text": "An Unexpected Enemy"
+  },
+  {
+    "Id": "Q_STAGE_ANUNEXPECTEDENEMY_TEXT",
+    "Text": "<color=red>Placeholder</color>\n<i><size=58>Y</size>ou spy another group of spiders, approaching their lair not far away. Perhaps this is your chance to free your friend? However, you notice several small figures among the spiders... Why would Goblins be here?</i>"
+  },
+  {
+    "Id": "Q_STAGE_ANUNEXPECTEDENEMY_OBJECTIVE",
+    "Text": "Defeat all enemies in play."
   }
 ]
