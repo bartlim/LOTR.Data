@@ -12203,7 +12203,7 @@
   },
   {
     "Id": "Q_QUEST_THESHADOWSREACHQUEST01_DESCRIPTION",
-    "Text": "[PH] <i><size=58>A</size>fter Bilbo was captured, Gloin who was injured, returned to Beorn's Hall to alert others. You have journeyed to Bilbo's last known location to see if you can pick up the trail...</i>"
+    "Text": "<color=red>Placeholder</color> <i><size=58>A</size>fter Bilbo was captured, Gloin who was injured, returned to Beorn's Hall to alert others. You have journeyed to Bilbo's last known location to see if you can pick up the trail...</i>"
   },
   {
     "Id": "Q_QUEST_THESHADOWSREACHQUEST01_VICTORY_TEXT",
@@ -12211,7 +12211,7 @@
   },
   {
     "Id": "Q_QUEST_THESHADOWSREACHQUEST01_DEFEAT_TEXT",
-    "Text": "Q_QUEST_THESHADOWSREACHQUEST01_DEFEAT_TEXT"
+    "Text": "You have failed in your quest."
   },
   {
     "Id": "Q_QUEST_THESHADOWSREACHQUEST02_NAME",
