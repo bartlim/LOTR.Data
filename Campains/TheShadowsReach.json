@@ -13,46 +13,71 @@
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
-          "Id": "Location101",
+          "Id": "TheSpidersGlade",
           "SceneName": "Q01_L01_ForestGate",
           "IntroVoice": "OpeningMirkwood_01",
-          "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+          "IntroSprite": "TheShadowsReachQuest01TheSpidersGladeIntroSprite",
           "SoloGameSetup": [
-            "FindThePath",
-            "VeteranPatrol"
+            "FollowTheSpiders",
+            "ForestSpider",
+            "SpiderGuard",
+            "ForestSpider"
+          ],
+          "NextStageId": "TheEnchantedStream",
+          "BGM": "mus_mirkwood",
+          "FateCardList": [
+            {
+              "Id": "StingFate",
+              "Threshold": 4
+            }
+          ]
+        },
+        {
+          "Id": "CrossingTheEnchantedStream",
+          "SceneName": "Q01_L04_TheEnchantedStream",
+          "IntroVoice": "",
+          "IntroSprite": "TheShadowsReachQuest01CrossingTheEnchantedStreamIntroSprite",
+          "SoloGameSetup": [
+            "KingSpider",
+            "GiantSpider"
+          ],
+          "NextStageId": "AnUnexpectedEnemy",
+          "BGM": "mus_danger",
+          "FateCardList": null
+        },
+        {
+          "Id": "AnUnexpectedEnemy",
+          "SceneName": "Q02_L03_TheSpidersWebs",
+          "IntroVoice": "",
+          "IntroSprite": "TheShadowsReachQuest01AnUnexpectedEnemyIntroSprite",
+          "SoloGameSetup": [
+            "GoblinHandler",
+            "ForestSpider",
+            "GoblinHandler",
+            "ForestSpider",
+            "GoblinHandler"
+          ],
+          "NextStageId": "TheSpidersWeb",
+          "BGM": "mus_danger",
+          "FateCardList": [
+            {
+              "Id": "RoutTheSpiders",
+              "Threshold": 5
+            }
+          ]
+        },
+        {
+          "Id": "TheSpidersWebs",
+          "SceneName": "Q02_L04_TheForestGlade",
+          "IntroVoice": "",
+          "IntroSprite": "TheShadowsReachQuest01TheSpidersWebsIntroSprite",
+          "SoloGameSetup": [
+            "SpiderLt1",
+            "SpiderLt2",
+            "SpiderLt3"
           ],
           "NextStageId": "",
-          "BGM": null,
-          "FateCardList": []
-        },
-        {
-          "Id": "",
-          "SceneName": "",
-          "IntroVoice": "",
-          "IntroSprite": null,
-          "SoloGameSetup": null,
-          "NextStageId": "",
-          "BGM": "mus_cave",
-          "FateCardList": null
-        },
-        {
-          "Id": "",
-          "SceneName": null,
-          "IntroVoice": "",
-          "IntroSprite": null,
-          "SoloGameSetup": null,
-          "NextStageId": null,
-          "BGM": null,
-          "FateCardList": null
-        },
-        {
-          "Id": "",
-          "SceneName": null,
-          "IntroVoice": "",
-          "IntroSprite": null,
-          "SoloGameSetup": null,
-          "NextStageId": null,
-          "BGM": null,
+          "BGM": "mus_desperation",
           "FateCardList": null
         }
       ],
