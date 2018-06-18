@@ -2699,21 +2699,20 @@
                 "KingSpider",
                 "GiantSpider"
               ],
-              "NextStageId": "AnUnexpectedEnemy",
+              "NextStageId": "BattleWithTheSpiders",
               "BGM": "mus_danger",
               "FateCardList": null
             },
             {
-              "Id": "AnUnexpectedEnemy",
+              "Id": "BattleWithTheSpiders",
               "SceneName": "Q02_L03_TheSpidersWebs",
               "IntroVoice": "",
               "IntroSprite": "TheShadowsReachQuest01AnUnexpectedEnemyIntroSprite",
               "SoloGameSetup": [
-                "GoblinHandler",
+                "GiantSpider",
                 "ForestSpider",
-                "GoblinHandler",
-                "ForestSpider",
-                "GoblinHandler"
+                "SpiderGuard",
+                "ForestSpider"
               ],
               "NextStageId": "TheSpidersWeb",
               "BGM": "mus_danger",
