@@ -6,7 +6,7 @@
     "ShopType": "Starter",
     "Cost": 3,
     "QuestPoints": 0,
-    "Attack": 3,
+    "Attack": 1,
     "Willpower": 0,
     "Health": 4,
     "Trait": "Spider",
@@ -38,6 +38,6 @@
   },
   "Localization": {
     "Title": "Spider Guard",
-    "Text": "<b>Arrival</b>: Activate <b>Guard</b>. \n<b>Guard</b>"
+    "Text": "<b>Guard</b>"
   }
 }
