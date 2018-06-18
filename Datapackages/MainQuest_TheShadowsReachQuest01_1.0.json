@@ -205,11 +205,10 @@
       {
         "Title": "AnUnexpectedEnemy",
         "SoloGameSetup": [
-          "GoblinHandler",
+          "GiantSpider",
           "ForestSpider",
-          "GoblinHandler",
-          "ForestSpider",
-          "GoblinHandler"
+          "SpiderGuard",
+          "ForestSpider"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -265,9 +264,9 @@
     ],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180615081809494",
+  "Version": "20180618152457801",
   "Key": "MainQuest",
   "SubKey": "TheShadowsReachQuest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheShadowsReachQuest01_20180615081809494"
+  "InternalKey": "MainQuest_TheShadowsReachQuest01_20180618152457801"
 }
