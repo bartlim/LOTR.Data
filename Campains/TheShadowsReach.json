@@ -211,11 +211,11 @@
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
-            "FindThePath",
+            "ObjectiveTimerTest",
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null,
+          "BGM": "mus_cave",
           "FateCardList": []
         }
       ],
