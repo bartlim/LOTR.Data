@@ -73,7 +73,7 @@
       {
         "Title": "Location201",
         "SoloGameSetup": [
-          "FindThePath",
+          "ObjectiveTimerTest",
           "VeteranPatrol"
         ],
         "CoopGameSetup": [],
@@ -90,9 +90,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180618154820389",
+  "Version": "20180618200935880",
   "Key": "MainQuest",
   "SubKey": "TheShadowsReachQuest02",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheShadowsReachQuest02_20180618154820389"
+  "InternalKey": "MainQuest_TheShadowsReachQuest02_20180618200935880"
 }
