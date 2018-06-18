@@ -198,12 +198,12 @@
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          "AnUnexpectedEnemy"
+          "BattleWithTheSpiders"
         ],
         "FateCardList": null
       },
       {
-        "Title": "AnUnexpectedEnemy",
+        "Title": "BattleWithTheSpiders",
         "SoloGameSetup": [
           "GiantSpider",
           "ForestSpider",
@@ -264,9 +264,9 @@
     ],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180618152457801",
+  "Version": "20180618154815484",
   "Key": "MainQuest",
   "SubKey": "TheShadowsReachQuest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheShadowsReachQuest01_20180618152457801"
+  "InternalKey": "MainQuest_TheShadowsReachQuest01_20180618154815484"
 }
