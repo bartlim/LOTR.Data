@@ -1,0 +1,43 @@
+{
+  "CardData": {
+    "Id": "ObjectiveTimerTest",
+    "Owner": "Sauron",
+    "CardType": 6,
+    "ShopType": "",
+    "Cost": 0,
+    "QuestPoints": 5,
+    "Attack": 0,
+    "Willpower": 0,
+    "Health": 0,
+    "Trait": "Main",
+    "Rarity": 0,
+    "Sphere": 2,
+    "SphereLevel": 0,
+    "Revision": null,
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "",
+    "ArtistName": "",
+    "Status": "WIP",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
+    "ComboList": [],
+    "ArtworkMD5": null,
+    "BannerMD5": null,
+    "IconMD5": null
+  },
+  "Localization": {
+    "Title": "Timed Objective",
+    "Text": "[Cannot be targeted]\n<b>End of Round</b>: Apply 1 Progress to self."
+  }
+}

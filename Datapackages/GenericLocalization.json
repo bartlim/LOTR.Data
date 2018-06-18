@@ -12408,5 +12408,17 @@
   {
     "Id": "Q_STAGE_BATTLEWITHTHESPIDERS_OBJECTIVE",
     "Text": "Defeat all enemies in play."
+  },
+  {
+    "Id": "C_OBJECTIVETIMERTEST_TITLE",
+    "Text": "Timed Objective"
+  },
+  {
+    "Id": "C_OBJECTIVETIMERTEST_TEXT",
+    "Text": "[Cannot be targeted]\n<b>End of Round</b>: Apply 1 Progress to self."
+  },
+  {
+    "Id": "C_OBJECTIVETIMERTEST_FLAVOR",
+    "Text": ""
   }
 ]
