@@ -4,14 +4,14 @@
     "Owner": "Player",
     "CardType": 0,
     "ShopType": "",
-    "Cost": 0,
+    "Cost": 1,
     "QuestPoints": 0,
-    "Attack": 0,
-    "Willpower": 0,
-    "Health": 0,
+    "Attack": 2,
+    "Willpower": 1,
+    "Health": 11,
     "Trait": "",
     "Rarity": 0,
-    "Sphere": 0,
+    "Sphere": 4,
     "SphereLevel": 0,
     "Revision": null,
     "PlayVFX": "",
@@ -22,7 +22,7 @@
     "DeathSFX": "",
     "FlavorText": "",
     "ArtistName": "",
-    "Status": "None",
+    "Status": "WIP",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
     "CardScale": 1.0,
@@ -38,6 +38,6 @@
   },
   "Localization": {
     "Title": "GimliTest",
-    "Text": "Deal +2 <size=120%><sprite=0></size> if there are no other exhausted Characters"
+    "Text": "Deal +2 <size=120%><sprite=0></size> if there are no exhausted Characters"
   }
 }
