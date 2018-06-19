@@ -2593,9 +2593,9 @@
   },
   {
     "Id": "U_QUEST_SCORE_BONUS_REWARDS",
-    "Text": "BONUS REWARDS",
-    "Text_CN": "[C]额外奖励",
-    "Text_FR": "RÉCOMPENSES BONUS"
+    "Text": "One-Time Hero Rewards",
+    "Text_CN": "[C]一次性英雄奖励",
+    "Text_FR": "One-Time Hero Rewards"
   },
   {
     "Id": "U_QUEST_SCORE_THREAT_LEVEL",
@@ -3845,6 +3845,47 @@
     "Text_CN": "[C]This <b>Fate</b> has yet to be revealed.\nAccrue enough <b>Fate</b> points to reveal the effect of this <b>Fate</b>.",
     "Text_FR": "This <b>Fate</b> has yet to be revealed.\nAccrue enough <b>Fate</b> points to reveal the effect of this <b>Fate</b>."
   },
+  {
+    "Id": "U_INITIAL_LOADING_01",
+    "Text": "Scouring the Shire",
+    "Text_CN": "[C]Scouring the Shire",
+    "Text_FR": "Scouring the Shire"
+  },
+  {
+    "Id": "U_INITIAL_LOADING_02",
+    "Text": "Releasing the Nazgûl",
+    "Text_CN": "[C]Releasing the Nazgûl",
+    "Text_FR": "Releasing the Nazgûl"
+  },  {
+    "Id": "U_INITIAL_LOADING_03",
+    "Text": "Lighting the beacons",
+    "Text_CN": "[C]Lighting the beacons",
+    "Text_FR": "Lighting the beacons"
+  },
+  {
+    "Id": "U_INITIAL_LOADING_04",
+    "Text": "Preparing second breakfast",
+    "Text_CN": "[C]Preparing second breakfast",
+    "Text_FR": "Preparing second breakfast"
+  },
+  {
+    "Id": "U_DECK_TO_ADD_MUST_HAVE_1_HERO",
+    "Text": "To add this card, your deck must have 1 {0} Hero",
+    "Text_CN": "[C]To add this card, your deck must have 1 {0} Hero",
+    "Text_FR": "To add this card, your deck must have 1 {0} Hero"
+  },
+  {
+    "Id": "U_DECK_TO_ADD_MUST_HAVE_2_HERO",
+    "Text": "To add this card, your deck must have 2 {0} Heroes",
+    "Text_CN": "[C]To add this card, your deck must have 2 {0} Heroes",
+    "Text_FR": "To add this card, your deck must have 2 {0} Heroes"
+  },
+  {
+    "Id": "U_DECK_TO_ADD_MUST_HAVE_3_HERO",
+    "Text": "To add this card, your deck must have 3 {0} Heroes",
+    "Text_CN": "[C]To add this card, your deck must have 3 {0} Heroes",
+    "Text_FR": "To add this card, your deck must have 3 {0} Heroes"
+  },  
   {
     "Id": "PLACEHOLDER2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -9609,9 +9650,9 @@
   },
   {
     "Id": "T_ROLLOVER_DESC_FATE",
-    "Text": "An ability that can unlock special powers unique to each Quest",
-    "Text_CN": "An ability that can unlock special powers unique to each Quest",
-    "Text_FR": "An ability that can unlock special powers unique to each Quest"
+    "Text": "This allows you to expend Willpower to add to your Fate",
+    "Text_CN": "This allows you to expend Willpower to add to your Fate",
+    "Text_FR": "This allows you to expend Willpower to add to your Fate"
   },
   {
     "Id": "T_ROLLOVER_DESC_FATEMETER",
@@ -9816,6 +9857,12 @@
     "Text": "Effectiveness when engaging an Objective",
     "Text_CN": "Effectiveness when engaging an Objective",
     "Text_FR": "Effectiveness when engaging an Objective"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_VALORCARD",
+    "Text": "Available in the Valor Menu",
+    "Text_CN": "Available in the Valor Menu",
+    "Text_FR": "Available in the Valor Menu"
   },
   {
     "Id": "T_ROLLOVER_TITLE_ARMOR",
@@ -10068,6 +10115,12 @@
     "Text": "<b>Willpower</b>",
     "Text_CN": "<b>Willpower</b>",
     "Text_FR": "<b>Willpower</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_VALORCARD",
+    "Text": "<b>Valor Card</b>",
+    "Text_CN": "<b>Valor Card</b>",
+    "Text_FR": "<b>Valor Card</b>"
   },
   {
     "Id": "K_AMBUSH_TERM",
