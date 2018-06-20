@@ -81,7 +81,8 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": []
+        "FateCardList": [],
+        "ThreatCardList": null
       }
     ],
     "Sequences": [],
@@ -90,9 +91,9 @@
     "ThreatCardList": [],
     "AIBehavior": null
   },
-  "Version": "20180525035248704",
+  "Version": "20180620115917493",
   "Key": "MainQuest",
   "SubKey": "Demo051618Quest03",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Demo051618Quest03_20180525035248704"
+  "InternalKey": "MainQuest_Demo051618Quest03_20180620115917493"
 }
