@@ -3888,6 +3888,36 @@
     "Text_FR": "To add this card, your deck must have 3 {0} Heroes"
   },
   {
+    "Id": "T_ROLLOVER_DESC_SLOT_WEAPON",
+    "Text": "Weapon",
+    "Text_CN": "[C]Weapon",
+    "Text_FR": "Weapon"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_SLOT_ARMOR",
+    "Text": "Armor",
+    "Text_CN": "[C]Armor",
+    "Text_FR": "Armor"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_SLOT_SPECIAL",
+    "Text": "Special",
+    "Text_CN": "[C]Special",
+    "Text_FR": "Special"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_SLOT_AFFLICTION",
+    "Text": "Affliction",
+    "Text_CN": "[C]Affliction",
+    "Text_FR": "Affliction"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_SLOT_SHADOW",
+    "Text": "Shadow",
+    "Text_CN": "[C]Shadow",
+    "Text_FR": "Shadow"
+  },
+  {
     "Id": "PLACEHOLDER2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
