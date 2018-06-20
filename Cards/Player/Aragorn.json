@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "4e0aff0c0e242172aec3b0a0b0f45ddf",
     "BannerMD5": null,
     "IconMD5": "dec0b95819c09266e12d840793b0cd29"
   },
   "Localization": {
     "Title": "‰Aragorn  ",
-    "Text": "<line-height=100%><b>Power</b>: Gain +1 <size=120%><sprite=0></size> and +1 <size=120%><sprite=5></size> \nthis round (cost 1 <size=120%><sprite=3></size>)"
+    "Text": "<line-height=100%><b>Power</b>: Spend 1 <size=120%><sprite=3></size> to ready Aragorn"
   }
 }

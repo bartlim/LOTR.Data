@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "0cbb694a7e37794aef317c5a2d3439d5",
     "BannerMD5": null,
     "IconMD5": "34d847b4a712f1da2d4f87fc6915b0d7"
   },
   "Localization": {
     "Title": "Low on Supplies",
-    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=4></size> each time\nyou play a card"
+    "Text": "<line-height=100%>Until resolved, gain +1 <size=120%><sprite=4></size> \nevery time you play a card"
   }
 }

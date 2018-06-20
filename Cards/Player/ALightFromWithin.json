@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
-    "Title": "A Light From Within",
-    "Text": "<line-height=100%>Each Ally gains +1 <size=120%><sprite=5></size> this round"
+    "Title": "A Light from Within",
+    "Text": "<line-height=100%>Every Ally gains +1 <size=120%><sprite=5></size> \nthis round"
   }
 }

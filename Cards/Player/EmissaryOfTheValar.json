@@ -31,13 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Emissary of the Valar",
-    "Text": "<line-height=100%>All Enemies lose <u>X</u> <size=120%><sprite=0></size> this round\n(<u>X</u> equals the last Threat event tier triggered)"
+    "Text": "<line-height=100%>Every Enemy loses <size=120%><sprite=0></size> value \nequal to the last triggered \n<size=120%><sprite=4></size> event tier"
   }
 }

@@ -1,17 +1,17 @@
 {
   "CardData": {
-    "Id": "AATestSSH",
+    "Id": "AAClearSauronRes",
     "Owner": "Player",
     "CardType": 4,
     "ShopType": "",
-    "Cost": 3,
+    "Cost": 0,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
     "Trait": "",
     "Rarity": 0,
-    "Sphere": 0,
+    "Sphere": 2,
     "SphereLevel": 0,
     "Revision": null,
     "PlayVFX": "",
@@ -22,7 +22,7 @@
     "DeathSFX": "",
     "FlavorText": "",
     "ArtistName": "",
-    "Status": "",
+    "Status": "None",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
     "CardScale": 1.0,
@@ -37,7 +37,7 @@
     "IconMD5": null
   },
   "Localization": {
-    "Title": "test",
-    "Text": "card"
+    "Title": "Clear Sauron Resource",
+    "Text": "Clear Sauron Resource"
   }
 }

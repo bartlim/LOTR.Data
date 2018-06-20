@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Hour of Wrath",
-    "Text": "Gain +2 <size=120%><sprite=4></size>; Deal 1 damage to a random Enemy for each Character"
+    "Text": "Gain +2 <size=120%><sprite=4></size>; then deal 1 damage to a random Enemy for each Character in play"
   }
 }

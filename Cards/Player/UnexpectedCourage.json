@@ -31,13 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "ComboList": [],
     "ArtworkMD5": "913863bc9a9abab4fbc885c40441db60",
     "BannerMD5": "984588c4f0729482bd9a402929fa86f4",
     "IconMD5": "667cee1e3648206b41250e86b9fec75d"
   },
   "Localization": {
     "Title": "Unexpected Courage",
-    "Text": "Ready after defeating an Enemy or resolving an Objective\n(limit once per round)"
+    "Text": "Once per round, ready after defeating an Enemy or resolving an Objective"
   }
 }

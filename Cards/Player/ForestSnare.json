@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "1021f9c1e4add07f8d780b9d79badfe4",
     "BannerMD5": null,
     "IconMD5": "7890f2f1c0216fbdefcbdf7f36f56b50"
   },
   "Localization": {
     "Title": "Forest Snare",
-    "Text": "Exhaust a non-unique Enemy. The Enemy does not ready during Upkeep"
+    "Text": "Exhaust a non-unique Enemy. The Enemy does not ready during <b>Upkeep</b>"
   }
 }

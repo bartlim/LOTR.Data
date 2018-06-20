@@ -64,7 +64,6 @@
           "IntroSprite": "Sprites/Locations/Quest1_Stage03B",
           "SoloGameSetup": [
             "FindThePath",
-            "RangerProvisions",
             "DolGuldurOrcs",
             "GoblinSniper",
             "DolGuldurArcher"
@@ -266,7 +265,7 @@
           "Threshold": 3
         }
       ],
-      "AIBehavior": null
+      "AIBehavior": "AggressiveAI"
     },
     {
       "Id": "FliesAndSpiders",
@@ -505,7 +504,7 @@
           "Threshold": 3
         }
       ],
-      "AIBehavior": null
+      "AIBehavior": "PassiveAI"
     },
     {
       "Id": "LostInMirkwood",
@@ -833,7 +832,7 @@
           "Threshold": 3
         }
       ],
-      "AIBehavior": null
+      "AIBehavior": "AggressiveAI"
     },
     {
       "Id": "JourneyDownTheAnduin",
@@ -901,17 +900,11 @@
           "SoloGameSetup": [
             "RiverBend",
             "Rocks",
-            "Rocks",
-            "RangerProvisions"
+            "Rocks"
           ],
           "NextStageId": "AmbushOnTheShoreStage",
           "BGM": "mus_stream",
-          "FateCardList": [
-            {
-              "Id": "SavedByTheBeornings",
-              "Threshold": 6
-            }
-          ]
+          "FateCardList": []
         },
         {
           "Id": "AmbushOnTheShoreStage",
@@ -1101,7 +1094,7 @@
           "Threshold": 3
         }
       ],
-      "AIBehavior": null
+      "AIBehavior": "AggressiveAI"
     },
     {
       "Id": "ConflictAtTheCarrock",
@@ -1324,7 +1317,7 @@
           "Threshold": 3
         }
       ],
-      "AIBehavior": null
+      "AIBehavior": "AggressiveAI"
     }
   ]
 }

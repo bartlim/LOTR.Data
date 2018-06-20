@@ -22,7 +22,7 @@
     "DeathSFX": "",
     "FlavorText": "",
     "ArtistName": "",
-    "Status": "None",
+    "Status": "WIP",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
     "CardScale": 1.0,
@@ -38,6 +38,6 @@
   },
   "Localization": {
     "Title": "Unexpected Aid",
-    "Text": "<i>Hearing the sounds of battle, a Gondorian guard rushes to your aid!</i>\n\nPlay 1 <i>Guard of the Citadel</i>"
+    "Text": "<line-height=50%><i>Hearing the sounds of battle, a Gondorian guard rushes to your aid!</i>\n</line-height>\nPlay 1 Guard of the Citadel"
   }
 }

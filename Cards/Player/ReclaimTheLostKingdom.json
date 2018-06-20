@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
-    "Title": "Reclaim the Lost Kingdom",
-    "Text": "<line-height=100%>Apply a Hero's <size=120%><sprite=0></size> value as progress to an Objective or Hazard"
+    "Title": "<size=90%>Reclaim the Lost Kingdom",
+    "Text": "<line-height=100%>Apply a Hero's <size=120%><sprite=0></size> value as progress to an Objective"
   }
 }

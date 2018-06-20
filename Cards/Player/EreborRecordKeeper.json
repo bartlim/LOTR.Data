@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Erebor Record Keeper",
-    "Text": "<b>Arrival</b>: Draw 3 cards and choose 1; the other 2 cards then shuffle back into your deck"
+    "Text": "<b>Arrival</b>: Draw 3 cards and choose 1; then shuffle the other \n2 back into your deck"
   }
 }

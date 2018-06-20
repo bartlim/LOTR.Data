@@ -9,7 +9,7 @@
     "Attack": 1,
     "Willpower": 0,
     "Health": 2,
-    "Trait": "Creature",
+    "Trait": "Animal",
     "Rarity": 2,
     "Sphere": 4,
     "SphereLevel": 0,
@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
-    "Title": "Farmer Maggot's Hounds",
-    "Text": "<b>Revenge</b>: Discard a Shadow"
+    "Title": "<size=90%>Farmer Maggot's Hounds",
+    "Text": "<b>Revenge</b>: Discard a <b><i>Shadow</b></i> Attachment"
   }
 }

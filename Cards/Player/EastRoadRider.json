@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "East Road Rider",
-    "Text": "<line-height=100%>Gain +2 <size=120%><sprite=5></size> when \nengaging a Hazard"
+    "Text": "<line-height=100%>Gain +2 <size=120%><sprite=5></size> when \nengaging a <b><i>Hazard</b></i>"
   }
 }

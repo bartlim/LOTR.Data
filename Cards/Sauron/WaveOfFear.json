@@ -11,7 +11,7 @@
     "Health": 0,
     "Trait": "Threat",
     "Rarity": 0,
-    "Sphere": 0,
+    "Sphere": 2,
     "SphereLevel": 0,
     "Revision": null,
     "PlayVFX": "",
@@ -38,6 +38,6 @@
   },
   "Localization": {
     "Title": "Wave of Fear",
-    "Text": "<i>Your companions flee in terror!</i>\n\nDefeat all Allies in play"
+    "Text": "<line-height=50%><i>Your companions flee in terror!</i>\n</line-height>\nDefeat every Ally in play"
   }
 }

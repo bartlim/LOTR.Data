@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "Arrows thick as the rain came whistling over the battlements, and fell clinking and glancing on the stones. Many found their mark. \n<i>—The Two Towers</i>",
+    "FlavorText": "Arrows thick as the rain came whistling over the battlements, and fell clinking and glancing on the stones. Many found their mark. \n—<i>The Two Towers</i>",
     "ArtistName": "Frank Walls",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "9f5ad61118a1d76099a07a9766abb392",
     "BannerMD5": null,
     "IconMD5": "a3a322dca6d4dda04df230a6ea88718e"
   },
   "Localization": {
     "Title": "Rain of Arrows",
-    "Text": "Deal 1 damage to all Enemies"
+    "Text": "Deal 1 damage to every Enemy"
   }
 }

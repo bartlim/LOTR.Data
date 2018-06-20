@@ -9,7 +9,7 @@
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "",
+    "Trait": "Main",
     "Rarity": 0,
     "Sphere": 2,
     "SphereLevel": 0,
@@ -25,10 +25,10 @@
     "Status": "Ready",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
-    "CardScale": 0.8,
+    "CardScale": 0.83,
     "CameoOffsetX": 1.0,
-    "CameoOffsetY": 0.95,
-    "CameoScale": 0.85,
+    "CameoOffsetY": 0.99,
+    "CameoScale": 1.06,
     "CombatValue": 0,
     "ResolutionValue": 0,
     "ComboList": [],
@@ -38,6 +38,6 @@
   },
   "Localization": {
     "Title": "Cocoon",
-    "Text": "You open the <i>Cocoon</i> to reveal what is trapped inside"
+    "Text": "When resolved, you tear open \nthe Cocoon and reveal what is trapped inside!"
   }
 }

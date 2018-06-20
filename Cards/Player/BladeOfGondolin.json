@@ -31,13 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "ComboList": [],
     "ArtworkMD5": "0ac571ea27f757e8c0b647ac8f0e47fc",
     "BannerMD5": null,
     "IconMD5": "1e1621ac4bfb09406453fb73922720e3"
   },
   "Localization": {
     "Title": "Blade of Gondolin",
-    "Text": "Gain +2 <size=120%><sprite=0></size>; lose 1 <size=120%><sprite=5></size>"
+    "Text": "Gain +2 <size=120%><sprite=0></size> and lose 1 <size=120%><sprite=5></size>"
   }
 }

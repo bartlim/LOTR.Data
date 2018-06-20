@@ -3,7 +3,7 @@
     "Id": "Rocks",
     "Owner": "Sauron",
     "CardType": 6,
-    "ShopType": "",
+    "ShopType": "Starter",
     "Cost": 0,
     "QuestPoints": 6,
     "Attack": 0,
@@ -22,7 +22,7 @@
     "DeathSFX": "",
     "FlavorText": "…the shores grew rocky the river gathered all its wandering waters together into a deep and rapid flood and they swept along at great speed.\n—<i>The Hobbit</i>",
     "ArtistName": "Jake Bullock",
-    "Status": "WIP",
+    "Status": "Ready",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
     "CardScale": 1.0,
@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "2b9a6102a09da35c4b6cb7102ab96889",
     "BannerMD5": "baab9e684e12bb3d1e7c8fb307d7fbba",
     "IconMD5": "3d49cf80873418f273fd5274b48850d8"
   },
   "Localization": {
     "Title": "Rocks!",
-    "Text": "End of round: Gain +2 <size=120%><sprite=4></size>"
+    "Text": "<line-height=100%>End of round: Until resolved, gain +2 <size=120%><sprite=4></size> "
   }
 }

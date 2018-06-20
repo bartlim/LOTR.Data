@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Dwarven Peacekeeping",
-    "Text": "Deal 2 damage to all Enemies; and deal 1 damage to all Allies"
+    "Text": "Deal 2 damage to every Enemy; then deal 1 damage to every Ally"
   }
 }

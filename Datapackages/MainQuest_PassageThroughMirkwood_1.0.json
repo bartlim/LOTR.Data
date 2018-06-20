@@ -274,7 +274,6 @@
         "Title": "TurnAndFlee",
         "SoloGameSetup": [
           "FindThePath",
-          "RangerProvisions",
           "DolGuldurOrcs",
           "GoblinSniper",
           "DolGuldurArcher"
@@ -355,11 +354,11 @@
         "Threshold": 3
       }
     ],
-    "AIBehavior": null
+    "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180604111932489",
+  "Version": "20180613195343709",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180604111932489"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180613195343709"
 }

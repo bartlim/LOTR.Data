@@ -8,13 +8,13 @@
       "Id": "Shadows of MirkwoodQuest01",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
-      "VictoryVoice": null,
-      "DefeatVoice": null,
+      "VictoryVoice": "Victory",
+      "DefeatVoice": "Defeat",
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
           "Id": "TheWoodmanVillage",
-          "SceneName": "Q01_L01_RansackedWoodmenVillage",
+          "SceneName": "Q01_L01_ForestGate",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -29,7 +29,7 @@
         {
           "Id": "TrackingTheFoe",
           "SceneName": "Q01_L01_ForestGate",
-          "IntroVoice": null,
+          "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": [
             "EastBightPatrol",
@@ -43,7 +43,7 @@
         {
           "Id": "GiveChase",
           "SceneName": "Q01_L01_ForestGate",
-          "IntroVoice": null,
+          "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": [
             "WargRiders",
@@ -57,7 +57,7 @@
         {
           "Id": "DelayingAttack",
           "SceneName": "Q01_L01_ForestGate",
-          "IntroVoice": null,
+          "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": [
             "OrcVanguard"
@@ -105,8 +105,35 @@
           "Amount": 2
         }
       ],
-      "FateCardList": null,
-      "ThreatCardList": null
+      "FateCardList": [
+        {
+          "Id": "RangersCache",
+          "Threshold": 4
+        },
+        {
+          "Id": "ShaftofSunlight",
+          "Threshold": 7
+        },
+        {
+          "Id": "SupportfromDale",
+          "Threshold": 10
+        }
+      ],
+      "ThreatCardList": [
+        {
+          "Id": "SpidersDescend",
+          "Threshold": 1
+        },
+        {
+          "Id": "Poisoned",
+          "Threshold": 2
+        },
+        {
+          "Id": "WaveOfFear",
+          "Threshold": 3
+        }
+      ],
+      "AIBehavior": null
     },
     {
       "Id": "Shadows of MirkwoodQuest02",
@@ -132,7 +159,7 @@
         {
           "Id": "TheHallsOfNibindum",
           "SceneName": "Q01_L01_ForestGate",
-          "IntroVoice": null,
+          "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": [
             ""
@@ -144,7 +171,7 @@
         {
           "Id": "ASneakyPath",
           "SceneName": "Q01_L01_ForestGate",
-          "IntroVoice": null,
+          "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": null,
           "NextStageId": "TheOrcsLair",
@@ -154,7 +181,7 @@
         {
           "Id": "ADirectAssault",
           "SceneName": "Q01_L01_ForestGate",
-          "IntroVoice": null,
+          "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": null,
           "NextStageId": "TheOrcsLair",
@@ -164,7 +191,7 @@
         {
           "Id": "TheOrcsLair",
           "SceneName": "Q01_L01_ForestGate",
-          "IntroVoice": null,
+          "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": null,
           "NextStageId": "",
@@ -211,7 +238,8 @@
         }
       ],
       "FateCardList": null,
-      "ThreatCardList": null
+      "ThreatCardList": null,
+      "AIBehavior": null
     },
     {
       "Id": "Shadows of MirkwoodQuest03",
@@ -236,7 +264,7 @@
         {
           "Id": "UseTheStream",
           "SceneName": "Q01_L01_ForestGate",
-          "IntroVoice": null,
+          "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": null,
           "NextStageId": "ApproachingRhosgobel",
@@ -246,7 +274,7 @@
         {
           "Id": "HideAndSeek",
           "SceneName": "Q01_L01_ForestGate",
-          "IntroVoice": null,
+          "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": null,
           "NextStageId": "ApproachingRhosgobel",
@@ -256,7 +284,7 @@
         {
           "Id": "ApproachingRhosgobel",
           "SceneName": "Q01_L01_ForestGate",
-          "IntroVoice": null,
+          "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": null,
           "NextStageId": "ALastStand",
@@ -266,7 +294,7 @@
         {
           "Id": "ALastStand",
           "SceneName": "Q01_L01_ForestGate",
-          "IntroVoice": null,
+          "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": null,
           "NextStageId": "",
@@ -313,7 +341,8 @@
         }
       ],
       "FateCardList": null,
-      "ThreatCardList": null
+      "ThreatCardList": null,
+      "AIBehavior": null
     },
     {
       "Id": "Shadows of MirkwoodQuest04",
@@ -376,7 +405,8 @@
         }
       ],
       "FateCardList": null,
-      "ThreatCardList": null
+      "ThreatCardList": null,
+      "AIBehavior": null
     },
     {
       "Id": "Shadows of MirkwoodQuest05",
@@ -439,7 +469,8 @@
         }
       ],
       "FateCardList": null,
-      "ThreatCardList": null
+      "ThreatCardList": null,
+      "AIBehavior": null
     }
   ]
 }

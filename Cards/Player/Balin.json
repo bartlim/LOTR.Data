@@ -2,7 +2,7 @@
   "CardData": {
     "Id": "Balin",
     "Owner": "Player",
-    "CardType": 5,
+    "CardType": 0,
     "ShopType": "HeroPack_LordOfMoria",
     "Cost": 11,
     "QuestPoints": 0,
@@ -23,21 +23,21 @@
     "FlavorText": "",
     "ArtistName": "",
     "Status": "WIP",
-    "CardOffsetX": 1.0,
-    "CardOffsetY": 1.0,
-    "CardScale": 1.0,
-    "CameoOffsetX": 1.0,
-    "CameoOffsetY": 1.0,
-    "CameoScale": 1.0,
+    "CardOffsetX": 1.06,
+    "CardOffsetY": 0.9,
+    "CardScale": 0.9,
+    "CameoOffsetX": 1.06,
+    "CameoOffsetY": 0.87,
+    "CameoScale": 0.85,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "ComboList": [],
     "ArtworkMD5": "581f0545890851cbc39b214fb0d7bd79",
-    "BannerMD5": "25aa1830ad0b22d23b797d2e77b485dc",
-    "IconMD5": null
+    "BannerMD5": "af1eb55c4535f9d00ae74d1b834092b0",
+    "IconMD5": "6f47291b612da0dfdf4ab8e4bf82882d"
   },
   "Localization": {
     "Title": "‰Balin",
-    "Text": "<line-height=100%><b>Power</b>: Discard a Shadow\n(cost 1 <size=120%><sprite=3></size>)"
+    "Text": "<line-height=100%><b>Power</b>: Spend 1 <size=120%><sprite=3></size> to discard \na <b><i>Shadow</i></b> Attachment"
   }
 }

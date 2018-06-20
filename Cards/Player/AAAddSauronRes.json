@@ -1,15 +1,15 @@
 {
   "CardData": {
-    "Id": "TheSquirmingCocoon",
+    "Id": "AAAddSauronRes",
     "Owner": "Player",
-    "CardType": 10,
+    "CardType": 4,
     "ShopType": "",
-    "Cost": 6,
+    "Cost": 0,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "Fate",
+    "Trait": "",
     "Rarity": 0,
     "Sphere": 2,
     "SphereLevel": 0,
@@ -22,7 +22,7 @@
     "DeathSFX": "",
     "FlavorText": "",
     "ArtistName": "",
-    "Status": "WIP",
+    "Status": "",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
     "CardScale": 1.0,
@@ -37,7 +37,7 @@
     "IconMD5": null
   },
   "Localization": {
-    "Title": "The Squirming Cocoon",
-    "Text": "<i>Some poor soul struggles against the thick webs.</i>\n\nYou burst the <i>Cocoon</i> to free the captive!"
+    "Title": "Add Sauron Resource",
+    "Text": "Give Sauron resources so he can play with some expensive cards"
   }
 }

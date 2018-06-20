@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Oaths You Have Taken",
-    "Text": "When the next Character is defeated, all Allies gain \n+1 <size=120%><sprite=0></size> this round"
+    "Text": "<line-height=100%>When the next Character is defeated, every Ally gains \n+1 <size=120%><sprite=0></size> this round"
   }
 }

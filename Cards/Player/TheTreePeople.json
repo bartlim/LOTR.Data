@@ -23,12 +23,21 @@
     "FlavorText": "No folk could they see, nor hear any feet upon the paths; but there were many voices, about them, and in the air above. \n<i>–The Fellowship of the Ring</i>",
     "ArtistName": "Stacey Diana Clark",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "d6225e3fb6d3cbd0cb7cfa88f58488ad",
     "BannerMD5": null,
     "IconMD5": "9467e2442acb2d79376b35dff2b2d2c4"
   },
   "Localization": {
     "Title": "The Tree People",
-    "Text": "Return a Silvan Ally to your hand to play a random \nSilvan Ally"
+    "Text": "Return a <b><i>Silvan</b></i> Ally to your hand to play a random \n<b><i>Silvan</b></i> Ally"
   }
 }

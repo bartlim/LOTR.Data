@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
-    "Title": "Daughter of the Nimrodel",
-    "Text": "<line-height=100%><b>Power</b>: Exhaust this Character \nto restore 2 <size=120%><sprite=2></size> to a Hero"
+    "Title": "<size=90%>Daughter of the Nimrodel",
+    "Text": "<line-height=100%><b>Power</b>: Exhaust Daughter of \nthe Nimrodel to restore \n2 <size=120%><sprite=2></size> to a Hero"
   }
 }

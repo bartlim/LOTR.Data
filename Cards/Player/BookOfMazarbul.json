@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Book of Mazarbul",
-    "Text": "<b>Power</b>: Draw 2 cards (cost 1 <size=120%><sprite=3></size>)"
+    "Text": "<b>Power</b>: Spend 1 <size=120%><sprite=3></size> to draw \n2 cards"
   }
 }

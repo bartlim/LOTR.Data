@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Elven Blade",
-    "Text": "<line-height=100%>[Silvan or Noldor only.] \n+2 <size=120%><sprite=0></size>"
+    "Text": "<line-height=100%><b><i>Noldor</b></i> or <b><i>Silvan</b></i> only.\n+2 <size=120%><sprite=0></size>"
   }
 }

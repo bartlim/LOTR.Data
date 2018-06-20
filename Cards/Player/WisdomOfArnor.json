@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Wisdom of Arnor",
-    "Text": "<b>Choose</b>: Draw 2 cards; or reduce the cost of all cards in your hand by 1 (minimum 0)"
+    "Text": "Choose: Draw 2 cards; or reduce the cost of all cards in your hand by 1 this round (minimum 0)"
   }
 }

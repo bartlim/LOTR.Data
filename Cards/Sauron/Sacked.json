@@ -23,12 +23,21 @@
     "FlavorText": "As each dwarf came up and looked at the fire, and the spilled jugs, and the gnawed mutton, in surprise, pop! went a nasty smelly sack over his head, and he was down.\n—<i>The Hobbit</i>",
     "ArtistName": "Lorraine Schleter",
     "Status": "Ready",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "215b161f77700e2dd0a1c3637dec34af",
     "BannerMD5": null,
     "IconMD5": "5527c27636b5bba91641b7def5470465"
   },
   "Localization": {
     "Title": "Sacked!",
-    "Text": "A random Character is trapped\nin a <i>Troll Sack</i>"
+    "Text": "A random Character is trapped\nin a Troll Sack"
   }
 }

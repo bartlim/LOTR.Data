@@ -31,13 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "ComboList": [],
     "ArtworkMD5": "bc6ce7ad56c2c3ced39d81b2ccbac612",
     "BannerMD5": "4e0887cb2b62d5dc0bb80b7f3b449ed9",
     "IconMD5": "f80bc2947ab6140605e7a35125d12c9b"
   },
   "Localization": {
     "Title": "Dwarven Axe",
-    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=0></size>; or\ngain +2 <size=120%><sprite=0></size> if Dwarf"
+    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=0></size>; or\ngain +2 <size=120%><sprite=0></size> if a <b><i>Dwarf</b></i>"
   }
 }

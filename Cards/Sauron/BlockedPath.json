@@ -31,13 +31,13 @@
     "CameoScale": 0.85,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": "1ca4bb62ae2b82ac828ff78ebe1ccbf1"
   },
   "Localization": {
     "Title": "Blocked Path",
-    "Text": "You cannot engage other \nHazards or Objectives"
+    "Text": "Until resolved, you cannot engage other Objectives"
   }
 }

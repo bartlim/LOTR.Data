@@ -4,7 +4,7 @@
     "Owner": "Player",
     "CardType": 1,
     "ShopType": "Starter",
-    "Cost": 2,
+    "Cost": 1,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "e525cd9729231f92bfa21c889e580c02",
     "BannerMD5": "2b3852d908538ed4b063ae7510c93866",
     "IconMD5": "8566fb5eab0a819dd49165eb2f4275df"
   },
   "Localization": {
     "Title": "Spike Trap",
-    "Text": "[Non-unique Enemy only.]\n<b>Upkeep</b>: Deal 1 damage to\nthis Enemy"
+    "Text": "Non-unique Enemy only.\n<b>Upkeep</b>: Deal 1 damage to\nthis Enemy"
   }
 }

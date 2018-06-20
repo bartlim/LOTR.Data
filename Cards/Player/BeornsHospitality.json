@@ -31,12 +31,13 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "ComboList": [],
     "ArtworkMD5": "8eea581516076b8daa71f04857067fd1",
     "BannerMD5": "f232d9774b866c59779ef533e6423dd4",
     "IconMD5": "bc869ae2383be5abc3881dc6992f0829"
   },
   "Localization": {
     "Title": "Beorn's Hospitality",
-    "Text": "<line-height=100%><b>Choose</b>: Restore 1 <size=120%><sprite=2></size>\nto all Characters; or restore\n4 <size=120%><sprite=2></size> to a Hero"
+    "Text": "<line-height=100%><b>Choose</b>: Restore 1 <size=120%><sprite=2></size>\nto every Character; or \nrestore 4 <size=120%><sprite=2></size> to a Hero"
   }
 }
