@@ -344,7 +344,26 @@
           "DemoLocation2a",
           "DemoLocation2b"
         ],
-        "FateCardList": []
+        "FateCardList": [
+          {
+            "Id": "fate1",
+            "Threshold": 1
+          },
+          {
+            "Id": "fate2",
+            "Threshold": 2
+          }
+        ],
+        "ThreatCardList": [
+          {
+            "Id": "threat1",
+            "Threshold": 1
+          },
+          {
+            "Id": "threat2",
+            "Threshold": 2
+          }
+        ]
       },
       {
         "Title": "DemoLocation2a",
@@ -359,7 +378,8 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": null
+        "FateCardList": null,
+        "ThreatCardList": null
       },
       {
         "Title": "DemoLocation2b",
@@ -374,7 +394,8 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": null
+        "FateCardList": null,
+        "ThreatCardList": null
       }
     ],
     "Sequences": [],
@@ -409,9 +430,9 @@
     ],
     "AIBehavior": null
   },
-  "Version": "20180525035239227",
+  "Version": "20180620115858643",
   "Key": "MainQuest",
   "SubKey": "Demo051618Quest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Demo051618Quest01_20180525035239227"
+  "InternalKey": "MainQuest_Demo051618Quest01_20180620115858643"
 }
