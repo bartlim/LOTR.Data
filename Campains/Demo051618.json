@@ -26,7 +26,26 @@
           ],
           "NextStageId": "DemoLocation2a,DemoLocation2b",
           "BGM": "mus_mirkwood",
-          "FateCardList": []
+          "FateCardList": [
+            {
+              "Id": "fate1",
+              "Threshold": 1
+            },
+            {
+              "Id": "fate2",
+              "Threshold": 2
+            }
+          ],
+          "ThreatCardList": [
+            {
+              "Id": "threat1",
+              "Threshold": 1
+            },
+            {
+              "Id": "threat2",
+              "Threshold": 2
+            }
+          ]
         },
         {
           "Id": "DemoLocation2a",
@@ -41,7 +60,8 @@
           ],
           "NextStageId": "",
           "BGM": "mus_mirkwood",
-          "FateCardList": null
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "DemoLocation2b",
@@ -56,7 +76,8 @@
           ],
           "NextStageId": "",
           "BGM": "mus_mirkwood",
-          "FateCardList": null
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
@@ -294,7 +315,8 @@
           ],
           "NextStageId": "",
           "BGM": null,
-          "FateCardList": []
+          "FateCardList": [],
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
@@ -358,7 +380,8 @@
           ],
           "NextStageId": "",
           "BGM": null,
-          "FateCardList": []
+          "FateCardList": [],
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
@@ -422,7 +445,8 @@
           ],
           "NextStageId": "",
           "BGM": null,
-          "FateCardList": []
+          "FateCardList": [],
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
@@ -486,7 +510,8 @@
           ],
           "NextStageId": "",
           "BGM": null,
-          "FateCardList": []
+          "FateCardList": [],
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
