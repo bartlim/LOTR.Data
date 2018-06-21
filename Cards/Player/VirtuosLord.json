@@ -1,0 +1,43 @@
+{
+  "CardData": {
+    "Id": "VirtuosLord",
+    "Owner": "Player",
+    "CardType": 0,
+    "ShopType": "",
+    "Cost": 3,
+    "QuestPoints": 0,
+    "Attack": 2,
+    "Willpower": 3,
+    "Health": 5,
+    "Trait": "Dunadan",
+    "Rarity": 0,
+    "Sphere": 0,
+    "SphereLevel": 1,
+    "Revision": null,
+    "PlayVFX": "",
+    "PlaySFX": "",
+    "AttackVFX": "",
+    "AttackSFX": "",
+    "DeathVFX": "",
+    "DeathSFX": "",
+    "FlavorText": "",
+    "ArtistName": "",
+    "Status": "",
+    "CardOffsetX": 1.0,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
+    "CameoOffsetX": 1.0,
+    "CameoOffsetY": 1.0,
+    "CameoScale": 1.0,
+    "CombatValue": 0,
+    "ResolutionValue": 0,
+    "ComboList": [],
+    "ArtworkMD5": null,
+    "BannerMD5": null,
+    "IconMD5": null
+  },
+  "Localization": {
+    "Title": "Virtuos Lord",
+    "Text": "<b>Arrival</b>: +2 <size=120%><sprite=0></size> to one character"
+  }
+}
