@@ -238,7 +238,13 @@
         "NextStageTitles": [
           "CapturedBySpiders"
         ],
-        "FateCardList": null
+        "FateCardList": null,
+        "ThreatCardList": [
+          {
+            "Id": "WebsEverywhere",
+            "Threshold": 3
+          }
+        ]
       },
       {
         "Title": "CapturedBySpiders",
@@ -252,7 +258,13 @@
           "StandAndFight",
           "TurnAndFlee"
         ],
-        "FateCardList": null
+        "FateCardList": null,
+        "ThreatCardList": [
+          {
+            "Id": "AFoulWind",
+            "Threshold": 3
+          }
+        ]
       },
       {
         "Title": "StandAndFight",
@@ -268,7 +280,8 @@
         "NextStageTitles": [
           "TheEnchantedStream"
         ],
-        "FateCardList": []
+        "FateCardList": [],
+        "ThreatCardList": null
       },
       {
         "Title": "TurnAndFlee",
@@ -283,7 +296,8 @@
         "NextStageTitles": [
           "TheEnchantedStreamAlt"
         ],
-        "FateCardList": null
+        "FateCardList": null,
+        "ThreatCardList": null
       },
       {
         "Title": "TheEnchantedStream",
@@ -301,7 +315,8 @@
             "Id": "FateKingsfoil",
             "Threshold": 6
           }
-        ]
+        ],
+        "ThreatCardList": null
       },
       {
         "Title": "TheEnchantedStreamAlt",
@@ -321,7 +336,8 @@
             "Id": "SavedbytheElves",
             "Threshold": 6
           }
-        ]
+        ],
+        "ThreatCardList": null
       }
     ],
     "Sequences": [],
@@ -356,9 +372,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180613195343709",
+  "Version": "20180621092749504",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180613195343709"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180621092749504"
 }
