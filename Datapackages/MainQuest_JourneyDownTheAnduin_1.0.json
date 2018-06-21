@@ -262,7 +262,8 @@
             "Id": "DistractTheTroll",
             "Threshold": 6
           }
-        ]
+        ],
+        "ThreatCardList": null
       },
       {
         "Title": "AnduinPassage",
@@ -277,7 +278,8 @@
         "NextStageTitles": [
           "TreacherousShortcut"
         ],
-        "FateCardList": null
+        "FateCardList": null,
+        "ThreatCardList": null
       },
       {
         "Title": "TreacherousShortcut",
@@ -293,7 +295,8 @@
         "NextStageTitles": [
           "AmbushOnTheShoreStage"
         ],
-        "FateCardList": null
+        "FateCardList": null,
+        "ThreatCardList": null
       },
       {
         "Title": "GentleWaters",
@@ -307,7 +310,8 @@
         "NextStageTitles": [
           "AmbushOnTheShoreStage"
         ],
-        "FateCardList": []
+        "FateCardList": [],
+        "ThreatCardList": null
       },
       {
         "Title": "AmbushOnTheShoreStage",
@@ -328,7 +332,8 @@
             "Id": "SavedByTheBeornings",
             "Threshold": 6
           }
-        ]
+        ],
+        "ThreatCardList": null
       }
     ],
     "Sequences": [],
@@ -363,9 +368,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180613195358366",
+  "Version": "20180621092803834",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180613195358366"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180621092803834"
 }
