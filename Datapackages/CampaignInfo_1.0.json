@@ -29,7 +29,12 @@
               "NextStageId": "CapturedBySpiders",
               "BGM": "mus_thewilderlands",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": [
+                {
+                  "Id": "WebsEverywhere",
+                  "Threshold": 3
+                }
+              ]
             },
             {
               "Id": "CapturedBySpiders",
@@ -43,7 +48,12 @@
               "NextStageId": "StandAndFight,TurnAndFlee",
               "BGM": "mus_dungeon",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": [
+                {
+                  "Id": "AFoulWind",
+                  "Threshold": 3
+                }
+              ]
             },
             {
               "Id": "StandAndFight",
