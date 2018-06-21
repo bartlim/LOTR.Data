@@ -251,7 +251,8 @@
         "NextStageTitles": [
           "TheTrollsDinner"
         ],
-        "FateCardList": null
+        "FateCardList": null,
+        "ThreatCardList": null
       },
       {
         "Title": "TheTrollsDinner",
@@ -266,7 +267,8 @@
         "NextStageTitles": [
           "FightWithTheTrolls"
         ],
-        "FateCardList": null
+        "FateCardList": null,
+        "ThreatCardList": null
       },
       {
         "Title": "FightWithTheTrolls",
@@ -286,7 +288,8 @@
             "Id": "BoldResolve",
             "Threshold": 6
           }
-        ]
+        ],
+        "ThreatCardList": null
       }
     ],
     "Sequences": [],
@@ -321,9 +324,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180613195402754",
+  "Version": "20180621092809326",
   "Key": "MainQuest",
   "SubKey": "ConflictAtTheCarrock",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180613195402754"
+  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180621092809326"
 }
