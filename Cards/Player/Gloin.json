@@ -6,12 +6,12 @@
     "ShopType": "HeroPack_QuickTemperedDwarf",
     "Cost": 9,
     "QuestPoints": 0,
-    "Attack": 1,
-    "Willpower": 2,
-    "Health": 9,
+    "Attack": 2,
+    "Willpower": 1,
+    "Health": 11,
     "Trait": "Dwarf",
     "Rarity": 5,
-    "Sphere": 3,
+    "Sphere": 0,
     "SphereLevel": 0,
     "Revision": "test",
     "PlayVFX": "",
@@ -24,13 +24,14 @@
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
-    "CardOffsetY": 1.0,
-    "CardScale": 1.0,
+    "CardOffsetY": 0.815,
+    "CardScale": 0.8,
     "CameoOffsetX": 1.0,
-    "CameoOffsetY": 1.0,
-    "CameoScale": 1.0,
+    "CameoOffsetY": 0.815,
+    "CameoScale": 0.8,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
     "ComboList": [],
     "ArtworkMD5": "e815c2b1a5760adcdf24bb68118afed4",
     "BannerMD5": "e68c87c73e805da244219392ce0c7cfb",
@@ -38,6 +39,6 @@
   },
   "Localization": {
     "Title": "‰Glóin",
-    "Text": "<line-height=100%><b>Power</b>: Lose 1 <sprite=2> to give\nevery wounded <b><i>Dwarf</b></i> \n+1 <size=120%><sprite=5></size> this round"
+    "Text": "<b>Power</b>: Spend 2 <size=120%><sprite=3></size> to remove a Shadow"
   }
 }
