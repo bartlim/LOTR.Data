@@ -285,7 +285,7 @@
         "SoloGameSetup": [
           "EscapeTheSpidersLair",
           "SpidersOfMirkwood",
-          "RangerProvisions"
+          "ThickWebs"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -344,9 +344,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180621092754313",
+  "Version": "20180622193707377",
   "Key": "MainQuest",
   "SubKey": "FliesAndSpiders",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_FliesAndSpiders_20180621092754313"
+  "InternalKey": "MainQuest_FliesAndSpiders_20180622193707377"
 }
