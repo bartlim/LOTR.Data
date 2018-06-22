@@ -343,7 +343,8 @@
         "NextStageTitles": [
           "ForestStream"
         ],
-        "FateCardList": null
+        "FateCardList": null,
+        "ThreatCardList": null
       },
       {
         "Title": "ForestStream",
@@ -364,7 +365,8 @@
             "Id": "FearOfTheFlames",
             "Threshold": 6
           }
-        ]
+        ],
+        "ThreatCardList": null
       },
       {
         "Title": "BareHilltop",
@@ -385,7 +387,8 @@
             "Id": "DistractingCall",
             "Threshold": 6
           }
-        ]
+        ],
+        "ThreatCardList": null
       },
       {
         "Title": "MirkwoodSwamp",
@@ -400,7 +403,8 @@
         "NextStageTitles": [
           "OvergrownTrail"
         ],
-        "FateCardList": null
+        "FateCardList": null,
+        "ThreatCardList": null
       },
       {
         "Title": "OvergrownTrail",
@@ -415,7 +419,8 @@
         "NextStageTitles": [
           "AbandonedVillage"
         ],
-        "FateCardList": null
+        "FateCardList": null,
+        "ThreatCardList": null
       },
       {
         "Title": "AbandonedVillage",
@@ -430,7 +435,8 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": null
+        "FateCardList": null,
+        "ThreatCardList": null
       }
     ],
     "Sequences": [],
@@ -465,9 +471,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180613195353570",
+  "Version": "20180621092759035",
   "Key": "MainQuest",
   "SubKey": "LostInMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_LostInMirkwood_20180613195353570"
+  "InternalKey": "MainQuest_LostInMirkwood_20180621092759035"
 }

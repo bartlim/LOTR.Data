@@ -262,7 +262,8 @@
             "Id": "UnexpectedAid",
             "Threshold": 6
           }
-        ]
+        ],
+        "ThreatCardList": null
       },
       {
         "Title": "TheSpidersLair",
@@ -276,7 +277,8 @@
         "NextStageTitles": [
           "TheSpidersWebs"
         ],
-        "FateCardList": null
+        "FateCardList": null,
+        "ThreatCardList": null
       },
       {
         "Title": "TheSpidersWebs",
@@ -290,7 +292,8 @@
         "NextStageTitles": [
           "ForestGlade"
         ],
-        "FateCardList": null
+        "FateCardList": null,
+        "ThreatCardList": null
       },
       {
         "Title": "ForestGlade",
@@ -305,7 +308,8 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": null
+        "FateCardList": null,
+        "ThreatCardList": null
       }
     ],
     "Sequences": [],
@@ -340,9 +344,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180613195348635",
+  "Version": "20180621092754313",
   "Key": "MainQuest",
   "SubKey": "FliesAndSpiders",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_FliesAndSpiders_20180613195348635"
+  "InternalKey": "MainQuest_FliesAndSpiders_20180621092754313"
 }
