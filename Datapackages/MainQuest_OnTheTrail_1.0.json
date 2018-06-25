@@ -105,6 +105,24 @@
         ],
         "FateCardList": null,
         "ThreatCardList": null
+      },
+      {
+        "Title": "ASecretWay",
+        "SoloGameSetup": [
+          "FindYourWay",
+          "RejoinTheTrail",
+          "WildBear",
+          "MuckAdder",
+          "SpiderGuard"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "Ambushed",
+          "MirkwoodSwamp"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
       }
     ],
     "Sequences": [],
@@ -113,9 +131,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180625181439854",
+  "Version": "20180625183148748",
   "Key": "MainQuest",
   "SubKey": "OnTheTrail",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_OnTheTrail_20180625181439854"
+  "InternalKey": "MainQuest_OnTheTrail_20180625183148748"
 }
