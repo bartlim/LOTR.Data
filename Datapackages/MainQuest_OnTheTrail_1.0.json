@@ -87,6 +87,24 @@
         ],
         "FateCardList": [],
         "ThreatCardList": null
+      },
+      {
+        "Title": "AlongTheTrail",
+        "SoloGameSetup": [
+          "ContinueOnTheTrail",
+          "OffThePath",
+          "GoblinTaskmaster",
+          "GoblinSniper",
+          "DolGuldurOrc"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "Ambushed",
+          "MirkwoodSwamp"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
       }
     ],
     "Sequences": [],
@@ -95,9 +113,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180625181146093",
+  "Version": "20180625181439854",
   "Key": "MainQuest",
   "SubKey": "OnTheTrail",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_OnTheTrail_20180625181146093"
+  "InternalKey": "MainQuest_OnTheTrail_20180625181439854"
 }
