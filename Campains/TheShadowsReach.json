@@ -454,6 +454,23 @@
           "BGM": "mus_cave",
           "FateCardList": null,
           "ThreatCardList": null
+        },
+        {
+          "Id": "ASecretWay",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroVoice": "",
+          "IntroSprite": null,
+          "SoloGameSetup": [
+            "FindYourWay",
+            "RejoinTheTrail",
+            "WildBear",
+            "MuckAdder",
+            "SpiderGuard"
+          ],
+          "NextStageId": "Ambushed,MirkwoodSwamp",
+          "BGM": "mus_cave",
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
