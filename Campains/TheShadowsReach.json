@@ -422,16 +422,19 @@
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
-          "Id": "Location301",
+          "Id": "IntoTheForest",
           "SceneName": "Q01_L01_ForestGate",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
-            "FindThePath",
-            "VeteranPatrol"
+            "FollowTheTrail",
+            "ListenToGollum",
+            "GoblinSniper",
+            "DolGuldurArcher",
+            "GoblinTaskmaster"
           ],
-          "NextStageId": "",
-          "BGM": null,
+          "NextStageId": "AlongTheTrail,ASecretWay",
+          "BGM": "mus_cave",
           "FateCardList": [],
           "ThreatCardList": null
         }
