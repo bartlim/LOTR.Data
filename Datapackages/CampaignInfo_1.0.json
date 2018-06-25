@@ -21,6 +21,7 @@
               "IntroSprite": "Sprites/Locations/Quest1_Stage01",
               "SoloGameSetup": [
                 "HiddenPath",
+                "WatchfulEyes",
                 "EastBightPatrol",
                 "EastBightPatrol",
                 "DolGuldurArcher",
@@ -29,12 +30,7 @@
               "NextStageId": "CapturedBySpiders",
               "BGM": "mus_thewilderlands",
               "FateCardList": null,
-              "ThreatCardList": [
-                {
-                  "Id": "WebsEverywhere",
-                  "Threshold": 3
-                }
-              ]
+              "ThreatCardList": []
             },
             {
               "Id": "CapturedBySpiders",
@@ -48,12 +44,7 @@
               "NextStageId": "StandAndFight,TurnAndFlee",
               "BGM": "mus_dungeon",
               "FateCardList": null,
-              "ThreatCardList": [
-                {
-                  "Id": "AFoulWind",
-                  "Threshold": 3
-                }
-              ]
+              "ThreatCardList": []
             },
             {
               "Id": "StandAndFight",
@@ -336,8 +327,8 @@
               "SoloGameSetup": [
                 "EscapeTheSpidersLair",
                 "ThickWebs",
-                "SpidersOfMirkwood",
-                "RangerProvisions"
+                "ThickWebs",
+                "SpidersOfMirkwood"
               ],
               "NextStageId": "ForestGlade",
               "BGM": "mus_dungeon",
@@ -545,6 +536,7 @@
               "SoloGameSetup": [
                 "FollowTheStream",
                 "ClimbTheHill",
+                "WatchfulEyes",
                 "BlackForestBats",
                 "GiantSpider",
                 "WildBear"
@@ -1161,6 +1153,7 @@
               "IntroSprite": "Sprites/Locations/Quest5_Stage02",
               "SoloGameSetup": [
                 "RescueGrimbeorn",
+                "GrowingDarkness",
                 "HillTroll",
                 "AnduinTrollSpawn",
                 "BlackForestBats"
