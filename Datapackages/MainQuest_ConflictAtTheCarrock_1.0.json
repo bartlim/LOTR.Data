@@ -258,6 +258,7 @@
         "Title": "TheTrollsDinner",
         "SoloGameSetup": [
           "RescueGrimbeorn",
+          "GrowingDarkness",
           "HillTroll",
           "AnduinTrollSpawn",
           "BlackForestBats"
@@ -324,9 +325,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180625070749622",
+  "Version": "20180625071242205",
   "Key": "MainQuest",
   "SubKey": "ConflictAtTheCarrock",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180625070749622"
+  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180625071242205"
 }
