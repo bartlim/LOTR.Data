@@ -2701,7 +2701,7 @@
   },
   {
     "Id": "U_SHOP_VALOR_GO_BUY_HERO_PACK",
-    "Text": "To unlock this card, purchase the Hero Pack: {0}",
+    "Text": "To unlock this card, purchase \nthe Hero Pack: {0}",
     "Text_CN": "[C]要解锁这张卡，请购买英雄卡包：{0}",
     "Text_FR": "To unlock this card, purchase the Hero Pack: {0}"
   },
@@ -3871,19 +3871,19 @@
   },
   {
     "Id": "U_DECK_TO_ADD_MUST_HAVE_1_HERO",
-    "Text": "To add this card, your deck must have 1 {0} Hero",
+    "Text": "To use this card, your deck \nmust have 1 {0} Hero",
     "Text_CN": "[C]To add this card, your deck must have 1 {0} Hero",
     "Text_FR": "To add this card, your deck must have 1 {0} Hero"
   },
   {
     "Id": "U_DECK_TO_ADD_MUST_HAVE_2_HERO",
-    "Text": "To add this card, your deck must have 2 {0} Heroes",
+    "Text": "To use this card, your deck \nmust have 2 {0} Heroes",
     "Text_CN": "[C]To add this card, your deck must have 2 {0} Heroes",
     "Text_FR": "To add this card, your deck must have 2 {0} Heroes"
   },
   {
     "Id": "U_DECK_TO_ADD_MUST_HAVE_3_HERO",
-    "Text": "To add this card, your deck must have 3 {0} Heroes",
+    "Text": "To use this card, your deck \nmust have 3 {0} Heroes",
     "Text_CN": "[C]To add this card, your deck must have 3 {0} Heroes",
     "Text_FR": "To add this card, your deck must have 3 {0} Heroes"
   },
@@ -3922,6 +3922,78 @@
     "Text": "Your reward on this Quest is time locked!\nTry again tomorrow to earn your maximum reward.",
     "Text_CN": "[C]Your reward on this Quest is time locked!\nTry again tomorrow to earn your maximum reward.",
     "Text_FR": "Your reward on this Quest is time locked!\nTry again tomorrow to earn your maximum reward."
+  },
+  {
+    "Id": "U_DECKMENU_FILTER_OWNED_ALLCARDS",
+    "Text": "All Cards",
+    "Text_CN": "[C]All Cards",
+    "Text_FR": "All Cards"
+  },
+  {
+    "Id": "U_DECKMENU_FILTER_OWNED_OWNED",
+    "Text": "Owned",
+    "Text_CN": "[C]Owned",
+    "Text_FR": "Owned"
+  },
+  {
+    "Id": "U_DECKMENU_FILTER_OWNED_UNOWNED",
+    "Text": "Unowned",
+    "Text_CN": "[C]Unowned",
+    "Text_FR": "Unowned"
+  },
+  {
+    "Id": "U_SHOP_VALOR_PURCHASE_1_CARD",
+    "Text": "1 Card",
+    "Text_CN": "[C]1 Card",
+    "Text_FR": "1 Card"
+  },
+  {
+    "Id": "U_SHOP_VALOR_PURCHASE_2_CARDS",
+    "Text": "2 Cards",
+    "Text_CN": "[C]2 Cards",
+    "Text_FR": "2 Cards"
+  },
+  {
+    "Id": "U_SHOP_VALOR_PURCHASE_OWN_ALL",
+    "Text": "You own all available copies\n of this card",
+    "Text_CN": "[C]You own all available copies\n of this card",
+    "Text_FR": "You own all available copies\n of this card"
+  },
+  {
+    "Id": "U_SHOP_VALOR_GO_BUY_VALOR",
+    "Text": "To unlock this card, purchase \nit from the Valor Menu",
+    "Text_CN": "[C]To unlock this card, purchase \nit from the Valor Menu",
+    "Text_FR": "To unlock this card, purchase \nit from the Valor Menu"
+  },
+  {
+    "Id": "U_DECKMENU_CARD_AVAILABLE_IN_HEROPACK",
+    "Text": "This card is available in the \nHero Pack: {0}.\nDo you want to view the pack contents?",
+    "Text_CN": "[C]This card is available in the \nHero Pack: {0}.\nDo you want to view the pack contents?",
+    "Text_FR": "This card is available in the \nHero Pack: {0}.\nDo you want to view the pack contents?"
+  },
+  {
+    "Id": "U_DECKMENU_ROLLOVER_SAVE",
+    "Text": "Select to save this deck",
+    "Text_CN": "[C]Select to save this deck",
+    "Text_FR": "Select to save this deck"
+  },
+  {
+    "Id": "U_DECKMENU_ROLLOVER_COPY",
+    "Text": "Select to copy this deck",
+    "Text_CN": "[C]Select to copy this deck",
+    "Text_FR": "Select to copy this deck"
+  },
+  {
+    "Id": "U_DECKMENU_ROLLOVER_DELETE",
+    "Text": "Select to delete this deck",
+    "Text_CN": "[C]Select to delete this deck",
+    "Text_FR": "Select to delete this deck"
+  },
+  {
+    "Id": "U_DECKMENU_DECK_COPIED",
+    "Text": "Deck copied",
+    "Text_CN": "[C]Deck copied",
+    "Text_FR": "Deck copied"
   },
   {
     "Id": "PLACEHOLDER2",
