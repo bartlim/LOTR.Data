@@ -71,15 +71,16 @@
     },
     "Stages": [
       {
-        "Title": "Location401",
+        "Title": "HidingInTheShadows",
         "SoloGameSetup": [
-          "FindThePath",
-          "VeteranPatrol"
+          "AvoidThePatrols",
+          "GoblinPatrol",
+          "GoblinPatrol"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "ASecretDoor"
         ],
         "FateCardList": [],
         "ThreatCardList": null
@@ -91,9 +92,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180625193234720",
+  "Version": "20180625201137769",
   "Key": "MainQuest",
   "SubKey": "TheTowerInDarkness",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheTowerInDarkness_20180625193234720"
+  "InternalKey": "MainQuest_TheTowerInDarkness_20180625201137769"
 }
