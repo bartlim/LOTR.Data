@@ -12690,5 +12690,21 @@
   {
     "Id": "Q_STAGE_FORESTLAIR_OBJECTIVE",
     "Text": "Defeat Ungoliant's Spawn"
+  },
+  {
+    "Id": "Q_QUEST_ONTHETRAIL_NAME",
+    "Text": "On The Trail"
+  },
+  {
+    "Id": "Q_QUEST_ONTHETRAIL_DESCRIPTION",
+    "Text": "After defeating the foul spider, a small creature is found huddled in the corner muttering to himself about being betrayed by the nasty goblins."
+  },
+  {
+    "Id": "Q_QUEST_ONTHETRAIL_VICTORY_TEXT",
+    "Text": "You've found the tower where Bilbo was taken."
+  },
+  {
+    "Id": "Q_QUEST_ONTHETRAIL_DEFEAT_TEXT",
+    "Text": "Your quest comes to a tragic end."
   }
 ]
