@@ -71,15 +71,19 @@
     },
     "Stages": [
       {
-        "Title": "Location301",
+        "Title": "IntoTheForest",
         "SoloGameSetup": [
-          "FindThePath",
-          "VeteranPatrol"
+          "FollowTheTrail",
+          "ListenToGollum",
+          "GoblinSniper",
+          "DolGuldurArcher",
+          "GoblinTaskmaster"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "AlongTheTrail",
+          "ASecretWay"
         ],
         "FateCardList": [],
         "ThreatCardList": null
@@ -91,9 +95,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180625180651944",
+  "Version": "20180625181146093",
   "Key": "MainQuest",
   "SubKey": "OnTheTrail",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_OnTheTrail_20180625180651944"
+  "InternalKey": "MainQuest_OnTheTrail_20180625181146093"
 }
