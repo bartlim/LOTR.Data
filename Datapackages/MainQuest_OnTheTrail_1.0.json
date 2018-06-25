@@ -140,6 +140,20 @@
         ],
         "FateCardList": null,
         "ThreatCardList": null
+      },
+      {
+        "Title": "MirkwoodSwamp",
+        "SoloGameSetup": [
+          "MarshAdder",
+          "MuckAdder"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
       }
     ],
     "Sequences": [],
@@ -148,9 +162,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180625183511649",
+  "Version": "20180625183743585",
   "Key": "MainQuest",
   "SubKey": "OnTheTrail",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_OnTheTrail_20180625183511649"
+  "InternalKey": "MainQuest_OnTheTrail_20180625183743585"
 }
