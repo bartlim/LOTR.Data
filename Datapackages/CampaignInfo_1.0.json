@@ -3151,25 +3151,93 @@
           "AIBehavior": "AggresiveAI"
         },
         {
-          "Id": "TheShadowsReachQuest03",
+          "Id": "OnTheTrail",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
-          "VictoryVoice": null,
-          "DefeatVoice": null,
+          "VictoryVoice": "Victory",
+          "DefeatVoice": "Defeat",
           "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
-              "Id": "Location301",
+              "Id": "IntoTheForest",
               "SceneName": "Q01_L01_ForestGate",
               "IntroVoice": "OpeningMirkwood_01",
               "IntroSprite": "Sprites/Locations/Quest1_Stage01",
               "SoloGameSetup": [
-                "FindThePath",
-                "VeteranPatrol"
+                "FollowTheTrail",
+                "ListenToGollum",
+                "GoblinSniper",
+                "DolGuldurArcher",
+                "GoblinTaskmaster"
+              ],
+              "NextStageId": "AlongTheTrail,ASecretWay",
+              "BGM": "mus_cave",
+              "FateCardList": [],
+              "ThreatCardList": null
+            },
+            {
+              "Id": "AlongTheTrail",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "",
+              "IntroSprite": null,
+              "SoloGameSetup": [
+                "ContinueOnTheTrail",
+                "OffThePath",
+                "GoblinTaskmaster",
+                "GoblinSniper",
+                "DolGuldurOrc"
+              ],
+              "NextStageId": "Ambushed,MirkwoodSwamp",
+              "BGM": "mus_cave",
+              "FateCardList": null,
+              "ThreatCardList": null
+            },
+            {
+              "Id": "ASecretWay",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "",
+              "IntroSprite": null,
+              "SoloGameSetup": [
+                "FindYourWay",
+                "RejoinTheTrail",
+                "WildBear",
+                "MuckAdder",
+                "SpiderGuard"
+              ],
+              "NextStageId": "Ambushed,MirkwoodSwamp",
+              "BGM": "mus_cave",
+              "FateCardList": null,
+              "ThreatCardList": null
+            },
+            {
+              "Id": "Ambushed",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "",
+              "IntroSprite": null,
+              "SoloGameSetup": [
+                "DolGuldurArcher",
+                "DolGuldurOrc",
+                "VeteranPatrol",
+                "DolGuldurOrc",
+                "DolGuldurArcher"
               ],
               "NextStageId": "",
-              "BGM": null,
-              "FateCardList": [],
+              "BGM": "mus_cave",
+              "FateCardList": null,
+              "ThreatCardList": null
+            },
+            {
+              "Id": "MirkwoodSwamp",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "",
+              "IntroSprite": null,
+              "SoloGameSetup": [
+                "MarshAdder",
+                "MuckAdder"
+              ],
+              "NextStageId": "",
+              "BGM": "mus_cave",
+              "FateCardList": null,
               "ThreatCardList": null
             }
           ],
