@@ -2939,7 +2939,7 @@
           "AIBehavior": "AggresiveAI"
         },
         {
-          "Id": "FliesAndSpiders",
+          "Id": "InTheSpidersLair",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "VictoryVoice": "Victory",
@@ -3179,7 +3179,7 @@
               "Id": "AlongTheTrail",
               "SceneName": "Q01_L01_ForestGate",
               "IntroVoice": "",
-              "IntroSprite": null,
+              "IntroSprite": "OnTheTrailAlongTheTrailIntroSprite",
               "SoloGameSetup": [
                 "ContinueOnTheTrail",
                 "OffThePath",
@@ -3196,7 +3196,7 @@
               "Id": "ASecretWay",
               "SceneName": "Q01_L01_ForestGate",
               "IntroVoice": "",
-              "IntroSprite": null,
+              "IntroSprite": "OnTheTrailASecretWayIntroSprite",
               "SoloGameSetup": [
                 "FindYourWay",
                 "RejoinTheTrail",
@@ -3213,7 +3213,7 @@
               "Id": "Ambushed",
               "SceneName": "Q01_L01_ForestGate",
               "IntroVoice": "",
-              "IntroSprite": null,
+              "IntroSprite": "OnTheTrailAmbushedIntroSprite",
               "SoloGameSetup": [
                 "DolGuldurArcher",
                 "DolGuldurOrc",
@@ -3230,7 +3230,7 @@
               "Id": "MirkwoodSwamp",
               "SceneName": "Q01_L01_ForestGate",
               "IntroVoice": "",
-              "IntroSprite": null,
+              "IntroSprite": "OnTheTrailMirkwoodSwampIntroSprite",
               "SoloGameSetup": [
                 "MarshAdder",
                 "MuckAdder"
