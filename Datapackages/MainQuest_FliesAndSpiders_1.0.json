@@ -246,7 +246,7 @@
     },
     "Stages": [
       {
-        "Title": "AloneInTheForest",
+        "Title": "DarkForest",
         "SoloGameSetup": [
           "FindYourFriends",
           "ForestSpider",
@@ -257,41 +257,46 @@
         "NextStageTitles": [
           "TheSpidersLair"
         ],
-        "FateCardList": [],
+        "FateCardList": [
+          {
+            "Id": "UnexpectedAid",
+            "Threshold": 6
+          }
+        ],
         "ThreatCardList": null
       },
       {
         "Title": "TheSpidersLair",
         "SoloGameSetup": [
-          "RescueYourFriend",
-          "SpiderlingSwarm",
-          "SpiderGuard"
+          "RescueYourFriends",
+          "HiveGuardian",
+          "HatchlingSpider"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
           "TheSpidersWebs"
         ],
-        "FateCardList": null,
+        "FateCardList": [],
         "ThreatCardList": null
       },
       {
         "Title": "TheSpidersWebs",
         "SoloGameSetup": [
-          "GiantSpider",
-          "DolGuldurArcher",
-          "GoblinTaskmaster"
+          "EscapeTheSpidersLair",
+          "ThickWebs",
+          "SpidersOfMirkwood"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          "ForestLair"
+          "ForestGlade"
         ],
-        "FateCardList": null,
+        "FateCardList": [],
         "ThreatCardList": null
       },
       {
-        "Title": "ForestLair",
+        "Title": "ForestGlade",
         "SoloGameSetup": [
           "UngoliantsSpawn",
           "GiantSpider",
@@ -309,13 +314,39 @@
     ],
     "Sequences": [],
     "Stories": [],
-    "FateCardList": [],
-    "ThreatCardList": [],
-    "AIBehavior": "AggresiveAI"
+    "FateCardList": [
+      {
+        "Id": "CuttingTheWebs",
+        "Threshold": 4
+      },
+      {
+        "Id": "LightTheTorches",
+        "Threshold": 7
+      },
+      {
+        "Id": "InspiringCourage",
+        "Threshold": 10
+      }
+    ],
+    "ThreatCardList": [
+      {
+        "Id": "IsolatedAndAlone",
+        "Threshold": 1
+      },
+      {
+        "Id": "VenomousFangs",
+        "Threshold": 2
+      },
+      {
+        "Id": "WebsEverywhere",
+        "Threshold": 3
+      }
+    ],
+    "AIBehavior": "PassiveAI"
   },
-  "Version": "20180625183738098",
+  "Version": "20180625191622261",
   "Key": "MainQuest",
   "SubKey": "FliesAndSpiders",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_FliesAndSpiders_20180625183738098"
+  "InternalKey": "MainQuest_FliesAndSpiders_20180625191622261"
 }
