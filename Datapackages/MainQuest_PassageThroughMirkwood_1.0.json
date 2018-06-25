@@ -228,6 +228,7 @@
         "Title": "ForestGate",
         "SoloGameSetup": [
           "HiddenPath",
+          "WatchfulEyes",
           "EastBightPatrol",
           "EastBightPatrol",
           "DolGuldurArcher",
@@ -239,12 +240,7 @@
           "CapturedBySpiders"
         ],
         "FateCardList": null,
-        "ThreatCardList": [
-          {
-            "Id": "WebsEverywhere",
-            "Threshold": 3
-          }
-        ]
+        "ThreatCardList": []
       },
       {
         "Title": "CapturedBySpiders",
@@ -259,12 +255,7 @@
           "TurnAndFlee"
         ],
         "FateCardList": null,
-        "ThreatCardList": [
-          {
-            "Id": "AFoulWind",
-            "Threshold": 3
-          }
-        ]
+        "ThreatCardList": []
       },
       {
         "Title": "StandAndFight",
@@ -372,9 +363,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180622200503020",
+  "Version": "20180625070730441",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180622200503020"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180625070730441"
 }
