@@ -334,6 +334,7 @@
         "SoloGameSetup": [
           "FollowTheStream",
           "ClimbTheHill",
+          "WatchfulEyes",
           "BlackForestBats",
           "GiantSpider",
           "WildBear"
@@ -471,9 +472,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180625070740068",
+  "Version": "20180625071232618",
   "Key": "MainQuest",
   "SubKey": "LostInMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_LostInMirkwood_20180625070740068"
+  "InternalKey": "MainQuest_LostInMirkwood_20180625071232618"
 }
