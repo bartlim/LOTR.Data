@@ -4039,7 +4039,7 @@
   },
   {
     "Id": "Q_QUEST_FLIESANDSPIDERS_DESCRIPTION",
-    "Text": "Having found the Spider's lair, you investigate, finding a small creature communing with a giant spider... You can only make out a little of the creature's voice, something about a precious..."
+    "Text": "<i>Your party camps for the night deep within Mirkwood. You awaken hours later from a troubled sleep to discover that giant spiders have captured your friends!</i>"
   },
   {
     "Id": "Q_QUEST_LOSTINMIRKWOOD_DESCRIPTION",
@@ -4179,7 +4179,7 @@
   },
   {
     "Id": "Q_STAGE_THESPIDERSLAIR_TEXT",
-    "Text": "Searching, you find one of your friends struggling in their webs. They have a group of spiders around them..."
+    "Text": "<i><size=58>S</size>earching through the night, you find your friends at last. They are held within a dark glade, bound in cocoons made of strong webbed cords. You slip through the shadows, seemingly unnoticed by the spiders in their webs high above. However, as you raise your blade to cut your companions free, the creatures drop to the forest floor and attack! </i>"
   },
   {
     "Id": "Q_STAGE_THESPIDERSWEBS_TEXT",
@@ -4203,7 +4203,7 @@
   },
   {
     "Id": "Q_STAGE_MIRKWOODSWAMP_TEXT",
-    "Text": "Your patience has paid off. You see a tower in the distance that Gollum says is where they took the hobbit. The forest isn't done with you just yet though, a marshy section lays between you and the tower."
+    "Text": "<line-height=100%><i><size=58>A</size>t long last, the stream you have been following empties into a wide bog. The Anduin River vale must lie beyond this morass. Though the moist ground sucks greedily at your feet with each step, you make your way across the swamp doggedly and with no small amount of relief at leaving the accursed wood behind. Just then, the bog ahead erupts in a shower of brackish water! A Giant Marsh Worm lunges for you with a ravenous speed that belies its size…</i>"
   },
   {
     "Id": "Q_STAGE_OVERGROWNTRAIL_TEXT",
@@ -4275,7 +4275,7 @@
   },
   {
     "Id": "Q_STAGE_THESPIDERSLAIR_OBJECTIVE",
-    "Text": "Free your friend"
+    "Text": "Resolve <i>Rescue Your Friends</i> to allow travel from this Location"
   },
   {
     "Id": "Q_STAGE_THESPIDERSWEBS_OBJECTIVE",
@@ -4299,7 +4299,7 @@
   },
   {
     "Id": "Q_STAGE_MIRKWOODSWAMP_OBJECTIVE",
-    "Text": "Final Encounter: Defeat the Marsh Adder to complete the quest"
+    "Text": "Defeat <i>Giant Marsh Worm</i> to complete the Quest"
   },
   {
     "Id": "Q_STAGE_OVERGROWNTRAIL_OBJECTIVE",
@@ -4351,7 +4351,7 @@
   },
   {
     "Id": "Q_QUEST_FLIESANDSPIDERS_VICTORY_TEXT",
-    "Text": "You have succeeded in defeating Ungoliant's Spawn."
+    "Text": "An unearthly shriek reverberates through the predawn woods as Ungoliant's Spawn thrashes about in her death throes. Even as her swollen carcass twitches its last, you spare no time to revel in victory. Eager to leave this place behind, you strike out deeper into the forest to continue your mission…"
   },
   {
     "Id": "Q_QUEST_LOSTINMIRKWOOD_VICTORY_TEXT",
@@ -4375,7 +4375,7 @@
   },
   {
     "Id": "Q_QUEST_FLIESANDSPIDERS_DEFEAT_TEXT",
-    "Text": "Your quest ends in failure, Bilbo is left to a horrible fate."
+    "Text": "Your last Hero falls, bringing your journey to a tragic end."
   },
   {
     "Id": "Q_QUEST_LOSTINMIRKWOOD_DEFEAT_TEXT",
