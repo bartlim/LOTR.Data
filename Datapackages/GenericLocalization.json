@@ -4179,11 +4179,11 @@
   },
   {
     "Id": "Q_STAGE_THESPIDERSLAIR_TEXT",
-    "Text": "<i><size=58>S</size>earching through the night, you find your friends at last. They are held within a dark glade, bound in cocoons made of strong webbed cords. You slip through the shadows, seemingly unnoticed by the spiders in their webs high above. However, as you raise your blade to cut your companions free, the creatures drop to the forest floor and attack! </i>"
+    "Text": "Searching, you find one of your friends struggling in their webs. They have a group of spiders around them..."
   },
   {
     "Id": "Q_STAGE_THESPIDERSWEBS_TEXT",
-    "Text": "<i><size=58>Y</size>ou've managed to cut your companions loose, but the spiders are determined to recapture you. They spin giant webs from tree to tree, trapping you in their lair. You will have to sunder the thick strands in order to escape.</i>"
+    "Text": "You've managed to free one of your companions, but the second remains missing! You find another group of cocoons, but this time, instead of just spiders, the cocoons are being moved by Goblins! You must hurry!"
   },
   {
     "Id": "Q_STAGE_FORESTGLADE_TEXT",
@@ -4203,7 +4203,7 @@
   },
   {
     "Id": "Q_STAGE_MIRKWOODSWAMP_TEXT",
-    "Text": "<line-height=100%><i><size=58>A</size>t long last, the stream you have been following empties into a wide bog. The Anduin River vale must lie beyond this morass. Though the moist ground sucks greedily at your feet with each step, you make your way across the swamp doggedly and with no small amount of relief at leaving the accursed wood behind. Just then, the bog ahead erupts in a shower of brackish water! A Giant Marsh Worm lunges for you with a ravenous speed that belies its size…</i>"
+    "Text": "Your patience has paid off. You see a tower in the distance that Gollum says is where they took the hobbit. The forest isn't done with you just yet though, a marshy section lays between you and the tower."
   },
   {
     "Id": "Q_STAGE_OVERGROWNTRAIL_TEXT",
@@ -4275,11 +4275,11 @@
   },
   {
     "Id": "Q_STAGE_THESPIDERSLAIR_OBJECTIVE",
-    "Text": "Resolve <i>Rescue Your Friends</i> to allow travel from this Location"
+    "Text": "Free your friend"
   },
   {
     "Id": "Q_STAGE_THESPIDERSWEBS_OBJECTIVE",
-    "Text": "Resolve <i>Escape the Spiders' Lair</i> to allow travel from this Location"
+    "Text": "Defeat the spiders and goblins"
   },
   {
     "Id": "Q_STAGE_FORESTGLADE_OBJECTIVE",
@@ -4299,7 +4299,7 @@
   },
   {
     "Id": "Q_STAGE_MIRKWOODSWAMP_OBJECTIVE",
-    "Text": "Defeat <i>Giant Marsh Worm</i> to complete the Quest"
+    "Text": "Final Encounter: Defeat the Marsh Adder to complete the quest"
   },
   {
     "Id": "Q_STAGE_OVERGROWNTRAIL_OBJECTIVE",
