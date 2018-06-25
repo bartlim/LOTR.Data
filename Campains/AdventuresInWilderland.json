@@ -325,8 +325,8 @@
           "SoloGameSetup": [
             "EscapeTheSpidersLair",
             "ThickWebs",
-            "SpidersOfMirkwood",
-            "RangerProvisions"
+            "ThickWebs",
+            "SpidersOfMirkwood"
           ],
           "NextStageId": "ForestGlade",
           "BGM": "mus_dungeon",
@@ -534,6 +534,7 @@
           "SoloGameSetup": [
             "FollowTheStream",
             "ClimbTheHill",
+            "WatchfulEyes",
             "BlackForestBats",
             "GiantSpider",
             "WildBear"
@@ -1150,6 +1151,7 @@
           "IntroSprite": "Sprites/Locations/Quest5_Stage02",
           "SoloGameSetup": [
             "RescueGrimbeorn",
+            "GrowingDarkness",
             "HillTroll",
             "AnduinTrollSpawn",
             "BlackForestBats"
