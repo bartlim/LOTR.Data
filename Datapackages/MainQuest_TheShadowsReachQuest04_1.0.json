@@ -81,7 +81,8 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": []
+        "FateCardList": [],
+        "ThreatCardList": null
       }
     ],
     "Sequences": [],
@@ -90,9 +91,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180618200946519",
+  "Version": "20180625160845678",
   "Key": "MainQuest",
   "SubKey": "TheShadowsReachQuest04",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheShadowsReachQuest04_20180618200946519"
+  "InternalKey": "MainQuest_TheShadowsReachQuest04_20180625160845678"
 }
