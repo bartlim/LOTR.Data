@@ -12754,5 +12754,21 @@
   {
     "Id": "Q_STAGE_AMBUSHED_OBJECTIVE",
     "Text": "Final Encounter: Defeat the enemy to complete the quest"
+  },
+  {
+    "Id": "Q_QUEST_INTHESPIDERSLAIR_NAME",
+    "Text": "In The Spiders Lair"
+  },
+  {
+    "Id": "Q_QUEST_INTHESPIDERSLAIR_DESCRIPTION",
+    "Text": "Having found the Spider's lair, you investigate, finding a small creature communing with a giant spider... You can only make out a little of the creature's voice, something about a precious..."
+  },
+  {
+    "Id": "Q_QUEST_INTHESPIDERSLAIR_VICTORY_TEXT",
+    "Text": "You have succeeded in defeating Ungoliant's Spawn."
+  },
+  {
+    "Id": "Q_QUEST_INTHESPIDERSLAIR_DEFEAT_TEXT",
+    "Text": "Your quest ends in failure, Bilbo is left to a horrible fate."
   }
 ]
