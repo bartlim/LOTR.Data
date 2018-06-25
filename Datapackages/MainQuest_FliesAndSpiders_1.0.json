@@ -246,17 +246,64 @@
     },
     "Stages": [
       {
-        "Title": "Location201",
+        "Title": "AloneInTheForest",
         "SoloGameSetup": [
-          "ObjectiveTimerTest",
-          "VeteranPatrol"
+          "FindYourFriends",
+          "ForestSpider",
+          "ForestSpider"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "TheSpidersLair"
+        ],
+        "FateCardList": [],
+        "ThreatCardList": null
+      },
+      {
+        "Title": "TheSpidersLair",
+        "SoloGameSetup": [
+          "RescueYourFriend",
+          "SpiderlingSwarm",
+          "SpiderGuard"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "TheSpidersWebs"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "TheSpidersWebs",
+        "SoloGameSetup": [
+          "GiantSpider",
+          "DolGuldurArcher",
+          "GoblinTaskmaster"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "ForestLair"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "ForestLair",
+        "SoloGameSetup": [
+          "UngoliantsSpawn",
+          "GiantSpider",
+          "ForestSpider",
+          "ForestSpider"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": [],
+        "FateCardList": null,
         "ThreatCardList": null
       }
     ],
@@ -266,9 +313,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180625160835365",
+  "Version": "20180625164352001",
   "Key": "MainQuest",
   "SubKey": "FliesAndSpiders",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_FliesAndSpiders_20180625160835365"
+  "InternalKey": "MainQuest_FliesAndSpiders_20180625164352001"
 }
