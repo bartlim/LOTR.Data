@@ -246,107 +246,29 @@
     },
     "Stages": [
       {
-        "Title": "DarkForest",
+        "Title": "Location201",
         "SoloGameSetup": [
-          "FindYourFriends",
-          "ForestSpider",
-          "ForestSpider"
-        ],
-        "CoopGameSetup": [],
-        "NextStages": [],
-        "NextStageTitles": [
-          "TheSpidersLair"
-        ],
-        "FateCardList": [
-          {
-            "Id": "UnexpectedAid",
-            "Threshold": 6
-          }
-        ],
-        "ThreatCardList": null
-      },
-      {
-        "Title": "TheSpidersLair",
-        "SoloGameSetup": [
-          "RescueYourFriends",
-          "HiveGuardian",
-          "HatchlingSpider"
-        ],
-        "CoopGameSetup": [],
-        "NextStages": [],
-        "NextStageTitles": [
-          "TheSpidersWebs"
-        ],
-        "FateCardList": null,
-        "ThreatCardList": null
-      },
-      {
-        "Title": "TheSpidersWebs",
-        "SoloGameSetup": [
-          "EscapeTheSpidersLair",
-          "ThickWebs",
-          "SpidersOfMirkwood"
-        ],
-        "CoopGameSetup": [],
-        "NextStages": [],
-        "NextStageTitles": [
-          "ForestGlade"
-        ],
-        "FateCardList": null,
-        "ThreatCardList": null
-      },
-      {
-        "Title": "ForestGlade",
-        "SoloGameSetup": [
-          "UngoliantsSpawn",
-          "GiantSpider",
-          "ForestSpider",
-          "ForestSpider"
+          "ObjectiveTimerTest",
+          "VeteranPatrol"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": null,
+        "FateCardList": [],
         "ThreatCardList": null
       }
     ],
     "Sequences": [],
     "Stories": [],
-    "FateCardList": [
-      {
-        "Id": "CuttingTheWebs",
-        "Threshold": 4
-      },
-      {
-        "Id": "LightTheTorches",
-        "Threshold": 7
-      },
-      {
-        "Id": "InspiringCourage",
-        "Threshold": 10
-      }
-    ],
-    "ThreatCardList": [
-      {
-        "Id": "IsolatedAndAlone",
-        "Threshold": 1
-      },
-      {
-        "Id": "VenomousFangs",
-        "Threshold": 2
-      },
-      {
-        "Id": "WebsEverywhere",
-        "Threshold": 3
-      }
-    ],
-    "AIBehavior": "PassiveAI"
+    "FateCardList": [],
+    "ThreatCardList": [],
+    "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180625100444754",
+  "Version": "20180625160835365",
   "Key": "MainQuest",
   "SubKey": "FliesAndSpiders",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_FliesAndSpiders_20180625100444754"
+  "InternalKey": "MainQuest_FliesAndSpiders_20180625160835365"
 }
