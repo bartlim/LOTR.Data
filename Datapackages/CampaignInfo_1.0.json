@@ -3292,16 +3292,17 @@
           "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
-              "Id": "Location401",
+              "Id": "HidingInTheShadows",
               "SceneName": "Q01_L01_ForestGate",
               "IntroVoice": "OpeningMirkwood_01",
               "IntroSprite": "Sprites/Locations/Quest1_Stage01",
               "SoloGameSetup": [
-                "FindThePath",
-                "VeteranPatrol"
+                "AvoidThePatrols",
+                "GoblinPatrol",
+                "GoblinPatrol"
               ],
-              "NextStageId": "",
-              "BGM": null,
+              "NextStageId": "ASecretDoor",
+              "BGM": "mus_cave",
               "FateCardList": [],
               "ThreatCardList": null
             }
