@@ -2947,17 +2947,64 @@
           "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
-              "Id": "Location201",
+              "Id": "AloneInTheForest",
               "SceneName": "Q01_L01_ForestGate",
               "IntroVoice": "OpeningMirkwood_01",
               "IntroSprite": "Sprites/Locations/Quest1_Stage01",
               "SoloGameSetup": [
-                "ObjectiveTimerTest",
-                "VeteranPatrol"
+                "FindYourFriends",
+                "ForestSpider",
+                "ForestSpider"
+              ],
+              "NextStageId": "TheSpidersLair",
+              "BGM": "mus_cave",
+              "FateCardList": [],
+              "ThreatCardList": null
+            },
+            {
+              "Id": "TheSpidersLair",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "",
+              "IntroSprite": "FliesAndSpidersTheSpidersLairIntroSprite",
+              "SoloGameSetup": [
+                "RescueYourFriend",
+                "SpiderlingSwarm",
+                "SpiderGuard"
+              ],
+              "NextStageId": "TheSpidersWebs",
+              "BGM": "mus_cave",
+              "FateCardList": null,
+              "ThreatCardList": null
+            },
+            {
+              "Id": "TheSpidersWebs",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "",
+              "IntroSprite": "FliesAndSpidersTheSpidersWebsIntroSprite",
+              "SoloGameSetup": [
+                "GiantSpider",
+                "DolGuldurArcher",
+                "GoblinTaskmaster"
+              ],
+              "NextStageId": "ForestLair",
+              "BGM": "mus_cave",
+              "FateCardList": null,
+              "ThreatCardList": null
+            },
+            {
+              "Id": "ForestLair",
+              "SceneName": "Q01_L01_ForestGate",
+              "IntroVoice": "",
+              "IntroSprite": "FliesAndSpidersForestLairIntroSprite",
+              "SoloGameSetup": [
+                "UngoliantsSpawn",
+                "GiantSpider",
+                "ForestSpider",
+                "ForestSpider"
               ],
               "NextStageId": "",
               "BGM": "mus_cave",
-              "FateCardList": [],
+              "FateCardList": null,
               "ThreatCardList": null
             }
           ],
