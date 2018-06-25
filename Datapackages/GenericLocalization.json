@@ -12742,5 +12742,17 @@
   {
     "Id": "Q_STAGE_ASECRETWAY_OBJECTIVE",
     "Text": "Wait for Gollum to find the way or try to rejoin the trail"
+  },
+  {
+    "Id": "Q_STAGE_AMBUSHED_NAME",
+    "Text": "Ambushed!"
+  },
+  {
+    "Id": "Q_STAGE_AMBUSHED_TEXT",
+    "Text": "Following the trail allows the enemy to track your movements as well. Your first hint of trouble was a rain of arrows out of the trees. A group has fallen back to deal with your group."
+  },
+  {
+    "Id": "Q_STAGE_AMBUSHED_OBJECTIVE",
+    "Text": "Final Encounter: Defeat the enemy to complete the quest"
   }
 ]
