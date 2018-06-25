@@ -187,7 +187,8 @@
         "NextStageTitles": [
           "CrossingTheEnchantedStream"
         ],
-        "FateCardList": []
+        "FateCardList": [],
+        "ThreatCardList": null
       },
       {
         "Title": "CrossingTheEnchantedStream",
@@ -200,7 +201,8 @@
         "NextStageTitles": [
           "BattleWithTheSpiders"
         ],
-        "FateCardList": null
+        "FateCardList": null,
+        "ThreatCardList": null
       },
       {
         "Title": "BattleWithTheSpiders",
@@ -215,7 +217,8 @@
         "NextStageTitles": [
           "TheSpidersWeb"
         ],
-        "FateCardList": []
+        "FateCardList": [],
+        "ThreatCardList": null
       },
       {
         "Title": "TheSpidersWebs",
@@ -229,7 +232,8 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": []
+        "FateCardList": [],
+        "ThreatCardList": null
       }
     ],
     "Sequences": [],
@@ -264,9 +268,9 @@
     ],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180618200930399",
+  "Version": "20180625160829667",
   "Key": "MainQuest",
   "SubKey": "TheShadowsReachQuest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheShadowsReachQuest01_20180618200930399"
+  "InternalKey": "MainQuest_TheShadowsReachQuest01_20180625160829667"
 }
