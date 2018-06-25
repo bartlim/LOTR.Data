@@ -19,6 +19,7 @@
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
             "HiddenPath",
+            "WatchfulEyes",
             "EastBightPatrol",
             "EastBightPatrol",
             "DolGuldurArcher",
@@ -27,12 +28,7 @@
           "NextStageId": "CapturedBySpiders",
           "BGM": "mus_thewilderlands",
           "FateCardList": null,
-          "ThreatCardList": [
-            {
-              "Id": "WebsEverywhere",
-              "Threshold": 3
-            }
-          ]
+          "ThreatCardList": []
         },
         {
           "Id": "CapturedBySpiders",
@@ -46,12 +42,7 @@
           "NextStageId": "StandAndFight,TurnAndFlee",
           "BGM": "mus_dungeon",
           "FateCardList": null,
-          "ThreatCardList": [
-            {
-              "Id": "AFoulWind",
-              "Threshold": 3
-            }
-          ]
+          "ThreatCardList": []
         },
         {
           "Id": "StandAndFight",
