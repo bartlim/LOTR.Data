@@ -24,7 +24,8 @@
           ],
           "NextStageId": "CrossingTheEnchantedStream",
           "BGM": "mus_mirkwood",
-          "FateCardList": []
+          "FateCardList": [],
+          "ThreatCardList": null
         },
         {
           "Id": "CrossingTheEnchantedStream",
@@ -37,7 +38,8 @@
           ],
           "NextStageId": "BattleWithTheSpiders",
           "BGM": "mus_danger",
-          "FateCardList": null
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "BattleWithTheSpiders",
@@ -52,7 +54,8 @@
           ],
           "NextStageId": "TheSpidersWeb",
           "BGM": "mus_danger",
-          "FateCardList": []
+          "FateCardList": [],
+          "ThreatCardList": null
         },
         {
           "Id": "TheSpidersWebs",
@@ -66,7 +69,8 @@
           ],
           "NextStageId": "",
           "BGM": "mus_desperation",
-          "FateCardList": []
+          "FateCardList": [],
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
@@ -198,11 +202,11 @@
       "AIBehavior": "AggresiveAI"
     },
     {
-      "Id": "TheShadowsReachQuest02",
+      "Id": "FliesAndSpiders",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
-      "VictoryVoice": null,
-      "DefeatVoice": null,
+      "VictoryVoice": "Victory",
+      "DefeatVoice": "Defeat",
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
@@ -216,7 +220,8 @@
           ],
           "NextStageId": "",
           "BGM": "mus_cave",
-          "FateCardList": []
+          "FateCardList": [],
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
@@ -225,36 +230,136 @@
           "Amount": 2
         },
         {
-          "Id": "DolGuldurOrcs",
+          "Id": "HatchlingSpider",
+          "Amount": 1
+        },
+        {
+          "Id": "WatchersInTheDark",
           "Amount": 2
         },
         {
-          "Id": "EastBightPatrol",
+          "Id": "CreatureOfDarkness",
           "Amount": 2
+        },
+        {
+          "Id": "Despair",
+          "Amount": 1
+        },
+        {
+          "Id": "EyesOfTheForest",
+          "Amount": 2
+        },
+        {
+          "Id": "ForestSpider",
+          "Amount": 2
+        },
+        {
+          "Id": "GatheringGloom",
+          "Amount": 1
+        },
+        {
+          "Id": "GrowingDarkness",
+          "Amount": 1
+        },
+        {
+          "Id": "MirkwoodFlock",
+          "Amount": 2
+        },
+        {
+          "Id": "PursuedByShadow",
+          "Amount": 1
+        },
+        {
+          "Id": "SpiesofShadow",
+          "Amount": 2
+        },
+        {
+          "Id": "Veteran",
+          "Amount": 2
+        },
+        {
+          "Id": "ViciousSpeed",
+          "Amount": 1
+        },
+        {
+          "Id": "CaughtInAWeb",
+          "Amount": 1
         },
         {
           "Id": "Enfeebled",
+          "Amount": 1
+        },
+        {
+          "Id": "EvilStorm",
+          "Amount": 1
+        },
+        {
+          "Id": "GreedyFingers",
+          "Amount": 1
+        },
+        {
+          "Id": "Hummerhorns",
           "Amount": 2
         },
         {
-          "Id": "DrivenByShadow",
+          "Id": "Hunted",
           "Amount": 2
         },
         {
-          "Id": "GoblinSniper",
+          "Id": "LowOnSupplies",
           "Amount": 2
         },
         {
-          "Id": "MirkwoodPatrol",
+          "Id": "PoisonedBySpiders",
           "Amount": 2
         },
         {
           "Id": "ThickWebs",
+          "Amount": 1
+        },
+        {
+          "Id": "UnderTheWatchfulEye",
+          "Amount": 1
+        },
+        {
+          "Id": "WatchfulEyes",
           "Amount": 2
         },
         {
-          "Id": "Tribulation",
+          "Id": "AccursedForest",
+          "Amount": 1
+        },
+        {
+          "Id": "Exhaustion",
+          "Amount": 1
+        },
+        {
+          "Id": "GiantSpider",
+          "Amount": 1
+        },
+        {
+          "Id": "HiveGuardian",
           "Amount": 2
+        },
+        {
+          "Id": "KingSpider",
+          "Amount": 2
+        },
+        {
+          "Id": "SpidersOfMirkwood",
+          "Amount": 2
+        },
+        {
+          "Id": "TurnedAround",
+          "Amount": 1
+        },
+        {
+          "Id": "UngoliantsBrood",
+          "Amount": 1
+        },
+        {
+          "Id": "VileSpawn",
+          "Amount": 1
         }
       ],
       "FateCardList": [],
@@ -280,7 +385,8 @@
           ],
           "NextStageId": "",
           "BGM": null,
-          "FateCardList": []
+          "FateCardList": [],
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
@@ -344,7 +450,8 @@
           ],
           "NextStageId": "",
           "BGM": null,
-          "FateCardList": []
+          "FateCardList": [],
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
@@ -408,7 +515,8 @@
           ],
           "NextStageId": "",
           "BGM": null,
-          "FateCardList": []
+          "FateCardList": [],
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
