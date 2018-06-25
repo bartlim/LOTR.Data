@@ -4087,7 +4087,7 @@
   },
   {
     "Id": "Q_STAGE_THESPIDERSWEBS_NAME",
-    "Text": "The Spider's Webs"
+    "Text": "The Spiders' Webs"
   },
   {
     "Id": "Q_STAGE_FORESTGLADE_NAME",
@@ -4179,11 +4179,11 @@
   },
   {
     "Id": "Q_STAGE_THESPIDERSLAIR_TEXT",
-    "Text": "<line-height=100%><i><size=58>S</size>earching through the night, you find your friends at last. They are held within a dark glade, bound in cocoons made of strong webbed cords. You slip through the shadows, seemingly unnoticed by the spiders in their webs high above. However, as you raise your blade to cut your companions free, the creatures drop to the forest floor and attack!</i>"
+    "Text": "Searching, you find one of your friends struggling in their webs. They have a group of spiders around them..."
   },
   {
     "Id": "Q_STAGE_THESPIDERSWEBS_TEXT",
-    "Text": "<color=red>Placeholder</color>\n<i><size=58>T</size>hese spiders did not have Bilbo. You must go deeper into their lair to find the Hobbit. Your fight however, did not go unnoticed as three massive spiders drop from the tree branches to deal with the intruders to their nest.</i>"
+    "Text": "You've managed to free one of your companions, but the second remains missing! You find another group of cocoons, but this time, instead of just spiders, the cocoons are being moved by Goblins! You must hurry!"
   },
   {
     "Id": "Q_STAGE_FORESTGLADE_TEXT",
@@ -4275,11 +4275,11 @@
   },
   {
     "Id": "Q_STAGE_THESPIDERSLAIR_OBJECTIVE",
-    "Text": "Resolve <i>Rescue Your Friends</i> to allow travel from this Location"
+    "Text": "Free your friend"
   },
   {
     "Id": "Q_STAGE_THESPIDERSWEBS_OBJECTIVE",
-    "Text": "Defeat the three Spider Lieutenants"
+    "Text": "Defeat the spiders and goblins"
   },
   {
     "Id": "Q_STAGE_FORESTGLADE_OBJECTIVE",
@@ -12666,5 +12666,29 @@
   {
     "Id": "C_TOMTOOK_FLAVOR",
     "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_ALONEINTHEFOREST_NAME",
+    "Text": "Alone in the Forest"
+  },
+  {
+    "Id": "Q_STAGE_ALONEINTHEFOREST_TEXT",
+    "Text": "You paid too much attention to the conversation and not enough around you. Before you realize it, both of your friends have been grabbed by spiders! Another is now coming for you..."
+  },
+  {
+    "Id": "Q_STAGE_ALONEINTHEFOREST_OBJECTIVE",
+    "Text": "Pursue the spiders."
+  },
+  {
+    "Id": "Q_STAGE_FORESTLAIR_NAME",
+    "Text": "Forest Lair"
+  },
+  {
+    "Id": "Q_STAGE_FORESTLAIR_TEXT",
+    "Text": "Your friend wasn't there! But you do hear the sounds of battle not far off, moving quickly, you find your friend fighting off the massive spider from earlier."
+  },
+  {
+    "Id": "Q_STAGE_FORESTLAIR_OBJECTIVE",
+    "Text": "Defeat Ungoliant's Spawn"
   }
 ]
