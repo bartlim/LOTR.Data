@@ -15,6 +15,7 @@
         {
           "Id": "TheSpidersGlade",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "TheShadowsReachQuest01TheSpidersGladeIntroSprite",
           "SoloGameSetup": [
@@ -30,6 +31,7 @@
         {
           "Id": "CrossingTheEnchantedStream",
           "SceneName": "Q01_L04_TheEnchantedStream",
+          "IntroMusic": null,
           "IntroVoice": "",
           "IntroSprite": "TheShadowsReachQuest01CrossingTheEnchantedStreamIntroSprite",
           "SoloGameSetup": [
@@ -44,6 +46,7 @@
         {
           "Id": "BattleWithTheSpiders",
           "SceneName": "Q02_L03_TheSpidersWebs",
+          "IntroMusic": null,
           "IntroVoice": "",
           "IntroSprite": "TheShadowsReachQuest01AnUnexpectedEnemyIntroSprite",
           "SoloGameSetup": [
@@ -60,6 +63,7 @@
         {
           "Id": "TheSpidersWebs",
           "SceneName": "Q02_L04_TheForestGlade",
+          "IntroMusic": null,
           "IntroVoice": "",
           "IntroSprite": "TheShadowsReachQuest01TheSpidersWebsIntroSprite",
           "SoloGameSetup": [
@@ -212,6 +216,7 @@
         {
           "Id": "AloneInTheForest",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -227,6 +232,7 @@
         {
           "Id": "TheSpidersLair",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "",
           "IntroSprite": "FliesAndSpidersTheSpidersLairIntroSprite",
           "SoloGameSetup": [
@@ -240,8 +246,9 @@
           "ThreatCardList": null
         },
         {
-          "Id": "TheSpidersWebs",
+          "Id": "TheSpidersHive",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "",
           "IntroSprite": "FliesAndSpidersTheSpidersWebsIntroSprite",
           "SoloGameSetup": [
@@ -257,6 +264,7 @@
         {
           "Id": "ForestLair",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "",
           "IntroSprite": "FliesAndSpidersForestLairIntroSprite",
           "SoloGameSetup": [
@@ -424,6 +432,7 @@
         {
           "Id": "IntoTheForest",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -441,6 +450,7 @@
         {
           "Id": "AlongTheTrail",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "",
           "IntroSprite": "OnTheTrailAlongTheTrailIntroSprite",
           "SoloGameSetup": [
@@ -458,6 +468,7 @@
         {
           "Id": "ASecretWay",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "",
           "IntroSprite": "OnTheTrailASecretWayIntroSprite",
           "SoloGameSetup": [
@@ -475,6 +486,7 @@
         {
           "Id": "Ambushed",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "",
           "IntroSprite": "OnTheTrailAmbushedIntroSprite",
           "SoloGameSetup": [
@@ -492,6 +504,7 @@
         {
           "Id": "MirkwoodSwamp",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "",
           "IntroSprite": "OnTheTrailMirkwoodSwampIntroSprite",
           "SoloGameSetup": [
@@ -557,6 +570,7 @@
         {
           "Id": "HidingInTheShadows",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -623,6 +637,7 @@
         {
           "Id": "Location501",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
