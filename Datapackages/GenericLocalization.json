@@ -517,9 +517,9 @@
   },
   {
     "Id": "U_SHOP_BUY_CONFIRM_MSG",
-    "Text": "Purchase for {0} {1}?",
-    "Text_CN": "[C]以 {0} {1} 购买？",
-    "Text_FR": "Purchase for {0} {1}?"
+    "Text": "Purchase for {0}{1}?",
+    "Text_CN": "[C]以 {0}{1} 购买？",
+    "Text_FR": "Purchase for {0}{1}?"
   },
   {
     "Id": "U_SHOP_CARD_CAN_GET_FROM",
