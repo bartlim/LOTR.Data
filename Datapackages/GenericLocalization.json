@@ -2587,9 +2587,9 @@
   },
   {
     "Id": "U_QUEST_SCORE_YOUR_SCORE",
-    "Text": "SCORING",
+    "Text": "Scoring",
     "Text_CN": "[C]您的分数",
-    "Text_FR": "SCORE"
+    "Text_FR": "Scoring"
   },
   {
     "Id": "U_QUEST_SCORE_BONUS_REWARDS",
@@ -2617,9 +2617,9 @@
   },
   {
     "Id": "U_QUEST_SCORE_OBJECTIVE_RESOLVED",
-    "Text": "Objectives Resolved",
+    "Text": "Hazards Resolved",
     "Text_CN": "[C]解决的目标数量",
-    "Text_FR": "Objectifs atteints"
+    "Text_FR": "Hazards Resolved"
   },
   {
     "Id": "U_QUEST_SCORE_FAVOR_CARD_BONUS",
@@ -2665,13 +2665,13 @@
   },
   {
     "Id": "U_QUEST_SCORE_EXPLAIN_1",
-    "Text": "Your final score determines whether any Bonus Rewards are granted for this Quest. A Hero can gain each reward only once per Quest",
+    "Text": "Your final score determines whether any One-Time \nHero Rewards are granted for this Quest. \nA Hero can gain each reward only once per Quest",
     "Text_CN": "[C]您的最终分数决定了您在这次冒险中是否能获得额外的奖励。每个英雄在每个冒险中只能获得一次。",
     "Text_FR": "Votre score final détermine l'obtention ou non de récompenses bonus pour cette quête. Un héros ne peut gagner chaque récompense qu'une seule fois par quête."
   },
   {
     "Id": "U_QUEST_SCORE_EXPLAIN_2",
-    "Text": "If you didn't earn any rewards this time, you can try again until you do!",
+    "Text": "If you didn't earn any rewards this time, \nyou can try again until you do!",
     "Text_CN": "[C]如果这次没有获得额外奖励，下次再尝试一下吧！",
     "Text_FR": "Si vous n'avez pas gagné de récompense cette fois-ci, vous pouvez réessayer jusqu'à ce que vous en décrochiez une !"
   },
@@ -3994,6 +3994,42 @@
     "Text": "Deck copied",
     "Text_CN": "[C]Deck copied",
     "Text_FR": "Deck copied"
+  },
+  {
+    "Id": "U_QUEST_SCORE_FATE_EVENT_USED",
+    "Text": "Fate Event Used",
+    "Text_CN": "[C]Fate Event Used",
+    "Text_FR": "Fate Event Used"
+  },
+  {
+    "Id": "U_QUEST_SCORE_HARD_DIFFICULTY",
+    "Text": "HARD DIFFICULTY",
+    "Text_CN": "[C]HARD DIFFICULTY",
+    "Text_FR": "HARD DIFFICULTY"
+  },
+  {
+    "Id": "U_QUEST_SCORE_UNLOCK_ROLLOVER_200",
+    "Text": "A 200+ final score unlocks\nthe +50 Valor Points reward",
+    "Text_CN": "[C]A 200+ final score unlocks\nthe +50 Valor Points reward",
+    "Text_FR": "A 200+ final score unlocks\nthe +50 Valor Points reward"
+  },
+  {
+    "Id": "U_QUEST_SCORE_UNLOCK_ROLLOVER_250",
+    "Text": "A 250+ final score unlocks\nthe +1 Palantír View reward",
+    "Text_CN": "[C]A 250+ final score unlocks\nthe +1 Palantír View reward",
+    "Text_FR": "A 250+ final score unlocks\nthe +1 Palantír View reward"
+  },
+  {
+    "Id": "U_QUEST_SCORE_UNLOCK_ROLLOVER_ALREADY",
+    "Text": "You have unlocked the\nreward for this Hero already",
+    "Text_CN": "[C]You have unlocked the\nreward for this Hero already",
+    "Text_FR": "You have unlocked the\nreward for this Hero already"
+  },
+  {
+    "Id": "U_QUEST_SCORE_UNLOCK_ROLLOVER_TIME",
+    "Text": "Your reward is time locked!\nTry tomorrow for the full reward",
+    "Text_CN": "[C]Your reward is time locked!\nTry tomorrow for the full reward",
+    "Text_FR": "Your reward is time locked!\nTry tomorrow for the full reward"
   },
   {
     "Id": "PLACEHOLDER2",
