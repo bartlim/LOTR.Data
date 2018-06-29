@@ -24,21 +24,21 @@
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
-    "CardOffsetY": 1.0,
+    "CardOffsetY": 0.9,
     "CardScale": 1.0,
     "CameoOffsetX": 1.0,
-    "CameoOffsetY": 1.0,
+    "CameoOffsetY": 0.9,
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
     "CanBePlayedDuringTravel": false,
     "ComboList": [],
-    "ArtworkMD5": null,
-    "BannerMD5": null,
-    "IconMD5": null
+    "ArtworkMD5": "69f24e470b6592c61854bbe88b80462c",
+    "BannerMD5": "857572dbea62fdfb80c7466e724afa5e",
+    "IconMD5": "aa8c1f5d1b25f3768f96454d0a0f5260"
   },
   "Localization": {
     "Title": "‰Tom Took",
-    "Text": "<b>Power</b>: The next attack Sauron makes will be deflected to a random Enemy"
+    "Text": "<b>Power</b>: Exhaust Tom Took to cancel damage from the next Enemy attack"
   }
 }

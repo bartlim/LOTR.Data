@@ -12661,7 +12661,7 @@
   },
   {
     "Id": "C_TOMTOOK_TEXT",
-    "Text": "<b>Power</b>: The next attack Sauron makes will be deflected to a random Enemy"
+    "Text": "<b>Power</b>: Exhaust Tom Took to cancel damage from the next Enemy attack"
   },
   {
     "Id": "C_TOMTOOK_FLAVOR",
@@ -12857,6 +12857,18 @@
   },
   {
     "Id": "C_ATESTWH01_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_DWALIN_TITLE",
+    "Text": "Dwalin"
+  },
+  {
+    "Id": "C_DWALIN_TEXT",
+    "Text": "Gain +2 <size=120%><sprite=0></size> when on 5 <size=120%><sprite=2></size> or less"
+  },
+  {
+    "Id": "C_DWALIN_FLAVOR",
     "Text": ""
   }
 ]
