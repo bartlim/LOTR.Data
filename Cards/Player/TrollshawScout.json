@@ -31,12 +31,14 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": [],
     "ArtworkMD5": "75179e4b9e76de7effef3ea30ba87a4b",
     "BannerMD5": null,
     "IconMD5": "8f8b9e1bae1debf7c8e3b9194fad070b"
   },
   "Localization": {
     "Title": "Trollshaw Scout",
-    "Text": "<b>Revenge:</b> Exhaust a random Enemy"
+    "Text": "<b>Revenge:</b> Exhaust a random Enemy this round"
   }
 }
