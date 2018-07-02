@@ -261,7 +261,7 @@
         "ThreatCardList": null
       },
       {
-        "Title": "MirkwoodSpiders",
+        "Title": "TheSpidersLair",
         "SoloGameSetup": [
           "RescueYourFriend",
           "SpiderlingSwarm",
@@ -313,9 +313,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180627174433077",
+  "Version": "20180702110819131",
   "Key": "MainQuest",
   "SubKey": "InTheSpidersLair",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_InTheSpidersLair_20180627174433077"
+  "InternalKey": "MainQuest_InTheSpidersLair_20180702110819131"
 }
