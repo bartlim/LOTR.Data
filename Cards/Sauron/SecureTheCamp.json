@@ -1,19 +1,19 @@
 {
   "CardData": {
-    "Id": "KhazadAiMenu",
-    "Owner": "Player",
-    "CardType": 4,
-    "ShopType": "HeroPack_SteadfastCompanion",
-    "Cost": 2,
-    "QuestPoints": 0,
+    "Id": "SecureTheCamp",
+    "Owner": "Sauron",
+    "CardType": 6,
+    "ShopType": "Starter",
+    "Cost": 0,
+    "QuestPoints": 1,
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "",
-    "Rarity": 4,
-    "Sphere": 0,
-    "SphereLevel": 2,
-    "Revision": "test",
+    "Trait": "Main",
+    "Rarity": 0,
+    "Sphere": 2,
+    "SphereLevel": 0,
+    "Revision": null,
     "PlayVFX": "",
     "PlaySFX": "",
     "AttackVFX": "",
@@ -38,7 +38,7 @@
     "IconMD5": null
   },
   "Localization": {
-    "Title": "Khazâd ai-mênu!",
-    "Text": "<line-height=100%>Give a <b><i>Dwarf</b></i> +2 <size=120%><sprite=0></size> this round; \nor +3 <size=120%><sprite=0></size> this round if wounded"
+    "Title": "Secure the Camp!",
+    "Text": "Secure the camp from the spider incursion!"
   }
 }

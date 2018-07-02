@@ -12,7 +12,7 @@
     "Trait": "Dwarf",
     "Rarity": 5,
     "Sphere": 0,
-    "SphereLevel": 1,
+    "SphereLevel": 0,
     "Revision": null,
     "PlayVFX": "",
     "PlaySFX": "",
@@ -33,12 +33,12 @@
     "ResolutionValue": 0,
     "CanBePlayedDuringTravel": false,
     "ComboList": [],
-    "ArtworkMD5": null,
-    "BannerMD5": null,
-    "IconMD5": null
+    "ArtworkMD5": "4e070e1e6fdff8f588b5ab39c9432893",
+    "BannerMD5": "44e068db0c8d66b68cf933b0ab4f0838",
+    "IconMD5": "e919267b7236d17d51dc44126b577072"
   },
   "Localization": {
     "Title": "Dwalin",
-    "Text": "Gain +2 <size=120%><sprite=0></size> when on 5 <size=120%><sprite=2></size> or less"
+    "Text": "Gain +1 <size=120%><sprite=0></size>, +1 <size=120%><sprite=5></size> when on 5 <size=120%><sprite=2></size> or less"
   }
 }

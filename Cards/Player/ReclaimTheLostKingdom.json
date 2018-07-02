@@ -3,7 +3,7 @@
     "Id": "ReclaimTheLostKingdom",
     "Owner": "Player",
     "CardType": 4,
-    "ShopType": "HeroPack_LordOfMoria",
+    "ShopType": "HeroPack_SteadfastCompanion",
     "Cost": 1,
     "QuestPoints": 0,
     "Attack": 0,
@@ -31,13 +31,14 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
     "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
-    "Title": "<size=90%>Reclaim the Lost Kingdom",
+    "Title": "Will of Steel",
     "Text": "<line-height=100%>Apply a Hero's <size=120%><sprite=0></size> value as progress to an Objective"
   }
 }
