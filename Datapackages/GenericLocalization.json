@@ -8834,40 +8834,40 @@
     "Text_FR": "The time has come to begin your journey. Go forth and fare well!"
   },
   {
-    "Id": "T_POP_7D",
+    "Id": "T_POP_DRAGCARD",
     "Text": "Drag the card into play area",
     "Text_CN": "[C]Drag the card into play area",
     "Text_FR": "Drag the card into play area"
   },
   {
-    "Id": "T_POP_7G",
+    "Id": "T_POP_EXHAUST",
     "Text": "Combat exhausts the attacker",
     "Text_CN": "[C]Combat exhausts the attacker",
     "Text_FR": "Combat exhausts the attacker"
   },
   {
-    "Id": "T_POP_7I1",
-    "Text": "Use <i>Aragorn</i> to attack <i>Hatchling Spider</i>",
-    "Text_CN": "[C]Use <i>Aragorn</i> to attack <i>Hatchling Spider</i>",
-    "Text_FR": "Use <i>Aragorn</i> to attack <i>Hatchling Spider</i>"
+    "Id": "T_POP_BILBOATTACK",
+    "Text": "Use <i>Bilbo</i> to attack <i>Rock Adder</i>",
+    "Text_CN": "[C]Use <i>Bilbo</i> to attack <i>Rock Adder</i>",
+    "Text_FR": "Use <i>Bilbo</i> to attack <i>Rock Adder</i>"
   },
   {
-    "Id": "T_POP_7I2",
-    "Text": "Slay the spider!",
-    "Text_CN": "[C]Slay the spider!",
-    "Text_FR": "Slay the spider!"
+    "Id": "T_POP_SLAY",
+    "Text": "Slay the snake",
+    "Text_CN": "[C]Slay the snake",
+    "Text_FR": "Slay the snake"
+  },
+  {
+    "Id": "T_POP_ROUNDEND",
+    "Text": "When you and Sauron cannot take any more actions, the round ends",
+    "Text_CN": "[C]When you and Sauron cannot take any more actions, the round ends",
+    "Text_FR": "When you and Sauron cannot take any more actions, the round ends"
   },
   {
     "Id": "T_POP_UPKEEP",
-    "Text": "Each round, exhausted Characters ready. You then gain 3 Resources and draw 2 cards",
-    "Text_CN": "[C]Each round, exhausted Characters ready. You then gain 3 Resources and draw 2 cards",
-    "Text_FR": "Each round, exhausted Characters ready. You then gain 3 Resources and draw 2 cards"
-  },
-  {
-    "Id": "T_POP_GUARD",
-    "Text": "Characters with <b>Guard</b> must be attacked first",
-    "Text_CN": "[C]Characters with <b>Guard</b> must be attacked first",
-    "Text_FR": "Characters with <b>Guard</b> must be attacked first"
+    "Text": "Every round, each exhausted card readies. You then gain 3 Resources and draw 2 cards",
+    "Text_CN": "[C]Every round, each exhausted card readies. You then gain 3 Resources and draw 2 cards",
+    "Text_FR": "Every round, each exhausted card readies. You then gain 3 Resources and draw 2 cards"
   },
   {
     "Id": "T_POP_MAXTHREAT",
@@ -8876,52 +8876,46 @@
     "Text_FR": "If you reach 50 Threat, your Quest fails!"
   },
   {
-    "Id": "T_POP_10K",
-    "Text": "Some events require you to select a target. Select <i>Aragorn</i> to ready him.",
-    "Text_CN": "[C]Some events require you to select a target. Select <i>Aragorn</i> to ready him.",
-    "Text_FR": "Some events require you to select a target. Select <i>Aragorn</i> to ready him."
+    "Id": "T_POP_L1TRAVEL",
+    "Text": "You have defeat the <i>Broodmother</i>! Select Travel to continue your journey and escape the hatchling",
+    "Text_CN": "[C]You have defeat the <i>Broodmother</i>! Select Travel to continue your journey and escape the hatchling",
+    "Text_FR": "You have defeat the <i>Broodmother</i>! Select Travel to continue your journey and escape the hatchling"
   },
   {
-    "Id": "T_POP_SAURONPASS",
-    "Text": "Sauron will pass his turn when he has 0 Resources and no cards to play.",
-    "Text_CN": "[C]Sauron will pass his turn when he has 0 Resources and no cards to play.",
-    "Text_FR": "Sauron will pass his turn when he has 0 Resources and no cards to play."
+    "Id": "T_POP_ABILITYATUPKEEP",
+    "Text": "Some cards have special abilities that trigger during the <b>Upkeep</b> phase",
+    "Text_CN": "[C]Some cards have special abilities that trigger during the <b>Upkeep</b> phase",
+    "Text_FR": "Some cards have special abilities that trigger during the <b>Upkeep</b> phase"
   },
   {
-    "Id": "T_POP_12B",
-    "Text": "You have defeated the <i>Broodmother</i>! Select TRAVEL to continue your journey",
-    "Text_CN": "[C]You have defeated the <i>Broodmother</i>! Select TRAVEL to continue your journey",
-    "Text_FR": "You have defeated the <i>Broodmother</i>! Select TRAVEL to continue your journey"
+    "Id": "T_POP_GUARD01",
+    "Text": "When a card with <b>Guard</b> is in play, you cannot choose another target or Objective. Attacking or exhausting the target removes <b>Guard</b>",
+    "Text_CN": "[C]When a card with <b>Guard</b> is in play, you cannot choose another target or Objective. Attacking or exhausting the target removes <b>Guard</b>",
+    "Text_FR": "When a card with <b>Guard</b> is in play, you cannot choose another target or Objective. Attacking or exhausting the target removes <b>Guard</b>"
   },
   {
-    "Id": "T_POP_18",
-    "Text": "Rescue the cloaked stranger!",
-    "Text_CN": "[C]Rescue the cloaked stranger!",
-    "Text_FR": "Rescue the cloaked stranger!"
+    "Id": "T_POP_GUARD02",
+    "Text": "A card with <b>Guard</b> active deals its full Attack value when attacked",
+    "Text_CN": "[C]A card with <b>Guard</b> active deals its full Attack value when attacked",
+    "Text_FR": "A card with <b>Guard</b> active deals its full Attack value when attacked"
   },
   {
-    "Id": "T_POP_BLOCK",
-    "Text": "<b>Block</b> reduces the damage from each attack by 1",
-    "Text_CN": "[C]<b>Block</b> reduces the damage from each attack by 1",
-    "Text_FR": "<b>Block</b> reduces the damage from each attack by 1"
+    "Id": "T_POP_PREPARATION",
+    "Text": "Preparation is a type of Event card which triggers based on a particular circumstance",
+    "Text_CN": "[C]Preparation is a type of Event card which triggers based on a particular circumstance",
+    "Text_FR": "Preparation is a type of Event card which triggers based on a particular circumstance"
   },
   {
-    "Id": "T_POP_18I",
-    "Text": "Use Aragorn's power to increase his Willpower for this turn.",
-    "Text_CN": "[C]Use Aragorn's power to increase his Willpower for this turn.",
-    "Text_FR": "Use Aragorn's power to increase his Willpower for this turn."
+    "Id": "T_POP_STALWART",
+    "Text": "A Character with <b>Stalwart</b> does not exhaust after their first action each round",
+    "Text_CN": "[C]A Character with <b>Stalwart</b> does not exhaust after their first action each round",
+    "Text_FR": "A Character with <b>Stalwart</b> does not exhaust after their first action each round"
   },
   {
-    "Id": "T_POP_18K",
-    "Text": "Use Willpower to resolve Objectives",
-    "Text_CN": "[C]Use Willpower to resolve Objectives",
-    "Text_FR": "Use Willpower to resolve Objectives"
-  },
-  {
-    "Id": "T_POP_GAINTHREAT",
-    "Text": "At the end of the round, you gain 1 Threat for each Enemy that is not exhausted!",
-    "Text_CN": "[C]At the end of the round, you gain 1 Threat for each Enemy that is not exhausted!",
-    "Text_FR": "At the end of the round, you gain 1 Threat for each Enemy that is not exhausted!"
+    "Id": "T_POP_SPHERE",
+    "Text": "Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck",
+    "Text_CN": "[C]Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck",
+    "Text_FR": "Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck"
   },
   {
     "Id": "T_POP_RANGED",
@@ -8930,70 +8924,76 @@
     "Text_FR": "A Character with <b>Ranged</b> can bypass <b>Guard</b>"
   },
   {
-    "Id": "T_POP_22E",
-    "Text": "Use Willpower to resolve the Objective",
-    "Text_CN": "[C]Use Willpower to resolve the Objective",
-    "Text_FR": "Use Willpower to resolve the Objective"
+    "Id": "T_POP_HAZARD",
+    "Text": "Hazards are optional Objectives that may complicate your journey unless you resolve them",
+    "Text_CN": "[C]Hazards are optional Objectives that may complicate your journey unless you resolve them",
+    "Text_FR": "Hazards are optional Objectives that may complicate your journey unless you resolve them"
   },
   {
-    "Id": "T_POP_22F",
-    "Text": "You have freed the cloaked stranger: <i>Arwen</i>, <i>Elrond</i>'s daughter! Select TRAVEL to continue your journey",
-    "Text_CN": "[C]You have freed the cloaked stranger: <i>Arwen</i>, <i>Elrond</i>'s daughter! Select TRAVEL to continue your journey",
-    "Text_FR": "You have freed the cloaked stranger: <i>Arwen</i>, <i>Elrond</i>'s daughter! Select TRAVEL to continue your journey"
+    "Id": "T_POP_WILLPOWER",
+    "Text": "Characters with Willpower can engage Objectives",
+    "Text_CN": "[C]Characters with Willpower can engage Objectives",
+    "Text_FR": "Characters with Willpower can engage Objectives"
   },
   {
-    "Id": "T_POP_22M",
+    "Id": "T_POP_L2TRAVEL",
+    "Text": "You have secured the camp! Select Travel to continue your journey",
+    "Text_CN": "[C]You have secured the camp! Select Travel to continue your journey",
+    "Text_FR": "You have secured the camp! Select Travel to continue your journey"
+  },
+  {
+    "Id": "T_POP_TRAVEL",
     "Text": "When you travel, Enemies that are not exhausted can attack!",
     "Text_CN": "[C]When you travel, Enemies that are not exhausted can attack!",
     "Text_FR": "When you travel, Enemies that are not exhausted can attack!"
   },
   {
-    "Id": "T_POP_28E",
-    "Text": "Some Characters have special abilities that trigger during the Upkeep phase",
-    "Text_CN": "[C]Some Characters have special abilities that trigger during the Upkeep phase",
-    "Text_FR": "Some Characters have special abilities that trigger during the Upkeep phase"
+    "Id": "T_POP_BLOCK",
+    "Text": "<b>Block</b> reduces the damage from each attack by 1",
+    "Text_CN": "[C]<b>Block</b> reduces the damage from each attack by 1",
+    "Text_FR": "<b>Block</b> reduces the damage from each attack by 1"
   },
   {
-    "Id": "T_POP_29B",
-    "Text": "Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck",
-    "Text_CN": "[C]Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck",
-    "Text_FR": "Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck"
+    "Id": "T_POP_BILBOPOWER",
+    "Text": "Use <i>Bilbo</i>'s power to gain an advantage against Sauron!",
+    "Text_CN": "[C]Use <i>Bilbo</i>'s power to gain an advantage against Sauron!",
+    "Text_FR": "Use <i>Bilbo</i>'s power to gain an advantage against Sauron!"
   },
   {
-    "Id": "T_POP_33K",
-    "Text": "<i>Aragorn</i> can take another action!",
-    "Text_CN": "[C]<i>Aragorn</i> can take another action!",
-    "Text_FR": "<i>Aragorn</i> can take another action!"
+    "Id": "T_POP_BILBOACTION",
+    "Text": "<i>Bilbo</i> can take another action!",
+    "Text_CN": "[C]<i>Bilbo</i> can take another action!",
+    "Text_FR": "<i>Bilbo</i> can take another action!"
   },
   {
-    "Id": "T_POP_33M",
-    "Text": "Activate Aragorn's Power to increase his Attack!",
-    "Text_CN": "[C]Activate Aragorn's Power to increase his Attack!",
-    "Text_FR": "Activate Aragorn's Power to increase his Attack!"
+    "Id": "T_POP_USEFULCHARACTER",
+    "Text": "Some Characters can be useful in ways other than battle.  ",
+    "Text_CN": "[C]Some Characters can be useful in ways other than battle.  ",
+    "Text_FR": "Some Characters can be useful in ways other than battle.  "
   },
   {
-    "Id": "T_POP_33P",
-    "Text": "<b>Ranged</b> attacks bypass <b>Guard</b>, and are unaffected by <b>Counter</b>",
-    "Text_CN": "[C]<b>Ranged</b> attacks bypass <b>Guard</b>, and are unaffected by <b>Counter</b>",
-    "Text_FR": "<b>Ranged</b> attacks bypass <b>Guard</b>, and are unaffected by <b>Counter</b>"
+    "Id": "T_POP_FATE",
+    "Text": "Characters with Willpower can take an action to contribute to your Fate pool. Fate can unlock special single-use abilities during your Quest!",
+    "Text_CN": "[C]Characters with Willpower can take an action to contribute to your Fate pool. Fate can unlock special single-use abilities during your Quest!",
+    "Text_FR": "Characters with Willpower can take an action to contribute to your Fate pool. Fate can unlock special single-use abilities during your Quest!"
   },
   {
-    "Id": "T_POP_33Q",
-    "Text": "Sometimes Characters with low Attack values can be useful in other ways than attacking…",
-    "Text_CN": "[C]Sometimes Characters with low Attack values can be useful in other ways than attacking…",
-    "Text_FR": "Sometimes Characters with low Attack values can be useful in other ways than attacking…"
+    "Id": "T_POP_CAREGIVERFATE",
+    "Text": "Select <i>Imladris Caregiver</i> to activate her Fate contribution",
+    "Text_CN": "[C]Select <i>Imladris Caregiver</i> to activate her Fate contribution",
+    "Text_FR": "Select <i>Imladris Caregiver</i> to activate her Fate contribution"
   },
   {
-    "Id": "T_POP_33R",
-    "Text": "Characters can take an action to contribute Willpower to the Fate Pool. This can unlock special single-use abilities.",
-    "Text_CN": "[C]Characters can take an action to contribute Willpower to the Fate Pool. This can unlock special single-use abilities.",
-    "Text_FR": "Characters can take an action to contribute Willpower to the Fate Pool. This can unlock special single-use abilities."
+    "Id": "T_POP_CHARACTERDEFEND",
+    "Text": "You can also use Characters to defend the rest of your party",
+    "Text_CN": "[C]You can also use Characters to defend the rest of your party",
+    "Text_FR": "You can also use Characters to defend the rest of your party"
   },
   {
-    "Id": "T_POP_33S",
-    "Text": "Activate <i>Arwen</i>'s Fate Contribution",
-    "Text_CN": "[C]Activate <i>Arwen</i>'s Fate Contribution",
-    "Text_FR": "Activate <i>Arwen</i>'s Fate Contribution"
+    "Id": "T_POP_USEFATE",
+    "Text": "You can use Fate for special one-time benefits during a Quest. Selecting an available Fate card is a free action.",
+    "Text_CN": "[C]You can use Fate for special one-time benefits during a Quest. Selecting an available Fate card is a free action.",
+    "Text_FR": "You can use Fate for special one-time benefits during a Quest. Selecting an available Fate card is a free action."
   },
   {
     "Id": "T_POP_NEUTRAL",
@@ -9002,16 +9002,10 @@
     "Text_FR": "Neutral cards may be used with any Sphere of Influence"
   },
   {
-    "Id": "T_POP_FATE",
-    "Text": "Fate can be used to give special one-use benefits in a Quest. Selecting an available Fate card is a free action.",
-    "Text_CN": "[C]Fate can be used to give special one-use benefits in a Quest. Selecting an available Fate card is a free action.",
-    "Text_FR": "Fate can be used to give special one-use benefits in a Quest. Selecting an available Fate card is a free action."
-  },
-  {
-    "Id": "T_POP_END_ADV",
-    "Text": "End the \nAdventure phase",
-    "Text_CN": "[C]End the \nAdventure phase",
-    "Text_FR": "End the \nAdventure phase"
+    "Id": "T_POP_STARBROOCH",
+    "Text": "Give Gloin the Star Brooch",
+    "Text_CN": "[C]Give Gloin the Star Brooch",
+    "Text_FR": "Give Gloin the Star Brooch"
   },
   {
     "Id": "_PLACEHOLDER5",
