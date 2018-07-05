@@ -317,15 +317,15 @@
     "FateCardList": [
       {
         "Id": "CuttingTheWebs",
-        "Threshold": 4
+        "Threshold": 3
       },
       {
         "Id": "LightTheTorches",
-        "Threshold": 7
+        "Threshold": 6
       },
       {
         "Id": "InspiringCourage",
-        "Threshold": 10
+        "Threshold": 9
       }
     ],
     "ThreatCardList": [
@@ -344,9 +344,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180705145844314",
+  "Version": "20180705150125360",
   "Key": "MainQuest",
   "SubKey": "FliesAndSpiders",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_FliesAndSpiders_20180705145844314"
+  "InternalKey": "MainQuest_FliesAndSpiders_20180705150125360"
 }
