@@ -572,7 +572,7 @@
           "FateCardList": [
             {
               "Id": "FearOfTheFlames",
-              "Threshold": 6
+              "Threshold": 5
             }
           ],
           "ThreatCardList": null
@@ -595,7 +595,7 @@
           "FateCardList": [
             {
               "Id": "DistractingCall",
-              "Threshold": 6
+              "Threshold": 5
             }
           ],
           "ThreatCardList": null
@@ -614,7 +614,7 @@
           ],
           "NextStageId": "OvergrownTrail",
           "BGM": "mus_mirkwood",
-          "FateCardList": null,
+          "FateCardList": [],
           "ThreatCardList": null
         },
         {
