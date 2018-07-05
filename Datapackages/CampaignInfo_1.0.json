@@ -894,7 +894,7 @@
               "FateCardList": [
                 {
                   "Id": "DistractTheTroll",
-                  "Threshold": 6
+                  "Threshold": 5
                 }
               ],
               "ThreatCardList": null
@@ -913,7 +913,7 @@
               ],
               "NextStageId": "TreacherousShortcut",
               "BGM": "mus_stream",
-              "FateCardList": null,
+              "FateCardList": [],
               "ThreatCardList": null
             },
             {
@@ -968,7 +968,7 @@
               "FateCardList": [
                 {
                   "Id": "SavedByTheBeornings",
-                  "Threshold": 6
+                  "Threshold": 5
                 }
               ],
               "ThreatCardList": null
@@ -1115,15 +1115,15 @@
           "FateCardList": [
             {
               "Id": "RefreshingWaters",
-              "Threshold": 4
+              "Threshold": 3
             },
             {
               "Id": "BeneficialCurrent",
-              "Threshold": 7
+              "Threshold": 6
             },
             {
               "Id": "CripplingBlow",
-              "Threshold": 10
+              "Threshold": 9
             }
           ],
           "ThreatCardList": [
@@ -1164,7 +1164,7 @@
               ],
               "NextStageId": "TheTrollsDinner",
               "BGM": "mus_cave",
-              "FateCardList": null,
+              "FateCardList": [],
               "ThreatCardList": null
             },
             {
@@ -1202,7 +1202,7 @@
               "FateCardList": [
                 {
                   "Id": "BoldResolve",
-                  "Threshold": 6
+                  "Threshold": 5
                 }
               ],
               "ThreatCardList": null
@@ -1345,15 +1345,15 @@
           "FateCardList": [
             {
               "Id": "StaggeringBlow",
-              "Threshold": 4
+              "Threshold": 3
             },
             {
               "Id": "AidFromTheBeornings",
-              "Threshold": 7
+              "Threshold": 6
             },
             {
               "Id": "SecondWind",
-              "Threshold": 10
+              "Threshold": 9
             }
           ],
           "ThreatCardList": [
