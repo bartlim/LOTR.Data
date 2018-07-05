@@ -260,7 +260,7 @@
         "FateCardList": [
           {
             "Id": "UnexpectedAid",
-            "Threshold": 6
+            "Threshold": 5
           }
         ],
         "ThreatCardList": null
@@ -344,9 +344,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180705150125360",
+  "Version": "20180705150220729",
   "Key": "MainQuest",
   "SubKey": "FliesAndSpiders",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_FliesAndSpiders_20180705150125360"
+  "InternalKey": "MainQuest_FliesAndSpiders_20180705150220729"
 }
