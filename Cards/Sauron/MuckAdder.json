@@ -31,14 +31,14 @@
     "CameoScale": 0.9,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "33f532f053a39fb4ef74be27fae93147",
     "BannerMD5": null,
-    "IconMD5": "a6fe06a7b4b6ebeb40991e9c3595e490",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "a6fe06a7b4b6ebeb40991e9c3595e490"
   },
   "Localization": {
     "Title": "Muck Adder",
-    "Text": "<line-height=100%><b>Ambush</b>. Muck Adder \nattacks the Character with \nthe lowest current <size=120%><sprite=2></size>"
+    "Text": "<line-height=100%>Muck Adder \nattacks the Character with \nthe lowest current <size=120%><sprite=2></size>"
   }
 }
