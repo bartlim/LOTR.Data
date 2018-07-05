@@ -31,12 +31,14 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": [],
     "ArtworkMD5": "64f787db995e4914942e638cffc1addc",
     "BannerMD5": null,
     "IconMD5": "893fbc9ebce36cdfa2d5938e3f37ebe4"
   },
   "Localization": {
     "Title": "Warrior Sword",
-    "Text": "Gain +1 <size=120%><sprite=0></size> and <b>Counter</b>"
+    "Text": "Gain +1 <size=120%><sprite=0></size>"
   }
 }
