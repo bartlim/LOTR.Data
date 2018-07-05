@@ -1162,7 +1162,7 @@
           ],
           "NextStageId": "TheTrollsDinner",
           "BGM": "mus_cave",
-          "FateCardList": null,
+          "FateCardList": [],
           "ThreatCardList": null
         },
         {
@@ -1200,7 +1200,7 @@
           "FateCardList": [
             {
               "Id": "BoldResolve",
-              "Threshold": 6
+              "Threshold": 5
             }
           ],
           "ThreatCardList": null
