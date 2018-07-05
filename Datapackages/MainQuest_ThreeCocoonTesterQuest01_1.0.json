@@ -88,6 +88,17 @@
             "Threshold": 9
           }
         ]
+      },
+      {
+        "Title": "",
+        "SoloGameSetup": [],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ],
+        "FateCardList": null,
+        "ThreatCardList": []
       }
     ],
     "Sequences": [],
@@ -101,9 +112,9 @@
     "ThreatCardList": null,
     "AIBehavior": null
   },
-  "Version": "20180705072308879",
+  "Version": "20180705073058601",
   "Key": "MainQuest",
   "SubKey": "ThreeCocoonTesterQuest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ThreeCocoonTesterQuest01_20180705072308879"
+  "InternalKey": "MainQuest_ThreeCocoonTesterQuest01_20180705073058601"
 }
