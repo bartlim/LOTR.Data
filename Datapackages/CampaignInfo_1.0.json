@@ -3500,7 +3500,7 @@
             {
               "Id": "Location101",
               "SceneName": "Q01_L01_ForestGate",
-              "IntroMusic": null,
+              "IntroMusic": "mus_cave",
               "IntroVoice": "OpeningMirkwood_01",
               "IntroSprite": "Sprites/Locations/Quest1_Stage01",
               "SoloGameSetup": [
@@ -3510,7 +3510,12 @@
               "NextStageId": "",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": [
+                {
+                  "Id": "TutorialThreatEvent",
+                  "Threshold": 9
+                }
+              ]
             }
           ],
           "SauronDeck": [
