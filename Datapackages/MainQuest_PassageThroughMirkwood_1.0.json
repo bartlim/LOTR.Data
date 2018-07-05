@@ -304,7 +304,7 @@
         "FateCardList": [
           {
             "Id": "FateKingsfoil",
-            "Threshold": 6
+            "Threshold": 5
           }
         ],
         "ThreatCardList": null
@@ -325,7 +325,7 @@
         "FateCardList": [
           {
             "Id": "SavedbytheElves",
-            "Threshold": 6
+            "Threshold": 5
           }
         ],
         "ThreatCardList": null
@@ -363,9 +363,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180705145747701",
+  "Version": "20180705145839745",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180705145747701"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180705145839745"
 }
