@@ -3855,7 +3855,7 @@
             {
               "Id": "Tutorial_Stage_02",
               "SceneName": "Q01_L01_ForestGate",
-              "IntroMusic": null,
+              "IntroMusic": "mus_cave",
               "IntroVoice": "TutorialNarrativeScreen2",
               "IntroSprite": "Sprites/Locations/Tutorial_NarrativeScreen-2",
               "SoloGameSetup": null,
@@ -3867,7 +3867,7 @@
             {
               "Id": "Tutorial_Stage_03",
               "SceneName": "Q01_L01_ForestGate",
-              "IntroMusic": null,
+              "IntroMusic": "mus_cave",
               "IntroVoice": "TutorialNarrativeScreen3",
               "IntroSprite": "Sprites/Locations/Tutorial_NarrativeScreen-3",
               "SoloGameSetup": null,
@@ -3880,11 +3880,16 @@
           "SauronDeck": [],
           "FateCardList": [
             {
-              "Id": "RangersProvisions",
-              "Threshold": 3
+              "Id": "TutorialFateEvent",
+              "Threshold": 2
             }
           ],
-          "ThreatCardList": null,
+          "ThreatCardList": [
+            {
+              "Id": "TutorialThreatEvent",
+              "Threshold": 1
+            }
+          ],
           "AIBehavior": null
         }
       ]
