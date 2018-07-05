@@ -336,15 +336,15 @@
     "FateCardList": [
       {
         "Id": "RangersCache",
-        "Threshold": 4
+        "Threshold": 3
       },
       {
         "Id": "ShaftofSunlight",
-        "Threshold": 7
+        "Threshold": 6
       },
       {
         "Id": "SupportfromDale",
-        "Threshold": 10
+        "Threshold": 9
       }
     ],
     "ThreatCardList": [
@@ -363,9 +363,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180705074706957",
+  "Version": "20180705145747701",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180705074706957"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180705145747701"
 }
