@@ -24,18 +24,18 @@
     "ArtistName": "Ben Zweifel",
     "Status": "Ready",
     "CardOffsetX": 1.0,
-    "CardOffsetY": 1.0,
-    "CardScale": 0.85,
+    "CardOffsetY": 1.15,
+    "CardScale": 1.0,
     "CameoOffsetX": 1.0,
     "CameoOffsetY": 0.9,
     "CameoScale": 0.85,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
-    "IconMD5": "1ca4bb62ae2b82ac828ff78ebe1ccbf1",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "1ca4bb62ae2b82ac828ff78ebe1ccbf1"
   },
   "Localization": {
     "Title": "Blocked Path",
