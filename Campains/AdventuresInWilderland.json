@@ -1113,15 +1113,15 @@
       "FateCardList": [
         {
           "Id": "RefreshingWaters",
-          "Threshold": 4
+          "Threshold": 3
         },
         {
           "Id": "BeneficialCurrent",
-          "Threshold": 7
+          "Threshold": 6
         },
         {
           "Id": "CripplingBlow",
-          "Threshold": 10
+          "Threshold": 9
         }
       ],
       "ThreatCardList": [
