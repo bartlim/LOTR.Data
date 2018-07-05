@@ -15,7 +15,7 @@
         {
           "Id": "ForestGate",
           "SceneName": "Q01_L01_ForestGate",
-          "IntroMusic": "mus_cave",
+          "IntroMusic": null,
           "IntroVoice": "Q1L1_ForestGate",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -253,15 +253,15 @@
       "FateCardList": [
         {
           "Id": "RangersCache",
-          "Threshold": 4
+          "Threshold": 3
         },
         {
           "Id": "ShaftofSunlight",
-          "Threshold": 7
+          "Threshold": 6
         },
         {
           "Id": "SupportfromDale",
-          "Threshold": 10
+          "Threshold": 9
         }
       ],
       "ThreatCardList": [
