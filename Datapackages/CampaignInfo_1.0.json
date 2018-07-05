@@ -17,7 +17,7 @@
             {
               "Id": "ForestGate",
               "SceneName": "Q01_L01_ForestGate",
-              "IntroMusic": null,
+              "IntroMusic": "mus_cave",
               "IntroVoice": "Q1L1_ForestGate",
               "IntroSprite": "Sprites/Locations/Quest1_Stage01",
               "SoloGameSetup": [
@@ -31,7 +31,12 @@
               "NextStageId": "CapturedBySpiders",
               "BGM": "mus_thewilderlands",
               "FateCardList": null,
-              "ThreatCardList": []
+              "ThreatCardList": [
+                {
+                  "Id": "TutorialThreatEvent",
+                  "Threshold": 1
+                }
+              ]
             },
             {
               "Id": "CapturedBySpiders",
