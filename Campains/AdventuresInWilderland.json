@@ -29,12 +29,7 @@
           "NextStageId": "CapturedBySpiders",
           "BGM": "mus_thewilderlands",
           "FateCardList": null,
-          "ThreatCardList": [
-            {
-              "Id": "TutorialThreatEvent",
-              "Threshold": 1
-            }
-          ]
+          "ThreatCardList": []
         },
         {
           "Id": "CapturedBySpiders",
