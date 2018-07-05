@@ -298,15 +298,15 @@
     "FateCardList": [
       {
         "Id": "StaggeringBlow",
-        "Threshold": 4
+        "Threshold": 3
       },
       {
         "Id": "AidFromTheBeornings",
-        "Threshold": 7
+        "Threshold": 6
       },
       {
         "Id": "SecondWind",
-        "Threshold": 10
+        "Threshold": 9
       }
     ],
     "ThreatCardList": [
@@ -325,9 +325,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180705194043182",
+  "Version": "20180705195518126",
   "Key": "MainQuest",
   "SubKey": "ConflictAtTheCarrock",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180705194043182"
+  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180705195518126"
 }
