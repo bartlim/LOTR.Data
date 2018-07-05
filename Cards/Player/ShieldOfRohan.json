@@ -31,12 +31,14 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": [],
     "ArtworkMD5": "b464636f7d8a1483aa7e5ec057e4893d",
     "BannerMD5": null,
     "IconMD5": "59d4aafedcc2d6bcf579a4a7b8838645"
   },
   "Localization": {
     "Title": "Shield of Rohan",
-    "Text": "Gain +2 <size=120%><sprite=2></size> and <b>Ambush</b>"
+    "Text": "Gain +2 <size=120%><sprite=2></size>"
   }
 }
