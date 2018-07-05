@@ -15,42 +15,53 @@
         {
           "Id": "Tutorial_Stage_01",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "TutorialNarrativeScreen1",
           "IntroSprite": "Sprites/Locations/Tutorial_NarrativeScreen-1",
           "SoloGameSetup": null,
           "NextStageId": "Tutorial_Stage_02",
           "BGM": null,
-          "FateCardList": null
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "Tutorial_Stage_02",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "TutorialNarrativeScreen2",
           "IntroSprite": "Sprites/Locations/Tutorial_NarrativeScreen-2",
           "SoloGameSetup": null,
           "NextStageId": "Tutorial_Stage_03",
           "BGM": null,
-          "FateCardList": null
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "Tutorial_Stage_03",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "TutorialNarrativeScreen3",
           "IntroSprite": "Sprites/Locations/Tutorial_NarrativeScreen-3",
           "SoloGameSetup": null,
           "NextStageId": "",
           "BGM": null,
-          "FateCardList": null
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [],
       "FateCardList": [
         {
-          "Id": "RangersProvisions",
-          "Threshold": 3
+          "Id": "TutorialFateEvent",
+          "Threshold": 2
         }
       ],
-      "ThreatCardList": null,
+      "ThreatCardList": [
+        {
+          "Id": "TutorialThreatEvent",
+          "Threshold": 1
+        }
+      ],
       "AIBehavior": null
     }
   ]
