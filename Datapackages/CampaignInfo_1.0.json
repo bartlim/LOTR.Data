@@ -17,7 +17,7 @@
             {
               "Id": "ForestGate",
               "SceneName": "Q01_L01_ForestGate",
-              "IntroMusic": "mus_cave",
+              "IntroMusic": null,
               "IntroVoice": "Q1L1_ForestGate",
               "IntroSprite": "Sprites/Locations/Quest1_Stage01",
               "SoloGameSetup": [
@@ -98,7 +98,7 @@
               "FateCardList": [
                 {
                   "Id": "FateKingsfoil",
-                  "Threshold": 6
+                  "Threshold": 5
                 }
               ],
               "ThreatCardList": null
@@ -120,7 +120,7 @@
               "FateCardList": [
                 {
                   "Id": "SavedbytheElves",
-                  "Threshold": 6
+                  "Threshold": 5
                 }
               ],
               "ThreatCardList": null
@@ -255,15 +255,15 @@
           "FateCardList": [
             {
               "Id": "RangersCache",
-              "Threshold": 4
+              "Threshold": 3
             },
             {
               "Id": "ShaftofSunlight",
-              "Threshold": 7
+              "Threshold": 6
             },
             {
               "Id": "SupportfromDale",
-              "Threshold": 10
+              "Threshold": 9
             }
           ],
           "ThreatCardList": [
@@ -306,7 +306,7 @@
               "FateCardList": [
                 {
                   "Id": "UnexpectedAid",
-                  "Threshold": 6
+                  "Threshold": 5
                 }
               ],
               "ThreatCardList": null
@@ -502,15 +502,15 @@
           "FateCardList": [
             {
               "Id": "CuttingTheWebs",
-              "Threshold": 4
+              "Threshold": 3
             },
             {
               "Id": "LightTheTorches",
-              "Threshold": 7
+              "Threshold": 6
             },
             {
               "Id": "InspiringCourage",
-              "Threshold": 10
+              "Threshold": 9
             }
           ],
           "ThreatCardList": [
@@ -574,7 +574,7 @@
               "FateCardList": [
                 {
                   "Id": "FearOfTheFlames",
-                  "Threshold": 6
+                  "Threshold": 5
                 }
               ],
               "ThreatCardList": null
@@ -597,7 +597,7 @@
               "FateCardList": [
                 {
                   "Id": "DistractingCall",
-                  "Threshold": 6
+                  "Threshold": 5
                 }
               ],
               "ThreatCardList": null
@@ -616,7 +616,7 @@
               ],
               "NextStageId": "OvergrownTrail",
               "BGM": "mus_mirkwood",
-              "FateCardList": null,
+              "FateCardList": [],
               "ThreatCardList": null
             },
             {
@@ -843,15 +843,15 @@
           "FateCardList": [
             {
               "Id": "MakeAStand",
-              "Threshold": 4
+              "Threshold": 3
             },
             {
               "Id": "ForageForSupplies",
-              "Threshold": 7
+              "Threshold": 6
             },
             {
               "Id": "ScoutAhead",
-              "Threshold": 10
+              "Threshold": 9
             }
           ],
           "ThreatCardList": [
