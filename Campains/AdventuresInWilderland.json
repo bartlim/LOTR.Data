@@ -841,15 +841,15 @@
       "FateCardList": [
         {
           "Id": "MakeAStand",
-          "Threshold": 4
+          "Threshold": 3
         },
         {
           "Id": "ForageForSupplies",
-          "Threshold": 7
+          "Threshold": 6
         },
         {
           "Id": "ScoutAhead",
-          "Threshold": 10
+          "Threshold": 9
         }
       ],
       "ThreatCardList": [
