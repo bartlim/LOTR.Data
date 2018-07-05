@@ -445,15 +445,15 @@
     "FateCardList": [
       {
         "Id": "MakeAStand",
-        "Threshold": 4
+        "Threshold": 3
       },
       {
         "Id": "ForageForSupplies",
-        "Threshold": 7
+        "Threshold": 6
       },
       {
         "Id": "ScoutAhead",
-        "Threshold": 10
+        "Threshold": 9
       }
     ],
     "ThreatCardList": [
@@ -472,9 +472,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180705150225248",
+  "Version": "20180705151317368",
   "Key": "MainQuest",
   "SubKey": "LostInMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_LostInMirkwood_20180705150225248"
+  "InternalKey": "MainQuest_LostInMirkwood_20180705151317368"
 }
