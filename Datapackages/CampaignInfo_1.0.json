@@ -3513,9 +3513,21 @@
               "ThreatCardList": [
                 {
                   "Id": "TutorialThreatEvent",
-                  "Threshold": 9
+                  "Threshold": 2
                 }
               ]
+            },
+            {
+              "Id": "",
+              "SceneName": null,
+              "IntroMusic": "mus_dungeon",
+              "IntroVoice": "",
+              "IntroSprite": null,
+              "SoloGameSetup": null,
+              "NextStageId": null,
+              "BGM": null,
+              "FateCardList": null,
+              "ThreatCardList": []
             }
           ],
           "SauronDeck": [
@@ -3558,11 +3570,32 @@
           ],
           "FateCardList": [
             {
-              "Id": "ForageForSupplies",
-              "Threshold": 1
+              "Id": "RangersCache",
+              "Threshold": 4
+            },
+            {
+              "Id": "ShaftofSunlight",
+              "Threshold": 7
+            },
+            {
+              "Id": "SupportfromDale",
+              "Threshold": 10
             }
           ],
-          "ThreatCardList": null,
+          "ThreatCardList": [
+            {
+              "Id": "SpidersDescend",
+              "Threshold": 1
+            },
+            {
+              "Id": "Poisoned",
+              "Threshold": 2
+            },
+            {
+              "Id": "WaveOfFear",
+              "Threshold": 3
+            }
+          ],
           "AIBehavior": null
         },
         {
