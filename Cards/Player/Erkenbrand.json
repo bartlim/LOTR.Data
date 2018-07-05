@@ -31,6 +31,7 @@
     "CameoScale": 0.8,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
     "ComboList": [],
     "ArtworkMD5": "d9ec67b0d8bb7c6ae3362c8785a52692",
     "BannerMD5": null,
@@ -38,6 +39,6 @@
   },
   "Localization": {
     "Title": "‰Erkenbrand  ",
-    "Text": "<b>Arrival</b>: Activate <b>Guard</b>. \n<b>Block</b>. <b>Guard</b>"
+    "Text": "<b>Guard</b>"
   }
 }
