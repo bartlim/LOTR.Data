@@ -240,7 +240,12 @@
           "CapturedBySpiders"
         ],
         "FateCardList": null,
-        "ThreatCardList": []
+        "ThreatCardList": [
+          {
+            "Id": "TutorialThreatEvent",
+            "Threshold": 1
+          }
+        ]
       },
       {
         "Title": "CapturedBySpiders",
@@ -363,9 +368,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180625191912114",
+  "Version": "20180705074320105",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180625191912114"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180705074320105"
 }
