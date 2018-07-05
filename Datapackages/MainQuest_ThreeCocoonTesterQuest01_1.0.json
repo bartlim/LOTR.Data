@@ -85,7 +85,7 @@
         "ThreatCardList": [
           {
             "Id": "TutorialThreatEvent",
-            "Threshold": 9
+            "Threshold": 2
           }
         ]
       },
@@ -105,16 +105,37 @@
     "Stories": [],
     "FateCardList": [
       {
-        "Id": "ForageForSupplies",
-        "Threshold": 1
+        "Id": "RangersCache",
+        "Threshold": 4
+      },
+      {
+        "Id": "ShaftofSunlight",
+        "Threshold": 7
+      },
+      {
+        "Id": "SupportfromDale",
+        "Threshold": 10
       }
     ],
-    "ThreatCardList": null,
+    "ThreatCardList": [
+      {
+        "Id": "SpidersDescend",
+        "Threshold": 1
+      },
+      {
+        "Id": "Poisoned",
+        "Threshold": 2
+      },
+      {
+        "Id": "WaveOfFear",
+        "Threshold": 3
+      }
+    ],
     "AIBehavior": null
   },
-  "Version": "20180705073058601",
+  "Version": "20180705073349431",
   "Key": "MainQuest",
   "SubKey": "ThreeCocoonTesterQuest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ThreeCocoonTesterQuest01_20180705073058601"
+  "InternalKey": "MainQuest_ThreeCocoonTesterQuest01_20180705073349431"
 }
