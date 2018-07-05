@@ -15,6 +15,7 @@
         {
           "Id": "Location101",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": "mus_cave",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -23,7 +24,13 @@
           ],
           "NextStageId": "",
           "BGM": "mus_cave",
-          "FateCardList": null
+          "FateCardList": null,
+          "ThreatCardList": [
+            {
+              "Id": "TutorialThreatEvent",
+              "Threshold": 9
+            }
+          ]
         }
       ],
       "SauronDeck": [
@@ -84,6 +91,7 @@
         {
           "Id": "Location201",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -92,7 +100,8 @@
           ],
           "NextStageId": "",
           "BGM": null,
-          "FateCardList": null
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
@@ -148,6 +157,7 @@
         {
           "Id": "Location301",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -156,7 +166,8 @@
           ],
           "NextStageId": "",
           "BGM": null,
-          "FateCardList": null
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
@@ -212,6 +223,7 @@
         {
           "Id": "Location401",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -220,7 +232,8 @@
           ],
           "NextStageId": "",
           "BGM": null,
-          "FateCardList": null
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
@@ -276,6 +289,7 @@
         {
           "Id": "Location501",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -284,7 +298,8 @@
           ],
           "NextStageId": "",
           "BGM": null,
-          "FateCardList": null
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
