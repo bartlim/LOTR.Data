@@ -260,7 +260,7 @@
         "FateCardList": [
           {
             "Id": "DistractTheTroll",
-            "Threshold": 6
+            "Threshold": 5
           }
         ],
         "ThreatCardList": null
@@ -278,7 +278,7 @@
         "NextStageTitles": [
           "TreacherousShortcut"
         ],
-        "FateCardList": null,
+        "FateCardList": [],
         "ThreatCardList": null
       },
       {
@@ -330,7 +330,7 @@
         "FateCardList": [
           {
             "Id": "SavedByTheBeornings",
-            "Threshold": 6
+            "Threshold": 5
           }
         ],
         "ThreatCardList": null
@@ -368,9 +368,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180705193722960",
+  "Version": "20180705194038434",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180705193722960"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180705194038434"
 }
