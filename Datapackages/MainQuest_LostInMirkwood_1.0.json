@@ -364,7 +364,7 @@
         "FateCardList": [
           {
             "Id": "FearOfTheFlames",
-            "Threshold": 6
+            "Threshold": 5
           }
         ],
         "ThreatCardList": null
@@ -386,7 +386,7 @@
         "FateCardList": [
           {
             "Id": "DistractingCall",
-            "Threshold": 6
+            "Threshold": 5
           }
         ],
         "ThreatCardList": null
@@ -404,7 +404,7 @@
         "NextStageTitles": [
           "OvergrownTrail"
         ],
-        "FateCardList": null,
+        "FateCardList": [],
         "ThreatCardList": null
       },
       {
@@ -472,9 +472,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180705151317368",
+  "Version": "20180705151411395",
   "Key": "MainQuest",
   "SubKey": "LostInMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_LostInMirkwood_20180705151317368"
+  "InternalKey": "MainQuest_LostInMirkwood_20180705151411395"
 }
