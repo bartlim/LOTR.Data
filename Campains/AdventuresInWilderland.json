@@ -892,7 +892,7 @@
           "FateCardList": [
             {
               "Id": "DistractTheTroll",
-              "Threshold": 6
+              "Threshold": 5
             }
           ],
           "ThreatCardList": null
@@ -911,7 +911,7 @@
           ],
           "NextStageId": "TreacherousShortcut",
           "BGM": "mus_stream",
-          "FateCardList": null,
+          "FateCardList": [],
           "ThreatCardList": null
         },
         {
@@ -966,7 +966,7 @@
           "FateCardList": [
             {
               "Id": "SavedByTheBeornings",
-              "Threshold": 6
+              "Threshold": 5
             }
           ],
           "ThreatCardList": null
