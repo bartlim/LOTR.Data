@@ -24,18 +24,18 @@
     "ArtistName": "David Lecossu",
     "Status": "WIP",
     "CardOffsetX": 1.0,
-    "CardOffsetY": 1.0,
+    "CardOffsetY": 1.3,
     "CardScale": 1.0,
     "CameoOffsetX": 1.0,
     "CameoOffsetY": 1.0,
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "9b18feda64e802103199ebef49c05211",
     "BannerMD5": "52415abb47e3c81be2bc0d4ae9b23ea1",
-    "IconMD5": "b7b7452404efc9d978067c4575824a15",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "b7b7452404efc9d978067c4575824a15"
   },
   "Localization": {
     "Title": "Rapids",
