@@ -24,18 +24,18 @@
     "ArtistName": "Leanna Crossan\r",
     "Status": "Ready",
     "CardOffsetX": 1.0,
-    "CardOffsetY": 1.05,
-    "CardScale": 0.87,
+    "CardOffsetY": 1.2,
+    "CardScale": 1.0,
     "CameoOffsetX": 1.0,
     "CameoOffsetY": 1.0,
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
-    "IconMD5": "404298ed4f6fa1252bcee22c353a2afa",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "404298ed4f6fa1252bcee22c353a2afa"
   },
   "Localization": {
     "Title": "Accursed Forest",
