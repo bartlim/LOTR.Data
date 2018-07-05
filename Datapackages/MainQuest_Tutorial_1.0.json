@@ -51,14 +51,14 @@
     "ThreatCardList": [
       {
         "Id": "TutorialThreatEvent",
-        "Threshold": 1
+        "Threshold": 2
       }
     ],
     "AIBehavior": null
   },
-  "Version": "20180705042358866",
+  "Version": "20180705062457295",
   "Key": "MainQuest",
   "SubKey": "Tutorial",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Tutorial_20180705042358866"
+  "InternalKey": "MainQuest_Tutorial_20180705062457295"
 }
