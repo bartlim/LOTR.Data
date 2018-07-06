@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "…he realized that he was weary, weary almost to exhaustion: his legs would not carry him as he wished. \n—<i>The Return of the King</i>",
+    "FlavorText": "…he realized that he was weary, weary almost to exhaustion: his legs would not carry him as he wished. \n—<i>TheTwo Towers</i>",
     "ArtistName": "Marco Caradonna",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "1356e5377623e730682cd08a17276669",
     "BannerMD5": null,
-    "IconMD5": "c6981fb4269e54e6e8fc7e55b28d9544",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "c6981fb4269e54e6e8fc7e55b28d9544"
   },
   "Localization": {
     "Title": "Exhaustion",
