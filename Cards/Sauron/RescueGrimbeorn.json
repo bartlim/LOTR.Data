@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "Effect_Door",
     "DeathSFX": "",
-    "FlavorText": "\"A fine hunt you have led us! Two hundred leagues through fen and forest battle and death to rescue you!\" \n—Gimli <i>The Two Towers</i>",
+    "FlavorText": "\"A fine hunt you have led us! Two hundred leagues, through fen and forest, battle and death, to rescue you!\" \n—Gimli <i>The Two Towers</i>",
     "ArtistName": "Tiziano Baracchi",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,11 +31,11 @@
     "CameoScale": 1.05,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "06e145df437e984485372fecd73070fe",
     "BannerMD5": null,
-    "IconMD5": "2dbae790fe7e4929e47afb6b30632062",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "2dbae790fe7e4929e47afb6b30632062"
   },
   "Localization": {
     "Title": "Rescue Grimbeorn",
