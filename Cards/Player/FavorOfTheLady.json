@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "\"You are indeed high in the favor of the Lady!\"\n —an Elf of Lórien, <i>The Fellowship of the Ring</i>",
+    "FlavorText": "\"You are indeed high in the favour of the Lady!\"\n —an Elf of Lórien, <i>The Fellowship of the Ring</i>",
     "ArtistName": "Magali Villeneuve",
     "Status": "Ready",
     "CardOffsetX": 1.03,
@@ -31,6 +31,8 @@
     "CameoScale": 0.9,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": [],
     "ArtworkMD5": "4f668c62ff384f64e13c46993ff59e0d",
     "BannerMD5": null,
     "IconMD5": "a843c20188dc53651b49e993a859b5ce"
