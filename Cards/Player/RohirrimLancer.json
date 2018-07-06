@@ -20,7 +20,7 @@
     "AttackSFX": "event_attack_arrow_e",
     "DeathVFX": "Effect_Death3",
     "DeathSFX": "die_both_e",
-    "FlavorText": "After him thundered the knights of his house. \n—<i>The Return of the King</i>",
+    "FlavorText": "After him thundered the knights of his house... \n—<i>The Return of the King</i>",
     "ArtistName": "Sebastian Zakrzewski",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,6 +31,8 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
