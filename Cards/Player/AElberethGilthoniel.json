@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "\"<i>Glithoniel, A Elbereth!</i>\" Sam cried. For, why he did not know, his thought sprang back suddenly to the Elves in the Shire, and the song that drove away the Black Rider in the trees.\n—<i>The Return of the King</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -31,13 +31,14 @@
     "CameoScale": 0.95,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
     "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
-    "Title": "A Elbereth! Gilthoniel!",
+    "Title": "Gilthoniel! A Elbereth!",
     "Text": "<line-height=100%>Defeat the next non-unique \nEnemy that attacks; then \nlose <size=120%><sprite=4></size> equal to its <size=120%><sprite=0></size> value"
   }
 }
