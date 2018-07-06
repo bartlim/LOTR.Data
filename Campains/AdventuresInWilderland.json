@@ -84,11 +84,10 @@
         {
           "Id": "TheEnchantedStream",
           "SceneName": "Q01_L04_TheEnchantedStream",
-          "IntroMusic": null,
+          "IntroMusic": "mus_cave",
           "IntroVoice": "Q1L4_TheEnchantedStream",
           "IntroSprite": "Sprites/Locations/Quest1_Stage04",
           "SoloGameSetup": [
-            "Kingsfoil",
             "MarshAdder"
           ],
           "NextStageId": "",
