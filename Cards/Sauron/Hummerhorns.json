@@ -3,7 +3,7 @@
     "Id": "Hummerhorns",
     "Owner": "Sauron",
     "CardType": 3,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 2,
     "QuestPoints": 0,
     "Attack": 2,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "cde543e4c972c13be426c3326bee16d9",
     "BannerMD5": null,
-    "IconMD5": "2a21f7f6e2fa6dd99fd0e0bac6802b0f",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "2a21f7f6e2fa6dd99fd0e0bac6802b0f"
   },
   "Localization": {
     "Title": "Hummerhorns",
