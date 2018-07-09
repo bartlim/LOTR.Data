@@ -3,7 +3,7 @@
     "Id": "GoblinSniper",
     "Owner": "Sauron",
     "CardType": 3,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 3,
     "QuestPoints": 0,
     "Attack": 2,
@@ -31,10 +31,11 @@
     "CameoScale": 0.95,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
+    "ComboList": [],
     "ArtworkMD5": "8306f8aa7eb6999c9852f8028095232e",
     "BannerMD5": null,
-    "IconMD5": "8d74d0dfd3d5315c5635dd4ff9a9d10e",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "8d74d0dfd3d5315c5635dd4ff9a9d10e"
   },
   "Localization": {
     "Title": "Goblin Sniper",
