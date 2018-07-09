@@ -3,7 +3,7 @@
     "Id": "EyesOfTheForest",
     "Owner": "Sauron",
     "CardType": 9,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 1,
     "QuestPoints": 0,
     "Attack": 0,
@@ -31,10 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
-    "IconMD5": "be9577bca044eb07db6ef87669d916aa",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "be9577bca044eb07db6ef87669d916aa"
   },
   "Localization": {
     "Title": "Eyes of the Forest",
