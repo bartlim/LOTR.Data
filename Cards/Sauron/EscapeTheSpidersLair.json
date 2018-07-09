@@ -3,7 +3,7 @@
     "Id": "EscapeTheSpidersLair",
     "Owner": "Sauron",
     "CardType": 6,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 0,
     "QuestPoints": 8,
     "Attack": 0,
@@ -31,11 +31,11 @@
     "CameoScale": 0.99,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "9980c8ac06670437804099c8db58ae85",
     "BannerMD5": null,
-    "IconMD5": "f67c04c2673487bf4bc0550e3973b3d3",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "f67c04c2673487bf4bc0550e3973b3d3"
   },
   "Localization": {
     "Title": "Escape the Spiders’ Lair",
