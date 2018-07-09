@@ -3,7 +3,7 @@
     "Id": "WatchersInTheDark",
     "Owner": "Sauron",
     "CardType": 9,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 0,
     "QuestPoints": 0,
     "Attack": 0,
@@ -31,10 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
+    "ComboList": [],
     "ArtworkMD5": "227f1ff92c438e9c0c920bb2d9a1fb07",
     "BannerMD5": null,
-    "IconMD5": "9f5b3b6fbc45da82431c197221ae0ee9",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "9f5b3b6fbc45da82431c197221ae0ee9"
   },
   "Localization": {
     "Title": "Watchers in the Dark",
