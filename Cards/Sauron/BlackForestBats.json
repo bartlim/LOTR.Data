@@ -3,7 +3,7 @@
     "Id": "BlackForestBats",
     "Owner": "Sauron",
     "CardType": 3,
-    "ShopType": "Starter",
+    "ShopType": "Special",
     "Cost": 0,
     "QuestPoints": 0,
     "Attack": 2,
@@ -31,14 +31,14 @@
     "CameoScale": 0.9,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "CanBePlayedDuringTravel": true,
+    "ComboList": [],
     "ArtworkMD5": "01137215cbc7be0ed82ac06ce039d06d",
     "BannerMD5": "5441d46ecc2300451b51dbe810cee0af",
-    "IconMD5": "cf590b1666d41c4d815f6e4acaf07ba7",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "cf590b1666d41c4d815f6e4acaf07ba7"
   },
   "Localization": {
-    "Title": "Black Forest Bats",
-    "Text": ""
+    "Title": "Accursed Forest",
+    "Text": "<b>Upkeep</b>: Until resolved, discard the top 3 cards from each \nplayer's deck"
   }
 }
