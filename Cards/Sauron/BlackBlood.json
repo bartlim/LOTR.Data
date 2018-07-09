@@ -3,7 +3,7 @@
     "Id": "BlackBlood",
     "Owner": "Sauron",
     "CardType": 9,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 1,
     "QuestPoints": 0,
     "Attack": 0,
@@ -31,11 +31,11 @@
     "CameoScale": 0.9,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "20e33e8cb54b4a44dc7eb1d06a0d9228",
     "BannerMD5": null,
-    "IconMD5": "858ed83a94277742d7ee74e079fd848b",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "858ed83a94277742d7ee74e079fd848b"
   },
   "Localization": {
     "Title": "Black Blood",
