@@ -3,7 +3,7 @@
     "Id": "FollowTheStream",
     "Owner": "Sauron",
     "CardType": 6,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 0,
     "QuestPoints": 8,
     "Attack": 0,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "80653c9a032f070cd7b695f6421d687c",
     "BannerMD5": null,
-    "IconMD5": "40ca0a0c4f7a948acf743aa37b1cf611",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "40ca0a0c4f7a948acf743aa37b1cf611"
   },
   "Localization": {
     "Title": "Follow the Stream",
