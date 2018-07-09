@@ -3,7 +3,7 @@
     "Id": "DelayUntilDawn",
     "Owner": "Sauron",
     "CardType": 6,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 0,
     "QuestPoints": 18,
     "Attack": 0,
@@ -31,11 +31,11 @@
     "CameoScale": 1.07,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "6b96ee6577e834cb7d0f35d75e43daa0",
     "BannerMD5": "8749d76e9f8c4664017efa8bc5a440e2",
-    "IconMD5": "b4130d4c15a39dcd435a2bdc783d7677",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "b4130d4c15a39dcd435a2bdc783d7677"
   },
   "Localization": {
     "Title": "Delay until Dawn",
