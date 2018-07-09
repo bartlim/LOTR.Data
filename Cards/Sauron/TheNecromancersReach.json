@@ -3,7 +3,7 @@
     "Id": "TheNecromancersReach",
     "Owner": "Sauron",
     "CardType": 9,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 3,
     "QuestPoints": 0,
     "Attack": 0,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "c44cc125c91eae7a6ab4bf3e7841fd43",
     "BannerMD5": null,
-    "IconMD5": "2e0fef349d70fcec68739831c69b545b",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "2e0fef349d70fcec68739831c69b545b"
   },
   "Localization": {
     "Title": "The Necromancer's Reach",
