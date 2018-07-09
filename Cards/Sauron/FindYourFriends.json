@@ -3,7 +3,7 @@
     "Id": "FindYourFriends",
     "Owner": "Sauron",
     "CardType": 6,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 0,
     "QuestPoints": 6,
     "Attack": 0,
@@ -31,11 +31,11 @@
     "CameoScale": 1.06,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "6bb85f31ef193a68ebb6301b4a2aaf00",
     "BannerMD5": null,
-    "IconMD5": "395787c854aba0cbca244aac3324a3e8",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "395787c854aba0cbca244aac3324a3e8"
   },
   "Localization": {
     "Title": "Find Your Friends",
