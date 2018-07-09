@@ -9,7 +9,7 @@
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "Shadow",
+    "Trait": "",
     "Rarity": 0,
     "Sphere": 2,
     "SphereLevel": 0,
@@ -31,11 +31,11 @@
     "CameoScale": 0.8,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "48d15bed9d95162c73bf6e2f1b2f9499",
     "BannerMD5": "eb013a70c7535b0c8de118dab7f4405a",
-    "IconMD5": "c1c719efffc41bb4c3bdbe63d9986054",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "c1c719efffc41bb4c3bdbe63d9986054"
   },
   "Localization": {
     "Title": "Despair",
