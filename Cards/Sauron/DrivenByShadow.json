@@ -3,7 +3,7 @@
     "Id": "DrivenByShadow",
     "Owner": "Sauron",
     "CardType": 8,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 1,
     "QuestPoints": 0,
     "Attack": 0,
@@ -31,10 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
+    "ComboList": [],
     "ArtworkMD5": "4a42659382c9d54c65ad1907de0d3d3e",
     "BannerMD5": null,
-    "IconMD5": "f5eda8264b42d7a7704c11e7d94a39c2",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "f5eda8264b42d7a7704c11e7d94a39c2"
   },
   "Localization": {
     "Title": "Driven by Shadow",
