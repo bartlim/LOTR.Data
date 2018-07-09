@@ -3,7 +3,7 @@
     "Id": "ClimbTheHill",
     "Owner": "Sauron",
     "CardType": 6,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 0,
     "QuestPoints": 8,
     "Attack": 0,
@@ -31,14 +31,14 @@
     "CameoScale": 1.1,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "594fff48a17e2d98bddb9467c1eb8c44",
     "BannerMD5": null,
-    "IconMD5": "7c68987bd5af1cb976491d07e54e4287",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "7c68987bd5af1cb976491d07e54e4287"
   },
   "Localization": {
-    "Title": "Climb the Hill",
-    "Text": "When resolved, you may travel \nto Bare Hilltop"
+    "Title": "Board the Raft",
+    "Text": "<size=95%>Cannot engage while\nHill Troll is in play.</size>\nWhen resolved, you may travel from this Location"
   }
 }
