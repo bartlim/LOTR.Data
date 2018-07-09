@@ -3,7 +3,7 @@
     "Id": "SquashedIntoJelly",
     "Owner": "Sauron",
     "CardType": 9,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 3,
     "QuestPoints": 0,
     "Attack": 0,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "eefffd7a01496d489ada669dca098d30",
     "BannerMD5": null,
-    "IconMD5": "db4980604f5120c40fab16d8ab7f23cc",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "db4980604f5120c40fab16d8ab7f23cc"
   },
   "Localization": {
     "Title": "Squashed into Jelly",
