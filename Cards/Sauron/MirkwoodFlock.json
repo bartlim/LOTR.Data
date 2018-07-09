@@ -3,7 +3,7 @@
     "Id": "MirkwoodFlock",
     "Owner": "Sauron",
     "CardType": 3,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 1,
     "QuestPoints": 0,
     "Attack": 1,
@@ -31,10 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
+    "ComboList": [],
     "ArtworkMD5": "1a425922787c6d732b27c3d56ef9f0e2",
     "BannerMD5": null,
-    "IconMD5": "c158e6bc7311d9b12816e04e5e038c6f",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "c158e6bc7311d9b12816e04e5e038c6f"
   },
   "Localization": {
     "Title": "Mirkwood Flock",
