@@ -3,7 +3,7 @@
     "Id": "ATest180307",
     "Owner": "Sauron",
     "CardType": 8,
-    "ShopType": "Starter",
+    "ShopType": "Special",
     "Cost": 3,
     "QuestPoints": 3,
     "Attack": 6,
@@ -31,10 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
+    "ComboList": [],
     "ArtworkMD5": "6a96f6c6303730ca9811c9d6abdedfd5",
     "BannerMD5": null,
-    "IconMD5": null,
-    "CanBePlayedDuringTravel": true
+    "IconMD5": null
   },
   "Localization": {
     "Title": "test",
