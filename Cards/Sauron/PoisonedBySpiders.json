@@ -3,7 +3,7 @@
     "Id": "PoisonedBySpiders",
     "Owner": "Sauron",
     "CardType": 9,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 2,
     "QuestPoints": 0,
     "Attack": 0,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "d040d2c2dbecd80d8c82406167bd1767",
     "BannerMD5": null,
-    "IconMD5": "1efa14bddfcfb8c7bf883de4de419297",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "1efa14bddfcfb8c7bf883de4de419297"
   },
   "Localization": {
     "Title": "Poisoned by Spiders",
