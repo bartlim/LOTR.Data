@@ -3,7 +3,7 @@
     "Id": "GiantMarshWorm",
     "Owner": "Sauron",
     "CardType": 2,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 0,
     "QuestPoints": 0,
     "Attack": 4,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "2d190c42e7792404bd68bcf3e6d960c8",
     "BannerMD5": null,
-    "IconMD5": "fff692ec623e5d817e0bfb9ad9c5055e",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "fff692ec623e5d817e0bfb9ad9c5055e"
   },
   "Localization": {
     "Title": "‰Giant Worm",
