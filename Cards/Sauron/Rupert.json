@@ -3,7 +3,7 @@
     "Id": "Rupert",
     "Owner": "Sauron",
     "CardType": 2,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 0,
     "QuestPoints": 0,
     "Attack": 4,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "6e1c48e031d7707a3ea1b1fdb1254cca",
     "BannerMD5": null,
-    "IconMD5": "08ba975d5e42fca2ca50978cc6b1abea",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "08ba975d5e42fca2ca50978cc6b1abea"
   },
   "Localization": {
     "Title": "‰Rupert",
