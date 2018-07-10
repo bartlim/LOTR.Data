@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "\"Dwalin at your service!\" he said with a low bow.\r\n—Dwalin, <i>The Hobbit</i>",
     "ArtistName": "",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +39,6 @@
   },
   "Localization": {
     "Title": "Dwalin",
-    "Text": "Gain +1 <size=120%><sprite=0></size>, +1 <size=120%><sprite=5></size> when on 5 <size=120%><sprite=2></size> or less"
+    "Text": "Gain +1 <size=120%><sprite=0></size> and +1 <size=120%><sprite=5></size>\nwhen at 5 <size=120%><sprite=2></size> or less"
   }
 }
