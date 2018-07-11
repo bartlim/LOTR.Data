@@ -13104,5 +13104,17 @@
   {
     "Id": "C_FOULWEATHER_FLAVOR",
     "Text": ""
+  },
+  {
+    "Id": "C_MASSINGFORANATTACK_TITLE",
+    "Text": "Massing for an Attack"
+  },
+  {
+    "Id": "C_MASSINGFORANATTACK_TEXT",
+    "Text": "<b>End of Round</b>: Gain +1 <size=120%><sprite=4></size> for each unexhausted Enemy"
+  },
+  {
+    "Id": "C_MASSINGFORANATTACK_FLAVOR",
+    "Text": ""
   }
 ]
