@@ -3,7 +3,7 @@
     "Id": "RescueYourFriends",
     "Owner": "Sauron",
     "CardType": 6,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 0,
     "QuestPoints": 4,
     "Attack": 0,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "f6068df8d39ef8328f612c2556dee76a",
     "BannerMD5": null,
-    "IconMD5": "087446e0f035e651a5d537eb2fb47886",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "087446e0f035e651a5d537eb2fb47886"
   },
   "Localization": {
     "Title": "Rescue Your Friends",

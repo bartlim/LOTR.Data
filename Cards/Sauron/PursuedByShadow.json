@@ -3,7 +3,7 @@
     "Id": "PursuedByShadow",
     "Owner": "Sauron",
     "CardType": 9,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 1,
     "QuestPoints": 0,
     "Attack": 0,
@@ -31,10 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
+    "ComboList": [],
     "ArtworkMD5": "2edbdcd48c03699d1293b24297bd2307",
     "BannerMD5": null,
-    "IconMD5": "2d32520dea32b3eab62abf408f186048",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "2d32520dea32b3eab62abf408f186048"
   },
   "Localization": {
     "Title": "Pursued by Shadow",

@@ -3,7 +3,7 @@
     "Id": "Hunted",
     "Owner": "Sauron",
     "CardType": 9,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 2,
     "QuestPoints": 0,
     "Attack": 0,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "ef1eccf3a15cb948708fa9a428570c87",
     "BannerMD5": null,
-    "IconMD5": null,
-    "CanBePlayedDuringTravel": true
+    "IconMD5": null
   },
   "Localization": {
     "Title": "Hunted",

@@ -3,7 +3,7 @@
     "Id": "EscapeTheForest",
     "Owner": "Sauron",
     "CardType": 6,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 0,
     "QuestPoints": 8,
     "Attack": 0,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "b29b8d80ecd1b8864f138ddbe789bf0c",
     "BannerMD5": null,
-    "IconMD5": "3a85c098d4d52a1d14b3af55e265f406",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "3a85c098d4d52a1d14b3af55e265f406"
   },
   "Localization": {
     "Title": "Escape the Forest",

@@ -3,7 +3,7 @@
     "Id": "Frodo",
     "Owner": "Player",
     "CardType": 5,
-    "ShopType": "Starter",
+    "ShopType": "Special",
     "Cost": 7,
     "QuestPoints": 0,
     "Attack": 1,
@@ -31,6 +31,8 @@
     "CameoScale": 0.8,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": [],
     "ArtworkMD5": "930ab31c40740724b6545c0b3ee6bb41",
     "BannerMD5": null,
     "IconMD5": "80a6552fc842e554ccd14856877049ea"

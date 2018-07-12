@@ -4056,6 +4056,24 @@
     "Text_FR": "Target already has Stalwart, attach anyway?"
   },
   {
+    "Id": "U_SHOP_HEROPACK_TITLE_HEROPACK_STEADFASTCOMPANION",
+    "Text": "Steadfast Companion",
+    "Text_CN": "[C]可靠的朋友",
+    "Text_FR": "Steadfast Companion"
+  },
+  {
+    "Id": "U_SHOP_HEROPACK_DESC_HEROPACK_STEADFASTCOMPANION",
+    "Text": "Steadfast Companion description",
+    "Text_CN": "[C]可靠的朋友",
+    "Text_FR": "Steadfast Companion description"
+  },
+  {
+    "Id": "U_DECKMENU_HEROPACK_TITLE_HEROPACK_STEADFASTCOMPANION",
+    "Text": "Steadfast Companion",
+    "Text_CN": "[C]可靠的朋友",
+    "Text_FR": "Steadfast Companion"
+  },
+  {
     "Id": "PLACEHOLDER2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -5233,7 +5251,7 @@
   },
   {
     "Id": "C_CLIMBTHEHILL_TEXT",
-    "Text": "When resolved, you may travel \nto Bare Hilltop"
+    "Text": "When resolved, you may travel to Bare Hilltop"
   },
   {
     "Id": "C_CLIMBTHEHILL_TITLE",
@@ -5289,21 +5307,15 @@
   },
   {
     "Id": "C_DARKSORCERY_FLAVOR",
-    "Text": "…because of his cunning he grew ever higher in the Lord's favour; and he learned great sorcery, and knew much of the mind of Sauron; and he was more cruel than any orc. \n—<i>The Return of the King</i>",
-    "Text_CN": "…because of his cunning he grew ever higher in the Lord's favour; and he learned great sorcery, and knew much of the mind of Sauron; and he was more cruel than any orc. \n—<i>The Return of the King</i>",
-    "Text_FR": "…because of his cunning he grew ever higher in the Lord's favour; and he learned great sorcery, and knew much of the mind of Sauron; and he was more cruel than any orc. \n—<i>The Return of the King</i>"
+    "Text": "…because of his cunning he grew ever higher in the Lord's favour; and he learned great sorcery, and knew much of the mind of Sauron; and he was more cruel than any orc. \n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_DARKSORCERY_TEXT",
-    "Text": "Cancel the next Event played",
-    "Text_CN": "蓄势：取消玩家打出的下一张事件牌的效果。",
-    "Text_FR": "Prép : annulez le prochain événement joueur."
+    "Text": "Cancel the next Event played"
   },
   {
     "Id": "C_DARKSORCERY_TITLE",
-    "Text": "Dark Sorcery",
-    "Text_CN": "黑暗巫术",
-    "Text_FR": "Magie noire"
+    "Text": "Dark Sorcery"
   },
   {
     "Id": "C_DELAYUNTILDAWN_FLAVOR",
@@ -5947,21 +5959,15 @@
   },
   {
     "Id": "C_GREEDYFINGERS_FLAVOR",
-    "Text": "…his sword was still in his hand, but it was broken near the hilt…\n—<i>The Two Towers</i>",
-    "Text_CN": "…his sword was still in his hand, but it was broken near the hilt…\n—<i>The Two Towers</i>",
-    "Text_FR": "…his sword was still in his hand, but it was broken near the hilt…\n—<i>The Two Towers</i>"
+    "Text": "…his sword was still in his hand, but it was broken near the hilt…\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_GREEDYFINGERS_TEXT",
-    "Text": "Discard a random Hero's Attachment",
-    "Text_CN": "摧毁一位英雄的一件随机装备。",
-    "Text_FR": "Détruisez un attachement aléatoire sur un héros."
+    "Text": "Discard a random Hero's Attachment"
   },
   {
     "Id": "C_GREEDYFINGERS_TITLE",
-    "Text": "Greedy Fingers",
-    "Text_CN": "吞没",
-    "Text_FR": "Dévoré"
+    "Text": "Greedy Fingers"
   },
   {
     "Id": "C_GRIMBEORN_TEXT",
@@ -6033,21 +6039,15 @@
   },
   {
     "Id": "C_HATCHLINGSPIDER_FLAVOR",
-    "Text": "Practically all the spiders in the place came after him: some dropped to the ground, others raced along the branches, swung from tree to tree, or cast new ropes across the dark spaces.\n—<i>The Hobbit</i>",
-    "Text_CN": "Practically all the spiders in the place came after him: some dropped to the ground, others raced along the branches, swung from tree to tree, or cast new ropes across the dark spaces.\n—<i>The Hobbit</i>",
-    "Text_FR": "Practically all the spiders in the place came after him: some dropped to the ground, others raced along the branches, swung from tree to tree, or cast new ropes across the dark spaces.\n—<i>The Hobbit</i>"
+    "Text": "Practically all the spiders in the place came after him: some dropped to the ground, others raced along the branches, swung from tree to tree, or cast new ropes across the dark spaces.\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_HATCHLINGSPIDER_TEXT",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": ""
   },
   {
     "Id": "C_HATCHLINGSPIDER_TITLE",
-    "Text": "Hatchling Spider",
-    "Text_CN": "育卵蜘蛛",
-    "Text_FR": "Rejeton arachnide"
+    "Text": "Hatchling Spider"
   },
   {
     "Id": "C_HIDDENCACHE_FLAVOR",
@@ -6075,21 +6075,15 @@
   },
   {
     "Id": "C_HILLTROLL_FLAVOR",
-    "Text": "\"Mutton yesterday, mutton today, and blimey, if it don't look like mutton again tomorrow.\"\n—a Troll, <i>The Hobbit</i>",
-    "Text_CN": "\"Mutton yesterday, mutton today, and blimey, if it don't look like mutton again tomorrow.\"\n—Troll, <i>The Hobbit</i>",
-    "Text_FR": "\"Mutton yesterday, mutton today, and blimey, if it don't look like mutton again tomorrow.\"\n—Troll, <i>The Hobbit</i>"
+    "Text": "\"Mutton yesterday, mutton today, and blimey, if it don't look like mutton again tomorrow.\"\n—a Troll, <i>The Hobbit</i>"
   },
   {
     "Id": "C_HILLTROLL_TEXT",
-    "Text": "<b>Block</b>",
-    "Text_CN": "<b>Block</b>",
-    "Text_FR": "<b>Block</b>"
+    "Text": "<b>Block</b>"
   },
   {
     "Id": "C_HILLTROLL_TITLE",
-    "Text": "Hill Troll",
-    "Text_CN": "山区巨魔",
-    "Text_FR": "Troll des collines"
+    "Text": "Hill Troll"
   },
   {
     "Id": "C_HIVEGUARDIAN_FLAVOR",
@@ -6303,21 +6297,15 @@
   },
   {
     "Id": "C_LOSTINTHEWILDERNESS_FLAVOR",
-    "Text": "\"What have we done, O king?\" said Balin, who was the eldest left. \"Is it a crime to be lost in the forest, to be hungry and thirsty…?\"\n—<i>The Hobbit</i>",
-    "Text_CN": "\"What have we done, O king?\" said Balin, who was the eldest left. \"Is it a crime to be lost in the forest, to be hungry and thirsty…?\"\n—<i>The Hobbit</i>",
-    "Text_FR": "\"What have we done, O king?\" said Balin, who was the eldest left. \"Is it a crime to be lost in the forest, to be hungry and thirsty…?\"\n—<i>The Hobbit</i>"
+    "Text": "\"What have we done, O king?\" said Balin, who was the eldest left. \"Is it a crime to be lost in the forest, to be hungry and thirsty…?\"\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_LOSTINTHEWILDERNESS_TEXT",
-    "Text": "Capture 2 random cards from each player's hand",
-    "Text_CN": "从每名玩家手中随机扣押2张卡牌。",
-    "Text_FR": "Capturez 2 cartes aléatoires de la main de chaque joueur."
+    "Text": "Capture 2 random cards from each player's hand"
   },
   {
     "Id": "C_LOSTINTHEWILDERNESS_TITLE",
-    "Text": "Lost in the Wilderness",
-    "Text_CN": "迷失于荒野",
-    "Text_FR": "Perdus en pleine nature"
+    "Text": "Lost in the Wilderness"
   },
   {
     "Id": "C_LOUIS_FLAVOR",
@@ -6531,21 +6519,15 @@
   },
   {
     "Id": "C_PURSUEDBYSHADOW_FLAVOR",
-    "Text": "There they lay for some time, puffing and panting…\n—<i>The Hobbit</i>",
-    "Text_CN": "There they lay for some time, puffing and panting…\n—<i>The Hobbit</i>",
-    "Text_FR": "There they lay for some time, puffing and panting…\n—<i>The Hobbit</i>"
+    "Text": "There they lay for some time, puffing and panting…\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_PURSUEDBYSHADOW_TEXT",
-    "Text": "Exhaust the next Ally that\nenters play",
-    "Text_CN": "蓄势：下个进入游戏的盟友会立刻进入行动完毕状态。",
-    "Text_FR": "Prép : épuisez le prochain allié qui entre en jeu."
+    "Text": "Exhaust the next Ally that\nenters play"
   },
   {
     "Id": "C_PURSUEDBYSHADOW_TITLE",
-    "Text": "Pursued by Shadow",
-    "Text_CN": "受阴影追逐",
-    "Text_FR": "Poursuivi par l’ombre"
+    "Text": "Pursued by Shadow"
   },
   {
     "Id": "C_PURSUITONTHESHORE_FLAVOR",
@@ -7177,21 +7159,15 @@
   },
   {
     "Id": "C_TREACHEROUSFOG_FLAVOR",
-    "Text": "\"But it will be hard to find the path unless the fog lifts a little later on.\"\n—Aragorn, <i>The Fellowship of the Ring</i>",
-    "Text_CN": "\"But it will be hard to find the path unless the fog lifts a little later on.\"\n—Aragorn, <i>The Fellowship of the Ring</i>",
-    "Text_FR": "\"But it will be hard to find the path unless the fog lifts a little later on.\"\n—Aragorn, <i>The Fellowship of the Ring</i>"
+    "Text": "\"But it will be hard to find the path unless the fog lifts a little later on.\"\n—Aragorn, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_TREACHEROUSFOG_TEXT",
-    "Text": "After you play a card, lose a random card from your hand",
-    "Text_CN": "蓄势：在一位玩家打出卡牌后，从他的手中随机弃置1张卡牌。",
-    "Text_FR": "Prép : lorsqu'un joueur joue une carte, défaussez 1 carte aléatoire de sa main."
+    "Text": "After you play a card, lose a random card from your hand"
   },
   {
     "Id": "C_TREACHEROUSFOG_TITLE",
-    "Text": "Treacherous Fog",
-    "Text_CN": "莫测之雾",
-    "Text_FR": "Brouillard dangereux"
+    "Text": "Treacherous Fog"
   },
   {
     "Id": "C_TRIBULATION_FLAVOR",
@@ -7303,39 +7279,27 @@
   },
   {
     "Id": "C_UNWAVERING_FLAVOR",
-    "Text": "\"I don't trust you little swine. You've no guts outside your own sties. But for us you'd all have run away.\"\n—Uglúk, <i>The Two Towers</i>",
-    "Text_CN": "\"I don't trust you little swine. You've no guts outside your own sties. But for us you'd all have run away.\"\n—Uglúk, <i>The Two Towers</i>",
-    "Text_FR": "\"I don't trust you little swine. You've no guts outside your own sties. But for us you'd all have run away.\"\n—Uglúk, <i>The Two Towers</i>"
+    "Text": "\"I don't trust you little swine. You've no guts outside your own sties. But for us you'd all have run away.\"\n—Uglúk, <i>The Two Towers</i>"
   },
   {
     "Id": "C_UNWAVERING_TEXT",
-    "Text": "Gain <b>Stalwart</b>",
-    "Text_CN": "装备（敌人）：获得关键词『强壮』。",
-    "Text_FR": "Attacher (Ennemi) : gagnez Loyal."
+    "Text": "Gain <b>Stalwart</b>"
   },
   {
     "Id": "C_UNWAVERING_TITLE",
-    "Text": "Unwavering",
-    "Text_CN": "坚定不移",
-    "Text_FR": "Détermination"
+    "Text": "Unwavering"
   },
   {
     "Id": "C_VETERAN_FLAVOR",
-    "Text": "…a huge orc-chieftain, almost man-high, clad in black mail from head to foot, leaped into the chamber…\n—<i>The Fellowship of the Ring</i>",
-    "Text_CN": "…a huge orc-chieftain, almost man-high, clad in black mail from head to foot, leaped into the chamber…\n—<i>The Fellowship of the Ring</i>",
-    "Text_FR": "…a huge orc-chieftain, almost man-high, clad in black mail from head to foot, leaped into the chamber…\n—<i>The Fellowship of the Ring</i>"
+    "Text": "…a huge orc-chieftain, almost man-high, clad in black mail from head to foot, leaped into the chamber…\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_VETERAN_TEXT",
-    "Text": "Gain <b>Block</b>",
-    "Text_CN": "装备：获得关键词『格挡』。",
-    "Text_FR": "Attacher : gagnez Blocage."
+    "Text": "Gain <b>Block</b>"
   },
   {
     "Id": "C_VETERAN_TITLE",
-    "Text": "Veteran",
-    "Text_CN": "老兵",
-    "Text_FR": "Vétéran"
+    "Text": "Veteran"
   },
   {
     "Id": "C_VETERANAXEHAND_FLAVOR",
@@ -7363,21 +7327,15 @@
   },
   {
     "Id": "C_VICIOUSSPEED_FLAVOR",
-    "Text": "…at first the Orcs had been dismayed and had drawn back; but when no answer but the echoes came, they had attacked more fierce than ever.\n—<i>The Two Towers</i>",
-    "Text_CN": "…at first the Orcs had been dismayed and had drawn back; but when no answer but the echoes came, they had attacked more fierce than ever.\n—<i>The Two Towers</i>",
-    "Text_FR": "…at first the Orcs had been dismayed and had drawn back; but when no answer but the echoes came, they had attacked more fierce than ever.\n—<i>The Two Towers</i>"
+    "Text": "…at first the Orcs had been dismayed and had drawn back; but when no answer but the echoes came, they had attacked more fierce than ever.\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_VICIOUSSPEED_TEXT",
-    "Text": "Gain <b>Stalwart</b>",
-    "Text_CN": "Gain <b>Stalwart</b>",
-    "Text_FR": "Gain <b>Stalwart</b>"
+    "Text": "Gain <b>Stalwart</b>"
   },
   {
     "Id": "C_VICIOUSSPEED_TITLE",
-    "Text": "Vicious Speed",
-    "Text_CN": "邪恶速度",
-    "Text_FR": "Rapidité vicieuse"
+    "Text": "Vicious Speed"
   },
   {
     "Id": "C_VILESPAWN_FLAVOR",
@@ -7513,21 +7471,15 @@
   },
   {
     "Id": "C_WILDBEAR_FLAVOR",
-    "Text": "There was a growling sound outside, and a noise as of some great animal scuffling at the door.\n—<i>The Hobbit</i>",
-    "Text_CN": "There was a growling sound outside, and a noise as of some great animal scuffling at the door.\n—<i>The Hobbit</i>",
-    "Text_FR": "There was a growling sound outside, and a noise as of some great animal scuffling at the door.\n—<i>The Hobbit</i>"
+    "Text": "There was a growling sound outside, and a noise as of some great animal scuffling at the door.\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_WILDBEAR_TEXT",
-    "Text": "<b>Pursuit</b>. <b>Stalwart</b>",
-    "Text_CN": "追逐。强壮。",
-    "Text_FR": "Poursuite. Loyal."
+    "Text": "<b>Pursuit</b>. <b>Stalwart</b>"
   },
   {
     "Id": "C_WILDBEAR_TITLE",
-    "Text": "Wild Bear",
-    "Text_CN": "野熊",
-    "Text_FR": "Ours sauvage"
+    "Text": "Wild Bear"
   },
   {
     "Id": "C_WOODLANDCOURIER_FLAVOR",
@@ -7783,7 +7735,7 @@
   },
   {
     "Id": "C_EREBORRECORDKEEPER_FLAVOR",
-    "Text": ""
+    "Text": "“That would be Ori’s hand,” said Gimli, looking over the wizard’s arm. “He could write well and speedily…\"\r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_EREBORRECORDKEEPER_TITLE",
@@ -8167,7 +8119,7 @@
   },
   {
     "Id": "C_KHAZADAIMENU_FLAVOR",
-    "Text": ""
+    "Text": "<i>Khazâd ai-mênu!</i> An axe swung and swept back. Two Orcs fell headless. The rest fled.\r\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_KHAZADAIMENU_TITLE",
@@ -8191,7 +8143,7 @@
   },
   {
     "Id": "C_GETTHEORCS_FLAVOR",
-    "Text": ""
+    "Text": "…they saw that what they had at first taken to be boulders lying at the foot of the slope were huddled bodies. Five dead Orcs lay there.\r\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_GETTHEORCS_TITLE",
@@ -11539,7 +11491,7 @@
   },
   {
     "Id": "C_ALONGTHESTREAM_FLAVOR",
-    "Text": ""
+    "Text": "The dale ran like a stony trough between the ridged hills, and a trickling stream flowed among the boulders at the bottom. \r\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_INVESTIGATETHEVILLAGE_TITLE",
@@ -11551,7 +11503,7 @@
   },
   {
     "Id": "C_INVESTIGATETHEVILLAGE_FLAVOR",
-    "Text": ""
+    "Text": "Far behind them a dark smoke rose in thin curling threads.\r\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_SPIDERQUEEN_FLAVOR",
@@ -11887,7 +11839,7 @@
   },
   {
     "Id": "C_BEORNINGROAMER_FLAVOR",
-    "Text": ""
+    "Text": "\"…if it were not for the Beornings, the passage from Dale to Rivendell would long ago have become impossible.\"\r\n—Glóin, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_CRIPPLINGBLOW_TITLE",
@@ -12507,15 +12459,15 @@
   },
   {
     "Id": "C_STING_TITLE",
-    "Text": "Sting"
+    "Text": "‰Sting "
   },
   {
     "Id": "C_STING_TEXT",
-    "Text": "Gain +1 <size=120%><sprite=0></size>. \nGain an extra <size=120%><sprite=0></size> when attacking <b><i>Orc</i></b> or <b><i>Spider</i></b> enemies"
+    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=0></size>; or gain +2 <size=120%><sprite=0></size> \nversus <b><i>Orc</i></b> or <b><i>Spider</i></b> targets"
   },
   {
     "Id": "C_STING_FLAVOR",
-    "Text": ""
+    "Text": "“I will do the stinging!” And he did. He darted backwards and forwards, slashing at spider-threads, hacking at their legs, and stabbing at their fat bodies if they came too near.\r\n—Bilbo, <i>The Hobbit</i>"
   },
   {
     "Id": "C_STINGFATE_TITLE",
@@ -12851,7 +12803,7 @@
   },
   {
     "Id": "C_ROCKADDER_FLAVOR",
-    "Text": ""
+    "Text": "\"Take them away to dark holes full of snakes, and never let them see the light again!\"\r\n—The Great Goblin, <i>The Hobbit</i>"
   },
   {
     "Id": "Q_STAGE_THESPIDERSHIVE_NAME",
@@ -12903,15 +12855,15 @@
   },
   {
     "Id": "C_DWALIN_TITLE",
-    "Text": "Dwalin"
+    "Text": "‰Dwalin"
   },
   {
     "Id": "C_DWALIN_TEXT",
-    "Text": "Gain +1 <size=120%><sprite=0></size>, +1 <size=120%><sprite=5></size> when on 5 <size=120%><sprite=2></size> or less"
+    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=0></size> and +1 <size=120%><sprite=5></size>\nwhen at 5 <size=120%><sprite=2></size> or less"
   },
   {
     "Id": "C_DWALIN_FLAVOR",
-    "Text": ""
+    "Text": "\"Dwalin at your service!\" he said with a low bow.\r\n—Dwalin, <i>The Hobbit</i>"
   },
   {
     "Id": "C_SECURETHECAMP_TITLE",
@@ -12935,7 +12887,7 @@
   },
   {
     "Id": "C_WILLOFSTEEL_FLAVOR",
-    "Text": ""
+    "Text": "Dáin had come. He had hurried on through the night, and so had come upon them sooner than they had expected.\r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_FORESTSNAKE_TITLE",
@@ -12983,6 +12935,186 @@
   },
   {
     "Id": "C_TESTCARDSPHERE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_SAMPLEPINATA_TITLE",
+    "Text": "Pinata Example"
+  },
+  {
+    "Id": "C_SAMPLEPINATA_TEXT",
+    "Text": "I'm a Pinata give reward every time being hit"
+  },
+  {
+    "Id": "C_SAMPLEPINATA_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_GOBLINPURSUER_TITLE",
+    "Text": "Goblin Pursuer"
+  },
+  {
+    "Id": "C_GOBLINPURSUER_TEXT",
+    "Text": "<b>Pursuit</b>. <b>Ranged</b>"
+  },
+  {
+    "Id": "C_GOBLINPURSUER_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_GOBLINWARLORD_TITLE",
+    "Text": "Goblin Warlord"
+  },
+  {
+    "Id": "C_GOBLINWARLORD_TEXT",
+    "Text": "<b>Revenge</b>: Defeat an Ally"
+  },
+  {
+    "Id": "C_GOBLINWARLORD_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_RANGINGGOBLIN_TITLE",
+    "Text": "Ranging Goblin"
+  },
+  {
+    "Id": "C_RANGINGGOBLIN_TEXT",
+    "Text": "<b>Arrival</b>: Deal 1 damage to a random Hero"
+  },
+  {
+    "Id": "C_RANGINGGOBLIN_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_STRAGGLINGGOBLIN_TITLE",
+    "Text": "Straggling Goblin"
+  },
+  {
+    "Id": "C_STRAGGLINGGOBLIN_TEXT",
+    "Text": "<b>Surge</b>"
+  },
+  {
+    "Id": "C_STRAGGLINGGOBLIN_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_GOBLINSCAVENGER_TITLE",
+    "Text": "Goblin Scavenger"
+  },
+  {
+    "Id": "C_GOBLINSCAVENGER_TEXT",
+    "Text": "<b>Arrival</b>: Draw 1 Card. \nIncrease <size=120%><sprite=4></size> by that card's cost. (Maximum 3 <size=120%><sprite=4></size>)"
+  },
+  {
+    "Id": "C_GOBLINSCAVENGER_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_PRISONGUARD_TITLE",
+    "Text": "Prison Guard"
+  },
+  {
+    "Id": "C_PRISONGUARD_TEXT",
+    "Text": "<b>Block</b>. <b>Guard</b>"
+  },
+  {
+    "Id": "C_PRISONGUARD_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_GOBLINTASKMASTER_TITLE",
+    "Text": "Goblin Taskmaster"
+  },
+  {
+    "Id": "C_GOBLINTASKMASTER_TEXT",
+    "Text": "<b>Arrival</b>: All <b><i>Orcs</b></i> gain +1 <size=120%><sprite=2></size>"
+  },
+  {
+    "Id": "C_GOBLINTASKMASTER_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_TOWERPATROL_TITLE",
+    "Text": "Tower Patrol"
+  },
+  {
+    "Id": "C_TOWERPATROL_TEXT",
+    "Text": "<b>Revenge</b>: +1 <size=120%><sprite=4></size>. \nThen 1 <i>Ranging Goblin</i> and 1 <i>East Bight Patrol</i> enter play"
+  },
+  {
+    "Id": "C_TOWERPATROL_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_GOLLUM_TITLE",
+    "Text": "‰Gollum"
+  },
+  {
+    "Id": "C_GOLLUM_TEXT",
+    "Text": "[Can only attach <i>Precious</i>]\n<b>Block</b>. <b>Power</b>: Gain Gollum's Help. \nIf Gollum does not help this turn, +1 <size=120%><sprite=4></size>"
+  },
+  {
+    "Id": "C_GOLLUM_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_FLANKED_TITLE",
+    "Text": "Flanked"
+  },
+  {
+    "Id": "C_FLANKED_TEXT",
+    "Text": "<b>Upkeep</b>: Deal 2 damage to a random Hero if Sauron has more cards in play than the player"
+  },
+  {
+    "Id": "C_FLANKED_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_HARRIEDBYFIRE_TITLE",
+    "Text": "Harried by Fire"
+  },
+  {
+    "Id": "C_HARRIEDBYFIRE_TEXT",
+    "Text": "Deal 1 damage to a random character when you play a card"
+  },
+  {
+    "Id": "C_HARRIEDBYFIRE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_UNEVENGROUND_TITLE",
+    "Text": "Uneven Ground"
+  },
+  {
+    "Id": "C_UNEVENGROUND_TEXT",
+    "Text": "<b>Upkeep</b>: Exhaust a random Ally"
+  },
+  {
+    "Id": "C_UNEVENGROUND_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_FOULWEATHER_TITLE",
+    "Text": "Foul Weather"
+  },
+  {
+    "Id": "C_FOULWEATHER_TEXT",
+    "Text": "Draw only 1 card during <b>Upkeep</b>"
+  },
+  {
+    "Id": "C_FOULWEATHER_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_MASSINGFORANATTACK_TITLE",
+    "Text": "Massing for an Attack"
+  },
+  {
+    "Id": "C_MASSINGFORANATTACK_TEXT",
+    "Text": "<b>End of Round</b>: Gain +1 <size=120%><sprite=4></size> for each unexhausted Enemy"
+  },
+  {
+    "Id": "C_MASSINGFORANATTACK_FLAVOR",
     "Text": ""
   }
 ]

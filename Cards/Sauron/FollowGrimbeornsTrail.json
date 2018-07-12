@@ -3,7 +3,7 @@
     "Id": "FollowGrimbeornsTrail",
     "Owner": "Sauron",
     "CardType": 6,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 0,
     "QuestPoints": 8,
     "Attack": 0,
@@ -31,11 +31,11 @@
     "CameoScale": 1.05,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "313b129a117b47def125d1ab64dc27fb",
     "BannerMD5": null,
-    "IconMD5": "9d47f03ee09db013be2a116c96bb77d8",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "9d47f03ee09db013be2a116c96bb77d8"
   },
   "Localization": {
     "Title": "Follow Grimbeorn’s Trail",

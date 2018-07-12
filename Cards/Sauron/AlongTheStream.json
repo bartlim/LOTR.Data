@@ -20,9 +20,9 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "The dale ran like a stony trough between the ridged hills, and a trickling stream flowed among the boulders at the bottom. \r\n—<i>The Two Towers</i>",
     "ArtistName": "",
-    "Status": "WIP",
+    "Status": "Ready",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.05,
     "CardScale": 1.0,
@@ -31,11 +31,11 @@
     "CameoScale": 1.05,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "584f4ebccf5eae6a0f74b76042a4bc40",
     "BannerMD5": "50ea007ab684fc1e71ddd13f15eb9da1",
-    "IconMD5": "b430bbe5a984fd0a21e73133127edd2b",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "b430bbe5a984fd0a21e73133127edd2b"
   },
   "Localization": {
     "Title": "Along the Stream",

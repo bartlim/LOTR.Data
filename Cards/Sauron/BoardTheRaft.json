@@ -3,7 +3,7 @@
     "Id": "BoardTheRaft",
     "Owner": "Sauron",
     "CardType": 6,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 0,
     "QuestPoints": 6,
     "Attack": 0,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
-    "IconMD5": "fd6ab58639534e0aad66ffbdbdc57ad1",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "fd6ab58639534e0aad66ffbdbdc57ad1"
   },
   "Localization": {
     "Title": "Board the Raft",

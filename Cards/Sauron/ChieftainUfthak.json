@@ -3,7 +3,7 @@
     "Id": "ChieftainUfthak",
     "Owner": "Sauron",
     "CardType": 3,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 4,
     "QuestPoints": 0,
     "Attack": 4,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "56c726d226852e4962fb9382dba47d07",
     "BannerMD5": null,
-    "IconMD5": "07249a8b6c6c1366a11564cbe1cfac6b",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "07249a8b6c6c1366a11564cbe1cfac6b"
   },
   "Localization": {
     "Title": "‰Chieftain Ufthak",

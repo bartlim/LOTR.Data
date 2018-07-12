@@ -3,7 +3,7 @@
     "Id": "OrcBeastmaster",
     "Owner": "Sauron",
     "CardType": 3,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 3,
     "QuestPoints": 0,
     "Attack": 3,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "ee7d4c6a93ecdfcbaa4858390980c732",
     "BannerMD5": null,
-    "IconMD5": "e487f59a735027927bddb6c47eef6fd9",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "e487f59a735027927bddb6c47eef6fd9"
   },
   "Localization": {
     "Title": "Orc Beastmaster",

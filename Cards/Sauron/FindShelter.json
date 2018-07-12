@@ -3,7 +3,7 @@
     "Id": "FindShelter",
     "Owner": "Sauron",
     "CardType": 6,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 0,
     "QuestPoints": 8,
     "Attack": 0,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "109bab8ba0f0390a447733153a9cdf88",
     "BannerMD5": null,
-    "IconMD5": "a7aa1a32ad36b4921ea2778a28b5e016",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "a7aa1a32ad36b4921ea2778a28b5e016"
   },
   "Localization": {
     "Title": "Find Shelter",

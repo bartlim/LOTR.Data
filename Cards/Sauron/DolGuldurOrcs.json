@@ -3,7 +3,7 @@
     "Id": "DolGuldurOrcs",
     "Owner": "Sauron",
     "CardType": 3,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 3,
     "QuestPoints": 0,
     "Attack": 3,
@@ -31,11 +31,11 @@
     "CameoScale": 0.8,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "d3cd427c8edd47cd23790539685a942d",
     "BannerMD5": null,
-    "IconMD5": "61bfea981bf0367f36f394cc872428e7",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "61bfea981bf0367f36f394cc872428e7"
   },
   "Localization": {
     "Title": "Dol Guldur Orcs",

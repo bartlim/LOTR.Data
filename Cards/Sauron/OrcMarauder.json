@@ -3,7 +3,7 @@
     "Id": "OrcMarauder",
     "Owner": "Sauron",
     "CardType": 3,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 3,
     "QuestPoints": 0,
     "Attack": 3,
@@ -31,11 +31,11 @@
     "CameoScale": 0.85,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "450a63c9dbc0ad9b9ac29af44020f399",
     "BannerMD5": null,
-    "IconMD5": "05192254b740172ff20825850fda9e33",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "05192254b740172ff20825850fda9e33"
   },
   "Localization": {
     "Title": "Orc Marauder",

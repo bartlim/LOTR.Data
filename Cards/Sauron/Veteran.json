@@ -3,7 +3,7 @@
     "Id": "Veteran",
     "Owner": "Sauron",
     "CardType": 8,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 1,
     "QuestPoints": 0,
     "Attack": 0,
@@ -31,10 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
-    "IconMD5": "76d0fe4339fe4ad0950c82ec6149f4d3",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "76d0fe4339fe4ad0950c82ec6149f4d3"
   },
   "Localization": {
     "Title": "Veteran",

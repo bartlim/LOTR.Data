@@ -3,7 +3,7 @@
     "Id": "RiverChannel",
     "Owner": "Sauron",
     "CardType": 6,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 0,
     "QuestPoints": 8,
     "Attack": 0,
@@ -22,7 +22,7 @@
     "DeathSFX": "",
     "FlavorText": "\"…on the other side is a cliff standing up from a swirling channel.\"\n—Gandalf <i>The Hobbit</i>",
     "ArtistName": "Michael Rasmussen",
-    "Status": "WIP",
+    "Status": "Ready",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
     "CardScale": 1.0,
@@ -31,11 +31,11 @@
     "CameoScale": 1.06,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "90f770b136fb39f21dfe3e891047bb36",
     "BannerMD5": "749e485d6557fc9807cae0b826935237",
-    "IconMD5": "bc617671c9f21512fe4e2fcdd5ee47bf",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "bc617671c9f21512fe4e2fcdd5ee47bf"
   },
   "Localization": {
     "Title": "River Channel",

@@ -3,7 +3,7 @@
     "Id": "Sting",
     "Owner": "Player",
     "CardType": 1,
-    "ShopType": "HeroPack_TheRetiredBurglar",
+    "ShopType": "Special",
     "Cost": 2,
     "QuestPoints": 0,
     "Attack": 0,
@@ -20,9 +20,9 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "“I will do the stinging!” And he did. He darted backwards and forwards, slashing at spider-threads, hacking at their legs, and stabbing at their fat bodies if they came too near.\r\n—Bilbo, <i>The Hobbit</i>",
     "ArtistName": "",
-    "Status": "WIP",
+    "Status": "Ready",
     "CardOffsetX": 1.04,
     "CardOffsetY": 0.92,
     "CardScale": 0.85,
@@ -31,13 +31,14 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
     "ComboList": [],
     "ArtworkMD5": "611d36023456dcf54cfbbd5936ec2b2c",
     "BannerMD5": "bbb01fb4d45aedf2fa33cf4aec3ea032",
     "IconMD5": "d28750b4ad9781944a00f9b37d889c96"
   },
   "Localization": {
-    "Title": "Sting",
-    "Text": "Gain +1 <size=120%><sprite=0></size>. \nGain an extra <size=120%><sprite=0></size> when attacking <b><i>Orc</i></b> or <b><i>Spider</i></b> enemies"
+    "Title": "‰Sting ",
+    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=0></size>; or gain +2 <size=120%><sprite=0></size> \nversus <b><i>Orc</i></b> or <b><i>Spider</i></b> targets"
   }
 }

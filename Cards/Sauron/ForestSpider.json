@@ -3,7 +3,7 @@
     "Id": "ForestSpider",
     "Owner": "Sauron",
     "CardType": 3,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 1,
     "QuestPoints": 0,
     "Attack": 2,
@@ -31,10 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
-    "IconMD5": "f497775b0d77f9e1215dbe75e5c0d13c",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "f497775b0d77f9e1215dbe75e5c0d13c"
   },
   "Localization": {
     "Title": "Forest Spider",

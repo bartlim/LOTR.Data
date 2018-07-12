@@ -3,7 +3,7 @@
     "Id": "Morris",
     "Owner": "Sauron",
     "CardType": 2,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 0,
     "QuestPoints": 0,
     "Attack": 4,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "b0d99329645f29b4e169d81d24e397d7",
     "BannerMD5": null,
-    "IconMD5": "54f713e3a7fc6f9ab946f9a309209df8",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "54f713e3a7fc6f9ab946f9a309209df8"
   },
   "Localization": {
     "Title": "‰Morris",

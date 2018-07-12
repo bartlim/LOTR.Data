@@ -3,7 +3,7 @@
     "Id": "FindSafePassage",
     "Owner": "Sauron",
     "CardType": 6,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 0,
     "QuestPoints": 8,
     "Attack": 0,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "bb48eb250b96f75c6a5fc65fcd4bbb6d",
     "BannerMD5": null,
-    "IconMD5": "be895d8b4d82223159976f64831a49e3",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "be895d8b4d82223159976f64831a49e3"
   },
   "Localization": {
     "Title": "Find Safe Passage",

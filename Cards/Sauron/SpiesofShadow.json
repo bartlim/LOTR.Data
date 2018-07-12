@@ -3,7 +3,7 @@
     "Id": "SpiesofShadow",
     "Owner": "Sauron",
     "CardType": 3,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 1,
     "QuestPoints": 0,
     "Attack": 2,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "5aafc3286d782e57ea1f3dc0383fe76a",
     "BannerMD5": "0e63a540e54737d48336c7c34ab47452",
-    "IconMD5": "b4865c119140211548ae925561f45ad5",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "b4865c119140211548ae925561f45ad5"
   },
   "Localization": {
     "Title": "Spies of Shadow",

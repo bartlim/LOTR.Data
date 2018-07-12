@@ -3,7 +3,7 @@
     "Id": "AmbushOnTheShore",
     "Owner": "Sauron",
     "CardType": 6,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 0,
     "QuestPoints": 7,
     "Attack": 0,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "a921f4c9efd262751654a3a4ac3f25bd",
     "BannerMD5": null,
-    "IconMD5": "c84ef3806508e091f4a1f9205cfbfa46",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "c84ef3806508e091f4a1f9205cfbfa46"
   },
   "Localization": {
     "Title": "Ambush on the Shore",

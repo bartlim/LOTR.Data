@@ -3,7 +3,7 @@
     "Id": "GreedyFingers",
     "Owner": "Sauron",
     "CardType": 9,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 2,
     "QuestPoints": 0,
     "Attack": 0,
@@ -31,10 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
-    "IconMD5": "22d08d6eeb4b22d0570253adbc9043a0",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "22d08d6eeb4b22d0570253adbc9043a0"
   },
   "Localization": {
     "Title": "Greedy Fingers",

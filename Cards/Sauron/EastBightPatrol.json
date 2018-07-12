@@ -3,7 +3,7 @@
     "Id": "EastBightPatrol",
     "Owner": "Sauron",
     "CardType": 3,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 1,
     "QuestPoints": 0,
     "Attack": 2,
@@ -31,10 +31,11 @@
     "CameoScale": 0.8,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
+    "ComboList": [],
     "ArtworkMD5": "b5036b1bff9c6d2f07a1d5e71eb46853",
     "BannerMD5": null,
-    "IconMD5": "401e37a47f757f25730e841cbcce67cb",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "401e37a47f757f25730e841cbcce67cb"
   },
   "Localization": {
     "Title": "East Bight Patrol",

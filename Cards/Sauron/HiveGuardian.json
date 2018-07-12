@@ -3,7 +3,7 @@
     "Id": "HiveGuardian",
     "Owner": "Sauron",
     "CardType": 3,
-    "ShopType": "Starter",
+    "ShopType": "",
     "Cost": 3,
     "QuestPoints": 0,
     "Attack": 2,
@@ -31,11 +31,11 @@
     "CameoScale": 0.85,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "f28a7648373fd42cc4b76a6872e7da65",
     "BannerMD5": null,
-    "IconMD5": "b18918fcb2f3cf292c346a689270e1fd",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "b18918fcb2f3cf292c346a689270e1fd"
   },
   "Localization": {
     "Title": "Hive Guardian",
