@@ -3,7 +3,7 @@
     "Id": "ATestWH01",
     "Owner": "Player",
     "CardType": 0,
-    "ShopType": "",
+    "ShopType": "Special",
     "Cost": 0,
     "QuestPoints": 0,
     "Attack": 0,
@@ -22,7 +22,7 @@
     "DeathSFX": "",
     "FlavorText": "",
     "ArtistName": "",
-    "Status": "",
+    "Status": "None",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
     "CardScale": 1.0,
@@ -38,7 +38,7 @@
     "IconMD5": null
   },
   "Localization": {
-    "Title": "",
+    "Title": "TestWH01",
     "Text": ""
   }
 }
