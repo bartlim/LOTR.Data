@@ -13,7 +13,7 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "DolGuldurOrcs",
+          "Id": "DrivenByShadow",
           "Quantity": 2,
           "PlayOnce": false,
           "MinThreatLevel": 0,
@@ -37,7 +37,23 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "DrivenByShadow",
+          "Id": "ThickWebs",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "Tribulation",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "DolGuldurOrcs",
           "Quantity": 2,
           "PlayOnce": false,
           "MinThreatLevel": 0,
@@ -54,22 +70,6 @@
         },
         {
           "Id": "MirkwoodPatrol",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "ThickWebs",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Tribulation",
           "Quantity": 2,
           "PlayOnce": false,
           "MinThreatLevel": 0,
@@ -100,9 +100,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180713082644062",
+  "Version": "20180713092919377",
   "Key": "MainQuest",
   "SubKey": "TheShadowsReachQuest05",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheShadowsReachQuest05_20180713082644062"
+  "InternalKey": "MainQuest_TheShadowsReachQuest05_20180713092919377"
 }
