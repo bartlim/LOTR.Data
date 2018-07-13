@@ -303,7 +303,88 @@
           "ThreatCardList": null
         }
       ],
-      "SauronDeck": [],
+      "SauronDeck": [
+        {
+          "Id": "AgentofSauron",
+          "Amount": 1,
+          "PlayOnce": false
+        },
+        {
+          "Id": "AlongTheStream",
+          "Amount": 1,
+          "PlayOnce": false
+        },
+        {
+          "Id": "AmbushOnTheShore",
+          "Amount": 1,
+          "PlayOnce": false
+        },
+        {
+          "Id": "ClimbTheHill",
+          "Amount": 1,
+          "PlayOnce": false
+        },
+        {
+          "Id": "ContinueDownstream",
+          "Amount": 1,
+          "PlayOnce": false
+        },
+        {
+          "Id": "DarkSorcery",
+          "Amount": 1,
+          "PlayOnce": false
+        },
+        {
+          "Id": "Despair",
+          "Amount": 1,
+          "PlayOnce": false
+        },
+        {
+          "Id": "DolGuldurArcher",
+          "Amount": 1,
+          "PlayOnce": false
+        },
+        {
+          "Id": "DrivenByShadow",
+          "Amount": 1,
+          "PlayOnce": false
+        },
+        {
+          "Id": "EastBightPatrol",
+          "Amount": 1,
+          "PlayOnce": false
+        },
+        {
+          "Id": "EvilStorm",
+          "Amount": 1,
+          "PlayOnce": false
+        },
+        {
+          "Id": "AccursedForest",
+          "Amount": 1,
+          "PlayOnce": false
+        },
+        {
+          "Id": "DolGuldurOrcs",
+          "Amount": 1,
+          "PlayOnce": false
+        },
+        {
+          "Id": "Exhaustion",
+          "Amount": 1,
+          "PlayOnce": false
+        },
+        {
+          "Id": "ChieftainUfthak",
+          "Amount": 1,
+          "PlayOnce": false
+        },
+        {
+          "Id": "EliteDolGuldurOrcs",
+          "Amount": 2,
+          "PlayOnce": false
+        }
+      ],
       "FateCardList": [
         {
           "Id": "RangersCache",
@@ -332,7 +413,7 @@
           "Threshold": 3
         }
       ],
-      "AIBehavior": "AggresiveAI"
+      "AIBehavior": "PassiveAI"
     },
     {
       "Id": "OnTheTrail",
@@ -588,7 +669,7 @@
           "PlayOnce": false
         },
         {
-          "Id": "DolGuldurOrcs",
+          "Id": "DrivenByShadow",
           "Amount": 2,
           "PlayOnce": false
         },
@@ -603,7 +684,17 @@
           "PlayOnce": false
         },
         {
-          "Id": "DrivenByShadow",
+          "Id": "ThickWebs",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "Tribulation",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "DolGuldurOrcs",
           "Amount": 2,
           "PlayOnce": false
         },
@@ -614,16 +705,6 @@
         },
         {
           "Id": "MirkwoodPatrol",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "ThickWebs",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "Tribulation",
           "Amount": 2,
           "PlayOnce": false
         }
