@@ -3394,7 +3394,7 @@
             {
               "Id": "TheSpidersLair",
               "SceneName": "Q01_L01_ForestGate",
-              "IntroMusic": null,
+              "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": "FliesAndSpidersTheSpidersLairIntroSprite",
               "SoloGameSetup": [
@@ -3441,180 +3441,35 @@
               "ThreatCardList": null
             }
           ],
-          "SauronDeck": [
+          "SauronDeck": [],
+          "FateCardList": [
             {
-              "Id": "BlackForestBats",
-              "Amount": 2,
-              "PlayOnce": false
+              "Id": "RangersCache",
+              "Threshold": 4
             },
             {
-              "Id": "HatchlingSpider",
-              "Amount": 1,
-              "PlayOnce": false
+              "Id": "ShaftofSunlight",
+              "Threshold": 7
             },
             {
-              "Id": "WatchersInTheDark",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "CreatureOfDarkness",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "Despair",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "EyesOfTheForest",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "ForestSpider",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "GatheringGloom",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "GrowingDarkness",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "MirkwoodFlock",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "PursuedByShadow",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "SpiesofShadow",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "Veteran",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "ViciousSpeed",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "CaughtInAWeb",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "Enfeebled",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "EvilStorm",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "GreedyFingers",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "Hummerhorns",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "Hunted",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "LowOnSupplies",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "PoisonedBySpiders",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "ThickWebs",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "UnderTheWatchfulEye",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "WatchfulEyes",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "AccursedForest",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "Exhaustion",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "GiantSpider",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "HiveGuardian",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "KingSpider",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "SpidersOfMirkwood",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "TurnedAround",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "UngoliantsBrood",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "VileSpawn",
-              "Amount": 1,
-              "PlayOnce": false
+              "Id": "SupportfromDale",
+              "Threshold": 10
             }
           ],
-          "FateCardList": [],
-          "ThreatCardList": [],
+          "ThreatCardList": [
+            {
+              "Id": "SpidersDescend",
+              "Threshold": 1
+            },
+            {
+              "Id": "Poisoned",
+              "Threshold": 2
+            },
+            {
+              "Id": "WaveOfFear",
+              "Threshold": 3
+            }
+          ],
           "AIBehavior": "AggresiveAI"
         },
         {
