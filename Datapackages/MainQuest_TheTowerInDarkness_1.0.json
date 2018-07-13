@@ -7,6 +7,7 @@
         {
           "Id": "BlackForestBats",
           "Quantity": 2,
+          "PlayOnce": false,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -14,6 +15,7 @@
         {
           "Id": "DolGuldurOrcs",
           "Quantity": 2,
+          "PlayOnce": false,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -21,6 +23,7 @@
         {
           "Id": "EastBightPatrol",
           "Quantity": 2,
+          "PlayOnce": false,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -28,6 +31,7 @@
         {
           "Id": "Enfeebled",
           "Quantity": 2,
+          "PlayOnce": false,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -35,6 +39,7 @@
         {
           "Id": "DrivenByShadow",
           "Quantity": 2,
+          "PlayOnce": false,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -42,6 +47,7 @@
         {
           "Id": "GoblinSniper",
           "Quantity": 2,
+          "PlayOnce": false,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -49,6 +55,7 @@
         {
           "Id": "MirkwoodPatrol",
           "Quantity": 2,
+          "PlayOnce": false,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -56,6 +63,7 @@
         {
           "Id": "ThickWebs",
           "Quantity": 2,
+          "PlayOnce": false,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -63,6 +71,7 @@
         {
           "Id": "Tribulation",
           "Quantity": 2,
+          "PlayOnce": false,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
           "MaxDifficulty": 4
@@ -92,9 +101,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180702110828834",
+  "Version": "20180713074546659",
   "Key": "MainQuest",
   "SubKey": "TheTowerInDarkness",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheTowerInDarkness_20180702110828834"
+  "InternalKey": "MainQuest_TheTowerInDarkness_20180713074546659"
 }
