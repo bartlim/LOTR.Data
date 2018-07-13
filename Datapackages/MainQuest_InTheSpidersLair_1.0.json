@@ -3,7 +3,136 @@
     "Title": "InTheSpidersLair",
     "SauronDeckInfo": {
       "Id": null,
-      "DeckList": []
+      "DeckList": [
+        {
+          "Id": "AgentofSauron",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "AlongTheStream",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "AmbushOnTheShore",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "ClimbTheHill",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "ContinueDownstream",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "DarkSorcery",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "Despair",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "DolGuldurArcher",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "DrivenByShadow",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "EastBightPatrol",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "EvilStorm",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "AccursedForest",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "DolGuldurOrcs",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "Exhaustion",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "ChieftainUfthak",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "EliteDolGuldurOrcs",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        }
+      ]
     },
     "Stages": [
       {
@@ -98,11 +227,11 @@
         "Threshold": 3
       }
     ],
-    "AIBehavior": "AggresiveAI"
+    "AIBehavior": "PassiveAI"
   },
-  "Version": "20180713082630038",
+  "Version": "20180713092905378",
   "Key": "MainQuest",
   "SubKey": "InTheSpidersLair",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_InTheSpidersLair_20180713082630038"
+  "InternalKey": "MainQuest_InTheSpidersLair_20180713092905378"
 }
