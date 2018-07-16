@@ -11727,11 +11727,11 @@
   },
   {
     "Id": "C_LIGHTTHETORCHES_TEXT",
-    "Text": "<line-height=50%><i>A foe stands revealed in your torchlight!</i>\n</line-height>\n<b>Upkeep</b>: Deal 1 damage to an Enemy (limit 3 uses)"
+    "Text": "<b>Upkeep</b>: Deal 1 damage to an Enemy (limit 3 uses)"
   },
   {
     "Id": "C_LIGHTTHETORCHES_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>A</size> foe stands revealed in your torchlight!</i>"
   },
   {
     "Id": "C_FEAROFTHEFLAMES_TITLE",
