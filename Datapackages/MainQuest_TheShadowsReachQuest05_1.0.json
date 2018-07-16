@@ -82,8 +82,9 @@
       {
         "Title": "C001Q05L1",
         "SoloGameSetup": [
-          "FindThePath",
-          "VeteranPatrol"
+          "BoardTheRaft",
+          "EastBightPatrol",
+          "HillTroll"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -94,12 +95,18 @@
         "ThreatCardList": null
       },
       {
-        "Title": "",
-        "SoloGameSetup": [],
+        "Title": "C001Q05L2",
+        "SoloGameSetup": [
+          "LeftRiverFork",
+          "Rapids",
+          "RightRiverFork",
+          "GoblinPursuer"
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "C001Q05L3a",
+          "C001Q05L3b"
         ],
         "FateCardList": null,
         "ThreatCardList": null
@@ -111,9 +118,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180716194754583",
+  "Version": "20180716195213171",
   "Key": "MainQuest",
   "SubKey": "TheShadowsReachQuest05",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheShadowsReachQuest05_20180716194754583"
+  "InternalKey": "MainQuest_TheShadowsReachQuest05_20180716195213171"
 }
