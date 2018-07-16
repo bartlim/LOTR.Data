@@ -240,7 +240,7 @@
         {
           "Id": "AloneInTheForest",
           "SceneName": "Q01_L01_ForestGate",
-          "IntroMusic": null,
+          "IntroMusic": "mus_cave",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -248,13 +248,13 @@
             "ForestSpider",
             "ForestSpider"
           ],
-          "NextStageId": "TheSpidersLair",
+          "NextStageId": "TheSpidersLair2",
           "BGM": "mus_cave",
           "FateCardList": [],
           "ThreatCardList": null
         },
         {
-          "Id": "TheSpidersLair",
+          "Id": "TheSpidersLair2",
           "SceneName": "Q01_L01_ForestGate",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
