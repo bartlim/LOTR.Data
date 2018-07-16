@@ -1615,8 +1615,8 @@
               ],
               "NextStageId": "",
               "BGM": "mus_mirkwood",
-              "FateCardList": null,
-              "ThreatCardList": null
+              "FateCardList": [],
+              "ThreatCardList": []
             },
             {
               "Id": "DemoLocation2b",
@@ -1871,15 +1871,15 @@
           "FateCardList": [
             {
               "Id": "RangersCache",
-              "Threshold": 4
+              "Threshold": 3
             },
             {
               "Id": "ShaftofSunlight",
-              "Threshold": 7
+              "Threshold": 6
             },
             {
               "Id": "SupportfromDale",
-              "Threshold": 10
+              "Threshold": 9
             }
           ],
           "ThreatCardList": [
