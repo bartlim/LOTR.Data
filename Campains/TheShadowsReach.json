@@ -239,7 +239,7 @@
       "Stages": [
         {
           "Id": "AloneInTheForest",
-          "SceneName": "Q01_L01_ForestGate",
+          "SceneName": "Q02_L01_DarkForest",
           "IntroMusic": "mus_cave",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
@@ -255,7 +255,7 @@
         },
         {
           "Id": "TheSpidersLair2",
-          "SceneName": "Q01_L01_ForestGate",
+          "SceneName": "Q02_L02_TheSpidersLair",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": "FliesAndSpidersTheSpidersLairIntroSprite",
@@ -271,8 +271,8 @@
         },
         {
           "Id": "TheSpidersHive",
-          "SceneName": "Q01_L01_ForestGate",
-          "IntroMusic": null,
+          "SceneName": "Q02_L03_TangledInWebs",
+          "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": "FliesAndSpidersTheSpidersWebsIntroSprite",
           "SoloGameSetup": [
@@ -287,8 +287,8 @@
         },
         {
           "Id": "ForestLair",
-          "SceneName": "Q01_L01_ForestGate",
-          "IntroMusic": null,
+          "SceneName": "Q02_L04_ForestGlade",
+          "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": "FliesAndSpidersForestLairIntroSprite",
           "SoloGameSetup": [
