@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "<i><line-height=100%><size=200%>H</size><i>earing the sounds of battle, a guard rushes to your side!</i>",
     "ArtistName": "Sandara Tang",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +39,6 @@
   },
   "Localization": {
     "Title": "Unexpected Aid",
-    "Text": "<line-height=50%><i>Hearing the sounds of battle, a Gondorian guard rushes to your aid!</i>\n</line-height>\nPlay 1 Guard of the Citadel"
+    "Text": "Play 1 Guard of the Citadel"
   }
 }
