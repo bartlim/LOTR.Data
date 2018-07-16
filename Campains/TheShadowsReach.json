@@ -780,7 +780,20 @@
           "PlayOnce": false
         }
       ],
-      "FateCardList": [],
+      "FateCardList": [
+        {
+          "Id": "RangersCache",
+          "Threshold": 3
+        },
+        {
+          "Id": "ShaftofSunlight",
+          "Threshold": 6
+        },
+        {
+          "Id": "SupportfromDale",
+          "Threshold": 9
+        }
+      ],
       "ThreatCardList": [],
       "AIBehavior": "AggresiveAI"
     }
