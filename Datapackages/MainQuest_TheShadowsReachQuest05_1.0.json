@@ -110,6 +110,22 @@
         ],
         "FateCardList": null,
         "ThreatCardList": null
+      },
+      {
+        "Title": "C001Q05L3a",
+        "SoloGameSetup": [
+          "RiverChannel",
+          "Rapids",
+          "Rocks",
+          "SwirlingEddy"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C001Q05L4"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
       }
     ],
     "Sequences": [],
@@ -118,9 +134,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180716195213171",
+  "Version": "20180716200430955",
   "Key": "MainQuest",
   "SubKey": "TheShadowsReachQuest05",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheShadowsReachQuest05_20180716195213171"
+  "InternalKey": "MainQuest_TheShadowsReachQuest05_20180716200430955"
 }
