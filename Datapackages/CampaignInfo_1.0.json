@@ -3857,8 +3857,9 @@
               "IntroVoice": "OpeningMirkwood_01",
               "IntroSprite": "Sprites/Locations/Quest1_Stage01",
               "SoloGameSetup": [
-                "FindThePath",
-                "VeteranPatrol"
+                "BoardTheRaft",
+                "EastBightPatrol",
+                "HillTroll"
               ],
               "NextStageId": "C001Q05L2",
               "BGM": "mus_cave",
@@ -3866,14 +3867,36 @@
               "ThreatCardList": null
             },
             {
-              "Id": "",
-              "SceneName": null,
-              "IntroMusic": null,
+              "Id": "C001Q05L2",
+              "SceneName": "Q04_L02_AnduinPassage",
+              "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
-              "NextStageId": null,
-              "BGM": null,
+              "SoloGameSetup": [
+                "LeftRiverFork",
+                "Rapids",
+                "RightRiverFork",
+                "GoblinPursuer"
+              ],
+              "NextStageId": "C001Q05L3a,C001Q05L3b",
+              "BGM": "mus_cave",
+              "FateCardList": null,
+              "ThreatCardList": null
+            },
+            {
+              "Id": "C001Q05L3a",
+              "SceneName": "Q04_L03_AmbushOnTheShore",
+              "IntroMusic": "mus_cave",
+              "IntroVoice": "",
+              "IntroSprite": null,
+              "SoloGameSetup": [
+                "RiverChannel",
+                "Rapids",
+                "Rocks",
+                "SwirlingEddy"
+              ],
+              "NextStageId": "C001Q05L4",
+              "BGM": "mus_cave",
               "FateCardList": null,
               "ThreatCardList": null
             }
