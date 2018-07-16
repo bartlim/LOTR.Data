@@ -4,7 +4,7 @@
     "Owner": "Sauron",
     "CardType": 11,
     "ShopType": "",
-    "Cost": 2,
+    "Cost": 3,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "As a spider lashes out to strike one of your companions, torchlight glimmers upon a foul substance that coats its hideous mandibles—poison!",
     "ArtistName": "",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +39,6 @@
   },
   "Localization": {
     "Title": "Poisoned!",
-    "Text": "<line-height=50%><i>One of your Heroes is poisoned!</i>\n</line-height>\nA single random Hero suffers 1 damage during <b>Upkeep</b> on this Quest"
+    "Text": "A single random Hero suffers 1 damage during <b>Upkeep</b> \nwhile on this Quest"
   }
 }
