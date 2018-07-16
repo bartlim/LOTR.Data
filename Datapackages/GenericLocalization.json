@@ -13416,5 +13416,17 @@
   {
     "Id": "Q_STAGE_C001Q04L5_OBJECTIVE",
     "Text": "Free Bilbo and Escape!"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L1_NAME",
+    "Text": "River's Edge"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L1_TEXT",
+    "Text": "<i><size=58>Y</size>ou stand at the shore of the Great River. To the south lies your destination: the Golden Wood of Lorien\r\nThough the trials of Mirkwood Forest lay behind you, the threat of pursuing Orcs remains. You make haste along the riverbank, looking for some means of shaking the Orcs off your trail. At last, you spot a raft which should speed your journey. \r\nAs you approach the craft, a shadow falls before you: a fearsome Hill Troll looms up from behind a cluster of rocks! He lunges toward you, his eyes gleaming with murderous intent…</i>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L1_OBJECTIVE",
+    "Text": "Resolve <i>Board the Raft</i> to allow travel from this Location. <color=red>Bilbo must survive</color>"
   }
 ]
