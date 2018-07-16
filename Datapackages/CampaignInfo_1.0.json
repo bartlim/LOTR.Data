@@ -323,7 +323,7 @@
             {
               "Id": "DarkForest",
               "SceneName": "Q02_L01_DarkForest",
-              "IntroMusic": null,
+              "IntroMusic": "mus_cave",
               "IntroVoice": "Q2L1_DarkForest",
               "IntroSprite": "Sprites/Locations/Quest2_Stage01",
               "SoloGameSetup": [
@@ -336,7 +336,7 @@
               "FateCardList": [
                 {
                   "Id": "UnexpectedAid",
-                  "Threshold": 5
+                  "Threshold": 2
                 }
               ],
               "ThreatCardList": null
