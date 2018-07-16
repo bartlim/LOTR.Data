@@ -164,13 +164,26 @@
     ],
     "Sequences": [],
     "Stories": [],
-    "FateCardList": [],
+    "FateCardList": [
+      {
+        "Id": "RangersCache",
+        "Threshold": 3
+      },
+      {
+        "Id": "ShaftofSunlight",
+        "Threshold": 6
+      },
+      {
+        "Id": "SupportfromDale",
+        "Threshold": 9
+      }
+    ],
     "ThreatCardList": [],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180716205013167",
+  "Version": "20180716205056537",
   "Key": "MainQuest",
   "SubKey": "TheShadowsReachQuest05",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheShadowsReachQuest05_20180716205013167"
+  "InternalKey": "MainQuest_TheShadowsReachQuest05_20180716205056537"
 }
