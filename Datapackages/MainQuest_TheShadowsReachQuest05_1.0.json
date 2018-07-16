@@ -142,6 +142,24 @@
         ],
         "FateCardList": null,
         "ThreatCardList": null
+      },
+      {
+        "Title": "C001Q05L4",
+        "SoloGameSetup": [
+          "WardensOfLorien",
+          "ChieftainUfthak",
+          "EliteDolGuldurOrc",
+          "EliteDolGuldurOrc",
+          "MirkwoodPatrol",
+          "OrcMarauder"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
       }
     ],
     "Sequences": [],
@@ -150,9 +168,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180716200928558",
+  "Version": "20180716201516554",
   "Key": "MainQuest",
   "SubKey": "TheShadowsReachQuest05",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheShadowsReachQuest05_20180716200928558"
+  "InternalKey": "MainQuest_TheShadowsReachQuest05_20180716201516554"
 }
