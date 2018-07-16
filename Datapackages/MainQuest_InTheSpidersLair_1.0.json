@@ -145,13 +145,13 @@
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          "TheSpidersLair"
+          "TheSpidersLair2"
         ],
         "FateCardList": [],
         "ThreatCardList": null
       },
       {
-        "Title": "TheSpidersLair",
+        "Title": "TheSpidersLair2",
         "SoloGameSetup": [
           "RescueYourFriend",
           "SpiderlingSwarm",
@@ -229,9 +229,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180716174745727",
+  "Version": "20180716100504719",
   "Key": "MainQuest",
   "SubKey": "InTheSpidersLair",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_InTheSpidersLair_20180716174745727"
+  "InternalKey": "MainQuest_InTheSpidersLair_20180716100504719"
 }
