@@ -3563,8 +3563,8 @@
           "Stages": [
             {
               "Id": "IntoTheForest",
-              "SceneName": "Q01_L01_ForestGate",
-              "IntroMusic": null,
+              "SceneName": "Q01_L03a_StandAndFight",
+              "IntroMusic": "mus_cave",
               "IntroVoice": "OpeningMirkwood_01",
               "IntroSprite": "Sprites/Locations/Quest1_Stage01",
               "SoloGameSetup": [
@@ -3581,8 +3581,8 @@
             },
             {
               "Id": "AlongTheTrail",
-              "SceneName": "Q01_L01_ForestGate",
-              "IntroMusic": null,
+              "SceneName": "Q03_L02a_ForestStream",
+              "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": "OnTheTrailAlongTheTrailIntroSprite",
               "SoloGameSetup": [
@@ -3599,8 +3599,8 @@
             },
             {
               "Id": "ASecretWay",
-              "SceneName": "Q01_L01_ForestGate",
-              "IntroMusic": null,
+              "SceneName": "Q03_L01_LostInMirkwood",
+              "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": "OnTheTrailASecretWayIntroSprite",
               "SoloGameSetup": [
@@ -3617,8 +3617,8 @@
             },
             {
               "Id": "Ambushed",
-              "SceneName": "Q01_L01_ForestGate",
-              "IntroMusic": null,
+              "SceneName": "Q03_L03b_OvergrownTrail",
+              "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": "OnTheTrailAmbushedIntroSprite",
               "SoloGameSetup": [
@@ -3635,8 +3635,8 @@
             },
             {
               "Id": "MirkwoodSwamp",
-              "SceneName": "Q01_L01_ForestGate",
-              "IntroMusic": null,
+              "SceneName": "Q03_L03a_MirkwoodSwamp",
+              "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": "OnTheTrailMirkwoodSwampIntroSprite",
               "SoloGameSetup": [
