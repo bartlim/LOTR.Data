@@ -601,6 +601,21 @@
           "BGM": "mus_cave",
           "FateCardList": null,
           "ThreatCardList": null
+        },
+        {
+          "Id": "C001Q04L3",
+          "SceneName": "Q01_L08_DolGuldurDungeons",
+          "IntroMusic": "mus_cave",
+          "IntroVoice": "",
+          "IntroSprite": null,
+          "SoloGameSetup": [
+            "ChieftainUfthak",
+            "DolGuldurOrc"
+          ],
+          "NextStageId": "C001Q04L5",
+          "BGM": "mus_cave",
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
