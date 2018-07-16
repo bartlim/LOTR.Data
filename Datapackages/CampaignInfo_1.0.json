@@ -3177,14 +3177,14 @@
                 "GiantSpider"
               ],
               "NextStageId": "BattleWithTheSpiders",
-              "BGM": "mus_danger",
+              "BGM": "mus_cave",
               "FateCardList": null,
               "ThreatCardList": null
             },
             {
               "Id": "BattleWithTheSpiders",
               "SceneName": "Q02_L03_TheSpidersWebs",
-              "IntroMusic": null,
+              "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": "TheShadowsReachQuest01AnUnexpectedEnemyIntroSprite",
               "SoloGameSetup": [
@@ -3193,15 +3193,15 @@
                 "SpiderGuard",
                 "ForestSpider"
               ],
-              "NextStageId": "TheSpidersWeb",
-              "BGM": "mus_danger",
+              "NextStageId": "TheSpidersWebs2",
+              "BGM": "mus_cave",
               "FateCardList": [],
               "ThreatCardList": null
             },
             {
-              "Id": "TheSpidersWebs",
+              "Id": "TheSpidersWebs2",
               "SceneName": "Q02_L04_TheForestGlade",
-              "IntroMusic": null,
+              "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": "TheShadowsReachQuest01TheSpidersWebsIntroSprite",
               "SoloGameSetup": [
@@ -3210,7 +3210,7 @@
                 "SpiderLt3"
               ],
               "NextStageId": "",
-              "BGM": "mus_desperation",
+              "BGM": "mus_cave",
               "FateCardList": [],
               "ThreatCardList": null
             }
