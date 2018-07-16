@@ -13476,5 +13476,21 @@
   {
     "Id": "Q_STAGE_C001Q05L4_OBJECTIVE",
     "Text": "Defeat all enemies or survive until Wardens of Lorien triggers. <color=red>Bilbo must survive</color>"
+  },
+  {
+    "Id": "Q_QUEST_JOURNEYTOLORIEN_NAME",
+    "Text": "Journey to Lorien"
+  },
+  {
+    "Id": "Q_QUEST_JOURNEYTOLORIEN_DESCRIPTION",
+    "Text": "Even as you leave the dangers of Mirkwood Forest behind, new threats arise as you make your way down the mighty Anduin River."
+  },
+  {
+    "Id": "Q_QUEST_JOURNEYTOLORIEN_VICTORY_TEXT",
+    "Text": "Q_QUEST_THESHADOWSREACHQUEST05_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_JOURNEYTOLORIEN_DEFEAT_TEXT",
+    "Text": "Q_QUEST_THESHADOWSREACHQUEST05_DEFEAT_TEXT"
   }
 ]
