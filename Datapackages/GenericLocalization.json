@@ -11715,11 +11715,11 @@
   },
   {
     "Id": "C_INSPIRINGCOURAGE_TEXT",
-    "Text": "<line-height=50%><i>You unleash a rallying cry!</i>\n</line-height>\n<b>Choose</b>: <size=120%><sprite=0></size>; <size=120%> <sprite=5></size>; or <size=120%> <sprite=2></size>. \nEvery Hero gains +1 to that ability on this Quest"
+    "Text": "<b>Choose</b>: <size=120%><sprite=0></size>; <size=120%> <sprite=5></size>; or <size=120%> <sprite=2></size>. \nEvery Hero gains +1 to that ability on this Quest"
   },
   {
     "Id": "C_INSPIRINGCOURAGE_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>Y</size>ou unleash a rallying cry that stirs the hearts of your companions and strengthens their resolve.</i>"
   },
   {
     "Id": "C_LIGHTTHETORCHES_TITLE",

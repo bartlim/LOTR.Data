@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "<i><line-height=100%><size=200%>Y</size>ou unleash a rallying cry that stirs the hearts of your companions and strengthens their resolve.</i>",
     "ArtistName": "",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +39,6 @@
   },
   "Localization": {
     "Title": "Inspiring Courage",
-    "Text": "<line-height=50%><i>You unleash a rallying cry!</i>\n</line-height>\n<b>Choose</b>: <size=120%><sprite=0></size>; <size=120%> <sprite=5></size>; or <size=120%> <sprite=2></size>. \nEvery Hero gains +1 to that ability on this Quest"
+    "Text": "<b>Choose</b>: <size=120%><sprite=0></size>; <size=120%> <sprite=5></size>; or <size=120%> <sprite=2></size>. \nEvery Hero gains +1 to that ability on this Quest"
   }
 }
