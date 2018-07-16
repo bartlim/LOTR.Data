@@ -4,7 +4,7 @@
     "Owner": "Player",
     "CardType": 10,
     "ShopType": "",
-    "Cost": 7,
+    "Cost": 6,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "<i><line-height=100%><size=200%>A</size> rare patch of sunlight stabs down through clusters of leaves and tangled boughs, its slender beam illuminating the way forward.</i>",
     "ArtistName": "",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +39,6 @@
   },
   "Localization": {
     "Title": "Shaft of Sunlight",
-    "Text": "<line-height=50%><i>A rare patch of sun illuminates the way forward.</i>\n</line-height>\nLose 4 <size=120%><sprite=4></size>"
+    "Text": "Lose 4 <size=120%><sprite=4></size>"
   }
 }
