@@ -13492,5 +13492,21 @@
   {
     "Id": "Q_QUEST_JOURNEYTOLORIEN_DEFEAT_TEXT",
     "Text": "Q_QUEST_THESHADOWSREACHQUEST05_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_PURSUINGTHESPIDERS_NAME",
+    "Text": "Pursuing the Spiders"
+  },
+  {
+    "Id": "Q_QUEST_PURSUINGTHESPIDERS_DESCRIPTION",
+    "Text": "<color=red>Placeholder</color> <i><size=58>A</size>fter Bilbo was captured, Gloin who was injured, returned to Beorn's Hall to alert others. You have journeyed to Bilbo's last known location to see if you can pick up the trail...</i>"
+  },
+  {
+    "Id": "Q_QUEST_PURSUINGTHESPIDERS_VICTORY_TEXT",
+    "Text": "You have found the spiders that captured Bilbo!"
+  },
+  {
+    "Id": "Q_QUEST_PURSUINGTHESPIDERS_DEFEAT_TEXT",
+    "Text": "You have failed in your quest."
   }
 ]
