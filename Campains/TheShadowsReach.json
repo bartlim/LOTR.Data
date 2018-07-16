@@ -202,15 +202,15 @@
       "FateCardList": [
         {
           "Id": "RangersCache",
-          "Threshold": 4
+          "Threshold": 3
         },
         {
           "Id": "ShaftofSunlight",
-          "Threshold": 7
+          "Threshold": 6
         },
         {
           "Id": "SupportfromDale",
-          "Threshold": 10
+          "Threshold": 9
         }
       ],
       "ThreatCardList": [
@@ -759,53 +759,7 @@
           "ThreatCardList": null
         }
       ],
-      "SauronDeck": [
-        {
-          "Id": "BlackForestBats",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "DrivenByShadow",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "EastBightPatrol",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "Enfeebled",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "ThickWebs",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "Tribulation",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "DolGuldurOrcs",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "GoblinSniper",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "MirkwoodPatrol",
-          "Amount": 2,
-          "PlayOnce": false
-        }
-      ],
+      "SauronDeck": [],
       "FateCardList": [
         {
           "Id": "RangersCache",
