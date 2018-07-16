@@ -11751,11 +11751,11 @@
   },
   {
     "Id": "C_DISTRACTINGCALL_TEXT",
-    "Text": "<line-height=50%><i>You distract your foes with a well-timed yell.</i>\n</line-height>\nEvery Enemy loses <b>Pursuit</b> in this Location"
+    "Text": "Every Enemy loses <b>Pursuit</b> in this Location"
   },
   {
     "Id": "C_DISTRACTINGCALL_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>Y</size>ou distract your foes with a well-timed yell.</i>"
   },
   {
     "Id": "C_SCOUTAHEAD_TITLE",
