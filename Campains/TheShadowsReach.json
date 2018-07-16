@@ -616,6 +616,41 @@
           "BGM": "mus_cave",
           "FateCardList": null,
           "ThreatCardList": null
+        },
+        {
+          "Id": "C001Q04L4",
+          "SceneName": "Q01_L04_DeepChasm",
+          "IntroMusic": "mus_cave",
+          "IntroVoice": "",
+          "IntroSprite": null,
+          "SoloGameSetup": [
+            "DolGuldurOrc",
+            "GoblinTaskmaster",
+            "EliteDolGuldurOrc",
+            "GoblinPursuer"
+          ],
+          "NextStageId": "C001Q04L5",
+          "BGM": "mus_cave",
+          "FateCardList": null,
+          "ThreatCardList": null
+        },
+        {
+          "Id": "C001Q04L5",
+          "SceneName": "Q01_L05_GoblinDungeons",
+          "IntroMusic": "mus_cave",
+          "IntroVoice": "",
+          "IntroSprite": null,
+          "SoloGameSetup": [
+            "FreeBilbo",
+            "EastBightPatrol",
+            "EastBightPatrol",
+            "PrisonGuard",
+            "DolGuldurArcher"
+          ],
+          "NextStageId": "",
+          "BGM": "mus_cave",
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
