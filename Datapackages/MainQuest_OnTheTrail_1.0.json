@@ -108,12 +108,25 @@
         "Threshold": 9
       }
     ],
-    "ThreatCardList": [],
+    "ThreatCardList": [
+      {
+        "Id": "SpidersDescend",
+        "Threshold": 1
+      },
+      {
+        "Id": "Poisoned",
+        "Threshold": 2
+      },
+      {
+        "Id": "WaveOfFear",
+        "Threshold": 3
+      }
+    ],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180716205047139",
+  "Version": "20180716205137932",
   "Key": "MainQuest",
   "SubKey": "OnTheTrail",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_OnTheTrail_20180716205047139"
+  "InternalKey": "MainQuest_OnTheTrail_20180716205137932"
 }
