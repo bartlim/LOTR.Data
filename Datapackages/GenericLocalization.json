@@ -13428,5 +13428,17 @@
   {
     "Id": "Q_STAGE_C001Q05L1_OBJECTIVE",
     "Text": "Resolve <i>Board the Raft</i> to allow travel from this Location. <color=red>Bilbo must survive</color>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L2_NAME",
+    "Text": "Anduin River"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L2_TEXT",
+    "Text": "<i><size=58>H</size>aving defeated the Troll, you scramble aboard the raft. Alas, while you may have left the Orcs on the shore, you face fresh danger as the Anduin carries you through a series of rapids! It will take all your skill to choose a safe course through the raging waters.</i>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L2_OBJECTIVE",
+    "Text": "Resolve <i>Left River Fork</i> or <i>Right River Fork</i> to allow travel to the next Location. <color=red>Bilbo must survive</color>"
   }
 ]
