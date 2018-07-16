@@ -511,54 +511,21 @@
           "ThreatCardList": null
         }
       ],
-      "SauronDeck": [
+      "SauronDeck": [],
+      "FateCardList": [
         {
-          "Id": "BlackForestBats",
-          "Amount": 2,
-          "PlayOnce": false
+          "Id": "RangersCache",
+          "Threshold": 3
         },
         {
-          "Id": "DolGuldurOrcs",
-          "Amount": 2,
-          "PlayOnce": false
+          "Id": "ShaftofSunlight",
+          "Threshold": 6
         },
         {
-          "Id": "EastBightPatrol",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "Enfeebled",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "DrivenByShadow",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "GoblinSniper",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "MirkwoodPatrol",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "ThickWebs",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "Tribulation",
-          "Amount": 2,
-          "PlayOnce": false
+          "Id": "SupportfromDale",
+          "Threshold": 9
         }
       ],
-      "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggresiveAI"
     },
@@ -653,53 +620,7 @@
           "ThreatCardList": null
         }
       ],
-      "SauronDeck": [
-        {
-          "Id": "BlackForestBats",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "DolGuldurOrcs",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "EastBightPatrol",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "Enfeebled",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "DrivenByShadow",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "GoblinSniper",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "MirkwoodPatrol",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "ThickWebs",
-          "Amount": 2,
-          "PlayOnce": false
-        },
-        {
-          "Id": "Tribulation",
-          "Amount": 2,
-          "PlayOnce": false
-        }
-      ],
+      "SauronDeck": [],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggresiveAI"
