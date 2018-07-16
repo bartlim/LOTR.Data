@@ -713,18 +713,30 @@
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
-          "Id": "Location501",
-          "SceneName": "Q01_L01_ForestGate",
-          "IntroMusic": null,
+          "Id": "C001Q05L1",
+          "SceneName": "Q04_L01_ToTheRiver",
+          "IntroMusic": "mus_cave",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
-          "NextStageId": "",
-          "BGM": null,
+          "NextStageId": "C001Q05L2",
+          "BGM": "mus_cave",
           "FateCardList": [],
+          "ThreatCardList": null
+        },
+        {
+          "Id": "",
+          "SceneName": null,
+          "IntroMusic": null,
+          "IntroVoice": "",
+          "IntroSprite": null,
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null,
+          "FateCardList": null,
           "ThreatCardList": null
         }
       ],
