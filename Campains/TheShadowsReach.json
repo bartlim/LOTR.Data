@@ -744,6 +744,23 @@
           "BGM": "mus_cave",
           "FateCardList": null,
           "ThreatCardList": null
+        },
+        {
+          "Id": "C001Q05L3a",
+          "SceneName": "Q04_L03_AmbushOnTheShore",
+          "IntroMusic": "mus_cave",
+          "IntroVoice": "",
+          "IntroSprite": null,
+          "SoloGameSetup": [
+            "RiverChannel",
+            "Rapids",
+            "Rocks",
+            "SwirlingEddy"
+          ],
+          "NextStageId": "C001Q05L4",
+          "BGM": "mus_cave",
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
