@@ -122,6 +122,39 @@
         ],
         "FateCardList": null,
         "ThreatCardList": null
+      },
+      {
+        "Title": "C001Q04L4",
+        "SoloGameSetup": [
+          "DolGuldurOrc",
+          "GoblinTaskmaster",
+          "EliteDolGuldurOrc",
+          "GoblinPursuer"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C001Q04L5"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C001Q04L5",
+        "SoloGameSetup": [
+          "FreeBilbo",
+          "EastBightPatrol",
+          "EastBightPatrol",
+          "PrisonGuard",
+          "DolGuldurArcher"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
       }
     ],
     "Sequences": [],
@@ -130,9 +163,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180716184445459",
+  "Version": "20180716185406597",
   "Key": "MainQuest",
   "SubKey": "TheTowerInDarkness",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheTowerInDarkness_20180716184445459"
+  "InternalKey": "MainQuest_TheTowerInDarkness_20180716185406597"
 }
