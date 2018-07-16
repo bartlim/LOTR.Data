@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "<i><line-height=100%><size=200%>T</size>he endless gloom of Mirkwood seems to come alive. No match for the imagined horrors that swarm amid the shadows, your companions flee in terror!</i>",
     "ArtistName": "Micah Epstein",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +39,6 @@
   },
   "Localization": {
     "Title": "Wave of Fear",
-    "Text": "<line-height=50%><i>Your companions flee in terror!</i>\n</line-height>\nDefeat every Ally in play"
+    "Text": "Defeat every Ally in play"
   }
 }
