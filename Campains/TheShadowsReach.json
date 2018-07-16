@@ -571,9 +571,9 @@
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
-          "Id": "HidingInTheShadows",
+          "Id": "C001Q04L1",
           "SceneName": "Q01_L01_ForestGate",
-          "IntroMusic": null,
+          "IntroMusic": "mus_cave",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -581,9 +581,25 @@
             "GoblinPatrol",
             "GoblinPatrol"
           ],
-          "NextStageId": "ASecretDoor",
+          "NextStageId": "C001Q04L2",
           "BGM": "mus_cave",
           "FateCardList": [],
+          "ThreatCardList": null
+        },
+        {
+          "Id": "C001Q04L2",
+          "SceneName": "Q01_L03_GoblinTunnel",
+          "IntroMusic": "mus_cave",
+          "IntroVoice": "",
+          "IntroSprite": null,
+          "SoloGameSetup": [
+            "EnterTheTower",
+            "MirkwoodPatrol",
+            "OrcMarauder"
+          ],
+          "NextStageId": "C001Q04L3",
+          "BGM": "mus_cave",
+          "FateCardList": null,
           "ThreatCardList": null
         }
       ],
