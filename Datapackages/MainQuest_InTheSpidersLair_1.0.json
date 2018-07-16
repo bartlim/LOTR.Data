@@ -202,15 +202,15 @@
     "FateCardList": [
       {
         "Id": "RangersCache",
-        "Threshold": 4
+        "Threshold": 3
       },
       {
         "Id": "ShaftofSunlight",
-        "Threshold": 7
+        "Threshold": 6
       },
       {
         "Id": "SupportfromDale",
-        "Threshold": 10
+        "Threshold": 9
       }
     ],
     "ThreatCardList": [
@@ -229,9 +229,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180716211725594",
+  "Version": "20180716211821446",
   "Key": "MainQuest",
   "SubKey": "InTheSpidersLair",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_InTheSpidersLair_20180716211725594"
+  "InternalKey": "MainQuest_InTheSpidersLair_20180716211821446"
 }
