@@ -3152,7 +3152,7 @@
           "Stages": [
             {
               "Id": "TheSpidersGlade",
-              "SceneName": "Q01_L01_ForestGate",
+              "SceneName": "Q04_L02_AnduinPassage",
               "IntroMusic": "mus_deckmenu",
               "IntroVoice": "OpeningMirkwood_01",
               "IntroSprite": "TheShadowsReachQuest01TheSpidersGladeIntroSprite",
@@ -3183,7 +3183,7 @@
             },
             {
               "Id": "BattleWithTheSpiders",
-              "SceneName": "Q02_L03_TheSpidersWebs",
+              "SceneName": "Q01_L02_CapturedBySpiders",
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": "TheShadowsReachQuest01AnUnexpectedEnemyIntroSprite",
@@ -3200,7 +3200,7 @@
             },
             {
               "Id": "TheSpidersWebs2",
-              "SceneName": "Q02_L04_TheForestGlade",
+              "SceneName": "Q03_L03b_OvergrownTrail",
               "IntroMusic": "mus_mapmenu",
               "IntroVoice": "",
               "IntroSprite": "TheShadowsReachQuest01TheSpidersWebsIntroSprite",
