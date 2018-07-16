@@ -86,13 +86,26 @@
     ],
     "Sequences": [],
     "Stories": [],
-    "FateCardList": [],
+    "FateCardList": [
+      {
+        "Id": "RangersCache",
+        "Threshold": 3
+      },
+      {
+        "Id": "ShaftofSunlight",
+        "Threshold": 6
+      },
+      {
+        "Id": "SupportfromDale",
+        "Threshold": 9
+      }
+    ],
     "ThreatCardList": [],
     "AIBehavior": "AggresiveAI"
   },
-  "Version": "20180716204908307",
+  "Version": "20180716205008588",
   "Key": "MainQuest",
   "SubKey": "TheTowerInDarkness",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheTowerInDarkness_20180716204908307"
+  "InternalKey": "MainQuest_TheTowerInDarkness_20180716205008588"
 }
