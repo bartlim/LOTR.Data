@@ -239,13 +239,13 @@
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          "TheSpidersWeb"
+          "TheSpidersWebs2"
         ],
         "FateCardList": [],
         "ThreatCardList": null
       },
       {
-        "Title": "TheSpidersWebs",
+        "Title": "TheSpidersWebs2",
         "SoloGameSetup": [
           "SpiderLt1",
           "SpiderLt2",
@@ -292,9 +292,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180713102519235",
+  "Version": "20180716054856747",
   "Key": "MainQuest",
   "SubKey": "TheShadowsReachQuest01",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheShadowsReachQuest01_20180713102519235"
+  "InternalKey": "MainQuest_TheShadowsReachQuest01_20180716054856747"
 }
