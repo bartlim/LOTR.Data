@@ -15,7 +15,7 @@
         {
           "Id": "TheSpidersGlade",
           "SceneName": "Q01_L01_ForestGate",
-          "IntroMusic": "mus_deckmenu",
+          "IntroMusic": "mus_dungeon",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "TheShadowsReachQuest01TheSpidersGladeIntroSprite",
           "SoloGameSetup": [
@@ -63,7 +63,7 @@
         {
           "Id": "TheSpidersWebs2",
           "SceneName": "Q02_L04_TheForestGlade",
-          "IntroMusic": "mus_cave",
+          "IntroMusic": "mus_mapmenu",
           "IntroVoice": "",
           "IntroSprite": "TheShadowsReachQuest01TheSpidersWebsIntroSprite",
           "SoloGameSetup": [
