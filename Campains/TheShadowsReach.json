@@ -778,6 +778,25 @@
           "BGM": "mus_cave",
           "FateCardList": null,
           "ThreatCardList": null
+        },
+        {
+          "Id": "C001Q05L4",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": "mus_cave",
+          "IntroVoice": "",
+          "IntroSprite": null,
+          "SoloGameSetup": [
+            "WardensOfLorien",
+            "ChieftainUfthak",
+            "EliteDolGuldurOrc",
+            "EliteDolGuldurOrc",
+            "MirkwoodPatrol",
+            "OrcMarauder"
+          ],
+          "NextStageId": "",
+          "BGM": "mus_cave",
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
