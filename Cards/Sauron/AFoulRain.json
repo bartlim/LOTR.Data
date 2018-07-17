@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "<i><line-height=100%><size=200%>A</size> thick shower of arrows falls upon you in a deadly rain!</i>",
     "ArtistName": "",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +39,6 @@
   },
   "Localization": {
     "Title": "A Foul Rain",
-    "Text": "<line-height=50%><i>A shower of arrows falls in a deadly rain upon you!</i>\n</line-height>\nDeal 2 damage to up to 3 random Characters"
+    "Text": "Deal 2 damage to up to 3 random Characters"
   }
 }

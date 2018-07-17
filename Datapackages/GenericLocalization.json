@@ -11985,11 +11985,11 @@
   },
   {
     "Id": "C_AFOULRAIN_TEXT",
-    "Text": "<line-height=50%><i>A shower of arrows falls in a deadly rain upon you!</i>\n</line-height>\nDeal 2 damage to up to 3 random Characters"
+    "Text": "Deal 2 damage to up to 3 random Characters"
   },
   {
     "Id": "C_AFOULRAIN_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>A</size> thick shower of arrows falls upon you in a deadly rain!</i>"
   },
   {
     "Id": "C_BOLTSFROMTHEDARK_TITLE",
