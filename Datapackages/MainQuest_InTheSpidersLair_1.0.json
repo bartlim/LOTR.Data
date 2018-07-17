@@ -290,7 +290,7 @@
         "Title": "TheSpidersLair2",
         "SoloGameSetup": [
           "RescueYourFriend",
-          "SpiderlingSwarm",
+          "ForestSpider",
           "SpiderGuard"
         ],
         "CoopGameSetup": [],
@@ -365,9 +365,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180717195429321",
+  "Version": "20180717202512279",
   "Key": "MainQuest",
   "SubKey": "InTheSpidersLair",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_InTheSpidersLair_20180717195429321"
+  "InternalKey": "MainQuest_InTheSpidersLair_20180717202512279"
 }
