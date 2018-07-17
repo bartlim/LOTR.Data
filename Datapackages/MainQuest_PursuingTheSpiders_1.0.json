@@ -3,200 +3,7 @@
     "Title": "PursuingTheSpiders",
     "SauronDeckInfo": {
       "Id": null,
-      "DeckList": [
-        {
-          "Id": "BlackForestBats",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "HatchlingSpider",
-          "Quantity": 3,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "CreatureOfDarkness",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "DrivenByShadow",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "EyesOfTheForest",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "ForestSpider",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "GrowingDarkness",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "MirkwoodFlock",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "TreacherousFog",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "UnderTheShadow",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Enfeebled",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "EvilStorm",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "GreedyFingers",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Hummerhorns",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "MuckAdder",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "PoisonedBySpiders",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "ThickWebs",
-          "Quantity": 4,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Tribulation",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "UnderTheWatchfulEye",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "GiantSpider",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "HiveGuardian",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "KingSpider",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "MirkwoodBroodmother",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "UngoliantsBrood",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        }
-      ]
+      "DeckList": []
     },
     "Stages": [
       {
@@ -265,15 +72,15 @@
     "FateCardList": [
       {
         "Id": "RangersCache",
-        "Threshold": 3
+        "Threshold": 4
       },
       {
         "Id": "ShaftofSunlight",
-        "Threshold": 6
+        "Threshold": 7
       },
       {
         "Id": "SupportfromDale",
-        "Threshold": 9
+        "Threshold": 10
       }
     ],
     "ThreatCardList": [
@@ -292,9 +99,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180716211816877",
+  "Version": "20180717102302784",
   "Key": "MainQuest",
   "SubKey": "PursuingTheSpiders",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PursuingTheSpiders_20180716211816877"
+  "InternalKey": "MainQuest_PursuingTheSpiders_20180717102302784"
 }
