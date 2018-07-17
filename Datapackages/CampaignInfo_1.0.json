@@ -3215,128 +3215,7 @@
               "ThreatCardList": null
             }
           ],
-          "SauronDeck": [
-            {
-              "Id": "BlackForestBats",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "HatchlingSpider",
-              "Amount": 3,
-              "PlayOnce": false
-            },
-            {
-              "Id": "CreatureOfDarkness",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "DrivenByShadow",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "EyesOfTheForest",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "ForestSpider",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "GrowingDarkness",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "MirkwoodFlock",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "TreacherousFog",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "UnderTheShadow",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "Enfeebled",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "EvilStorm",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "GreedyFingers",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "Hummerhorns",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "MuckAdder",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "PoisonedBySpiders",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "ThickWebs",
-              "Amount": 4,
-              "PlayOnce": false
-            },
-            {
-              "Id": "Tribulation",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "UnderTheWatchfulEye",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "GiantSpider",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "HiveGuardian",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "KingSpider",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "MirkwoodBroodmother",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "UngoliantsBrood",
-              "Amount": 1,
-              "PlayOnce": false
-            }
-          ],
+          "SauronDeck": [],
           "FateCardList": [
             {
               "Id": "RangersCache",
@@ -3800,7 +3679,7 @@
               "Threshold": 3
             }
           ],
-          "AIBehavior": "AggresiveAI"
+          "AIBehavior": "AggressiveAI"
         },
         {
           "Id": "JourneyToLorien",
@@ -3897,53 +3776,7 @@
               "ThreatCardList": null
             }
           ],
-          "SauronDeck": [
-            {
-              "Id": "BlackForestBats",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "DrivenByShadow",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "EastBightPatrol",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "Enfeebled",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "ThickWebs",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "Tribulation",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "DolGuldurOrcs",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "GoblinSniper",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "MirkwoodPatrol",
-              "Amount": 2,
-              "PlayOnce": false
-            }
-          ],
+          "SauronDeck": [],
           "FateCardList": [
             {
               "Id": "RangersCache",
@@ -3972,7 +3805,7 @@
               "Threshold": 3
             }
           ],
-          "AIBehavior": "AggresiveAI"
+          "AIBehavior": "AggressiveAI"
         }
       ]
     },
