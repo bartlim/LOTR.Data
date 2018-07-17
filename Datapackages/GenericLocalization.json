@@ -4267,7 +4267,7 @@
   },
   {
     "Id": "Q_STAGE_THESPIDERSWEBS_TEXT",
-    "Text": "Bilbo wasn't there, but the lair is just ahead. However, your actions haven't gone unnoticed as three massive spiders drop from the forest canopy towards you..."
+    "Text": "<i><size=58>Y</size>ou've managed to cut your companions loose, but the spiders are determined to recapture you. They spin giant webs from tree to tree, trapping you in their lair. You will have to sunder the thick strands in order to escape.</i>"
   },
   {
     "Id": "Q_STAGE_FORESTGLADE_TEXT",
@@ -4363,7 +4363,7 @@
   },
   {
     "Id": "Q_STAGE_THESPIDERSWEBS_OBJECTIVE",
-    "Text": "Defeat the bosses"
+    "Text": "Resolve <i>Escape the Spiders' Lair</i> to allow travel from this Location"
   },
   {
     "Id": "Q_STAGE_FORESTGLADE_OBJECTIVE",
