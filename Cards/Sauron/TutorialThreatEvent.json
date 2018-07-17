@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "<i><line-height=100%><size=200%>Y</size>ou hear a mighty hiss as a spray of green poison comes from the darkness. The emerald liquid strikes one your party and burns like acid!</i>  \r",
     "ArtistName": "",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +39,6 @@
   },
   "Localization": {
     "Title": "Venomous Fangs",
-    "Text": "<i>You hear a mighty hiss as a spray of green poison comes from the darkness. The emerald liquid strikes one your party and burns like acid!</i>  \r\n\r\nDeal 2 damage to a random Character"
+    "Text": "Deal 2 damage to a random Character"
   }
 }
