@@ -10,8 +10,8 @@
         "Title": "C001Q04L1",
         "SoloGameSetup": [
           "AvoidThePatrols",
-          "GoblinPatrol",
-          "GoblinPatrol"
+          "TowerPatrol",
+          "TowerPatrol"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -116,9 +116,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180717102615876",
+  "Version": "20180717103359527",
   "Key": "MainQuest",
   "SubKey": "TheTowerInDarkness",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_TheTowerInDarkness_20180717102615876"
+  "InternalKey": "MainQuest_TheTowerInDarkness_20180717103359527"
 }
