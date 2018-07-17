@@ -4263,7 +4263,7 @@
   },
   {
     "Id": "Q_STAGE_THESPIDERSLAIR_TEXT",
-    "Text": "Searching, you find one of your friends struggling in their webs. They have a group of spiders around them..."
+    "Text": "<i><size=58>S</size>earching through the night, you find your friends at last. They are held within a dark glade, bound in cocoons made of strong webbed cords. You slip through the shadows, seemingly unnoticed by the spiders in their webs high above. However, as you raise your blade to cut your companions free, the creatures drop to the forest floor and attack! </i>"
   },
   {
     "Id": "Q_STAGE_THESPIDERSWEBS_TEXT",
@@ -4359,7 +4359,7 @@
   },
   {
     "Id": "Q_STAGE_THESPIDERSLAIR_OBJECTIVE",
-    "Text": "Free your friend"
+    "Text": "Resolve <i>Rescue Your Friends</i> to allow travel from this Location"
   },
   {
     "Id": "Q_STAGE_THESPIDERSWEBS_OBJECTIVE",
