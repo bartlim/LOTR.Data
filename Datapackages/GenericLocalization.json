@@ -13922,5 +13922,17 @@
   {
     "Id": "Q_STAGE_C001Q5L4_OBJECTIVE",
     "Text": "Defeat all enemies or survive until Wardens of Lorien triggers. <color=red>Bilbo must survive</color>"
+  },
+  {
+    "Id": "C_BATTLINGSPIDERS_TITLE",
+    "Text": "Battling Spiders"
+  },
+  {
+    "Id": "C_BATTLINGSPIDERS_TEXT",
+    "Text": "Cannot be engaged.\nFor each <b><i>Spider</b></i> defeated, \napply 1 progress to this quest"
+  },
+  {
+    "Id": "C_BATTLINGSPIDERS_FLAVOR",
+    "Text": ""
   }
 ]
