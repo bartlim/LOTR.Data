@@ -1,7 +1,7 @@
 {
   "Id": "temp_1",
   "IconSprite": "Sprites/Quest/icon_q1",
-  "MapPosX": 14.0,
+  "MapPosX": 9.0,
   "MapPosY": -24.0,
   "Quests": [
     {
@@ -15,6 +15,7 @@
         {
           "Id": "Location101",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -23,45 +24,55 @@
           ],
           "NextStageId": "",
           "BGM": null,
-          "FateCardList": null
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
         {
           "Id": "BlackForestBats",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "DolGuldurOrcs",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "EastBightPatrol",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "Enfeebled",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "DrivenByShadow",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "GoblinSniper",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "MirkwoodPatrol",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "ThickWebs",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "Tribulation",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         }
       ],
       "FateCardList": null,
@@ -79,6 +90,7 @@
         {
           "Id": "Location201",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -87,45 +99,55 @@
           ],
           "NextStageId": "",
           "BGM": null,
-          "FateCardList": null
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
         {
           "Id": "BlackForestBats",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "DolGuldurOrcs",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "EastBightPatrol",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "Enfeebled",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "DrivenByShadow",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "GoblinSniper",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "MirkwoodPatrol",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "ThickWebs",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "Tribulation",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         }
       ],
       "FateCardList": null,
@@ -143,6 +165,7 @@
         {
           "Id": "Location301",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -151,45 +174,55 @@
           ],
           "NextStageId": "",
           "BGM": null,
-          "FateCardList": null
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
         {
           "Id": "BlackForestBats",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "DolGuldurOrcs",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "EastBightPatrol",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "Enfeebled",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "DrivenByShadow",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "GoblinSniper",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "MirkwoodPatrol",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "ThickWebs",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "Tribulation",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         }
       ],
       "FateCardList": null,
@@ -207,6 +240,7 @@
         {
           "Id": "Location401",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -215,45 +249,55 @@
           ],
           "NextStageId": "",
           "BGM": null,
-          "FateCardList": null
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
         {
           "Id": "BlackForestBats",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "DolGuldurOrcs",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "EastBightPatrol",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "Enfeebled",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "DrivenByShadow",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "GoblinSniper",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "MirkwoodPatrol",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "ThickWebs",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "Tribulation",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         }
       ],
       "FateCardList": null,
@@ -271,6 +315,7 @@
         {
           "Id": "Location501",
           "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": null,
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -279,45 +324,55 @@
           ],
           "NextStageId": "",
           "BGM": null,
-          "FateCardList": null
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
         {
           "Id": "BlackForestBats",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "DolGuldurOrcs",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "EastBightPatrol",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "Enfeebled",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "DrivenByShadow",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "GoblinSniper",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "MirkwoodPatrol",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "ThickWebs",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "Tribulation",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         }
       ],
       "FateCardList": null,
