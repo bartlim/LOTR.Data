@@ -24,11 +24,11 @@
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
-    "CardOffsetY": 1.0,
-    "CardScale": 1.0,
+    "CardOffsetY": 0.8,
+    "CardScale": 0.8,
     "CameoOffsetX": 1.0,
-    "CameoOffsetY": 1.0,
-    "CameoScale": 1.0,
+    "CameoOffsetY": 0.8,
+    "CameoScale": 0.8,
     "CombatValue": 0,
     "ResolutionValue": 0,
     "CanBePlayedDuringTravel": true,
@@ -38,7 +38,7 @@
     "IconMD5": "fa154dc06cf789fe8bf81ce0da6cef81"
   },
   "Localization": {
-    "Title": "Bilbo",
+    "Title": "‰Bilbo",
     "Text": "<line-height=100%><b>Power</b>: Exhaust Bilbo to \nsteal 1-3 <size=120%><sprite=3></size> from Sauron \n(amount stolen is random)"
   }
 }
