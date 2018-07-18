@@ -13562,5 +13562,365 @@
   {
     "Id": "C_GRIMBEORNNARRATIVE_FLAVOR",
     "Text": ""
+  },
+  {
+    "Id": "Q_CAMPAIGN_C001_NAME",
+    "Text": "Q_CAMPAIGN_C001_NAME"
+  },
+  {
+    "Id": "Q_QUEST_C001Q1_NAME",
+    "Text": "Q_QUEST_C001Q1_NAME"
+  },
+  {
+    "Id": "Q_QUEST_C001Q1_DESCRIPTION",
+    "Text": "Q_QUEST_C001Q1_DESCRIPTION"
+  },
+  {
+    "Id": "Q_QUEST_C001Q1_VICTORY_TEXT",
+    "Text": "Q_QUEST_C001Q1_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_C001Q1_DEFEAT_TEXT",
+    "Text": "Q_QUEST_C001Q1_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L1_NAME",
+    "Text": "Q_STAGE_C001Q1L1_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L1_TEXT",
+    "Text": "Q_STAGE_C001Q1L1_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L1_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q1L1_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L2_NAME",
+    "Text": "Q_STAGE_C001Q1L2_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L2_TEXT",
+    "Text": "Q_STAGE_C001Q1L2_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L2_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q1L2_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L3_NAME",
+    "Text": "Q_STAGE_C001Q1L3_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L3_TEXT",
+    "Text": "Q_STAGE_C001Q1L3_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L3_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q1L3_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L4_NAME",
+    "Text": "Q_STAGE_C001Q1L4_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L4_TEXT",
+    "Text": "Q_STAGE_C001Q1L4_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L4_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q1L4_OBJECTIVE"
+  },
+  {
+    "Id": "Q_QUEST_C001Q2_NAME",
+    "Text": "Q_QUEST_C001Q2_NAME"
+  },
+  {
+    "Id": "Q_QUEST_C001Q2_DESCRIPTION",
+    "Text": "Q_QUEST_C001Q2_DESCRIPTION"
+  },
+  {
+    "Id": "Q_QUEST_C001Q2_VICTORY_TEXT",
+    "Text": "Q_QUEST_C001Q2_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_C001Q2_DEFEAT_TEXT",
+    "Text": "Q_QUEST_C001Q2_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L1_NAME",
+    "Text": "Q_STAGE_C001Q2L1_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L1_TEXT",
+    "Text": "Q_STAGE_C001Q2L1_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L1_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q2L1_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L2_NAME",
+    "Text": "Q_STAGE_C001Q2L2_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L2_TEXT",
+    "Text": "Q_STAGE_C001Q2L2_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L2_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q2L2_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L3_NAME",
+    "Text": "Q_STAGE_C001Q2L3_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L3_TEXT",
+    "Text": "Q_STAGE_C001Q2L3_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L3_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q2L3_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L4_NAME",
+    "Text": "Q_STAGE_C001Q2L4_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L4_TEXT",
+    "Text": "Q_STAGE_C001Q2L4_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L4_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q2L4_OBJECTIVE"
+  },
+  {
+    "Id": "Q_QUEST_C001Q3_NAME",
+    "Text": "Q_QUEST_C001Q3_NAME"
+  },
+  {
+    "Id": "Q_QUEST_C001Q3_DESCRIPTION",
+    "Text": "Q_QUEST_C001Q3_DESCRIPTION"
+  },
+  {
+    "Id": "Q_QUEST_C001Q3_VICTORY_TEXT",
+    "Text": "Q_QUEST_C001Q3_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_C001Q3_DEFEAT_TEXT",
+    "Text": "Q_QUEST_C001Q3_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L1_NAME",
+    "Text": "Q_STAGE_C001Q3L1_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L1_TEXT",
+    "Text": "Q_STAGE_C001Q3L1_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L1_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q3L1_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2A_NAME",
+    "Text": "Q_STAGE_C001Q3L2A_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2A_TEXT",
+    "Text": "Q_STAGE_C001Q3L2A_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2A_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q3L2A_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2B_NAME",
+    "Text": "Q_STAGE_C001Q3L2B_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2B_TEXT",
+    "Text": "Q_STAGE_C001Q3L2B_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2B_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q3L2B_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3A_NAME",
+    "Text": "Q_STAGE_C001Q3L3A_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3A_TEXT",
+    "Text": "Q_STAGE_C001Q3L3A_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3A_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q3L3A_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3B_NAME",
+    "Text": "Q_STAGE_C001Q3L3B_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3B_TEXT",
+    "Text": "Q_STAGE_C001Q3L3B_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3B_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q3L3B_OBJECTIVE"
+  },
+  {
+    "Id": "Q_QUEST_C001Q4_NAME",
+    "Text": "Q_QUEST_C001Q4_NAME"
+  },
+  {
+    "Id": "Q_QUEST_C001Q4_DESCRIPTION",
+    "Text": "Q_QUEST_C001Q4_DESCRIPTION"
+  },
+  {
+    "Id": "Q_QUEST_C001Q4_VICTORY_TEXT",
+    "Text": "Q_QUEST_C001Q4_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_C001Q4_DEFEAT_TEXT",
+    "Text": "Q_QUEST_C001Q4_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L1_NAME",
+    "Text": "Q_STAGE_C001Q4L1_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L1_TEXT",
+    "Text": "Q_STAGE_C001Q4L1_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L1_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q4L1_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L2_NAME",
+    "Text": "Q_STAGE_C001Q4L2_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L2_TEXT",
+    "Text": "Q_STAGE_C001Q4L2_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L2_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q4L2_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L3_NAME",
+    "Text": "Q_STAGE_C001Q4L3_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L3_TEXT",
+    "Text": "Q_STAGE_C001Q4L3_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L3_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q4L3_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L4_NAME",
+    "Text": "Q_STAGE_C001Q4L4_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L4_TEXT",
+    "Text": "Q_STAGE_C001Q4L4_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L4_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q4L4_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L5_NAME",
+    "Text": "Q_STAGE_C001Q4L5_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L5_TEXT",
+    "Text": "Q_STAGE_C001Q4L5_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L5_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q4L5_OBJECTIVE"
+  },
+  {
+    "Id": "Q_QUEST_C001Q5_NAME",
+    "Text": "Q_QUEST_C001Q5_NAME"
+  },
+  {
+    "Id": "Q_QUEST_C001Q5_DESCRIPTION",
+    "Text": "Q_QUEST_C001Q5_DESCRIPTION"
+  },
+  {
+    "Id": "Q_QUEST_C001Q5_VICTORY_TEXT",
+    "Text": "Q_QUEST_C001Q5_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_C001Q5_DEFEAT_TEXT",
+    "Text": "Q_QUEST_C001Q5_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L1_NAME",
+    "Text": "Q_STAGE_C001Q5L1_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L1_TEXT",
+    "Text": "Q_STAGE_C001Q5L1_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L1_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q5L1_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L2_NAME",
+    "Text": "Q_STAGE_C001Q5L2_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L2_TEXT",
+    "Text": "Q_STAGE_C001Q5L2_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L2_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q5L2_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3A_NAME",
+    "Text": "Q_STAGE_C001Q5L3A_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3A_TEXT",
+    "Text": "Q_STAGE_C001Q5L3A_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3A_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q5L3A_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3B_NAME",
+    "Text": "Q_STAGE_C001Q5L3B_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3B_TEXT",
+    "Text": "Q_STAGE_C001Q5L3B_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3B_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q5L3B_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L4_NAME",
+    "Text": "Q_STAGE_C001Q5L4_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L4_TEXT",
+    "Text": "Q_STAGE_C001Q5L4_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L4_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q5L4_OBJECTIVE"
   }
 ]
