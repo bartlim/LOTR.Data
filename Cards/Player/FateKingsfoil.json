@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "<i><line-height=100%><size=200%>Y</size>ou discover a lush patch of the healing herb Athelas.</i>",
     "ArtistName": "",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +39,6 @@
   },
   "Localization": {
     "Title": "Kingsfoil",
-    "Text": "<line-height=50%><i>You find a patch of the healing herb Athelas.</i>\n</line-height>\nRestore 2 <size=120%><sprite=2></size> to every Character"
+    "Text": "Restore 2 <size=120%><sprite=2></size> to every Character"
   }
 }

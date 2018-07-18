@@ -1,17 +1,17 @@
 {
   "CardData": {
-    "Id": "LightTheTorches",
+    "Id": "GrimbeornNarrative",
     "Owner": "Player",
-    "CardType": 10,
+    "CardType": 12,
     "ShopType": "",
-    "Cost": 7,
+    "Cost": 0,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "Fate",
+    "Trait": "",
     "Rarity": 0,
-    "Sphere": 2,
+    "Sphere": 5,
     "SphereLevel": 0,
     "Revision": null,
     "PlayVFX": "",
@@ -20,9 +20,9 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "<i><line-height=100%><size=200%>A</size> foe stands revealed in your torchlight!</i>",
+    "FlavorText": "",
     "ArtistName": "",
-    "Status": "Ready",
+    "Status": "WIP",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
     "CardScale": 1.0,
@@ -31,14 +31,14 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "CanBePlayedDuringTravel": false,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
-    "Title": "Light the Torches",
-    "Text": "<b>Upkeep</b>: Deal 1 damage to an Enemy (limit 3 uses)"
+    "Title": "The Rescue of Grimbeorn",
+    "Text": "\t<size=200%>H</size>aving been freed of his chains, Grimbeorn claps you on the shoulder in thanks. You start upon the path toward the river, but he surprises you by heading deeper into the woods.\n\t\"More Trolls lurk nearby,\" he growls. \"We shall teach them the folly of crossing Grimbeorn the Old!\""
   }
 }

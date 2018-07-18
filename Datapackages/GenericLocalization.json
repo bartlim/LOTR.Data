@@ -4074,6 +4074,12 @@
     "Text_FR": "Steadfast Companion"
   },
   {
+    "Id": "U_STAGE_FULL",
+    "Text": "The battle stage is full!",
+    "Text_CN": "[C]战场已满",
+    "Text_FR": "The battle stage is full!"
+  },
+  {
     "Id": "PLACEHOLDER2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -4257,11 +4263,11 @@
   },
   {
     "Id": "Q_STAGE_THESPIDERSLAIR_TEXT",
-    "Text": "Searching, you find one of your friends struggling in their webs. They have a group of spiders around them..."
+    "Text": "<i><size=58>S</size>earching through the night, you find your friends at last. They are held within a dark glade, bound in cocoons made of strong webbed cords. You slip through the shadows, seemingly unnoticed by the spiders in their webs high above. However, as you raise your blade to cut your companions free, the creatures drop to the forest floor and attack! </i>"
   },
   {
     "Id": "Q_STAGE_THESPIDERSWEBS_TEXT",
-    "Text": "Bilbo wasn't there, but the lair is just ahead. However, your actions haven't gone unnoticed as three massive spiders drop from the forest canopy towards you..."
+    "Text": "<i><size=58>Y</size>ou've managed to cut your companions loose, but the spiders are determined to recapture you. They spin giant webs from tree to tree, trapping you in their lair. You will have to sunder the thick strands in order to escape.</i>"
   },
   {
     "Id": "Q_STAGE_FORESTGLADE_TEXT",
@@ -4353,11 +4359,11 @@
   },
   {
     "Id": "Q_STAGE_THESPIDERSLAIR_OBJECTIVE",
-    "Text": "Free your friend"
+    "Text": "Resolve <i>Rescue Your Friends</i> to allow travel from this Location"
   },
   {
     "Id": "Q_STAGE_THESPIDERSWEBS_OBJECTIVE",
-    "Text": "Defeat the bosses"
+    "Text": "Resolve <i>Escape the Spiders' Lair</i> to allow travel from this Location"
   },
   {
     "Id": "Q_STAGE_FORESTGLADE_OBJECTIVE",
@@ -5359,7 +5365,7 @@
   },
   {
     "Id": "C_DOLGULDURORCS_TEXT",
-    "Text": "<b>Arrival</b>: Activate <b>Guard</b>. \n<b>Guard</b>"
+    "Text": "<b>Guard</b>"
   },
   {
     "Id": "C_DOLGULDURORCS_TITLE",
@@ -6385,7 +6391,7 @@
   },
   {
     "Id": "C_MIRKWOODPATROL_TEXT",
-    "Text": "<b>Arrival</b>: Activate <b>Guard</b>. \n<b>Guard</b>"
+    "Text": "<b>Guard</b>"
   },
   {
     "Id": "C_MIRKWOODPATROL_TITLE",
@@ -11015,11 +11021,11 @@
   },
   {
     "Id": "C_FATEKINGSFOIL_TEXT",
-    "Text": "<line-height=50%><i>You find a patch of the healing herb Athelas.</i>\n</line-height>\nRestore 2 <size=120%><sprite=2></size> to every Character"
+    "Text": "Restore 2 <size=120%><sprite=2></size> to every Character"
   },
   {
     "Id": "C_FATEKINGSFOIL_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>Y</size>ou discover a lush patch of the healing herb Athelas.</i>"
   },
   {
     "Id": "C_SAVEDBYTHEELVES_TITLE",
@@ -11027,11 +11033,11 @@
   },
   {
     "Id": "C_SAVEDBYTHEELVES_TEXT",
-    "Text": "<line-height=50%><i>A band of Silvan hunters unleashes a volley of arrows at your foes!</i>\n</line-height>\nDeal 2 damage to every Enemy"
+    "Text": "Deal 2 damage to every Enemy"
   },
   {
     "Id": "C_SAVEDBYTHEELVES_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>A</size> band of <b><i>Silvan</b></i> hunters unleashes a volley of arrows at your foes."
   },
   {
     "Id": "C_THESQUIRMINGCOCOON_TITLE",
@@ -11051,11 +11057,11 @@
   },
   {
     "Id": "C_SUPPORTFROMDALE_TEXT",
-    "Text": "<line-height=50%><i>Men of Dale arrive to lend you aid!</i>\n</line-height>\nAdd 1 Man of Dale to each open space in your row"
+    "Text": "Add a Man of Dale to each open space in your row"
   },
   {
     "Id": "C_SUPPORTFROMDALE_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>H</size>aving been scouting along the forest road, men from nearby Dale rush forward to lend you aid!"
   },
   {
     "Id": "C_SHAFTOFSUNLIGHT_TITLE",
@@ -11063,11 +11069,11 @@
   },
   {
     "Id": "C_SHAFTOFSUNLIGHT_TEXT",
-    "Text": "<line-height=50%><i>A rare patch of sun illuminates the way forward.</i>\n</line-height>\nLose 4 <size=120%><sprite=4></size>"
+    "Text": "Lose 4 <size=120%><sprite=4></size>"
   },
   {
     "Id": "C_SHAFTOFSUNLIGHT_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>A</size> rare patch of sunlight stabs down through clusters of leaves and tangled boughs, its slender beam illuminating the way forward.</i>"
   },
   {
     "Id": "C_RANGERSCACHE_TITLE",
@@ -11075,11 +11081,11 @@
   },
   {
     "Id": "C_RANGERSCACHE_TEXT",
-    "Text": "<line-height=50%><i>Following the Rangers' signs, you uncover a welcome cache of goods.</i>\n</line-height>\nGain +2 <size=120%><sprite=3></size>"
+    "Text": "Gain +2 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_RANGERSCACHE_FLAVOR",
-    "Text": "In medieval England, rangers were officials employed to \"range\" through the countryside providing law and order (often against poaching). Their duties were originally confined to seeing that the Forest Law was enforced in the outlands, or purlieus, of the royal forests. Their duties corresponded in "
+    "Text": "<i><line-height=100%><size=200%>F</size>ollowing the subtle signs that Rangers have left along the forest path, you discover a welcome cache of goods.</i>"
   },
   {
     "Id": "C_POISONED_TITLE",
@@ -11087,11 +11093,11 @@
   },
   {
     "Id": "C_POISONED_TEXT",
-    "Text": "<line-height=50%><i>One of your Heroes is poisoned!</i>\n</line-height>\nA single random Hero suffers 1 damage during <b>Upkeep</b> on this Quest"
+    "Text": "A single random Hero suffers 1 damage during <b>Upkeep</b> \nwhile on this Quest"
   },
   {
     "Id": "C_POISONED_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>A</size>s a spider lashes out to strike one of your companions, torchlight glimmers upon a foul substance that coats its hideous mandibles—poison!</i>"
   },
   {
     "Id": "C_WAVEOFFEAR_TITLE",
@@ -11099,11 +11105,11 @@
   },
   {
     "Id": "C_WAVEOFFEAR_TEXT",
-    "Text": "<line-height=50%><i>Your companions flee in terror!</i>\n</line-height>\nDefeat every Ally in play"
+    "Text": "Defeat every Ally in play"
   },
   {
     "Id": "C_WAVEOFFEAR_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>T</size>he endless gloom of Mirkwood seems to come alive. No match for the imagined horrors that swarm amid the shadows, your companions flee in terror!</i>"
   },
   {
     "Id": "C_SPIDERSDESCEND_TITLE",
@@ -11111,11 +11117,11 @@
   },
   {
     "Id": "C_SPIDERSDESCEND_TEXT",
-    "Text": "<line-height=50%><i>Spiders drop upon you from the trees!</i>\n</line-height>\nAdd up to 3 Forest Spiders to open spaces in Sauron's row"
+    "Text": "Add up to 3 Forest Spiders to open spaces in Sauron's row"
   },
   {
     "Id": "C_SPIDERSDESCEND_FLAVOR",
-    "Text": "Spiders (order Araneae) are air-breathing arthropods that have eight legs and chelicerae with fangs that inject venom. They are the largest order of arachnids and rank seventh in total species diversity among all other orders of organisms.[2] Spiders are found worldwide on every continent except for"
+    "Text": "<i><line-height=100%><size=200%>T</size>he twisting branches above rustle with hidden movement, then explode in a shower of leaves as huge spiders lunge down upon you!</i>"
   },
   {
     "Id": "Q_CAMPAIGN_NEWCAMPAIGN_TEST_NAME",
@@ -11691,11 +11697,11 @@
   },
   {
     "Id": "C_UNEXPECTEDAID_TEXT",
-    "Text": "<line-height=50%><i>Hearing the sounds of battle, a Gondorian guard rushes to your aid!</i>\n</line-height>\nPlay 1 Guard of the Citadel"
+    "Text": "Play 1 Guard of the Citadel"
   },
   {
     "Id": "C_UNEXPECTEDAID_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>H</size><i>earing the sounds of battle, a guard rushes to your side!</i>"
   },
   {
     "Id": "C_INSPIRING COURAGE_TITLE",
@@ -11715,11 +11721,11 @@
   },
   {
     "Id": "C_INSPIRINGCOURAGE_TEXT",
-    "Text": "<line-height=50%><i>You unleash a rallying cry!</i>\n</line-height>\n<b>Choose</b>: <size=120%><sprite=0></size>; <size=120%> <sprite=5></size>; or <size=120%> <sprite=2></size>. \nEvery Hero gains +1 to that ability on this Quest"
+    "Text": "<b>Choose</b>: <size=120%><sprite=0></size>; <size=120%> <sprite=5></size>; or <size=120%> <sprite=2></size>. \nEvery Hero gains +1 to that ability on this Quest"
   },
   {
     "Id": "C_INSPIRINGCOURAGE_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>Y</size>ou unleash a rallying cry that stirs the hearts of your companions and strengthens their resolve.</i>"
   },
   {
     "Id": "C_LIGHTTHETORCHES_TITLE",
@@ -11727,11 +11733,11 @@
   },
   {
     "Id": "C_LIGHTTHETORCHES_TEXT",
-    "Text": "<line-height=50%><i>A foe stands revealed in your torchlight!</i>\n</line-height>\n<b>Upkeep</b>: Deal 1 damage to an Enemy (limit 3 uses)"
+    "Text": "<b>Upkeep</b>: Deal 1 damage to an Enemy (limit 3 uses)"
   },
   {
     "Id": "C_LIGHTTHETORCHES_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>A</size> foe stands revealed in your torchlight!</i>"
   },
   {
     "Id": "C_FEAROFTHEFLAMES_TITLE",
@@ -11739,11 +11745,11 @@
   },
   {
     "Id": "C_FEAROFTHEFLAMES_TEXT",
-    "Text": "<line-height=50%><i>You light a blazing fire to drive off the Wargs!</i>\n</line-height>\nDefeat Pack of Wargs"
+    "Text": "Defeat Pack of Wargs"
   },
   {
     "Id": "C_FEAROFTHEFLAMES_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>Y</size>ou light a blazing fire to drive off the Wargs!</i>"
   },
   {
     "Id": "C_DISTRACTINGCALL_TITLE",
@@ -11751,11 +11757,11 @@
   },
   {
     "Id": "C_DISTRACTINGCALL_TEXT",
-    "Text": "<line-height=50%><i>You distract your foes with a well-timed yell.</i>\n</line-height>\nEvery Enemy loses <b>Pursuit</b> in this Location"
+    "Text": "Every Enemy loses <b>Pursuit</b> in this Location"
   },
   {
     "Id": "C_DISTRACTINGCALL_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>Y</size>ou distract your foes with a well-timed yell.</i>"
   },
   {
     "Id": "C_SCOUTAHEAD_TITLE",
@@ -11787,11 +11793,11 @@
   },
   {
     "Id": "C_CUTTINGTHEWEBS_TEXT",
-    "Text": "<line-height=50%><i>Cutting free of the sticky webbing, you ready for action!</i>\n</line-height>\nDraw 2 cards"
+    "Text": "Draw 2 cards"
   },
   {
     "Id": "C_CUTTINGTHEWEBS_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>C</size>utting free of the sticky webbing, you ready for action!</i>"
   },
   {
     "Id": "C_MAKEASTAND_TITLE",
@@ -11799,11 +11805,11 @@
   },
   {
     "Id": "C_MAKEASTAND_TEXT",
-    "Text": "<line-height=50%><i>With iron will and weapons ready, you face your foes.</i>\n</line-height>\nGain +1 <size=120%><sprite=3></size> for each Ally in play"
+    "Text": "Gain +1 <size=120%><sprite=3></size> for each Ally in play"
   },
   {
     "Id": "C_MAKEASTAND_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>W</size>ith will as strong as the steel of your weapons, you stand fast against your foes."
   },
   {
     "Id": "C_DISTRACTTHETROLL_TITLE",
@@ -11979,11 +11985,11 @@
   },
   {
     "Id": "C_AFOULRAIN_TEXT",
-    "Text": "<line-height=50%><i>A shower of arrows falls in a deadly rain upon you!</i>\n</line-height>\nDeal 2 damage to up to 3 random Characters"
+    "Text": "Deal 2 damage to up to 3 random Characters"
   },
   {
     "Id": "C_AFOULRAIN_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>A</size> thick shower of arrows falls upon you in a deadly rain!</i>"
   },
   {
     "Id": "C_BOLTSFROMTHEDARK_TITLE",
@@ -12039,11 +12045,11 @@
   },
   {
     "Id": "C_THESCENTOFMANFLESH_TEXT",
-    "Text": "<line-height=50%><i>Another Troll appears, eager to feast upon you!</i>\n</line-height>\nAdd Rupert"
+    "Text": "Add Rupert"
   },
   {
     "Id": "C_THESCENTOFMANFLESH_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>A</size>nother Troll appears, eager to feast upon you!</i>"
   },
   {
     "Id": "C_AFOULWIND_TITLE",
@@ -12407,11 +12413,11 @@
   },
   {
     "Id": "Q_QUEST_THESHADOWSREACHQUEST05_NAME",
-    "Text": "Q_QUEST_THESHADOWSREACHQUEST05_NAME"
+    "Text": "Journey to Lorien"
   },
   {
     "Id": "Q_QUEST_THESHADOWSREACHQUEST05_DESCRIPTION",
-    "Text": ""
+    "Text": "Even as you leave the dangers of Mirkwood Forest behind, new threats arise as you make your way down the mighty Anduin River."
   },
   {
     "Id": "Q_QUEST_THESHADOWSREACHQUEST05_VICTORY_TEXT",
@@ -12475,11 +12481,11 @@
   },
   {
     "Id": "C_STINGFATE_TEXT",
-    "Text": "<i>You find Bilbo's sword Sting in the weeds near where he was grabbed.</i>\n\nGain <i>Sting</i>"
+    "Text": "Gain Sting"
   },
   {
     "Id": "C_STINGFATE_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>S</size>pying a metallic glint in the gloom at the clearing's edge, you poke cautiously at the weeds. To your surprise, you see a finely-crafed elvish blade!</i>"
   },
   {
     "Id": "C_SPIDERLT1_TITLE",
@@ -12523,7 +12529,7 @@
   },
   {
     "Id": "C_ROUTTHESPIDERS_TEXT",
-    "Text": "For each defeated Goblin Handler, deal 1 damage to all spiders"
+    "Text": "Deal 1 damage to every <b><i>Spider</b></i> for each defeated Goblin Handler"
   },
   {
     "Id": "C_ROUTTHESPIDERS_FLAVOR",
@@ -12907,11 +12913,11 @@
   },
   {
     "Id": "C_TUTORIALFATEEVENT_TEXT",
-    "Text": "<i>Just when things look dire indeed, as if in answer to \nyour unspoken prayer, assistance arrives \nfrom an unexpected source!</i>\n\nDraw a card"
+    "Text": "Draw a card"
   },
   {
     "Id": "C_TUTORIALFATEEVENT_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>J</size><i>ust when things look dire indeed, assistance arrives from an unexpected source!</i>"
   },
   {
     "Id": "C_TUTORIALTHREATEVENT_TITLE",
@@ -12919,11 +12925,11 @@
   },
   {
     "Id": "C_TUTORIALTHREATEVENT_TEXT",
-    "Text": "<i>You hear a mighty hiss as a spray of green poison comes from the darkness. The emerald liquid strikes one your party and burns like acid!</i>  \r\n\r\nDeal 2 damage to a random Character"
+    "Text": "Deal 2 damage to a random Character"
   },
   {
     "Id": "C_TUTORIALTHREATEVENT_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>Y</size>ou hear a mighty hiss as a spray of green poison comes from the darkness. The emerald liquid strikes one your party and burns like acid!</i>  \r"
   },
   {
     "Id": "C_TESTCARDSPHERE_TITLE",
@@ -13219,7 +13225,7 @@
   },
   {
     "Id": "C_FINDYOURWAY_TEXT",
-    "Text": "[Cannot be attacked]\nWhen resolved, you may travel to Mirkwood Swamp"
+    "Text": "[Cannot be engaged]\nWhen resolved, you may travel to Mirkwood Swamp"
   },
   {
     "Id": "C_FINDYOURWAY_FLAVOR",
@@ -13231,7 +13237,7 @@
   },
   {
     "Id": "C_WARDENSOFLORIEN_TEXT",
-    "Text": "The quest is completed when this is resolved"
+    "Text": "When resolved, complete the quest"
   },
   {
     "Id": "C_WARDENSOFLORIEN_FLAVOR",
@@ -13315,7 +13321,7 @@
   },
   {
     "Id": "C_ESCAPE_TEXT",
-    "Text": "When resolve, complete the quest"
+    "Text": "When resolved, complete the quest"
   },
   {
     "Id": "C_ESCAPE_FLAVOR",
@@ -13344,5 +13350,577 @@
   {
     "Id": "Q_STAGE_THESPIDERSWEBS2_OBJECTIVE",
     "Text": "Defeat the bosses"
+  },
+  {
+    "Id": "Q_STAGE_THESPIDERSLAIR2_NAME",
+    "Text": "The Spiders' Lair"
+  },
+  {
+    "Id": "Q_STAGE_THESPIDERSLAIR2_TEXT",
+    "Text": "Searching, you find one of your friends struggling in their webs. They have a group of spiders around them..."
+  },
+  {
+    "Id": "Q_STAGE_THESPIDERSLAIR2_OBJECTIVE",
+    "Text": "Free your friend"
+  },
+  {
+    "Id": "Q_STAGE_C001Q04L1_NAME",
+    "Text": "Hiding in the Shadows"
+  },
+  {
+    "Id": "Q_STAGE_C001Q04L1_TEXT",
+    "Text": "Approaching the Tower, the creature guides you through a hidden path along the base of the hill. There are a few small groups of Orcs here, but if you are quiet and strike quickly, you may be able to advance without raising the alarm…"
+  },
+  {
+    "Id": "Q_STAGE_C001Q04L1_OBJECTIVE",
+    "Text": "Avoid the Patrols or Defeat all Enemies"
+  },
+  {
+    "Id": "Q_STAGE_C001Q04L2_NAME",
+    "Text": "Another Way"
+  },
+  {
+    "Id": "Q_STAGE_C001Q04L2_TEXT",
+    "Text": "<i><size=58>G</size>ollum is leading you into a back way into the imposing tower. Quietly pushing aside some carefully stacked debris, he looks at you eagerly to follow him inside…</i>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q04L2_OBJECTIVE",
+    "Text": "Resolve the <i>Enter the Tower</i> objective to proceed"
+  },
+  {
+    "Id": "Q_STAGE_C001Q04L3_NAME",
+    "Text": "Inside the Dark Tower"
+  },
+  {
+    "Id": "Q_STAGE_C001Q04L3_TEXT",
+    "Text": "<i><size=58>O</size>nce inside, you need to find out where Bilbo is! Looking around you find what appears to be the room where the commander of the tower lives… if anyone would have orders about Bilbo…</i>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q04L3_OBJECTIVE",
+    "Text": "Find the Orders"
+  },
+  {
+    "Id": "Q_STAGE_C001Q04L4_NAME",
+    "Text": "The Courtyard"
+  },
+  {
+    "Id": "Q_STAGE_C001Q04L4_TEXT",
+    "Text": "<i><size=58>G</size>ollum has run off! Running in pursuit, you quickly find yourself stumbling into the courtyard of the tower... this is not somewhere you want to be.</i>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q04L4_OBJECTIVE",
+    "Text": "Defeat all enemies"
+  },
+  {
+    "Id": "Q_STAGE_C001Q04L5_NAME",
+    "Text": "The Dungeons"
+  },
+  {
+    "Id": "Q_STAGE_C001Q04L5_TEXT",
+    "Text": "<i><size=58>Y</size>ou arrive at the dungeons, to find Bilbo in chains and unconscious. He looks to be in decent health considering. The goblins may have just taken him out of the cocoon and are letting him recover from the venom before interrogating him or shipping him elsewhere.</i>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q04L5_OBJECTIVE",
+    "Text": "Free Bilbo and Escape!"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L1_NAME",
+    "Text": "River's Edge"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L1_TEXT",
+    "Text": "<i><size=58>Y</size>ou stand at the shore of the Great River. To the south lies your destination: the Golden Wood of Lorien\r\nThough the trials of Mirkwood Forest lay behind you, the threat of pursuing Orcs remains. You make haste along the riverbank, looking for some means of shaking the Orcs off your trail. At last, you spot a raft which should speed your journey. \r\nAs you approach the craft, a shadow falls before you: a fearsome Hill Troll looms up from behind a cluster of rocks! He lunges toward you, his eyes gleaming with murderous intent…</i>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L1_OBJECTIVE",
+    "Text": "Resolve <i>Board the Raft</i> to allow travel from this Location. <color=red>Bilbo must survive</color>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L2_NAME",
+    "Text": "Anduin River"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L2_TEXT",
+    "Text": "<i><size=58>H</size>aving defeated the Troll, you scramble aboard the raft. Alas, while you may have left the Orcs on the shore, you face fresh danger as the Anduin carries you through a series of rapids! It will take all your skill to choose a safe course through the raging waters.</i>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L2_OBJECTIVE",
+    "Text": "Resolve <i>Left River Fork</i> or <i>Right River Fork</i> to allow travel to the next Location. <color=red>Bilbo must survive</color>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L3A_NAME",
+    "Text": "Perilous Shortcut"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L3A_TEXT",
+    "Text": "<i><size=58>D</size>eciding that a direct route is the best means of losing your pursuers, you steer the raft down a turbulent river channel. You soon realize this decision could spell your doom, unless you can avoid the jumbles of rock and swirling eddies…</i>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L3A_OBJECTIVE",
+    "Text": "Resolve <i>River Channel</i> to allow travel from this Location. <color=red>Bilbo must survive</color>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L3B_NAME",
+    "Text": "Untroubled Waters"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L3B_TEXT",
+    "Text": "<i><size=58>Y</size>ou steer the raft away from the rapids, along the opposite shore far from your pursuers. Here the waters are calmer than before, but the current remains swift and threatens to dash your flimsy craft upon rocks strewn along your course. You resolve to navigate your way to safety…</i>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L3B_OBJECTIVE",
+    "Text": "Resolve <i>River Bend</i> to allow travel from this Location. <color=red>Bilbo must survive</color>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L4_NAME",
+    "Text": "The Borders of the Golden Wood"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L4_TEXT",
+    "Text": "<i><size=58>G</size>etting off the raft near the edge of the forest, the group races towards the hopeful safety of Lorien, but it seems that you haven’t shaken all pursuit, and a large group of orcs bears down on you. There will be a fight before you can make it to the forest…</i>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q05L4_OBJECTIVE",
+    "Text": "Defeat all enemies or survive until Wardens of Lorien triggers. <color=red>Bilbo must survive</color>"
+  },
+  {
+    "Id": "Q_QUEST_JOURNEYTOLORIEN_NAME",
+    "Text": "Journey to Lorien"
+  },
+  {
+    "Id": "Q_QUEST_JOURNEYTOLORIEN_DESCRIPTION",
+    "Text": "Even as you leave the dangers of Mirkwood Forest behind, new threats arise as you make your way down the mighty Anduin River."
+  },
+  {
+    "Id": "Q_QUEST_JOURNEYTOLORIEN_VICTORY_TEXT",
+    "Text": "Q_QUEST_THESHADOWSREACHQUEST05_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_JOURNEYTOLORIEN_DEFEAT_TEXT",
+    "Text": "Q_QUEST_THESHADOWSREACHQUEST05_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_PURSUINGTHESPIDERS_NAME",
+    "Text": "Pursuing the Spiders"
+  },
+  {
+    "Id": "Q_QUEST_PURSUINGTHESPIDERS_DESCRIPTION",
+    "Text": "<color=red>Placeholder</color> <i><size=58>A</size>fter Bilbo was captured, Gloin who was injured, returned to Beorn's Hall to alert others. You have journeyed to Bilbo's last known location to see if you can pick up the trail...</i>"
+  },
+  {
+    "Id": "Q_QUEST_PURSUINGTHESPIDERS_VICTORY_TEXT",
+    "Text": "You have found the spiders that captured Bilbo!"
+  },
+  {
+    "Id": "Q_QUEST_PURSUINGTHESPIDERS_DEFEAT_TEXT",
+    "Text": "You have failed in your quest."
+  },
+  {
+    "Id": "C_ATESTNARRATION_TITLE",
+    "Text": "A Test Title"
+  },
+  {
+    "Id": "C_ATESTNARRATION_TEXT",
+    "Text": "All work and no play, means it’s time for an ice cream sundae. At least that’s the thinking behind STORY’s 41st retail concept: Out of Office. Part staycation, part invitation to play hooky from cubicles and conference calls, the summer-right follow up to “Future of Work” STORY offers up all the essentials to kick back All work and no play, means it’s time for an ice cream sundae. At least that’s the thinking behind STORY’s 41st retail concept: Out of Office. Part staycation, part invitation to play hooky from cubicles and conference calls, the summer-right follow up to “Future of Work” STORY offers up all the essentials to kick back "
+  },
+  {
+    "Id": "C_ATESTNARRATION_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_LEFTRIVERBRANCH_TITLE",
+    "Text": "Left River Branch"
+  },
+  {
+    "Id": "C_LEFTRIVERBRANCH_TEXT",
+    "Text": "When resolved, allows travel to Perilous Shortcut"
+  },
+  {
+    "Id": "C_LEFTRIVERBRANCH_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_RIGHTRIVERBRANCH_TITLE",
+    "Text": "Right River Branch"
+  },
+  {
+    "Id": "C_RIGHTRIVERBRANCH_TEXT",
+    "Text": "When resolved, allows travel to Untroubled Waters"
+  },
+  {
+    "Id": "C_RIGHTRIVERBRANCH_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_GRIMBEORNNARRATIVE_TITLE",
+    "Text": "The Rescue of Grimbeorn"
+  },
+  {
+    "Id": "C_GRIMBEORNNARRATIVE_TEXT",
+    "Text": "\t<size=200%>H</size>aving been freed of his chains, Grimbeorn claps you on the shoulder in thanks. You start upon the path toward the river, but he surprises you by heading deeper into the woods.\n\t\"More Trolls lurk nearby,\" he growls. \"We shall teach them the folly of crossing Grimbeorn the Old!\""
+  },
+  {
+    "Id": "C_GRIMBEORNNARRATIVE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "Q_CAMPAIGN_C001_NAME",
+    "Text": "Q_CAMPAIGN_C001_NAME"
+  },
+  {
+    "Id": "Q_QUEST_C001Q1_NAME",
+    "Text": "Q_QUEST_C001Q1_NAME"
+  },
+  {
+    "Id": "Q_QUEST_C001Q1_DESCRIPTION",
+    "Text": "Q_QUEST_C001Q1_DESCRIPTION"
+  },
+  {
+    "Id": "Q_QUEST_C001Q1_VICTORY_TEXT",
+    "Text": "Q_QUEST_C001Q1_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_C001Q1_DEFEAT_TEXT",
+    "Text": "Q_QUEST_C001Q1_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L1_NAME",
+    "Text": "Q_STAGE_C001Q1L1_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L1_TEXT",
+    "Text": "Q_STAGE_C001Q1L1_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L1_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q1L1_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L2_NAME",
+    "Text": "Q_STAGE_C001Q1L2_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L2_TEXT",
+    "Text": "Q_STAGE_C001Q1L2_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L2_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q1L2_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L3_NAME",
+    "Text": "Q_STAGE_C001Q1L3_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L3_TEXT",
+    "Text": "Q_STAGE_C001Q1L3_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L3_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q1L3_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L4_NAME",
+    "Text": "Q_STAGE_C001Q1L4_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L4_TEXT",
+    "Text": "Q_STAGE_C001Q1L4_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L4_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q1L4_OBJECTIVE"
+  },
+  {
+    "Id": "Q_QUEST_C001Q2_NAME",
+    "Text": "Q_QUEST_C001Q2_NAME"
+  },
+  {
+    "Id": "Q_QUEST_C001Q2_DESCRIPTION",
+    "Text": "Q_QUEST_C001Q2_DESCRIPTION"
+  },
+  {
+    "Id": "Q_QUEST_C001Q2_VICTORY_TEXT",
+    "Text": "Q_QUEST_C001Q2_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_C001Q2_DEFEAT_TEXT",
+    "Text": "Q_QUEST_C001Q2_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L1_NAME",
+    "Text": "Q_STAGE_C001Q2L1_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L1_TEXT",
+    "Text": "Q_STAGE_C001Q2L1_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L1_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q2L1_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L2_NAME",
+    "Text": "Q_STAGE_C001Q2L2_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L2_TEXT",
+    "Text": "Q_STAGE_C001Q2L2_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L2_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q2L2_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L3_NAME",
+    "Text": "Q_STAGE_C001Q2L3_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L3_TEXT",
+    "Text": "Q_STAGE_C001Q2L3_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L3_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q2L3_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L4_NAME",
+    "Text": "Q_STAGE_C001Q2L4_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L4_TEXT",
+    "Text": "Q_STAGE_C001Q2L4_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L4_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q2L4_OBJECTIVE"
+  },
+  {
+    "Id": "Q_QUEST_C001Q3_NAME",
+    "Text": "Q_QUEST_C001Q3_NAME"
+  },
+  {
+    "Id": "Q_QUEST_C001Q3_DESCRIPTION",
+    "Text": "Q_QUEST_C001Q3_DESCRIPTION"
+  },
+  {
+    "Id": "Q_QUEST_C001Q3_VICTORY_TEXT",
+    "Text": "Q_QUEST_C001Q3_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_C001Q3_DEFEAT_TEXT",
+    "Text": "Q_QUEST_C001Q3_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L1_NAME",
+    "Text": "Q_STAGE_C001Q3L1_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L1_TEXT",
+    "Text": "Q_STAGE_C001Q3L1_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L1_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q3L1_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2A_NAME",
+    "Text": "Q_STAGE_C001Q3L2A_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2A_TEXT",
+    "Text": "Q_STAGE_C001Q3L2A_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2A_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q3L2A_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2B_NAME",
+    "Text": "Q_STAGE_C001Q3L2B_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2B_TEXT",
+    "Text": "Q_STAGE_C001Q3L2B_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2B_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q3L2B_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3A_NAME",
+    "Text": "Q_STAGE_C001Q3L3A_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3A_TEXT",
+    "Text": "Q_STAGE_C001Q3L3A_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3A_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q3L3A_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3B_NAME",
+    "Text": "Q_STAGE_C001Q3L3B_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3B_TEXT",
+    "Text": "Q_STAGE_C001Q3L3B_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3B_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q3L3B_OBJECTIVE"
+  },
+  {
+    "Id": "Q_QUEST_C001Q4_NAME",
+    "Text": "Q_QUEST_C001Q4_NAME"
+  },
+  {
+    "Id": "Q_QUEST_C001Q4_DESCRIPTION",
+    "Text": "Q_QUEST_C001Q4_DESCRIPTION"
+  },
+  {
+    "Id": "Q_QUEST_C001Q4_VICTORY_TEXT",
+    "Text": "Q_QUEST_C001Q4_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_C001Q4_DEFEAT_TEXT",
+    "Text": "Q_QUEST_C001Q4_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L1_NAME",
+    "Text": "Q_STAGE_C001Q4L1_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L1_TEXT",
+    "Text": "Q_STAGE_C001Q4L1_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L1_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q4L1_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L2_NAME",
+    "Text": "Q_STAGE_C001Q4L2_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L2_TEXT",
+    "Text": "Q_STAGE_C001Q4L2_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L2_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q4L2_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L3_NAME",
+    "Text": "Q_STAGE_C001Q4L3_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L3_TEXT",
+    "Text": "Q_STAGE_C001Q4L3_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L3_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q4L3_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L4_NAME",
+    "Text": "Q_STAGE_C001Q4L4_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L4_TEXT",
+    "Text": "Q_STAGE_C001Q4L4_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L4_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q4L4_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L5_NAME",
+    "Text": "Q_STAGE_C001Q4L5_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L5_TEXT",
+    "Text": "Q_STAGE_C001Q4L5_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L5_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q4L5_OBJECTIVE"
+  },
+  {
+    "Id": "Q_QUEST_C001Q5_NAME",
+    "Text": "Q_QUEST_C001Q5_NAME"
+  },
+  {
+    "Id": "Q_QUEST_C001Q5_DESCRIPTION",
+    "Text": "Q_QUEST_C001Q5_DESCRIPTION"
+  },
+  {
+    "Id": "Q_QUEST_C001Q5_VICTORY_TEXT",
+    "Text": "Q_QUEST_C001Q5_VICTORY_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_C001Q5_DEFEAT_TEXT",
+    "Text": "Q_QUEST_C001Q5_DEFEAT_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L1_NAME",
+    "Text": "Q_STAGE_C001Q5L1_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L1_TEXT",
+    "Text": "Q_STAGE_C001Q5L1_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L1_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q5L1_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L2_NAME",
+    "Text": "Q_STAGE_C001Q5L2_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L2_TEXT",
+    "Text": "Q_STAGE_C001Q5L2_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L2_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q5L2_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3A_NAME",
+    "Text": "Q_STAGE_C001Q5L3A_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3A_TEXT",
+    "Text": "Q_STAGE_C001Q5L3A_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3A_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q5L3A_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3B_NAME",
+    "Text": "Q_STAGE_C001Q5L3B_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3B_TEXT",
+    "Text": "Q_STAGE_C001Q5L3B_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3B_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q5L3B_OBJECTIVE"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L4_NAME",
+    "Text": "Q_STAGE_C001Q5L4_NAME"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L4_TEXT",
+    "Text": "Q_STAGE_C001Q5L4_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L4_OBJECTIVE",
+    "Text": "Q_STAGE_C001Q5L4_OBJECTIVE"
   }
 ]

@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "<i><line-height=100%><size=200%>C</size>utting free of the sticky webbing, you ready for action!</i>",
     "ArtistName": "",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +39,6 @@
   },
   "Localization": {
     "Title": "Cutting the Webs",
-    "Text": "<line-height=50%><i>Cutting free of the sticky webbing, you ready for action!</i>\n</line-height>\nDraw 2 cards"
+    "Text": "Draw 2 cards"
   }
 }
