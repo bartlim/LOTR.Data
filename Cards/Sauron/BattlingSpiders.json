@@ -1,11 +1,11 @@
 {
   "CardData": {
-    "Id": "LumpyCocoon",
+    "Id": "BattlingSpiders",
     "Owner": "Sauron",
     "CardType": 6,
     "ShopType": "Starter",
     "Cost": 0,
-    "QuestPoints": 6,
+    "QuestPoints": 4,
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
@@ -38,7 +38,7 @@
     "IconMD5": null
   },
   "Localization": {
-    "Title": "Bulging Cocoon",
-    "Text": "Open to reveal what is inside"
+    "Title": "Battling Spiders",
+    "Text": "Cannot be engaged.\nFor each <b><i>Spider</b></i> defeated, \napply 1 progress to this quest"
   }
 }
