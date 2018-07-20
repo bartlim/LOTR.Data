@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "\"I only hope you will not need rescuing before the day is out.\"\r\n—Fatty Bolger, <i>The Fellowship of the Ring</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -31,7 +31,8 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": [],
     "ArtworkMD5": "7ad00bb0793892fd24d5b4fcd7d6751a",
     "BannerMD5": "71733bb96a022d8aa5cc6d311bf27387",
     "IconMD5": null
