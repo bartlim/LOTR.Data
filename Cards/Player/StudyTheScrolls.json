@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "\"But unless you have more skill even than Saruman, who has studied here long, you will find naught that is not well known to me, who am master of the lore of this City.\"\r\n—Denethor, <i>The Fellowship of the Ring</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -31,12 +31,14 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": "eda4e17ecd159c20af58189eabb03277"
   },
   "Localization": {
     "Title": "Study the Scrolls",
-    "Text": "The next Event you play returns to your hand after its effect is resolved"
+    "Text": "The next Event you play \nreturns to your hand after its effect occurs"
   }
 }
