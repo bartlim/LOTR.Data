@@ -1585,7 +1585,7 @@
             {
               "Id": "C001Q1L2",
               "SceneName": "Q01_L04_TheEnchantedStream",
-              "IntroMusic": null,
+              "IntroMusic": "mus_deckmenu",
               "IntroVoice": "",
               "IntroSprite": "TheShadowsReachQuest01CrossingTheEnchantedStreamIntroSprite",
               "SoloGameSetup": [
@@ -1604,7 +1604,7 @@
               "IntroVoice": "",
               "IntroSprite": "TheShadowsReachQuest01AnUnexpectedEnemyIntroSprite",
               "SoloGameSetup": [
-                "BattlingSpiders",
+                "ThrashingCocoon",
                 "GiantSpider",
                 "ForestSpider",
                 "SpiderGuard",
@@ -1612,7 +1612,12 @@
               ],
               "NextStageId": "C001Q1L4",
               "BGM": "mus_cave",
-              "FateCardList": [],
+              "FateCardList": [
+                {
+                  "Id": "FateThrashingCocoon",
+                  "Threshold": 7
+                }
+              ],
               "ThreatCardList": null
             },
             {
