@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "…he got right up to the fire—for fire it was—without disturbing anyone.\r\n—<i>The Hobbit</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -31,12 +31,14 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Fearless Scout",
-    "Text": "<line-height=100%><b>Vanquish</b>: Give +1 <size=120%><sprite=5></size> to a Character this round"
+    "Text": "<line-height=100%><b>Vanquish</b>: Give a Character \n+1 <size=120%><sprite=5></size> this round"
   }
 }
