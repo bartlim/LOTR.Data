@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "Then the Riders of the King’s House upon white horses rode round about the barrow and sang together a song of Théoden Thengel’s son that Gléowine his minstrel made…\r\n—<i>The Return of the King</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -31,13 +31,14 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
     "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
-    "Title": "‰Gleowine",
-    "Text": "<line-height=100%><b>Power</b>: Spend 1 <size=120%><sprite=3></size> and exhaust Gleowine to draw a card"
+    "Title": "‰Gléowine",
+    "Text": "<line-height=100%><b>Power</b>: Spend 1 <size=120%><sprite=3></size> and exhaust Gléowine to draw a card"
   }
 }
