@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "<i><line-height=100%><size=200%>A</size> barrage of boulders flies through the air to smash into your party!",
     "ArtistName": "",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +39,6 @@
   },
   "Localization": {
     "Title": "Rain of Boulders",
-    "Text": "<line-height=50%><i>Flying boulders smash into your party!</i>\n</line-height>\nDeal 2 damage to all friendly Characters"
+    "Text": "Deal 2 damage to every Character"
   }
 }
