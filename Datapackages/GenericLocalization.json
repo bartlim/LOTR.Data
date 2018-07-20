@@ -12997,11 +12997,11 @@
   },
   {
     "Id": "C_TOWERPATROL_TEXT",
-    "Text": "<b>Revenge</b>: Gain +1 <size=120%><sprite=4></size>. \nThen 1 <i>Ranging Goblin</i> and 1 <i>East Bight Patrol</i> enter play"
+    "Text": "<line-height=100%><b>Revenge</b>: Gain +1 <size=120%><sprite=4></size>; \nthen add 1 Ranging Goblin and \n1 East Bight Patrol"
   },
   {
     "Id": "C_TOWERPATROL_FLAVOR",
-    "Text": ""
+    "Text": "…as they stood they saw all the Nazgûl gathered together, hovering above the Towers of the Teeth like vultures…\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_GOLLUM_TITLE",
