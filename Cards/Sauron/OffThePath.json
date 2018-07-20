@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "\"There are no safe paths in this part of the world.\"\r\n—Gandalf, <i>The Fellowship of the Ring</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -39,6 +39,6 @@
   },
   "Localization": {
     "Title": "Off the Path",
-    "Text": "When resolved, you may travel to Mirkwood Swamp"
+    "Text": "Resolve to allow travel"
   }
 }
