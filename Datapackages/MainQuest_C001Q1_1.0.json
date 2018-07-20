@@ -288,7 +288,7 @@
       {
         "Title": "C001Q1L3",
         "SoloGameSetup": [
-          "BattlingSpiders",
+          "ThrashingCocoon",
           "GiantSpider",
           "ForestSpider",
           "SpiderGuard",
@@ -299,7 +299,12 @@
         "NextStageTitles": [
           "C001Q1L4"
         ],
-        "FateCardList": [],
+        "FateCardList": [
+          {
+            "Id": "FateThrashingCocoon",
+            "Threshold": 7
+          }
+        ],
         "ThreatCardList": null
       },
       {
@@ -350,9 +355,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180719171117554",
+  "Version": "20180720162607661",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180719171117554"
+  "InternalKey": "MainQuest_C001Q1_20180720162607661"
 }
