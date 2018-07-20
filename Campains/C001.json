@@ -51,7 +51,7 @@
           "IntroVoice": "",
           "IntroSprite": "TheShadowsReachQuest01AnUnexpectedEnemyIntroSprite",
           "SoloGameSetup": [
-            "BattlingSpiders",
+            "ThrashingCocoon",
             "GiantSpider",
             "ForestSpider",
             "SpiderGuard",
@@ -59,7 +59,12 @@
           ],
           "NextStageId": "C001Q1L4",
           "BGM": "mus_cave",
-          "FateCardList": [],
+          "FateCardList": [
+            {
+              "Id": "FateThrashingCocoon",
+              "Threshold": 7
+            }
+          ],
           "ThreatCardList": null
         },
         {
