@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "There were toys the like of which they had never seen… and had come all the way from the Mountain and from Dale…\r\n—<i>The Fellowship of the Ring</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -31,12 +31,14 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": "d0dc69ea4fda935a38fa21b23fdfedef"
   },
   "Localization": {
     "Title": "Traffic from Dale",
-    "Text": "Gain +1 <size=120%><sprite=3></size> for each Character with an Attachment"
+    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=3></size> for each Character with an Attachment"
   }
 }
