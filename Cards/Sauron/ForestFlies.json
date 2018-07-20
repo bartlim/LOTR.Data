@@ -20,7 +20,7 @@
     "AttackSFX": "event_attack_sword_e",
     "DeathVFX": "Effect_Death3",
     "DeathSFX": "die_both_e",
-    "FlavorText": "",
+    "FlavorText": "There was a silence, for suddenly the dark and unknown forest, so near at hand, made itself felt as a great brooding presence, full of secret purpose.\r\n—<i>The Two Towers",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "9bdb7c524bacdcd7561409c1d329213f",
     "BannerMD5": null,
-    "IconMD5": null,
-    "CanBePlayedDuringTravel": true
+    "IconMD5": null
   },
   "Localization": {
     "Title": "Forest Flies",
