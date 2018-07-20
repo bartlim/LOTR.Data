@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "\"…they are grim men of face, worn like weathered rocks for the most part, even as Aragorn himself; and they are silent.\"\r\n—Gimli, <i>The Return of the King</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -31,12 +31,14 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
-    "Title": "Ranger of the Lone-Lands",
+    "Title": "<size=97%>Ranger of the Lone-lands",
     "Text": "<b>Ranged</b>. <b>Stealth</b>"
   }
 }
