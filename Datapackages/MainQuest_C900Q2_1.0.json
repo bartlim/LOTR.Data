@@ -91,12 +91,7 @@
           ""
         ],
         "FateCardList": [],
-        "ThreatCardList": [
-          {
-            "Id": "GollumsBite",
-            "Threshold": 9
-          }
-        ]
+        "ThreatCardList": []
       }
     ],
     "Sequences": [],
@@ -105,9 +100,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180723090639267",
+  "Version": "20180723091100538",
   "Key": "MainQuest",
   "SubKey": "C900Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C900Q2_20180723090639267"
+  "InternalKey": "MainQuest_C900Q2_20180723091100538"
 }
