@@ -286,7 +286,7 @@
         "ThreatCardList": [
           {
             "Id": "GollumsBite",
-            "Threshold": 3
+            "Threshold": 5
           }
         ]
       },
@@ -360,9 +360,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180723090322800",
+  "Version": "20180723093359204",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180723090322800"
+  "InternalKey": "MainQuest_C001Q1_20180723093359204"
 }
