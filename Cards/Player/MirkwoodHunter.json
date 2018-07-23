@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "“There lies the fastness of Southern Mirkwood…”\r\n—Haldir, <i>The Fellowship of the Ring</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -31,7 +31,8 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null

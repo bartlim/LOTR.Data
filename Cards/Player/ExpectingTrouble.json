@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "\"There is more trouble coming to us, mark my words!\"\r\n—Gimli, <i>The Two Towers</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -31,6 +31,8 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null

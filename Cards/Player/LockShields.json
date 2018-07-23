@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "…he thought to make a great shield-wall at the last, and stand, and fight there on foot till all fell…\r\n—<i>The Return of the King</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -31,6 +31,8 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null

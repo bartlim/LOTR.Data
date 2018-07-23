@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "…the spiders began to come back, more full of rage than ever. Bilbo immediately went to the end of the branch nearest the tree-trunk and kept back those that crawled up.\r\n—<i>The Hobbit</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -39,6 +39,6 @@
   },
   "Localization": {
     "Title": "Defend the Cocoons",
-    "Text": "[Cannot be attacked]\nDefend the Cocoons from the Enemy!"
+    "Text": "Cannot engage. \r\nDefend for a number of rounds equal to the Quest value.\nResolve to allow travel"
   }
 }

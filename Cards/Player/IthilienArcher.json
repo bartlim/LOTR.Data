@@ -20,7 +20,7 @@
     "AttackSFX": "event_attack_arrow_e",
     "DeathVFX": "Effect_Death",
     "DeathSFX": "die_both_e",
-    "FlavorText": "C_ITHILIENARCHER_FLAVOR",
+    "FlavorText": "For that guard they chose mostly archers who knew the ways of Ithilien and would lie hid in the woods and slopes about the meeting of the ways.\r\n—<i>The Return of the King</i>",
     "ArtistName": "Carmen Cianelti",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -31,6 +31,8 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": [],
     "ArtworkMD5": "395bd7bd01cd5d66538e6bb161c7e4a5",
     "BannerMD5": null,
     "IconMD5": "e947fa316027b4c496853f3f31a23893"

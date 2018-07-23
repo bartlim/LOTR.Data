@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "Like thunder they broke upon the enemy on either flank of the retreat…\r\n—<i>The Return of the King</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -39,6 +39,6 @@
   },
   "Localization": {
     "Title": "Flanked",
-    "Text": "<b>Upkeep</b>: Deal 2 damage to a random Hero if Sauron has more cards in play than the player"
+    "Text": "<b>Upkeep</b>: Until resolved, deal \n2 damage to a random Hero if Sauron has the most cards in play"
   }
 }

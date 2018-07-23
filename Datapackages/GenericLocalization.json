@@ -4080,6 +4080,12 @@
     "Text_FR": "The battle stage is full!"
   },
   {
+    "Id": "U_FATE_NOT_ENOUGH_FATE",
+    "Text": "Not Enough Fate!",
+    "Text_CN": "[C]菲特不足！",
+    "Text_FR": "Not Enough Fate!"
+  },
+  {
     "Id": "PLACEHOLDER2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -5257,7 +5263,7 @@
   },
   {
     "Id": "C_CLIMBTHEHILL_TEXT",
-    "Text": "When resolved, you may travel to Bare Hilltop"
+    "Text": "Resolve to allow travel \nto Bare Hilltop"
   },
   {
     "Id": "C_CLIMBTHEHILL_TITLE",
@@ -5265,11 +5271,11 @@
   },
   {
     "Id": "C_COCOON_FLAVOR",
-    "Text": "He managed by leaning over to cut most of the strong sticky threads that bound him round, and then, sure enough, with a kick and a struggle most of Fili emerged. \n—<i>The Hobbit</i>"
+    "Text": "…between them they started to haul up first one dwarf and then another and slash them free. \r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_COCOON_TEXT",
-    "Text": "When resolved, you tear open \nthe Cocoon and reveal what is trapped inside!"
+    "Text": "Resolve to tear open \nthe Cocoon and reveal what is trapped inside!"
   },
   {
     "Id": "C_COCOON_TITLE",
@@ -5293,7 +5299,7 @@
   },
   {
     "Id": "C_CONTINUEDOWNSTREAM_TEXT",
-    "Text": "When resolved, you may travel \nto Mirkwood Swamp"
+    "Text": "Resolve to allow travel \nto Mirkwood Swamp"
   },
   {
     "Id": "C_CONTINUEDOWNSTREAM_TITLE",
@@ -5329,7 +5335,7 @@
   },
   {
     "Id": "C_DELAYUNTILDAWN_TEXT",
-    "Text": "When resolved, dawn breaks \nand turns every <b><i>Troll</b></i> to stone!"
+    "Text": "Resolve to hold on until \ndawn breaks and turns every <b><i>Troll</b></i> to stone!"
   },
   {
     "Id": "C_DELAYUNTILDAWN_TITLE",
@@ -5529,7 +5535,7 @@
   },
   {
     "Id": "C_ESCAPETHEFOREST_TEXT",
-    "Text": "When resolved, you find your way out of Mirkwood"
+    "Text": "Resolve to find your way \nout of Mirkwood!"
   },
   {
     "Id": "C_ESCAPETHEFOREST_TITLE",
@@ -5541,7 +5547,7 @@
   },
   {
     "Id": "C_ESCAPETHESPIDERSLAIR_TEXT",
-    "Text": "When resolved, you may travel from this Location"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_ESCAPETHESPIDERSLAIR_TITLE",
@@ -5601,7 +5607,7 @@
   },
   {
     "Id": "C_EXPLORETHECAVE_TEXT",
-    "Text": "When resolved, you may travel from this Location"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_EXPLORETHECAVE_TITLE",
@@ -5673,7 +5679,7 @@
   },
   {
     "Id": "C_FINDSAFEPASSAGE_TEXT",
-    "Text": "When resolved, you may travel from this Location"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_FINDSAFEPASSAGE_TITLE",
@@ -5685,7 +5691,7 @@
   },
   {
     "Id": "C_FINDSHELTER_TEXT",
-    "Text": "When resolved, you may travel from this Location"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_FINDSHELTER_TITLE",
@@ -5697,7 +5703,7 @@
   },
   {
     "Id": "C_FINDTHEPATH_TEXT",
-    "Text": "When resolved, you may travel from this Location"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_FINDTHEPATH_TITLE",
@@ -5709,7 +5715,7 @@
   },
   {
     "Id": "C_FINDYOURBEARINGS_TEXT",
-    "Text": "When resolved, the captured cards return to their owner's hand"
+    "Text": "Resolve to return the captured cards to their owner's hand"
   },
   {
     "Id": "C_FINDYOURBEARINGS_TITLE",
@@ -5721,7 +5727,7 @@
   },
   {
     "Id": "C_FINDYOURFRIENDS_TEXT",
-    "Text": "When resolved, you may travel from this Location"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_FINDYOURFRIENDS_TITLE",
@@ -5733,7 +5739,7 @@
   },
   {
     "Id": "C_FOLLOWGRIMBEORNSTRAIL_TEXT",
-    "Text": "When resolved, you may travel from this Location"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_FOLLOWGRIMBEORNSTRAIL_TITLE",
@@ -5745,7 +5751,7 @@
   },
   {
     "Id": "C_FOLLOWTHESTREAM_TEXT",
-    "Text": "When resolved, you may travel \nto Forest Stream"
+    "Text": "Resolve to allow travel\nto Forest Stream"
   },
   {
     "Id": "C_FOLLOWTHESTREAM_TITLE",
@@ -6073,7 +6079,7 @@
   },
   {
     "Id": "C_HIDDENPATH_TEXT",
-    "Text": "When resolved, you may travel from this Location"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_HIDDENPATH_TITLE",
@@ -6169,7 +6175,7 @@
   },
   {
     "Id": "C_INVESTIGATESMOKE_TEXT",
-    "Text": "When resolved, you may travel \nto Abandoned Village"
+    "Text": "Resolve to allow travel \nto Abandoned Village"
   },
   {
     "Id": "C_INVESTIGATESMOKE_TITLE",
@@ -6177,7 +6183,7 @@
   },
   {
     "Id": "C_ITHILIENARCHER_FLAVOR",
-    "Text": "C_ITHILIENARCHER_FLAVOR"
+    "Text": "For that guard they chose mostly archers who knew the ways of Ithilien and would lie hid in the woods and slopes about the meeting of the ways.\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_ITHILIENARCHER_TEXT",
@@ -6229,7 +6235,7 @@
   },
   {
     "Id": "C_LEFTRIVERFORK_TEXT",
-    "Text": "When resolved, you may travel \nto Treacherous Shortcut"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_LEFTRIVERFORK_TITLE",
@@ -6285,21 +6291,15 @@
   },
   {
     "Id": "C_LORIENSWEALTH_FLAVOR",
-    "Text": "\"That is the fairest of all the dwellings of my people. There are no trees like the tress of that land.\"\n —Legolas, <i>The Fellowship of the Ring</i>",
-    "Text_CN": "\"That is the fairest of all the dwellings of my people. There are no trees like the tress of that land.\"\n—Legolas, <i>The Fellowship of the Ring</i>",
-    "Text_FR": "\"That is the fairest of all the dwellings of my people. There are no trees like the tress of that land.\"\n—Legolas, <i>The Fellowship of the Ring</i>"
+    "Text": "\"That is the fairest of all the dwellings of my people. There are no trees like the tress of that land.\"\n —Legolas, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_LORIENSWEALTH_TEXT",
-    "Text": "Draw 2 cards",
-    "Text_CN": "摸取2张卡牌。",
-    "Text_FR": "Piochez 2 cartes."
+    "Text": "Draw 2 cards"
   },
   {
     "Id": "C_LORIENSWEALTH_TITLE",
-    "Text": "Lorien's Wealth",
-    "Text_CN": "罗瑞恩的财富",
-    "Text_FR": "Opulence de la Lórien"
+    "Text": "Lorien's Wealth"
   },
   {
     "Id": "C_LOSTINTHEWILDERNESS_FLAVOR",
@@ -6339,7 +6339,7 @@
   },
   {
     "Id": "C_MABLUNG_FLAVOR",
-    "Text": "But the Captains of the West were well warned by their scouts, skilled men from Henneth Annûn led by Mablung… \n<i>—The Return of the King</i>"
+    "Text": "But the Captains of the West were well warned by their scouts, skilled men from Henneth Annûn led by Mablung… \n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_MABLUNG_TEXT",
@@ -6439,7 +6439,7 @@
   },
   {
     "Id": "C_NAVIGATETHERIVER_TEXT",
-    "Text": "When resolved, you may travel from this Location"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_NAVIGATETHERIVER_TITLE",
@@ -6601,7 +6601,7 @@
   },
   {
     "Id": "C_RANGERPROVISIONS_TEXT",
-    "Text": "When resolved, gain +1 <size=120%><sprite=3></size>"
+    "Text": "Resolve to gain +1 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_RANGERPROVISIONS_TITLE",
@@ -6661,7 +6661,7 @@
   },
   {
     "Id": "C_RESCUEGRIMBEORN_TEXT",
-    "Text": "When resolved, you release Grimbeorn and may travel \nto the next Location"
+    "Text": "Resolve to release Grimbeorn \nand allow travel"
   },
   {
     "Id": "C_RESCUEGRIMBEORN_TITLE",
@@ -6673,7 +6673,7 @@
   },
   {
     "Id": "C_RESCUETHEHORSES_TEXT",
-    "Text": "<line-height=100%>When resolved, \neach player gains +2 <size=120%><sprite=3></size>"
+    "Text": "<line-height=100%>Resolve to give each player +2 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_RESCUETHEHORSES_TITLE",
@@ -6685,7 +6685,7 @@
   },
   {
     "Id": "C_RESCUEYOURFRIENDS_TEXT",
-    "Text": "When resolved, you \nrelease every captured Hero"
+    "Text": "Resolve to release every \ncaptured Hero"
   },
   {
     "Id": "C_RESCUEYOURFRIENDS_TITLE",
@@ -6709,7 +6709,7 @@
   },
   {
     "Id": "C_RIGHTRIVERFORK_TEXT",
-    "Text": "When resolved, you may travel \nto Gentle Waters"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_RIGHTRIVERFORK_TITLE",
@@ -6721,7 +6721,7 @@
   },
   {
     "Id": "C_RIVERBEND_TEXT",
-    "Text": "When resolved, you may travel from this Location"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_RIVERBEND_TITLE",
@@ -6733,7 +6733,7 @@
   },
   {
     "Id": "C_RIVERCHANNEL_TEXT",
-    "Text": "When resolved, you may travel from this Location"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_RIVERCHANNEL_TITLE",
@@ -6817,7 +6817,7 @@
   },
   {
     "Id": "C_SEARCHFORAPATH_TEXT",
-    "Text": "When resolved, you may travel \nto Overgrown Trail"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_SEARCHFORAPATH_TITLE",
@@ -6825,7 +6825,7 @@
   },
   {
     "Id": "C_SEARCHTHEAREA_TEXT",
-    "Text": "When resolved, you may travel from this Location"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_SEARCHTHEAREA_TITLE",
@@ -6869,7 +6869,7 @@
   },
   {
     "Id": "C_SILVANTRACKER_FLAVOR",
-    "Text": "\"The Wood–elves tracked him first, an easy task for them, for his trail was still fresh then.\" \n—Gandalf, <i>The Fellowship of the Rings</i>"
+    "Text": "\"The Wood–elves tracked him first, an easy task for them, for his trail was still fresh then.\" \n—Gandalf, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_SILVANTRACKER_TEXT",
@@ -6929,7 +6929,7 @@
   },
   {
     "Id": "C_SPIDERSNEST_TEXT",
-    "Text": "<size=95%>Cannot engage while \nKing Spider is in play.</size>\nWhen resolved, you destroy the spiders' nest!"
+    "Text": "<size=95%>Cannot engage while \nKing Spider is in play.</size>\nResolve to destroy the spiders' nest!"
   },
   {
     "Id": "C_SPIDERSNEST_TITLE",
@@ -7001,7 +7001,7 @@
   },
   {
     "Id": "C_SQUIRMINGCOCOON_TEXT",
-    "Text": "When resolved, you rescue \nthe captive from the spiders' \nthick webs!"
+    "Text": "Resolve to rescue the captive from the spiders' thick webs!"
   },
   {
     "Id": "C_SQUIRMINGCOCOON_TITLE",
@@ -7103,7 +7103,7 @@
   },
   {
     "Id": "C_THECLOAKEDSTRANGER_TEXT",
-    "Text": "When resolved, you rescue \nthe cloaked stranger from the spiders' ambush!"
+    "Text": "Resolve to rescue the cloaked stranger from the spiders' ambush!"
   },
   {
     "Id": "C_THECLOAKEDSTRANGER_TITLE",
@@ -7193,7 +7193,7 @@
   },
   {
     "Id": "C_TROLLSACK_TEXT",
-    "Text": "When resolved, you release the trapped Character"
+    "Text": "Resolve to release the trapped Character"
   },
   {
     "Id": "C_TROLLSACK_TITLE",
@@ -7519,7 +7519,7 @@
   },
   {
     "Id": "C_MAGICRING_FLAVOR",
-    "Text": ""
+    "Text": "\"In Eregion long ago many Elven-rings were made, magic rings as you call them, and they were, of course, of various kinds: some more potent and some less.\"\r\n—Gandalf, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_MAGICRING_TITLE",
@@ -7527,11 +7527,11 @@
   },
   {
     "Id": "C_MAGICRING_TEXT",
-    "Text": "<line-height=100%><b>Power</b>: Gain +1 <size=120%><sprite=4></size>; then\nchoose to gain +1 <size=120%><sprite=3></size>; or restore \n1 <size=120%><sprite=2></size> to attached Character"
+    "Text": "<line-height=100%><b>Power</b>: Gain +1 <size=120%><sprite=4></size>; then choose to gain +1 <size=120%><sprite=3></size> or restore 1 <size=120%><sprite=2></size> \nto attached Character"
   },
   {
     "Id": "C_RADAGAST_FLAVOR",
-    "Text": ""
+    "Text": "\"I have an urgent errand. My news is evil.\"\r\n—Radagast, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_RADAGAST_TITLE",
@@ -7543,7 +7543,7 @@
   },
   {
     "Id": "C_HELPFULSQUIRREL_FLAVOR",
-    "Text": ""
+    "Text": "There were black squirrels in the wood.\r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_HELPFULSQUIRREL_TITLE",
@@ -7555,7 +7555,7 @@
   },
   {
     "Id": "C_FRIENDLYBEAR_FLAVOR",
-    "Text": ""
+    "Text": "The lands ahead were empty of all save birds and beasts…\r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_FRIENDLYBEAR_TITLE",
@@ -7567,7 +7567,7 @@
   },
   {
     "Id": "C_BROKIRONFIST_FLAVOR",
-    "Text": ""
+    "Text": "…there is no knowing what a dwarf will not dare and do for revenge or the recovery of his own.\r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_BROKIRONFIST_TITLE",
@@ -7575,11 +7575,11 @@
   },
   {
     "Id": "C_BROKIRONFIST_TEXT",
-    "Text": "<line-height=100%><b>Guard</b>.\nIf a <b><i>Dwarf</b></i> Hero is defeated while\nBrok Ironfist is in your hand, \nplay this card for 0 <size=120%><sprite=3></size>"
+    "Text": "<line-height=100%><b>Guard</b>. If a <b><i>Dwarf</b></i>  Hero is \ndefeated while Brok Ironfist is in \nyour hand, play this card for 0 <size=120%><sprite=3></size> "
   },
   {
     "Id": "C_IMLADRISSTARGAZER_FLAVOR",
-    "Text": ""
+    "Text": "O Elbereth! Gilthoniel!\r\nWe still remember, we who dwell\r\nIn this far land beneath the trees,\r\nThy starlight on the Western Seas\r\n—Elven Exiles, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_IMLADRISSTARGAZER_TITLE",
@@ -7591,11 +7591,11 @@
   },
   {
     "Id": "C_EOTHAIN_FLAVOR",
-    "Text": ""
+    "Text": "“We must hasten south, lord. Let us leave these wild folk to their fancies. Or let us bind them and take them to the king.”\r\n—Éothain, <i>The Two Towers</i>"
   },
   {
     "Id": "C_EOTHAIN_TITLE",
-    "Text": "‰Eothain"
+    "Text": "‰Éothain"
   },
   {
     "Id": "C_EOTHAIN_TEXT",
@@ -7603,7 +7603,7 @@
   },
   {
     "Id": "C_DEEPKNOWLEDGE_FLAVOR",
-    "Text": ""
+    "Text": "\"His knowledge is deep, but his pride has grown with it…\"\r\n—Gandalf, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_DEEPKNOWLEDGE_TITLE",
@@ -7615,7 +7615,7 @@
   },
   {
     "Id": "C_FARMERMAGGOT_FLAVOR",
-    "Text": ""
+    "Text": "\"It’s lucky for you that I know you. I was just going out to set my dogs on any strangers.\"\r\n—Farmer Maggot, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_FARMERMAGGOT_TITLE",
@@ -7627,7 +7627,7 @@
   },
   {
     "Id": "C_FARMERMAGGOTSHOUNDS_FLAVOR",
-    "Text": ""
+    "Text": "…a terrific baying and barking broke out, and a loud voice was heard shouting: “Grip! Fang! Wolf! Come on, lads!”\r\n—Farmer Maggot, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_FARMERMAGGOTSHOUNDS_TITLE",
@@ -7639,7 +7639,7 @@
   },
   {
     "Id": "C_HOUROFWRATH_FLAVOR",
-    "Text": ""
+    "Text": "These three were unscathed, for such was their fortune and the skill and might of their arms, and few indeed had dared to abide them or look on their faces in the hour of their wrath.\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_HOUROFWRATH_TITLE",
@@ -7651,7 +7651,7 @@
   },
   {
     "Id": "C_FORGONDOR_FLAVOR",
-    "Text": ""
+    "Text": "And the Tree that was withered shall be renewed,\r\nand he shall plant it in the high places,\r\nand the City shall be blessed.\r\n—a great Eagle, <i>The Return of the King</i>"
   },
   {
     "Id": "C_FORGONDOR_TITLE",
@@ -7663,7 +7663,7 @@
   },
   {
     "Id": "C_TRAFFICFROMDALE_FLAVOR",
-    "Text": ""
+    "Text": "There were toys the like of which they had never seen… and had come all the way from the Mountain and from Dale…\r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_TRAFFICFROMDALE_TITLE",
@@ -7671,15 +7671,15 @@
   },
   {
     "Id": "C_TRAFFICFROMDALE_TEXT",
-    "Text": "Gain +1 <size=120%><sprite=3></size> for each Character with an Attachment"
+    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=3></size> for each Character with an Attachment"
   },
   {
     "Id": "C_SWORDOFNUMENOR_FLAVOR",
-    "Text": ""
+    "Text": "…the flowing characters of Númenor glinted like fire upon the blade.\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_SWORDOFNUMENOR_TITLE",
-    "Text": "Sword of Numenor"
+    "Text": "Sword of Númenor"
   },
   {
     "Id": "C_SWORDOFNUMENOR_TEXT",
@@ -7687,7 +7687,7 @@
   },
   {
     "Id": "C_ASTONISHINGSPEED_FLAVOR",
-    "Text": ""
+    "Text": "“Riders!” cried Aragorn, springing to his feet. “Many riders on swift steeds are coming towards us!”\r\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_ASTONISHINGSPEED_TITLE",
@@ -7699,7 +7699,7 @@
   },
   {
     "Id": "C_MIRKWOODLONGKNIFE_FLAVOR",
-    "Text": ""
+    "Text": "Legolas had a bow and a quiver, and at his belt a long white knife. \r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_MIRKWOODLONGKNIFE_TITLE",
@@ -7707,11 +7707,11 @@
   },
   {
     "Id": "C_MIRKWOODLONGKNIFE_TEXT",
-    "Text": "<line-height=100%>[<b><i>Silvan</b></i> only.] \nGain +1 <size=120%><sprite=0></size> and +1 <size=120%><sprite=5></size>"
+    "Text": "<line-height=100%><b><i>Silvan</b></i> only. \nGain +1 <size=120%><sprite=0></size> and +1 <size=120%><sprite=5></size>"
   },
   {
     "Id": "C_HOLDYOURGROUND_FLAVOR",
-    "Text": ""
+    "Text": "\"In the narrows they may hold back the enemy…\"\r\n—Aragorn, <i>The Two Towers</i>"
   },
   {
     "Id": "C_HOLDYOURGROUND_TITLE",
@@ -7723,21 +7723,15 @@
   },
   {
     "Id": "C_RANGERBOW_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": "Two had great bows, almost of their own height, and great quivers of long green-feathered arrows.\r\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_RANGERBOW_TITLE",
-    "Text": "Ranger Bow",
-    "Text_CN": "Ranger Bow",
-    "Text_FR": "Ranger Bow"
+    "Text": "Ranger Bow"
   },
   {
     "Id": "C_RANGERBOW_TEXT",
-    "Text": "Gain <b>Ranged</b>",
-    "Text_CN": "Gain <b>Ranged</b>",
-    "Text_FR": "Gain <b>Ranged</b>"
+    "Text": "Gain <b>Ranged</b>"
   },
   {
     "Id": "C_EREBORRECORDKEEPER_FLAVOR",
@@ -7753,7 +7747,7 @@
   },
   {
     "Id": "C_EXPECTINGTROUBLE_FLAVOR",
-    "Text": ""
+    "Text": "\"There is more trouble coming to us, mark my words!\"\r\n—Gimli, <i>The Two Towers</i>"
   },
   {
     "Id": "C_EXPECTINGTROUBLE_TITLE",
@@ -7765,7 +7759,7 @@
   },
   {
     "Id": "C_HEAVYSTROKE_FLAVOR",
-    "Text": ""
+    "Text": "\"Give me a row of orc-necks and room to swing and all weariness will fall from me!”\r\n—Gimli, <i>The Two Towers</i>"
   },
   {
     "Id": "C_HEAVYSTROKE_TITLE",
@@ -7777,7 +7771,7 @@
   },
   {
     "Id": "C_HORNSCRY_FLAVOR",
-    "Text": ""
+    "Text": "…the Dawn came, red as flame. Loud rang the hunting-horns to greet it. The Riders of Rohan sprang suddenly to life.\r\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_HORNSCRY_TITLE",
@@ -7789,7 +7783,7 @@
   },
   {
     "Id": "C_HATEDFOE_FLAVOR",
-    "Text": ""
+    "Text": "The affray was sharp, but the orcs were dismayed by the fierceness of the defense.\r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_HATEDFOE_TITLE",
@@ -7801,7 +7795,7 @@
   },
   {
     "Id": "C_DISTRACTION_FLAVOR",
-    "Text": ""
+    "Text": "…horsemen went wide about westward and came up on the flank of the enemy and from behind, and they were destroyed or driven east into the hills.\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_DISTRACTION_TITLE",
@@ -7813,7 +7807,7 @@
   },
   {
     "Id": "C_BLOODOFNUMENOR_FLAVOR",
-    "Text": ""
+    "Text": "Of Númenor he spoke, its glory and its fall, and the return of the Kings of Men to Middle-earth out of the deeps of the Sea, borne upon the wings of storm.\r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_BLOODOFNUMENOR_TITLE",
@@ -7837,7 +7831,7 @@
   },
   {
     "Id": "C_RIVENDELLSCHOLAR_FLAVOR",
-    "Text": ""
+    "Text": "Elves know a lot and are wondrous folk for news, and know what is going on among the peoples of the land, as quick as water flows, or quicker. \r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_RIVENDELLSCHOLAR_TITLE",
@@ -7849,7 +7843,7 @@
   },
   {
     "Id": "C_FEARLESSSCOUT_FLAVOR",
-    "Text": ""
+    "Text": "…he got right up to the fire—for fire it was—without disturbing anyone.\r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_FEARLESSSCOUT_TITLE",
@@ -7857,11 +7851,11 @@
   },
   {
     "Id": "C_FEARLESSSCOUT_TEXT",
-    "Text": "<line-height=100%><b>Vanquish</b>: Give +1 <size=120%><sprite=5></size> to a Character this round"
+    "Text": "<line-height=100%><b>Vanquish</b>: Give a Character \n+1 <size=120%><sprite=5></size> this round"
   },
   {
     "Id": "C_STUDYTHESCROLLS_FLAVOR",
-    "Text": ""
+    "Text": "\"But unless you have more skill even than Saruman, who has studied here long, you will find naught that is not well known to me, who am master of the lore of this City.\"\r\n—Denethor, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_STUDYTHESCROLLS_TITLE",
@@ -7869,11 +7863,11 @@
   },
   {
     "Id": "C_STUDYTHESCROLLS_TEXT",
-    "Text": "The next Event you play returns to your hand after its effect is resolved"
+    "Text": "The next Event you play \nreturns to your hand after its effect occurs"
   },
   {
     "Id": "C_LEGACYOFDURIN_FLAVOR",
-    "Text": ""
+    "Text": "\"The world was fair in Durin’s Day.\"\r\n—Gimli, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_LEGACYOFDURIN_TITLE",
@@ -7885,7 +7879,7 @@
   },
   {
     "Id": "C_DAUGHTEROFTHENIMRODEL_FLAVOR",
-    "Text": ""
+    "Text": "\"Here is Nimrodel!\" said Legolas. \"Of this stream the Silvan Elves made many songs long ago, and still we sing them in the North... it is said that the water is healing to the weary.\"\r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_DAUGHTEROFTHENIMRODEL_TITLE",
@@ -7897,7 +7891,7 @@
   },
   {
     "Id": "C_EASTROADRIDER_FLAVOR",
-    "Text": ""
+    "Text": "\"The East-mark is my charge… I have removed all our herds and herdfolk, withdrawing them beyond the Entwash, and leaving none here but guards and swift scouts.\" \r\n—Éomer, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_EASTROADRIDER_TITLE",
@@ -7909,7 +7903,7 @@
   },
   {
     "Id": "C_DAWNTAKEYOUALL_FLAVOR",
-    "Text": ""
+    "Text": "\"Dawn take you all, and be stone to you!\"\r\n—Gandalf, <i>The Hobbit</i>"
   },
   {
     "Id": "C_DAWNTAKEYOUALL_TITLE",
@@ -7921,7 +7915,7 @@
   },
   {
     "Id": "C_LOCKSHIELDS_FLAVOR",
-    "Text": ""
+    "Text": "…he thought to make a great shield-wall at the last, and stand, and fight there on foot till all fell…\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_LOCKSHIELDS_TITLE",
@@ -7933,7 +7927,7 @@
   },
   {
     "Id": "C_BEORNINGBEEKEPER_FLAVOR",
-    "Text": ""
+    "Text": "Inside on the southward side of the great hedge were rows and rows of hives with bell-shaped tops made of straw.\r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_BEORNINGBEEKEPER_TITLE",
@@ -7945,7 +7939,7 @@
   },
   {
     "Id": "C_MIGHTYWARRIOR_FLAVOR",
-    "Text": ""
+    "Text": "Gimli hewed the legs from under another that had sprung up on Balin’s tomb.\r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_MIGHTYWARRIOR_TITLE",
@@ -7957,7 +7951,7 @@
   },
   {
     "Id": "C_THEODRED_FLAVOR",
-    "Text": ""
+    "Text": "\"Not all is dark. Take courage, Lord of the Mark…\"\r\n—Gandalf, <i>The Two Towers</i>"
   },
   {
     "Id": "C_THEODRED_TITLE",
@@ -7969,7 +7963,7 @@
   },
   {
     "Id": "C_ELFHELM_FLAVOR",
-    "Text": ""
+    "Text": "\"…my lord sends word that we must set ourselves in readiness: orders may come for a sudden move.\"\r\n—Elfhelm, <i>The Return of the King</i>"
   },
   {
     "Id": "C_ELFHELM_TITLE",
@@ -7981,25 +7975,19 @@
   },
   {
     "Id": "C_RIDEROFROHAN_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": "\"Who are you, and what are you doing in this land?” said the Rider, using the Common Speech of the West…\"\r\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_RIDEROFROHAN_TITLE",
-    "Text": "Rider of Rohan",
-    "Text_CN": "Rider of Rohan",
-    "Text_FR": "Rider of Rohan"
+    "Text": "Rider of Rohan"
   },
   {
     "Id": "C_RIDEROFROHAN_TEXT",
-    "Text": "<b>Surge</b>",
-    "Text_CN": "<b>Surge</b>",
-    "Text_FR": "<b>Surge</b>"
+    "Text": "<b>Surge</b>"
   },
   {
     "Id": "C_DEFENDEROFTHEMARK_FLAVOR",
-    "Text": ""
+    "Text": "\"We welcomed guests kindly in the better days, but in these times the unbidden stranger finds us swift and hard.\"\r\n—Éomer, <i>The Two Towers</i>"
   },
   {
     "Id": "C_DEFENDEROFTHEMARK_TITLE",
@@ -8011,7 +7999,7 @@
   },
   {
     "Id": "C_HELPFULSQUIRE_FLAVOR",
-    "Text": ""
+    "Text": "Éomer and his esquire rode back to the rear.\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_HELPFULSQUIRE_TITLE",
@@ -8023,11 +8011,11 @@
   },
   {
     "Id": "C_HORSELORD_FLAVOR",
-    "Text": ""
+    "Text": "\"But we must ride more warily; for war is abroad, and the Rohirrim, the Horse-lords, do not sleep, even if it seem so from afar.\"\r\n—Gandalf, <i>The Two Towers</i>"
   },
   {
     "Id": "C_HORSELORD_TITLE",
-    "Text": "Horse-Lord"
+    "Text": "Horse-lord"
   },
   {
     "Id": "C_HORSELORD_TEXT",
@@ -8035,11 +8023,11 @@
   },
   {
     "Id": "C_SOLDIEROFTHEWHITECITY_FLAVOR",
-    "Text": ""
+    "Text": "No few had fallen, renowned or nameless, captain or soldier; for it was a great battle and the full count of it no tale has told.\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_SOLDIEROFTHEWHITECITY_TITLE",
-    "Text": "<size=90%>Soldier of the White City</size>"
+    "Text": "<size=93%>Soldier of the White City</size>"
   },
   {
     "Id": "C_SOLDIEROFTHEWHITECITY_TEXT",
@@ -8047,25 +8035,19 @@
   },
   {
     "Id": "C_GONDORIANSOLDIERSPECIAL_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": "So now there was a wide space before the walls of Minas Tirith, and it was hemmed in upon all sides by the knights and the soldiers of Gondor…\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_GONDORIANSOLDIERSPECIAL_TITLE",
-    "Text": "Gondorian Soldier",
-    "Text_CN": "Gondorian Soldier",
-    "Text_FR": "Gondorian Soldier"
+    "Text": "Gondorian Soldier"
   },
   {
     "Id": "C_GONDORIANSOLDIERSPECIAL_TEXT",
-    "Text": "<b>Fleeting</b>",
-    "Text_CN": "<b>Fleeting</b>",
-    "Text_FR": "<b>Fleeting</b>"
+    "Text": "<b>Fleeting</b>"
   },
   {
     "Id": "C_WELLPREPARED_FLAVOR",
-    "Text": ""
+    "Text": "\"An hour long prepared approaches.\"\r\n—Aragorn, <i>The Return of the King</i>"
   },
   {
     "Id": "C_WELLPREPARED_TITLE",
@@ -8077,7 +8059,7 @@
   },
   {
     "Id": "C_ITHILIENPIT_FLAVOR",
-    "Text": ""
+    "Text": "…he pitched down into a shallow pit that opened unexpectedly before them, and there he lay like a dead thing.\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_ITHILIENPIT_TITLE",
@@ -8089,7 +8071,7 @@
   },
   {
     "Id": "C_MIGHTYPROWESS_FLAVOR",
-    "Text": ""
+    "Text": "He slew many of them and the rest fled.\r\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_MIGHTYPROWESS_TITLE",
@@ -8097,11 +8079,11 @@
   },
   {
     "Id": "C_MIGHTYPROWESS_TEXT",
-    "Text": "<b>Vanquish</b>: Deal 1 damage to \nan additional Enemy that has the same trait as the defeated Enemy"
+    "Text": "<b>Vanquish</b>: Deal 1 damage to an \nadditional Enemy that has the same trait as the defeated Enemy"
   },
   {
     "Id": "C_BALIN_FLAVOR",
-    "Text": ""
+    "Text": "\"Well, it is the first time that even a mouse has crept along carefully and quietly under my very nose and not been spotted…\"\r\n—Balin, <i>The Hobbit</i>"
   },
   {
     "Id": "C_BALIN_TITLE",
@@ -8121,7 +8103,7 @@
   },
   {
     "Id": "C_CALDARA_FLAVOR",
-    "Text": ""
+    "Text": "\"…there is no purpose higher in the world as it now stands than the good of Gondor…\"\r\n—Denethor, <i>The Return of the King</i>"
   },
   {
     "Id": "C_KHAZADAIMENU_FLAVOR",
@@ -8137,7 +8119,7 @@
   },
   {
     "Id": "C_BOOKOFMAZARBUL_FLAVOR",
-    "Text": ""
+    "Text": "\"The last thing written is in a trailing scrawl of elf-letters: <i>they are coming</i>. There is nothing more.\"\r\n—Gandalf, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_BOOKOFMAZARBUL_TITLE",
@@ -8173,7 +8155,7 @@
   },
   {
     "Id": "C_BERAVOR_FLAVOR",
-    "Text": ""
+    "Text": "But in the wild lands beyond Bree there were mysterious wanderers… but they were now few and rarely seen.\r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_BERAVOR_TITLE",
@@ -8185,7 +8167,7 @@
   },
   {
     "Id": "C_WISDOMOFARNOR_FLAVOR",
-    "Text": ""
+    "Text": "Then Elendil the Tall and his mighty sons, Isildur and Anárion, became great lords; and the North-realm they made in Arnor, and the South-realm in Gondor…\r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_WISDOMOFARNOR_TITLE",
@@ -8197,25 +8179,19 @@
   },
   {
     "Id": "C_RANGEROFTHELONELANDS_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": "\"…they are grim men of face, worn like weathered rocks for the most part, even as Aragorn himself; and they are silent.\"\r\n—Gimli, <i>The Return of the King</i>"
   },
   {
     "Id": "C_RANGEROFTHELONELANDS_TITLE",
-    "Text": "Ranger of the Lone-Lands",
-    "Text_CN": "Ranger of the Lone-Lands",
-    "Text_FR": "Ranger of the Lone-Lands"
+    "Text": "<size=97%>Ranger of the Lone-lands"
   },
   {
     "Id": "C_RANGEROFTHELONELANDS_TEXT",
-    "Text": "<b>Ranged</b>. <b>Stealth</b>",
-    "Text_CN": "<b>Ranged</b>. <b>Stealth</b>",
-    "Text_FR": "<b>Ranged</b>. <b>Stealth</b>"
+    "Text": "<b>Ranged</b>. <b>Stealth</b>"
   },
   {
     "Id": "C_THROUGHTHEWILDERNESS_FLAVOR",
-    "Text": ""
+    "Text": "They were far beyond the borders of the Bree-land, out in the pathless wilderness…\r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_THROUGHTHEWILDERNESS_TITLE",
@@ -8223,11 +8199,11 @@
   },
   {
     "Id": "C_THROUGHTHEWILDERNESS_TEXT",
-    "Text": "Deal 1 damage to a Hero to defeat a non-unique Enemy"
+    "Text": "Deal 1 damage to a Hero; then defeat a non-unique Enemy"
   },
   {
     "Id": "C_DUNEDAINWATCHER_FLAVOR",
-    "Text": ""
+    "Text": "\"If simple folk are free from care and fear, simple they will be, and we must be secret to keep them so. That has been the task of my kindred, while the years have lengthened and the grass has grown.\"\r\n—Aragorn, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_DUNEDAINWATCHER_TITLE",
@@ -8239,7 +8215,7 @@
   },
   {
     "Id": "C_FREDEGARBOLGER_FLAVOR",
-    "Text": ""
+    "Text": "\"I only hope you will not need rescuing before the day is out.\"\r\n—Fatty Bolger, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_FREDEGARBOLGER_TITLE",
@@ -8251,7 +8227,7 @@
   },
   {
     "Id": "C_HOBBITBOUNDER_FLAVOR",
-    "Text": ""
+    "Text": "A rather larger body, varying at need, was employed to “beat the bounds,” and to see that Outsiders of any kind, great or small, did not make themselves a nuisance.\r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_HOBBITBOUNDER_TITLE",
@@ -8259,11 +8235,11 @@
   },
   {
     "Id": "C_HOBBITBOUNDER_TEXT",
-    "Text": "<b>Arrival</b>: Activate <b>Guard</b>. \n<b>Guard</b>"
+    "Text": "<b>Guard</b>"
   },
   {
     "Id": "C_RAISETHESHIRE_FLAVOR",
-    "Text": ""
+    "Text": "\"…come on now, lads! Bywater is up! We must be in it!\"\r\n—Tom Cotton, <i>The Return of the King</i>"
   },
   {
     "Id": "C_RAISETHESHIRE_TITLE",
@@ -8275,7 +8251,7 @@
   },
   {
     "Id": "C_HOBBITPIPE_FLAVOR",
-    "Text": ""
+    "Text": "Bilbo Baggins was standing at his door after breakfast smoking an enormous long wooden pipe that reached nearly down to his woolly toes (neatly brushed)…\r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_HOBBITPIPE_TITLE",
@@ -8287,7 +8263,7 @@
   },
   {
     "Id": "C_CURIOUSBRANDYBUCK_FLAVOR",
-    "Text": ""
+    "Text": "“So there you are at last!” said Merry. “I was beginning to wonder if you would turn up at all today…\"\r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_CURIOUSBRANDYBUCK_TITLE",
@@ -8299,7 +8275,7 @@
   },
   {
     "Id": "C_HALDIR_FLAVOR",
-    "Text": ""
+    "Text": "\"We allow no strangers to spy out the secrets of the Naith. Few indeed are permitted even to set foot there.\"\r\n—Haldir, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_HALDIR_TITLE",
@@ -8311,7 +8287,7 @@
   },
   {
     "Id": "C_WATCHINGTHESHADOW_FLAVOR",
-    "Text": ""
+    "Text": "“I’m going home… No good wearing my nose out on stones any more. There’s not a trace left, I say.\" \r\n—An Orc tracker, <i>The Return of the King</i>"
   },
   {
     "Id": "C_WATCHINGTHESHADOW_TITLE",
@@ -8323,7 +8299,7 @@
   },
   {
     "Id": "C_GUARDIANOFTHEFOREST_FLAVOR",
-    "Text": ""
+    "Text": "Out leaped Wood-elves with their bows and spears and called the Dwarves to halt.\r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_GUARDIANOFTHEFOREST_TITLE",
@@ -8331,11 +8307,11 @@
   },
   {
     "Id": "C_GUARDIANOFTHEFOREST_TEXT",
-    "Text": "<b>Arrival</b>: Activate <b>Guard</b>. \n<b>Guard</b>. <b>Stalwart</b>"
+    "Text": "<b>Guard</b>. <b>Stalwart</b>"
   },
   {
     "Id": "C_GALADRIMSOLDIER_FLAVOR",
-    "Text": ""
+    "Text": "\"None of the Orcs will ever return out of Lórien. And there will be many Elves hidden on the northern border before another night falls.\"\r\n—Haldir, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_GALADRIMSOLDIER_TITLE",
@@ -8347,7 +8323,7 @@
   },
   {
     "Id": "C_LORIENSGRACE_FLAVOR",
-    "Text": ""
+    "Text": "Frodo shivered, thinking of the lawns and fountains, the clear sun and gentle rains of Lothlórien.\r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_LORIENSGRACE_TITLE",
@@ -8359,7 +8335,7 @@
   },
   {
     "Id": "C_GLOIN_FLAVOR",
-    "Text": ""
+    "Text": "His beard, very long and forked, was white, nearly as white as the snow-white cloth of his garments. \r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_GLOIN_TITLE",
@@ -8371,7 +8347,7 @@
   },
   {
     "Id": "C_DWARVENRECLAIMER_FLAVOR",
-    "Text": ""
+    "Text": "\"<i>We drove out orcs from the great gate and guard</i>—I think; the next word is blurred and burned; probably <i>room—we slew many in the bright</i>—I think—<i>sun in the dale</i>…\"\r\n—Gandalf, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_DWARVENRECLAIMER_TITLE",
@@ -8383,7 +8359,7 @@
   },
   {
     "Id": "C_DWARVENPEACEKEEPING_FLAVOR",
-    "Text": ""
+    "Text": "With cries of “Moria!” and “Dáin, Dáin!” the dwarves of the Iron Hills plunged in, wielding their mattocks, upon the other side…\r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_DWARVENPEACEKEEPING_TITLE",
@@ -8395,7 +8371,7 @@
   },
   {
     "Id": "C_BARUKKHAZAD_FLAVOR",
-    "Text": ""
+    "Text": "…a small dark figure that none had observed sprang out of the shadows and gave a hoarse shout: <i>Baruk Khazâd!</i>\r\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_BARUKKHAZAD_TITLE",
@@ -8407,7 +8383,7 @@
   },
   {
     "Id": "C_LESSONSOFTHEPAST_FLAVOR",
-    "Text": ""
+    "Text": "\"Those were happier days, when there was still close friendship at times between folk of different race, even between Dwarves and Elves.\"\r\n—Gandalf, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_LESSONSOFTHEPAST_TITLE",
@@ -8415,11 +8391,11 @@
   },
   {
     "Id": "C_LESSONSOFTHEPAST_TEXT",
-    "Text": "The next time a <b><i>Dwarf</b></i> takes damage, that damage reduces \nto 1"
+    "Text": "The next time a <b><i>Dwarf</b></i> \ntakes damage, reduce that damage to 1"
   },
   {
     "Id": "C_GLORFINDEL_FLAVOR",
-    "Text": ""
+    "Text": "\"…you saw him for a moment as he is upon the other side: one of the mighty of the Firstborn. He is an Elf-lord of a house of princes.\"\r\n—Gandalf, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_GLORFINDEL_TITLE",
@@ -8427,11 +8403,11 @@
   },
   {
     "Id": "C_GLORFINDEL_TEXT",
-    "Text": "<line-height=100%>The first time <i>Glorfindel</i> would be defeated, he instead gains \n+1 <size=120%><sprite=0></size>, +1 <size=120%><sprite=5></size>, and restores to 5 <size=120%><sprite=2></size>"
+    "Text": "<line-height=100%>The first time Glorfindel would be defeated, he instead gains \n+1 <size=120%><sprite=0></size>, +1 <size=120%><sprite=5></size>, and restores to 5 <size=120%><sprite=2></size>"
   },
   {
     "Id": "C_EMISSARYOFTHEVALAR_FLAVOR",
-    "Text": ""
+    "Text": "“Now come the days of the King, and may they be blessed while the thrones of the Valar endure!”\r\n—Gandalf, <i>The Return of the King</i>"
   },
   {
     "Id": "C_EMISSARYOFTHEVALAR_TITLE",
@@ -8443,7 +8419,7 @@
   },
   {
     "Id": "C_ALIGHTFROMWITHIN_FLAVOR",
-    "Text": ""
+    "Text": "He saw his friends’ faces more clearly again, and a measure of new hope and strength returned.\r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_ALIGHTFROMWITHIN_TITLE",
@@ -8455,7 +8431,7 @@
   },
   {
     "Id": "C_IMLADRISMINSTREL_FLAVOR",
-    "Text": ""
+    "Text": "As Elrond entered and went towards the seat prepared for him, elvish minstrels began to make sweet music.\r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_IMLADRISMINSTREL_TITLE",
@@ -8463,11 +8439,11 @@
   },
   {
     "Id": "C_IMLADRISMINSTREL_TEXT",
-    "Text": "<line-height=100%>When any Enemy is defeated, restore 1 <size=120%><sprite=2></size> to a Character"
+    "Text": "<line-height=100%>Restore 1 <size=120%><sprite=2></size> to a Character \nevery time an Enemy is defeated"
   },
   {
     "Id": "C_ROSSIEL_FLAVOR",
-    "Text": ""
+    "Text": "\"Did you not say that you wished to see Elf-magic?”\r\n—Galadriel, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_ROSSIEL_TITLE",
@@ -8479,7 +8455,7 @@
   },
   {
     "Id": "C_WILLOFTHEFOREST_FLAVOR",
-    "Text": ""
+    "Text": "\"…they were called the Galadhrim, the Tree-people. Deep in their forest the trees are very great.\"\r\n—Legolas, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_WILLOFTHEFOREST_TITLE",
@@ -8491,7 +8467,7 @@
   },
   {
     "Id": "C_HEEDTHEDREAM_FLAVOR",
-    "Text": ""
+    "Text": "\"…my brother, seeing how desperate was our need, was eager to heed the dream and seek for Imladris; but since the way was full of doubt and danger, I took the journey upon myself.\"\r\n—Boromir, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_HEEDTHEDREAM_TITLE",
@@ -8503,7 +8479,7 @@
   },
   {
     "Id": "C_MIRKWOODHUNTER_FLAVOR",
-    "Text": ""
+    "Text": "“There lies the fastness of Southern Mirkwood…”\r\n—Haldir, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_MIRKWOODHUNTER_TITLE",
@@ -8515,25 +8491,19 @@
   },
   {
     "Id": "C_LEGACYOFTHEFOREST_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": "\"There lie the woods of Lothlórien!” said Legolas. “That is the fairest of all the dwellings of my people.\"\r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_LEGACYOFTHEFOREST_TITLE",
-    "Text": "Legacy of the Forest",
-    "Text_CN": "Legacy of the Forest",
-    "Text_FR": "Legacy of the Forest"
+    "Text": "Legacy of the Forest"
   },
   {
     "Id": "C_LEGACYOFTHEFOREST_TEXT",
-    "Text": "The next <b>Arrival</b> effect resolves twice",
-    "Text_CN": "The next <b>Arrival</b> effect resolves twice",
-    "Text_FR": "The next <b>Arrival</b> effect resolves twice"
+    "Text": "The next <b>Arrival</b> effect occurs twice"
   },
   {
     "Id": "C_IMRAHIL_FLAVOR",
-    "Text": ""
+    "Text": "\"We must gather all the strength that we can find.\"\r\n—Imrahil, <i>The Return of the King</i>"
   },
   {
     "Id": "C_IMRAHIL_TITLE",
@@ -8545,29 +8515,23 @@
   },
   {
     "Id": "C_SWANKNIGHT_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": "…foremost on the field rode the swan-knights of Dol Amroth with their Prince and his blue banner at their head.\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_SWANKNIGHT_TITLE",
-    "Text": "Swan Knight",
-    "Text_CN": "Swan Knight",
-    "Text_FR": "Swan Knight"
+    "Text": "Swan Knight"
   },
   {
     "Id": "C_SWANKNIGHT_TEXT",
-    "Text": "<b>Block</b>. <b>Stalwart</b>",
-    "Text_CN": "<b>Block</b>. <b>Stalwart</b>",
-    "Text_FR": "<b>Block</b>. <b>Stalwart</b>"
+    "Text": "<b>Block</b>. <b>Stalwart</b>"
   },
   {
     "Id": "C_STANDAGAINSTTHEDARKNESS_FLAVOR",
-    "Text": ""
+    "Text": "\"We know the Ring is no laughing-matter; but we are going to do our best to help you against the Enemy.\"\r\n—Merry, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_STANDAGAINSTTHEDARKNESS_TITLE",
-    "Text": "Stand Against the Dark"
+    "Text": "<size=88%>Stand Against the Darkness"
   },
   {
     "Id": "C_STANDAGAINSTTHEDARKNESS_TEXT",
@@ -8575,7 +8539,7 @@
   },
   {
     "Id": "C_STILLABREATHOFLIFE_FLAVOR",
-    "Text": ""
+    "Text": "Faramir did not move or make any sign, and seemed hardly to breathe.\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_STILLABREATHOFLIFE_TITLE",
@@ -8587,7 +8551,7 @@
   },
   {
     "Id": "C_GONDORIANMILITIA_FLAVOR",
-    "Text": ""
+    "Text": "Armed men went to and fro in the ways of the City, as if going at the striking of the hour to changes of post and duty.\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_GONDORIANMILITIA_TITLE",
@@ -8599,7 +8563,7 @@
   },
   {
     "Id": "C_EOMER_FLAVOR",
-    "Text": ""
+    "Text": "\"…I am named Éomer son of Éomund, and am called the Third Marshal of Riddermark.”\r\n—Éomer, <i>The Two Towers</i>"
   },
   {
     "Id": "C_EOMER_TITLE",
@@ -8611,11 +8575,11 @@
   },
   {
     "Id": "C_GUTHWINE_FLAVOR",
-    "Text": ""
+    "Text": "“Gúthwinë!” cried Éomer. “Gúthwinë for the Mark!”\r\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_GUTHWINE_TITLE",
-    "Text": "‰Guthwine"
+    "Text": "‰Gúthwinë"
   },
   {
     "Id": "C_GUTHWINE_TEXT",
@@ -8623,19 +8587,19 @@
   },
   {
     "Id": "C_GLEOWINE_FLAVOR",
-    "Text": ""
+    "Text": "Then the Riders of the King’s House upon white horses rode round about the barrow and sang together a song of Théoden Thengel’s son that Gléowine his minstrel made…\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_GLEOWINE_TITLE",
-    "Text": "‰Gleowine"
+    "Text": "‰Gléowine"
   },
   {
     "Id": "C_GLEOWINE_TEXT",
-    "Text": "<line-height=100%><b>Power</b>: Spend 1 <size=120%><sprite=3></size> and exhaust Gleowine to draw a card"
+    "Text": "<line-height=100%><b>Power</b>: Spend 1 <size=120%><sprite=3></size> and exhaust Gléowine to draw a card"
   },
   {
     "Id": "C_OATHSYOUHAVETAKEN_FLAVOR",
-    "Text": ""
+    "Text": "Forth rode the king, fear behind him,\r\nfate before him. Fealty kept he;\r\noaths he had taken, all fulfilled them\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_OATHSYOUHAVETAKEN_TITLE",
@@ -8647,7 +8611,7 @@
   },
   {
     "Id": "C_SCOUTINGREPORT_FLAVOR",
-    "Text": ""
+    "Text": "A marching host of Elves had come up silently… and they brought news, some of which Haldir reported.\r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_SCOUTINGREPORT_TITLE",
@@ -8655,11 +8619,11 @@
   },
   {
     "Id": "C_SCOUTINGREPORT_TEXT",
-    "Text": "<line-height=100%>Discard an Ally to give every Character +1 <size=120%><sprite=5></size> this round"
+    "Text": "<line-height=100%>Defeat an Ally to give every Character +1 <size=120%><sprite=5></size> this round"
   },
   {
     "Id": "C_IDRAEN_FLAVOR",
-    "Text": ""
+    "Text": "\"Where now are the Dúnedain, Elessar, Elessar?\r\n\"Why do thy kinsfolk wander afar?\"\r\n—Galadriel, <i>The Two Towers</i>"
   },
   {
     "Id": "C_IDRAEN_TITLE",
@@ -8671,7 +8635,7 @@
   },
   {
     "Id": "C_DUNEDAINHUNTER_FLAVOR",
-    "Text": ""
+    "Text": "\"I have crossed many mountains and many rivers, and trodden many plains, even into the far countries of Rhûn and Harad where the stars are strange.\"\r\n—Aragorn, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_DUNEDAINHUNTER_TITLE",
@@ -8679,47 +8643,35 @@
   },
   {
     "Id": "C_DUNEDAINHUNTER_TEXT",
-    "Text": "<b>Arrival</b>: Sauron plays a random non-unique Enemy from his deck"
+    "Text": "<b>Arrival</b>: Sauron plays a \nrandom non-unique Enemy \nfrom his deck"
   },
   {
     "Id": "C_RANGERCLOAK_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": "They were clad in cloaks of dark grey, and their hoods were cast now over helm and head.\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_RANGERCLOAK_TITLE",
-    "Text": "Ranger Cloak",
-    "Text_CN": "Ranger Cloak",
-    "Text_FR": "Ranger Cloak"
+    "Text": "Ranger Cloak"
   },
   {
     "Id": "C_RANGERCLOAK_TEXT",
-    "Text": "Gain <b>Ambush</b>",
-    "Text_CN": "Gain <b>Ambush</b>",
-    "Text_FR": "Gain <b>Ambush</b>"
+    "Text": "Gain <b>Ambush</b>"
   },
   {
     "Id": "C_SARNFORDSENTRY_FLAVOR",
-    "Text": "",
-    "Text_CN": "",
-    "Text_FR": ""
+    "Text": "\"Lonely men are we, Rangers of the wild, hunters—but hunters ever of the servants of the Enemy…\"\r\n—Aragorn, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_SARNFORDSENTRY_TITLE",
-    "Text": "Sarn Ford Sentry",
-    "Text_CN": "Sarn Ford Sentry",
-    "Text_FR": "Sarn Ford Sentry"
+    "Text": "Sarn Ford Sentry"
   },
   {
     "Id": "C_SARNFORDSENTRY_TEXT",
-    "Text": "<b>Block</b>",
-    "Text_CN": "<b>Block</b>",
-    "Text_FR": "<b>Block</b>"
+    "Text": "<b>Block</b>"
   },
   {
     "Id": "C_DUNEDAINTRAP_FLAVOR",
-    "Text": ""
+    "Text": "\"…when dark things come from the houseless hills, or creep from sunless woods, they fly from us.\"\r\n—Aragorn, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_DUNEDAINTRAP_TITLE",
@@ -8753,7 +8705,7 @@
   },
   {
     "Id": "C_SEARCHTHEAREA_FLAVOR",
-    "Text": ""
+    "Text": "He surveyed the green lawn, quickly but thoroughly, stooping often to the earth.\r\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_ATEST180402EXP_TITLE",
@@ -10825,7 +10777,7 @@
   },
   {
     "Id": "C_ELVENBLADE_FLAVOR",
-    "Text": ""
+    "Text": "…the sharp elven-blade sparkled in the silver light…\r\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_ELVENBLADE_TITLE",
@@ -10833,7 +10785,7 @@
   },
   {
     "Id": "C_ELVENBLADE_TEXT",
-    "Text": "<line-height=100%><b><i>Noldor</b></i> or <b><i>Silvan</b></i> only.\n+2 <size=120%><sprite=0></size>"
+    "Text": "<line-height=100%><b><i>Noldor</b></i> or <b><i>Silvan</b></i> only.\nGain +2 <size=120%><sprite=0></size>"
   },
   {
     "Id": "Q_CAMPAIGN_TEST0510_NAME",
@@ -11057,7 +11009,7 @@
   },
   {
     "Id": "C_SUPPORTFROMDALE_TEXT",
-    "Text": "Add a Man of Dale to each open space in your row"
+    "Text": "Add 1 Man of Dale to each open space in your row"
   },
   {
     "Id": "C_SUPPORTFROMDALE_FLAVOR",
@@ -11493,7 +11445,7 @@
   },
   {
     "Id": "C_ALONGTHESTREAM_TEXT",
-    "Text": "When resolved, you may travel \nto Mirkwood Swamp"
+    "Text": "Resolve to allow travel \nto Mirkwood Swamp"
   },
   {
     "Id": "C_ALONGTHESTREAM_FLAVOR",
@@ -11505,7 +11457,7 @@
   },
   {
     "Id": "C_INVESTIGATETHEVILLAGE_TEXT",
-    "Text": "When resolved, you may travel \nto Abandoned Village"
+    "Text": "Resolve to allow travel\nto Abandoned Villaage"
   },
   {
     "Id": "C_INVESTIGATETHEVILLAGE_FLAVOR",
@@ -11809,7 +11761,7 @@
   },
   {
     "Id": "C_MAKEASTAND_FLAVOR",
-    "Text": "<i><line-height=100%><size=200%>W</size>ith will as strong as the steel of your weapons, you stand fast against your foes."
+    "Text": "<i><line-height=100%><size=200%>W</size>ith strength of will to match the steel of your weapons, you stand fast against your foes."
   },
   {
     "Id": "C_DISTRACTTHETROLL_TITLE",
@@ -12069,11 +12021,11 @@
   },
   {
     "Id": "C_RAINOFBOULDERS_TEXT",
-    "Text": "<line-height=50%><i>Flying boulders smash into your party!</i>\n</line-height>\nDeal 2 damage to all friendly Characters"
+    "Text": "Deal 2 damage to every Character"
   },
   {
     "Id": "C_RAINOFBOULDERS_FLAVOR",
-    "Text": ""
+    "Text": "<i><line-height=100%><size=200%>A</size> barrage of boulders flies through the air to smash into your party!"
   },
   {
     "Id": "C_MIRKWOODBROODMOTHER_TITLE",
@@ -12257,7 +12209,7 @@
   },
   {
     "Id": "C_FORESTFLIES_FLAVOR",
-    "Text": ""
+    "Text": "There was a silence, for suddenly the dark and unknown forest, so near at hand, made itself felt as a great brooding presence, full of secret purpose.\r\n—<i>The Two Towers"
   },
   {
     "Id": "C_AACLEARSAURONRES_TITLE",
@@ -12329,7 +12281,7 @@
   },
   {
     "Id": "C_BILBO_FLAVOR",
-    "Text": ""
+    "Text": "\"I am the clue-finder, the web-cutter, the stinging fly. I was chosen for the lucky number.\"\r\n—Bilbo, <i>The Hobbit</i>"
   },
   {
     "Id": "C_AAADDSAURONRES_TITLE",
@@ -12481,15 +12433,15 @@
   },
   {
     "Id": "C_STINGFATE_TEXT",
-    "Text": "Gain Sting"
+    "Text": "Gain the Elvish blade Sting"
   },
   {
     "Id": "C_STINGFATE_FLAVOR",
-    "Text": "<i><line-height=100%><size=200%>S</size>pying a metallic glint in the gloom at the clearing's edge, you poke cautiously at the weeds. To your surprise, you see a finely-crafed elvish blade!</i>"
+    "Text": "<i><line-height=100%><size=200%>S</size>pying a metallic glint in the gloom at the clearing's edge, you poke cautiously at the weeds. To your surprise, you see a finely-crafed Elvish blade!</i>"
   },
   {
     "Id": "C_SPIDERLT1_TITLE",
-    "Text": "PH-Larry"
+    "Text": "Garlob"
   },
   {
     "Id": "C_SPIDERLT1_TEXT",
@@ -12501,7 +12453,7 @@
   },
   {
     "Id": "C_SPIDERLT2_TITLE",
-    "Text": "PH-Curly"
+    "Text": "Delob"
   },
   {
     "Id": "C_SPIDERLT2_TEXT",
@@ -12513,7 +12465,7 @@
   },
   {
     "Id": "C_SPIDERLT3_TITLE",
-    "Text": "PH-Moe"
+    "Text": "Ullob"
   },
   {
     "Id": "C_SPIDERLT3_TEXT",
@@ -12557,7 +12509,7 @@
   },
   {
     "Id": "C_SPIDERSPOISON_FLAVOR",
-    "Text": ""
+    "Text": "Somehow or other Fili was got on to the branch, and then he did his best to help the hobbit, although he was feeling very sick and ill from spider-poison…\n—<i>The Hobbit</i>"
   },
   {
     "Id": "Q_STAGE_BATTLEWITHTHESPIDERS_NAME",
@@ -12577,7 +12529,7 @@
   },
   {
     "Id": "C_OBJECTIVETIMERTEST_TEXT",
-    "Text": "[Cannot be targeted]\n<b>End of Round</b>: Apply 1 Progress to self."
+    "Text": "Cannot engage.\nEnd of Round: Apply 1 progress to this Objective"
   },
   {
     "Id": "C_OBJECTIVETIMERTEST_FLAVOR",
@@ -12641,7 +12593,7 @@
   },
   {
     "Id": "C_FORESTPROTECTOR_FLAVOR",
-    "Text": ""
+    "Text": "\"The Wandering Companies shall know of your journey, and those that have power for good shall be on the watch.\"\r\n—Gildor, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_MIRKWOODWATCHER_TITLE",
@@ -12653,7 +12605,7 @@
   },
   {
     "Id": "C_MIRKWOODWATCHER_FLAVOR",
-    "Text": ""
+    "Text": "\"The dark things that were driven out in the year of the Dragon’s fall have returned in greater numbers, and Mirkwood is again an evil place, save where our realm is maintained.\"\r\n—Legolas, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_TOMTOOK_TITLE",
@@ -12661,7 +12613,7 @@
   },
   {
     "Id": "C_TOMTOOK_TEXT",
-    "Text": "<b>Power</b>: Exhaust Tom Took to cancel damage from the next Enemy attack"
+    "Text": "<b>Power</b>: Exhaust Tom Took to cancel damage from the next Enemy attack this round"
   },
   {
     "Id": "C_TOMTOOK_FLAVOR",
@@ -12877,11 +12829,11 @@
   },
   {
     "Id": "C_SECURETHECAMP_TEXT",
-    "Text": "Secure the camp from the spider incursion!"
+    "Text": "Resolve to secure the camp \nfrom your foes!"
   },
   {
     "Id": "C_SECURETHECAMP_FLAVOR",
-    "Text": ""
+    "Text": "\"Fling fuel on the fire!\" cried Gandalf to the hobbits. \"Draw your blades, and stand back to back!\"\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_WILLOFSTEEL_TITLE",
@@ -12965,7 +12917,7 @@
   },
   {
     "Id": "C_GOBLINPURSUER_FLAVOR",
-    "Text": ""
+    "Text": "Then suddenly goblins came running up yelling.\r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_GOBLINWARLORD_TITLE",
@@ -12977,7 +12929,7 @@
   },
   {
     "Id": "C_GOBLINWARLORD_FLAVOR",
-    "Text": ""
+    "Text": "\"The Goblins are upon you! Bolg of the North is coming.\"\r\n—Gandalf, <i>The Hobbit</i>"
   },
   {
     "Id": "C_RANGINGGOBLIN_TITLE",
@@ -12989,7 +12941,7 @@
   },
   {
     "Id": "C_RANGINGGOBLIN_FLAVOR",
-    "Text": ""
+    "Text": "\"There are no goblins near, or my ears are made of wood.\"\r\n—Gimli, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_STRAGGLINGGOBLIN_TITLE",
@@ -13001,7 +12953,7 @@
   },
   {
     "Id": "C_STRAGGLINGGOBLIN_FLAVOR",
-    "Text": ""
+    "Text": "Riding swiftly into range they shot arrows at the Orcs that straggled behind…\r\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_GOBLINSCAVENGER_TITLE",
@@ -13009,11 +12961,11 @@
   },
   {
     "Id": "C_GOBLINSCAVENGER_TEXT",
-    "Text": "<b>Arrival</b>: Draw 1 Card. \nIncrease <size=120%><sprite=4></size> by that card's cost. (Maximum 3 <size=120%><sprite=4></size>)"
+    "Text": "<line-height=100%><b>Arrival</b>: Draw 1 card; then increase <size=120%><sprite=4></size> by that card's cost (limit +3 <size=120%><sprite=4></size>)"
   },
   {
     "Id": "C_GOBLINSCAVENGER_FLAVOR",
-    "Text": ""
+    "Text": "…there were all the baggages and packages lying broken open, and being rummaged by goblins, and smelt by goblins, and fingered by goblins, and quarreled over by goblins.\r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_PRISONGUARD_TITLE",
@@ -13025,7 +12977,7 @@
   },
   {
     "Id": "C_PRISONGUARD_FLAVOR",
-    "Text": ""
+    "Text": "\"I didn’t dare to move when I was left alone, or one of the guards came.\"\r\n—Frodo, <i>The Return of the King</i>"
   },
   {
     "Id": "C_GOBLINTASKMASTER_TITLE",
@@ -13033,11 +12985,11 @@
   },
   {
     "Id": "C_GOBLINTASKMASTER_TEXT",
-    "Text": "<b>Arrival</b>: All <b><i>Orcs</b></i> gain +1 <size=120%><sprite=2></size>"
+    "Text": "<line-height=100%><b>Arrival</b>: Every <b><i>Orc</b></i> gains +1 <size=120%><sprite=2></size>"
   },
   {
     "Id": "C_GOBLINTASKMASTER_FLAVOR",
-    "Text": ""
+    "Text": "\"The prisoners are NOT to be searched or plundered: those are <i>my</i> orders.”\r\n—Grishnákh, <i>The Two Towers</i>"
   },
   {
     "Id": "C_TOWERPATROL_TITLE",
@@ -13045,11 +12997,11 @@
   },
   {
     "Id": "C_TOWERPATROL_TEXT",
-    "Text": "<b>Revenge</b>: Gain +1 <size=120%><sprite=4></size>. \nThen 1 <i>Ranging Goblin</i> and 1 <i>East Bight Patrol</i> enter play"
+    "Text": "<line-height=100%><b>Revenge</b>: Gain +1 <size=120%><sprite=4></size>; \nthen add 1 Ranging Goblin and \n1 East Bight Patrol"
   },
   {
     "Id": "C_TOWERPATROL_FLAVOR",
-    "Text": ""
+    "Text": "…as they stood they saw all the Nazgûl gathered together, hovering above the Towers of the Teeth like vultures…\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_GOLLUM_TITLE",
@@ -13057,11 +13009,11 @@
   },
   {
     "Id": "C_GOLLUM_TEXT",
-    "Text": "[Can only attach <i>Precious</i>]\n<b>Block</b>. <b>Power</b>: Gain Gollum's Help. \nIf Gollum does not help this turn, +1 <size=120%><sprite=4></size>"
+    "Text": "Can only equip Precious.\n<line-height=100%><b>Block</b>. <b>Power</b>: Gollum helps you;\nor gain +1 <size=120%><sprite=4></size> each round the <b>Power</b>\nisn't used"
   },
   {
     "Id": "C_GOLLUM_FLAVOR",
-    "Text": ""
+    "Text": "\"Through Mirkwood and back again it led them, though they never caught him.\"\r\n—Gandalf, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_FLANKED_TITLE",
@@ -13069,11 +13021,11 @@
   },
   {
     "Id": "C_FLANKED_TEXT",
-    "Text": "<b>Upkeep</b>: Deal 2 damage to a random Hero if Sauron has more cards in play than the player"
+    "Text": "<b>Upkeep</b>: Until resolved, deal \n2 damage to a random Hero if Sauron has the most cards in play"
   },
   {
     "Id": "C_FLANKED_FLAVOR",
-    "Text": ""
+    "Text": "Like thunder they broke upon the enemy on either flank of the retreat…\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_HARRIEDBYFIRE_TITLE",
@@ -13081,11 +13033,11 @@
   },
   {
     "Id": "C_HARRIEDBYFIRE_TEXT",
-    "Text": "Deal 1 damage to a random character when you play a card"
+    "Text": "Until resolved, deal 1 damage \nto a random Character every time you play a card"
   },
   {
     "Id": "C_HARRIEDBYFIRE_FLAVOR",
-    "Text": ""
+    "Text": "Smoke was in Bilbo’s eyes, he could feel the heat of the flames…\r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_UNEVENGROUND_TITLE",
@@ -13097,7 +13049,7 @@
   },
   {
     "Id": "C_UNEVENGROUND_FLAVOR",
-    "Text": ""
+    "Text": "They soon found that it was impossible to make their way… anywhere along its higher levels, pathless as they were and scored with deep ghylls.\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_FOULWEATHER_TITLE",
@@ -13105,11 +13057,11 @@
   },
   {
     "Id": "C_FOULWEATHER_TEXT",
-    "Text": "Draw only 1 card during <b>Upkeep</b>"
+    "Text": "<b>Upkeep</b>: Until resolved, \ndraw only 1 card"
   },
   {
     "Id": "C_FOULWEATHER_FLAVOR",
-    "Text": ""
+    "Text": "But they had not gone more than a furlong when the storm returned with fresh fury. \r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_MASSINGFORANATTACK_TITLE",
@@ -13129,11 +13081,11 @@
   },
   {
     "Id": "C_LUMPYCOCOON_TEXT",
-    "Text": "Open to reveal what is inside"
+    "Text": "Resolve to tear open the \nCocoon and reveal what is trapped inside!"
   },
   {
     "Id": "C_LUMPYCOCOON_FLAVOR",
-    "Text": ""
+    "Text": "He managed by leaning over to cut most of the strong sticky threads that bound him round, and then, sure enough, with a kick and a struggle most of Fili emerged. \r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_DRIVEOFFTHESPIDERS_TITLE",
@@ -13141,11 +13093,11 @@
   },
   {
     "Id": "C_DRIVEOFFTHESPIDERS_TEXT",
-    "Text": "[This Objective will auto-resolve if all spiders are defeated]\n<i>Lumpy Cocoon</i> enters play"
+    "Text": "Resolve for Bulging Cocoon \nto enter play.\nResolve automatically if \nevery <b><i>Spider</b></i> is defeated"
   },
   {
     "Id": "C_DRIVEOFFTHESPIDERS_FLAVOR",
-    "Text": ""
+    "Text": "The spiders swelled with rage, and spluttered and frothed, and hissed out horrible curses; but they had become mortally afraid of Sting, and dared not come very near…\r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_RESCUEYOURFRIEND_TITLE",
@@ -13153,11 +13105,11 @@
   },
   {
     "Id": "C_RESCUEYOURFRIEND_TEXT",
-    "Text": "Release one of your trapped Heroes"
+    "Text": "Resolve to release a trapped Hero"
   },
   {
     "Id": "C_RESCUEYOURFRIEND_FLAVOR",
-    "Text": ""
+    "Text": "…he had to rescue them. The worst part of the job was getting up on to the long branch where the bundles were dangling.\r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_DEFENDTHECOCOONS_TITLE",
@@ -13165,11 +13117,11 @@
   },
   {
     "Id": "C_DEFENDTHECOCOONS_TEXT",
-    "Text": "[Cannot be attacked]\nDefend the Cocoons from the Enemy!"
+    "Text": "Cannot engage. \r\nDefend for a number of rounds equal to the Quest value.\nResolve to allow travel"
   },
   {
     "Id": "C_DEFENDTHECOCOONS_FLAVOR",
-    "Text": ""
+    "Text": "…the spiders began to come back, more full of rage than ever. Bilbo immediately went to the end of the branch nearest the tree-trunk and kept back those that crawled up.\r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_FOLLOWTHETRAIL_TITLE",
@@ -13177,11 +13129,11 @@
   },
   {
     "Id": "C_FOLLOWTHETRAIL_TEXT",
-    "Text": "When resolved, you may travel to Along the Trail"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_FOLLOWTHETRAIL_FLAVOR",
-    "Text": ""
+    "Text": "It was perilous for the hobbits to use such a path, but they needed speed…\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_LISTENTOGOLLUM_TITLE",
@@ -13189,11 +13141,11 @@
   },
   {
     "Id": "C_LISTENTOGOLLUM_TEXT",
-    "Text": "When resolved, you may travel to A Secret Way"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_LISTENTOGOLLUM_FLAVOR",
-    "Text": ""
+    "Text": "\"We musstn’t rissk our neck, musst we, precious?\"\r\n—Gollum, <i>The Two Towers</i>"
   },
   {
     "Id": "C_CONTINUEONTHETRAIL_TITLE",
@@ -13201,11 +13153,11 @@
   },
   {
     "Id": "C_CONTINUEONTHETRAIL_TEXT",
-    "Text": "When resolved, you may travel to Ambushed!"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_CONTINUEONTHETRAIL_FLAVOR",
-    "Text": ""
+    "Text": "Beyond its stony course they saw a beaten path that wound its way under the feet of the westward cliffs.\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_OFFTHEPATH_TITLE",
@@ -13213,11 +13165,11 @@
   },
   {
     "Id": "C_OFFTHEPATH_TEXT",
-    "Text": "When resolved, you may travel to Mirkwood Swamp"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_OFFTHEPATH_FLAVOR",
-    "Text": ""
+    "Text": "\"There are no safe paths in this part of the world.\"\r\n—Gandalf, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_FINDYOURWAY_TITLE",
@@ -13225,23 +13177,23 @@
   },
   {
     "Id": "C_FINDYOURWAY_TEXT",
-    "Text": "[Cannot be engaged]\nWhen resolved, you may travel to Mirkwood Swamp"
+    "Text": "Cannot engage.\r\nExplore for a number of rounds equal to the Quest value. \r\nResolve to allow travel"
   },
   {
     "Id": "C_FINDYOURWAY_FLAVOR",
-    "Text": ""
+    "Text": "“Now down we go, Sam,” Frodo whispered. “Down into the valley quick, and then turn northward, as soon as ever we can.”\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_WARDENSOFLORIEN_TITLE",
-    "Text": "Wardens of Lorien"
+    "Text": "Wardens of Lórien"
   },
   {
     "Id": "C_WARDENSOFLORIEN_TEXT",
-    "Text": "When resolved, complete the quest"
+    "Text": "Cannot engage.\r\nProtect Bilbo for a number of rounds equal to Quest value. \nResolve to reach Lórien"
   },
   {
     "Id": "C_WARDENSOFLORIEN_FLAVOR",
-    "Text": ""
+    "Text": "\"…there is a secret power here that holds evil from the land.\"\r\n—Legolas, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_REJOINTHETRAIL_TITLE",
@@ -13249,11 +13201,11 @@
   },
   {
     "Id": "C_REJOINTHETRAIL_TEXT",
-    "Text": "When resolved, allows travel to Ambushed!"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_REJOINTHETRAIL_FLAVOR",
-    "Text": ""
+    "Text": "\"We came on his trail among those of many Orcs, and it plunged deep into the Forest, going south.\"\r\n—Legolas, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_AVOIDTHEPATROLS_TITLE",
@@ -13261,11 +13213,11 @@
   },
   {
     "Id": "C_AVOIDTHEPATROLS_TEXT",
-    "Text": "When resolved, you may travel to Another Way"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_AVOIDTHEPATROLS_FLAVOR",
-    "Text": ""
+    "Text": "He stood still as stone. Orc-voices. They were behind him and before him. \r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_ENTERTHETOWER_TITLE",
@@ -13273,11 +13225,11 @@
   },
   {
     "Id": "C_ENTERTHETOWER_TEXT",
-    "Text": "When resolved, allows travel to Inside the Dark Tower"
+    "Text": "Resolve to allow travel \nto the Dark Tower"
   },
   {
     "Id": "C_ENTERTHETOWER_FLAVOR",
-    "Text": ""
+    "Text": "Sam looked up towards the orc-tower, and suddenly from its narrow windows lights stared out like small red eyes.\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_STACKOFPAPERS_TITLE",
@@ -13285,11 +13237,11 @@
   },
   {
     "Id": "C_STACKOFPAPERS_TEXT",
-    "Text": "One of the stacks of papers will have the orders for Bilbo! Find it!"
+    "Text": "Resolve to discover whether \nthese papers contain orders regarding Bilbo"
   },
   {
     "Id": "C_STACKOFPAPERS_FLAVOR",
-    "Text": ""
+    "Text": "The table was littered with disordered papers; rain was beating on the windows.\r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_FREEBILBO_TITLE",
@@ -13297,11 +13249,11 @@
   },
   {
     "Id": "C_FREEBILBO_TEXT",
-    "Text": "Release Bilbo. Allows you to Escape!"
+    "Text": "Resolve to release Bilbo \nand begin your escape!"
   },
   {
     "Id": "C_FREEBILBO_FLAVOR",
-    "Text": ""
+    "Text": "…Gandalf was saying that they could not possibly go on with their journey leaving Mr. Baggins in the hands of the goblins, without trying to find out if he was alive or dead, and without trying to rescue him.\r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_BILBOALLY_TITLE",
@@ -13321,11 +13273,11 @@
   },
   {
     "Id": "C_ESCAPE_TEXT",
-    "Text": "When resolved, complete the quest"
+    "Text": "Resolve to escape \nthe Dark Tower!"
   },
   {
     "Id": "C_ESCAPE_FLAVOR",
-    "Text": ""
+    "Text": "Down the road from the gate they fled. In fifty paces, with a swift bend round a jutting bastion of the cliff, it took them out of sight from the Tower.\r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_ATESTWHNARRATION_TITLE",
@@ -13533,11 +13485,11 @@
   },
   {
     "Id": "C_LEFTRIVERBRANCH_TEXT",
-    "Text": "When resolved, allows travel to Perilous Shortcut"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_LEFTRIVERBRANCH_FLAVOR",
-    "Text": ""
+    "Text": "…it was the same stream that trickled far above out of the round pool, now grown to a swift torrent, leaping down over many stones…\r\n—<i>The Two Towers</i>"
   },
   {
     "Id": "C_RIGHTRIVERBRANCH_TITLE",
@@ -13545,11 +13497,11 @@
   },
   {
     "Id": "C_RIGHTRIVERBRANCH_TEXT",
-    "Text": "When resolved, allows travel to Untroubled Waters"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_RIGHTRIVERBRANCH_FLAVOR",
-    "Text": ""
+    "Text": "...only the river offered any longer a safe way from the skirts of Mirkwood in the North...\r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_GRIMBEORNNARRATIVE_TITLE",
@@ -13569,15 +13521,15 @@
   },
   {
     "Id": "Q_QUEST_C001Q1_NAME",
-    "Text": "Pursuing the Spiders"
+    "Text": "Attercop, Attercop"
   },
   {
     "Id": "Q_QUEST_C001Q1_DESCRIPTION",
-    "Text": "<color=red>Placeholder</color> <i><size=58>A</size>fter Bilbo was captured, Gloin who was injured, returned to Beorn's Hall to alert others. You have journeyed to Bilbo's last known location to see if you can pick up the trail...</i>"
+    "Text": "<i><size=58>A</size>fter Bilbo was captured, Gloin who was injured, returned to Beorn's Hall to alert others. You have journeyed to Bilbo's last known location to see if you can pick up the trail...</i>"
   },
   {
     "Id": "Q_QUEST_C001Q1_VICTORY_TEXT",
-    "Text": "You have found the spiders that captured Bilbo!"
+    "Text": "<i><size=58>A</size>t the twitching death throes of the last spider-guardians, a silence descends on the forest. The heroes realize what they stand before, as they find themselves before a foreboding vista: A city in the forest, a city of cobwebs  stretching as far as the eye can see. Will our heroes enter this sticky domain?\r</i>"
   },
   {
     "Id": "Q_QUEST_C001Q1_DEFEAT_TEXT",
@@ -13585,15 +13537,15 @@
   },
   {
     "Id": "Q_STAGE_C001Q1L1_NAME",
-    "Text": "The Spider's Glade"
+    "Text": "A Hobbit's Sting"
   },
   {
     "Id": "Q_STAGE_C001Q1L1_TEXT",
-    "Text": "<color=red>Placeholder</color>\n<i><size=58>A</size>rriving at the location of Bilbo's capture, you find a group of spiders, but no Hobbit. You must find out what happened to Gloin's friend. Following the spiders may lead you back to their lair...</i>"
+    "Text": "<i><size=58>A</size>rriving at the location of Bilbo's capture, you find a group of spiders, but no Hobbit. You must find out what happened to Gloin's friend. Following the spiders may lead you back to their lair...</i>"
   },
   {
     "Id": "Q_STAGE_C001Q1L1_OBJECTIVE",
-    "Text": "Defeat all enemies"
+    "Text": "Defeat all enemies, or resolve Investigate the Glade"
   },
   {
     "Id": "Q_STAGE_C001Q1L2_NAME",
@@ -13601,7 +13553,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q1L2_TEXT",
-    "Text": "<color=red>Placeholder</color>\n<i><size=58>F</size>ollowing the Spiders has lead you towards the Enchanted Stream. Carefully crossing the foul river on a fallen log, you do not look upwards until it is too late! A member of your party is grabbed by the spiders before you can react.</i>"
+    "Text": "\t<i><size=58>A</size> strange dark stream interrupts the path. \rSomething moves in the shadows of the canopies above. \n\tCarefully crossing the foul river on a fallen log, you do not look upwards until it is too late! A member of your party is grabbed by the spiders before you can react.</i>"
   },
   {
     "Id": "Q_STAGE_C001Q1L2_OBJECTIVE",
@@ -13609,23 +13561,23 @@
   },
   {
     "Id": "Q_STAGE_C001Q1L3_NAME",
-    "Text": "Battle with the Spiders"
+    "Text": "A Rescue"
   },
   {
     "Id": "Q_STAGE_C001Q1L3_TEXT",
-    "Text": "<color=red>Placeholder</color>\n<i><size=58>Y</size>ou spy another group of spiders, approaching their lair not far away. Perhaps this is your chance to free your friend?</i>"
+    "Text": "<i><size=58>T</size>he heroes manage to cross the stream  and shortly after find the trail again. They happen upon a clearing in which several spiders are gathered around a fresh cocoon. \r\n</i>"
   },
   {
     "Id": "Q_STAGE_C001Q1L3_OBJECTIVE",
-    "Text": "Resolve <i>Battling Spiders</i> to advance"
+    "Text": "Open the Thrashing Cocoon either through questing or the fate event to proceed."
   },
   {
     "Id": "Q_STAGE_C001Q1L4_NAME",
-    "Text": "The Spiders' Webs"
+    "Text": "Three is Company"
   },
   {
     "Id": "Q_STAGE_C001Q1L4_TEXT",
-    "Text": "Bilbo wasn't there, but the lair is just ahead. However, your actions haven't gone unnoticed as three massive spiders drop from the forest canopy towards you..."
+    "Text": "\t<i><size=58>T</size>he trail seems to have been lost, when the Adventures hear a shrill wail in the distance. They rush to investigate. \r\n\tToo fast.. for suddenly three enormous spider-guardians descend before them.</i>"
   },
   {
     "Id": "Q_STAGE_C001Q1L4_OBJECTIVE",
@@ -13929,7 +13881,7 @@
   },
   {
     "Id": "C_BATTLINGSPIDERS_TEXT",
-    "Text": "Cannot be engaged.\nFor each <b><i>Spider</b></i> defeated, \napply 1 progress to this quest"
+    "Text": "Cannot engage.\nApply 1 progress to this Objective for each <b><i>Spider</b></i> defeated"
   },
   {
     "Id": "C_BATTLINGSPIDERS_FLAVOR",
@@ -14078,5 +14030,65 @@
   {
     "Id": "Q_STAGE_C900Q5L1_OBJECTIVE",
     "Text": "Q_STAGE_C900Q5L1_OBJECTIVE"
+  },
+  {
+    "Id": "C_INVESTIGATETHEGLADE_TITLE",
+    "Text": "Investigate the Glade"
+  },
+  {
+    "Id": "C_INVESTIGATETHEGLADE_TEXT",
+    "Text": "Resolve to gain Sting \nand allow travel"
+  },
+  {
+    "Id": "C_INVESTIGATETHEGLADE_FLAVOR",
+    "Text": "After a good deal of creeping and crawling they peered round the trunks and looked into a clearing where some trees had been felled and the ground levelled.\r\n—<i>The Hobbit</i>"
+  },
+  {
+    "Id": "C_GOLLUMSBITE_TITLE",
+    "Text": "Gollum's Bite"
+  },
+  {
+    "Id": "C_GOLLUMSBITE_TEXT",
+    "Text": "Deal 4 damage to a Hero"
+  },
+  {
+    "Id": "C_GOLLUMSBITE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_FATETHRASHINGCOCOON_TITLE",
+    "Text": "Open the Thrashing Cocoon"
+  },
+  {
+    "Id": "C_FATETHRASHINGCOCOON_TEXT",
+    "Text": "You carefully open the violently thrashing cocoon to release what is inside"
+  },
+  {
+    "Id": "C_FATETHRASHINGCOCOON_FLAVOR",
+    "Text": "One of the cocoons is moving violently, inside you can hear growls, and words you can't make out. Whoever is inside there is extremely displeased."
+  },
+  {
+    "Id": "C_THRASHINGCOCOON_TITLE",
+    "Text": "Thrashing Cocoon"
+  },
+  {
+    "Id": "C_THRASHINGCOCOON_TEXT",
+    "Text": "Deal 1 damage every time \na Character applies progress \nto this Quest.\nResolve to open the Cocoon"
+  },
+  {
+    "Id": "C_THRASHINGCOCOON_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_BEORNINGROAMERNARRATION_TITLE",
+    "Text": "Dark Rumors"
+  },
+  {
+    "Id": "C_BEORNINGROAMERNARRATION_TEXT",
+    "Text": "\tThe cocoon is not Bilbo, but instead the scared Beorning, Wilfelk.\r\n\tHe tells the spiders have become aggressive and there have been many abductions from nearby villages in recent months."
+  },
+  {
+    "Id": "C_BEORNINGROAMERNARRATION_FLAVOR",
+    "Text": ""
   }
 ]

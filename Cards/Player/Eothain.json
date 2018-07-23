@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "“We must hasten south, lord. Let us leave these wild folk to their fancies. Or let us bind them and take them to the king.”\r\n—Éothain, <i>The Two Towers</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -31,13 +31,14 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
     "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
-    "Title": "‰Eothain",
+    "Title": "‰Éothain",
     "Text": "<b>Revenge</b>: Ready every <b><i>Rohan</b></i>"
   }
 }

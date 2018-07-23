@@ -31,14 +31,14 @@
     "CameoScale": 1.2,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "a3d0f6afbc2109eba5c4a60f39aa0130",
     "BannerMD5": "b55fd4fd5a8257bf948c21909b24db33",
-    "IconMD5": "23afb89dfb8d102a8e1b070e33c41ec4",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "23afb89dfb8d102a8e1b070e33c41ec4"
   },
   "Localization": {
     "Title": "Ranger Provisions",
-    "Text": "When resolved, gain +1 <size=120%><sprite=3></size>"
+    "Text": "Resolve to gain +1 <size=120%><sprite=3></size>"
   }
 }

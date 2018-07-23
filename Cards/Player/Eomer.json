@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "\"…I am named Éomer son of Éomund, and am called the Third Marshal of Riddermark.”\r\n—Éomer, <i>The Two Towers</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -31,7 +31,8 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": [],
     "ArtworkMD5": "abdda99eaaf832424c88da464a1b18b6",
     "BannerMD5": "fa62a36f93704209b2b7fe174c3ef21e",
     "IconMD5": null

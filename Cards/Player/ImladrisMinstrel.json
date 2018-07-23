@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "As Elrond entered and went towards the seat prepared for him, elvish minstrels began to make sweet music.\r\n—<i>The Fellowship of the Ring</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -31,6 +31,7 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
     "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
@@ -38,6 +39,6 @@
   },
   "Localization": {
     "Title": "Imladris Minstrel",
-    "Text": "<line-height=100%>When any Enemy is defeated, restore 1 <size=120%><sprite=2></size> to a Character"
+    "Text": "<line-height=100%>Restore 1 <size=120%><sprite=2></size> to a Character \nevery time an Enemy is defeated"
   }
 }

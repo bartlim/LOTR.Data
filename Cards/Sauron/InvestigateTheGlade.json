@@ -1,15 +1,15 @@
 {
   "CardData": {
-    "Id": "RainOfBoulders",
+    "Id": "InvestigateTheGlade",
     "Owner": "Sauron",
-    "CardType": 11,
-    "ShopType": "",
-    "Cost": 1,
-    "QuestPoints": 0,
+    "CardType": 6,
+    "ShopType": "Starter",
+    "Cost": 0,
+    "QuestPoints": 6,
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "Threat",
+    "Trait": "Main",
     "Rarity": 0,
     "Sphere": 2,
     "SphereLevel": 0,
@@ -20,9 +20,9 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "<i><line-height=100%><size=200%>A</size> barrage of boulders flies through the air to smash into your party!",
+    "FlavorText": "After a good deal of creeping and crawling they peered round the trunks and looked into a clearing where some trees had been felled and the ground levelled.\r\n—<i>The Hobbit</i>",
     "ArtistName": "",
-    "Status": "Ready",
+    "Status": "WIP",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
     "CardScale": 1.0,
@@ -33,12 +33,12 @@
     "ResolutionValue": 0,
     "CanBePlayedDuringTravel": true,
     "ComboList": [],
-    "ArtworkMD5": "ba9be8f9d292fea0e7f52f4da608d685",
-    "BannerMD5": "73fac6c44ae5817b4e50d12e7cd285fa",
-    "IconMD5": "40fea94b5e33db33cd481fb7fdf432c8"
+    "ArtworkMD5": null,
+    "BannerMD5": null,
+    "IconMD5": null
   },
   "Localization": {
-    "Title": "Rain of Boulders",
-    "Text": "Deal 2 damage to every Character"
+    "Title": "Investigate the Glade",
+    "Text": "Resolve to gain Sting \nand allow travel"
   }
 }

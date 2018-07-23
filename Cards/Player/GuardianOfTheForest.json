@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "Out leaped Wood-elves with their bows and spears and called the Dwarves to halt.\r\n—<i>The Hobbit</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -31,6 +31,7 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
     "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
@@ -38,6 +39,6 @@
   },
   "Localization": {
     "Title": "Guardian of the Forest",
-    "Text": "<b>Arrival</b>: Activate <b>Guard</b>. \n<b>Guard</b>. <b>Stalwart</b>"
+    "Text": "<b>Guard</b>. <b>Stalwart</b>"
   }
 }

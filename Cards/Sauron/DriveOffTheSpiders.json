@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "The spiders swelled with rage, and spluttered and frothed, and hissed out horrible curses; but they had become mortally afraid of Sting, and dared not come very near…\r\n—<i>The Hobbit</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -39,6 +39,6 @@
   },
   "Localization": {
     "Title": "Drive Off the Spiders",
-    "Text": "[This Objective will auto-resolve if all spiders are defeated]\n<i>Lumpy Cocoon</i> enters play"
+    "Text": "Resolve for Bulging Cocoon \nto enter play.\nResolve automatically if \nevery <b><i>Spider</b></i> is defeated"
   }
 }

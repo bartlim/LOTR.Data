@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "But they had not gone more than a furlong when the storm returned with fresh fury. \r\n—<i>The Fellowship of the Ring</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -39,6 +39,6 @@
   },
   "Localization": {
     "Title": "Foul Weather",
-    "Text": "Draw only 1 card during <b>Upkeep</b>"
+    "Text": "<b>Upkeep</b>: Until resolved, \ndraw only 1 card"
   }
 }

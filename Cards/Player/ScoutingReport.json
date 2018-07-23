@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "A marching host of Elves had come up silently… and they brought news, some of which Haldir reported.\r\n—<i>The Fellowship of the Ring</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -31,6 +31,7 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
     "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
@@ -38,6 +39,6 @@
   },
   "Localization": {
     "Title": "Scouting Report",
-    "Text": "<line-height=100%>Discard an Ally to give every Character +1 <size=120%><sprite=5></size> this round"
+    "Text": "<line-height=100%>Defeat an Ally to give every Character +1 <size=120%><sprite=5></size> this round"
   }
 }

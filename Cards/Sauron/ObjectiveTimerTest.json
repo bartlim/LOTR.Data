@@ -31,14 +31,14 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
-    "IconMD5": null,
-    "CanBePlayedDuringTravel": true
+    "IconMD5": null
   },
   "Localization": {
     "Title": "Timed Objective",
-    "Text": "[Cannot be targeted]\n<b>End of Round</b>: Apply 1 Progress to self."
+    "Text": "Cannot engage.\nEnd of Round: Apply 1 progress to this Objective"
   }
 }

@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "…there were all the baggages and packages lying broken open, and being rummaged by goblins, and smelt by goblins, and fingered by goblins, and quarreled over by goblins.\r\n—<i>The Hobbit</i>",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -39,6 +39,6 @@
   },
   "Localization": {
     "Title": "Goblin Scavenger",
-    "Text": "<b>Arrival</b>: Draw 1 Card. \nIncrease <size=120%><sprite=4></size> by that card's cost. (Maximum 3 <size=120%><sprite=4></size>)"
+    "Text": "<line-height=100%><b>Arrival</b>: Draw 1 card; then increase <size=120%><sprite=4></size> by that card's cost (limit +3 <size=120%><sprite=4></size>)"
   }
 }

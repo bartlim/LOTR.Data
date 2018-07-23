@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "Somehow or other Fili was got on to the branch, and then he did his best to help the hobbit, although he was feeling very sick and ill from spider-poison…\n—<i>The Hobbit</i>",
     "ArtistName": "",
     "Status": "None",
     "CardOffsetX": 1.0,
@@ -31,11 +31,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
-    "IconMD5": null,
-    "CanBePlayedDuringTravel": true
+    "IconMD5": null
   },
   "Localization": {
     "Title": "Spider's Poison",
