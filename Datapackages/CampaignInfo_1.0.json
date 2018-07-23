@@ -1595,7 +1595,12 @@
               "NextStageId": "C001Q1L3",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": [
+                {
+                  "Id": "GollumsBite",
+                  "Threshold": 5
+                }
+              ]
             },
             {
               "Id": "C001Q1L3",
@@ -3162,7 +3167,7 @@
             {
               "Id": "C900Q2L1",
               "SceneName": "Q01_L01_ForestGate",
-              "IntroMusic": "",
+              "IntroMusic": "mus_cave",
               "IntroVoice": "OpeningMirkwood_01",
               "IntroSprite": "Sprites/Locations/Quest1_Stage01",
               "SoloGameSetup": [
@@ -3170,9 +3175,14 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null,
+              "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [
+                {
+                  "Id": "Test",
+                  "Threshold": 4
+                }
+              ]
             }
           ],
           "SauronDeck": [
