@@ -2,7 +2,7 @@
   "CardData": {
     "Id": "ATestWH05",
     "Owner": "Player",
-    "CardType": 0,
+    "CardType": 10,
     "ShopType": "",
     "Cost": 0,
     "QuestPoints": 0,
@@ -21,6 +21,7 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "",
+    "CannotTriggerReson": "",
     "ArtistName": "",
     "Status": "",
     "CardOffsetX": 1.0,
