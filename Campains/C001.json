@@ -42,7 +42,12 @@
           "NextStageId": "C001Q1L3",
           "BGM": "mus_cave",
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": [
+            {
+              "Id": "GollumsBite",
+              "Threshold": 5
+            }
+          ]
         },
         {
           "Id": "C001Q1L3",
