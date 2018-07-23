@@ -282,11 +282,11 @@
         "NextStageTitles": [
           "C001Q1L3"
         ],
-        "FateCardList": [],
+        "FateCardList": null,
         "ThreatCardList": [
           {
             "Id": "GollumsBite",
-            "Threshold": 4
+            "Threshold": 3
           }
         ]
       },
@@ -360,9 +360,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180723071619590",
+  "Version": "20180723075434581",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180723071619590"
+  "InternalKey": "MainQuest_C001Q1_20180723075434581"
 }
