@@ -100,7 +100,12 @@
           "NextStageId": "",
           "BGM": "mus_cave",
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [
+            {
+              "Id": "Test",
+              "Threshold": 4
+            }
+          ]
         }
       ],
       "SauronDeck": [
