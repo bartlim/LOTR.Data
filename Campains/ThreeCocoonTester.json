@@ -1,8 +1,8 @@
 {
   "Id": "ThreeCocoonTester",
   "IconSprite": "Sprites/Quest/icon_q1",
-  "MapPosX": -1.0,
-  "MapPosY": -24.0,
+  "MapPosX": 14.0,
+  "MapPosY": -21.0,
   "Quests": [
     {
       "Id": "ThreeCocoonTesterQuest01",
@@ -48,39 +48,48 @@
       "SauronDeck": [
         {
           "Id": "BlackForestBats",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "DolGuldurOrcs",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "EastBightPatrol",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "Enfeebled",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "DrivenByShadow",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "GoblinSniper",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "MirkwoodPatrol",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "ThickWebs",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "Tribulation",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         }
       ],
       "FateCardList": [
@@ -140,39 +149,48 @@
       "SauronDeck": [
         {
           "Id": "BlackForestBats",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "DolGuldurOrcs",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "EastBightPatrol",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "Enfeebled",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "DrivenByShadow",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "GoblinSniper",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "MirkwoodPatrol",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "ThickWebs",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "Tribulation",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         }
       ],
       "FateCardList": null,
@@ -206,39 +224,48 @@
       "SauronDeck": [
         {
           "Id": "BlackForestBats",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "DolGuldurOrcs",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "EastBightPatrol",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "Enfeebled",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "DrivenByShadow",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "GoblinSniper",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "MirkwoodPatrol",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "ThickWebs",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "Tribulation",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         }
       ],
       "FateCardList": null,
@@ -272,39 +299,48 @@
       "SauronDeck": [
         {
           "Id": "BlackForestBats",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "DolGuldurOrcs",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "EastBightPatrol",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "Enfeebled",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "DrivenByShadow",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "GoblinSniper",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "MirkwoodPatrol",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "ThickWebs",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "Tribulation",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         }
       ],
       "FateCardList": null,
@@ -338,39 +374,48 @@
       "SauronDeck": [
         {
           "Id": "BlackForestBats",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "DolGuldurOrcs",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "EastBightPatrol",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "Enfeebled",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "DrivenByShadow",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "GoblinSniper",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "MirkwoodPatrol",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "ThickWebs",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         },
         {
           "Id": "Tribulation",
-          "Amount": 2
+          "Amount": 2,
+          "PlayOnce": false
         }
       ],
       "FateCardList": null,

@@ -4086,6 +4086,12 @@
     "Text_FR": "Not Enough Fate!"
   },
   {
+    "Id": "U_CAMPAIGN_COMPLETE",
+    "Text": "CAMPAIGN COMPLETE",
+    "Text_CN": "[C]战役完成！",
+    "Text_FR": "CAMPAIGN COMPLETE"
+  },
+  {
     "Id": "PLACEHOLDER2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -13553,7 +13559,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q1L2_TEXT",
-    "Text": "\t<i><size=58>A</size> strange dark stream interrupts the path. \rSomething moves in the shadows of the canopies above. \n\tCarefully crossing the foul river on a fallen log, you do not look upwards until it is too late! A member of your party is grabbed by the spiders before you can react.</i>"
+    "Text": "<i><size=58>A</size> strange dark stream interrupts the path. \rSomething moves in the shadows of the canopies above. \n\nCarefully crossing the foul river on a fallen log, you do not look upwards until it is too late! A member of your party is grabbed by the spiders before you can react.</i>"
   },
   {
     "Id": "Q_STAGE_C001Q1L2_OBJECTIVE",
@@ -13577,7 +13583,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q1L4_TEXT",
-    "Text": "\t<i><size=58>T</size>he trail seems to have been lost, when the Adventures hear a shrill wail in the distance. They rush to investigate. \r\n\tToo fast.. for suddenly three enormous spider-guardians descend before them.</i>"
+    "Text": "<i><size=58>T</size>he trail seems to have been lost, when the Adventures hear a shrill wail in the distance. They rush to investigate. \r\n\nToo fast.. for suddenly three enormous spider-guardians descend before them.</i>"
   },
   {
     "Id": "Q_STAGE_C001Q1L4_OBJECTIVE",
@@ -14094,5 +14100,13 @@
   {
     "Id": "C_ATESTWH05_CTR",
     "Text": "test ctr"
+  },
+  {
+    "Id": "C_AATEST180514_CTR",
+    "Text": "new reason"
+  },
+  {
+    "Id": "C_CRIPPLINGBLOW_CTR",
+    "Text": "No suitable enemy in sight!"
   }
 ]
