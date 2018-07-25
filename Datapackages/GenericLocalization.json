@@ -14396,5 +14396,17 @@
   {
     "Id": "C_WANDERINGPATROL_FLAVOR",
     "Text": ""
+  },
+  {
+    "Id": "C_DETERIORATINGGATE_TITLE",
+    "Text": "Deteriorating Gate"
+  },
+  {
+    "Id": "C_DETERIORATINGGATE_TEXT",
+    "Text": "Cannot engage. If resolved, spawn Chieftain Ufthak and Guards.\n<size=90%><b>End of Round</b>: Spawn a random <b><i>Orc</i></b></size>"
+  },
+  {
+    "Id": "C_DETERIORATINGGATE_FLAVOR",
+    "Text": ""
   }
 ]
