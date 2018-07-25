@@ -1866,7 +1866,7 @@
             },
             {
               "Id": "C001Q2L3",
-              "SceneName": "Q02_L03_TangledInWebs",
+              "SceneName": "Q02_L02_TheSpidersLair",
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": "FliesAndSpidersTheSpidersWebsIntroSprite",
@@ -6558,8 +6558,8 @@
     {
       "Id": "ThreeCocoonTester",
       "IconSprite": "Sprites/Quest/icon_q1",
-      "MapPosX": -1.0,
-      "MapPosY": -24.0,
+      "MapPosX": 14.0,
+      "MapPosY": -21.0,
       "Quests": [
         {
           "Id": "ThreeCocoonTesterQuest01",
