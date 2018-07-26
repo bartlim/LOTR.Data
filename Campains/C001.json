@@ -14,7 +14,7 @@
       "Stages": [
         {
           "Id": "C001Q1L1",
-          "SceneName": "ForestStream03",
+          "SceneName": "Q04_L02_AnduinPassage",
           "IntroMusic": "mus_deckmenu",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "TheShadowsReachQuest01TheSpidersGladeIntroSprite",
@@ -31,7 +31,7 @@
         },
         {
           "Id": "C001Q1L2",
-          "SceneName": "EnchantedStream01",
+          "SceneName": "Q01_L04_TheEnchantedStream",
           "IntroMusic": "mus_deckmenu",
           "IntroVoice": "",
           "IntroSprite": "TheShadowsReachQuest01CrossingTheEnchantedStreamIntroSprite",
@@ -46,7 +46,7 @@
         },
         {
           "Id": "C001Q1L3",
-          "SceneName": "Mirkwood02",
+          "SceneName": "Q01_L02_CapturedBySpiders",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": "TheShadowsReachQuest01AnUnexpectedEnemyIntroSprite",
@@ -69,7 +69,7 @@
         },
         {
           "Id": "C001Q1L4",
-          "SceneName": "DarkForest03",
+          "SceneName": "Q03_L03b_OvergrownTrail",
           "IntroMusic": "mus_mapmenu",
           "IntroVoice": "",
           "IntroSprite": "TheShadowsReachQuest01TheSpidersWebsIntroSprite",
@@ -281,7 +281,7 @@
       "Stages": [
         {
           "Id": "C001Q2L1",
-          "SceneName": "Spiders01",
+          "SceneName": "Q02_L01_DarkForest",
           "IntroMusic": "mus_cave",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
@@ -297,7 +297,7 @@
         },
         {
           "Id": "C001Q2L2",
-          "SceneName": "Spiders02",
+          "SceneName": "Q02_L02_TheSpidersLair",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": "FliesAndSpidersTheSpidersLairIntroSprite",
@@ -313,7 +313,7 @@
         },
         {
           "Id": "C001Q2L3",
-          "SceneName": "Spiders02",
+          "SceneName": "Q02_L02_TheSpidersLair",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": "FliesAndSpidersTheSpidersWebsIntroSprite",
@@ -329,7 +329,7 @@
         },
         {
           "Id": "C001Q2L4",
-          "SceneName": "Spiders04",
+          "SceneName": "Q02_L04_ForestGlade",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": "FliesAndSpidersForestLairIntroSprite",
@@ -552,7 +552,7 @@
       "Stages": [
         {
           "Id": "C001Q3L1",
-          "SceneName": "Mirkwood03",
+          "SceneName": "Q01_L03a_StandAndFight",
           "IntroMusic": "mus_cave",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
@@ -570,7 +570,7 @@
         },
         {
           "Id": "C001Q3L2A",
-          "SceneName": "ForestStream01",
+          "SceneName": "Q03_L02a_ForestStream",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": "OnTheTrailAlongTheTrailIntroSprite",
@@ -588,7 +588,7 @@
         },
         {
           "Id": "C001Q3L2B",
-          "SceneName": "DarkForest01",
+          "SceneName": "Q03_L01_LostInMirkwood",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": "OnTheTrailASecretWayIntroSprite",
@@ -606,7 +606,7 @@
         },
         {
           "Id": "C001Q3L3A",
-          "SceneName": "DarkForest03",
+          "SceneName": "Q03_L03b_OvergrownTrail",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": "OnTheTrailAmbushedIntroSprite",
@@ -624,7 +624,7 @@
         },
         {
           "Id": "C001Q3L3B",
-          "SceneName": "MirkwoodSwamp01",
+          "SceneName": "Q03_L03a_MirkwoodSwamp",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": "OnTheTrailMirkwoodSwampIntroSprite",
@@ -905,7 +905,7 @@
       "Stages": [
         {
           "Id": "C001Q4L1",
-          "SceneName": "Mirkwood01",
+          "SceneName": "Q01_L01_ForestGate",
           "IntroMusic": "mus_cave",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
@@ -921,7 +921,7 @@
         },
         {
           "Id": "C001Q4L2",
-          "SceneName": "GoblinTunnel01",
+          "SceneName": "Q01_L03_GoblinTunnel",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": null,
@@ -937,7 +937,7 @@
         },
         {
           "Id": "C001Q4L3",
-          "SceneName": "Hall02",
+          "SceneName": "Q01_L08_DolGuldurDungeons",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": null,
@@ -952,7 +952,7 @@
         },
         {
           "Id": "C001Q4L4",
-          "SceneName": "Hall01",
+          "SceneName": "Q01_L04_DeepChasm",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": null,
@@ -969,7 +969,7 @@
         },
         {
           "Id": "C001Q4L5",
-          "SceneName": "Dungeon01",
+          "SceneName": "Q01_L05_GoblinDungeons",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": null,
@@ -1233,7 +1233,7 @@
       "Stages": [
         {
           "Id": "C001Q5L1",
-          "SceneName": "ForestStream02",
+          "SceneName": "Q04_L01_ToTheRiver",
           "IntroMusic": "mus_cave",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
@@ -1249,7 +1249,7 @@
         },
         {
           "Id": "C001Q5L2",
-          "SceneName": "ForestStream03",
+          "SceneName": "Q04_L02_AnduinPassage",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": null,
@@ -1266,7 +1266,7 @@
         },
         {
           "Id": "C001Q5L3A",
-          "SceneName": "ForestStream04",
+          "SceneName": "Q04_L03_AmbushOnTheShore",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": null,
@@ -1284,7 +1284,7 @@
         },
         {
           "Id": "C001Q5L3B",
-          "SceneName": "ForestStream05",
+          "SceneName": "Q05_L01_SearchingForGrimbeorn",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": null,
@@ -1300,7 +1300,7 @@
         },
         {
           "Id": "C001Q5L4",
-          "SceneName": "Mirkwood01",
+          "SceneName": "Q01_L01_ForestGate",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": null,
