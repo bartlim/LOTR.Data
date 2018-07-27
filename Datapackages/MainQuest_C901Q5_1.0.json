@@ -1,0 +1,108 @@
+{
+  "DataSet": {
+    "Title": "C901Q5",
+    "SauronDeckInfo": {
+      "Id": null,
+      "DeckList": [
+        {
+          "Id": "BlackForestBats",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "DolGuldurOrcs",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "EastBightPatrol",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "Enfeebled",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "DrivenByShadow",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "GoblinSniper",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "MirkwoodPatrol",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "ThickWebs",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "Tribulation",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        }
+      ]
+    },
+    "Stages": [
+      {
+        "Title": "C901Q5L1",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ],
+        "FateCardList": [],
+        "ThreatCardList": []
+      }
+    ],
+    "Sequences": [],
+    "Stories": [],
+    "FateCardList": [],
+    "ThreatCardList": [],
+    "AIBehavior": "AggressiveAI"
+  },
+  "Version": "20180727080149038",
+  "Key": "MainQuest",
+  "SubKey": "C901Q5",
+  "RequiredClientVersion": "1.0",
+  "InternalKey": "MainQuest_C901Q5_20180727080149038"
+}
