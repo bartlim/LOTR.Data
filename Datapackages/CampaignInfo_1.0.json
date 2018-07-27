@@ -2463,9 +2463,9 @@
               "IntroVoice": "OpeningMirkwood_01",
               "IntroSprite": "Sprites/Locations/Quest1_Stage01",
               "SoloGameSetup": [
-                "AvoidThePatrols",
-                "TowerPatrol",
-                "TowerPatrol"
+                "GiantWorm",
+                "MuckAdder",
+                "MuckAdder"
               ],
               "NextStageId": "C001Q4L2",
               "BGM": "mus_cave",
@@ -2497,11 +2497,12 @@
               "IntroVoice": "",
               "IntroSprite": null,
               "SoloGameSetup": [
-                "ChieftainUfthak",
-                "DolGuldurOrc"
+                "FreeBilbo",
+                "DeterioratingGate",
+                "GollumEnemy"
               ],
               "NextStageId": "",
-              "BGM": "mus_cave",
+              "BGM": "mus_dungeon",
               "FateCardList": null,
               "ThreatCardList": null
             }
