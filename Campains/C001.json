@@ -1270,17 +1270,17 @@
           "ThreatCardList": null
         },
         {
-          "Id": "C001Q5L3A",
+          "Id": "C001Q5L3",
           "SceneName": "ForestStream04",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": [
-            "RiverChannel",
-            "Rapids",
-            "Rocks",
-            "SwirlingEddy",
-            "GoblinSniper"
+            "DenyTheCrossing",
+            "MirkwoodPatrol",
+            "GoblinSniper",
+            "EastBightPatrol",
+            "OrcMarauder"
           ],
           "NextStageId": "C001Q5L4",
           "BGM": "mus_cave",
