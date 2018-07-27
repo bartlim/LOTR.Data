@@ -22,7 +22,7 @@
             "FindThePath",
             "VeteranPatrol"
           ],
-          "NextStageId": "",
+          "NextStageId": "C901Q1L2",
           "BGM": "mus_cave",
           "FateCardList": [],
           "ThreatCardList": []
@@ -36,8 +36,68 @@
           "SoloGameSetup": [
             ""
           ],
-          "NextStageId": "",
+          "NextStageId": "C901Q1L3",
           "BGM": "mus_cave",
+          "FateCardList": null,
+          "ThreatCardList": null
+        },
+        {
+          "Id": "C901Q1L3",
+          "SceneName": "Mirkwood03",
+          "IntroMusic": "mus_cave",
+          "IntroVoice": "",
+          "IntroSprite": null,
+          "SoloGameSetup": null,
+          "NextStageId": "C901Q1L4",
+          "BGM": "mus_cave",
+          "FateCardList": null,
+          "ThreatCardList": null
+        },
+        {
+          "Id": "C901Q1L4",
+          "SceneName": "Mirkwood04",
+          "IntroMusic": "mus_cave",
+          "IntroVoice": "",
+          "IntroSprite": null,
+          "SoloGameSetup": null,
+          "NextStageId": "C901Q1L5",
+          "BGM": "mus_cave",
+          "FateCardList": null,
+          "ThreatCardList": null
+        },
+        {
+          "Id": "C901Q1L5",
+          "SceneName": "EnchantedStream01",
+          "IntroMusic": "mus_cave",
+          "IntroVoice": "",
+          "IntroSprite": null,
+          "SoloGameSetup": null,
+          "NextStageId": "C901Q1L6",
+          "BGM": "mus_cave",
+          "FateCardList": null,
+          "ThreatCardList": null
+        },
+        {
+          "Id": "C901Q1L6",
+          "SceneName": "Spiders01",
+          "IntroMusic": "mus_cave",
+          "IntroVoice": "",
+          "IntroSprite": null,
+          "SoloGameSetup": null,
+          "NextStageId": "C901Q1L7",
+          "BGM": "mus_cave",
+          "FateCardList": null,
+          "ThreatCardList": null
+        },
+        {
+          "Id": "",
+          "SceneName": null,
+          "IntroMusic": null,
+          "IntroVoice": "",
+          "IntroSprite": null,
+          "SoloGameSetup": null,
+          "NextStageId": null,
+          "BGM": null,
           "FateCardList": null,
           "ThreatCardList": null
         }
