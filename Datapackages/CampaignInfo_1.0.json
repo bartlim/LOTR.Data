@@ -3478,8 +3478,8 @@
           "Id": "C901Q1",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
-          "VictoryVoice": null,
-          "DefeatVoice": null,
+          "VictoryVoice": "Victory",
+          "DefeatVoice": "Defeat",
           "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
@@ -3504,7 +3504,8 @@
               "IntroVoice": "",
               "IntroSprite": null,
               "SoloGameSetup": [
-                ""
+                "FindThePath",
+                "VeteranPatrol"
               ],
               "NextStageId": "C901Q1L3",
               "BGM": "mus_cave",
@@ -3517,7 +3518,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L4",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3529,7 +3533,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L5",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3541,7 +3548,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L6",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3553,7 +3563,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L7",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3565,7 +3578,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L8",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3577,7 +3593,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3589,7 +3608,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9A",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3601,7 +3623,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9B",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3613,7 +3638,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9C",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3625,7 +3653,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9D",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3637,7 +3668,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9E",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3649,7 +3683,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9F",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3661,7 +3698,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9G",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3673,7 +3713,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9H",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3685,7 +3728,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9I",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3697,7 +3743,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9J",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3709,7 +3758,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9K",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3721,7 +3773,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9L",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3733,7 +3788,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9M",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3745,7 +3803,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9N",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3757,7 +3818,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9O",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3769,7 +3833,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9P",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3781,7 +3848,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9Q",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3793,7 +3863,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9R",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3805,7 +3878,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9S",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3817,7 +3893,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9T",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3829,7 +3908,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9U",
               "BGM": "mus_cave",
               "FateCardList": null,
@@ -3841,7 +3923,10 @@
               "IntroMusic": "mus_cave",
               "IntroVoice": "",
               "IntroSprite": null,
-              "SoloGameSetup": null,
+              "SoloGameSetup": [
+                "FindThePath",
+                "VeteranPatrol"
+              ],
               "NextStageId": "C901Q1L9V",
               "BGM": "mus_cave",
               "FateCardList": null,
