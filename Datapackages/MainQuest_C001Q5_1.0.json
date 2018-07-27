@@ -302,8 +302,7 @@
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          "C001Q5L3A",
-          "C001Q5L3B"
+          "C001Q5L3"
         ],
         "FateCardList": [],
         "ThreatCardList": null
@@ -391,9 +390,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180727154842347",
+  "Version": "20180727154957993",
   "Key": "MainQuest",
   "SubKey": "C001Q5",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q5_20180727154842347"
+  "InternalKey": "MainQuest_C001Q5_20180727154957993"
 }
