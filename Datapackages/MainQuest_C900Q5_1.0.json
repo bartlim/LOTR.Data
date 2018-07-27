@@ -5,6 +5,14 @@
       "Id": null,
       "DeckList": [
         {
+          "Id": "AgentofSauron",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
           "Id": "BlackForestBats",
           "Quantity": 2,
           "PlayOnce": false,
@@ -13,7 +21,7 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "DolGuldurOrcs",
+          "Id": "DrivenByShadow",
           "Quantity": 2,
           "PlayOnce": false,
           "MinThreatLevel": 0,
@@ -37,7 +45,31 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "DrivenByShadow",
+          "Id": "ThickWebs",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "Tribulation",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "AccursedForest",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "DolGuldurOrcs",
           "Quantity": 2,
           "PlayOnce": false,
           "MinThreatLevel": 0,
@@ -54,22 +86,6 @@
         },
         {
           "Id": "MirkwoodPatrol",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "ThickWebs",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Tribulation",
           "Quantity": 2,
           "PlayOnce": false,
           "MinThreatLevel": 0,
@@ -100,9 +116,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180724145708881",
+  "Version": "20180727144612211",
   "Key": "MainQuest",
   "SubKey": "C900Q5",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C900Q5_20180724145708881"
+  "InternalKey": "MainQuest_C900Q5_20180727144612211"
 }
