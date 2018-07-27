@@ -14,8 +14,8 @@
       "Stages": [
         {
           "Id": "C901Q1L1",
-          "SceneName": "Q01_L01_ForestGate",
-          "IntroMusic": "",
+          "SceneName": "Mirkwood01",
+          "IntroMusic": "mus_cave",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
@@ -23,7 +23,7 @@
             "VeteranPatrol"
           ],
           "NextStageId": "",
-          "BGM": null,
+          "BGM": "mus_cave",
           "FateCardList": [],
           "ThreatCardList": []
         }
