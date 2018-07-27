@@ -14908,5 +14908,17 @@
   {
     "Id": "Q_STAGE_C900Q1L1_TEXT_1",
     "Text": "DefaultStory2"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3_NAME",
+    "Text": "The Ford"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3_TEXT",
+    "Text": "<i><size=58>H</size>aving reached a shallower part of the river, the raft is stuck on a sandbar in a fordable area of the river. Shallow water is good for Orcs, not so good for you.</i>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3_OBJECTIVE",
+    "Text": "Resolve <i>River Channel</i> to allow travel from this Location. <color=red>Bilbo must survive</color>"
   }
 ]
