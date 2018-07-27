@@ -1244,7 +1244,12 @@
           ],
           "NextStageId": "C001Q5L2",
           "BGM": "mus_cave",
-          "FateCardList": [],
+          "FateCardList": [
+            {
+              "Id": "DistractTheTroll",
+              "Threshold": 4
+            }
+          ],
           "ThreatCardList": null
         },
         {
