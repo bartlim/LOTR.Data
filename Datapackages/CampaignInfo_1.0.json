@@ -31,7 +31,8 @@
               "NextStageId": "CapturedBySpiders",
               "BGM": "mus_thewilderlands",
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "NarrativeTextList": null
             },
             {
               "Id": "CapturedBySpiders",
@@ -46,7 +47,8 @@
               "NextStageId": "StandAndFight,TurnAndFlee",
               "BGM": "mus_dungeon",
               "FateCardList": null,
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "NarrativeTextList": null
             },
             {
               "Id": "StandAndFight",
@@ -64,7 +66,8 @@
               "NextStageId": "TheEnchantedStream",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "TurnAndFlee",
@@ -81,7 +84,8 @@
               "NextStageId": "TheEnchantedStreamAlt",
               "BGM": "mus_mirkwood",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "TheEnchantedStream",
@@ -100,7 +104,8 @@
                   "Threshold": 5
                 }
               ],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "TheEnchantedStreamAlt",
@@ -122,7 +127,8 @@
                   "Threshold": 5
                 }
               ],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -339,7 +345,8 @@
                   "Threshold": 2
                 }
               ],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "TheSpidersLair",
@@ -355,7 +362,8 @@
               "NextStageId": "TheSpidersWebs",
               "BGM": "mus_dungeon",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "TheSpidersWebs",
@@ -371,7 +379,8 @@
               "NextStageId": "ForestGlade",
               "BGM": "mus_dungeon",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "ForestGlade",
@@ -388,7 +397,8 @@
               "NextStageId": "",
               "BGM": "mus_saurontheme",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -618,7 +628,8 @@
               "NextStageId": "ForestStream",
               "BGM": "mus_mirkwood",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "ForestStream",
@@ -641,7 +652,8 @@
                   "Threshold": 5
                 }
               ],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "BareHilltop",
@@ -664,7 +676,8 @@
                   "Threshold": 5
                 }
               ],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "MirkwoodSwamp",
@@ -681,7 +694,8 @@
               "NextStageId": "OvergrownTrail",
               "BGM": "mus_mirkwood",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "OvergrownTrail",
@@ -698,7 +712,8 @@
               "NextStageId": "AbandonedVillage",
               "BGM": "mus_mirkwood",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "AbandonedVillage",
@@ -715,7 +730,8 @@
               "NextStageId": "",
               "BGM": "mus_saurontheme",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -1007,7 +1023,8 @@
                   "Threshold": 5
                 }
               ],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "AnduinPassage",
@@ -1024,7 +1041,8 @@
               "NextStageId": "TreacherousShortcut",
               "BGM": "mus_stream",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "TreacherousShortcut",
@@ -1042,7 +1060,8 @@
               "NextStageId": "AmbushOnTheShoreStage",
               "BGM": "mus_desperation",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "GentleWaters",
@@ -1058,7 +1077,8 @@
               "NextStageId": "AmbushOnTheShoreStage",
               "BGM": "mus_stream",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "AmbushOnTheShoreStage",
@@ -1081,7 +1101,8 @@
                   "Threshold": 5
                 }
               ],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -1309,7 +1330,8 @@
               "NextStageId": "TheTrollsDinner",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "TheTrollsDinner",
@@ -1327,7 +1349,8 @@
               "NextStageId": "FightWithTheTrolls",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "FightWithTheTrolls",
@@ -1349,7 +1372,8 @@
                   "Threshold": 5
                 }
               ],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -1580,7 +1604,8 @@
               "NextStageId": "C001Q1L2",
               "BGM": "mus_mirkwood",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q1L2",
@@ -1595,7 +1620,8 @@
               "NextStageId": "C001Q1L3",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q1L3",
@@ -1618,7 +1644,8 @@
                   "Threshold": 7
                 }
               ],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q1L4",
@@ -1634,7 +1661,8 @@
               "NextStageId": "",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -1846,7 +1874,8 @@
               "NextStageId": "C001Q2L2",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q2L2",
@@ -1862,7 +1891,8 @@
               "NextStageId": "C001Q2L3",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q2L3",
@@ -1878,7 +1908,8 @@
               "NextStageId": "C001Q2L4",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q2L4",
@@ -1895,7 +1926,8 @@
               "NextStageId": "",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -2119,7 +2151,8 @@
               "NextStageId": "C001Q3L2A,C001Q3L2B",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q3L2A",
@@ -2137,7 +2170,8 @@
               "NextStageId": "C001Q3L3A,C001Q3L3B",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q3L2B",
@@ -2155,7 +2189,8 @@
               "NextStageId": "C001Q3L3A,C001Q3L3B",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q3L3A",
@@ -2173,7 +2208,8 @@
               "NextStageId": "",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q3L3B",
@@ -2188,7 +2224,8 @@
               "NextStageId": "",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -2470,7 +2507,8 @@
               "NextStageId": "C001Q4L2",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q4L2",
@@ -2486,7 +2524,8 @@
               "NextStageId": "C001Q4L3",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q4L3",
@@ -2501,7 +2540,8 @@
               "NextStageId": "C001Q4L4",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q4L4",
@@ -2518,7 +2558,8 @@
               "NextStageId": "C001Q4L5",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q4L5",
@@ -2536,7 +2577,8 @@
               "NextStageId": "",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -2798,7 +2840,8 @@
               "NextStageId": "C001Q5L2",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q5L2",
@@ -2815,7 +2858,8 @@
               "NextStageId": "C001Q5L3A,C001Q5L3B",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q5L3A",
@@ -2833,7 +2877,8 @@
               "NextStageId": "C001Q5L4",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q5L3B",
@@ -2849,7 +2894,8 @@
               "NextStageId": "C001Q5L4",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q5L4",
@@ -2868,7 +2914,8 @@
               "NextStageId": "",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -3097,7 +3144,11 @@
               "NextStageId": "",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "NarrativeTextList": [
+                "Q_STAGE_C900Q1L1_TEXT_0",
+                "Q_STAGE_C900Q1L1_TEXT_1"
+              ]
             }
           ],
           "SauronDeck": [
@@ -3177,7 +3228,8 @@
                   "Id": "Test",
                   "Threshold": 4
                 }
-              ]
+              ],
+              "NarrativeTextList": []
             }
           ],
           "SauronDeck": [
@@ -3252,7 +3304,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "NarrativeTextList": []
             }
           ],
           "SauronDeck": [
@@ -3327,7 +3380,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "NarrativeTextList": []
             }
           ],
           "SauronDeck": [
@@ -3402,7 +3456,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "NarrativeTextList": []
             }
           ],
           "SauronDeck": [
@@ -3495,7 +3550,8 @@
               "NextStageId": "C901Q1L2",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L2",
@@ -3510,7 +3566,8 @@
               "NextStageId": "C901Q1L3",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L3",
@@ -3525,7 +3582,8 @@
               "NextStageId": "C901Q1L4",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L4",
@@ -3540,7 +3598,8 @@
               "NextStageId": "C901Q1L5",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L5",
@@ -3555,7 +3614,8 @@
               "NextStageId": "C901Q1L6",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L6",
@@ -3570,7 +3630,8 @@
               "NextStageId": "C901Q1L7",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L7",
@@ -3585,7 +3646,8 @@
               "NextStageId": "C901Q1L8",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L8",
@@ -3600,7 +3662,8 @@
               "NextStageId": "C901Q1L9",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9",
@@ -3615,7 +3678,8 @@
               "NextStageId": "C901Q1L9A",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9A",
@@ -3630,7 +3694,8 @@
               "NextStageId": "C901Q1L9B",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9B",
@@ -3645,7 +3710,8 @@
               "NextStageId": "C901Q1L9C",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9C",
@@ -3660,7 +3726,8 @@
               "NextStageId": "C901Q1L9D",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9D",
@@ -3675,7 +3742,8 @@
               "NextStageId": "C901Q1L9E",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9E",
@@ -3690,7 +3758,8 @@
               "NextStageId": "C901Q1L9F",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9F",
@@ -3705,7 +3774,8 @@
               "NextStageId": "C901Q1L9G",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9G",
@@ -3720,7 +3790,8 @@
               "NextStageId": "C901Q1L9H",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9H",
@@ -3735,7 +3806,8 @@
               "NextStageId": "C901Q1L9I",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9I",
@@ -3750,7 +3822,8 @@
               "NextStageId": "C901Q1L9J",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9J",
@@ -3765,7 +3838,8 @@
               "NextStageId": "C901Q1L9K",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9K",
@@ -3780,7 +3854,8 @@
               "NextStageId": "C901Q1L9L",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9L",
@@ -3795,7 +3870,8 @@
               "NextStageId": "C901Q1L9M",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9M",
@@ -3810,7 +3886,8 @@
               "NextStageId": "C901Q1L9N",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9N",
@@ -3825,7 +3902,8 @@
               "NextStageId": "C901Q1L9O",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9O",
@@ -3840,7 +3918,8 @@
               "NextStageId": "C901Q1L9P",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9P",
@@ -3855,7 +3934,8 @@
               "NextStageId": "C901Q1L9Q",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9Q",
@@ -3870,7 +3950,8 @@
               "NextStageId": "C901Q1L9R",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9R",
@@ -3885,7 +3966,8 @@
               "NextStageId": "C901Q1L9S",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9S",
@@ -3900,7 +3982,8 @@
               "NextStageId": "C901Q1L9T",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9T",
@@ -3915,7 +3998,8 @@
               "NextStageId": "C901Q1L9U",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C901Q1L9U",
@@ -3930,7 +4014,8 @@
               "NextStageId": "C901Q1L9V",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -4005,7 +4090,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -4080,7 +4166,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -4155,7 +4242,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -4230,7 +4318,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -4334,7 +4423,8 @@
                   "Id": "threat2",
                   "Threshold": 2
                 }
-              ]
+              ],
+              "NarrativeTextList": null
             },
             {
               "Id": "DemoLocation2a",
@@ -4351,7 +4441,8 @@
               "NextStageId": "",
               "BGM": "mus_mirkwood",
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "NarrativeTextList": null
             },
             {
               "Id": "DemoLocation2b",
@@ -4368,7 +4459,8 @@
               "NextStageId": "",
               "BGM": "mus_mirkwood",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -4654,7 +4746,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -4729,7 +4822,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -4804,7 +4898,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -4879,7 +4974,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -4963,7 +5059,8 @@
               "NextStageId": "TrackingTheFoe",
               "BGM": "mus_danger",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "TrackingTheFoe",
@@ -4979,7 +5076,8 @@
               "NextStageId": "GiveChase",
               "BGM": "mus_mirkwood",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "GiveChase",
@@ -4995,7 +5093,8 @@
               "NextStageId": "DelayingAttack",
               "BGM": "mus_mirkwood",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "DelayingAttack",
@@ -5009,7 +5108,8 @@
               "NextStageId": "",
               "BGM": "mus_desperation",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -5110,7 +5210,8 @@
               "NextStageId": "TheHallsOfNibindum",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "TheHallsOfNibindum",
@@ -5124,7 +5225,8 @@
               "NextStageId": "ASneakyPath,ADirectAssault",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "ASneakyPath",
@@ -5136,7 +5238,8 @@
               "NextStageId": "TheOrcsLair",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "ADirectAssault",
@@ -5148,7 +5251,8 @@
               "NextStageId": "TheOrcsLair",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "TheOrcsLair",
@@ -5160,7 +5264,8 @@
               "NextStageId": "",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -5234,7 +5339,8 @@
               "NextStageId": "UseTheStream,HideAndSeek",
               "BGM": "mus_danger",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "UseTheStream",
@@ -5246,7 +5352,8 @@
               "NextStageId": "ApproachingRhosgobel",
               "BGM": "mus_danger",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "HideAndSeek",
@@ -5258,7 +5365,8 @@
               "NextStageId": "ApproachingRhosgobel",
               "BGM": "mus_danger",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "ApproachingRhosgobel",
@@ -5270,7 +5378,8 @@
               "NextStageId": "ALastStand",
               "BGM": "mus_danger",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "ALastStand",
@@ -5282,7 +5391,8 @@
               "NextStageId": "",
               "BGM": "mus_saurontheme",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -5357,7 +5467,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -5432,7 +5543,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -5515,7 +5627,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -5590,7 +5703,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -5665,7 +5779,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -5740,7 +5855,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -5815,7 +5931,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -5899,7 +6016,8 @@
               "NextStageId": "CrossingTheEnchantedStream",
               "BGM": "mus_mirkwood",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "CrossingTheEnchantedStream",
@@ -5914,7 +6032,8 @@
               "NextStageId": "BattleWithTheSpiders",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "BattleWithTheSpiders",
@@ -5931,7 +6050,8 @@
               "NextStageId": "TheSpidersWebs2",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "TheSpidersWebs2",
@@ -5947,7 +6067,8 @@
               "NextStageId": "",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -6159,7 +6280,8 @@
               "NextStageId": "TheSpidersLair2",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "TheSpidersLair2",
@@ -6175,7 +6297,8 @@
               "NextStageId": "TheSpidersWebs",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "TheSpidersHive",
@@ -6191,7 +6314,8 @@
               "NextStageId": "ForestLair",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "ForestLair",
@@ -6208,7 +6332,8 @@
               "NextStageId": "",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -6432,7 +6557,8 @@
               "NextStageId": "AlongTheTrail,ASecretWay",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "AlongTheTrail",
@@ -6450,7 +6576,8 @@
               "NextStageId": "Ambushed,MirkwoodSwamp",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "ASecretWay",
@@ -6468,7 +6595,8 @@
               "NextStageId": "Ambushed,MirkwoodSwamp",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "Ambushed",
@@ -6486,7 +6614,8 @@
               "NextStageId": "",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "MirkwoodSwamp",
@@ -6501,7 +6630,8 @@
               "NextStageId": "",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -6783,7 +6913,8 @@
               "NextStageId": "C001Q04L2",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q04L2",
@@ -6799,7 +6930,8 @@
               "NextStageId": "C001Q04L3",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q04L3",
@@ -6814,7 +6946,8 @@
               "NextStageId": "C001Q04L5",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q04L4",
@@ -6831,7 +6964,8 @@
               "NextStageId": "C001Q04L5",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q04L5",
@@ -6849,7 +6983,8 @@
               "NextStageId": "",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -7111,7 +7246,8 @@
               "NextStageId": "C001Q05L2",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q5L2",
@@ -7128,7 +7264,8 @@
               "NextStageId": "C001Q05L3a,C001Q05L3b",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q05L3a",
@@ -7146,7 +7283,8 @@
               "NextStageId": "C001Q05L4",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q05L3b",
@@ -7162,7 +7300,8 @@
               "NextStageId": "C001Q05L4",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "C001Q05L4",
@@ -7181,7 +7320,8 @@
               "NextStageId": "",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -7415,7 +7555,8 @@
                   "Id": "TutorialThreatEvent",
                   "Threshold": 1
                 }
-              ]
+              ],
+              "NarrativeTextList": null
             },
             {
               "Id": "",
@@ -7427,7 +7568,8 @@
               "NextStageId": null,
               "BGM": null,
               "FateCardList": null,
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -7528,7 +7670,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -7603,7 +7746,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -7678,7 +7822,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -7753,7 +7898,8 @@
               "NextStageId": "",
               "BGM": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -7833,7 +7979,8 @@
               "NextStageId": "Tutorial_Stage_02",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "Tutorial_Stage_02",
@@ -7845,7 +7992,8 @@
               "NextStageId": "Tutorial_Stage_03",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             },
             {
               "Id": "Tutorial_Stage_03",
@@ -7857,7 +8005,8 @@
               "NextStageId": "",
               "BGM": "mus_cave",
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [],
