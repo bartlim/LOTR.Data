@@ -1,0 +1,514 @@
+{
+  "DataSet": {
+    "Title": "C901Q1",
+    "SauronDeckInfo": {
+      "Id": null,
+      "DeckList": [
+        {
+          "Id": "BlackForestBats",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "DolGuldurOrcs",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "EastBightPatrol",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "Enfeebled",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "DrivenByShadow",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "GoblinSniper",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "MirkwoodPatrol",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "ThickWebs",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "Tribulation",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        }
+      ]
+    },
+    "Stages": [
+      {
+        "Title": "C901Q1L1",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L2"
+        ],
+        "FateCardList": [],
+        "ThreatCardList": []
+      },
+      {
+        "Title": "C901Q1L2",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L3"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L3",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L4"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L4",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L5"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L5",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L6"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L6",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L7"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L7",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L8"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L8",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9A"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9A",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9B"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9B",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9C"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9C",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9D"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9D",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9E"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9E",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9F"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9F",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9G"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9G",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9H"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9H",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9I"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9I",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9J"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9J",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9K"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9K",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9L"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9L",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9M"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9M",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9N"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9N",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9O"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9O",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9P"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9P",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9Q"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9Q",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9R"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9R",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9S"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9S",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9T"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9T",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9U"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L9U",
+        "SoloGameSetup": [
+          "FindThePath",
+          "VeteranPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L9V"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      }
+    ],
+    "Sequences": [],
+    "Stories": [],
+    "FateCardList": [],
+    "ThreatCardList": [],
+    "AIBehavior": "AggressiveAI"
+  },
+  "Version": "20180727091354598",
+  "Key": "MainQuest",
+  "SubKey": "C901Q1",
+  "RequiredClientVersion": "1.0",
+  "InternalKey": "MainQuest_C901Q1_20180727091354598"
+}
