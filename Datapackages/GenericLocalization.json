@@ -14619,7 +14619,7 @@
   },
   {
     "Id": "Q_STAGE_C901Q1L7_NAME",
-    "Text": "NewStage"
+    "Text": "Spiders02"
   },
   {
     "Id": "Q_STAGE_C901Q1L7_TEXT",
@@ -14631,7 +14631,7 @@
   },
   {
     "Id": "Q_STAGE_C901Q1L8_NAME",
-    "Text": "NewStage"
+    "Text": "Spiders03"
   },
   {
     "Id": "Q_STAGE_C901Q1L8_TEXT",
@@ -14643,7 +14643,7 @@
   },
   {
     "Id": "Q_STAGE_C901Q1L9_NAME",
-    "Text": "NewStage"
+    "Text": "Spiders04"
   },
   {
     "Id": "Q_STAGE_C901Q1L9_TEXT",
@@ -14655,7 +14655,7 @@
   },
   {
     "Id": "Q_STAGE_C901Q1L9A_NAME",
-    "Text": "NewStage"
+    "Text": "DarkForest01"
   },
   {
     "Id": "Q_STAGE_C901Q1L9A_TEXT",
@@ -14667,7 +14667,7 @@
   },
   {
     "Id": "Q_STAGE_C901Q1L9B_NAME",
-    "Text": "NewStage"
+    "Text": "DarkForest02"
   },
   {
     "Id": "Q_STAGE_C901Q1L9B_TEXT",
@@ -14679,7 +14679,7 @@
   },
   {
     "Id": "Q_STAGE_C901Q1L9C_NAME",
-    "Text": "NewStage"
+    "Text": "DarkForest03"
   },
   {
     "Id": "Q_STAGE_C901Q1L9C_TEXT",
@@ -14691,7 +14691,7 @@
   },
   {
     "Id": "Q_STAGE_C901Q1L9D_NAME",
-    "Text": "NewStage"
+    "Text": "DarkForest04"
   },
   {
     "Id": "Q_STAGE_C901Q1L9D_TEXT",
@@ -14703,7 +14703,7 @@
   },
   {
     "Id": "Q_STAGE_C901Q1L9E_NAME",
-    "Text": "NewStage"
+    "Text": "ForestStream01"
   },
   {
     "Id": "Q_STAGE_C901Q1L9E_TEXT",
@@ -14715,7 +14715,7 @@
   },
   {
     "Id": "Q_STAGE_C901Q1L9F_NAME",
-    "Text": "NewStage"
+    "Text": "ForestStream02"
   },
   {
     "Id": "Q_STAGE_C901Q1L9F_TEXT",
@@ -14723,6 +14723,186 @@
   },
   {
     "Id": "Q_STAGE_C901Q1L9F_OBJECTIVE",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9G_NAME",
+    "Text": "ForestStream03"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9G_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9G_OBJECTIVE",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9H_NAME",
+    "Text": "ForestStream04"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9H_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9H_OBJECTIVE",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9I_NAME",
+    "Text": "ForestStream05"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9I_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9I_OBJECTIVE",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9J_NAME",
+    "Text": "MirkwoodSwamp01"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9J_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9J_OBJECTIVE",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9K_NAME",
+    "Text": "Trolls01"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9K_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9K_OBJECTIVE",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9L_NAME",
+    "Text": "Trolls02"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9L_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9L_OBJECTIVE",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9M_NAME",
+    "Text": "BurningVillage01"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9M_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9M_OBJECTIVE",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9N_NAME",
+    "Text": "DwarfMine01"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9N_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9N_OBJECTIVE",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9O_NAME",
+    "Text": "GoblinTunnel01"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9O_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9O_OBJECTIVE",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9P_NAME",
+    "Text": "Hall01"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9P_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9P_OBJECTIVE",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9Q_NAME",
+    "Text": "Hall02"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9Q_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9Q_OBJECTIVE",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9R_NAME",
+    "Text": "Dungeon01"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9R_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9R_OBJECTIVE",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9S_NAME",
+    "Text": "Village01"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9S_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9S_OBJECTIVE",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9T_NAME",
+    "Text": "Ruins01"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9T_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9T_OBJECTIVE",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9U_NAME",
+    "Text": "Caverns01"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9U_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9U_OBJECTIVE",
     "Text": ""
   }
 ]
