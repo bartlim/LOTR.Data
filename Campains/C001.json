@@ -1294,22 +1294,6 @@
           "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": [
-            "RiverBend",
-            "Rocks",
-            "Rocks"
-          ],
-          "NextStageId": "C001Q5L4",
-          "BGM": "mus_cave",
-          "FateCardList": null,
-          "ThreatCardList": null
-        },
-        {
-          "Id": "C001Q5L4",
-          "SceneName": "Mirkwood01",
-          "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
-          "SoloGameSetup": [
             "WardensOfLorien",
             "ChieftainUfthak",
             "EliteDolGuldurOrc",
@@ -1318,7 +1302,7 @@
             "OrcMarauder"
           ],
           "NextStageId": "",
-          "BGM": "mus_cave",
+          "BGM": "mus_saurontheme",
           "FateCardList": null,
           "ThreatCardList": null
         }
