@@ -88,7 +88,7 @@
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "C901Q1L2"
         ],
         "FateCardList": [],
         "ThreatCardList": []
@@ -98,6 +98,61 @@
         "SoloGameSetup": [
           ""
         ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L3"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L3",
+        "SoloGameSetup": [],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L4"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L4",
+        "SoloGameSetup": [],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L5"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L5",
+        "SoloGameSetup": [],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L6"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "C901Q1L6",
+        "SoloGameSetup": [],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C901Q1L7"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
+      },
+      {
+        "Title": "",
+        "SoloGameSetup": [],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
@@ -113,9 +168,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180727081221753",
+  "Version": "20180727082053451",
   "Key": "MainQuest",
   "SubKey": "C901Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C901Q1_20180727081221753"
+  "InternalKey": "MainQuest_C901Q1_20180727082053451"
 }
