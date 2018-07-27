@@ -1255,7 +1255,7 @@
         {
           "Id": "C001Q5L2",
           "SceneName": "ForestStream03",
-          "IntroMusic": "mus_cave",
+          "IntroMusic": "mus_stream",
           "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": [
@@ -1266,7 +1266,7 @@
           ],
           "NextStageId": "C001Q5L3A,C001Q5L3B",
           "BGM": "mus_cave",
-          "FateCardList": null,
+          "FateCardList": [],
           "ThreatCardList": null
         },
         {
