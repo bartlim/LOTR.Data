@@ -905,7 +905,7 @@
       "Stages": [
         {
           "Id": "C001Q4L1",
-          "SceneName": "Mirkwood01",
+          "SceneName": "Hall02",
           "IntroMusic": "mus_cave",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
@@ -921,64 +921,31 @@
         },
         {
           "Id": "C001Q4L2",
-          "SceneName": "GoblinTunnel01",
-          "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
-          "SoloGameSetup": [
-            "EnterTheTower",
-            "MirkwoodPatrol",
-            "OrcMarauder"
-          ],
-          "NextStageId": "C001Q4L3",
-          "BGM": "mus_cave",
-          "FateCardList": null,
-          "ThreatCardList": null
-        },
-        {
-          "Id": "C001Q4L3",
           "SceneName": "Hall02",
-          "IntroMusic": "mus_cave",
+          "IntroMusic": "mus_dungeon",
           "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": [
-            "ChieftainUfthak",
-            "DolGuldurOrc"
-          ],
-          "NextStageId": "C001Q4L4",
-          "BGM": "mus_cave",
-          "FateCardList": null,
-          "ThreatCardList": null
-        },
-        {
-          "Id": "C001Q4L4",
-          "SceneName": "Hall01",
-          "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
-          "SoloGameSetup": [
+            "IntrudersInTheTower",
             "DolGuldurOrc",
             "GoblinTaskmaster",
             "EliteDolGuldurOrc",
             "GoblinPursuer"
           ],
-          "NextStageId": "C001Q4L5",
-          "BGM": "mus_cave",
+          "NextStageId": "C001Q4L3",
+          "BGM": "mus_dungeon",
           "FateCardList": null,
           "ThreatCardList": null
         },
         {
-          "Id": "C001Q4L5",
-          "SceneName": "Dungeon01",
-          "IntroMusic": "mus_cave",
+          "Id": "C001Q4L3",
+          "SceneName": "Hall03",
+          "IntroMusic": "mus_dungeon",
           "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": [
-            "FreeBilbo",
-            "EastBightPatrol",
-            "EastBightPatrol",
-            "PrisonGuard",
-            "DolGuldurArcher"
+            "ChieftainUfthak",
+            "DolGuldurOrc"
           ],
           "NextStageId": "",
           "BGM": "mus_cave",
