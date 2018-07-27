@@ -14920,5 +14920,17 @@
   {
     "Id": "Q_STAGE_C001Q5L3_OBJECTIVE",
     "Text": "Resolve <i>River Channel</i> to allow travel from this Location. <color=red>Bilbo must survive</color>"
+  },
+  {
+    "Id": "C_GOLLUMENEMY_TITLE",
+    "Text": "‰Gollum"
+  },
+  {
+    "Id": "C_GOLLUMENEMY_TEXT",
+    "Text": "Will run away if reduced to 6 <size=120%><sprite=2></size> or less"
+  },
+  {
+    "Id": "C_GOLLUMENEMY_FLAVOR",
+    "Text": ""
   }
 ]
