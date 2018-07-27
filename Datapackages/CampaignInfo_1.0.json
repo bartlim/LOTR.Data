@@ -3407,12 +3407,17 @@
           ],
           "SauronDeck": [
             {
+              "Id": "AgentofSauron",
+              "Amount": 1,
+              "PlayOnce": false
+            },
+            {
               "Id": "BlackForestBats",
               "Amount": 2,
               "PlayOnce": false
             },
             {
-              "Id": "DolGuldurOrcs",
+              "Id": "DrivenByShadow",
               "Amount": 2,
               "PlayOnce": false
             },
@@ -3427,7 +3432,22 @@
               "PlayOnce": false
             },
             {
-              "Id": "DrivenByShadow",
+              "Id": "ThickWebs",
+              "Amount": 2,
+              "PlayOnce": false
+            },
+            {
+              "Id": "Tribulation",
+              "Amount": 2,
+              "PlayOnce": false
+            },
+            {
+              "Id": "AccursedForest",
+              "Amount": 1,
+              "PlayOnce": false
+            },
+            {
+              "Id": "DolGuldurOrcs",
               "Amount": 2,
               "PlayOnce": false
             },
@@ -3438,16 +3458,6 @@
             },
             {
               "Id": "MirkwoodPatrol",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "ThickWebs",
-              "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "Tribulation",
               "Amount": 2,
               "PlayOnce": false
             }
