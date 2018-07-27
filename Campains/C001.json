@@ -41,7 +41,7 @@
           ],
           "NextStageId": "C001Q1L3",
           "BGM": "mus_cave",
-          "FateCardList": [],
+          "FateCardList": null,
           "ThreatCardList": []
         },
         {
@@ -313,7 +313,7 @@
         },
         {
           "Id": "C001Q2L3",
-          "SceneName": "Q02_L03_TangledInWebs",
+          "SceneName": "Q02_L02_TheSpidersLair",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": "FliesAndSpidersTheSpidersWebsIntroSprite",

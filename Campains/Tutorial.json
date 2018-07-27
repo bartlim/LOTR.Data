@@ -14,7 +14,7 @@
       "Stages": [
         {
           "Id": "Tutorial_Stage_01",
-          "SceneName": "Q01_L01_ForestGate",
+          "SceneName": "Mirkwood01",
           "IntroMusic": "mus_cave",
           "IntroVoice": "TutorialNarrativeScreen1",
           "IntroSprite": "Sprites/Locations/Tutorial_NarrativeScreen-1",
@@ -26,7 +26,7 @@
         },
         {
           "Id": "Tutorial_Stage_02",
-          "SceneName": "Q01_L01_ForestGate",
+          "SceneName": "Mirkwood01",
           "IntroMusic": "mus_cave",
           "IntroVoice": "TutorialNarrativeScreen2",
           "IntroSprite": "Sprites/Locations/Tutorial_NarrativeScreen-2",
@@ -38,7 +38,7 @@
         },
         {
           "Id": "Tutorial_Stage_03",
-          "SceneName": "Q01_L01_ForestGate",
+          "SceneName": "Mirkwood01",
           "IntroMusic": "mus_cave",
           "IntroVoice": "TutorialNarrativeScreen3",
           "IntroSprite": "Sprites/Locations/Tutorial_NarrativeScreen-3",

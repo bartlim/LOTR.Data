@@ -1,17 +1,17 @@
 {
   "CardData": {
-    "Id": "WardensOfLorien",
-    "Owner": "Sauron",
-    "CardType": 6,
-    "ShopType": "Starter",
+    "Id": "HaldirAlly",
+    "Owner": "Player",
+    "CardType": 0,
+    "ShopType": "Special",
     "Cost": 0,
-    "QuestPoints": 3,
-    "Attack": 0,
-    "Willpower": 0,
-    "Health": 0,
-    "Trait": "Main",
-    "Rarity": 0,
-    "Sphere": 5,
+    "QuestPoints": 0,
+    "Attack": 2,
+    "Willpower": 3,
+    "Health": 9,
+    "Trait": "Silvan",
+    "Rarity": 4,
+    "Sphere": 1,
     "SphereLevel": 0,
     "Revision": null,
     "PlayVFX": "",
@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "\"…there is a secret power here that holds evil from the land.\"\r\n—Legolas, <i>The Fellowship of the Ring</i>",
+    "FlavorText": "\"We allow no strangers to spy out the secrets of the Naith. Few indeed are permitted even to set foot there.\"\n—Haldir, <i>The Fellowship of the Ring</i>",
     "CannotTriggerReason": "",
     "ArtistName": "",
     "Status": "WIP",
@@ -39,7 +39,7 @@
     "IconMD5": null
   },
   "Localization": {
-    "Title": "Wardens of Lórien",
-    "Text": "Cannot engage.\r\nResolve to gain Haldir and his group of wardens"
+    "Title": "‰Haldir",
+    "Text": "<b>Arrival</b>: Reduce all <b><i>Orc</i></b> attack values by 1 then reduces the cost of all <b><i>Silvan</b></i> cards in hand to 0 <size=120%><sprite=3></size>"
   }
 }
