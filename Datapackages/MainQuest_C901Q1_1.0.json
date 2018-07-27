@@ -92,6 +92,19 @@
         ],
         "FateCardList": [],
         "ThreatCardList": []
+      },
+      {
+        "Title": "C901Q1L2",
+        "SoloGameSetup": [
+          ""
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null
       }
     ],
     "Sequences": [],
@@ -100,9 +113,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180727081035946",
+  "Version": "20180727081221753",
   "Key": "MainQuest",
   "SubKey": "C901Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C901Q1_20180727081035946"
+  "InternalKey": "MainQuest_C901Q1_20180727081221753"
 }
