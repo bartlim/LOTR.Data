@@ -16,8 +16,12 @@
           "Id": "C900Q1L1",
           "SceneName": "Q01_L01_ForestGate",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "OpeningMirkwood_01",
-          "IntroSprite": "C900Q1L1IntroSprite",
+          "IntroVoiceList": [
+            "C900Q1L1_IntroVoice_1"
+          ],
+          "IntroSpriteList": [
+            "C900Q1L1_IntroSprite_1"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
@@ -26,10 +30,9 @@
           "BGM": "mus_cave",
           "FateCardList": [],
           "ThreatCardList": [],
-          "NarrativeCount": 2,
+          "NarrativeCount": 1,
           "NarrativeTextList": [
-            "Q_STAGE_C900Q1L1_TEXT_0",
-            "Q_STAGE_C900Q1L1_TEXT_1"
+            "Q_STAGE_C900Q1L1_TEXT_0"
           ]
         }
       ],
@@ -96,8 +99,8 @@
           "Id": "C900Q2L1",
           "SceneName": "Q01_L01_ForestGate",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "OpeningMirkwood_01",
-          "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+          "IntroVoiceList": [],
+          "IntroSpriteList": [],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
@@ -178,8 +181,8 @@
           "Id": "C900Q3L1",
           "SceneName": "Q01_L01_ForestGate",
           "IntroMusic": "",
-          "IntroVoice": "OpeningMirkwood_01",
-          "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+          "IntroVoiceList": [],
+          "IntroSpriteList": [],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
@@ -255,8 +258,8 @@
           "Id": "C900Q4L1",
           "SceneName": "Q01_L01_ForestGate",
           "IntroMusic": "",
-          "IntroVoice": "OpeningMirkwood_01",
-          "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+          "IntroVoiceList": [],
+          "IntroSpriteList": [],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
@@ -332,8 +335,8 @@
           "Id": "C900Q5L1",
           "SceneName": "Q01_L01_ForestGate",
           "IntroMusic": "",
-          "IntroVoice": "OpeningMirkwood_01",
-          "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+          "IntroVoiceList": [],
+          "IntroSpriteList": [],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
