@@ -96,9 +96,7 @@
             "Id": "Test",
             "Threshold": 4
           }
-        ],
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        ]
       }
     ],
     "Sequences": [],
@@ -107,9 +105,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180730140723214",
+  "Version": "20180730110650926",
   "Key": "MainQuest",
   "SubKey": "C900Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C900Q2_20180730140723214"
+  "InternalKey": "MainQuest_C900Q2_20180730110650926"
 }
