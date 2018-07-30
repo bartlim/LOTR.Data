@@ -269,7 +269,9 @@
           "C001Q1L2"
         ],
         "FateCardList": [],
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 0,
+        "NarrativeTextList": []
       },
       {
         "Title": "C001Q1L2",
@@ -283,7 +285,9 @@
           "C001Q1L3"
         ],
         "FateCardList": null,
-        "ThreatCardList": []
+        "ThreatCardList": [],
+        "NarrativeCount": 0,
+        "NarrativeTextList": []
       },
       {
         "Title": "C001Q1L3",
@@ -305,7 +309,9 @@
             "Threshold": 7
           }
         ],
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 0,
+        "NarrativeTextList": []
       },
       {
         "Title": "C001Q1L4",
@@ -320,7 +326,9 @@
           ""
         ],
         "FateCardList": [],
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 0,
+        "NarrativeTextList": []
       }
     ],
     "Sequences": [],
@@ -355,9 +363,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180727180407265",
+  "Version": "20180730141101196",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180727180407265"
+  "InternalKey": "MainQuest_C001Q1_20180730141101196"
 }
