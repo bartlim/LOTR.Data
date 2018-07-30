@@ -905,14 +905,14 @@
       "Stages": [
         {
           "Id": "C001Q4L1",
-          "SceneName": "Mirkwood01",
+          "SceneName": "Hall02",
           "IntroMusic": "mus_cave",
           "IntroVoice": "OpeningMirkwood_01",
           "IntroSprite": "Sprites/Locations/Quest1_Stage01",
           "SoloGameSetup": [
-            "AvoidThePatrols",
-            "TowerPatrol",
-            "TowerPatrol"
+            "GiantWorm",
+            "MuckAdder",
+            "MuckAdder"
           ],
           "NextStageId": "C001Q4L2",
           "BGM": "mus_cave",
@@ -921,67 +921,35 @@
         },
         {
           "Id": "C001Q4L2",
-          "SceneName": "GoblinTunnel01",
-          "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
-          "SoloGameSetup": [
-            "EnterTheTower",
-            "MirkwoodPatrol",
-            "OrcMarauder"
-          ],
-          "NextStageId": "C001Q4L3",
-          "BGM": "mus_cave",
-          "FateCardList": null,
-          "ThreatCardList": null
-        },
-        {
-          "Id": "C001Q4L3",
           "SceneName": "Hall02",
-          "IntroMusic": "mus_cave",
+          "IntroMusic": "mus_dungeon",
           "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": [
-            "ChieftainUfthak",
-            "DolGuldurOrc"
-          ],
-          "NextStageId": "C001Q4L4",
-          "BGM": "mus_cave",
-          "FateCardList": null,
-          "ThreatCardList": null
-        },
-        {
-          "Id": "C001Q4L4",
-          "SceneName": "Hall01",
-          "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
-          "SoloGameSetup": [
+            "IntrudersInTheTower",
             "DolGuldurOrc",
             "GoblinTaskmaster",
             "EliteDolGuldurOrc",
             "GoblinPursuer"
           ],
-          "NextStageId": "C001Q4L5",
-          "BGM": "mus_cave",
+          "NextStageId": "C001Q4L3",
+          "BGM": "mus_dungeon",
           "FateCardList": null,
           "ThreatCardList": null
         },
         {
-          "Id": "C001Q4L5",
-          "SceneName": "Dungeon01",
-          "IntroMusic": "mus_cave",
+          "Id": "C001Q4L3",
+          "SceneName": "Hall03",
+          "IntroMusic": "mus_dungeon",
           "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": [
             "FreeBilbo",
-            "EastBightPatrol",
-            "EastBightPatrol",
-            "PrisonGuard",
-            "DolGuldurArcher"
+            "DeterioratingGate",
+            "GollumEnemy"
           ],
           "NextStageId": "",
-          "BGM": "mus_cave",
+          "BGM": "mus_dungeon",
           "FateCardList": null,
           "ThreatCardList": null
         }
@@ -1244,13 +1212,18 @@
           ],
           "NextStageId": "C001Q5L2",
           "BGM": "mus_cave",
-          "FateCardList": [],
+          "FateCardList": [
+            {
+              "Id": "DistractTheTroll",
+              "Threshold": 4
+            }
+          ],
           "ThreatCardList": null
         },
         {
           "Id": "C001Q5L2",
           "SceneName": "ForestStream03",
-          "IntroMusic": "mus_cave",
+          "IntroMusic": "mus_stream",
           "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": [
@@ -1259,23 +1232,23 @@
             "RightRiverFork",
             "GoblinPursuer"
           ],
-          "NextStageId": "C001Q5L3A,C001Q5L3B",
+          "NextStageId": "C001Q5L3",
           "BGM": "mus_cave",
-          "FateCardList": null,
+          "FateCardList": [],
           "ThreatCardList": null
         },
         {
-          "Id": "C001Q5L3A",
+          "Id": "C001Q5L3",
           "SceneName": "ForestStream04",
           "IntroMusic": "mus_cave",
           "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": [
-            "RiverChannel",
-            "Rapids",
-            "Rocks",
-            "SwirlingEddy",
-            "GoblinSniper"
+            "DenyTheCrossing",
+            "MirkwoodPatrol",
+            "GoblinSniper",
+            "EastBightPatrol",
+            "OrcMarauder"
           ],
           "NextStageId": "C001Q5L4",
           "BGM": "mus_cave",
@@ -1289,22 +1262,6 @@
           "IntroVoice": "",
           "IntroSprite": null,
           "SoloGameSetup": [
-            "RiverBend",
-            "Rocks",
-            "Rocks"
-          ],
-          "NextStageId": "C001Q5L4",
-          "BGM": "mus_cave",
-          "FateCardList": null,
-          "ThreatCardList": null
-        },
-        {
-          "Id": "C001Q5L4",
-          "SceneName": "Mirkwood01",
-          "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
-          "SoloGameSetup": [
             "WardensOfLorien",
             "ChieftainUfthak",
             "EliteDolGuldurOrc",
@@ -1313,7 +1270,7 @@
             "OrcMarauder"
           ],
           "NextStageId": "",
-          "BGM": "mus_cave",
+          "BGM": "mus_saurontheme",
           "FateCardList": null,
           "ThreatCardList": null
         }

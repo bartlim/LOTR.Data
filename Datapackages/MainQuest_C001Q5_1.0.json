@@ -283,7 +283,12 @@
         "NextStageTitles": [
           "C001Q5L2"
         ],
-        "FateCardList": [],
+        "FateCardList": [
+          {
+            "Id": "DistractTheTroll",
+            "Threshold": 4
+          }
+        ],
         "ThreatCardList": null
       },
       {
@@ -297,20 +302,19 @@
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          "C001Q5L3A",
-          "C001Q5L3B"
+          "C001Q5L3"
         ],
-        "FateCardList": null,
+        "FateCardList": [],
         "ThreatCardList": null
       },
       {
-        "Title": "C001Q5L3A",
+        "Title": "C001Q5L3",
         "SoloGameSetup": [
-          "RiverChannel",
-          "Rapids",
-          "Rocks",
-          "SwirlingEddy",
-          "GoblinSniper"
+          "DenyTheCrossing",
+          "MirkwoodPatrol",
+          "GoblinSniper",
+          "EastBightPatrol",
+          "OrcMarauder"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -322,21 +326,6 @@
       },
       {
         "Title": "C001Q5L3B",
-        "SoloGameSetup": [
-          "RiverBend",
-          "Rocks",
-          "Rocks"
-        ],
-        "CoopGameSetup": [],
-        "NextStages": [],
-        "NextStageTitles": [
-          "C001Q5L4"
-        ],
-        "FateCardList": null,
-        "ThreatCardList": null
-      },
-      {
-        "Title": "C001Q5L4",
         "SoloGameSetup": [
           "WardensOfLorien",
           "ChieftainUfthak",
@@ -386,9 +375,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180725104810377",
+  "Version": "20180727180426269",
   "Key": "MainQuest",
   "SubKey": "C001Q5",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q5_20180725104810377"
+  "InternalKey": "MainQuest_C001Q5_20180727180426269"
 }

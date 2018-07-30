@@ -13771,7 +13771,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q4L1_NAME",
-    "Text": "Hiding in the Shadows"
+    "Text": "The Pit"
   },
   {
     "Id": "Q_STAGE_C001Q4L1_TEXT",
@@ -13779,31 +13779,31 @@
   },
   {
     "Id": "Q_STAGE_C001Q4L1_OBJECTIVE",
-    "Text": "Avoid the Patrols or Defeat all Enemies"
+    "Text": "Defeat the Giant Worm"
   },
   {
     "Id": "Q_STAGE_C001Q4L2_NAME",
-    "Text": "Another Way"
+    "Text": "Into The Dungeon"
   },
   {
     "Id": "Q_STAGE_C001Q4L2_TEXT",
-    "Text": "<i><size=58>G</size>ollum is leading you into a back way into the imposing tower. Quietly pushing aside some carefully stacked debris, he looks at you eagerly to follow him inside…</i>"
+    "Text": "<i><size=58>O</size>ur heroes have escapes the Pit and make their way into the heart of the Tower, but Chieftain Ufthak learns of their intrusion and the defeat of his pet. He orders full mobilization of his forces, the intruders must not escape...</i>"
   },
   {
     "Id": "Q_STAGE_C001Q4L2_OBJECTIVE",
-    "Text": "Resolve the <i>Enter the Tower</i> objective to proceed"
+    "Text": "Fight you way across the hall, surviving for 4 rounds to make it to the far gate, which can be barred."
   },
   {
     "Id": "Q_STAGE_C001Q4L3_NAME",
-    "Text": "Inside the Dark Tower"
+    "Text": "Concerning a Hobbit"
   },
   {
     "Id": "Q_STAGE_C001Q4L3_TEXT",
-    "Text": "<i><size=58>O</size>nce inside, you need to find out where Bilbo is! Looking around you find what appears to be the room where the commander of the tower lives… if anyone would have orders about Bilbo…</i>"
+    "Text": "<i><size=58>B</size>arring the gate, you take a second to breathe, but your quest is not yet at an end. The creature is still lurking, and that gate will not hold back the Orcs forever. You must find Bilbo and make good an escape!</i>"
   },
   {
     "Id": "Q_STAGE_C001Q4L3_OBJECTIVE",
-    "Text": "Find the Orders"
+    "Text": "Drive off Gollum and Save Bilbo"
   },
   {
     "Id": "Q_STAGE_C001Q4L4_NAME",
@@ -13831,7 +13831,7 @@
   },
   {
     "Id": "Q_QUEST_C001Q5_NAME",
-    "Text": "Journey to Lorien"
+    "Text": "Down the Anduin"
   },
   {
     "Id": "Q_QUEST_C001Q5_DESCRIPTION",
@@ -13847,7 +13847,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q5L1_NAME",
-    "Text": "River's Edge"
+    "Text": "A Troll for a Raft"
   },
   {
     "Id": "Q_STAGE_C001Q5L1_TEXT",
@@ -13859,7 +13859,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q5L2_NAME",
-    "Text": "Anduin River"
+    "Text": "River Rapids"
   },
   {
     "Id": "Q_STAGE_C001Q5L2_TEXT",
@@ -13867,7 +13867,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q5L2_OBJECTIVE",
-    "Text": "Resolve <i>Left River Fork</i> or <i>Right River Fork</i> to allow travel to the next Location. <color=red>Bilbo must survive</color>"
+    "Text": "Resolve all Hazards to allow travel. <color=red>Bilbo must survive</color>"
   },
   {
     "Id": "Q_STAGE_C001Q5L3A_NAME",
@@ -13883,15 +13883,15 @@
   },
   {
     "Id": "Q_STAGE_C001Q5L3B_NAME",
-    "Text": "Untroubled Waters"
+    "Text": "Surrounded"
   },
   {
     "Id": "Q_STAGE_C001Q5L3B_TEXT",
-    "Text": "<i><size=58>Y</size>ou steer the raft away from the rapids, along the opposite shore far from your pursuers. Here the waters are calmer than before, but the current remains swift and threatens to dash your flimsy craft upon rocks strewn along your course. You resolve to navigate your way to safety…</i>"
+    "Text": "<i><size=58>Y</size>ou dislodge the raft from the shallows and press on, hounded on the right side of the river now by the Orcs. It is only a short distance to Lorien, but there is no way you can make it there without a battle. Steeling yourselves, you beach the raft and charge towards the forest.</i>"
   },
   {
     "Id": "Q_STAGE_C001Q5L3B_OBJECTIVE",
-    "Text": "Resolve <i>River Bend</i> to allow travel from this Location. <color=red>Bilbo must survive</color>"
+    "Text": "Defeat all enemies to complete your quest. <color=red>Bilbo must survive</color>"
   },
   {
     "Id": "Q_STAGE_C001Q5L4_NAME",
@@ -14908,5 +14908,53 @@
   {
     "Id": "Q_STAGE_C900Q1L1_TEXT_1",
     "Text": "DefaultStory2"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3_NAME",
+    "Text": "The Ford"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3_TEXT",
+    "Text": "<i><size=58>H</size>aving reached a shallower part of the river, the raft is stuck on a sandbar in a fordable area of the river. Shallow water is good for Orcs, not so good for you.</i>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3_OBJECTIVE",
+    "Text": "Resolve <i>River Channel</i> to allow travel from this Location. <color=red>Bilbo must survive</color>"
+  },
+  {
+    "Id": "C_GOLLUMENEMY_TITLE",
+    "Text": "‰Gollum"
+  },
+  {
+    "Id": "C_GOLLUMENEMY_TEXT",
+    "Text": "Will run away if reduced to 6 <size=120%><sprite=2></size> or less"
+  },
+  {
+    "Id": "C_GOLLUMENEMY_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_RAPIDRESPONSE_TITLE",
+    "Text": "Rapid Response"
+  },
+  {
+    "Id": "C_RAPIDRESPONSE_TEXT",
+    "Text": "Play 2 Forest Defender"
+  },
+  {
+    "Id": "C_RAPIDRESPONSE_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_DENYTHECROSSING_TITLE",
+    "Text": "Deny the Crossing"
+  },
+  {
+    "Id": "C_DENYTHECROSSING_TEXT",
+    "Text": "<b>End of Round</b>: Play a random <b><i>Orc</i></b>"
+  },
+  {
+    "Id": "C_DENYTHECROSSING_FLAVOR",
+    "Text": ""
   }
 ]
