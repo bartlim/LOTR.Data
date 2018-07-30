@@ -16,8 +16,8 @@
           "Id": "ForestGate",
           "SceneName": "Mirkwood01",
           "IntroMusic": null,
-          "IntroVoice": "Q1L1_ForestGate",
-          "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+          "IntroVoice": ["Q1L1_ForestGate"],
+          "IntroSprite": ["Sprites/Locations/Quest1_Stage01"],
           "SoloGameSetup": [
             "HiddenPath",
             "WatchfulEyes",
@@ -29,7 +29,11 @@
           "NextStageId": "CapturedBySpiders",
           "BGM": "mus_thewilderlands",
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_FORESTGATE_TEXT"
+          ]
         },
         {
           "Id": "CapturedBySpiders",
