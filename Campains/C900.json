@@ -16,14 +16,8 @@
           "Id": "C900Q1L1",
           "SceneName": "Q01_L01_ForestGate",
           "IntroMusic": "mus_cave",
-          "IntroVoiceList": [
-            "OpeningMirkwood_01",
-            "C900Q1L1_IntroVoice_2"
-          ],
-          "IntroSpriteList": [
-            "Sprites/Locations/Quest1_Stage01",
-            "C900Q1L1_IntroSprite_2"
-          ],
+          "IntroVoice": null,
+          "IntroSprite": null,
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
@@ -31,12 +25,7 @@
           "NextStageId": "",
           "BGM": "mus_cave",
           "FateCardList": [],
-          "ThreatCardList": [],
-          "NarrativeCount": 2,
-          "NarrativeTextList": [
-            "Q_STAGE_C900Q1L1_TEXT_0",
-            "Q_STAGE_C900Q1L1_TEXT_1"
-          ]
+          "ThreatCardList": []
         }
       ],
       "SauronDeck": [
@@ -102,8 +91,8 @@
           "Id": "C900Q2L1",
           "SceneName": "Q01_L01_ForestGate",
           "IntroMusic": "mus_cave",
-          "IntroVoiceList": [],
-          "IntroSpriteList": [],
+          "IntroVoice": null,
+          "IntroSprite": null,
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
@@ -116,9 +105,7 @@
               "Id": "Test",
               "Threshold": 4
             }
-          ],
-          "NarrativeCount": 0,
-          "NarrativeTextList": []
+          ]
         }
       ],
       "SauronDeck": [
@@ -184,8 +171,8 @@
           "Id": "C900Q3L1",
           "SceneName": "Q01_L01_ForestGate",
           "IntroMusic": "",
-          "IntroVoiceList": [],
-          "IntroSpriteList": [],
+          "IntroVoice": null,
+          "IntroSprite": null,
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
@@ -193,9 +180,7 @@
           "NextStageId": "",
           "BGM": null,
           "FateCardList": [],
-          "ThreatCardList": [],
-          "NarrativeCount": 0,
-          "NarrativeTextList": []
+          "ThreatCardList": []
         }
       ],
       "SauronDeck": [
@@ -261,8 +246,8 @@
           "Id": "C900Q4L1",
           "SceneName": "Q01_L01_ForestGate",
           "IntroMusic": "",
-          "IntroVoiceList": [],
-          "IntroSpriteList": [],
+          "IntroVoice": null,
+          "IntroSprite": null,
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
@@ -270,9 +255,7 @@
           "NextStageId": "",
           "BGM": null,
           "FateCardList": [],
-          "ThreatCardList": [],
-          "NarrativeCount": 0,
-          "NarrativeTextList": []
+          "ThreatCardList": []
         }
       ],
       "SauronDeck": [
@@ -338,8 +321,8 @@
           "Id": "C900Q5L1",
           "SceneName": "Q01_L01_ForestGate",
           "IntroMusic": "",
-          "IntroVoiceList": [],
-          "IntroSpriteList": [],
+          "IntroVoice": null,
+          "IntroSprite": null,
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
@@ -347,9 +330,7 @@
           "NextStageId": "",
           "BGM": null,
           "FateCardList": [],
-          "ThreatCardList": [],
-          "NarrativeCount": 0,
-          "NarrativeTextList": []
+          "ThreatCardList": []
         }
       ],
       "SauronDeck": [
