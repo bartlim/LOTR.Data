@@ -91,9 +91,7 @@
           ""
         ],
         "FateCardList": [],
-        "ThreatCardList": [],
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "ThreatCardList": []
       }
     ],
     "Sequences": [],
@@ -102,9 +100,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180730140731696",
+  "Version": "20180730110701363",
   "Key": "MainQuest",
   "SubKey": "C900Q4",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C900Q4_20180730140731696"
+  "InternalKey": "MainQuest_C900Q4_20180730110701363"
 }
