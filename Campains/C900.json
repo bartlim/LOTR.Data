@@ -17,10 +17,12 @@
           "SceneName": "Q01_L01_ForestGate",
           "IntroMusic": "mus_cave",
           "IntroVoiceList": [
-            "C900Q1L1_IntroVoice_1"
+            "OpeningMirkwood_01",
+            "C900Q1L1_IntroVoice_2"
           ],
           "IntroSpriteList": [
-            "C900Q1L1_IntroSprite_1"
+            "Sprites/Locations/Quest1_Stage01",
+            "C900Q1L1_IntroSprite_2"
           ],
           "SoloGameSetup": [
             "FindThePath",
@@ -30,9 +32,10 @@
           "BGM": "mus_cave",
           "FateCardList": [],
           "ThreatCardList": [],
-          "NarrativeCount": 1,
+          "NarrativeCount": 2,
           "NarrativeTextList": [
-            "Q_STAGE_C900Q1L1_TEXT_0"
+            "Q_STAGE_C900Q1L1_TEXT_0",
+            "Q_STAGE_C900Q1L1_TEXT_1"
           ]
         }
       ],
