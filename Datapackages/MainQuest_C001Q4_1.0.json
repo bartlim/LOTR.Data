@@ -338,7 +338,7 @@
       {
         "Title": "C001Q4L1",
         "SoloGameSetup": [
-          "GiantWorm",
+          "GiantMarshWorm",
           "MuckAdder",
           "MuckAdder"
         ],
@@ -427,9 +427,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180731142052606",
+  "Version": "20180731143247370",
   "Key": "MainQuest",
   "SubKey": "C001Q4",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q4_20180731142052606"
+  "InternalKey": "MainQuest_C001Q4_20180731143247370"
 }
