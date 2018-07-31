@@ -672,11 +672,10 @@
             "OnTheTrailAlongTheTrailIntroSprite"
           ],
           "SoloGameSetup": [
-            "ContinueOnTheTrail",
-            "OffThePath",
             "GoblinTaskmaster",
-            "GoblinSniper",
-            "DolGuldurOrc"
+            "DolGuldurArcher",
+            "DolGuldurArcher",
+            "StragglingGoblin"
           ],
           "NextStageId": "C001Q3L3A,C001Q3L3B",
           "BGM": "mus_cave",
