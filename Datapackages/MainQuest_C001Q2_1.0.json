@@ -311,6 +311,7 @@
       {
         "Title": "C001Q2L3",
         "SoloGameSetup": [
+          "OpenThePantry",
           "GiantSpider",
           "DolGuldurArcher",
           "GoblinTaskmaster"
@@ -390,9 +391,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180731104553526",
+  "Version": "20180731104727477",
   "Key": "MainQuest",
   "SubKey": "C001Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q2_20180731104553526"
+  "InternalKey": "MainQuest_C001Q2_20180731104727477"
 }
