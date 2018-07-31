@@ -496,13 +496,34 @@
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "C001Q3L5"
         ],
         "FateCardList": null,
         "ThreatCardList": [],
         "NarrativeCount": 1,
         "NarrativeTextList": [
           "Q_STAGE_C001Q3L4_TEXT_0"
+        ]
+      },
+      {
+        "Title": "C001Q3L5",
+        "SoloGameSetup": [
+          "StrangeMechanism",
+          "LowOnSuppies",
+          "WatchfulEyes",
+          "WanderingPatrol",
+          "UnderTheWatchfulEye"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null,
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q3L5_TEXT_0"
         ]
       }
     ],
@@ -538,9 +559,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180731112052669",
+  "Version": "20180731112418645",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180731112052669"
+  "InternalKey": "MainQuest_C001Q3_20180731112418645"
 }
