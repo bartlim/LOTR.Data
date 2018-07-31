@@ -90,8 +90,22 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": [],
-        "ThreatCardList": []
+        "FateCardList": [
+          {
+            "Id": "Fate1",
+            "Threshold": 1
+          }
+        ],
+        "ThreatCardList": [
+          {
+            "Id": "threat1",
+            "Threshold": 1
+          }
+        ],
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C900Q1L1_TEXT_0"
+        ]
       }
     ],
     "Sequences": [],
@@ -100,9 +114,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180730110645613",
+  "Version": "20180731033027138",
   "Key": "MainQuest",
   "SubKey": "C900Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C900Q1_20180730110645613"
+  "InternalKey": "MainQuest_C900Q1_20180731033027138"
 }
