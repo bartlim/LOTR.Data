@@ -440,11 +440,9 @@
       {
         "Title": "C001Q3L3A",
         "SoloGameSetup": [
-          "DolGuldurArcher",
+          "RescueGollum",
           "DolGuldurOrc",
-          "VeteranPatrol",
-          "DolGuldurOrc",
-          "DolGuldurArcher"
+          "VeteranPatrol"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -452,7 +450,12 @@
           ""
         ],
         "FateCardList": [],
-        "ThreatCardList": [],
+        "ThreatCardList": [
+          {
+            "Id": "TorchesFromTheTower",
+            "Threshold": 2
+          }
+        ],
         "NarrativeCount": 1,
         "NarrativeTextList": [
           "Q_STAGE_C001Q3L3A_TEXT_0"
@@ -509,9 +512,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180731111338323",
+  "Version": "20180731111546575",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180731111338323"
+  "InternalKey": "MainQuest_C001Q3_20180731111546575"
 }
