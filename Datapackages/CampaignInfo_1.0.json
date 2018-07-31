@@ -2072,7 +2072,7 @@
                 "Sprites/Locations/Quest1_Stage01"
               ],
               "SoloGameSetup": [
-                "FindYourFriends",
+                "CuttingThroughTheWeb",
                 "ForestSpider",
                 "ForestSpider"
               ],
@@ -2096,7 +2096,6 @@
                 "FliesAndSpidersTheSpidersLairIntroSprite"
               ],
               "SoloGameSetup": [
-                "RescueYourFriend",
                 "ForestSpider",
                 "SpiderGuard"
               ],
@@ -2120,14 +2119,25 @@
                 "FliesAndSpidersTheSpidersWebsIntroSprite"
               ],
               "SoloGameSetup": [
+                "OpenThePantry",
                 "GiantSpider",
                 "DolGuldurArcher",
                 "GoblinTaskmaster"
               ],
               "NextStageId": "C001Q2L4",
               "BGM": "mus_cave",
-              "FateCardList": [],
-              "ThreatCardList": [],
+              "FateCardList": [
+                {
+                  "Id": "RecoverYourFriend",
+                  "Threshold": 8
+                }
+              ],
+              "ThreatCardList": [
+                {
+                  "Id": "WhatsThatNoise",
+                  "Threshold": 2
+                }
+              ],
               "NarrativeCount": 1,
               "NarrativeTextList": [
                 "Q_STAGE_C001Q2L3_TEXT_0"
@@ -4287,7 +4297,7 @@
             {
               "Id": "C902Q1L1",
               "SceneName": "Q01_L01_ForestGate",
-              "IntroMusic": "",
+              "IntroMusic": "mus_cave",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
               ],
@@ -4299,7 +4309,7 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": null,
+              "BGM": "mus_cave",
               "FateCardList": [],
               "ThreatCardList": [],
               "NarrativeCount": 1,
