@@ -287,7 +287,12 @@
           "C001Q1L3"
         ],
         "FateCardList": [],
-        "ThreatCardList": [],
+        "ThreatCardList": [
+          {
+            "Id": "UnsteadyFooting",
+            "Threshold": 3
+          }
+        ],
         "NarrativeCount": 1,
         "NarrativeTextList": [
           "Q_STAGE_C001Q1L2_TEXT_0"
@@ -371,9 +376,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180731100515410",
+  "Version": "20180731101856686",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180731100515410"
+  "InternalKey": "MainQuest_C001Q1_20180731101856686"
 }
