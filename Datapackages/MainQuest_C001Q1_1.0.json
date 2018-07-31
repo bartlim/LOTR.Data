@@ -269,9 +269,11 @@
           "C001Q1L2"
         ],
         "FateCardList": [],
-        "ThreatCardList": null,
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "ThreatCardList": [],
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q1L1_TEXT_0"
+        ]
       },
       {
         "Title": "C001Q1L2",
@@ -284,10 +286,17 @@
         "NextStageTitles": [
           "C001Q1L3"
         ],
-        "FateCardList": null,
-        "ThreatCardList": [],
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "FateCardList": [],
+        "ThreatCardList": [
+          {
+            "Id": "UnsteadyFooting",
+            "Threshold": 3
+          }
+        ],
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q1L2_TEXT_0"
+        ]
       },
       {
         "Title": "C001Q1L3",
@@ -309,9 +318,11 @@
             "Threshold": 7
           }
         ],
-        "ThreatCardList": null,
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "ThreatCardList": [],
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q1L3_TEXT_0"
+        ]
       },
       {
         "Title": "C001Q1L4",
@@ -326,9 +337,11 @@
           ""
         ],
         "FateCardList": [],
-        "ThreatCardList": null,
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "ThreatCardList": [],
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q1L4_TEXT_0"
+        ]
       }
     ],
     "Sequences": [],
@@ -363,9 +376,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180730141101196",
+  "Version": "20180731102736995",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180730141101196"
+  "InternalKey": "MainQuest_C001Q1_20180731102736995"
 }
