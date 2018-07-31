@@ -32,8 +32,10 @@
               "BGM": "mus_thewilderlands",
               "FateCardList": [],
               "ThreatCardList": [],
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_FORESTGATE_TEXT"
+              ]
             },
             {
               "Id": "CapturedBySpiders",
@@ -49,8 +51,10 @@
               "BGM": "mus_dungeon",
               "FateCardList": null,
               "ThreatCardList": [],
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_CAPTUREDBYSPIDERS_TEXT"
+              ]
             },
             {
               "Id": "StandAndFight",
@@ -69,8 +73,10 @@
               "BGM": "mus_cave",
               "FateCardList": [],
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_STANDANDFIGHT_TEXT"
+              ]
             },
             {
               "Id": "TurnAndFlee",
@@ -88,8 +94,10 @@
               "BGM": "mus_mirkwood",
               "FateCardList": [],
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_TURNANDFLEE_TEXT"
+              ]
             },
             {
               "Id": "TheEnchantedStream",
@@ -109,8 +117,10 @@
                 }
               ],
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_THEENCHANTEDSTREAM_TEXT"
+              ]
             },
             {
               "Id": "TheEnchantedStreamAlt",
@@ -133,8 +143,10 @@
                 }
               ],
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_THEENCHANTEDSTREAMALT_TEXT"
+              ]
             }
           ],
           "SauronDeck": [
@@ -352,8 +364,10 @@
                 }
               ],
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_DARKFOREST_TEXT"
+              ]
             },
             {
               "Id": "TheSpidersLair",
@@ -370,8 +384,10 @@
               "BGM": "mus_dungeon",
               "FateCardList": [],
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_THESPIDERSLAIR_TEXT"
+              ]
             },
             {
               "Id": "TheSpidersWebs",
@@ -388,8 +404,10 @@
               "BGM": "mus_dungeon",
               "FateCardList": [],
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_THESPIDERSWEBS_TEXT"
+              ]
             },
             {
               "Id": "ForestGlade",
@@ -407,8 +425,10 @@
               "BGM": "mus_saurontheme",
               "FateCardList": null,
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_FORESTGLADE_TEXT"
+              ]
             }
           ],
           "SauronDeck": [
@@ -639,8 +659,10 @@
               "BGM": "mus_mirkwood",
               "FateCardList": null,
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_MIRKWOODFOREST_TEXT"
+              ]
             },
             {
               "Id": "ForestStream",
@@ -664,8 +686,10 @@
                 }
               ],
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_FORESTSTREAM_TEXT"
+              ]
             },
             {
               "Id": "BareHilltop",
@@ -689,8 +713,10 @@
                 }
               ],
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_BAREHILLTOP_TEXT"
+              ]
             },
             {
               "Id": "MirkwoodSwamp",
@@ -708,8 +734,10 @@
               "BGM": "mus_mirkwood",
               "FateCardList": [],
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_MIRKWOODSWAMP_TEXT"
+              ]
             },
             {
               "Id": "OvergrownTrail",
@@ -727,8 +755,10 @@
               "BGM": "mus_mirkwood",
               "FateCardList": null,
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_OVERGROWNTRAIL_TEXT"
+              ]
             },
             {
               "Id": "AbandonedVillage",
@@ -746,8 +776,10 @@
               "BGM": "mus_saurontheme",
               "FateCardList": null,
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_ABANDONEDVILLAGE_TEXT"
+              ]
             }
           ],
           "SauronDeck": [
@@ -1040,8 +1072,10 @@
                 }
               ],
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_TOTHERIVER_TEXT"
+              ]
             },
             {
               "Id": "AnduinPassage",
@@ -1059,8 +1093,10 @@
               "BGM": "mus_stream",
               "FateCardList": [],
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_ANDUINPASSAGE_TEXT"
+              ]
             },
             {
               "Id": "TreacherousShortcut",
@@ -1079,8 +1115,10 @@
               "BGM": "mus_desperation",
               "FateCardList": null,
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_TREACHEROUSSHORTCUT_TEXT"
+              ]
             },
             {
               "Id": "GentleWaters",
@@ -1097,8 +1135,10 @@
               "BGM": "mus_stream",
               "FateCardList": [],
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_GENTLEWATERS_TEXT"
+              ]
             },
             {
               "Id": "AmbushOnTheShoreStage",
@@ -1122,8 +1162,10 @@
                 }
               ],
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_AMBUSHONTHESHORESTAGE_TEXT"
+              ]
             }
           ],
           "SauronDeck": [
@@ -1352,8 +1394,10 @@
               "BGM": "mus_cave",
               "FateCardList": [],
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_SEARCHINGFORGRIMBEORN_TEXT"
+              ]
             },
             {
               "Id": "TheTrollsDinner",
@@ -1372,8 +1416,10 @@
               "BGM": "mus_cave",
               "FateCardList": null,
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_THETROLLSDINNER_TEXT"
+              ]
             },
             {
               "Id": "FightWithTheTrolls",
@@ -1396,8 +1442,10 @@
                 }
               ],
               "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_FIGHTWITHTHETROLLS_TEXT"
+              ]
             }
           ],
           "SauronDeck": [
@@ -1630,7 +1678,7 @@
               "FateCardList": [],
               "ThreatCardList": null,
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             },
             {
               "Id": "C001Q1L2",
@@ -1647,7 +1695,7 @@
               "FateCardList": null,
               "ThreatCardList": [],
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             },
             {
               "Id": "C001Q1L3",
@@ -1672,7 +1720,7 @@
               ],
               "ThreatCardList": null,
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             },
             {
               "Id": "C001Q1L4",
@@ -1690,7 +1738,7 @@
               "FateCardList": [],
               "ThreatCardList": null,
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             }
           ],
           "SauronDeck": [
@@ -1904,7 +1952,7 @@
               "FateCardList": [],
               "ThreatCardList": null,
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             },
             {
               "Id": "C001Q2L2",
@@ -1922,7 +1970,7 @@
               "FateCardList": null,
               "ThreatCardList": null,
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             },
             {
               "Id": "C001Q2L3",
@@ -1940,7 +1988,7 @@
               "FateCardList": null,
               "ThreatCardList": null,
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             },
             {
               "Id": "C001Q2L4",
@@ -1959,7 +2007,7 @@
               "FateCardList": null,
               "ThreatCardList": null,
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             }
           ],
           "SauronDeck": [
@@ -2174,18 +2222,18 @@
               "IntroVoiceList": null,
               "IntroSpriteList": null,
               "SoloGameSetup": [
-                "FollowTheTrail",
-                "ListenToGollum",
-                "GoblinSniper",
-                "DolGuldurArcher",
-                "GoblinTaskmaster"
+                "PursuadeGollum",
+                "BlackForestBats",
+                "BlackForestBats",
+                "MirkwoodFlock",
+                "SpiesOfShadow"
               ],
               "NextStageId": "C001Q3L2A,C001Q3L2B",
-              "BGM": "mus_cave",
+              "BGM": "mus_mirkwood",
               "FateCardList": [],
               "ThreatCardList": null,
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             },
             {
               "Id": "C001Q3L2A",
@@ -2205,7 +2253,7 @@
               "FateCardList": null,
               "ThreatCardList": null,
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             },
             {
               "Id": "C001Q3L2B",
@@ -2225,7 +2273,7 @@
               "FateCardList": null,
               "ThreatCardList": null,
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             },
             {
               "Id": "C001Q3L3A",
@@ -2245,7 +2293,7 @@
               "FateCardList": null,
               "ThreatCardList": null,
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             },
             {
               "Id": "C001Q3L3B",
@@ -2262,7 +2310,7 @@
               "FateCardList": null,
               "ThreatCardList": null,
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             }
           ],
           "SauronDeck": [
@@ -2546,7 +2594,7 @@
               "FateCardList": [],
               "ThreatCardList": null,
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             },
             {
               "Id": "C001Q4L2",
@@ -2566,7 +2614,7 @@
               "FateCardList": null,
               "ThreatCardList": null,
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             },
             {
               "Id": "C001Q4L3",
@@ -2584,7 +2632,7 @@
               "FateCardList": null,
               "ThreatCardList": null,
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             }
           ],
           "SauronDeck": [
@@ -2853,7 +2901,7 @@
               ],
               "ThreatCardList": null,
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             },
             {
               "Id": "C001Q5L2",
@@ -2872,7 +2920,7 @@
               "FateCardList": [],
               "ThreatCardList": null,
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             },
             {
               "Id": "C001Q5L3",
@@ -2892,7 +2940,7 @@
               "FateCardList": null,
               "ThreatCardList": null,
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             },
             {
               "Id": "C001Q5L3B",
@@ -2913,7 +2961,7 @@
               "FateCardList": null,
               "ThreatCardList": null,
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             }
           ],
           "SauronDeck": [
@@ -3133,14 +3181,8 @@
               "Id": "C900Q1L1",
               "SceneName": "Q01_L01_ForestGate",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": [
-                "OpeningMirkwood_01",
-                "C900Q1L1_IntroVoice_2"
-              ],
-              "IntroSpriteList": [
-                "Sprites/Locations/Quest1_Stage01",
-                "C900Q1L1_IntroSprite_2"
-              ],
+              "IntroVoiceList": null,
+              "IntroSpriteList": null,
               "SoloGameSetup": [
                 "FindThePath",
                 "VeteranPatrol"
@@ -3149,11 +3191,8 @@
               "BGM": "mus_cave",
               "FateCardList": [],
               "ThreatCardList": [],
-              "NarrativeCount": 2,
-              "NarrativeTextList": [
-                "Q_STAGE_C900Q1L1_TEXT_0",
-                "Q_STAGE_C900Q1L1_TEXT_1"
-              ]
+              "NarrativeCount": 0,
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -3219,8 +3258,8 @@
               "Id": "C900Q2L1",
               "SceneName": "Q01_L01_ForestGate",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": [],
-              "IntroSpriteList": [],
+              "IntroVoiceList": null,
+              "IntroSpriteList": null,
               "SoloGameSetup": [
                 "FindThePath",
                 "VeteranPatrol"
@@ -3235,7 +3274,7 @@
                 }
               ],
               "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -3301,8 +3340,8 @@
               "Id": "C900Q3L1",
               "SceneName": "Q01_L01_ForestGate",
               "IntroMusic": "",
-              "IntroVoiceList": [],
-              "IntroSpriteList": [],
+              "IntroVoiceList": null,
+              "IntroSpriteList": null,
               "SoloGameSetup": [
                 "FindThePath",
                 "VeteranPatrol"
@@ -3312,7 +3351,7 @@
               "FateCardList": [],
               "ThreatCardList": [],
               "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -3378,8 +3417,8 @@
               "Id": "C900Q4L1",
               "SceneName": "Q01_L01_ForestGate",
               "IntroMusic": "",
-              "IntroVoiceList": [],
-              "IntroSpriteList": [],
+              "IntroVoiceList": null,
+              "IntroSpriteList": null,
               "SoloGameSetup": [
                 "FindThePath",
                 "VeteranPatrol"
@@ -3389,7 +3428,7 @@
               "FateCardList": [],
               "ThreatCardList": [],
               "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [
@@ -3455,8 +3494,8 @@
               "Id": "C900Q5L1",
               "SceneName": "Q01_L01_ForestGate",
               "IntroMusic": "",
-              "IntroVoiceList": [],
-              "IntroSpriteList": [],
+              "IntroVoiceList": null,
+              "IntroSpriteList": null,
               "SoloGameSetup": [
                 "FindThePath",
                 "VeteranPatrol"
@@ -3466,7 +3505,7 @@
               "FateCardList": [],
               "ThreatCardList": [],
               "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "NarrativeTextList": null
             }
           ],
           "SauronDeck": [

@@ -370,11 +370,11 @@
       {
         "Title": "C001Q3L1",
         "SoloGameSetup": [
-          "FollowTheTrail",
-          "ListenToGollum",
-          "GoblinSniper",
-          "DolGuldurArcher",
-          "GoblinTaskmaster"
+          "PursuadeGollum",
+          "BlackForestBats",
+          "BlackForestBats",
+          "MirkwoodFlock",
+          "SpiesOfShadow"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -383,7 +383,9 @@
           "C001Q3L2B"
         ],
         "FateCardList": [],
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 0,
+        "NarrativeTextList": []
       },
       {
         "Title": "C001Q3L2A",
@@ -401,7 +403,9 @@
           "C001Q3L3B"
         ],
         "FateCardList": null,
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 0,
+        "NarrativeTextList": []
       },
       {
         "Title": "C001Q3L2B",
@@ -419,7 +423,9 @@
           "C001Q3L3B"
         ],
         "FateCardList": null,
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 0,
+        "NarrativeTextList": []
       },
       {
         "Title": "C001Q3L3A",
@@ -436,7 +442,9 @@
           ""
         ],
         "FateCardList": null,
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 0,
+        "NarrativeTextList": []
       },
       {
         "Title": "C001Q3L3B",
@@ -450,7 +458,9 @@
           ""
         ],
         "FateCardList": null,
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 0,
+        "NarrativeTextList": []
       }
     ],
     "Sequences": [],
@@ -485,9 +495,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180727180416796",
+  "Version": "20180730141110705",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180727180416796"
+  "InternalKey": "MainQuest_C001Q3_20180730141110705"
 }
