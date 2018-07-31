@@ -2443,14 +2443,18 @@
               ],
               "SoloGameSetup": [
                 "FindYourWay",
-                "RejoinTheTrail",
                 "WildBear",
                 "MuckAdder",
                 "SpiderGuard"
               ],
               "NextStageId": "C001Q3L3A,C001Q3L3B",
               "BGM": "mus_cave",
-              "FateCardList": [],
+              "FateCardList": [
+                {
+                  "Id": "HurryUp",
+                  "Threshold": 4
+                }
+              ],
               "ThreatCardList": [],
               "NarrativeCount": 1,
               "NarrativeTextList": [
@@ -2468,16 +2472,19 @@
                 "OnTheTrailAmbushedIntroSprite"
               ],
               "SoloGameSetup": [
-                "DolGuldurArcher",
+                "RescueGollum",
                 "DolGuldurOrc",
-                "VeteranPatrol",
-                "DolGuldurOrc",
-                "DolGuldurArcher"
+                "VeteranPatrol"
               ],
-              "NextStageId": "",
+              "NextStageId": "C001Q3L4",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": [],
+              "ThreatCardList": [
+                {
+                  "Id": "TorchesFromTheTower",
+                  "Threshold": 2
+                }
+              ],
               "NarrativeCount": 1,
               "NarrativeTextList": [
                 "Q_STAGE_C001Q3L3A_TEXT_0"
@@ -2497,13 +2504,70 @@
                 "MarshAdder",
                 "MuckAdder"
               ],
-              "NextStageId": "",
+              "NextStageId": "C001Q3L4",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": [],
+              "ThreatCardList": [
+                {
+                  "Id": "StuckInTheMud",
+                  "Threshold": 2
+                }
+              ],
               "NarrativeCount": 1,
               "NarrativeTextList": [
                 "Q_STAGE_C001Q3L3B_TEXT_0"
+              ]
+            },
+            {
+              "Id": "C001Q3L4",
+              "SceneName": "MirkwoodSwamp01",
+              "IntroMusic": "mus_cave",
+              "IntroVoiceList": [
+                "OpeningMirkwood_01"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage01"
+              ],
+              "SoloGameSetup": [
+                "PickpocketTheKey",
+                "EastBightPatrol",
+                "EastBightPatrol",
+                "OrcMarauder",
+                "MirkwoodPatrol"
+              ],
+              "NextStageId": "C001Q3L5",
+              "BGM": "mus_cave",
+              "FateCardList": null,
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q3L4_TEXT_0"
+              ]
+            },
+            {
+              "Id": "C001Q3L5",
+              "SceneName": "MirkwoodSwamp01",
+              "IntroMusic": "mus_cave",
+              "IntroVoiceList": [
+                "OpeningMirkwood_01"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage01"
+              ],
+              "SoloGameSetup": [
+                "StrangeMechanism",
+                "LowOnSuppies",
+                "WatchfulEyes",
+                "WanderingPatrol",
+                "UnderTheWatchfulEye"
+              ],
+              "NextStageId": "",
+              "BGM": "mus_cave",
+              "FateCardList": null,
+              "ThreatCardList": null,
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q3L5_TEXT_0"
               ]
             }
           ],
