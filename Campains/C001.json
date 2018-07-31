@@ -698,14 +698,18 @@
           ],
           "SoloGameSetup": [
             "FindYourWay",
-            "RejoinTheTrail",
             "WildBear",
             "MuckAdder",
             "SpiderGuard"
           ],
           "NextStageId": "C001Q3L3A,C001Q3L3B",
           "BGM": "mus_cave",
-          "FateCardList": [],
+          "FateCardList": [
+            {
+              "Id": "HurryUp",
+              "Threshold": 4
+            }
+          ],
           "ThreatCardList": [],
           "NarrativeCount": 1,
           "NarrativeTextList": [
