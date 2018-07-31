@@ -320,8 +320,18 @@
         "NextStageTitles": [
           "C001Q2L4"
         ],
-        "FateCardList": [],
-        "ThreatCardList": [],
+        "FateCardList": [
+          {
+            "Id": "RecoverYourFriend",
+            "Threshold": 8
+          }
+        ],
+        "ThreatCardList": [
+          {
+            "Id": "WhatsThatNoise",
+            "Threshold": 2
+          }
+        ],
         "NarrativeCount": 1,
         "NarrativeTextList": [
           "Q_STAGE_C001Q2L3_TEXT_0"
@@ -380,9 +390,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180731104108071",
+  "Version": "20180731104553526",
   "Key": "MainQuest",
   "SubKey": "C001Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q2_20180731104108071"
+  "InternalKey": "MainQuest_C001Q2_20180731104553526"
 }
