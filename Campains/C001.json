@@ -790,13 +790,39 @@
             "OrcMarauder",
             "MirkwoodPatrol"
           ],
-          "NextStageId": "",
+          "NextStageId": "C001Q3L5",
           "BGM": "mus_cave",
           "FateCardList": null,
           "ThreatCardList": [],
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q3L4_TEXT_0"
+          ]
+        },
+        {
+          "Id": "C001Q3L5",
+          "SceneName": "MirkwoodSwamp01",
+          "IntroMusic": "mus_cave",
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
+          "SoloGameSetup": [
+            "StrangeMechanism",
+            "LowOnSuppies",
+            "WatchfulEyes",
+            "WanderingPatrol",
+            "UnderTheWatchfulEye"
+          ],
+          "NextStageId": "",
+          "BGM": "mus_cave",
+          "FateCardList": null,
+          "ThreatCardList": null,
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C001Q3L5_TEXT_0"
           ]
         }
       ],
