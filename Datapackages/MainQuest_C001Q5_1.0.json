@@ -289,9 +289,11 @@
             "Threshold": 4
           }
         ],
-        "ThreatCardList": null,
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "ThreatCardList": [],
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q5L1_TEXT_0"
+        ]
       },
       {
         "Title": "C001Q5L2",
@@ -307,9 +309,11 @@
           "C001Q5L3"
         ],
         "FateCardList": [],
-        "ThreatCardList": null,
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "ThreatCardList": [],
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q5L2_TEXT_0"
+        ]
       },
       {
         "Title": "C001Q5L3",
@@ -325,10 +329,12 @@
         "NextStageTitles": [
           "C001Q5L4"
         ],
-        "FateCardList": null,
-        "ThreatCardList": null,
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "FateCardList": [],
+        "ThreatCardList": [],
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q5L3_TEXT_0"
+        ]
       },
       {
         "Title": "C001Q5L3B",
@@ -345,10 +351,12 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": null,
-        "ThreatCardList": null,
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "FateCardList": [],
+        "ThreatCardList": [],
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q5L3B_TEXT_0"
+        ]
       }
     ],
     "Sequences": [],
@@ -383,9 +391,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180730141120033",
+  "Version": "20180731100534136",
   "Key": "MainQuest",
   "SubKey": "C001Q5",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q5_20180730141120033"
+  "InternalKey": "MainQuest_C001Q5_20180731100534136"
 }
