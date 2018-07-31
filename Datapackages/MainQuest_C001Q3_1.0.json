@@ -473,7 +473,12 @@
           ""
         ],
         "FateCardList": [],
-        "ThreatCardList": [],
+        "ThreatCardList": [
+          {
+            "Id": "StuckInTheMud",
+            "Threshold": 2
+          }
+        ],
         "NarrativeCount": 1,
         "NarrativeTextList": [
           "Q_STAGE_C001Q3L3B_TEXT_0"
@@ -512,9 +517,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180731111546575",
+  "Version": "20180731111724345",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180731111546575"
+  "InternalKey": "MainQuest_C001Q3_20180731111724345"
 }
