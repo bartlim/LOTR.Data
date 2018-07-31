@@ -370,11 +370,11 @@
       {
         "Title": "C001Q3L1",
         "SoloGameSetup": [
-          "PursuadeGollum",
-          "BlackForestBats",
-          "BlackForestBats",
-          "MirkwoodFlock",
-          "SpiesOfShadow"
+          "FollowTheTrail",
+          "ListenToGollum",
+          "GoblinSniper",
+          "DolGuldurArcher",
+          "GoblinTaskmaster"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -383,9 +383,11 @@
           "C001Q3L2B"
         ],
         "FateCardList": [],
-        "ThreatCardList": null,
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "ThreatCardList": [],
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q3L1_TEXT_0"
+        ]
       },
       {
         "Title": "C001Q3L2A",
@@ -402,10 +404,12 @@
           "C001Q3L3A",
           "C001Q3L3B"
         ],
-        "FateCardList": null,
-        "ThreatCardList": null,
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "FateCardList": [],
+        "ThreatCardList": [],
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q3L2A_TEXT_0"
+        ]
       },
       {
         "Title": "C001Q3L2B",
@@ -422,10 +426,12 @@
           "C001Q3L3A",
           "C001Q3L3B"
         ],
-        "FateCardList": null,
-        "ThreatCardList": null,
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "FateCardList": [],
+        "ThreatCardList": [],
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q3L2B_TEXT_0"
+        ]
       },
       {
         "Title": "C001Q3L3A",
@@ -441,10 +447,12 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": null,
-        "ThreatCardList": null,
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "FateCardList": [],
+        "ThreatCardList": [],
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q3L3A_TEXT_0"
+        ]
       },
       {
         "Title": "C001Q3L3B",
@@ -457,10 +465,12 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": null,
-        "ThreatCardList": null,
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "FateCardList": [],
+        "ThreatCardList": [],
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q3L3B_TEXT_0"
+        ]
       }
     ],
     "Sequences": [],
@@ -495,9 +505,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180730141110705",
+  "Version": "20180731100524881",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180730141110705"
+  "InternalKey": "MainQuest_C001Q3_20180731100524881"
 }
