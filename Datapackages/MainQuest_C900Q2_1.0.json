@@ -97,10 +97,8 @@
             "Threshold": 4
           }
         ],
-        "NarrativeCount": 1,
-        "NarrativeTextList": [
-          "Q_STAGE_C900Q2L1_TEXT_0"
-        ]
+        "NarrativeCount": 0,
+        "NarrativeTextList": []
       }
     ],
     "Sequences": [],
@@ -109,9 +107,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180731112611092",
+  "Version": "20180731034451110",
   "Key": "MainQuest",
   "SubKey": "C900Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C900Q2_20180731112611092"
+  "InternalKey": "MainQuest_C900Q2_20180731034451110"
 }
