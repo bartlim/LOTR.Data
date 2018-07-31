@@ -18,8 +18,12 @@
               "Id": "ForestGate",
               "SceneName": "Mirkwood01",
               "IntroMusic": null,
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q1L1_ForestGate"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage01"
+              ],
               "SoloGameSetup": [
                 "HiddenPath",
                 "WatchfulEyes",
@@ -41,8 +45,12 @@
               "Id": "CapturedBySpiders",
               "SceneName": "Mirkwood02",
               "IntroMusic": null,
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q1L2_CapturedBySpiders"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage02"
+              ],
               "SoloGameSetup": [
                 "KingSpider",
                 "KingSpider"
@@ -60,8 +68,12 @@
               "Id": "StandAndFight",
               "SceneName": "Mirkwood03",
               "IntroMusic": null,
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q1L3A_StandAndFight"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage03A"
+              ],
               "SoloGameSetup": [
                 "SquirmingCocoon",
                 "SpiderGuard",
@@ -82,8 +94,12 @@
               "Id": "TurnAndFlee",
               "SceneName": "Mirkwood04",
               "IntroMusic": null,
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q1L3B_TurnAndFlee"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage03B"
+              ],
               "SoloGameSetup": [
                 "FindThePath",
                 "DolGuldurOrcs",
@@ -103,8 +119,12 @@
               "Id": "TheEnchantedStream",
               "SceneName": "EnchantedStream01",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q1L4_TheEnchantedStream"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage04"
+              ],
               "SoloGameSetup": [
                 "MarshAdder"
               ],
@@ -126,8 +146,12 @@
               "Id": "TheEnchantedStreamAlt",
               "SceneName": "EnchantedStream01",
               "IntroMusic": null,
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Sprites/Locations/Quest1_Stage04B"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage04B"
+              ],
               "SoloGameSetup": [
                 "MirkwoodPatrol",
                 "VeteranPatrol",
@@ -348,8 +372,12 @@
               "Id": "DarkForest",
               "SceneName": "Spiders01",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q2L1_DarkForest"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest2_Stage01"
+              ],
               "SoloGameSetup": [
                 "FindYourFriends",
                 "ForestSpider",
@@ -373,8 +401,12 @@
               "Id": "TheSpidersLair",
               "SceneName": "Spiders02",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q2L2_SpidersLair"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest2_Stage02"
+              ],
               "SoloGameSetup": [
                 "RescueYourFriends",
                 "HiveGuardian",
@@ -393,8 +425,12 @@
               "Id": "TheSpidersWebs",
               "SceneName": "Spiders03",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q2L3_SpidersWebs"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest2_Stage03"
+              ],
               "SoloGameSetup": [
                 "EscapeTheSpidersLair",
                 "ThickWebs",
@@ -413,8 +449,12 @@
               "Id": "ForestGlade",
               "SceneName": "Spiders04",
               "IntroMusic": null,
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q2L4_ForestGlade"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest2_Stage04"
+              ],
               "SoloGameSetup": [
                 "UngoliantsSpawn",
                 "GiantSpider",
@@ -645,8 +685,12 @@
               "Id": "MirkwoodForest",
               "SceneName": "DarkForest01",
               "IntroMusic": null,
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q3L1_MirkwoodForest"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest3_Stage01"
+              ],
               "SoloGameSetup": [
                 "FollowTheStream",
                 "ClimbTheHill",
@@ -668,8 +712,12 @@
               "Id": "ForestStream",
               "SceneName": "ForestStream01",
               "IntroMusic": null,
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q3L2A_ForestStream"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest3_Stage02A"
+              ],
               "SoloGameSetup": [
                 "ContinueDownstream",
                 "SearchForAPath",
@@ -695,8 +743,12 @@
               "Id": "BareHilltop",
               "SceneName": "DarkForest02",
               "IntroMusic": null,
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q3L2B_BareHilltop"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest3_Stage02B"
+              ],
               "SoloGameSetup": [
                 "InvestigateSmoke",
                 "SearchForAPath",
@@ -722,8 +774,12 @@
               "Id": "MirkwoodSwamp",
               "SceneName": "MirkwoodSwamp01",
               "IntroMusic": null,
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q3L3A_MirkwoodSwamp"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest3_Stage03A"
+              ],
               "SoloGameSetup": [
                 "GiantMarshWorm",
                 "Hummerhorns",
@@ -743,8 +799,12 @@
               "Id": "OvergrownTrail",
               "SceneName": "DarkForest03",
               "IntroMusic": null,
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q3L3B_OvergrownTrail"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest3_Stage03B"
+              ],
               "SoloGameSetup": [
                 "EscapeTheForest",
                 "WildBear",
@@ -764,8 +824,12 @@
               "Id": "AbandonedVillage",
               "SceneName": "DarkForest04",
               "IntroMusic": null,
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q3L3C_AbandonedVillage"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest3_Stage03C"
+              ],
               "SoloGameSetup": [
                 "DolGuldurOrcs",
                 "OrcMarauder",
@@ -1056,8 +1120,12 @@
               "Id": "ToTheRiver",
               "SceneName": "ForestStream02",
               "IntroMusic": null,
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q4L1_ToTheRiver"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest4_Stage01"
+              ],
               "SoloGameSetup": [
                 "BoardTheRaft",
                 "EastBightPatrol",
@@ -1081,8 +1149,12 @@
               "Id": "AnduinPassage",
               "SceneName": "ForestStream05",
               "IntroMusic": null,
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q4L2_AnduinPassage"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest4_Stage02"
+              ],
               "SoloGameSetup": [
                 "LeftRiverFork",
                 "Rapids",
@@ -1102,8 +1174,12 @@
               "Id": "TreacherousShortcut",
               "SceneName": "ForestStream05",
               "IntroMusic": null,
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q4L3A_TreacherousShortcut"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest4_Stage03A"
+              ],
               "SoloGameSetup": [
                 "RiverChannel",
                 "Rapids",
@@ -1124,8 +1200,12 @@
               "Id": "GentleWaters",
               "SceneName": "ForestStream04",
               "IntroMusic": null,
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q4L3B_GentleWaters"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest4_Stage03B"
+              ],
               "SoloGameSetup": [
                 "RiverBend",
                 "Rocks",
@@ -1144,8 +1224,12 @@
               "Id": "AmbushOnTheShoreStage",
               "SceneName": "ForestStream04",
               "IntroMusic": null,
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q4L3_AmbushOnTheShore"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest4_Stage03"
+              ],
               "SoloGameSetup": [
                 "AmbushOnTheShore",
                 "OrcMarauder",
@@ -1382,8 +1466,12 @@
               "Id": "SearchingForGrimbeorn",
               "SceneName": "ForestStream03",
               "IntroMusic": null,
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q5L1_SearchingForGrimbeorn"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest5_Stage01"
+              ],
               "SoloGameSetup": [
                 "FollowGrimbeornsTrail",
                 "WildBear",
@@ -1403,8 +1491,12 @@
               "Id": "TheTrollsDinner",
               "SceneName": "Trolls01",
               "IntroMusic": null,
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q5L2_TheTrollsDinner"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest5_Stage02"
+              ],
               "SoloGameSetup": [
                 "RescueGrimbeorn",
                 "GrowingDarkness",
@@ -1425,8 +1517,12 @@
               "Id": "FightWithTheTrolls",
               "SceneName": "Trolls02",
               "IntroMusic": null,
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "Q5L3_FightWithTheTrolls"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest5_Stage03"
+              ],
               "SoloGameSetup": [
                 "Morris",
                 "Louis",
@@ -3181,8 +3277,12 @@
               "Id": "C900Q1L1",
               "SceneName": "Q01_L01_ForestGate",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "OpeningMirkwood_01"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage01"
+              ],
               "SoloGameSetup": [
                 "FindThePath",
                 "VeteranPatrol"
@@ -3191,8 +3291,10 @@
               "BGM": "mus_cave",
               "FateCardList": [],
               "ThreatCardList": [],
-              "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C900Q1L1_TEXT_0"
+              ]
             }
           ],
           "SauronDeck": [
@@ -3258,8 +3360,8 @@
               "Id": "C900Q2L1",
               "SceneName": "Q01_L01_ForestGate",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [],
+              "IntroSpriteList": [],
               "SoloGameSetup": [
                 "FindThePath",
                 "VeteranPatrol"
@@ -3274,7 +3376,7 @@
                 }
               ],
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             }
           ],
           "SauronDeck": [
@@ -3340,8 +3442,8 @@
               "Id": "C900Q3L1",
               "SceneName": "Q01_L01_ForestGate",
               "IntroMusic": "",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [],
+              "IntroSpriteList": [],
               "SoloGameSetup": [
                 "FindThePath",
                 "VeteranPatrol"
@@ -3351,7 +3453,7 @@
               "FateCardList": [],
               "ThreatCardList": [],
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             }
           ],
           "SauronDeck": [
@@ -3417,8 +3519,8 @@
               "Id": "C900Q4L1",
               "SceneName": "Q01_L01_ForestGate",
               "IntroMusic": "",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [],
+              "IntroSpriteList": [],
               "SoloGameSetup": [
                 "FindThePath",
                 "VeteranPatrol"
@@ -3428,7 +3530,7 @@
               "FateCardList": [],
               "ThreatCardList": [],
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             }
           ],
           "SauronDeck": [
@@ -3494,8 +3596,8 @@
               "Id": "C900Q5L1",
               "SceneName": "Q01_L01_ForestGate",
               "IntroMusic": "",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [],
+              "IntroSpriteList": [],
               "SoloGameSetup": [
                 "FindThePath",
                 "VeteranPatrol"
@@ -3505,7 +3607,7 @@
               "FateCardList": [],
               "ThreatCardList": [],
               "NarrativeCount": 0,
-              "NarrativeTextList": null
+              "NarrativeTextList": []
             }
           ],
           "SauronDeck": [
