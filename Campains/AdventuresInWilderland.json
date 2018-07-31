@@ -1186,7 +1186,7 @@
             "GoblinSniper"
           ],
           "NextStageId": "AmbushOnTheShoreStage",
-          "BGM": "mus_desperation",
+          "BGM": "mus_cave",
           "FateCardList": null,
           "ThreatCardList": null,
           "NarrativeCount": 1,
@@ -1514,7 +1514,7 @@
         {
           "Id": "FightWithTheTrolls",
           "SceneName": "Trolls02",
-          "IntroMusic": null,
+          "IntroMusic": "mus_cave",
           "IntroVoiceList": [
             "Q5L3_FightWithTheTrolls"
           ],
