@@ -370,11 +370,12 @@
       {
         "Title": "C001Q3L1",
         "SoloGameSetup": [
-          "FollowTheTrail",
-          "ListenToGollum",
+          "PursuadingGollum",
           "GoblinSniper",
-          "DolGuldurArcher",
-          "GoblinTaskmaster"
+          "BlackForestBats",
+          "BlackForestBats",
+          "MirkwoodPatrol",
+          "SpiesOfShadow"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -505,9 +506,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180731105956484",
+  "Version": "20180731110607958",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180731105956484"
+  "InternalKey": "MainQuest_C001Q3_20180731110607958"
 }
