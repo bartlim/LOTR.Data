@@ -447,7 +447,7 @@
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "C001Q3L4"
         ],
         "FateCardList": [],
         "ThreatCardList": [
@@ -470,7 +470,7 @@
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "C001Q3L4"
         ],
         "FateCardList": [],
         "ThreatCardList": [
@@ -482,6 +482,27 @@
         "NarrativeCount": 1,
         "NarrativeTextList": [
           "Q_STAGE_C001Q3L3B_TEXT_0"
+        ]
+      },
+      {
+        "Title": "C001Q3L4",
+        "SoloGameSetup": [
+          "PickpocketTheKey",
+          "EastBightPatrol",
+          "EastBightPatrol",
+          "OrcMarauder",
+          "MirkwoodPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ],
+        "FateCardList": null,
+        "ThreatCardList": [],
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q3L4_TEXT_0"
         ]
       }
     ],
@@ -517,9 +538,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180731111724345",
+  "Version": "20180731112052669",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180731111724345"
+  "InternalKey": "MainQuest_C001Q3_20180731112052669"
 }
