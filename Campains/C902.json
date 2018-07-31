@@ -1,0 +1,423 @@
+{
+  "Id": "C902",
+  "IconSprite": "Sprites/Quest/icon_q1",
+  "MapPosX": 0.0,
+  "MapPosY": 0.0,
+  "Quests": [
+    {
+      "Id": "C902Q1",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "ArtSprite": "Sprites/Quest/quest_1",
+      "VictoryVoice": null,
+      "DefeatVoice": null,
+      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "Stages": [
+        {
+          "Id": "C902Q1L1",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": "",
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
+          "SoloGameSetup": [
+            "FindThePath",
+            "VeteranPatrol"
+          ],
+          "NextStageId": "",
+          "BGM": null,
+          "FateCardList": [],
+          "ThreatCardList": [],
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C902Q1L1_TEXT_0"
+          ]
+        }
+      ],
+      "SauronDeck": [
+        {
+          "Id": "BlackForestBats",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "DolGuldurOrcs",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "EastBightPatrol",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "Enfeebled",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "DrivenByShadow",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "GoblinSniper",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "MirkwoodPatrol",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "ThickWebs",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "Tribulation",
+          "Amount": 2,
+          "PlayOnce": false
+        }
+      ],
+      "FateCardList": [],
+      "ThreatCardList": [],
+      "AIBehavior": "AggressiveAI"
+    },
+    {
+      "Id": "C902Q2",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "ArtSprite": "Sprites/Quest/quest_1",
+      "VictoryVoice": null,
+      "DefeatVoice": null,
+      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "Stages": [
+        {
+          "Id": "C902Q2L1",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": "",
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
+          "SoloGameSetup": [
+            "FindThePath",
+            "VeteranPatrol"
+          ],
+          "NextStageId": "",
+          "BGM": null,
+          "FateCardList": [],
+          "ThreatCardList": [],
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C902Q2L1_TEXT_0"
+          ]
+        }
+      ],
+      "SauronDeck": [
+        {
+          "Id": "BlackForestBats",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "DolGuldurOrcs",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "EastBightPatrol",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "Enfeebled",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "DrivenByShadow",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "GoblinSniper",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "MirkwoodPatrol",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "ThickWebs",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "Tribulation",
+          "Amount": 2,
+          "PlayOnce": false
+        }
+      ],
+      "FateCardList": [],
+      "ThreatCardList": [],
+      "AIBehavior": "AggressiveAI"
+    },
+    {
+      "Id": "C902Q3",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "ArtSprite": "Sprites/Quest/quest_1",
+      "VictoryVoice": null,
+      "DefeatVoice": null,
+      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "Stages": [
+        {
+          "Id": "C902Q3L1",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": "",
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
+          "SoloGameSetup": [
+            "FindThePath",
+            "VeteranPatrol"
+          ],
+          "NextStageId": "",
+          "BGM": null,
+          "FateCardList": [],
+          "ThreatCardList": [],
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C902Q3L1_TEXT_0"
+          ]
+        }
+      ],
+      "SauronDeck": [
+        {
+          "Id": "BlackForestBats",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "DolGuldurOrcs",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "EastBightPatrol",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "Enfeebled",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "DrivenByShadow",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "GoblinSniper",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "MirkwoodPatrol",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "ThickWebs",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "Tribulation",
+          "Amount": 2,
+          "PlayOnce": false
+        }
+      ],
+      "FateCardList": [],
+      "ThreatCardList": [],
+      "AIBehavior": "AggressiveAI"
+    },
+    {
+      "Id": "C902Q4",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "ArtSprite": "Sprites/Quest/quest_1",
+      "VictoryVoice": null,
+      "DefeatVoice": null,
+      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "Stages": [
+        {
+          "Id": "C902Q4L1",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": "",
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
+          "SoloGameSetup": [
+            "FindThePath",
+            "VeteranPatrol"
+          ],
+          "NextStageId": "",
+          "BGM": null,
+          "FateCardList": [],
+          "ThreatCardList": [],
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C902Q4L1_TEXT_0"
+          ]
+        }
+      ],
+      "SauronDeck": [
+        {
+          "Id": "BlackForestBats",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "DolGuldurOrcs",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "EastBightPatrol",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "Enfeebled",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "DrivenByShadow",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "GoblinSniper",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "MirkwoodPatrol",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "ThickWebs",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "Tribulation",
+          "Amount": 2,
+          "PlayOnce": false
+        }
+      ],
+      "FateCardList": [],
+      "ThreatCardList": [],
+      "AIBehavior": "AggressiveAI"
+    },
+    {
+      "Id": "C902Q5",
+      "IconSprite": "Sprites/Quest/icon_q1",
+      "ArtSprite": "Sprites/Quest/quest_1",
+      "VictoryVoice": null,
+      "DefeatVoice": null,
+      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "Stages": [
+        {
+          "Id": "C902Q5L1",
+          "SceneName": "Q01_L01_ForestGate",
+          "IntroMusic": "",
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
+          "SoloGameSetup": [
+            "FindThePath",
+            "VeteranPatrol"
+          ],
+          "NextStageId": "",
+          "BGM": null,
+          "FateCardList": [],
+          "ThreatCardList": [],
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C902Q5L1_TEXT_0"
+          ]
+        }
+      ],
+      "SauronDeck": [
+        {
+          "Id": "BlackForestBats",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "DolGuldurOrcs",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "EastBightPatrol",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "Enfeebled",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "DrivenByShadow",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "GoblinSniper",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "MirkwoodPatrol",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "ThickWebs",
+          "Amount": 2,
+          "PlayOnce": false
+        },
+        {
+          "Id": "Tribulation",
+          "Amount": 2,
+          "PlayOnce": false
+        }
+      ],
+      "FateCardList": [],
+      "ThreatCardList": [],
+      "AIBehavior": "AggressiveAI"
+    }
+  ]
+}
