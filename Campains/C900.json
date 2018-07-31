@@ -28,8 +28,18 @@
           ],
           "NextStageId": "",
           "BGM": "mus_cave",
-          "FateCardList": [],
-          "ThreatCardList": [],
+          "FateCardList": [
+            {
+              "Id": "fate1",
+              "Threshold": 1
+            }
+          ],
+          "ThreatCardList": [
+            {
+              "Id": "threat1",
+              "Threshold": 1
+            }
+          ],
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C900Q1L1_TEXT_0"
@@ -99,12 +109,8 @@
           "Id": "C900Q2L1",
           "SceneName": "Q01_L01_ForestGate",
           "IntroMusic": "mus_cave",
-          "IntroVoiceList": [
-            "OpeningMirkwood_01"
-          ],
-          "IntroSpriteList": [
-            "Sprites/Locations/Quest1_Stage01"
-          ],
+          "IntroVoiceList": [],
+          "IntroSpriteList": [],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
@@ -118,10 +124,8 @@
               "Threshold": 4
             }
           ],
-          "NarrativeCount": 1,
-          "NarrativeTextList": [
-            "Q_STAGE_C900Q2L1_TEXT_0"
-          ]
+          "NarrativeCount": 0,
+          "NarrativeTextList": []
         }
       ],
       "SauronDeck": [
