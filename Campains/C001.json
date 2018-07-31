@@ -727,16 +727,19 @@
             "OnTheTrailAmbushedIntroSprite"
           ],
           "SoloGameSetup": [
-            "DolGuldurArcher",
+            "RescueGollum",
             "DolGuldurOrc",
-            "VeteranPatrol",
-            "DolGuldurOrc",
-            "DolGuldurArcher"
+            "VeteranPatrol"
           ],
           "NextStageId": "",
           "BGM": "mus_cave",
           "FateCardList": [],
-          "ThreatCardList": [],
+          "ThreatCardList": [
+            {
+              "Id": "TorchesFromTheTower",
+              "Threshold": 2
+            }
+          ],
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q3L3A_TEXT_0"
