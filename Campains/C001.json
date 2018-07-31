@@ -54,7 +54,12 @@
           "NextStageId": "C001Q1L3",
           "BGM": "mus_cave",
           "FateCardList": [],
-          "ThreatCardList": [],
+          "ThreatCardList": [
+            {
+              "Id": "UnsteadyFooting",
+              "Threshold": 3
+            }
+          ],
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q1L2_TEXT_0"
