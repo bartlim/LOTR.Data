@@ -297,7 +297,11 @@
             "Threshold": 5
           }
         ],
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_ToTheRiver_TEXT_0"
+        ]
       },
       {
         "Title": "AnduinPassage",
@@ -313,7 +317,11 @@
           "TreacherousShortcut"
         ],
         "FateCardList": [],
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_AnduinPassage_TEXT_0"
+        ]
       },
       {
         "Title": "TreacherousShortcut",
@@ -330,7 +338,11 @@
           "AmbushOnTheShoreStage"
         ],
         "FateCardList": null,
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_TreacherousShortcut_TEXT_0"
+        ]
       },
       {
         "Title": "GentleWaters",
@@ -345,7 +357,11 @@
           "AmbushOnTheShoreStage"
         ],
         "FateCardList": [],
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_GentleWaters_TEXT_0"
+        ]
       },
       {
         "Title": "AmbushOnTheShoreStage",
@@ -367,7 +383,11 @@
             "Threshold": 5
           }
         ],
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_AmbushOnTheShoreStage_TEXT_0"
+        ]
       }
     ],
     "Sequences": [],
@@ -402,9 +422,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180730105424409",
+  "Version": "20180731075532028",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180730105424409"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180731075532028"
 }
