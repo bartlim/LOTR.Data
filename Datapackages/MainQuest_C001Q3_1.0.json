@@ -441,7 +441,7 @@
         "Title": "C001Q3L3A",
         "SoloGameSetup": [
           "RescueGollum",
-          "DolGuldurOrc",
+          "DolGuldurOrcs",
           "VeteranPatrol"
         ],
         "CoopGameSetup": [],
@@ -559,9 +559,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180731134822745",
+  "Version": "20180731140005969",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180731134822745"
+  "InternalKey": "MainQuest_C001Q3_20180731140005969"
 }
