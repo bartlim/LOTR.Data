@@ -698,14 +698,18 @@
           ],
           "SoloGameSetup": [
             "FindYourWay",
-            "RejoinTheTrail",
             "WildBear",
             "MuckAdder",
             "SpiderGuard"
           ],
           "NextStageId": "C001Q3L3A,C001Q3L3B",
           "BGM": "mus_cave",
-          "FateCardList": [],
+          "FateCardList": [
+            {
+              "Id": "HurryUp",
+              "Threshold": 4
+            }
+          ],
           "ThreatCardList": [],
           "NarrativeCount": 1,
           "NarrativeTextList": [
@@ -723,16 +727,19 @@
             "OnTheTrailAmbushedIntroSprite"
           ],
           "SoloGameSetup": [
-            "DolGuldurArcher",
+            "RescueGollum",
             "DolGuldurOrc",
-            "VeteranPatrol",
-            "DolGuldurOrc",
-            "DolGuldurArcher"
+            "VeteranPatrol"
           ],
           "NextStageId": "",
           "BGM": "mus_cave",
           "FateCardList": [],
-          "ThreatCardList": [],
+          "ThreatCardList": [
+            {
+              "Id": "TorchesFromTheTower",
+              "Threshold": 2
+            }
+          ],
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q3L3A_TEXT_0"
@@ -755,7 +762,12 @@
           "NextStageId": "",
           "BGM": "mus_cave",
           "FateCardList": [],
-          "ThreatCardList": [],
+          "ThreatCardList": [
+            {
+              "Id": "StuckInTheMud",
+              "Threshold": 2
+            }
+          ],
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q3L3B_TEXT_0"
