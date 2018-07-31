@@ -285,7 +285,11 @@
           "TheTrollsDinner"
         ],
         "FateCardList": [],
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_SearchingForGrimbeorn_TEXT_0"
+        ]
       },
       {
         "Title": "TheTrollsDinner",
@@ -302,7 +306,11 @@
           "FightWithTheTrolls"
         ],
         "FateCardList": null,
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_TheTrollsDinner_TEXT_0"
+        ]
       },
       {
         "Title": "FightWithTheTrolls",
@@ -323,7 +331,11 @@
             "Threshold": 5
           }
         ],
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_FightWithTheTrolls_TEXT_0"
+        ]
       }
     ],
     "Sequences": [],
@@ -358,9 +370,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180730105429949",
+  "Version": "20180731075537240",
   "Key": "MainQuest",
   "SubKey": "ConflictAtTheCarrock",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180730105429949"
+  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180731075537240"
 }
