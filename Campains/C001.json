@@ -731,7 +731,7 @@
             "DolGuldurOrc",
             "VeteranPatrol"
           ],
-          "NextStageId": "",
+          "NextStageId": "C001Q3L4",
           "BGM": "mus_cave",
           "FateCardList": [],
           "ThreatCardList": [
@@ -759,7 +759,7 @@
             "MarshAdder",
             "MuckAdder"
           ],
-          "NextStageId": "",
+          "NextStageId": "C001Q3L4",
           "BGM": "mus_cave",
           "FateCardList": [],
           "ThreatCardList": [
@@ -771,6 +771,32 @@
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q3L3B_TEXT_0"
+          ]
+        },
+        {
+          "Id": "C001Q3L4",
+          "SceneName": "MirkwoodSwamp01",
+          "IntroMusic": "mus_cave",
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
+          "SoloGameSetup": [
+            "PickpocketTheKey",
+            "EastBightPatrol",
+            "EastBightPatrol",
+            "OrcMarauder",
+            "MirkwoodPatrol"
+          ],
+          "NextStageId": "",
+          "BGM": "mus_cave",
+          "FateCardList": null,
+          "ThreatCardList": [],
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C001Q3L4_TEXT_0"
           ]
         }
       ],
