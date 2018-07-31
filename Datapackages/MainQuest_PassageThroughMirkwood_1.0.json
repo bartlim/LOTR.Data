@@ -271,7 +271,11 @@
           "CapturedBySpiders"
         ],
         "FateCardList": [],
-        "ThreatCardList": []
+        "ThreatCardList": [],
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_ForestGate_TEXT_0"
+        ]
       },
       {
         "Title": "CapturedBySpiders",
@@ -286,7 +290,11 @@
           "TurnAndFlee"
         ],
         "FateCardList": null,
-        "ThreatCardList": []
+        "ThreatCardList": [],
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_CapturedBySpiders_TEXT_0"
+        ]
       },
       {
         "Title": "StandAndFight",
@@ -303,7 +311,11 @@
           "TheEnchantedStream"
         ],
         "FateCardList": [],
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_StandAndFight_TEXT_0"
+        ]
       },
       {
         "Title": "TurnAndFlee",
@@ -319,7 +331,11 @@
           "TheEnchantedStreamAlt"
         ],
         "FateCardList": [],
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_TurnAndFlee_TEXT_0"
+        ]
       },
       {
         "Title": "TheEnchantedStream",
@@ -337,7 +353,11 @@
             "Threshold": 5
           }
         ],
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_TheEnchantedStream_TEXT_0"
+        ]
       },
       {
         "Title": "TheEnchantedStreamAlt",
@@ -358,7 +378,11 @@
             "Threshold": 5
           }
         ],
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_TheEnchantedStreamAlt_TEXT_0"
+        ]
       }
     ],
     "Sequences": [],
@@ -393,9 +417,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180730105409851",
+  "Version": "20180731075516850",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180730105409851"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180731075516850"
 }
