@@ -297,7 +297,11 @@
             "Threshold": 2
           }
         ],
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_DarkForest_TEXT_0"
+        ]
       },
       {
         "Title": "TheSpidersLair",
@@ -312,7 +316,11 @@
           "TheSpidersWebs"
         ],
         "FateCardList": [],
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_TheSpidersLair_TEXT_0"
+        ]
       },
       {
         "Title": "TheSpidersWebs",
@@ -327,7 +335,11 @@
           "ForestGlade"
         ],
         "FateCardList": [],
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_TheSpidersWebs_TEXT_0"
+        ]
       },
       {
         "Title": "ForestGlade",
@@ -343,7 +355,11 @@
           ""
         ],
         "FateCardList": null,
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_ForestGlade_TEXT_0"
+        ]
       }
     ],
     "Sequences": [],
@@ -378,9 +394,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180730105414873",
+  "Version": "20180731075522143",
   "Key": "MainQuest",
   "SubKey": "FliesAndSpiders",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_FliesAndSpiders_20180730105414873"
+  "InternalKey": "MainQuest_FliesAndSpiders_20180731075522143"
 }
