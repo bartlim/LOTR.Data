@@ -415,7 +415,6 @@
         "Title": "C001Q3L2B",
         "SoloGameSetup": [
           "FindYourWay",
-          "RejoinTheTrail",
           "WildBear",
           "MuckAdder",
           "SpiderGuard"
@@ -426,7 +425,12 @@
           "C001Q3L3A",
           "C001Q3L3B"
         ],
-        "FateCardList": [],
+        "FateCardList": [
+          {
+            "Id": "HurryUp",
+            "Threshold": 4
+          }
+        ],
         "ThreatCardList": [],
         "NarrativeCount": 1,
         "NarrativeTextList": [
@@ -505,9 +509,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180731111055949",
+  "Version": "20180731111338323",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180731111055949"
+  "InternalKey": "MainQuest_C001Q3_20180731111338323"
 }
