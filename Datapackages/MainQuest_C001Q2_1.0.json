@@ -352,7 +352,12 @@
           ""
         ],
         "FateCardList": [],
-        "ThreatCardList": [],
+        "ThreatCardList": [
+          {
+            "Id": "OvercomeDarkness",
+            "Threshold": 5
+          }
+        ],
         "NarrativeCount": 1,
         "NarrativeTextList": [
           "Q_STAGE_C001Q2L4_TEXT_0"
@@ -391,9 +396,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180731105458132",
+  "Version": "20180731105700676",
   "Key": "MainQuest",
   "SubKey": "C001Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q2_20180731105458132"
+  "InternalKey": "MainQuest_C001Q2_20180731105700676"
 }
