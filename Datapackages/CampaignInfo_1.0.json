@@ -2390,11 +2390,12 @@
                 "Sprites/Locations/Quest1_Stage01"
               ],
               "SoloGameSetup": [
-                "FollowTheTrail",
-                "ListenToGollum",
+                "PursuadingGollum",
                 "GoblinSniper",
-                "DolGuldurArcher",
-                "GoblinTaskmaster"
+                "BlackForestBats",
+                "BlackForestBats",
+                "MirkwoodPatrol",
+                "SpiesOfShadow"
               ],
               "NextStageId": "C001Q3L2A,C001Q3L2B",
               "BGM": "mus_cave",
@@ -2416,11 +2417,10 @@
                 "OnTheTrailAlongTheTrailIntroSprite"
               ],
               "SoloGameSetup": [
-                "ContinueOnTheTrail",
-                "OffThePath",
                 "GoblinTaskmaster",
-                "GoblinSniper",
-                "DolGuldurOrc"
+                "DolGuldurArcher",
+                "DolGuldurArcher",
+                "StragglingGoblin"
               ],
               "NextStageId": "C001Q3L3A,C001Q3L3B",
               "BGM": "mus_cave",
