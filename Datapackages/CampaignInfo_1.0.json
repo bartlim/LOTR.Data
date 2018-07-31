@@ -1761,8 +1761,12 @@
               "Id": "C001Q1L1",
               "SceneName": "ForestStream03",
               "IntroMusic": "mus_deckmenu",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "OpeningMirkwood_01"
+              ],
+              "IntroSpriteList": [
+                "TheShadowsReachQuest01TheSpidersGladeIntroSprite"
+              ],
               "SoloGameSetup": [
                 "InvestigateTheGlade",
                 "ForestSpider",
@@ -1772,33 +1776,41 @@
               "NextStageId": "C001Q1L2",
               "BGM": "mus_mirkwood",
               "FateCardList": [],
-              "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q1L1_TEXT"
+              ]
             },
             {
               "Id": "C001Q1L2",
               "SceneName": "EnchantedStream01",
               "IntroMusic": "mus_deckmenu",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [],
+              "IntroSpriteList": [
+                "TheShadowsReachQuest01CrossingTheEnchantedStreamIntroSprite"
+              ],
               "SoloGameSetup": [
                 "KingSpider",
                 "GiantSpider"
               ],
               "NextStageId": "C001Q1L3",
               "BGM": "mus_cave",
-              "FateCardList": null,
+              "FateCardList": [],
               "ThreatCardList": [],
-              "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q1L2_TEXT"
+              ]
             },
             {
               "Id": "C001Q1L3",
               "SceneName": "Mirkwood02",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [],
+              "IntroSpriteList": [
+                "TheShadowsReachQuest01AnUnexpectedEnemyIntroSprite"
+              ],
               "SoloGameSetup": [
                 "ThrashingCocoon",
                 "GiantSpider",
@@ -1814,16 +1826,20 @@
                   "Threshold": 7
                 }
               ],
-              "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q1L3_TEXT"
+              ]
             },
             {
               "Id": "C001Q1L4",
               "SceneName": "DarkForest03",
               "IntroMusic": "mus_mapmenu",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [],
+              "IntroSpriteList": [
+                "TheShadowsReachQuest01TheSpidersWebsIntroSprite"
+              ],
               "SoloGameSetup": [
                 "SpiderLt1",
                 "SpiderLt2",
@@ -1832,9 +1848,11 @@
               "NextStageId": "",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q1L4_TEXT"
+              ]
             }
           ],
           "SauronDeck": [
@@ -2036,8 +2054,12 @@
               "Id": "C001Q2L1",
               "SceneName": "Spiders01",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "OpeningMirkwood_01"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage01"
+              ],
               "SoloGameSetup": [
                 "FindYourFriends",
                 "ForestSpider",
@@ -2046,16 +2068,20 @@
               "NextStageId": "C001Q2L2",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q2L1_TEXT"
+              ]
             },
             {
               "Id": "C001Q2L2",
               "SceneName": "Spiders02",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [],
+              "IntroSpriteList": [
+                "FliesAndSpidersTheSpidersLairIntroSprite"
+              ],
               "SoloGameSetup": [
                 "RescueYourFriend",
                 "ForestSpider",
@@ -2063,17 +2089,21 @@
               ],
               "NextStageId": "C001Q2L3",
               "BGM": "mus_cave",
-              "FateCardList": null,
-              "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "FateCardList": [],
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q2L2_TEXT"
+              ]
             },
             {
               "Id": "C001Q2L3",
               "SceneName": "Spiders02",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [],
+              "IntroSpriteList": [
+                "FliesAndSpidersTheSpidersWebsIntroSprite"
+              ],
               "SoloGameSetup": [
                 "GiantSpider",
                 "DolGuldurArcher",
@@ -2081,17 +2111,21 @@
               ],
               "NextStageId": "C001Q2L4",
               "BGM": "mus_cave",
-              "FateCardList": null,
-              "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "FateCardList": [],
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q2L3_TEXT"
+              ]
             },
             {
               "Id": "C001Q2L4",
               "SceneName": "Spiders04",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [],
+              "IntroSpriteList": [
+                "FliesAndSpidersForestLairIntroSprite"
+              ],
               "SoloGameSetup": [
                 "UngoliantsSpawn",
                 "GiantSpider",
@@ -2100,10 +2134,12 @@
               ],
               "NextStageId": "",
               "BGM": "mus_cave",
-              "FateCardList": null,
-              "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "FateCardList": [],
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q2L4_TEXT"
+              ]
             }
           ],
           "SauronDeck": [
@@ -2315,28 +2351,36 @@
               "Id": "C001Q3L1",
               "SceneName": "Mirkwood03",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "OpeningMirkwood_01"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage01"
+              ],
               "SoloGameSetup": [
-                "PursuadeGollum",
-                "BlackForestBats",
-                "BlackForestBats",
-                "MirkwoodFlock",
-                "SpiesOfShadow"
+                "FollowTheTrail",
+                "ListenToGollum",
+                "GoblinSniper",
+                "DolGuldurArcher",
+                "GoblinTaskmaster"
               ],
               "NextStageId": "C001Q3L2A,C001Q3L2B",
-              "BGM": "mus_mirkwood",
+              "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q3L1_TEXT"
+              ]
             },
             {
               "Id": "C001Q3L2A",
               "SceneName": "ForestStream01",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [],
+              "IntroSpriteList": [
+                "OnTheTrailAlongTheTrailIntroSprite"
+              ],
               "SoloGameSetup": [
                 "ContinueOnTheTrail",
                 "OffThePath",
@@ -2346,17 +2390,21 @@
               ],
               "NextStageId": "C001Q3L3A,C001Q3L3B",
               "BGM": "mus_cave",
-              "FateCardList": null,
-              "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "FateCardList": [],
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q3L2A_TEXT"
+              ]
             },
             {
               "Id": "C001Q3L2B",
               "SceneName": "DarkForest01",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [],
+              "IntroSpriteList": [
+                "OnTheTrailASecretWayIntroSprite"
+              ],
               "SoloGameSetup": [
                 "FindYourWay",
                 "RejoinTheTrail",
@@ -2366,17 +2414,21 @@
               ],
               "NextStageId": "C001Q3L3A,C001Q3L3B",
               "BGM": "mus_cave",
-              "FateCardList": null,
-              "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "FateCardList": [],
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q3L2B_TEXT"
+              ]
             },
             {
               "Id": "C001Q3L3A",
               "SceneName": "DarkForest03",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [],
+              "IntroSpriteList": [
+                "OnTheTrailAmbushedIntroSprite"
+              ],
               "SoloGameSetup": [
                 "DolGuldurArcher",
                 "DolGuldurOrc",
@@ -2386,27 +2438,33 @@
               ],
               "NextStageId": "",
               "BGM": "mus_cave",
-              "FateCardList": null,
-              "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "FateCardList": [],
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q3L3A_TEXT"
+              ]
             },
             {
               "Id": "C001Q3L3B",
               "SceneName": "MirkwoodSwamp01",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [],
+              "IntroSpriteList": [
+                "OnTheTrailMirkwoodSwampIntroSprite"
+              ],
               "SoloGameSetup": [
                 "MarshAdder",
                 "MuckAdder"
               ],
               "NextStageId": "",
               "BGM": "mus_cave",
-              "FateCardList": null,
-              "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "FateCardList": [],
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q3L3B_TEXT"
+              ]
             }
           ],
           "SauronDeck": [
@@ -2678,8 +2736,12 @@
               "Id": "C001Q4L1",
               "SceneName": "Hall02",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "OpeningMirkwood_01"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage01"
+              ],
               "SoloGameSetup": [
                 "GiantWorm",
                 "MuckAdder",
@@ -2688,16 +2750,18 @@
               "NextStageId": "C001Q4L2",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q4L1_TEXT"
+              ]
             },
             {
               "Id": "C001Q4L2",
               "SceneName": "Hall02",
               "IntroMusic": "mus_dungeon",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [],
+              "IntroSpriteList": [],
               "SoloGameSetup": [
                 "IntrudersInTheTower",
                 "DolGuldurOrc",
@@ -2707,17 +2771,19 @@
               ],
               "NextStageId": "C001Q4L3",
               "BGM": "mus_dungeon",
-              "FateCardList": null,
-              "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "FateCardList": [],
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q4L2_TEXT"
+              ]
             },
             {
               "Id": "C001Q4L3",
               "SceneName": "Hall03",
               "IntroMusic": "mus_dungeon",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [],
+              "IntroSpriteList": [],
               "SoloGameSetup": [
                 "FreeBilbo",
                 "DeterioratingGate",
@@ -2725,10 +2791,12 @@
               ],
               "NextStageId": "",
               "BGM": "mus_dungeon",
-              "FateCardList": null,
-              "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "FateCardList": [],
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q4L3_TEXT"
+              ]
             }
           ],
           "SauronDeck": [
@@ -2980,8 +3048,12 @@
               "Id": "C001Q5L1",
               "SceneName": "ForestStream02",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [
+                "OpeningMirkwood_01"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage01"
+              ],
               "SoloGameSetup": [
                 "BoardTheRaft",
                 "EastBightPatrol",
@@ -2995,16 +3067,18 @@
                   "Threshold": 4
                 }
               ],
-              "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q5L1_TEXT"
+              ]
             },
             {
               "Id": "C001Q5L2",
               "SceneName": "ForestStream03",
               "IntroMusic": "mus_stream",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [],
+              "IntroSpriteList": [],
               "SoloGameSetup": [
                 "LeftRiverFork",
                 "Rapids",
@@ -3014,16 +3088,18 @@
               "NextStageId": "C001Q5L3",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q5L2_TEXT"
+              ]
             },
             {
               "Id": "C001Q5L3",
               "SceneName": "ForestStream04",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [],
+              "IntroSpriteList": [],
               "SoloGameSetup": [
                 "DenyTheCrossing",
                 "MirkwoodPatrol",
@@ -3033,17 +3109,19 @@
               ],
               "NextStageId": "C001Q5L4",
               "BGM": "mus_cave",
-              "FateCardList": null,
-              "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "FateCardList": [],
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q5L3_TEXT"
+              ]
             },
             {
               "Id": "C001Q5L3B",
               "SceneName": "ForestStream05",
               "IntroMusic": "mus_cave",
-              "IntroVoiceList": null,
-              "IntroSpriteList": null,
+              "IntroVoiceList": [],
+              "IntroSpriteList": [],
               "SoloGameSetup": [
                 "WardensOfLorien",
                 "ChieftainUfthak",
@@ -3054,10 +3132,12 @@
               ],
               "NextStageId": "",
               "BGM": "mus_saurontheme",
-              "FateCardList": null,
-              "ThreatCardList": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": []
+              "FateCardList": [],
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q5L3B_TEXT"
+              ]
             }
           ],
           "SauronDeck": [
