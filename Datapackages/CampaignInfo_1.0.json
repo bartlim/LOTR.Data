@@ -4304,6 +4304,29 @@
               "NarrativeTextList": [
                 "Q_STAGE_C902Q1L3_TEXT_0"
               ]
+            },
+            {
+              "Id": "C902Q1L4",
+              "SceneName": "",
+              "IntroMusic": "mus_cave",
+              "IntroVoiceList": [
+                "OpeningMirkwood_01",
+                ""
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage01",
+                ""
+              ],
+              "SoloGameSetup": null,
+              "NextStageId": "",
+              "BGM": "mus_cave",
+              "FateCardList": null,
+              "ThreatCardList": null,
+              "NarrativeCount": 2,
+              "NarrativeTextList": [
+                "Q_STAGE_C902Q1L4_TEXT_0",
+                "Q_STAGE_C902Q1L4_TEXT_1"
+              ]
             }
           ],
           "SauronDeck": [
