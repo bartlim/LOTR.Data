@@ -4262,10 +4262,14 @@
               "SceneName": "",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "OpeningMirkwood_01",
+                "",
+                ""
               ],
               "IntroSpriteList": [
-                "Sprites/Locations/Quest1_Stage01"
+                "Sprites/Locations/Quest1_Stage01",
+                "",
+                ""
               ],
               "SoloGameSetup": [
                 ""
@@ -4274,9 +4278,31 @@
               "BGM": "mus_cave",
               "FateCardList": null,
               "ThreatCardList": null,
+              "NarrativeCount": 3,
+              "NarrativeTextList": [
+                "Q_STAGE_C902Q1L2_TEXT_0",
+                "Q_STAGE_C902Q1L2_TEXT_1",
+                "Q_STAGE_C902Q1L2_TEXT_2"
+              ]
+            },
+            {
+              "Id": "C902Q1L3",
+              "SceneName": "",
+              "IntroMusic": "mus_cave",
+              "IntroVoiceList": [
+                "OpeningMirkwood_01"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage01"
+              ],
+              "SoloGameSetup": null,
+              "NextStageId": "",
+              "BGM": "mus_cave",
+              "FateCardList": null,
+              "ThreatCardList": null,
               "NarrativeCount": 1,
               "NarrativeTextList": [
-                "Q_STAGE_C902Q1L2_TEXT_0"
+                "Q_STAGE_C902Q1L3_TEXT_0"
               ]
             }
           ],
