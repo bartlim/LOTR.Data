@@ -141,9 +141,10 @@
         ],
         "FateCardList": null,
         "ThreatCardList": null,
-        "NarrativeCount": 1,
+        "NarrativeCount": 2,
         "NarrativeTextList": [
-          "Q_STAGE_C902Q1L4_TEXT_0"
+          "Q_STAGE_C902Q1L4_TEXT_0",
+          "Q_STAGE_C902Q1L4_TEXT_1"
         ]
       }
     ],
@@ -153,9 +154,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180801174312774",
+  "Version": "20180801174426894",
   "Key": "MainQuest",
   "SubKey": "C902Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C902Q1_20180801174312774"
+  "InternalKey": "MainQuest_C902Q1_20180801174426894"
 }
