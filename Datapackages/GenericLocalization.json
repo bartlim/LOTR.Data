@@ -15725,19 +15725,19 @@
   },
   {
     "Id": "Q_STAGE_C001Q1L1_TEXT_0",
-    "Text": "<i><size=58>A</size>rriving at the location of Bilbo's capture, you find a group of spiders, but no Hobbit. You must find out what happened to Gloin's friend. Following the spiders may lead you back to their lair...</i>"
+    "Text": "DefaultStory1"
   },
   {
     "Id": "Q_STAGE_C001Q1L2_TEXT_0",
-    "Text": "<i><size=58>A</size> strange dark stream interrupts the path. \rSomething moves in the shadows of the canopies above. \n\nCarefully crossing the foul river on a fallen log, you do not look upwards until it is too late! A member of your party is grabbed by the spiders before you can react.</i>"
+    "Text": "DefaultStory1"
   },
   {
     "Id": "Q_STAGE_C001Q1L3_TEXT_0",
-    "Text": "<i><size=58>T</size>he heroes manage to cross the stream  and shortly after find the trail again. They happen upon a clearing in which several spiders are gathered around a fresh cocoon. \r\n</i>"
+    "Text": "DefaultStory1"
   },
   {
     "Id": "Q_STAGE_C001Q1L4_TEXT_0",
-    "Text": "<i><size=58>T</size>he trail seems to have been lost, when the Adventures hear a shrill wail in the distance. They rush to investigate. \r\n\nToo fast.. for suddenly three enormous spider-guardians descend before them.</i>"
+    "Text": "DefaultStory1"
   },
   {
     "Id": "Q_STAGE_C001Q2L1_TEXT_0",
@@ -15994,5 +15994,13 @@
     "Text": "You have completed the prologue, but your adventure has only just begun. \n     Gather your own fellowship and begin the first Campaign, The Shadow's Reach, to rescue Bilbo!",
     "Text_CN": "You have completed the prologue, but your adventure has only just begun. \n     Gather your own fellowship and begin the first Campaign, The Shadow's Reach, to rescue Bilbo!",
     "Text_FR": "You have completed the prologue, but your adventure has only just begun. \n     Gather your own fellowship and begin the first Campaign, The Shadow's Reach, to rescue Bilbo!"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L1_TEXT_1",
+    "Text": "<size=50%><i><size=58>T</size>he tranquility of Beorn’s Hall is shattered when a devastated Glóin bursts in. The old dwarf shares dreadful news: he and his dear friend Bilbo were ambushed by giant spiders—and one of them has taken the hobbit!\r\n<indent=50></indent>“And to think that Bilbo once rescued </i>us<i> from such webs,\" Glóin sobs. \"If only Gandalf were here!”\r\n<indent=50></indent>The Grey Wizard is far from the hall this night. Still, all is not lost. Having heard every word, you and your companions stand as one and volunteer to rescue Bilbo… hopefully before he is consumed or suffers an even greater unpleasantness.\r\n<indent=50></indent>Glóin pledges to take you, but he can barely stand from exhaustion.\r\n<indent=50></indent>\"Alas, I will only slow you down.\" Glóin's voice is raw with anguish. Then inspiration strikes. He sketches a map on a bit of parchment. \"This will lead you to where Bilbo was taken. Now go—quickly!\"</i></size>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L1_TEXT_2",
+    "Text": "DefaultStory3"
   }
 ]
