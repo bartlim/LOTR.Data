@@ -21,6 +21,7 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "\"We're going on; but we'll settle with you first. Come on, and taste it again!\" \n—Sam Gamgee, <i>The Two Towers</i>",
+    "CannotTriggerReason": null,
     "ArtistName": "Piya Wannachaiwong",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,9 +32,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": null,
     "ArtworkMD5": "aadccd6ad808e69b06ca17b71a10c568",
     "BannerMD5": null,
-    "IconMD5": "48e3653798a1b4a983de29fe681e6683"
+    "IconMD5": "f58e38ab998c0eb7b4f6defbfad9eb57"
   },
   "Localization": {
     "Title": "Taste it Again!",

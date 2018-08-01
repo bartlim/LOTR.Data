@@ -21,6 +21,7 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "\"Let none now reject the counsels of Gandalf, whose long labours against Sauron come at last to their test.\" \n—Aragorn, <i>The Return of the King</i>",
+    "CannotTriggerReason": null,
     "ArtistName": "Magali Villeneuve",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,10 +32,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
     "ComboList": null,
     "ArtworkMD5": "7ccf57e8848c48c11cf7b7dea07ef2dc",
     "BannerMD5": null,
-    "IconMD5": "97a973a90b5642492aa1bfd213a65b9d"
+    "IconMD5": "567069e30acc3c7eef862e5ae6644e04"
   },
   "Localization": {
     "Title": "Mithrandir's Advice",

@@ -21,6 +21,7 @@
     "DeathVFX": "Effect_Death3",
     "DeathSFX": "die_both_e",
     "FlavorText": "\"You are in Rivendell, and you need not worry about anything for the present.\"\n—Gandalf, <i>The Fellowship of the Ring</i>",
+    "CannotTriggerReason": null,
     "ArtistName": "Aleksander Karcz",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,9 +32,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": null,
     "ArtworkMD5": "81056fdc9c1498a3fd3dff74a3e8b995",
     "BannerMD5": null,
-    "IconMD5": "e8894129a746a07f662d8b67c1ef1ca7"
+    "IconMD5": "f6acee2cbbf9b712dd4a34f766e15fac"
   },
   "Localization": {
     "Title": "Imladris Caregiver",

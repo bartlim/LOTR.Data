@@ -21,6 +21,7 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "\"Do what you will; but I will hinder it, if I may.\"\n—Éowyn, <i>The Return of the King</i>",
+    "CannotTriggerReason": null,
     "ArtistName": "Chris Rahn",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,10 +32,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
     "ComboList": [],
     "ArtworkMD5": "634363211c268764c718f1be76b93f5f",
     "BannerMD5": null,
-    "IconMD5": "1a0378b7094c6d9a2e09b54fa6866397"
+    "IconMD5": "e74b00693d560f31ada14cac0be2738a"
   },
   "Localization": {
     "Title": "Sterner than Steel",

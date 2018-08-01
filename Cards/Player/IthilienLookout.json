@@ -21,6 +21,7 @@
     "DeathVFX": "Effect_Death3",
     "DeathSFX": "die_both_e",
     "FlavorText": "All had swords at their sides, and were clad in green and brown of varied hues, as if the better to walk unseen… \n<i>–The Two Towers</i>",
+    "CannotTriggerReason": null,
     "ArtistName": "Ilich Henriquez",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,10 +32,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
     "ComboList": null,
     "ArtworkMD5": "ff40281cb07b08b518e282a769a546ef",
     "BannerMD5": null,
-    "IconMD5": "28cd0e8db8157171904b2670fce8164e"
+    "IconMD5": "d07754212393ca37bc89cac3682434bb"
   },
   "Localization": {
     "Title": "Ithilien Lookout",

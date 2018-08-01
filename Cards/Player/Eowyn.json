@@ -21,6 +21,7 @@
     "DeathVFX": "Effect_Death3",
     "DeathSFX": "die_both_e",
     "FlavorText": "\"But I am of the House of Eorl and not a serving-woman. I can ride and wield blade, and I do not fear either pain or death.\" \n—Éowyn, <i>The Return of the King</i>",
+    "CannotTriggerReason": null,
     "ArtistName": "Magali Villeneuve",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,10 +32,11 @@
     "CameoScale": 0.8,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
     "ComboList": null,
     "ArtworkMD5": "66824ceed8a93607d9822235ab84d196",
     "BannerMD5": null,
-    "IconMD5": "b46af47c395f8335aab4d1d159ac3100"
+    "IconMD5": "59cb271b405817df148da5fdadad04cf"
   },
   "Localization": {
     "Title": "‰Éowyn",

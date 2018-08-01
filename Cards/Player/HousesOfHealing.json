@@ -21,6 +21,7 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "…they went their way towards the Houses of Healing; and these were fair houses set apart, for the care of those who were grievously sick… \n—<i>The Return of the King</i>",
+    "CannotTriggerReason": null,
     "ArtistName": "Mariusz Gandzel",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,9 +32,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": null,
     "ArtworkMD5": "8cf9dc6bced27c3a257b703500fb433e",
     "BannerMD5": null,
-    "IconMD5": "e0cac80b3d4750aba12e0014c0055767"
+    "IconMD5": "ed3f8b31ce1dd5951d1f15ba2482fca3"
   },
   "Localization": {
     "Title": "Houses of Healing",
