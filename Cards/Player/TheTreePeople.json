@@ -21,6 +21,7 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "No folk could they see, nor hear any feet upon the paths; but there were many voices, about them, and in the air above. \n<i>–The Fellowship of the Ring</i>",
+    "CannotTriggerReason": null,
     "ArtistName": "Stacey Diana Clark",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,10 +32,11 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
     "ComboList": [],
     "ArtworkMD5": "d6225e3fb6d3cbd0cb7cfa88f58488ad",
     "BannerMD5": null,
-    "IconMD5": "9467e2442acb2d79376b35dff2b2d2c4"
+    "IconMD5": "544f4f149488c448e9d754fb2c6b9c15"
   },
   "Localization": {
     "Title": "The Tree People",

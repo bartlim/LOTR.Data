@@ -21,6 +21,7 @@
     "DeathVFX": "Effect_Death3",
     "DeathSFX": "die_both_e",
     "FlavorText": "Frodo learned that Grimbeorn the Old, son of Beorn, was now the lord of many sturdy men, and to their land between the Mountains and Mirkwood neither orc nor wolf dared to go.\n—<i>The Fellowship of the Ring</i>",
+    "CannotTriggerReason": null,
     "ArtistName": "Mark Winters",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,10 +32,11 @@
     "CameoScale": 0.8,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
     "ComboList": [],
     "ArtworkMD5": "bd8399d5e59a04cbf17402f72d98458e",
     "BannerMD5": null,
-    "IconMD5": "474021c145893703ce8d0ae9ef3d6a3b"
+    "IconMD5": "3b940796afa34381cd3b63b7c4dab26d"
   },
   "Localization": {
     "Title": "Grimbeorn",
