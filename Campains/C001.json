@@ -18,12 +18,10 @@
           "IntroMusic": "mus_deckmenu",
           "IntroVoiceList": [
             "OpeningMirkwood_01",
-            "",
             ""
           ],
           "IntroSpriteList": [
             "Sprites/Locations/Quest1_Stage01",
-            "",
             ""
           ],
           "SoloGameSetup": [
@@ -36,11 +34,10 @@
           "BGM": "mus_mirkwood",
           "FateCardList": [],
           "ThreatCardList": [],
-          "NarrativeCount": 3,
+          "NarrativeCount": 2,
           "NarrativeTextList": [
             "Q_STAGE_C001Q1L1_TEXT_0",
-            "Q_STAGE_C001Q1L1_TEXT_1",
-            "Q_STAGE_C001Q1L1_TEXT_2"
+            "Q_STAGE_C001Q1L1_TEXT_1"
           ]
         },
         {
