@@ -1,17 +1,17 @@
 {
   "CardData": {
-    "Id": "ScoutAhead",
-    "Owner": "Player",
-    "CardType": 10,
-    "ShopType": "",
-    "Cost": 10,
+    "Id": "EmptyCages",
+    "Owner": "Sauron",
+    "CardType": 11,
+    "ShopType": "Starter",
+    "Cost": 2,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "Fate",
+    "Trait": "Threat",
     "Rarity": 0,
-    "Sphere": 2,
+    "Sphere": 5,
     "SphereLevel": 0,
     "Revision": null,
     "PlayVFX": "",
@@ -23,7 +23,7 @@
     "FlavorText": "",
     "CannotTriggerReason": "",
     "ArtistName": "",
-    "Status": "Ready",
+    "Status": "WIP",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
     "CardScale": 1.0,
@@ -32,14 +32,14 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "CanBePlayedDuringTravel": false,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
-    "Title": "Scout Ahead",
-    "Text": "Every Enemy loses 2 <size=120%><sprite=0></size> this round (minimum 0)"
+    "Title": "Empty Cages",
+    "Text": "Play Anduin Troll Spawn"
   }
 }

@@ -2097,7 +2097,10 @@
               ],
               "SoloGameSetup": [
                 "ForestSpider",
-                "SpiderGuard"
+                "SpiderGuard",
+                "Cocoon",
+                "Cocoon",
+                "Cocoon"
               ],
               "NextStageId": "C001Q2L3",
               "BGM": "mus_cave",
@@ -2395,7 +2398,7 @@
                 "BlackForestBats",
                 "BlackForestBats",
                 "MirkwoodPatrol",
-                "SpiesOfShadow"
+                "SpiesofShadow"
               ],
               "NextStageId": "C001Q3L2A,C001Q3L2B",
               "BGM": "mus_cave",
@@ -2443,14 +2446,18 @@
               ],
               "SoloGameSetup": [
                 "FindYourWay",
-                "RejoinTheTrail",
                 "WildBear",
                 "MuckAdder",
                 "SpiderGuard"
               ],
               "NextStageId": "C001Q3L3A,C001Q3L3B",
               "BGM": "mus_cave",
-              "FateCardList": [],
+              "FateCardList": [
+                {
+                  "Id": "HurryUp",
+                  "Threshold": 4
+                }
+              ],
               "ThreatCardList": [],
               "NarrativeCount": 1,
               "NarrativeTextList": [
@@ -2468,16 +2475,19 @@
                 "OnTheTrailAmbushedIntroSprite"
               ],
               "SoloGameSetup": [
-                "DolGuldurArcher",
-                "DolGuldurOrc",
-                "VeteranPatrol",
-                "DolGuldurOrc",
-                "DolGuldurArcher"
+                "RescueGollum",
+                "DolGuldurOrcs",
+                "VeteranPatrol"
               ],
-              "NextStageId": "",
+              "NextStageId": "C001Q3L4",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": [],
+              "ThreatCardList": [
+                {
+                  "Id": "TorchesFromTheTower",
+                  "Threshold": 2
+                }
+              ],
               "NarrativeCount": 1,
               "NarrativeTextList": [
                 "Q_STAGE_C001Q3L3A_TEXT_0"
@@ -2497,13 +2507,70 @@
                 "MarshAdder",
                 "MuckAdder"
               ],
-              "NextStageId": "",
+              "NextStageId": "C001Q3L4",
               "BGM": "mus_cave",
               "FateCardList": [],
-              "ThreatCardList": [],
+              "ThreatCardList": [
+                {
+                  "Id": "StuckInTheMud",
+                  "Threshold": 2
+                }
+              ],
               "NarrativeCount": 1,
               "NarrativeTextList": [
                 "Q_STAGE_C001Q3L3B_TEXT_0"
+              ]
+            },
+            {
+              "Id": "C001Q3L4",
+              "SceneName": "MirkwoodSwamp01",
+              "IntroMusic": "mus_cave",
+              "IntroVoiceList": [
+                "OpeningMirkwood_01"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage01"
+              ],
+              "SoloGameSetup": [
+                "PickpocketTheKey",
+                "EastBightPatrol",
+                "EastBightPatrol",
+                "OrcMarauder",
+                "MirkwoodPatrol"
+              ],
+              "NextStageId": "C001Q3L5",
+              "BGM": "mus_cave",
+              "FateCardList": null,
+              "ThreatCardList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q3L4_TEXT_0"
+              ]
+            },
+            {
+              "Id": "C001Q3L5",
+              "SceneName": "MirkwoodSwamp01",
+              "IntroMusic": "mus_cave",
+              "IntroVoiceList": [
+                "OpeningMirkwood_01"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage01"
+              ],
+              "SoloGameSetup": [
+                "StrangeMechanism",
+                "LowOnSuppies",
+                "WatchfulEyes",
+                "WanderingPatrol",
+                "UnderTheWatchfulEye"
+              ],
+              "NextStageId": "",
+              "BGM": "mus_cave",
+              "FateCardList": null,
+              "ThreatCardList": null,
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C001Q3L5_TEXT_0"
               ]
             }
           ],
@@ -2774,7 +2841,7 @@
           "Stages": [
             {
               "Id": "C001Q4L1",
-              "SceneName": "Hall02",
+              "SceneName": "Trolls01",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
@@ -2783,7 +2850,7 @@
                 "Sprites/Locations/Quest1_Stage01"
               ],
               "SoloGameSetup": [
-                "GiantWorm",
+                "GiantMarshWorm",
                 "MuckAdder",
                 "MuckAdder"
               ],
@@ -2798,7 +2865,7 @@
             },
             {
               "Id": "C001Q4L2",
-              "SceneName": "Hall02",
+              "SceneName": "Trolls01",
               "IntroMusic": "mus_dungeon",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
@@ -2808,9 +2875,9 @@
               ],
               "SoloGameSetup": [
                 "IntrudersInTheTower",
-                "DolGuldurOrc",
+                "DolGuldurOrcs",
                 "GoblinTaskmaster",
-                "EliteDolGuldurOrc",
+                "EliteDolGuldurOrcs",
                 "GoblinPursuer"
               ],
               "NextStageId": "C001Q4L3",
@@ -2824,7 +2891,7 @@
             },
             {
               "Id": "C001Q4L3",
-              "SceneName": "Hall03",
+              "SceneName": "Trolls01",
               "IntroMusic": "mus_dungeon",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
@@ -3185,8 +3252,8 @@
               "SoloGameSetup": [
                 "WardensOfLorien",
                 "ChieftainUfthak",
-                "EliteDolGuldurOrc",
-                "EliteDolGuldurOrc",
+                "EliteDolGuldurOrcs",
+                "EliteDolGuldurOrcs",
                 "MirkwoodPatrol",
                 "OrcMarauder"
               ],

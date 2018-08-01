@@ -375,7 +375,7 @@
           "BlackForestBats",
           "BlackForestBats",
           "MirkwoodPatrol",
-          "SpiesOfShadow"
+          "SpiesofShadow"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -385,10 +385,8 @@
         ],
         "FateCardList": [],
         "ThreatCardList": [],
-        "NarrativeCount": 1,
-        "NarrativeTextList": [
-          "Q_STAGE_C001Q3L1_TEXT_0"
-        ]
+        "NarrativeCount": 0,
+        "NarrativeTextList": []
       },
       {
         "Title": "C001Q3L2A",
@@ -406,10 +404,8 @@
         ],
         "FateCardList": [],
         "ThreatCardList": [],
-        "NarrativeCount": 1,
-        "NarrativeTextList": [
-          "Q_STAGE_C001Q3L2A_TEXT_0"
-        ]
+        "NarrativeCount": 0,
+        "NarrativeTextList": []
       },
       {
         "Title": "C001Q3L2B",
@@ -432,22 +428,20 @@
           }
         ],
         "ThreatCardList": [],
-        "NarrativeCount": 1,
-        "NarrativeTextList": [
-          "Q_STAGE_C001Q3L2B_TEXT_0"
-        ]
+        "NarrativeCount": 0,
+        "NarrativeTextList": []
       },
       {
         "Title": "C001Q3L3A",
         "SoloGameSetup": [
           "RescueGollum",
-          "DolGuldurOrc",
+          "DolGuldurOrcs",
           "VeteranPatrol"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "C001Q3L4"
         ],
         "FateCardList": [],
         "ThreatCardList": [
@@ -456,10 +450,8 @@
             "Threshold": 2
           }
         ],
-        "NarrativeCount": 1,
-        "NarrativeTextList": [
-          "Q_STAGE_C001Q3L3A_TEXT_0"
-        ]
+        "NarrativeCount": 0,
+        "NarrativeTextList": []
       },
       {
         "Title": "C001Q3L3B",
@@ -470,7 +462,7 @@
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          ""
+          "C001Q3L4"
         ],
         "FateCardList": [],
         "ThreatCardList": [
@@ -479,10 +471,46 @@
             "Threshold": 2
           }
         ],
-        "NarrativeCount": 1,
-        "NarrativeTextList": [
-          "Q_STAGE_C001Q3L3B_TEXT_0"
-        ]
+        "NarrativeCount": 0,
+        "NarrativeTextList": []
+      },
+      {
+        "Title": "C001Q3L4",
+        "SoloGameSetup": [
+          "PickpocketTheKey",
+          "EastBightPatrol",
+          "EastBightPatrol",
+          "OrcMarauder",
+          "MirkwoodPatrol"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          "C001Q3L5"
+        ],
+        "FateCardList": null,
+        "ThreatCardList": [],
+        "NarrativeCount": 0,
+        "NarrativeTextList": []
+      },
+      {
+        "Title": "C001Q3L5",
+        "SoloGameSetup": [
+          "StrangeMechanism",
+          "LowOnSuppies",
+          "WatchfulEyes",
+          "WanderingPatrol",
+          "UnderTheWatchfulEye"
+        ],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null,
+        "NarrativeCount": 0,
+        "NarrativeTextList": []
       }
     ],
     "Sequences": [],
@@ -517,9 +545,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180731111724345",
+  "Version": "20180731194840268",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180731111724345"
+  "InternalKey": "MainQuest_C001Q3_20180731194840268"
 }
