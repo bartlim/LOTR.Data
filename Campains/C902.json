@@ -36,7 +36,7 @@
           ]
         },
         {
-          "Id": "Q1L2",
+          "Id": "C902Q1L2",
           "SceneName": "",
           "IntroMusic": "mus_cave",
           "IntroVoiceList": [
@@ -45,14 +45,16 @@
           "IntroSpriteList": [
             "Sprites/Locations/Quest1_Stage01"
           ],
-          "SoloGameSetup": null,
+          "SoloGameSetup": [
+            ""
+          ],
           "NextStageId": "",
           "BGM": "mus_cave",
           "FateCardList": null,
           "ThreatCardList": null,
           "NarrativeCount": 1,
           "NarrativeTextList": [
-            "Q_STAGE_Q1L2_TEXT_0"
+            "Q_STAGE_C902Q1L2_TEXT_0"
           ]
         }
       ],
