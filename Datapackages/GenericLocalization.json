@@ -10232,6 +10232,12 @@
     "Text_FR": "<b>Counter</b>"
   },
   {
+    "Id": "K_DEFENSE_TERM",
+    "Text": "<b>Defense</b>",
+    "Text_CN": "<b>Defense</b>",
+    "Text_FR": "<b>Defense</b>"
+  },
+  {
     "Id": "K_FLEETING_TERM",
     "Text": "<b>Fleeting</b>",
     "Text_CN": "<b>Fleeting</b>",
@@ -10316,6 +10322,12 @@
     "Text_FR": "This card deals 1 damage when defending against melee attacks. (Does not apply to ranged attacks)"
   },
   {
+    "Id": "K_DEFENSE_DESC",
+    "Text": "Select to give the Character the <b>Guard</b> keyword for the round",
+    "Text_CN": "Select to give the Character the <b>Guard</b> keyword for the round",
+    "Text_FR": "Select to give the Character the <b>Guard</b> keyword for the round"
+  },
+  {
     "Id": "K_FLEETING_DESC",
     "Text": "This card is removed at the end of the round",
     "Text_CN": "This card is removed at the end of the round",
@@ -10323,15 +10335,15 @@
   },
   {
     "Id": "K_GUARD_DESC",
-    "Text": "This card must be defeated before engaging an Objective or attacking another enemy.  A card with <b>Stealth</b> cannot <b>Guard</b>.",
+    "Text": "When active, this card must be engaged before other targets and deals damage equal to its Attack value when attacked. Attacking or exhausting this card removes <b>Guard</b>.",
     "Text_CN": "This card must be defeated before engaging an Objective or attacking another enemy.  A card with <b>Stealth</b> cannot <b>Guard</b>.",
     "Text_FR": "This card must be defeated before engaging an Objective or attacking another enemy.  A card with <b>Stealth</b> cannot <b>Guard</b>."
   },
   {
     "Id": "K_POWER_DESC",
-    "Text": "An ability that you may choose to activate",
-    "Text_CN": "An ability that you may choose to activate",
-    "Text_FR": "An ability that you may choose to activate"
+    "Text": "Select to activate the Character's unique ability",
+    "Text_CN": "Select to activate the Character's unique ability",
+    "Text_FR": "Select to activate the Character's unique ability"
   },
   {
     "Id": "K_PURSUIT_DESC",
@@ -10341,9 +10353,9 @@
   },
   {
     "Id": "K_RANGED_DESC",
-    "Text": "This card ignores <b>Guard</b> and <b>Counter</b> when attacking",
-    "Text_CN": "This card ignores <b>Guard</b> and <b>Counter</b> when attacking",
-    "Text_FR": "This card ignores <b>Guard</b> and <b>Counter</b> when attacking"
+    "Text": "This card ignores <b>Guard</b> when attacking",
+    "Text_CN": "This card ignores <b>Guard</b> when attacking",
+    "Text_FR": "This card ignores <b>Guard</b> when attacking"
   },
   {
     "Id": "K_REVENGE_DESC",
@@ -10359,9 +10371,9 @@
   },
   {
     "Id": "K_STEALTH_DESC",
-    "Text": "While the ability is active, this card cannot be attacked and ignores <b>Guard</b> when targeting Enemies and Objectives.  An exhausted card cannot have <b>Stealth</b> active. A card with <b>Stealth</b> cannot <b>Guard</b>.",
-    "Text_CN": "While the ability is active, this card cannot be attacked and ignores <b>Guard</b> when targeting Enemies and Objectives.  An exhausted card cannot have <b>Stealth</b> active. A card with <b>Stealth</b> cannot <b>Guard</b>.",
-    "Text_FR": "While the ability is active, this card cannot be attacked and ignores <b>Guard</b> when targeting Enemies and Objectives.  An exhausted card cannot have <b>Stealth</b> active. A card with <b>Stealth</b> cannot <b>Guard</b>."
+    "Text": "When active, this card cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting Enemies and Objectives. An exhausted card cannot have <b>Stealth</b> active",
+    "Text_CN": "When active, this card cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting Enemies and Objectives. An exhausted card cannot have <b>Stealth</b> active",
+    "Text_FR": "When active, this card cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting Enemies and Objectives. An exhausted card cannot have <b>Stealth</b> active"
   },
   {
     "Id": "K_SURGE_DESC",
@@ -15456,7 +15468,6 @@
     "Text": ""
   },
   {
-<<<<<<< HEAD
     "Id": "C_TUTORIALNARRATIONL3_TITLE",
     "Text": "Well-learned"
   },
@@ -15467,7 +15478,8 @@
   {
     "Id": "C_TUTORIALNARRATIONL3_FLAVOR",
     "Text": ""
-=======
+  },
+  {
     "Id": "Q_STAGE_Q1L2_NAME",
     "Text": "Quest1Stage2"
   },
@@ -15478,6 +15490,5 @@
   {
     "Id": "Q_STAGE_Q1L2_TEXT_0",
     "Text": "Quest1Stage2Story1"
->>>>>>> experimental
   }
 ]
