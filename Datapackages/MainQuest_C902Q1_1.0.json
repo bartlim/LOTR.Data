@@ -130,6 +130,21 @@
         "NarrativeTextList": [
           "Q_STAGE_C902Q1L3_TEXT_0"
         ]
+      },
+      {
+        "Title": "C902Q1L4",
+        "SoloGameSetup": [],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null,
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C902Q1L4_TEXT_0"
+        ]
       }
     ],
     "Sequences": [],
@@ -138,9 +153,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180801170023511",
+  "Version": "20180801174312774",
   "Key": "MainQuest",
   "SubKey": "C902Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C902Q1_20180801170023511"
+  "InternalKey": "MainQuest_C902Q1_20180801174312774"
 }
