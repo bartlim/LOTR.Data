@@ -98,8 +98,10 @@
         ]
       },
       {
-        "Title": "Q1L2",
-        "SoloGameSetup": [],
+        "Title": "C902Q1L2",
+        "SoloGameSetup": [
+          ""
+        ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
@@ -109,7 +111,7 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_Q1L2_TEXT_0"
+          "Q_STAGE_C902Q1L2_TEXT_0"
         ]
       }
     ],
@@ -119,9 +121,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180801103416978",
+  "Version": "20180801114421496",
   "Key": "MainQuest",
   "SubKey": "C902Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C902Q1_20180801103416978"
+  "InternalKey": "MainQuest_C902Q1_20180801114421496"
 }
