@@ -280,7 +280,8 @@
         "Title": "C001Q1L2",
         "SoloGameSetup": [
           "KingSpider",
-          "GiantSpider"
+          "GiantSpider",
+          "FindAWayAcross"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -377,9 +378,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180801162645600",
+  "Version": "20180801183159804",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180801162645600"
+  "InternalKey": "MainQuest_C001Q1_20180801183159804"
 }
