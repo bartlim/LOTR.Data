@@ -2429,7 +2429,7 @@
                 "DolGuldurArcher",
                 "StragglingGoblin"
               ],
-              "NextStageId": "C001Q3L3A,C001Q3L3B",
+              "NextStageId": "C001Q3L3A",
               "BGM": "mus_cave",
               "NarrativeCount": 1,
               "NarrativeTextList": [
@@ -2574,7 +2574,7 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q3L5_TEXT_0"
               ],
-              "FateCardList": null,
+              "FateCardList": [],
               "ThreatCardList": null
             }
           ],
