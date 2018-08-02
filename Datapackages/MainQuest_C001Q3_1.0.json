@@ -529,37 +529,37 @@
     "Stories": [],
     "FateCardList": [
       {
-        "Id": "RangersCache",
+        "Id": "ForageForSupplies",
         "Threshold": 3
       },
       {
-        "Id": "ShaftofSunlight",
+        "Id": "BoldResolve",
         "Threshold": 6
       },
       {
-        "Id": "SupportfromDale",
+        "Id": "ScoutAhead",
         "Threshold": 9
       }
     ],
     "ThreatCardList": [
       {
-        "Id": "SpidersDescend",
+        "Id": "BoltsFromTheDark",
         "Threshold": 1
       },
       {
-        "Id": "Poisoned",
+        "Id": "AFoulWind",
         "Threshold": 2
       },
       {
-        "Id": "WaveOfFear",
+        "Id": "BeyondWeary",
         "Threshold": 3
       }
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180802182127764",
+  "Version": "20180802182330504",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180802182127764"
+  "InternalKey": "MainQuest_C001Q3_20180802182330504"
 }
