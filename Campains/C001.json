@@ -703,12 +703,8 @@
           "Id": "C001Q3L3A",
           "SceneName": "DarkForest03",
           "IntroMusic": "mus_cave",
-          "IntroVoiceList": [
-            "OpeningMirkwood_01"
-          ],
-          "IntroSpriteList": [
-            "Sprites/Locations/Quest1_Stage01"
-          ],
+          "IntroVoiceList": [],
+          "IntroSpriteList": [],
           "SoloGameSetup": [
             "RescueGollum",
             "DolGuldurOrcs",
@@ -716,10 +712,8 @@
           ],
           "NextStageId": "C001Q3L4",
           "BGM": "mus_cave",
-          "NarrativeCount": 1,
-          "NarrativeTextList": [
-            "Q_STAGE_C001Q3L3A_TEXT_0"
-          ],
+          "NarrativeCount": 0,
+          "NarrativeTextList": [],
           "FateCardList": [],
           "ThreatCardList": [
             {
@@ -732,16 +726,22 @@
           "Id": "C001Q3L3B",
           "SceneName": "MirkwoodSwamp01",
           "IntroMusic": "mus_cave",
-          "IntroVoiceList": [],
-          "IntroSpriteList": [],
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "MarshAdder",
             "MuckAdder"
           ],
           "NextStageId": "C001Q3L4",
           "BGM": "mus_cave",
-          "NarrativeCount": 0,
-          "NarrativeTextList": [],
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C001Q3L3B_TEXT_0"
+          ],
           "FateCardList": [],
           "ThreatCardList": [
             {
@@ -754,8 +754,12 @@
           "Id": "C001Q3L4",
           "SceneName": "MirkwoodSwamp01",
           "IntroMusic": "mus_cave",
-          "IntroVoiceList": [],
-          "IntroSpriteList": [],
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "PickpocketTheKey",
             "EastBightPatrol",
@@ -765,8 +769,10 @@
           ],
           "NextStageId": "C001Q3L5",
           "BGM": "mus_cave",
-          "NarrativeCount": 0,
-          "NarrativeTextList": [],
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C001Q3L4_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": []
         },
@@ -774,8 +780,12 @@
           "Id": "C001Q3L5",
           "SceneName": "MirkwoodSwamp01",
           "IntroMusic": "mus_cave",
-          "IntroVoiceList": [],
-          "IntroSpriteList": [],
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "StrangeMechanism",
             "LowOnSuppies",
@@ -785,8 +795,10 @@
           ],
           "NextStageId": "",
           "BGM": "mus_cave",
-          "NarrativeCount": 0,
-          "NarrativeTextList": [],
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C001Q3L5_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         }
