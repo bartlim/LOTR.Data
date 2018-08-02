@@ -1527,7 +1527,12 @@
           "NarrativeTextList": [
             "Q_STAGE_C001Q5L3B_TEXT_0"
           ],
-          "FateCardList": [],
+          "FateCardList": [
+            {
+              "Id": "RapidResponse",
+              "Threshold": 4
+            }
+          ],
           "ThreatCardList": []
         }
       ],
