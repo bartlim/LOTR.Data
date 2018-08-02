@@ -21,6 +21,7 @@
     "DeathVFX": "Effect_Death3",
     "DeathSFX": "die_both_e",
     "FlavorText": "Somehow the killing of the giant spider, all alone by himself in the dark without the help of the wizard or the dwarves or of anyone else, made a great difference to Mr. Baggins.\n—<i>The Hobbit</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Aurelien Hubert",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "Giant Spider",
-    "Text": "<b>Arrival</b>: Activate <b>Guard</b>. \n<b>Guard</b>"
+    "Text": "<b>Guard</b>"
   }
 }
