@@ -28,12 +28,12 @@
           ],
           "NextStageId": "",
           "BGM": "mus_cave",
-          "FateCardList": [],
-          "ThreatCardList": [],
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C902Q1L1_TEXT_0"
-          ]
+          ],
+          "FateCardList": [],
+          "ThreatCardList": []
         },
         {
           "Id": "C902Q1L2",
@@ -54,14 +54,14 @@
           ],
           "NextStageId": "",
           "BGM": "mus_cave",
-          "FateCardList": null,
-          "ThreatCardList": null,
           "NarrativeCount": 3,
           "NarrativeTextList": [
             "Q_STAGE_C902Q1L2_TEXT_0",
             "Q_STAGE_C902Q1L2_TEXT_1",
             "Q_STAGE_C902Q1L2_TEXT_2"
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "C902Q1L3",
@@ -76,12 +76,12 @@
           "SoloGameSetup": null,
           "NextStageId": "",
           "BGM": "mus_cave",
-          "FateCardList": null,
-          "ThreatCardList": null,
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C902Q1L3_TEXT_0"
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         },
         {
           "Id": "C902Q1L4",
@@ -98,13 +98,13 @@
           "SoloGameSetup": null,
           "NextStageId": "",
           "BGM": "mus_cave",
-          "FateCardList": null,
-          "ThreatCardList": null,
           "NarrativeCount": 2,
           "NarrativeTextList": [
             "Q_STAGE_C902Q1L4_TEXT_0",
             "Q_STAGE_C902Q1L4_TEXT_1"
-          ]
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
@@ -182,12 +182,12 @@
           ],
           "NextStageId": "",
           "BGM": "mus_cave",
-          "FateCardList": [],
-          "ThreatCardList": [],
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C902Q2L1_TEXT_0"
-          ]
+          ],
+          "FateCardList": [],
+          "ThreatCardList": []
         }
       ],
       "SauronDeck": [
@@ -265,12 +265,12 @@
           ],
           "NextStageId": "",
           "BGM": null,
-          "FateCardList": [],
-          "ThreatCardList": [],
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C902Q3L1_TEXT_0"
-          ]
+          ],
+          "FateCardList": [],
+          "ThreatCardList": []
         }
       ],
       "SauronDeck": [
@@ -348,12 +348,12 @@
           ],
           "NextStageId": "",
           "BGM": null,
-          "FateCardList": [],
-          "ThreatCardList": [],
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C902Q4L1_TEXT_0"
-          ]
+          ],
+          "FateCardList": [],
+          "ThreatCardList": []
         }
       ],
       "SauronDeck": [
@@ -431,12 +431,12 @@
           ],
           "NextStageId": "",
           "BGM": null,
-          "FateCardList": [],
-          "ThreatCardList": [],
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C902Q5L1_TEXT_0"
-          ]
+          ],
+          "FateCardList": [],
+          "ThreatCardList": []
         }
       ],
       "SauronDeck": [
