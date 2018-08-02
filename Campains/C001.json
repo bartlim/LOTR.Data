@@ -32,13 +32,13 @@
           ],
           "NextStageId": "C001Q1L2",
           "BGM": "mus_mirkwood",
-          "FateCardList": [],
-          "ThreatCardList": [],
           "NarrativeCount": 2,
           "NarrativeTextList": [
             "Q_STAGE_C001Q1L1_TEXT_0",
             "Q_STAGE_C001Q1L1_TEXT_1"
-          ]
+          ],
+          "FateCardList": [],
+          "ThreatCardList": []
         },
         {
           "Id": "C001Q1L2",
@@ -57,16 +57,16 @@
           ],
           "NextStageId": "C001Q1L3",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C001Q1L2_TEXT_0"
+          ],
           "FateCardList": [],
           "ThreatCardList": [
             {
               "Id": "UnsteadyFooting",
               "Threshold": 3
             }
-          ],
-          "NarrativeCount": 1,
-          "NarrativeTextList": [
-            "Q_STAGE_C001Q1L2_TEXT_0"
           ]
         },
         {
@@ -88,17 +88,17 @@
           ],
           "NextStageId": "C001Q1L4",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C001Q1L3_TEXT_0"
+          ],
           "FateCardList": [
             {
               "Id": "FateThrashingCocoon",
               "Threshold": 7
             }
           ],
-          "ThreatCardList": [],
-          "NarrativeCount": 1,
-          "NarrativeTextList": [
-            "Q_STAGE_C001Q1L3_TEXT_0"
-          ]
+          "ThreatCardList": []
         },
         {
           "Id": "C001Q1L4",
@@ -117,12 +117,12 @@
           ],
           "NextStageId": "",
           "BGM": "mus_cave",
-          "FateCardList": [],
-          "ThreatCardList": [],
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q1L4_TEXT_0"
-          ]
+          ],
+          "FateCardList": [],
+          "ThreatCardList": []
         }
       ],
       "SauronDeck": [
@@ -333,10 +333,10 @@
           ],
           "NextStageId": "C001Q2L2",
           "BGM": "mus_cave",
-          "FateCardList": [],
-          "ThreatCardList": [],
           "NarrativeCount": 0,
-          "NarrativeTextList": []
+          "NarrativeTextList": [],
+          "FateCardList": [],
+          "ThreatCardList": []
         },
         {
           "Id": "C001Q2L2",
@@ -353,10 +353,10 @@
           ],
           "NextStageId": "C001Q2L3",
           "BGM": "mus_cave",
-          "FateCardList": [],
-          "ThreatCardList": [],
           "NarrativeCount": 0,
-          "NarrativeTextList": []
+          "NarrativeTextList": [],
+          "FateCardList": [],
+          "ThreatCardList": []
         },
         {
           "Id": "C001Q2L3",
@@ -372,6 +372,8 @@
           ],
           "NextStageId": "C001Q2L4",
           "BGM": "mus_cave",
+          "NarrativeCount": 0,
+          "NarrativeTextList": [],
           "FateCardList": [
             {
               "Id": "RecoverYourFriend",
@@ -383,9 +385,7 @@
               "Id": "WhatsThatNoise",
               "Threshold": 2
             }
-          ],
-          "NarrativeCount": 0,
-          "NarrativeTextList": []
+          ]
         },
         {
           "Id": "C001Q2L4",
@@ -401,15 +401,15 @@
           ],
           "NextStageId": "",
           "BGM": "mus_cave",
+          "NarrativeCount": 0,
+          "NarrativeTextList": [],
           "FateCardList": [],
           "ThreatCardList": [
             {
               "Id": "OvercomeDarkness",
               "Threshold": 5
             }
-          ],
-          "NarrativeCount": 0,
-          "NarrativeTextList": []
+          ]
         }
       ],
       "SauronDeck": [
@@ -621,8 +621,12 @@
           "Id": "C001Q3L1",
           "SceneName": "Mirkwood03",
           "IntroMusic": "mus_cave",
-          "IntroVoiceList": [],
-          "IntroSpriteList": [],
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "PursuadingGollum",
             "GoblinSniper",
@@ -633,17 +637,23 @@
           ],
           "NextStageId": "C001Q3L2A,C001Q3L2B",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C001Q3L1_TEXT_0"
+          ],
           "FateCardList": [],
-          "ThreatCardList": [],
-          "NarrativeCount": 0,
-          "NarrativeTextList": []
+          "ThreatCardList": []
         },
         {
           "Id": "C001Q3L2A",
           "SceneName": "ForestStream01",
           "IntroMusic": "mus_cave",
-          "IntroVoiceList": [],
-          "IntroSpriteList": [],
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "GoblinTaskmaster",
             "DolGuldurArcher",
@@ -652,17 +662,23 @@
           ],
           "NextStageId": "C001Q3L3A,C001Q3L3B",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C001Q3L2A_TEXT_0"
+          ],
           "FateCardList": [],
-          "ThreatCardList": [],
-          "NarrativeCount": 0,
-          "NarrativeTextList": []
+          "ThreatCardList": []
         },
         {
           "Id": "C001Q3L2B",
           "SceneName": "DarkForest01",
           "IntroMusic": "mus_cave",
-          "IntroVoiceList": [],
-          "IntroSpriteList": [],
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindYourWay",
             "WildBear",
@@ -671,22 +687,28 @@
           ],
           "NextStageId": "C001Q3L3A,C001Q3L3B",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C001Q3L2B_TEXT_0"
+          ],
           "FateCardList": [
             {
               "Id": "HurryUp",
               "Threshold": 4
             }
           ],
-          "ThreatCardList": [],
-          "NarrativeCount": 0,
-          "NarrativeTextList": []
+          "ThreatCardList": []
         },
         {
           "Id": "C001Q3L3A",
           "SceneName": "DarkForest03",
           "IntroMusic": "mus_cave",
-          "IntroVoiceList": [],
-          "IntroSpriteList": [],
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "RescueGollum",
             "DolGuldurOrcs",
@@ -694,15 +716,17 @@
           ],
           "NextStageId": "C001Q3L4",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C001Q3L3A_TEXT_0"
+          ],
           "FateCardList": [],
           "ThreatCardList": [
             {
               "Id": "TorchesFromTheTower",
               "Threshold": 2
             }
-          ],
-          "NarrativeCount": 0,
-          "NarrativeTextList": []
+          ]
         },
         {
           "Id": "C001Q3L3B",
@@ -716,15 +740,15 @@
           ],
           "NextStageId": "C001Q3L4",
           "BGM": "mus_cave",
+          "NarrativeCount": 0,
+          "NarrativeTextList": [],
           "FateCardList": [],
           "ThreatCardList": [
             {
               "Id": "StuckInTheMud",
               "Threshold": 2
             }
-          ],
-          "NarrativeCount": 0,
-          "NarrativeTextList": []
+          ]
         },
         {
           "Id": "C001Q3L4",
@@ -741,10 +765,10 @@
           ],
           "NextStageId": "C001Q3L5",
           "BGM": "mus_cave",
-          "FateCardList": null,
-          "ThreatCardList": [],
           "NarrativeCount": 0,
-          "NarrativeTextList": []
+          "NarrativeTextList": [],
+          "FateCardList": null,
+          "ThreatCardList": []
         },
         {
           "Id": "C001Q3L5",
@@ -761,10 +785,10 @@
           ],
           "NextStageId": "",
           "BGM": "mus_cave",
-          "FateCardList": null,
-          "ThreatCardList": null,
           "NarrativeCount": 0,
-          "NarrativeTextList": []
+          "NarrativeTextList": [],
+          "FateCardList": null,
+          "ThreatCardList": null
         }
       ],
       "SauronDeck": [
@@ -1045,10 +1069,10 @@
           ],
           "NextStageId": "C001Q4L2",
           "BGM": "mus_cave",
-          "FateCardList": [],
-          "ThreatCardList": [],
           "NarrativeCount": 0,
-          "NarrativeTextList": []
+          "NarrativeTextList": [],
+          "FateCardList": [],
+          "ThreatCardList": []
         },
         {
           "Id": "C001Q4L2",
@@ -1065,10 +1089,10 @@
           ],
           "NextStageId": "C001Q4L3",
           "BGM": "mus_dungeon",
-          "FateCardList": [],
-          "ThreatCardList": [],
           "NarrativeCount": 0,
-          "NarrativeTextList": []
+          "NarrativeTextList": [],
+          "FateCardList": [],
+          "ThreatCardList": []
         },
         {
           "Id": "C001Q4L3",
@@ -1083,10 +1107,10 @@
           ],
           "NextStageId": "",
           "BGM": "mus_dungeon",
-          "FateCardList": [],
-          "ThreatCardList": [],
           "NarrativeCount": 0,
-          "NarrativeTextList": []
+          "NarrativeTextList": [],
+          "FateCardList": [],
+          "ThreatCardList": []
         }
       ],
       "SauronDeck": [
@@ -1347,15 +1371,15 @@
           ],
           "NextStageId": "C001Q5L2",
           "BGM": "mus_cave",
+          "NarrativeCount": 0,
+          "NarrativeTextList": [],
           "FateCardList": [
             {
               "Id": "DistractTheTroll",
               "Threshold": 4
             }
           ],
-          "ThreatCardList": [],
-          "NarrativeCount": 0,
-          "NarrativeTextList": []
+          "ThreatCardList": []
         },
         {
           "Id": "C001Q5L2",
@@ -1371,10 +1395,10 @@
           ],
           "NextStageId": "C001Q5L3",
           "BGM": "mus_cave",
-          "FateCardList": [],
-          "ThreatCardList": [],
           "NarrativeCount": 0,
-          "NarrativeTextList": []
+          "NarrativeTextList": [],
+          "FateCardList": [],
+          "ThreatCardList": []
         },
         {
           "Id": "C001Q5L3",
@@ -1391,10 +1415,10 @@
           ],
           "NextStageId": "C001Q5L4",
           "BGM": "mus_cave",
-          "FateCardList": [],
-          "ThreatCardList": [],
           "NarrativeCount": 0,
-          "NarrativeTextList": []
+          "NarrativeTextList": [],
+          "FateCardList": [],
+          "ThreatCardList": []
         },
         {
           "Id": "C001Q5L3B",
@@ -1412,10 +1436,10 @@
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme",
-          "FateCardList": [],
-          "ThreatCardList": [],
           "NarrativeCount": 0,
-          "NarrativeTextList": []
+          "NarrativeTextList": [],
+          "FateCardList": [],
+          "ThreatCardList": []
         }
       ],
       "SauronDeck": [
