@@ -5957,7 +5957,7 @@
   },
   {
     "Id": "C_GIANTSPIDER_TEXT",
-    "Text": "<b>Arrival</b>: Activate <b>Guard</b>. \n<b>Guard</b>"
+    "Text": "<b>Guard</b>"
   },
   {
     "Id": "C_GIANTSPIDER_TITLE",
@@ -12585,7 +12585,7 @@
   },
   {
     "Id": "C_AA20WPALLY_TEXT",
-    "Text": "<size=300%><sprite=1> <sprite=2> <sprite=3> <sprite=4> <sprite=5></size>"
+    "Text": "<size=300%>0<sprite=0> 1<sprite=1> 2<sprite=2>\n 3<sprite=3> 4<sprite=4> 5<sprite=5></size>"
   },
   {
     "Id": "C_AA20WPALLY_FLAVOR",
@@ -16002,5 +16002,29 @@
   {
     "Id": "Q_STAGE_C001Q1L1_TEXT_2",
     "Text": "DefaultStory3"
+  },
+  {
+    "Id": "C_THEORCCOMMANDER_TITLE",
+    "Text": "The Orc Commander"
+  },
+  {
+    "Id": "C_THEORCCOMMANDER_TEXT",
+    "Text": "Play Chieftain Ufthak"
+  },
+  {
+    "Id": "C_THEORCCOMMANDER_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_ADANGEROUSBUSINESS_TITLE",
+    "Text": "A Dangerous Business"
+  },
+  {
+    "Id": "C_ADANGEROUSBUSINESS_TEXT",
+    "Text": "Heal all enemies to full health. If there are no enemies, Play 2 Orcs."
+  },
+  {
+    "Id": "C_ADANGEROUSBUSINESS_FLAVOR",
+    "Text": ""
   }
 ]

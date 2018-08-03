@@ -385,8 +385,10 @@
         ],
         "FateCardList": [],
         "ThreatCardList": [],
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q3L1_TEXT_0"
+        ]
       },
       {
         "Title": "C001Q3L2A",
@@ -399,13 +401,14 @@
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          "C001Q3L3A",
-          "C001Q3L3B"
+          "C001Q3L3A"
         ],
         "FateCardList": [],
         "ThreatCardList": [],
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q3L2A_TEXT_0"
+        ]
       },
       {
         "Title": "C001Q3L2B",
@@ -418,7 +421,6 @@
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          "C001Q3L3A",
           "C001Q3L3B"
         ],
         "FateCardList": [
@@ -428,8 +430,10 @@
           }
         ],
         "ThreatCardList": [],
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q3L2B_TEXT_0"
+        ]
       },
       {
         "Title": "C001Q3L3A",
@@ -450,8 +454,10 @@
             "Threshold": 2
           }
         ],
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q3L3A_TEXT_0"
+        ]
       },
       {
         "Title": "C001Q3L3B",
@@ -471,8 +477,10 @@
             "Threshold": 2
           }
         ],
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q3L3B_TEXT_0"
+        ]
       },
       {
         "Title": "C001Q3L4",
@@ -490,8 +498,10 @@
         ],
         "FateCardList": null,
         "ThreatCardList": [],
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q3L4_TEXT_0"
+        ]
       },
       {
         "Title": "C001Q3L5",
@@ -507,47 +517,49 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": null,
+        "FateCardList": [],
         "ThreatCardList": null,
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q3L5_TEXT_0"
+        ]
       }
     ],
     "Sequences": [],
     "Stories": [],
     "FateCardList": [
       {
-        "Id": "RangersCache",
+        "Id": "ForageForSupplies",
         "Threshold": 3
       },
       {
-        "Id": "ShaftofSunlight",
+        "Id": "BoldResolve",
         "Threshold": 6
       },
       {
-        "Id": "SupportfromDale",
+        "Id": "ScoutAhead",
         "Threshold": 9
       }
     ],
     "ThreatCardList": [
       {
-        "Id": "SpidersDescend",
+        "Id": "BoltsFromTheDark",
         "Threshold": 1
       },
       {
-        "Id": "Poisoned",
+        "Id": "AFoulWind",
         "Threshold": 2
       },
       {
-        "Id": "WaveOfFear",
+        "Id": "BeyondWeary",
         "Threshold": 3
       }
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180801183209387",
+  "Version": "20180802182330504",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180801183209387"
+  "InternalKey": "MainQuest_C001Q3_20180802182330504"
 }

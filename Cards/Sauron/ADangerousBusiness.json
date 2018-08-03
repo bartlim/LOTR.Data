@@ -1,15 +1,15 @@
 {
   "CardData": {
-    "Id": "GoblinWarlord",
+    "Id": "ADangerousBusiness",
     "Owner": "Sauron",
-    "CardType": 3,
-    "ShopType": "Starter",
-    "Cost": 4,
+    "CardType": 11,
+    "ShopType": "",
+    "Cost": 0,
     "QuestPoints": 0,
-    "Attack": 4,
+    "Attack": 0,
     "Willpower": 0,
-    "Health": 3,
-    "Trait": "Orc",
+    "Health": 0,
+    "Trait": "Threat",
     "Rarity": 0,
     "Sphere": 5,
     "SphereLevel": 0,
@@ -20,13 +20,13 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "\"The Goblins are upon you! Bolg of the North is coming.\"\r\n—Gandalf, <i>The Hobbit</i>",
+    "FlavorText": "",
     "CannotTriggerReason": "",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
-    "CardOffsetY": 0.88,
-    "CardScale": 0.8,
+    "CardOffsetY": 1.0,
+    "CardScale": 1.0,
     "CameoOffsetX": 1.0,
     "CameoOffsetY": 1.0,
     "CameoScale": 1.0,
@@ -39,7 +39,7 @@
     "IconMD5": null
   },
   "Localization": {
-    "Title": "Goblin Warlord",
-    "Text": "<b>Revenge</b>: Defeat an Ally"
+    "Title": "A Dangerous Business",
+    "Text": "Heal all enemies to full health. If there are no enemies, Play 2 Orcs."
   }
 }

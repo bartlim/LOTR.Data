@@ -285,8 +285,10 @@
         ],
         "FateCardList": [],
         "ThreatCardList": [],
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q2L1_TEXT_0"
+        ]
       },
       {
         "Title": "C001Q2L2",
@@ -304,8 +306,10 @@
         ],
         "FateCardList": [],
         "ThreatCardList": [],
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q2L2_TEXT_0"
+        ]
       },
       {
         "Title": "C001Q2L3",
@@ -332,8 +336,10 @@
             "Threshold": 2
           }
         ],
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q2L3_TEXT_0"
+        ]
       },
       {
         "Title": "C001Q2L4",
@@ -355,45 +361,47 @@
             "Threshold": 5
           }
         ],
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C001Q2L4_TEXT_0"
+        ]
       }
     ],
     "Sequences": [],
     "Stories": [],
     "FateCardList": [
       {
-        "Id": "RangersCache",
-        "Threshold": 4
+        "Id": "CuttingTheWebs",
+        "Threshold": 3
       },
       {
-        "Id": "ShaftofSunlight",
-        "Threshold": 7
+        "Id": "LightTheTorches",
+        "Threshold": 6
       },
       {
-        "Id": "SupportfromDale",
-        "Threshold": 10
+        "Id": "InspiringCourage",
+        "Threshold": 9
       }
     ],
     "ThreatCardList": [
       {
-        "Id": "SpidersDescend",
+        "Id": "IsolatedAndAlone",
         "Threshold": 1
       },
       {
-        "Id": "Poisoned",
+        "Id": "AFoulRain",
         "Threshold": 2
       },
       {
-        "Id": "WaveOfFear",
+        "Id": "Poisoned",
         "Threshold": 3
       }
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180801183204683",
+  "Version": "20180802182325766",
   "Key": "MainQuest",
   "SubKey": "C001Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q2_20180801183204683"
+  "InternalKey": "MainQuest_C001Q2_20180802182325766"
 }
