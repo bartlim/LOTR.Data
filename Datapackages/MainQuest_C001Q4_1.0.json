@@ -399,37 +399,37 @@
     "Stories": [],
     "FateCardList": [
       {
-        "Id": "RangersCache",
+        "Id": "StaggeringBlow",
         "Threshold": 3
       },
       {
-        "Id": "ShaftofSunlight",
+        "Id": "MakeAStand",
         "Threshold": 6
       },
       {
-        "Id": "SupportfromDale",
+        "Id": "SecondWind",
         "Threshold": 9
       }
     ],
     "ThreatCardList": [
       {
-        "Id": "SpidersDescend",
+        "Id": "ADangerousBusiness",
         "Threshold": 1
       },
       {
-        "Id": "Poisoned",
+        "Id": "EmptyCages",
         "Threshold": 2
       },
       {
-        "Id": "WaveOfFear",
+        "Id": "AgentOfSauronThreat",
         "Threshold": 3
       }
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180803114357731",
+  "Version": "20180803144045806",
   "Key": "MainQuest",
   "SubKey": "C001Q4",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q4_20180803114357731"
+  "InternalKey": "MainQuest_C001Q4_20180803144045806"
 }
