@@ -39,7 +39,9 @@
                 "Q_STAGE_FORESTGATE_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "CapturedBySpiders",
@@ -62,7 +64,9 @@
                 "Q_STAGE_CAPTUREDBYSPIDERS_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "StandAndFight",
@@ -88,7 +92,9 @@
                 "Q_STAGE_STANDANDFIGHT_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "TurnAndFlee",
@@ -113,7 +119,9 @@
                 "Q_STAGE_TURNANDFLEE_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "TheEnchantedStream",
@@ -140,7 +148,9 @@
                   "Threshold": 5
                 }
               ],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "TheEnchantedStreamAlt",
@@ -170,7 +180,9 @@
                   "Threshold": 5
                 }
               ],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -395,7 +407,9 @@
                   "Threshold": 2
                 }
               ],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "TheSpidersLair",
@@ -419,7 +433,9 @@
                 "Q_STAGE_THESPIDERSLAIR_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "TheSpidersWebs",
@@ -443,7 +459,9 @@
                 "Q_STAGE_THESPIDERSWEBS_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "ForestGlade",
@@ -468,7 +486,9 @@
                 "Q_STAGE_FORESTGLADE_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -706,7 +726,9 @@
                 "Q_STAGE_MIRKWOODFOREST_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "ForestStream",
@@ -737,7 +759,9 @@
                   "Threshold": 5
                 }
               ],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "BareHilltop",
@@ -768,7 +792,9 @@
                   "Threshold": 5
                 }
               ],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "MirkwoodSwamp",
@@ -793,7 +819,9 @@
                 "Q_STAGE_MIRKWOODSWAMP_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "OvergrownTrail",
@@ -818,7 +846,9 @@
                 "Q_STAGE_OVERGROWNTRAIL_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "AbandonedVillage",
@@ -843,7 +873,9 @@
                 "Q_STAGE_ABANDONEDVILLAGE_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -1143,7 +1175,9 @@
                   "Threshold": 5
                 }
               ],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "AnduinPassage",
@@ -1168,7 +1202,9 @@
                 "Q_STAGE_ANDUINPASSAGE_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "TreacherousShortcut",
@@ -1194,7 +1230,9 @@
                 "Q_STAGE_TREACHEROUSSHORTCUT_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "GentleWaters",
@@ -1218,7 +1256,9 @@
                 "Q_STAGE_GENTLEWATERS_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "AmbushOnTheShoreStage",
@@ -1249,7 +1289,9 @@
                   "Threshold": 5
                 }
               ],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -1485,7 +1527,9 @@
                 "Q_STAGE_SEARCHINGFORGRIMBEORN_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "TheTrollsDinner",
@@ -1511,7 +1555,9 @@
                 "Q_STAGE_THETROLLSDINNER_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "FightWithTheTrolls",
@@ -1541,7 +1587,9 @@
                   "Threshold": 5
                 }
               ],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -1783,7 +1831,9 @@
                 "Q_STAGE_C001Q1L1_TEXT_1"
               ],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q1L2",
@@ -1812,7 +1862,9 @@
                   "Id": "UnsteadyFooting",
                   "Threshold": 3
                 }
-              ]
+              ],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q1L3",
@@ -1843,7 +1895,9 @@
                   "Threshold": 7
                 }
               ],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q1L4",
@@ -1867,7 +1921,9 @@
                 "Q_STAGE_C001Q1L4_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -2087,7 +2143,9 @@
                 "Q_STAGE_C001Q2L1_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q2L2",
@@ -2113,7 +2171,9 @@
                 "Q_STAGE_C001Q2L2_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q2L3",
@@ -2148,7 +2208,9 @@
                   "Id": "WhatsThatNoise",
                   "Threshold": 2
                 }
-              ]
+              ],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q2L4",
@@ -2178,7 +2240,9 @@
                   "Id": "OvercomeDarkness",
                   "Threshold": 5
                 }
-              ]
+              ],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -2411,7 +2475,9 @@
                 "Q_STAGE_C001Q3L1_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q3L2A",
@@ -2436,7 +2502,9 @@
                 "Q_STAGE_C001Q3L2A_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q3L2B",
@@ -2466,7 +2534,9 @@
                   "Threshold": 4
                 }
               ],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q3L3A",
@@ -2495,7 +2565,9 @@
                   "Id": "TorchesFromTheTower",
                   "Threshold": 2
                 }
-              ]
+              ],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q3L3B",
@@ -2523,7 +2595,9 @@
                   "Id": "StuckInTheMud",
                   "Threshold": 2
                 }
-              ]
+              ],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q3L4",
@@ -2549,7 +2623,9 @@
                 "Q_STAGE_C001Q3L4_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q3L5",
@@ -2575,7 +2651,9 @@
                 "Q_STAGE_C001Q3L5_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -2865,7 +2943,9 @@
                 "Q_STAGE_C001Q4L1_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q4L2",
@@ -2891,7 +2971,9 @@
                 "Q_STAGE_C001Q4L2_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q4L3",
@@ -2915,7 +2997,9 @@
                 "Q_STAGE_C001Q4L3_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -3190,7 +3274,9 @@
                   "Threshold": 4
                 }
               ],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q5L2",
@@ -3215,7 +3301,9 @@
                 "Q_STAGE_C001Q5L2_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q5L3",
@@ -3246,7 +3334,9 @@
                   "Threshold": 7
                 }
               ],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q5L3B",
@@ -3278,7 +3368,9 @@
                   "Threshold": 4
                 }
               ],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -3515,7 +3607,9 @@
                 "Q_STAGE_C901Q1L1_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L2",
@@ -3538,7 +3632,9 @@
                 "Q_STAGE_C901Q1L2_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L3",
@@ -3561,7 +3657,9 @@
                 "Q_STAGE_C901Q1L3_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L4",
@@ -3584,7 +3682,9 @@
                 "Q_STAGE_C901Q1L4_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L5",
@@ -3607,7 +3707,9 @@
                 "Q_STAGE_C901Q1L5_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L6",
@@ -3630,7 +3732,9 @@
                 "Q_STAGE_C901Q1L6_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L7",
@@ -3653,7 +3757,9 @@
                 "Q_STAGE_C901Q1L7_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L8",
@@ -3676,7 +3782,9 @@
                 "Q_STAGE_C901Q1L8_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9",
@@ -3699,7 +3807,9 @@
                 "Q_STAGE_C901Q1L9_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9A",
@@ -3722,7 +3832,9 @@
                 "Q_STAGE_C901Q1L9A_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9B",
@@ -3745,7 +3857,9 @@
                 "Q_STAGE_C901Q1L9B_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9C",
@@ -3768,7 +3882,9 @@
                 "Q_STAGE_C901Q1L9C_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9D",
@@ -3791,7 +3907,9 @@
                 "Q_STAGE_C901Q1L9D_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9E",
@@ -3814,7 +3932,9 @@
                 "Q_STAGE_C901Q1L9E_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9F",
@@ -3837,7 +3957,9 @@
                 "Q_STAGE_C901Q1L9F_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9G",
@@ -3860,7 +3982,9 @@
                 "Q_STAGE_C901Q1L9G_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9H",
@@ -3883,7 +4007,9 @@
                 "Q_STAGE_C901Q1L9H_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9I",
@@ -3906,7 +4032,9 @@
                 "Q_STAGE_C901Q1L9I_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9J",
@@ -3929,7 +4057,9 @@
                 "Q_STAGE_C901Q1L9J_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9K",
@@ -3952,7 +4082,9 @@
                 "Q_STAGE_C901Q1L9K_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9L",
@@ -3975,7 +4107,9 @@
                 "Q_STAGE_C901Q1L9L_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9M",
@@ -3998,7 +4132,9 @@
                 "Q_STAGE_C901Q1L9M_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9N",
@@ -4021,7 +4157,9 @@
                 "Q_STAGE_C901Q1L9N_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9O",
@@ -4044,7 +4182,9 @@
                 "Q_STAGE_C901Q1L9O_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9P",
@@ -4067,7 +4207,9 @@
                 "Q_STAGE_C901Q1L9P_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9Q",
@@ -4090,7 +4232,9 @@
                 "Q_STAGE_C901Q1L9Q_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9R",
@@ -4113,7 +4257,9 @@
                 "Q_STAGE_C901Q1L9R_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9S",
@@ -4136,7 +4282,9 @@
                 "Q_STAGE_C901Q1L9S_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9T",
@@ -4159,7 +4307,9 @@
                 "Q_STAGE_C901Q1L9T_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C901Q1L9U",
@@ -4182,7 +4332,9 @@
                 "Q_STAGE_C901Q1L9U_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -4259,7 +4411,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": [],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -4336,7 +4490,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": [],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -4413,7 +4569,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": [],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -4490,7 +4648,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": [],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -4581,7 +4741,12 @@
                 "Q_STAGE_C902Q1L1_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": "C902Q1L1_ChoiceBG",
+              "ChoiceSpriteList": [
+                "C902Q1L1_ChoiceSprite_1",
+                "C902Q1L1_ChoiceSprite_2"
+              ]
             },
             {
               "Id": "C902Q1L2",
@@ -4609,7 +4774,12 @@
                 "Q_STAGE_C902Q1L2_TEXT_2"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": "C902Q1L2_ChoiceBG",
+              "ChoiceSpriteList": [
+                "C902Q1L2_ChoiceSprite_1",
+                "C902Q1L2_ChoiceSprite_2"
+              ]
             },
             {
               "Id": "C902Q1L3",
@@ -4629,7 +4799,12 @@
                 "Q_STAGE_C902Q1L3_TEXT_0"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": "C902Q1L3_ChoiceBG",
+              "ChoiceSpriteList": [
+                "C902Q1L3_ChoiceSprite_1",
+                "C902Q1L3_ChoiceSprite_2"
+              ]
             },
             {
               "Id": "C902Q1L4",
@@ -4652,7 +4827,12 @@
                 "Q_STAGE_C902Q1L4_TEXT_1"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": "C902Q1L4_ChoiceBG",
+              "ChoiceSpriteList": [
+                "C902Q1L4_ChoiceSprite_1",
+                "C902Q1L4_ChoiceSprite_2"
+              ]
             }
           ],
           "SauronDeck": [
@@ -4735,7 +4915,12 @@
                 "Q_STAGE_C902Q2L1_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             }
           ],
           "SauronDeck": [
@@ -4818,7 +5003,12 @@
                 "Q_STAGE_C902Q3L1_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             }
           ],
           "SauronDeck": [
@@ -4901,7 +5091,12 @@
                 "Q_STAGE_C902Q4L1_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             }
           ],
           "SauronDeck": [
@@ -4984,7 +5179,12 @@
                 "Q_STAGE_C902Q5L1_TEXT_0"
               ],
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             }
           ],
           "SauronDeck": [
@@ -5090,7 +5290,9 @@
                   "Id": "threat2",
                   "Threshold": 2
                 }
-              ]
+              ],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "DemoLocation2a",
@@ -5109,7 +5311,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": [],
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "DemoLocation2b",
@@ -5128,7 +5332,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -5416,7 +5622,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -5493,7 +5701,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -5570,7 +5780,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -5647,7 +5859,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -5733,7 +5947,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "TrackingTheFoe",
@@ -5751,7 +5967,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "GiveChase",
@@ -5769,7 +5987,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "DelayingAttack",
@@ -5785,7 +6005,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -5888,7 +6110,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "TheHallsOfNibindum",
@@ -5904,7 +6128,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "ASneakyPath",
@@ -5918,7 +6144,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "ADirectAssault",
@@ -5932,7 +6160,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "TheOrcsLair",
@@ -5946,7 +6176,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -6022,7 +6254,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "UseTheStream",
@@ -6036,7 +6270,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "HideAndSeek",
@@ -6050,7 +6286,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "ApproachingRhosgobel",
@@ -6064,7 +6302,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "ALastStand",
@@ -6078,7 +6318,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -6155,7 +6397,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -6232,7 +6476,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -6317,7 +6563,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -6394,7 +6642,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -6471,7 +6721,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -6548,7 +6800,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -6625,7 +6879,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -6711,7 +6967,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "CrossingTheEnchantedStream",
@@ -6728,7 +6986,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "BattleWithTheSpiders",
@@ -6747,7 +7007,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "TheSpidersWebs2",
@@ -6765,7 +7027,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -6979,7 +7243,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "TheSpidersLair2",
@@ -6997,7 +7263,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "TheSpidersHive",
@@ -7015,7 +7283,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "ForestLair",
@@ -7034,7 +7304,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -7260,7 +7532,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "AlongTheTrail",
@@ -7280,7 +7554,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "ASecretWay",
@@ -7300,7 +7576,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "Ambushed",
@@ -7320,7 +7598,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "MirkwoodSwamp",
@@ -7337,7 +7617,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -7621,7 +7903,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q04L2",
@@ -7639,7 +7923,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q04L3",
@@ -7656,7 +7942,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q04L4",
@@ -7675,7 +7963,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q04L5",
@@ -7695,7 +7985,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -7959,7 +8251,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": [],
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q5L2",
@@ -7978,7 +8272,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q05L3a",
@@ -7998,7 +8294,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q05L3b",
@@ -8016,7 +8314,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "C001Q05L4",
@@ -8037,7 +8337,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -8273,7 +8575,9 @@
                   "Id": "TutorialThreatEvent",
                   "Threshold": 1
                 }
-              ]
+              ],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "",
@@ -8287,7 +8591,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": []
+              "ThreatCardList": [],
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -8390,7 +8696,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -8467,7 +8775,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -8544,7 +8854,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -8621,7 +8933,9 @@
               "NarrativeCount": 0,
               "NarrativeTextList": null,
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [
@@ -8712,7 +9026,9 @@
                 "Q_STAGE_TUTORIAL_STAGE_01_TEXT_1"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "Tutorial_Stage_02",
@@ -8735,7 +9051,9 @@
                 "Q_STAGE_TUTORIAL_STAGE_02_TEXT_1"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             },
             {
               "Id": "Tutorial_Stage_03",
@@ -8758,7 +9076,9 @@
                 "Q_STAGE_TUTORIAL_STAGE_03_TEXT_1"
               ],
               "FateCardList": null,
-              "ThreatCardList": null
+              "ThreatCardList": null,
+              "ChoiceBGSprite": null,
+              "ChoiceSpriteList": null
             }
           ],
           "SauronDeck": [],
