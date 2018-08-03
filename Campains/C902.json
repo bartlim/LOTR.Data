@@ -33,7 +33,13 @@
             "Q_STAGE_C902Q1L1_TEXT_0"
           ],
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "ChoiceDescText": "Q_STAGE_C902Q1L1_CHOICE_DESCRIPTION",
+          "ChoiceBGSprite": "C902Q1L1_CHOICEBG",
+          "ChoiceSpriteList": [
+            "C902Q1L1_CHOICEASPRITE",
+            "C902Q1L1_CHOICEBSPRITE"
+          ]
         },
         {
           "Id": "C902Q1L2",
@@ -61,7 +67,10 @@
             "Q_STAGE_C902Q1L2_TEXT_2"
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "ChoiceDescText": "Q_STAGE_C902Q1L2_CHOICE_DESCRIPTION",
+          "ChoiceBGSprite": null,
+          "ChoiceSpriteList": null
         },
         {
           "Id": "C902Q1L3",
@@ -81,7 +90,10 @@
             "Q_STAGE_C902Q1L3_TEXT_0"
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "ChoiceDescText": "Q_STAGE_C902Q1L3_CHOICE_DESCRIPTION",
+          "ChoiceBGSprite": null,
+          "ChoiceSpriteList": null
         },
         {
           "Id": "C902Q1L4",
@@ -104,7 +116,10 @@
             "Q_STAGE_C902Q1L4_TEXT_1"
           ],
           "FateCardList": null,
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "ChoiceDescText": "Q_STAGE_C902Q1L4_CHOICE_DESCRIPTION",
+          "ChoiceBGSprite": null,
+          "ChoiceSpriteList": null
         }
       ],
       "SauronDeck": [
@@ -187,7 +202,10 @@
             "Q_STAGE_C902Q2L1_TEXT_0"
           ],
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "ChoiceDescText": "Q_STAGE_C902Q2L1_CHOICE_DESCRIPTION",
+          "ChoiceBGSprite": null,
+          "ChoiceSpriteList": null
         }
       ],
       "SauronDeck": [
@@ -270,7 +288,10 @@
             "Q_STAGE_C902Q3L1_TEXT_0"
           ],
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "ChoiceDescText": "Q_STAGE_C902Q3L1_CHOICE_DESCRIPTION",
+          "ChoiceBGSprite": null,
+          "ChoiceSpriteList": null
         }
       ],
       "SauronDeck": [
@@ -353,7 +374,10 @@
             "Q_STAGE_C902Q4L1_TEXT_0"
           ],
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "ChoiceDescText": "Q_STAGE_C902Q4L1_CHOICE_DESCRIPTION",
+          "ChoiceBGSprite": null,
+          "ChoiceSpriteList": null
         }
       ],
       "SauronDeck": [
@@ -436,7 +460,10 @@
             "Q_STAGE_C902Q5L1_TEXT_0"
           ],
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "ChoiceDescText": "Q_STAGE_C902Q5L1_CHOICE_DESCRIPTION",
+          "ChoiceBGSprite": null,
+          "ChoiceSpriteList": null
         }
       ],
       "SauronDeck": [
