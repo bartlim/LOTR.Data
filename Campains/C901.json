@@ -16,14 +16,22 @@
           "Id": "C901Q1L1",
           "SceneName": "Mirkwood01",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "OpeningMirkwood_01",
-          "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L2",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L1_TEXT_0"
+          ],
           "FateCardList": [],
           "ThreatCardList": []
         },
@@ -31,14 +39,22 @@
           "Id": "C901Q1L2",
           "SceneName": "Mirkwood02",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L3",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L2_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -46,14 +62,22 @@
           "Id": "C901Q1L3",
           "SceneName": "Mirkwood03",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L4",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L3_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -61,14 +85,22 @@
           "Id": "C901Q1L4",
           "SceneName": "Mirkwood04",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L5",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L4_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -76,14 +108,22 @@
           "Id": "C901Q1L5",
           "SceneName": "EnchantedStream01",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L6",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L5_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -91,14 +131,22 @@
           "Id": "C901Q1L6",
           "SceneName": "Spiders01",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L7",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L6_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -106,14 +154,22 @@
           "Id": "C901Q1L7",
           "SceneName": "Spiders02",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L8",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L7_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -121,14 +177,22 @@
           "Id": "C901Q1L8",
           "SceneName": "Spiders03",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L8_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -136,14 +200,22 @@
           "Id": "C901Q1L9",
           "SceneName": "Spiders04",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9A",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -151,14 +223,22 @@
           "Id": "C901Q1L9A",
           "SceneName": "DarkForest01",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9B",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9A_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -166,14 +246,22 @@
           "Id": "C901Q1L9B",
           "SceneName": "DarkForest02",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9C",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9B_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -181,14 +269,22 @@
           "Id": "C901Q1L9C",
           "SceneName": "DarkForest03",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9D",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9C_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -196,14 +292,22 @@
           "Id": "C901Q1L9D",
           "SceneName": "DarkForest04",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9E",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9D_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -211,14 +315,22 @@
           "Id": "C901Q1L9E",
           "SceneName": "ForestStream01",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9F",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9E_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -226,14 +338,22 @@
           "Id": "C901Q1L9F",
           "SceneName": "ForestStream02",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9G",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9F_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -241,14 +361,22 @@
           "Id": "C901Q1L9G",
           "SceneName": "ForestStream03",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9H",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9G_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -256,14 +384,22 @@
           "Id": "C901Q1L9H",
           "SceneName": "ForestStream04",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9I",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9H_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -271,14 +407,22 @@
           "Id": "C901Q1L9I",
           "SceneName": "ForestStream05",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9J",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9I_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -286,14 +430,22 @@
           "Id": "C901Q1L9J",
           "SceneName": "MirkwoodSwamp01",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9K",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9J_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -301,14 +453,22 @@
           "Id": "C901Q1L9K",
           "SceneName": "Trolls01",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9L",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9K_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -316,14 +476,22 @@
           "Id": "C901Q1L9L",
           "SceneName": "Trolls02",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9M",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9L_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -331,14 +499,22 @@
           "Id": "C901Q1L9M",
           "SceneName": "BurningVillage01",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9N",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9M_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -346,14 +522,22 @@
           "Id": "C901Q1L9N",
           "SceneName": "DwarfMine01",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9O",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9N_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -361,14 +545,22 @@
           "Id": "C901Q1L9O",
           "SceneName": "GoblinTunnel01",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9P",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9O_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -376,14 +568,22 @@
           "Id": "C901Q1L9P",
           "SceneName": "Hall01",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9Q",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9P_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -391,14 +591,22 @@
           "Id": "C901Q1L9Q",
           "SceneName": "Hall02",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9R",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9Q_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -406,14 +614,22 @@
           "Id": "C901Q1L9R",
           "SceneName": "Dungeon01",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9S",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9R_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -421,14 +637,22 @@
           "Id": "C901Q1L9S",
           "SceneName": "Village01",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9T",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9S_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -436,14 +660,22 @@
           "Id": "C901Q1L9T",
           "SceneName": "Ruins01",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9U",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9T_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         },
@@ -451,14 +683,22 @@
           "Id": "C901Q1L9U",
           "SceneName": "Caverns01",
           "IntroMusic": "mus_cave",
-          "IntroVoice": "",
-          "IntroSprite": null,
+          "IntroVoiceList": [
+            "OpeningMirkwood_01"
+          ],
+          "IntroSpriteList": [
+            "Sprites/Locations/Quest1_Stage01"
+          ],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "C901Q1L9V",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_C901Q1L9U_TEXT_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null
         }
@@ -526,14 +766,16 @@
           "Id": "C901Q2L1",
           "SceneName": "Q01_L01_ForestGate",
           "IntroMusic": "",
-          "IntroVoice": "OpeningMirkwood_01",
-          "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+          "IntroVoiceList": [],
+          "IntroSpriteList": [],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "",
           "BGM": null,
+          "NarrativeCount": 0,
+          "NarrativeTextList": [],
           "FateCardList": [],
           "ThreatCardList": []
         }
@@ -601,14 +843,16 @@
           "Id": "C901Q3L1",
           "SceneName": "Q01_L01_ForestGate",
           "IntroMusic": "",
-          "IntroVoice": "OpeningMirkwood_01",
-          "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+          "IntroVoiceList": [],
+          "IntroSpriteList": [],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "",
           "BGM": null,
+          "NarrativeCount": 0,
+          "NarrativeTextList": [],
           "FateCardList": [],
           "ThreatCardList": []
         }
@@ -676,14 +920,16 @@
           "Id": "C901Q4L1",
           "SceneName": "Q01_L01_ForestGate",
           "IntroMusic": "",
-          "IntroVoice": "OpeningMirkwood_01",
-          "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+          "IntroVoiceList": [],
+          "IntroSpriteList": [],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "",
           "BGM": null,
+          "NarrativeCount": 0,
+          "NarrativeTextList": [],
           "FateCardList": [],
           "ThreatCardList": []
         }
@@ -751,14 +997,16 @@
           "Id": "C901Q5L1",
           "SceneName": "Q01_L01_ForestGate",
           "IntroMusic": "",
-          "IntroVoice": "OpeningMirkwood_01",
-          "IntroSprite": "Sprites/Locations/Quest1_Stage01",
+          "IntroVoiceList": [],
+          "IntroSpriteList": [],
           "SoloGameSetup": [
             "FindThePath",
             "VeteranPatrol"
           ],
           "NextStageId": "",
           "BGM": null,
+          "NarrativeCount": 0,
+          "NarrativeTextList": [],
           "FateCardList": [],
           "ThreatCardList": []
         }
