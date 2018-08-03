@@ -1225,7 +1225,12 @@
           "NarrativeTextList": [
             "Q_STAGE_C001Q4L2_TEXT_0"
           ],
-          "FateCardList": [],
+          "FateCardList": [
+            {
+              "Id": "ShaftOfSunlight",
+              "Threshold": 4
+            }
+          ],
           "ThreatCardList": [
             {
               "Id": "TheOrcCommander",
