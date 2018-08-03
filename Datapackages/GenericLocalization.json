@@ -14483,7 +14483,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q5L4_NAME",
-    "Text": "The Borders of the Golden Wood"
+    "Text": "Surrounded"
   },
   {
     "Id": "Q_STAGE_C001Q5L4_TEXT",
@@ -14491,7 +14491,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q5L4_OBJECTIVE",
-    "Text": "Defeat all enemies or survive until Wardens of Lorien triggers. <color=red>Bilbo must survive</color>"
+    "Text": "Defeat all enemies to complete your quest. <color=red>Bilbo must survive</color>"
   },
   {
     "Id": "C_BATTLINGSPIDERS_TITLE",
@@ -16471,6 +16471,14 @@
   },
   {
     "Id": "Q_STAGE_C001Q5L3B_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L4_TEXT_0",
+    "Text": "<i><size=58>Y</size>ou dislodge the raft from the shallows and press on, hounded on the right side of the river now by the Orcs. It is only a short distance to Lorien, but there is no way you can make it there without a battle. Steeling yourselves, you beach the raft and charge towards the forest.</i>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L4_CHOICE_TEXT",
     "Text": null
   }
 ]
