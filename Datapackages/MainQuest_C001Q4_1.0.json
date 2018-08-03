@@ -368,7 +368,12 @@
         "NextStageTitles": [
           "C001Q4L3"
         ],
-        "FateCardList": [],
+        "FateCardList": [
+          {
+            "Id": "ShaftOfSunlight",
+            "Threshold": 4
+          }
+        ],
         "ThreatCardList": [
           {
             "Id": "TheOrcCommander",
@@ -432,9 +437,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180803150322012",
+  "Version": "20180803162707388",
   "Key": "MainQuest",
   "SubKey": "C001Q4",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q4_20180803150322012"
+  "InternalKey": "MainQuest_C001Q4_20180803162707388"
 }
