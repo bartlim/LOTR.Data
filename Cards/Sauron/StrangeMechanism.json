@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "\"Our Enemy’s devices oft serve us in his despite.\"\r\n—Éomer, <i>The Return of the King</i>",
     "CannotTriggerReason": "",
     "ArtistName": "",
     "Status": "WIP",
@@ -40,6 +40,6 @@
   },
   "Localization": {
     "Title": "Strange Mechanism",
-    "Text": "Cannot engage.\nApply 1 progress for each Hazard resolved"
+    "Text": "Cannot engage.\nApply 1 progress each time you resolve a Hazard"
   }
 }
