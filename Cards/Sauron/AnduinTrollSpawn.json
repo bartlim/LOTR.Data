@@ -21,6 +21,7 @@
     "DeathVFX": "Effect_Death3",
     "DeathSFX": "die_both_e",
     "FlavorText": "Trolls are slow in the uptake, and mighty suspicious about anything new to them. \n—<i>The Hobbit</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Chun Lo",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "Anduin Troll Spawn",
-    "Text": "<b>Upkeep</b>: Restore 1 <sprite=2>"
+    "Text": "<b>Upkeep</b>: Restore 1 <size=120%><sprite=2></size>"
   }
 }
