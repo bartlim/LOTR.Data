@@ -4,7 +4,7 @@
     "Owner": "Sauron",
     "CardType": 11,
     "ShopType": "",
-    "Cost": 0,
+    "Cost": 2,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "<line-height=100%><size=200%>T</size>hough you try to dispatch your foes quickly, the sounds of battle draw unwelcome attention. Even more orcs have tromped their way back along the caravan trail, curious what all the fuss is about. After a surprised shout upon catching sight of you, they charge into the fray with weapons raised!",
     "CannotTriggerReason": "",
     "ArtistName": "",
     "Status": "WIP",
@@ -40,6 +40,6 @@
   },
   "Localization": {
     "Title": "What's That Noise?",
-    "Text": "Play 2 random <b><i>Orcs</i></b>"
+    "Text": "Add 2 random <b><i>Orc</i></b> cards"
   }
 }
