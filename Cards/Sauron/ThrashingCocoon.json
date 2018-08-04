@@ -20,7 +20,8 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "There was a muffled yelp inside, and a toe shot up and kicked the spider straight and hard. \r\n—<i>The Hobbit</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "Thrashing Cocoon",
-    "Text": "Deal 1 damage every time \na Character applies progress \nto this Quest.\nResolve to open the Cocoon"
+    "Text": "Deal 1 damage every time\na Character applies progress to this Objective. Resolve to open the Cocoon"
   }
 }
