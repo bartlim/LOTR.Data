@@ -20,7 +20,8 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "<line-height=100%><size=200%>T</size>hough deep in the lair of the enemy, you continue to defy the odds—you survive despite the many dangers you've faced thus far. Pausing but a moment to catch your breath, you forge onward with renewed vigor.",
+    "CannotTriggerReason": "",
     "ArtistName": "",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,6 +32,7 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
     "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
@@ -38,6 +40,6 @@
   },
   "Localization": {
     "Title": "Second Wind",
-    "Text": "Restore a Hero to their full <sprite=2> value"
+    "Text": "Restore a Hero to full <size=120%><sprite=2></size>"
   }
 }
