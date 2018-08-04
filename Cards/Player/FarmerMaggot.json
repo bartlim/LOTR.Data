@@ -21,6 +21,7 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "\"It’s lucky for you that I know you. I was just going out to set my dogs on any strangers.\"\r\n—Farmer Maggot, <i>The Fellowship of the Ring</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "‰Farmer Maggot",
-    "Text": "<b>Arrival</b>: Add 1 \nFarmer Maggot's Hounds"
+    "Text": "<b>Arrival</b>: Play 1 \nFarmer Maggot's Hounds"
   }
 }
