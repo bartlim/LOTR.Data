@@ -84,7 +84,7 @@
             "OpeningMirkwood_01"
           ],
           "IntroSpriteList": [
-            "Sprites/Locations/Quest1_Stage01"
+            "C001Q1L3_IntroSprite_1"
           ],
           "SoloGameSetup": [
             "ThrashingCocoon",
@@ -94,7 +94,7 @@
             "ForestSpider"
           ],
           "NextStageId": "C001Q1L4",
-          "BGM": "mus_cave",
+          "BGM": "mus_mirkwood",
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q1L3_TEXT_0"
