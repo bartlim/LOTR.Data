@@ -1794,28 +1794,26 @@
     {
       "Id": "C001",
       "IconSprite": "Sprites/Quest/icon_q1",
-      "MapPosX": -8.0,
-      "MapPosY": -8.0,
+      "MapPosX": 2.0,
+      "MapPosY": -7.0,
       "Quests": [
         {
           "Id": "C001Q1",
-          "IconSprite": "Sprites/Quest/icon_q1",
-          "ArtSprite": "Sprites/Quest/quest_1",
+          "IconSprite": "C001Q1QuestIcon",
+          "ArtSprite": "C001Q1QuestArt",
           "VictoryVoice": "Victory",
           "DefeatVoice": "Defeat",
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "ResolutionArtSprite": "C001Q1QuestResolution",
           "Stages": [
             {
               "Id": "C001Q1L1",
               "SceneName": "ForestStream03",
               "IntroMusic": "mus_deckmenu",
               "IntroVoiceList": [
-                "OpeningMirkwood_01",
-                ""
+                "OpeningMirkwood_01"
               ],
               "IntroSpriteList": [
-                "Sprites/Locations/Quest1_Stage01",
-                ""
+                "C001Q1L1_IntroSprite_1"
               ],
               "SoloGameSetup": [
                 "InvestigateTheGlade",
@@ -1825,10 +1823,9 @@
               ],
               "NextStageId": "C001Q1L2",
               "BGM": "mus_mirkwood",
-              "NarrativeCount": 2,
+              "NarrativeCount": 1,
               "NarrativeTextList": [
-                "Q_STAGE_C001Q1L1_TEXT_0",
-                "Q_STAGE_C001Q1L1_TEXT_1"
+                "Q_STAGE_C001Q1L1_TEXT_0"
               ],
               "FateCardList": [],
               "ThreatCardList": [],
@@ -1846,7 +1843,7 @@
                 "OpeningMirkwood_01"
               ],
               "IntroSpriteList": [
-                "Sprites/Locations/Quest1_Stage01"
+                "C001Q1L2_IntroSprite_1"
               ],
               "SoloGameSetup": [
                 "KingSpider",
@@ -1854,7 +1851,7 @@
                 "FindAWayAcross"
               ],
               "NextStageId": "C001Q1L3",
-              "BGM": "mus_cave",
+              "BGM": "mus_spookyforest",
               "NarrativeCount": 1,
               "NarrativeTextList": [
                 "Q_STAGE_C001Q1L2_TEXT_0"
@@ -2489,7 +2486,7 @@
                 "GoblinSniper",
                 "BlackForestBats",
                 "BlackForestBats",
-                "MirkwoodFlock",
+                "MirkwoodPatrol",
                 "SpiesofShadow"
               ],
               "NextStageId": "C001Q3L2A,C001Q3L2B",
