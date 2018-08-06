@@ -5,11 +5,12 @@
   "MapPosY": -21.0,
   "Quests": [
     {
+      "VictoryTextList": [],
       "Id": "C902Q1",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
-      "VictoryVoice": null,
-      "DefeatVoice": null,
+      "VictoryVoice": "Victory",
+      "DefeatVoice": "Defeat",
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
@@ -174,11 +175,13 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 1,
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
     },
     {
+      "VictoryTextList": [],
       "Id": "C902Q2",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
@@ -262,11 +265,13 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
     },
     {
+      "VictoryTextList": [],
       "Id": "C902Q3",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
@@ -350,11 +355,13 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
     },
     {
+      "VictoryTextList": [],
       "Id": "C902Q4",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
@@ -438,11 +445,13 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
     },
     {
+      "VictoryTextList": [],
       "Id": "C902Q5",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
@@ -526,6 +535,7 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
