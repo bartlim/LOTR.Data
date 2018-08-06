@@ -5,7 +5,9 @@
   "MapPosY": -21.0,
   "Quests": [
     {
-      "VictoryTextList": [],
+      "VictoryTextList": [
+        "C902Q1_Victory1"
+      ],
       "Id": "C902Q1",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
