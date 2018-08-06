@@ -298,10 +298,12 @@
       {
         "Title": "C001Q5L2",
         "SoloGameSetup": [
-          "LeftRiverFork",
           "Rapids",
-          "RightRiverFork",
-          "GoblinPursuer"
+          "Rapids",
+          "Rocks",
+          "SwirlingEddy",
+          "GoblinSniper",
+          "DolGuldurArcher"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -401,9 +403,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180803223558068",
+  "Version": "20180806095856117",
   "Key": "MainQuest",
   "SubKey": "C001Q5",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q5_20180803223558068"
+  "InternalKey": "MainQuest_C001Q5_20180806095856117"
 }
