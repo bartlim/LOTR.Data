@@ -2124,11 +2124,11 @@
         },
         {
           "Id": "C001Q2",
-          "IconSprite": "Sprites/Quest/icon_q1",
-          "ArtSprite": "Sprites/Quest/quest_1",
+          "IconSprite": "C001Q2QuestIcon",
+          "ArtSprite": "C001Q2QuestArt",
           "VictoryVoice": "Victory",
           "DefeatVoice": "Defeat",
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+          "ResolutionArtSprite": "C001Q2QuestResolution",
           "Stages": [
             {
               "Id": "C001Q2L1",
