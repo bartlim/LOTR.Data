@@ -3354,10 +3354,12 @@
                 "Sprites/Locations/Quest1_Stage01"
               ],
               "SoloGameSetup": [
-                "LeftRiverFork",
                 "Rapids",
-                "RightRiverFork",
-                "GoblinPursuer"
+                "Rapids",
+                "Rocks",
+                "SwirlingEddy",
+                "GoblinSniper",
+                "DolGuldurArcher"
               ],
               "NextStageId": "C001Q5L3",
               "BGM": "mus_cave",
@@ -4790,8 +4792,8 @@
           "Id": "C902Q1",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
-          "VictoryVoice": null,
-          "DefeatVoice": null,
+          "VictoryVoice": "Victory",
+          "DefeatVoice": "Defeat",
           "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
