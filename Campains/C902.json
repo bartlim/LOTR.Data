@@ -6,7 +6,8 @@
   "Quests": [
     {
       "VictoryTextList": [
-        "C902Q1_Victory1"
+        "C902Q1_Victory1",
+        "C902Q1_Victory2"
       ],
       "Id": "C902Q1",
       "IconSprite": "Sprites/Quest/icon_q1",
@@ -177,7 +178,7 @@
           "PlayOnce": false
         }
       ],
-      "VictoryCount": 1,
+      "VictoryCount": 2,
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
