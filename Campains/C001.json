@@ -120,7 +120,7 @@
             "OpeningMirkwood_01"
           ],
           "IntroSpriteList": [
-            "Sprites/Locations/Quest1_Stage01"
+            "C001Q1L4_IntroSprite_1"
           ],
           "SoloGameSetup": [
             "SpiderLt1",
@@ -128,7 +128,7 @@
             "SpiderLt3"
           ],
           "NextStageId": "",
-          "BGM": "mus_cave",
+          "BGM": "mus_saurontheme",
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q1L4_TEXT_0"
