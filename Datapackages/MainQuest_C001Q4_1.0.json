@@ -338,8 +338,7 @@
       {
         "Title": "C001Q4L1",
         "SoloGameSetup": [
-          "GiantMarshWorm",
-          "MuckAdder",
+          "HugeMarshWorm",
           "MuckAdder"
         ],
         "CoopGameSetup": [],
@@ -360,7 +359,6 @@
           "IntrudersInTheTower",
           "DolGuldurOrcs",
           "GoblinTaskmaster",
-          "EliteDolGuldurOrcs",
           "GoblinPursuer"
         ],
         "CoopGameSetup": [],
@@ -368,8 +366,18 @@
         "NextStageTitles": [
           "C001Q4L3"
         ],
-        "FateCardList": [],
-        "ThreatCardList": [],
+        "FateCardList": [
+          {
+            "Id": "ShaftOfSunlight",
+            "Threshold": 4
+          }
+        ],
+        "ThreatCardList": [
+          {
+            "Id": "TheOrcCommander",
+            "Threshold": 2
+          }
+        ],
         "NarrativeCount": 1,
         "NarrativeTextList": [
           "Q_STAGE_C001Q4L2_TEXT_0"
@@ -399,37 +407,37 @@
     "Stories": [],
     "FateCardList": [
       {
-        "Id": "RangersCache",
+        "Id": "StaggeringBlow",
         "Threshold": 3
       },
       {
-        "Id": "ShaftofSunlight",
+        "Id": "MakeAStand",
         "Threshold": 6
       },
       {
-        "Id": "SupportfromDale",
+        "Id": "SecondWind",
         "Threshold": 9
       }
     ],
     "ThreatCardList": [
       {
-        "Id": "SpidersDescend",
+        "Id": "ADangerousBusiness",
         "Threshold": 1
       },
       {
-        "Id": "Poisoned",
+        "Id": "EmptyCages",
         "Threshold": 2
       },
       {
-        "Id": "WaveOfFear",
+        "Id": "AgentOfSauronThreat",
         "Threshold": 3
       }
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180802182334884",
+  "Version": "20180803223553213",
   "Key": "MainQuest",
   "SubKey": "C001Q4",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q4_20180802182334884"
+  "InternalKey": "MainQuest_C001Q4_20180803223553213"
 }

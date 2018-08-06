@@ -396,7 +396,7 @@
           "GoblinTaskmaster",
           "DolGuldurArcher",
           "DolGuldurArcher",
-          "StragglingGoblin"
+          "EastBightPatrol"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -507,7 +507,7 @@
         "Title": "C001Q3L5",
         "SoloGameSetup": [
           "StrangeMechanism",
-          "LowOnSuppies",
+          "LowOnSupplies",
           "WatchfulEyes",
           "WanderingPatrol",
           "UnderTheWatchfulEye"
@@ -557,9 +557,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180802182330504",
+  "Version": "20180803223548366",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180802182330504"
+  "InternalKey": "MainQuest_C001Q3_20180803223548366"
 }

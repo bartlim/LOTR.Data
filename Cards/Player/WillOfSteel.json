@@ -21,6 +21,7 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "Dáin had come. He had hurried on through the night, and so had come upon them sooner than they had expected.\r\n—<i>The Hobbit</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Tomasz Jedruszek",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "Will of Steel",
-    "Text": "<line-height=100%>Apply a Hero's <size=120%><sprite=0></size> value as progress to an Objective"
+    "Text": "<line-height=100%>Apply a Hero's <size=120%><sprite=0></size> as progress \nto an Objective"
   }
 }

@@ -4,8 +4,8 @@
     "Owner": "Player",
     "CardType": 10,
     "ShopType": "Starter",
-    "Cost": 0,
-    "QuestPoints": 8,
+    "Cost": 8,
+    "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
@@ -20,7 +20,8 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "One of the cocoons is moving violently, inside you can hear growls, and words you can't make out. Whoever is inside there is extremely displeased.",
+    "FlavorText": "<line-height=100%><size=200%>T</size>he spiders squeal in fearful rage as you drive them away from the cocoon. You hear growled speech from within the webs, but cannot make out the words. Even so, it's clear that whomever is inside is very displeased.",
+    "CannotTriggerReason": "",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "Open the Thrashing Cocoon",
-    "Text": "You carefully open the violently thrashing cocoon to release what is inside"
+    "Text": "Tear open the cocoon and reveal what is trapped inside"
   }
 }

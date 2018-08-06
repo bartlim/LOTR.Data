@@ -21,6 +21,7 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "It pleased him that she should dwell there hungry but unabated in malice, a more sure watch upon that ancient path into his land than any other that his skill could have devised.\n—<i>TheTwo Towers</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Aurelien Hubert",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "Vile Spawn",
-    "Text": "<line-height=100%>Restore Ungoliant's Spawn \nto its full <size=120%><sprite=2></size> value"
+    "Text": "<line-height=100%>Restore Ungoliant's Spawn \nto its full <size=120%><sprite=2></size>"
   }
 }

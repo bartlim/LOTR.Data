@@ -21,7 +21,7 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "\"…for he that strikes the first blow, if he strikes it hard enough, may need to strike no more.\" \n—Gandalf, <i>The Two Towers</i>",
-    "CannotTriggerReason": null,
+    "CannotTriggerReason": "",
     "ArtistName": "Sara Biddle",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -33,13 +33,13 @@
     "CombatValue": 0,
     "ResolutionValue": 0,
     "CanBePlayedDuringTravel": false,
-    "ComboList": null,
+    "ComboList": [],
     "ArtworkMD5": "8cbb994630bbf34c77b7f5821df5feda",
     "BannerMD5": null,
     "IconMD5": "ecdced9f6033af00ecfd1e4b4b7f39f6"
   },
   "Localization": {
     "Title": "Quick Strike",
-    "Text": "<line-height=100%>Deal damage to an Enemy \nequal to the selected \nCharacter's <size=120%><sprite=0></size> value"
+    "Text": "<line-height=100%>Deal damage to an Enemy \nequal to the selected \nCharacter's <size=120%><sprite=0></size>"
   }
 }

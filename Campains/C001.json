@@ -38,7 +38,12 @@
             "Q_STAGE_C001Q1L1_TEXT_1"
           ],
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
+          ]
         },
         {
           "Id": "C001Q1L2",
@@ -67,6 +72,11 @@
               "Id": "UnsteadyFooting",
               "Threshold": 3
             }
+          ],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -98,7 +108,12 @@
               "Threshold": 7
             }
           ],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
+          ]
         },
         {
           "Id": "C001Q1L4",
@@ -122,7 +137,12 @@
             "Q_STAGE_C001Q1L4_TEXT_0"
           ],
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
+          ]
         }
       ],
       "SauronDeck": [
@@ -342,7 +362,12 @@
             "Q_STAGE_C001Q2L1_TEXT_0"
           ],
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
+          ]
         },
         {
           "Id": "C001Q2L2",
@@ -368,7 +393,12 @@
             "Q_STAGE_C001Q2L2_TEXT_0"
           ],
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
+          ]
         },
         {
           "Id": "C001Q2L3",
@@ -403,6 +433,11 @@
               "Id": "WhatsThatNoise",
               "Threshold": 2
             }
+          ],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -433,6 +468,11 @@
               "Id": "OvercomeDarkness",
               "Threshold": 5
             }
+          ],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         }
       ],
@@ -666,7 +706,12 @@
             "Q_STAGE_C001Q3L1_TEXT_0"
           ],
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
+          ]
         },
         {
           "Id": "C001Q3L2A",
@@ -682,7 +727,7 @@
             "GoblinTaskmaster",
             "DolGuldurArcher",
             "DolGuldurArcher",
-            "StragglingGoblin"
+            "EastBightPatrol"
           ],
           "NextStageId": "C001Q3L3A",
           "BGM": "mus_cave",
@@ -691,7 +736,12 @@
             "Q_STAGE_C001Q3L2A_TEXT_0"
           ],
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
+          ]
         },
         {
           "Id": "C001Q3L2B",
@@ -721,7 +771,12 @@
               "Threshold": 4
             }
           ],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
+          ]
         },
         {
           "Id": "C001Q3L3A",
@@ -750,6 +805,11 @@
               "Id": "TorchesFromTheTower",
               "Threshold": 2
             }
+          ],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -778,6 +838,11 @@
               "Id": "StuckInTheMud",
               "Threshold": 2
             }
+          ],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -804,7 +869,12 @@
             "Q_STAGE_C001Q3L4_TEXT_0"
           ],
           "FateCardList": null,
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
+          ]
         },
         {
           "Id": "C001Q3L5",
@@ -818,7 +888,7 @@
           ],
           "SoloGameSetup": [
             "StrangeMechanism",
-            "LowOnSuppies",
+            "LowOnSupplies",
             "WatchfulEyes",
             "WanderingPatrol",
             "UnderTheWatchfulEye"
@@ -830,7 +900,12 @@
             "Q_STAGE_C001Q3L5_TEXT_0"
           ],
           "FateCardList": [],
-          "ThreatCardList": null
+          "ThreatCardList": null,
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
+          ]
         }
       ],
       "SauronDeck": [
@@ -1109,8 +1184,7 @@
             "Sprites/Locations/Quest1_Stage01"
           ],
           "SoloGameSetup": [
-            "GiantMarshWorm",
-            "MuckAdder",
+            "HugeMarshWorm",
             "MuckAdder"
           ],
           "NextStageId": "C001Q4L2",
@@ -1120,7 +1194,12 @@
             "Q_STAGE_C001Q4L1_TEXT_0"
           ],
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
+          ]
         },
         {
           "Id": "C001Q4L2",
@@ -1136,7 +1215,6 @@
             "IntrudersInTheTower",
             "DolGuldurOrcs",
             "GoblinTaskmaster",
-            "EliteDolGuldurOrcs",
             "GoblinPursuer"
           ],
           "NextStageId": "C001Q4L3",
@@ -1145,8 +1223,23 @@
           "NarrativeTextList": [
             "Q_STAGE_C001Q4L2_TEXT_0"
           ],
-          "FateCardList": [],
-          "ThreatCardList": []
+          "FateCardList": [
+            {
+              "Id": "ShaftOfSunlight",
+              "Threshold": 4
+            }
+          ],
+          "ThreatCardList": [
+            {
+              "Id": "TheOrcCommander",
+              "Threshold": 2
+            }
+          ],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
+          ]
         },
         {
           "Id": "C001Q4L3",
@@ -1170,7 +1263,12 @@
             "Q_STAGE_C001Q4L3_TEXT_0"
           ],
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
+          ]
         }
       ],
       "SauronDeck": [
@@ -1382,29 +1480,29 @@
       ],
       "FateCardList": [
         {
-          "Id": "RangersCache",
+          "Id": "StaggeringBlow",
           "Threshold": 3
         },
         {
-          "Id": "ShaftofSunlight",
+          "Id": "MakeAStand",
           "Threshold": 6
         },
         {
-          "Id": "SupportfromDale",
+          "Id": "SecondWind",
           "Threshold": 9
         }
       ],
       "ThreatCardList": [
         {
-          "Id": "SpidersDescend",
+          "Id": "ADangerousBusiness",
           "Threshold": 1
         },
         {
-          "Id": "Poisoned",
+          "Id": "EmptyCages",
           "Threshold": 2
         },
         {
-          "Id": "WaveOfFear",
+          "Id": "AgentOfSauronThreat",
           "Threshold": 3
         }
       ],
@@ -1445,7 +1543,12 @@
               "Threshold": 4
             }
           ],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
+          ]
         },
         {
           "Id": "C001Q5L2",
@@ -1470,7 +1573,12 @@
             "Q_STAGE_C001Q5L2_TEXT_0"
           ],
           "FateCardList": [],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
+          ]
         },
         {
           "Id": "C001Q5L3",
@@ -1501,10 +1609,15 @@
               "Threshold": 7
             }
           ],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
+          ]
         },
         {
-          "Id": "C001Q5L3B",
+          "Id": "C001Q5L4",
           "SceneName": "ForestStream05",
           "IntroMusic": "mus_cave",
           "IntroVoiceList": [
@@ -1516,8 +1629,8 @@
           "SoloGameSetup": [
             "WardensOfLorien",
             "ChieftainUfthak",
-            "EliteDolGuldurOrcs",
-            "EliteDolGuldurOrcs",
+            "VeteranPatrol",
+            "EastBightPatrol",
             "MirkwoodPatrol",
             "OrcMarauder"
           ],
@@ -1525,7 +1638,7 @@
           "BGM": "mus_saurontheme",
           "NarrativeCount": 1,
           "NarrativeTextList": [
-            "Q_STAGE_C001Q5L3B_TEXT_0"
+            "Q_STAGE_C001Q5L4_TEXT_0"
           ],
           "FateCardList": [
             {
@@ -1533,7 +1646,12 @@
               "Threshold": 4
             }
           ],
-          "ThreatCardList": []
+          "ThreatCardList": [],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
+          ]
         }
       ],
       "SauronDeck": [
@@ -1713,7 +1831,7 @@
           "Threshold": 6
         },
         {
-          "Id": "CripplingStrike",
+          "Id": "CripplingBlow",
           "Threshold": 9
         }
       ],

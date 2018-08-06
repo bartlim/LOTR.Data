@@ -14,13 +14,14 @@
     "Sphere": 5,
     "SphereLevel": 0,
     "Revision": null,
-    "PlayVFX": "",
-    "PlaySFX": "",
-    "AttackVFX": "",
-    "AttackSFX": "",
-    "DeathVFX": "",
-    "DeathSFX": "",
+    "PlayVFX": "Effect_EnemyCardLight",
+    "PlaySFX": "enemy_cardlight_both_e",
+    "AttackVFX": "Effect_Attack_AXE",
+    "AttackSFX": "event_attack_axe_e",
+    "DeathVFX": "Effect_DeathBlack",
+    "DeathSFX": "die_both_e",
     "FlavorText": "…as they stood they saw all the Nazgûl gathered together, hovering above the Towers of the Teeth like vultures…\r\n—<i>The Return of the King</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "Tower Patrol",
-    "Text": "<line-height=100%><b>Revenge</b>: Gain +1 <size=120%><sprite=4></size>; \nthen add 1 Ranging Goblin and \n1 East Bight Patrol"
+    "Text": "<line-height=100%><b>Revenge</b>: Gain +1 <size=120%><sprite=4></size>; \nthen add 1 East Bight Patrol \nand 1 Ranging Goblin"
   }
 }

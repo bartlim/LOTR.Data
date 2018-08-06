@@ -5029,7 +5029,7 @@
   },
   {
     "Id": "C_ANDUINTROLLSPAWN_TEXT",
-    "Text": "<b>Upkeep</b>: Restore 1 <sprite=2>"
+    "Text": "<b>Upkeep</b>: Restore 1 <size=120%><sprite=2></size>"
   },
   {
     "Id": "C_ANDUINTROLLSPAWN_TITLE",
@@ -6595,7 +6595,7 @@
   },
   {
     "Id": "C_QUICKSTRIKE_TEXT",
-    "Text": "<line-height=100%>Deal damage to an Enemy \nequal to the selected \nCharacter's <size=120%><sprite=0></size> value"
+    "Text": "<line-height=100%>Deal damage to an Enemy \nequal to the selected \nCharacter's <size=120%><sprite=0></size>"
   },
   {
     "Id": "C_QUICKSTRIKE_TITLE",
@@ -7121,7 +7121,7 @@
   },
   {
     "Id": "C_TASTEITAGAIN_TEXT",
-    "Text": "<line-height=100%>Before the next Enemy attack resolves, deal damage to the attacker equal to the defender's <size=120%><sprite=0></size> value"
+    "Text": "<line-height=100%>Before the next Enemy attack resolves, deal damage to the attacker equal to the defender's <size=120%><sprite=0></size>"
   },
   {
     "Id": "C_TASTEITAGAIN_TITLE",
@@ -7379,7 +7379,7 @@
   },
   {
     "Id": "C_VILESPAWN_TEXT",
-    "Text": "<line-height=100%>Restore Ungoliant's Spawn \nto its full <size=120%><sprite=2></size> value"
+    "Text": "<line-height=100%>Restore Ungoliant's Spawn \nto its full <size=120%><sprite=2></size>"
   },
   {
     "Id": "C_VILESPAWN_TITLE",
@@ -7647,7 +7647,7 @@
   },
   {
     "Id": "C_FARMERMAGGOT_TEXT",
-    "Text": "<b>Arrival</b>: Add 1 \nFarmer Maggot's Hounds"
+    "Text": "<b>Arrival</b>: Play 1 \nFarmer Maggot's Hounds"
   },
   {
     "Id": "C_FARMERMAGGOTSHOUNDS_FLAVOR",
@@ -7827,7 +7827,7 @@
   },
   {
     "Id": "C_DISTRACTION_TEXT",
-    "Text": "<line-height=100%>Exhaust an Ally to lose <size=120%><sprite=4></size> equal to that Ally's cost"
+    "Text": "<line-height=100%>Exhaust an Ally to lose <size=120%><sprite=4></size> \nequal to that Ally's cost"
   },
   {
     "Id": "C_BLOODOFNUMENOR_FLAVOR",
@@ -7851,7 +7851,7 @@
   },
   {
     "Id": "C_AELBERETHGILTHONIEL_TEXT",
-    "Text": "<line-height=100%>Defeat the next non-unique \nEnemy that attacks; then \nlose <size=120%><sprite=4></size> equal to its <size=120%><sprite=0></size> value"
+    "Text": "<line-height=100%>Defeat the next non-unique \nEnemy that attacks; then \nlose <size=120%><sprite=4></size> equal to its <size=120%><sprite=0></size>"
   },
   {
     "Id": "C_RIVENDELLSCHOLAR_FLAVOR",
@@ -8123,7 +8123,7 @@
   },
   {
     "Id": "C_CALDARA_TEXT",
-    "Text": "<b>Power</b>: Add 1 Gondorian Soldier"
+    "Text": "<b>Power</b>: Play 1 \nGondorian Soldier"
   },
   {
     "Id": "C_CALDARA_FLAVOR",
@@ -8439,7 +8439,7 @@
   },
   {
     "Id": "C_EMISSARYOFTHEVALAR_TEXT",
-    "Text": "<line-height=100%>Every Enemy loses <size=120%><sprite=0></size> value \nequal to the last triggered \n<size=120%><sprite=4></size> event tier"
+    "Text": "<line-height=100%>Every Enemy loses <size=120%><sprite=0></size> equal to the last triggered <size=120%><sprite=4></size> event tier"
   },
   {
     "Id": "C_ALIGHTFROMWITHIN_FLAVOR",
@@ -11627,11 +11627,11 @@
   },
   {
     "Id": "C_SUPPORTFROMDALE_TEXT",
-    "Text": "Add 1 Man of Dale to each open space in your row"
+    "Text": "Play 1 Man of Dale in each open space in your row"
   },
   {
     "Id": "C_SUPPORTFROMDALE_FLAVOR",
-    "Text": "<i><line-height=100%><size=200%>H</size>aving been scouting along the forest road, men from nearby Dale rush forward to lend you aid!"
+    "Text": "<line-height=100%><size=200%>Y</size>ou are not the only one patrolling the forest. Scouting nearby are men of Dale, trained in woodcraft. Ever alert for danger in Mirkwood, they are only too eager to help you drive back the dark denizens of the forest."
   },
   {
     "Id": "C_SHAFTOFSUNLIGHT_TITLE",
@@ -11643,7 +11643,7 @@
   },
   {
     "Id": "C_SHAFTOFSUNLIGHT_FLAVOR",
-    "Text": "<i><line-height=100%><size=200%>A</size> rare patch of sunlight stabs down through clusters of leaves and tangled boughs, its slender beam illuminating the way forward.</i>"
+    "Text": "<line-height=100%><size=200%>A</size> rare patch of sunlight stabs down through clusters of leaves and tangled boughs. The slender beam illuminates your way forward through the oppressive gloom of the forest."
   },
   {
     "Id": "C_RANGERSCACHE_TITLE",
@@ -11655,7 +11655,7 @@
   },
   {
     "Id": "C_RANGERSCACHE_FLAVOR",
-    "Text": "<i><line-height=100%><size=200%>F</size>ollowing the subtle signs that Rangers have left along the forest path, you discover a welcome cache of goods.</i>"
+    "Text": "<line-height=100%><size=200%>F</size>ollowing the subtle signs that Rangers have left along the forest path in the past, you discover a welcome cache of goods."
   },
   {
     "Id": "C_POISONED_TITLE",
@@ -11667,7 +11667,7 @@
   },
   {
     "Id": "C_POISONED_FLAVOR",
-    "Text": "<i><line-height=100%><size=200%>A</size>s a spider lashes out to strike one of your companions, torchlight glimmers upon a foul substance that coats its hideous mandibles—poison!</i>"
+    "Text": "<line-height=100%><size=200%>S</size>piders dart and skitter all around, dashing between the shadows thrown by the light of your torches. It is clear that they fear the flames, but you know that neither fire nor steel will hold them off forever.\r\n<indent=50></indent>Fickle chance proves this truth when a spider lunges from the shadows. Glimmering droplets of viscous fluid drip from its hideous mandibles as it slashes one of your companions!"
   },
   {
     "Id": "C_WAVEOFFEAR_TITLE",
@@ -11691,7 +11691,7 @@
   },
   {
     "Id": "C_SPIDERSDESCEND_FLAVOR",
-    "Text": "<i><line-height=100%><size=200%>T</size>he twisting branches above rustle with hidden movement, then explode in a shower of leaves as huge spiders lunge down upon you!</i>"
+    "Text": "<size=200%>Y</size>ou pause in your pursuit along the faint trail left by Bilbo's captors, sensing a change in the air. It's subtle but unmistakable: someone—or some<i>thing</i>—is watching you. \r\n<indent=50></indent>Though alert for any movement, you spy nothing amiss in the surrounding woods. Alas, "
   },
   {
     "Id": "Q_CAMPAIGN_NEWCAMPAIGN_TEST_NAME",
@@ -12267,11 +12267,11 @@
   },
   {
     "Id": "C_UNEXPECTEDAID_TEXT",
-    "Text": "Play 1 Guard of the Citadel"
+    "Text": "Play a random Ally with <b>Guard</b>"
   },
   {
     "Id": "C_UNEXPECTEDAID_FLAVOR",
-    "Text": "<i><line-height=100%><size=200%>H</size><i>earing the sounds of battle, a guard rushes to your side!</i>"
+    "Text": "<line-height=100%><size=200%>T</size>he clangor of your conflict echoes through the woods, drawing the attention of a traveler upon the road. Seeing the danger you face, they dash forward to lend you aid."
   },
   {
     "Id": "C_INSPIRING COURAGE_TITLE",
@@ -12295,7 +12295,7 @@
   },
   {
     "Id": "C_INSPIRINGCOURAGE_FLAVOR",
-    "Text": "<i><line-height=100%><size=200%>Y</size>ou unleash a rallying cry that stirs the hearts of your companions and strengthens their resolve.</i>"
+    "Text": "<line-height=100%><size=200%>T</size>he odds appear grim as enemies continue to harass you. Yet you have persevered through great odds—swarms of spiders, hordes of orcs, and a forest rife with threats. Though you are surrounded by danger aplenty, your courage remains strong. With a fierce cry, you rally your companions to engage your foes with renewed vigor."
   },
   {
     "Id": "C_LIGHTTHETORCHES_TITLE",
@@ -12307,7 +12307,7 @@
   },
   {
     "Id": "C_LIGHTTHETORCHES_FLAVOR",
-    "Text": "<i><line-height=100%><size=200%>A</size> foe stands revealed in your torchlight!</i>"
+    "Text": "<line-height=100%><size=200%>T</size>hick webbing surrounds you in a canopy of shadows. You light additional torches to hold the darkness at bay—and not a moment too soon, for a foe stands revealed in the torchlight!\r\n<indent=50></indent>You swing the torch reflexively, and are rewarded with a yelp of pain as the burning brand strikes."
   },
   {
     "Id": "C_FEAROFTHEFLAMES_TITLE",
@@ -12343,7 +12343,7 @@
   },
   {
     "Id": "C_SCOUTAHEAD_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>Y</size>ou move with an abundance of caution toward the tower. Senses stretched to their utmost, you scrutinize every shadow for hidden dangers with each step you take.\r\n<indent=50></indent>Your caution serves you well—you spot a cluster of orcs in time for your party to adjust its approach. Directing your companions with silent gestures, you slip around to attack the orcs from behind."
   },
   {
     "Id": "C_FORAGEFORSUPPLIES_TITLE",
@@ -12351,15 +12351,15 @@
   },
   {
     "Id": "C_FORAGEFORSUPPLIES_TEXT",
-    "Text": "Restore 2 <size=120%><sprite=2></size> to every Character; \nthen reduce every Character to 1 <sprite=5> this round"
+    "Text": "<line-height=100%>Restore 2 <size=120%><sprite=2></size> to every Character; \nthen reduce every Character to 1 <size=120%><sprite=5></size> this round"
   },
   {
     "Id": "C_FORAGEFORSUPPLIES_FLAVOR",
-    "Text": "placeholder"
+    "Text": "<line-height=100%><size=200%>T</size>ravel over uneven ground through the ceaseless gloom of Mirkwood can wear upon even the hardiest of souls. You pause at last for much-needed nourishment after countless hours spent tramping through the forest. Employing clever woodcraft, you have gathered sustenance along the way. Though perhaps meager individually, the handfuls of berries, tubers, and small game form a veritable feast."
   },
   {
     "Id": "C_CUTTINGTHEWEBS_TITLE",
-    "Text": "Cutting the Webs"
+    "Text": "Cut the Webs"
   },
   {
     "Id": "C_CUTTINGTHEWEBS_TEXT",
@@ -12367,7 +12367,7 @@
   },
   {
     "Id": "C_CUTTINGTHEWEBS_FLAVOR",
-    "Text": "<i><line-height=100%><size=200%>C</size>utting free of the sticky webbing, you ready for action!</i>"
+    "Text": "<line-height=100%><size=200%>T</size>hough half-covered in webbing, you are able to scramble away from the spiders eager to wrap you up. Snarled in webs as you are, your efforts gain you but a moment's respite. Still, you are not as helpless as the creatures would hope—especially since they didn't think to disarm you. Drawing your blade, you slash at the sticky silken strands, then stand ready for action!"
   },
   {
     "Id": "C_MAKEASTAND_TITLE",
@@ -12379,7 +12379,7 @@
   },
   {
     "Id": "C_MAKEASTAND_FLAVOR",
-    "Text": "<i><line-height=100%><size=200%>W</size>ith strength of will to match the steel of your weapons, you stand fast against your foes."
+    "Text": "<line-height=100%><indent=50>Y</indent>our foes throw themselves at you in a never-ending assault. How can even a tower of this size can contain so many orcs?! Still, you haven't come so far to fail now. With strength of will to match the steel of your weapons, you stand fast against your enemies."
   },
   {
     "Id": "C_DISTRACTTHETROLL_TITLE",
@@ -12391,7 +12391,7 @@
   },
   {
     "Id": "C_DISTRACTTHETROLL_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>T</size>he troll crouches in the shade of the rocky outcrop in which it evidently makes its lair—and which blocks the approach to the raft you hope to take. \r\n<indent=50></indent>\"Careful,\" you call out as if to someone on the other side of the rocks. \"Keep the sheep quiet, so that this troll does not come and take them for his dinner!\"\r\n<indent=50></indent>It's an obvious ruse, but then trolls are not known for their intellect."
   },
   {
     "Id": "C_SAVEDBYTHEBEORNINGS_TITLE",
@@ -12419,7 +12419,7 @@
   },
   {
     "Id": "C_CRIPPLINGBLOW_TITLE",
-    "Text": "Crippling Blow"
+    "Text": "Crippling Strike"
   },
   {
     "Id": "C_CRIPPLINGBLOW_TEXT",
@@ -12427,7 +12427,7 @@
   },
   {
     "Id": "C_CRIPPLINGBLOW_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>Y</size>ou find it galling indeed that you cannot shake your pursuers. Though you have used every skill at your disposal, still they hound you! OvercomezaA with frustration, you unleash pent up anger in a brutal attack which leaves your opponent barely grasping to life."
   },
   {
     "Id": "C_BENEFICIALCURRENT_TITLE",
@@ -12439,7 +12439,7 @@
   },
   {
     "Id": "C_BENEFICIALCURRENT_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>Y</size>ou soon realize that brute force is ineffective in directing your course along the river. The Anduin is too powerful to be cowed by any mortal efforts. Changing tactics, you take a moment to watch how the water flows, then guide your raft in response. The change is immediate, as the craft settles smoothly into a current that carries you swiftly toward your destination."
   },
   {
     "Id": "C_REFRESHINGWATERS_TITLE",
@@ -12451,7 +12451,7 @@
   },
   {
     "Id": "C_REFRESHINGWATERS_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>T</size>he Great River of Wilderland is a most welcome sight indeed, after countless hours spent slogging through the dank gloom of Mirkwood. Even with orcs in pursuit, eager to recapture Bilbo, you decide a short rest is called for. \r\n<indent=50></indent>The waters of the Anduin offer much-needed refreshment to your party. Even but a few minutes spent slaking your thirst gives you the energy to rally for the last leg of your journey."
   },
   {
     "Id": "C_BOLDRESOLVE_TITLE",
@@ -12463,7 +12463,7 @@
   },
   {
     "Id": "C_BOLDRESOLVE_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>Y</size>ou had no idea what to expect when you first pledged to rescue Bilbo, but the tribulations you've encountered thus far were quite unexpected. Even so, you've overcome each—including dispatching the horrific Ungoliant's spawn—and are closing the distance to the captive hobbit.\r\n<indent=50>You look around the party. Though no words are said, it is clear that you remain united in your resolve. Weariness falls away, and you continue down the trail with renewed purpose."
   },
   {
     "Id": "C_SECOND WIND_TITLE",
@@ -12487,7 +12487,7 @@
   },
   {
     "Id": "C_AIDFROMTHEBEORNINGS_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>Y</size>ou took only necessary gear when you began this quest—it's best to travel light when haste is called for. Still, when the Beornings offered to gather some supplies, you accepted gratefully despite the urgency you felt. The Skin-changers are well familiar with Mirkwood, after all. Opening the package now, you see that they chose just the right things to help your quest."
   },
   {
     "Id": "C_STAGGERINGBLOW_TITLE",
@@ -12499,7 +12499,7 @@
   },
   {
     "Id": "C_STAGGERINGBLOW_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>T</size>he clang of metal and grunts of exertion and pain reverberate through the hall as the battle surges around you. Maneuvering carefully across flagstones slick with mildew and blood, you give ground as you search for an opening in your opponent's guard. Just then, your foe slips—only for a moment, but it's all you need to unleash a heavy strike that staggers them back."
   },
   {
     "Id": "C_WEBSEVERYWHERE_TITLE",
@@ -12511,7 +12511,7 @@
   },
   {
     "Id": "C_WEBSEVERYWHERE_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>H</size>aving developed a healthy caution of your martial prowess, the spiders change tactics. Leaping about on their spindly yet powerful legs, they spray sticky webbing everywhere in an attempt to slow you down enough to come in for the kill."
   },
   {
     "Id": "C_VENOMOUSFANGS_TITLE",
@@ -12543,11 +12543,11 @@
   },
   {
     "Id": "C_AGENTOFSAURONTHREAT_TEXT",
-    "Text": "<line-height=50%><i>An agent of Sauron lunges from the shadows in a deadly assault!</i>\n</line-height>\nPlay <i>Agent of Sauron</i>"
+    "Text": "Add 1 Agent of Sauron"
   },
   {
     "Id": "C_AGENTOFSAURONTHREAT_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>T</size>he tower has proven home to all manner of foul villains, but you have bested each in your quest to save Bilbo. Yet all that has come before hasn't prepared you for the figure who emerges from the shadows now. \r\n<indent=50></indent>A cold smile flickers beneath the stranger's hood as he steps toward you. He moves with liquid grace, his advance almost hypnotic—and a fatal distraction, you realize almost too late, as his sword slashes at you in a deadly arc!"
   },
   {
     "Id": "C_AFOULRAIN_TITLE",
@@ -12559,7 +12559,7 @@
   },
   {
     "Id": "C_AFOULRAIN_FLAVOR",
-    "Text": "<i><line-height=100%><size=200%>A</size> thick shower of arrows falls upon you in a deadly rain!</i>"
+    "Text": "<line-height=100%><size=200%>S</size>kittering legs and hoarse shouts give ample evidence of spiders and orcs all around, but the maze of webbed passages makes it impossible to pinpoint from where your enemies will strike. You push toward an opening ahead—but in your haste you miss the figures crouched in the tree above. Too late, you see goblin archers unleash a deadly volley into your party!"
   },
   {
     "Id": "C_BOLTSFROMTHEDARK_TITLE",
@@ -12567,11 +12567,11 @@
   },
   {
     "Id": "C_BOLTSFROMTHEDARK_TEXT",
-    "Text": "<line-height=50%><i>A flurry of arrows strikes your party!</i>\n</line-height>\nDeal 1 damage to every Character"
+    "Text": "Deal 1 damage to every Character"
   },
   {
     "Id": "C_BOLTSFROMTHEDARK_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>A</size> rustle in the undergrowth suggests the presence of foes somewhere in the darkness. You pounce at the sound, but discover nothing but scattered leaves and stones. Then comes the thrum of bowstrings, and you realize it was a ruse to draw you out just as a flurry of arrows strikes your party!"
   },
   {
     "Id": "C_WASHEDAWAY_TITLE",
@@ -12583,7 +12583,7 @@
   },
   {
     "Id": "C_WASHEDAWAY_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>T</size>he mighty river tosses your raft like a leaf on the breeze. You cling to the rough planks, watching helplessly as a wave smashes down and sends your supplies tumbling into the frothing water."
   },
   {
     "Id": "C_FORCEDOFFCOURSE_TITLE",
@@ -12595,7 +12595,7 @@
   },
   {
     "Id": "C_FORCEDOFFCOURSE_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>F</size>ocused as you were upon fleeing the persistent orcs, you realize too late that the poles you found with the raft are ill-suited as paddles. Evidently, whomever made the craft only used it to travel close to shore. Alas, having already forged recklessly into the deeper portions of the Anduin, you find yourself at the mercy of the current."
   },
   {
     "Id": "C_UNSTABLECURRENTS_TITLE",
@@ -12607,7 +12607,7 @@
   },
   {
     "Id": "C_UNSTABLECURRENTS_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>T</size>hough appearing gentle from the shore, the waters along this stretch of the river move with surprising speed. You must focus intently to navigate your raft safely through the treacherous currents."
   },
   {
     "Id": "C_THESCENTOFMANFLESH_TITLE",
@@ -12627,11 +12627,11 @@
   },
   {
     "Id": "C_AFOULWIND_TEXT",
-    "Text": "Every Enemy gains +2 <sprite=2>"
+    "Text": "Every Enemy gains +2 <size=120%><sprite=2></size>"
   },
   {
     "Id": "C_AFOULWIND_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>Y</size>ou're confident that one last assault should dispatch your foes. The way should then be clear to the wagons and the captive Bilbo. Just then, a cold breeze passes through the glade. It carries the stench of carrion and the promise of death and loss. \r\n<size=200%></size>The fear in your enemies' eyes changes to fury. With teeth bared in grins as foul as the wind, they rally to attack!"
   },
   {
     "Id": "C_RAINOFBOULDERS_TITLE",
@@ -12683,7 +12683,7 @@
   },
   {
     "Id": "C_RANGERSPROVISIONS_TEXT",
-    "Text": "Gain +1 Resources"
+    "Text": "Gain +1 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_RANGERSPROVISIONS_FLAVOR",
@@ -12707,11 +12707,11 @@
   },
   {
     "Id": "C_SECONDWIND_TEXT",
-    "Text": "Restore a Hero to their full <sprite=2> value"
+    "Text": "Restore a Hero to full <size=120%><sprite=2></size>"
   },
   {
     "Id": "C_SECONDWIND_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>T</size>hough deep in the lair of the enemy, you continue to defy the odds—you survive despite the many dangers you've faced thus far. Pausing but a moment to catch your breath, you forge onward with renewed vigor."
   },
   {
     "Id": "Q_QUEST_TEMP-1QUEST01_NAME",
@@ -12747,11 +12747,11 @@
   },
   {
     "Id": "C_ISOLATEDANDALONE_TEXT",
-    "Text": "<b>Upkeep</b>: Draw no cards this round"
+    "Text": "Draw no cards at <b>Upkeep</b> this round"
   },
   {
     "Id": "C_ISOLATEDANDALONE_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>Y</size>our journey through Mirkwood has been fraught with peril, but at least you could rely on your companions for support both moral and martial. Alas, the spiders have sundered this fellowship, leaving you isolated in the dark woods."
   },
   {
     "Id": "C_AA20WPALLY_TITLE",
@@ -13459,7 +13459,7 @@
   },
   {
     "Id": "C_WILLOFSTEEL_TEXT",
-    "Text": "<line-height=100%>Apply a Hero's <size=120%><sprite=0></size> value as progress to an Objective"
+    "Text": "<line-height=100%>Apply a Hero's <size=120%><sprite=0></size> as progress \nto an Objective"
   },
   {
     "Id": "C_WILLOFSTEEL_FLAVOR",
@@ -13543,7 +13543,7 @@
   },
   {
     "Id": "C_GOBLINWARLORD_TEXT",
-    "Text": "<b>Revenge</b>: Defeat an Ally"
+    "Text": "<b>Revenge</b>: Defeat a \nnon-unique Ally"
   },
   {
     "Id": "C_GOBLINWARLORD_FLAVOR",
@@ -13563,7 +13563,7 @@
   },
   {
     "Id": "C_STRAGGLINGGOBLIN_TITLE",
-    "Text": "Straggling Goblin"
+    "Text": "Goblin Straggler"
   },
   {
     "Id": "C_STRAGGLINGGOBLIN_TEXT",
@@ -13615,7 +13615,7 @@
   },
   {
     "Id": "C_TOWERPATROL_TEXT",
-    "Text": "<line-height=100%><b>Revenge</b>: Gain +1 <size=120%><sprite=4></size>; \nthen add 1 Ranging Goblin and \n1 East Bight Patrol"
+    "Text": "<line-height=100%><b>Revenge</b>: Gain +1 <size=120%><sprite=4></size>; \nthen add 1 East Bight Patrol \nand 1 Ranging Goblin"
   },
   {
     "Id": "C_TOWERPATROL_FLAVOR",
@@ -13663,7 +13663,7 @@
   },
   {
     "Id": "C_UNEVENGROUND_TEXT",
-    "Text": "<b>Upkeep</b>: Exhaust a random Ally"
+    "Text": "<b>Upkeep</b>: Until resolved, exhaust a random Ally"
   },
   {
     "Id": "C_UNEVENGROUND_FLAVOR",
@@ -13795,7 +13795,7 @@
   },
   {
     "Id": "C_FINDYOURWAY_TEXT",
-    "Text": "Cannot engage.\r\nExplore for a number of rounds equal to the Quest value. \r\nResolve to allow travel"
+    "Text": "Cannot engage.\r\nEnd of round: Apply 1 progress. \r\nResolve to allow travel"
   },
   {
     "Id": "C_FINDYOURWAY_FLAVOR",
@@ -13807,7 +13807,7 @@
   },
   {
     "Id": "C_WARDENSOFLORIEN_TEXT",
-    "Text": "Cannot engage.\r\nResolve to gain Haldir and his group of wardens"
+    "Text": "Cannot engage.\r\nResolve for Haldir and his wardens to arrive. End of round: Apply 1 progress"
   },
   {
     "Id": "C_WARDENSOFLORIEN_FLAVOR",
@@ -13867,7 +13867,7 @@
   },
   {
     "Id": "C_FREEBILBO_TEXT",
-    "Text": "Cannot be engaged while there are enemies in play.\nResolve to release Bilbo \nand begin your escape!"
+    "Text": "Cannot engage while \nan Enemy is in play. \r\nResolve to release Bilbo \nand allow travel"
   },
   {
     "Id": "C_FREEBILBO_FLAVOR",
@@ -14167,7 +14167,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q1L2_NAME",
-    "Text": "Crossing the Stream"
+    "Text": "A Mysterious Stream"
   },
   {
     "Id": "Q_STAGE_C001Q1L2_TEXT",
@@ -14483,7 +14483,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q5L4_NAME",
-    "Text": "The Borders of the Golden Wood"
+    "Text": "Surrounded"
   },
   {
     "Id": "Q_STAGE_C001Q5L4_TEXT",
@@ -14491,7 +14491,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q5L4_OBJECTIVE",
-    "Text": "Defeat all enemies or survive until Wardens of Lorien triggers. <color=red>Bilbo must survive</color>"
+    "Text": "Defeat all enemies to complete your quest. <color=red>Bilbo must survive</color>"
   },
   {
     "Id": "C_BATTLINGSPIDERS_TITLE",
@@ -14679,11 +14679,11 @@
   },
   {
     "Id": "C_FATETHRASHINGCOCOON_TEXT",
-    "Text": "You carefully open the violently thrashing cocoon to release what is inside"
+    "Text": "Tear open the cocoon and reveal what is trapped inside"
   },
   {
     "Id": "C_FATETHRASHINGCOCOON_FLAVOR",
-    "Text": "One of the cocoons is moving violently, inside you can hear growls, and words you can't make out. Whoever is inside there is extremely displeased."
+    "Text": "<line-height=100%><size=200%>T</size>he spiders squeal in fearful rage as you drive them away from the cocoon. You hear growled speech from within the webs, but cannot make out the words. Even so, it's clear that whomever is inside is very displeased."
   },
   {
     "Id": "C_THRASHINGCOCOON_TITLE",
@@ -14691,11 +14691,11 @@
   },
   {
     "Id": "C_THRASHINGCOCOON_TEXT",
-    "Text": "Deal 1 damage every time \na Character applies progress \nto this Quest.\nResolve to open the Cocoon"
+    "Text": "Deal 1 damage every time\na Character applies progress to this Objective. Resolve to open the Cocoon"
   },
   {
     "Id": "C_THRASHINGCOCOON_FLAVOR",
-    "Text": ""
+    "Text": "There was a muffled yelp inside, and a toe shot up and kicked the spider straight and hard. \r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_BEORNINGROAMERNARRATION_TITLE",
@@ -14723,27 +14723,27 @@
   },
   {
     "Id": "C_FINDAWAYACROSS_TITLE",
-    "Text": "Find A Way Across"
+    "Text": "Find a Way Across"
   },
   {
     "Id": "C_FINDAWAYACROSS_TEXT",
-    "Text": "Find a boat to cross the foul stream safely"
+    "Text": "Resolve to advance to the next Objective"
   },
   {
     "Id": "C_FINDAWAYACROSS_FLAVOR",
-    "Text": ""
+    "Text": "…they only thought of how to cross it without wetting themselves in its water. \r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_FRESHLYWOVENCOCOON_TITLE",
-    "Text": "Freshly Woven Cocoon"
+    "Text": "Freshly-woven Cocoon"
   },
   {
     "Id": "C_FRESHLYWOVENCOCOON_TEXT",
-    "Text": "Tear the cocoon open to release your trapped Hero"
+    "Text": "Resolve to release the \ntrapped Hero"
   },
   {
     "Id": "C_FRESHLYWOVENCOCOON_FLAVOR",
-    "Text": ""
+    "Text": "“Aye, they’ll make fine eating, when they’ve hung a bit…”\r\n—a Spider, <i>The Hobbit</i>"
   },
   {
     "Id": "C_CUTTINGTHROUGHTHEWEB_TITLE",
@@ -14755,7 +14755,7 @@
   },
   {
     "Id": "C_CUTTINGTHROUGHTHEWEB_FLAVOR",
-    "Text": ""
+    "Text": "…the other dwarves were working at the rest of the captives, and cutting at the threads with their knives. . Soon all would be free, though it was not clear what would happen after that.\r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_PURSUADINGGOLLUM_TITLE",
@@ -14763,11 +14763,11 @@
   },
   {
     "Id": "C_PURSUADINGGOLLUM_TEXT",
-    "Text": "When resolved, convince Gollum that he should help you on your quest, allowing travel"
+    "Text": "Resolve to allow travel"
   },
   {
     "Id": "C_PURSUADINGGOLLUM_FLAVOR",
-    "Text": ""
+    "Text": "\"You will have to come with us, that’s all, while we keep an eye on you. But you must help us, if you can. One good turn deserves another.\"\r\n—Frodo, <i>The Two Towers</i>"
   },
   {
     "Id": "C_GOLLUMCONVINCEDNARRATION_TITLE",
@@ -14787,11 +14787,11 @@
   },
   {
     "Id": "C_RESCUEGOLLUM_TEXT",
-    "Text": "When resolved, rescue Gollum from the Orcs"
+    "Text": "Resolve to rescue Gollum \nfrom the <b><i>Orc</b></i> captors"
   },
   {
     "Id": "C_RESCUEGOLLUM_FLAVOR",
-    "Text": ""
+    "Text": "\"…little thin black fellow; like a spider himself, or perhaps more like a starved frog.\"\r\n—Shagrat, <i>The Two Towers</i>"
   },
   {
     "Id": "C_GOLLUMHIDENARRATION_TITLE",
@@ -14823,11 +14823,11 @@
   },
   {
     "Id": "C_PICKPOCKETTHEKEY_TEXT",
-    "Text": "Resolve to allow travel and gain the Key"
+    "Text": "Resolve to gain the Key and allow travel"
   },
   {
     "Id": "C_PICKPOCKETTHEKEY_FLAVOR",
-    "Text": ""
+    "Text": "Then in crept the hobbit. Very soon the chief guard had no keys…\r\n—<i>The Hobbit</i>"
   },
   {
     "Id": "C_TOWERKEY_TITLE",
@@ -14835,11 +14835,11 @@
   },
   {
     "Id": "C_TOWERKEY_TEXT",
-    "Text": "Instantly resolve one Hazard in play"
+    "Text": "Resolve a Hazard"
   },
   {
     "Id": "C_TOWERKEY_FLAVOR",
-    "Text": ""
+    "Text": "The great bunch seemed very heavy to his arms, and his heart was often in his mouth… for he could not prevent the keys from making every now and then a loud clink and clank, which put him all in a tremble.\r\n—<i>The Hobbit</i>\r"
   },
   {
     "Id": "C_STRANGEMECHANISM_TITLE",
@@ -14847,11 +14847,11 @@
   },
   {
     "Id": "C_STRANGEMECHANISM_TEXT",
-    "Text": "Cannot engage.\nApply 1 progress for each Hazard resolved"
+    "Text": "Cannot engage.\nApply 1 progress each time you resolve a Hazard"
   },
   {
     "Id": "C_STRANGEMECHANISM_FLAVOR",
-    "Text": ""
+    "Text": "\"Our Enemy’s devices oft serve us in his despite.\"\r\n—Éomer, <i>The Return of the King</i>"
   },
   {
     "Id": "C_INTRUDERSINTHETOWER_TITLE",
@@ -14859,11 +14859,11 @@
   },
   {
     "Id": "C_INTRUDERSINTHETOWER_TEXT",
-    "Text": "Cannot engage. \n<b>End of Round</b>: Play 2 random Orcs, then Apply 1 Progress to Objective"
+    "Text": "Cannot engage. \r\nEnd of round: Add 2 random \n<b><i>Orc</i></b> cards; then apply 1 progress"
   },
   {
     "Id": "C_INTRUDERSINTHETOWER_FLAVOR",
-    "Text": ""
+    "Text": "…the orc was in its own haunts, nimble and well-fed. Sam was a stranger, hungry and weary. \r\n—<i>The Return of the King</i>"
   },
   {
     "Id": "C_DISLODGETHERAFT_TITLE",
@@ -14927,7 +14927,7 @@
   },
   {
     "Id": "C_BYDAYORDARK_TITLE",
-    "Text": "By Day or Dark"
+    "Text": "By Day and Dark"
   },
   {
     "Id": "C_BYDAYORDARK_TEXT",
@@ -14935,7 +14935,7 @@
   },
   {
     "Id": "C_BYDAYORDARK_FLAVOR",
-    "Text": ""
+    "Text": "\"We will press on by day and dark!\"\r\n—Aragorn, <i>The Two Towers</i>"
   },
   {
     "Id": "C_HALDIRALLY_TITLE",
@@ -14943,7 +14943,7 @@
   },
   {
     "Id": "C_HALDIRALLY_TEXT",
-    "Text": "<b>Arrival</b>: Reduce all <b><i>Orc</i></b> attack values by 1 then reduces the cost of all <b><i>Silvan</b></i> cards in hand to 0 <size=120%><sprite=3></size>"
+    "Text": "<line-height=100%><b>Arrival</b>: Every <b><i>Orc</i></b> loses 1 <size=120%><sprite=0></size>; then reduce all <b><i>Silvan</b></i> cards \nin hand to 0 <size=120%><sprite=3></size>"
   },
   {
     "Id": "C_HALDIRALLY_FLAVOR",
@@ -14959,7 +14959,7 @@
   },
   {
     "Id": "C_HIDEINTHESHADOWS_FLAVOR",
-    "Text": ""
+    "Text": "Just in time he threw himself down in a patch of long grass behind a tree that overshadowed the road.\r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_FOULBOG_TITLE",
@@ -14967,11 +14967,11 @@
   },
   {
     "Id": "C_FOULBOG_TEXT",
-    "Text": "<b>End of Round</b>: Discard 2 cards from your hand"
+    "Text": "End of round: Discard 2 cards from each player's hand"
   },
   {
     "Id": "C_FOULBOG_FLAVOR",
-    "Text": ""
+    "Text": "\"…if we did get down, we’d find all that green land a nasty bog, I’ll warrant. Phew! Can you smell it?\"\r\n—Sam Gamgee, <i>The Two Towers</i>"
   },
   {
     "Id": "C_WANDERINGPATROL_TITLE",
@@ -14979,7 +14979,7 @@
   },
   {
     "Id": "C_WANDERINGPATROL_TEXT",
-    "Text": "When resolved, lose 2 <size=120%><sprite=4></size>\n<b>End of Round</b>: A Tower Patrol enters play"
+    "Text": "<line-height=100%>End of round: Until resolved, \nadd 1 Tower Patrol.\nWhen resolved, lose 2 <size=120%><sprite=4></size>"
   },
   {
     "Id": "C_WANDERINGPATROL_FLAVOR",
@@ -14991,11 +14991,11 @@
   },
   {
     "Id": "C_DETERIORATINGGATE_TEXT",
-    "Text": "If resolved, spawn Chieftain Ufthak.\n<b>End of Round</b>: Play a random <b><i>Orc</i></b></size> and apply 1 progress"
+    "Text": "When resolved, spawn \nChieftain Ufthak.\r\nEnd of round: Add 1 random \n<b><i>Orc</i></b></size> card and apply 1 progress"
   },
   {
     "Id": "C_DETERIORATINGGATE_FLAVOR",
-    "Text": ""
+    "Text": "“We did not come too soon,” said Aragorn, looking at the gates. Their great hinges and iron bars were wrenched and bent; many of their timbers were cracked.\r\n—<i>The Two Towers</i>"
   },
   {
     "Id": "Q_STAGE_C900Q1L1_TEXT_0",
@@ -15527,11 +15527,11 @@
   },
   {
     "Id": "C_RAPIDRESPONSE_TEXT",
-    "Text": "Play 2 Forest Defender"
+    "Text": "Play 2 Forest Protectors"
   },
   {
     "Id": "C_RAPIDRESPONSE_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>Y</size>ou have reached the shores of Lórien, but safety is far from assured. Orcs have hounded you since you fled the tower and show no signs of letting up.\r\n<indent=50></indent>Just then, a pair of elves appear from the surrounding woods. Having been aware of your presence since you first stepped foot into the Golden Wood, the protectors are well-prepared to deal with your pursuers."
   },
   {
     "Id": "C_DENYTHECROSSING_TITLE",
@@ -15539,11 +15539,11 @@
   },
   {
     "Id": "C_DENYTHECROSSING_TEXT",
-    "Text": "<b>End of Round</b>: Play a random <b><i>Orc</i></b>"
+    "Text": "End of round: Add 1 \nrandom <b><i>Orc</b></i> card"
   },
   {
     "Id": "C_DENYTHECROSSING_FLAVOR",
-    "Text": ""
+    "Text": "They hurried up the path to the top of the bank, but when they looked back the far shore was shrouded in mist, and nothing could be seen.\r\n<indent=50></indent>“Thank goodness you don’t keep any boats on the west-bank!” \r\n—Frodo, <i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_UNSTEADYFOOTING_TITLE",
@@ -15551,11 +15551,11 @@
   },
   {
     "Id": "C_UNSTEADYFOOTING_TEXT",
-    "Text": "A random Ally will be exhausted for 2 rounds."
+    "Text": "Exhaust a random Ally through the end of next round"
   },
   {
     "Id": "C_UNSTEADYFOOTING_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>O</size>ne of your companions falls into the river. Although you manage to fish them out before they're swept away, they spend the next few minutes retching up brackish fluid swallowed while thrashing about in the befouled waters"
   },
   {
     "Id": "C_RECOVERYOURFRIEND_TITLE",
@@ -15563,11 +15563,11 @@
   },
   {
     "Id": "C_RECOVERYOURFRIEND_TEXT",
-    "Text": "Activate to restore your third hero to play"
+    "Text": "Release the captured Hero"
   },
   {
     "Id": "C_RECOVERYOURFRIEND_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>Y</size>ou have pledged to rescue Bilbo, but you cannot leave your companion behind. After a ceaseless search amid a packed cluster of cocoons, you recognize their muffled cries. With a few deft strokes of your blade, you cut away the sticking webbing to reveal your captured friend within."
   },
   {
     "Id": "C_WHATSTHATNOISE_TITLE",
@@ -15575,11 +15575,11 @@
   },
   {
     "Id": "C_WHATSTHATNOISE_TEXT",
-    "Text": "Play 2 random <b><i>Orcs</i></b>"
+    "Text": "Add 2 random <b><i>Orc</i></b> cards"
   },
   {
     "Id": "C_WHATSTHATNOISE_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>T</size>hough you try to dispatch your foes quickly, the sounds of battle draw unwelcome attention. Even more orcs have tromped their way back along the caravan trail, curious what all the fuss is about. After a surprised shout upon catching sight of you, they charge into the fray with weapons raised!"
   },
   {
     "Id": "C_OPENTHEPANTRY_TITLE",
@@ -15587,11 +15587,11 @@
   },
   {
     "Id": "C_OPENTHEPANTRY_TEXT",
-    "Text": "Reach inside the giant pantry to hopefully find something useful"
+    "Text": "Resolve to see if you find something useful within the spiders' pantry"
   },
   {
     "Id": "C_OPENTHEPANTRY_FLAVOR",
-    "Text": ""
+    "Text": "\"…the meat’s alive and kicking!”\r\n—a Spider, <i>The Hobbit</i>"
   },
   {
     "Id": "C_OVERCOMEDARKNESS_TITLE",
@@ -15599,11 +15599,11 @@
   },
   {
     "Id": "C_OVERCOMEDARKNESS_TEXT",
-    "Text": "Exhaust Ungoliant's Spawn for the rest of the round."
+    "Text": "Exhaust Ungoliant's Spawn this round"
   },
   {
     "Id": "C_OVERCOMEDARKNESS_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>Y</size>ou take heart in the courage of your companions and act as one to defy the gargantuan spider. Dispersing in a semicircle around her, your party unleashes a cacophony of shouts and clashing blades. Your antics harry the grotesque Lady to distraction, giving you an opening to strike!"
   },
   {
     "Id": "C_HURRYUP_TITLE",
@@ -15611,11 +15611,11 @@
   },
   {
     "Id": "C_HURRYUP_TEXT",
-    "Text": "Apply 1 Progress to Find Your Way"
+    "Text": "Apply 1 progress to Find Your Way"
   },
   {
     "Id": "C_HURRYUP_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>I</size>t's impossible to tell if Gollum is searching for a trail or simply foraging for \"tassty grubsses.\" Reaching the limits of patience, you pull him away from digging through a rotted log and impress upon him the urgency of your mission. The creature quails an apology, then scampers off to find evidence of the caravan's passage."
   },
   {
     "Id": "C_TORCHESFROMTHETOWER_TITLE",
@@ -15623,11 +15623,11 @@
   },
   {
     "Id": "C_TORCHESFROMTHETOWER_TEXT",
-    "Text": "Add 1 Mirkwood Patrol.\n<b>End of Round</b>: +1 <size=120%><sprite=4></size>. \nThis effect persists until you travel"
+    "Text": "Add 1 Mirkwood Patrol.\nEnd of round: Gain +1 <size=120%><sprite=4></size> every round until you travel"
   },
   {
     "Id": "C_TORCHESFROMTHETOWER_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>Y</size>our attack on the caravan had unintended consequences. Lights bloom in the nearby tower, followed by the echo of metal-shod feet upon stone as yet more orcs rouse themselves to investigate."
   },
   {
     "Id": "C_STUCKINTHEMUD_TITLE",
@@ -15635,11 +15635,11 @@
   },
   {
     "Id": "C_STUCKINTHEMUD_TEXT",
-    "Text": "Lose 2 cards from your hand"
+    "Text": "Discard 2 cards from each player's hand"
   },
   {
     "Id": "C_STUCKINTHEMUD_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>T</size>he tower looms before you, tantalizingly close, but navigating the marsh proves more treacherous than expected. Thick mud sucks at your feet with every step, slowing progress to a crawl."
   },
   {
     "Id": "Q_STAGE_C900Q2L1_TEXT_0",
@@ -16007,11 +16007,11 @@
   },
   {
     "Id": "C_GNOG_TEXT",
-    "Text": "When another <b><i>Orc</i></b> dies,\n gain +1 <size=120%><sprite=0></size>"
+    "Text": "Gain +1 <size=120%><sprite=0></size> every time \nanother <b><i>Orc</i></b> is defeated"
   },
   {
     "Id": "C_GNOG_FLAVOR",
-    "Text": ""
+    "Text": "There was a rush of hoarse laughter, like the fall of sliding stones into a pit; amid the clamour a deep voice was raised in command.\r\n—<i>The Fellowship of the Ring</i>"
   },
   {
     "Id": "C_BEYONDWEARY_TITLE",
@@ -16019,11 +16019,11 @@
   },
   {
     "Id": "C_BEYONDWEARY_TEXT",
-    "Text": "Exhaust a random Hero through the end of the next round"
+    "Text": "Exhaust a random Hero through the end of next round"
   },
   {
     "Id": "C_BEYONDWEARY_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>M</size>irkwood is an implacable foe impossible to defy. It wears down all who would venture within its dark and twisted confines. You and your companions are no different. Though you have all drawn upon the full measure of your abilities, it is not enough. Exhaustion overcomes one of your number—and you fear worse is to come if you do not escape this place soon."
   },
   {
     "Id": "C_EMPTYCAGES_TITLE",
@@ -16031,11 +16031,11 @@
   },
   {
     "Id": "C_EMPTYCAGES_TEXT",
-    "Text": "Play Anduin Troll Spawn"
+    "Text": "Add 1 Anduin Troll Spawn"
   },
   {
     "Id": "C_EMPTYCAGES_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>C</size>oming upon a section of cells, you throw open the doors, eager to release any prisoners. Alas, every cell is empty, but for moldy straw and skittering insect. Even worse, the creak and clangor of the heavy doors has drawn the interest of an unwelcome additional party—a grumbling, ravenous troll spawn!"
   },
   {
     "Id": "C_TUTORIALNARRATIONL1_TITLE",
@@ -16183,11 +16183,11 @@
   },
   {
     "Id": "C_THEORCCOMMANDER_TEXT",
-    "Text": "Play Chieftain Ufthak"
+    "Text": "Add Chieftain Ufthak"
   },
   {
     "Id": "C_THEORCCOMMANDER_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>H</size>eavy footsteps echo down the stairwell, growing louder with each step. A large shadow falls across the flagstones as a mighty orc enters the chamber. Silhouetted by torchlight, Chieftain Ufthak snarls a command to his eager minions. The battle is joined!"
   },
   {
     "Id": "C_ADANGEROUSBUSINESS_TITLE",
@@ -16195,11 +16195,11 @@
   },
   {
     "Id": "C_ADANGEROUSBUSINESS_TEXT",
-    "Text": "Heal all enemies to full health. If there are no enemies, Play 2 Orcs."
+    "Text": "Restore every Enemy to full <size=120%><sprite=2></size>. \nIf none are in play, add 2 random <b><i>Orc</i></b> cards"
   },
   {
     "Id": "C_ADANGEROUSBUSINESS_FLAVOR",
-    "Text": ""
+    "Text": "<line-height=100%><size=200%>T</size>he orcs were not expecting an assault on the tower. You use your surprise to full advantage, hammering away at your foes. Then it's your turn to be surprised—you expected your furious attack to drop all who stood before you, yet still they stand.\r\n<size=200%></size>One orc begins to chortle, followed by the rest. He barks something in their vile tongue. You don't understand the words, but the message is clear: you did your worst; now it's their turn."
   },
   {
     "Id": "Q_STAGE_C902Q1L1_CHOICE_DESCRIPTION",
@@ -16384,5 +16384,161 @@
   {
     "Id": "Q_STAGE_C901Q1L9U_TEXT_0",
     "Text": "DefaultStory1"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L1_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L2_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L3_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L4_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L1_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L2_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L3_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L4_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L1_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2A_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2B_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3A_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3B_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L4_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L5_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L1_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L2_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L3_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L1_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L2_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3B_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L4_TEXT_0",
+    "Text": "<i><size=58>Y</size>ou dislodge the raft from the shallows and press on, hounded on the right side of the river now by the Orcs. It is only a short distance to Lorien, but there is no way you can make it there without a battle. Steeling yourselves, you beach the raft and charge towards the forest.</i>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L4_CHOICE_TEXT",
+    "Text": null
+  },
+  {
+    "Id": "C_TCFATETEST_TITLE",
+    "Text": "Testing Fate Spawn"
+  },
+  {
+    "Id": "C_TCFATETEST_TEXT",
+    "Text": "Play Shaft of Sunlight and say things!"
+  },
+  {
+    "Id": "C_TCFATETEST_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_TCNARRATIONSPAWNER_TITLE",
+    "Text": "Narration Spawner"
+  },
+  {
+    "Id": "C_TCNARRATIONSPAWNER_TEXT",
+    "Text": "Spawn some of the narration"
+  },
+  {
+    "Id": "C_TCNARRATIONSPAWNER_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_HUGEMARSHWORM_TITLE",
+    "Text": "Huge Worm"
+  },
+  {
+    "Id": "C_HUGEMARSHWORM_TEXT",
+    "Text": "Deal 1 damage when attacked. Gain +1 <size=120%><sprite=4></size> when\n<i>Giant Worm</i> attacks"
+  },
+  {
+    "Id": "C_HUGEMARSHWORM_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_SWAMPADDER_TITLE",
+    "Text": "Swamp Adder"
+  },
+  {
+    "Id": "C_SWAMPADDER_TEXT",
+    "Text": "<b>Block</b>. <b>Stalwart</b>"
+  },
+  {
+    "Id": "C_SWAMPADDER_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "C_C001Q3L4STEALTHNARRATIVE_TITLE",
+    "Text": "Stealth For Everyone"
+  },
+  {
+    "Id": "C_C001Q3L4STEALTHNARRATIVE_TEXT",
+    "Text": "now every character enters stealth"
+  },
+  {
+    "Id": "C_C001Q3L4STEALTHNARRATIVE_FLAVOR",
+    "Text": ""
   }
 ]

@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "They hurried up the path to the top of the bank, but when they looked back the far shore was shrouded in mist, and nothing could be seen.\r\n<indent=50></indent>“Thank goodness you don’t keep any boats on the west-bank!” \r\n—Frodo, <i>The Fellowship of the Ring</i>",
     "CannotTriggerReason": "",
     "ArtistName": "",
     "Status": "WIP",
@@ -40,6 +40,6 @@
   },
   "Localization": {
     "Title": "Deny the Crossing",
-    "Text": "<b>End of Round</b>: Play a random <b><i>Orc</i></b>"
+    "Text": "End of round: Add 1 \nrandom <b><i>Orc</b></i> card"
   }
 }

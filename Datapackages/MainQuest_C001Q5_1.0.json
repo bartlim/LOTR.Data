@@ -342,12 +342,12 @@
         ]
       },
       {
-        "Title": "C001Q5L3B",
+        "Title": "C001Q5L4",
         "SoloGameSetup": [
           "WardensOfLorien",
           "ChieftainUfthak",
-          "EliteDolGuldurOrcs",
-          "EliteDolGuldurOrcs",
+          "VeteranPatrol",
+          "EastBightPatrol",
           "MirkwoodPatrol",
           "OrcMarauder"
         ],
@@ -365,7 +365,7 @@
         "ThreatCardList": [],
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_C001Q5L3B_TEXT_0"
+          "Q_STAGE_C001Q5L4_TEXT_0"
         ]
       }
     ],
@@ -381,7 +381,7 @@
         "Threshold": 6
       },
       {
-        "Id": "CripplingStrike",
+        "Id": "CripplingBlow",
         "Threshold": 9
       }
     ],
@@ -401,9 +401,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180802182340107",
+  "Version": "20180803223558068",
   "Key": "MainQuest",
   "SubKey": "C001Q5",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q5_20180802182340107"
+  "InternalKey": "MainQuest_C001Q5_20180803223558068"
 }

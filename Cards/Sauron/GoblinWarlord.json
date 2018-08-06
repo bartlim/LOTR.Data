@@ -14,12 +14,12 @@
     "Sphere": 5,
     "SphereLevel": 0,
     "Revision": null,
-    "PlayVFX": "",
-    "PlaySFX": "",
-    "AttackVFX": "",
-    "AttackSFX": "",
-    "DeathVFX": "",
-    "DeathSFX": "",
+    "PlayVFX": "Effect_EnemyCardLight",
+    "PlaySFX": "enemy_cardlight_both_e",
+    "AttackVFX": "Effect_Attack_AXE",
+    "AttackSFX": "event_attack_axe_e",
+    "DeathVFX": "Effect_DeathBlack",
+    "DeathSFX": "die_both_e",
     "FlavorText": "\"The Goblins are upon you! Bolg of the North is coming.\"\r\n—Gandalf, <i>The Hobbit</i>",
     "CannotTriggerReason": "",
     "ArtistName": "",
@@ -34,12 +34,12 @@
     "ResolutionValue": 0,
     "CanBePlayedDuringTravel": true,
     "ComboList": [],
-    "ArtworkMD5": null,
+    "ArtworkMD5": "d39173938bf462ab428a1100dd2e1455",
     "BannerMD5": null,
     "IconMD5": null
   },
   "Localization": {
     "Title": "Goblin Warlord",
-    "Text": "<b>Revenge</b>: Defeat an Ally"
+    "Text": "<b>Revenge</b>: Defeat a \nnon-unique Ally"
   }
 }

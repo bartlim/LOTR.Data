@@ -21,6 +21,7 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "…horsemen went wide about westward and came up on the flank of the enemy and from behind, and they were destroyed or driven east into the hills.\r\n—<i>The Return of the King</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "Distraction",
-    "Text": "<line-height=100%>Exhaust an Ally to lose <size=120%><sprite=4></size> equal to that Ally's cost"
+    "Text": "<line-height=100%>Exhaust an Ally to lose <size=120%><sprite=4></size> \nequal to that Ally's cost"
   }
 }

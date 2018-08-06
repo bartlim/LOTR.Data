@@ -4,7 +4,7 @@
     "Owner": "Sauron",
     "CardType": 11,
     "ShopType": "",
-    "Cost": 0,
+    "Cost": 2,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "<line-height=100%><size=200%>O</size>ne of your companions falls into the river. Although you manage to fish them out before they're swept away, they spend the next few minutes retching up brackish fluid swallowed while thrashing about in the befouled waters",
     "CannotTriggerReason": "",
     "ArtistName": "",
     "Status": "WIP",
@@ -40,6 +40,6 @@
   },
   "Localization": {
     "Title": "Unsteady Footing",
-    "Text": "A random Ally will be exhausted for 2 rounds."
+    "Text": "Exhaust a random Ally through the end of next round"
   }
 }

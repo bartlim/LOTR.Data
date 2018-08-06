@@ -21,6 +21,7 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "",
+    "CannotTriggerReason": "",
     "ArtistName": "test ok?",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "Ranger's Provisions",
-    "Text": "Gain +1 Resources"
+    "Text": "Gain +1 <size=120%><sprite=3></size>"
   }
 }

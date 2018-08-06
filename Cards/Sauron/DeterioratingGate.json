@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "FlavorText": "“We did not come too soon,” said Aragorn, looking at the gates. Their great hinges and iron bars were wrenched and bent; many of their timbers were cracked.\r\n—<i>The Two Towers</i>",
     "CannotTriggerReason": "",
     "ArtistName": "",
     "Status": "WIP",
@@ -40,6 +40,6 @@
   },
   "Localization": {
     "Title": "Deteriorating Gate",
-    "Text": "If resolved, spawn Chieftain Ufthak.\n<b>End of Round</b>: Play a random <b><i>Orc</i></b></size> and apply 1 progress"
+    "Text": "When resolved, spawn \nChieftain Ufthak.\r\nEnd of round: Add 1 random \n<b><i>Orc</i></b></size> card and apply 1 progress"
   }
 }
