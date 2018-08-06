@@ -1561,10 +1561,12 @@
             "Sprites/Locations/Quest1_Stage01"
           ],
           "SoloGameSetup": [
-            "LeftRiverFork",
             "Rapids",
-            "RightRiverFork",
-            "GoblinPursuer"
+            "Rapids",
+            "Rocks",
+            "SwirlingEddy",
+            "GoblinSniper",
+            "DolGuldurArcher"
           ],
           "NextStageId": "C001Q5L3",
           "BGM": "mus_cave",
