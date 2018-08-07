@@ -92,8 +92,10 @@
         ],
         "FateCardList": [],
         "ThreatCardList": [],
-        "NarrativeCount": 0,
-        "NarrativeTextList": []
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_C901Q2L1_TEXT_0"
+        ]
       }
     ],
     "Sequences": [],
@@ -102,9 +104,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180803073547709",
+  "Version": "20180807160605894",
   "Key": "MainQuest",
   "SubKey": "C901Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C901Q2_20180803073547709"
+  "InternalKey": "MainQuest_C901Q2_20180807160605894"
 }
