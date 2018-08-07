@@ -184,12 +184,15 @@
       "AIBehavior": "AggressiveAI"
     },
     {
-      "VictoryTextList": [],
+      "VictoryTextList": [
+        "C902Q2_Victory",
+        "DefaultVictory2"
+      ],
       "Id": "C902Q2",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
-      "VictoryVoice": null,
-      "DefeatVoice": null,
+      "VictoryVoice": "Victory",
+      "DefeatVoice": "Defeat",
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
@@ -268,7 +271,7 @@
           "PlayOnce": false
         }
       ],
-      "VictoryCount": 0,
+      "VictoryCount": 2,
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
