@@ -7,6 +7,7 @@
       "MapPosY": -5.0,
       "Quests": [
         {
+          "VictoryTextList": [],
           "Id": "PassageThroughMirkwood",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -342,6 +343,7 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [
             {
               "Id": "RangersCache",
@@ -373,6 +375,7 @@
           "AIBehavior": "AggressiveAI"
         },
         {
+          "VictoryTextList": [],
           "Id": "FliesAndSpiders",
           "IconSprite": "Sprites/Quest/icon_q2",
           "ArtSprite": "Sprites/Quest/quest_2",
@@ -663,6 +666,7 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [
             {
               "Id": "CuttingTheWebs",
@@ -694,6 +698,7 @@
           "AIBehavior": "PassiveAI"
         },
         {
+          "VictoryTextList": [],
           "Id": "LostInMirkwood",
           "IconSprite": "Sprites/Quest/icon_q3",
           "ArtSprite": "Sprites/Quest/quest_3",
@@ -1110,6 +1115,7 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [
             {
               "Id": "MakeAStand",
@@ -1141,6 +1147,7 @@
           "AIBehavior": "AggressiveAI"
         },
         {
+          "VictoryTextList": [],
           "Id": "JourneyDownTheAnduin",
           "IconSprite": "Sprites/Quest/icon_q4",
           "ArtSprite": "Sprites/Quest/quest_4",
@@ -1466,6 +1473,7 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [
             {
               "Id": "RefreshingWaters",
@@ -1497,6 +1505,7 @@
           "AIBehavior": "AggressiveAI"
         },
         {
+          "VictoryTextList": [],
           "Id": "ConflictAtTheCarrock",
           "IconSprite": "Sprites/Quest/icon_q5",
           "ArtSprite": "Sprites/Quest/quest_5",
@@ -1759,6 +1768,7 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [
             {
               "Id": "StaggeringBlow",
@@ -1798,6 +1808,7 @@
       "MapPosY": -7.0,
       "Quests": [
         {
+          "VictoryTextList": [],
           "Id": "C001Q1",
           "IconSprite": "C001Q1QuestIcon",
           "ArtSprite": "C001Q1QuestArt",
@@ -2092,6 +2103,7 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [
             {
               "Id": "UnexpectedAid",
@@ -2123,6 +2135,7 @@
           "AIBehavior": "PassiveAI"
         },
         {
+          "VictoryTextList": [],
           "Id": "C001Q2",
           "IconSprite": "C001Q2QuestIcon",
           "ArtSprite": "C001Q2QuestArt",
@@ -2433,6 +2446,7 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [
             {
               "Id": "CuttingTheWebs",
@@ -2464,6 +2478,7 @@
           "AIBehavior": "PassiveAI"
         },
         {
+          "VictoryTextList": [],
           "Id": "C001Q3",
           "IconSprite": "C001Q3QuestIcon",
           "ArtSprite": "C001Q3QuestArt",
@@ -2925,6 +2940,7 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [
             {
               "Id": "ForageForSupplies",
@@ -2956,6 +2972,7 @@
           "AIBehavior": "AggressiveAI"
         },
         {
+          "VictoryTextList": [],
           "Id": "C001Q4",
           "IconSprite": "C001Q4QuestIcon",
           "ArtSprite": "C001Q4QuestArt",
@@ -3268,6 +3285,7 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [
             {
               "Id": "StaggeringBlow",
@@ -3299,6 +3317,7 @@
           "AIBehavior": "AggressiveAI"
         },
         {
+          "VictoryTextList": [],
           "Id": "C001Q5",
           "IconSprite": "C001Q5QuestIcon",
           "ArtSprite": "C001Q5QuestArt",
@@ -3613,6 +3632,7 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [
             {
               "Id": "RefreshingWaters",
@@ -3652,6 +3672,7 @@
       "MapPosY": -19.0,
       "Quests": [
         {
+          "VictoryTextList": [],
           "Id": "C901Q1",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -4457,11 +4478,13 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
         },
         {
+          "VictoryTextList": [],
           "Id": "C901Q2",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -4536,11 +4559,13 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
         },
         {
+          "VictoryTextList": [],
           "Id": "C901Q3",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -4615,11 +4640,13 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
         },
         {
+          "VictoryTextList": [],
           "Id": "C901Q4",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -4694,11 +4721,13 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
         },
         {
+          "VictoryTextList": [],
           "Id": "C901Q5",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -4773,6 +4802,7 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -4786,6 +4816,10 @@
       "MapPosY": -21.0,
       "Quests": [
         {
+          "VictoryTextList": [
+            "C902Q1_Victory1",
+            "C902Q1_Victory2"
+          ],
           "Id": "C902Q1",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -4955,16 +4989,21 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 2,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
         },
         {
+          "VictoryTextList": [
+            "C902Q2_Victory1",
+            "C902Q2_Victory2"
+          ],
           "Id": "C902Q2",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
-          "VictoryVoice": null,
-          "DefeatVoice": null,
+          "VictoryVoice": "Victory",
+          "DefeatVoice": "Defeat",
           "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
@@ -5043,11 +5082,13 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 2,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
         },
         {
+          "VictoryTextList": [],
           "Id": "C902Q3",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -5131,11 +5172,13 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
         },
         {
+          "VictoryTextList": [],
           "Id": "C902Q4",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -5219,11 +5262,13 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
         },
         {
+          "VictoryTextList": [],
           "Id": "C902Q5",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -5307,6 +5352,7 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -5320,6 +5366,7 @@
       "MapPosY": -5.0,
       "Quests": [
         {
+          "VictoryTextList": [],
           "Id": "Demo051618Quest01",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -5642,6 +5689,7 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [
             {
               "Id": "RangersCache",
@@ -5673,6 +5721,7 @@
           "AIBehavior": null
         },
         {
+          "VictoryTextList": [],
           "Id": "DemoIDTest",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -5747,11 +5796,13 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": null
         },
         {
+          "VictoryTextList": [],
           "Id": "Demo051618Quest03",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -5826,11 +5877,13 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": null
         },
         {
+          "VictoryTextList": [],
           "Id": "Demo051618Quest04",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -5905,11 +5958,13 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": null
         },
         {
+          "VictoryTextList": [],
           "Id": "Demo051618Quest05",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -5984,6 +6039,7 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": null
@@ -5997,6 +6053,7 @@
       "MapPosY": -10.0,
       "Quests": [
         {
+          "VictoryTextList": [],
           "Id": "Shadows of MirkwoodQuest01",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -6130,6 +6187,7 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [
             {
               "Id": "RangersCache",
@@ -6161,6 +6219,7 @@
           "AIBehavior": null
         },
         {
+          "VictoryTextList": [],
           "Id": "Shadows of MirkwoodQuest02",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -6301,11 +6360,13 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
         },
         {
+          "VictoryTextList": [],
           "Id": "Shadows of MirkwoodQuest03",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -6443,11 +6504,13 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
         },
         {
+          "VictoryTextList": [],
           "Id": "Shadows of MirkwoodQuest04",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -6522,11 +6585,13 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
         },
         {
+          "VictoryTextList": [],
           "Id": "Shadows of MirkwoodQuest05",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -6601,6 +6666,7 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -6614,6 +6680,7 @@
       "MapPosY": -24.0,
       "Quests": [
         {
+          "VictoryTextList": [],
           "Id": "temp_1Quest01",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -6688,11 +6755,13 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
         },
         {
+          "VictoryTextList": [],
           "Id": "temp_1Quest02",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -6767,11 +6836,13 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
         },
         {
+          "VictoryTextList": [],
           "Id": "temp_1Quest03",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -6846,11 +6917,13 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
         },
         {
+          "VictoryTextList": [],
           "Id": "temp_1Quest04",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -6925,11 +6998,13 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
         },
         {
+          "VictoryTextList": [],
           "Id": "temp_1Quest05",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -7004,6 +7079,7 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7017,6 +7093,7 @@
       "MapPosY": -21.0,
       "Quests": [
         {
+          "VictoryTextList": [],
           "Id": "ThreeCocoonTesterQuest01",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -7112,6 +7189,7 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": [
             {
               "Id": "RangersCache",
@@ -7143,6 +7221,7 @@
           "AIBehavior": null
         },
         {
+          "VictoryTextList": [],
           "Id": "ThreeCocoonTesterQuest02",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -7217,11 +7296,13 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
         },
         {
+          "VictoryTextList": [],
           "Id": "ThreeCocoonTesterQuest03",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -7296,11 +7377,13 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
         },
         {
+          "VictoryTextList": [],
           "Id": "ThreeCocoonTesterQuest04",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -7375,11 +7458,13 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
         },
         {
+          "VictoryTextList": [],
           "Id": "ThreeCocoonTesterQuest05",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
@@ -7454,6 +7539,7 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7467,6 +7553,7 @@
       "MapPosY": 0.0,
       "Quests": [
         {
+          "VictoryTextList": [],
           "Id": "Tutorial",
           "IconSprite": "Sprites/Quest/icon_q2",
           "ArtSprite": "Sprites/Quest/quest_2",
@@ -7551,6 +7638,7 @@
             }
           ],
           "SauronDeck": [],
+          "VictoryCount": 0,
           "FateCardList": [
             {
               "Id": "TutorialFateEvent",
