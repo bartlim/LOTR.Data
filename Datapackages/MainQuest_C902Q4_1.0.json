@@ -1,6 +1,5 @@
 {
   "DataSet": {
-    "VictoryTextList": [],
     "Title": "C902Q4",
     "SauronDeckInfo": {
       "Id": null,
@@ -102,13 +101,14 @@
     "Sequences": [],
     "Stories": [],
     "VictoryCount": 0,
+    "VictoryTextList": [],
     "FateCardList": [],
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180807101414283",
+  "Version": "20180807103739099",
   "Key": "MainQuest",
   "SubKey": "C902Q4",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C902Q4_20180807101414283"
+  "InternalKey": "MainQuest_C902Q4_20180807103739099"
 }
