@@ -1807,7 +1807,7 @@
           "Stages": [
             {
               "Id": "C001Q1L1",
-              "SceneName": "ForestStream03",
+              "SceneName": "Mirkwood02",
               "IntroMusic": "mus_deckmenu",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
@@ -1871,7 +1871,7 @@
             },
             {
               "Id": "C001Q1L3",
-              "SceneName": "Mirkwood02",
+              "SceneName": "Mirkwood04",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
@@ -1907,7 +1907,7 @@
             },
             {
               "Id": "C001Q1L4",
-              "SceneName": "DarkForest03",
+              "SceneName": "Spiders02",
               "IntroMusic": "mus_mapmenu",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
@@ -2192,7 +2192,7 @@
             },
             {
               "Id": "C001Q2L3",
-              "SceneName": "Spiders02",
+              "SceneName": "Spiders03",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
@@ -2637,7 +2637,7 @@
             },
             {
               "Id": "C001Q3L4",
-              "SceneName": "MirkwoodSwamp01",
+              "SceneName": "Ruins01",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
@@ -2668,7 +2668,7 @@
             },
             {
               "Id": "C001Q3L5",
-              "SceneName": "MirkwoodSwamp01",
+              "SceneName": "Dungeon01",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
