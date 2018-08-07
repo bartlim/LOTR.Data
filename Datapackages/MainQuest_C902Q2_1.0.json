@@ -1,8 +1,8 @@
 {
   "DataSet": {
     "VictoryTextList": [
-      "C902Q2_Victory",
-      "DefaultVictory2"
+      "C902Q2_Victory1",
+      "C902Q2_Victory2"
     ],
     "Title": "C902Q2",
     "SauronDeckInfo": {
@@ -109,9 +109,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180807101225665",
+  "Version": "20180807101405568",
   "Key": "MainQuest",
   "SubKey": "C902Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C902Q2_20180807101225665"
+  "InternalKey": "MainQuest_C902Q2_20180807101405568"
 }
