@@ -5,10 +5,6 @@
   "MapPosY": -21.0,
   "Quests": [
     {
-      "VictoryTextList": [
-        "C902Q1_Victory1",
-        "C902Q1_Victory2"
-      ],
       "Id": "C902Q1",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
@@ -179,15 +175,15 @@
         }
       ],
       "VictoryCount": 2,
+      "VictoryTextList": [
+        "C902Q1_Victory1",
+        "C902Q1_Victory2"
+      ],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
     },
     {
-      "VictoryTextList": [
-        "C902Q2_Victory1",
-        "C902Q2_Victory2"
-      ],
       "Id": "C902Q2",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
@@ -272,12 +268,15 @@
         }
       ],
       "VictoryCount": 2,
+      "VictoryTextList": [
+        "C902Q2_Victory1",
+        "C902Q2_Victory2"
+      ],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
     },
     {
-      "VictoryTextList": [],
       "Id": "C902Q3",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
@@ -362,12 +361,12 @@
         }
       ],
       "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
     },
     {
-      "VictoryTextList": [],
       "Id": "C902Q4",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
@@ -452,12 +451,12 @@
         }
       ],
       "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
     },
     {
-      "VictoryTextList": [],
       "Id": "C902Q5",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
@@ -542,6 +541,7 @@
         }
       ],
       "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
