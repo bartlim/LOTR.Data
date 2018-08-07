@@ -18,7 +18,7 @@
     "PlaySFX": "enemy_cardlight_both_e",
     "AttackVFX": "Effect_Attack_AXE",
     "AttackSFX": "event_attack_axe_e",
-    "DeathVFX": "Effect_DeathBlack",
+    "DeathVFX": "",
     "DeathSFX": "die_both_e",
     "FlavorText": "\"The prisoners are NOT to be searched or plundered: those are <i>my</i> orders.”\r\n—Grishnákh, <i>The Two Towers</i>",
     "CannotTriggerReason": "",
@@ -40,6 +40,6 @@
   },
   "Localization": {
     "Title": "Goblin Taskmaster",
-    "Text": "<line-height=100%><b>Arrival</b>: Every <b><i>Orc</b></i> gains +1 <size=120%><sprite=2></size>"
+    "Text": "<line-height=100%>Every <b><i>Orc</b></i> gains +1 <size=120%><sprite=0></size>"
   }
 }

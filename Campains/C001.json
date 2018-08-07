@@ -1,28 +1,26 @@
 {
   "Id": "C001",
   "IconSprite": "Sprites/Quest/icon_q1",
-  "MapPosX": -8.0,
-  "MapPosY": -8.0,
+  "MapPosX": 2.0,
+  "MapPosY": -7.0,
   "Quests": [
     {
       "Id": "C001Q1",
-      "IconSprite": "Sprites/Quest/icon_q1",
-      "ArtSprite": "Sprites/Quest/quest_1",
+      "IconSprite": "C001Q1QuestIcon",
+      "ArtSprite": "C001Q1QuestArt",
       "VictoryVoice": "Victory",
       "DefeatVoice": "Defeat",
-      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "ResolutionArtSprite": "C001Q1QuestResolution",
       "Stages": [
         {
           "Id": "C001Q1L1",
           "SceneName": "ForestStream03",
           "IntroMusic": "mus_deckmenu",
           "IntroVoiceList": [
-            "OpeningMirkwood_01",
-            ""
+            "OpeningMirkwood_01"
           ],
           "IntroSpriteList": [
-            "Sprites/Locations/Quest1_Stage01",
-            ""
+            "C001Q1L1_IntroSprite_1"
           ],
           "SoloGameSetup": [
             "InvestigateTheGlade",
@@ -32,10 +30,9 @@
           ],
           "NextStageId": "C001Q1L2",
           "BGM": "mus_mirkwood",
-          "NarrativeCount": 2,
+          "NarrativeCount": 1,
           "NarrativeTextList": [
-            "Q_STAGE_C001Q1L1_TEXT_0",
-            "Q_STAGE_C001Q1L1_TEXT_1"
+            "Q_STAGE_C001Q1L1_TEXT_0"
           ],
           "FateCardList": [],
           "ThreatCardList": [],
@@ -53,7 +50,7 @@
             "OpeningMirkwood_01"
           ],
           "IntroSpriteList": [
-            "Sprites/Locations/Quest1_Stage01"
+            "C001Q1L2_IntroSprite_1"
           ],
           "SoloGameSetup": [
             "KingSpider",
@@ -61,7 +58,7 @@
             "FindAWayAcross"
           ],
           "NextStageId": "C001Q1L3",
-          "BGM": "mus_cave",
+          "BGM": "mus_spookyforest",
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q1L2_TEXT_0"
@@ -87,7 +84,7 @@
             "OpeningMirkwood_01"
           ],
           "IntroSpriteList": [
-            "Sprites/Locations/Quest1_Stage01"
+            "C001Q1L3_IntroSprite_1"
           ],
           "SoloGameSetup": [
             "ThrashingCocoon",
@@ -97,7 +94,7 @@
             "ForestSpider"
           ],
           "NextStageId": "C001Q1L4",
-          "BGM": "mus_cave",
+          "BGM": "mus_mirkwood",
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q1L3_TEXT_0"
@@ -123,7 +120,7 @@
             "OpeningMirkwood_01"
           ],
           "IntroSpriteList": [
-            "Sprites/Locations/Quest1_Stage01"
+            "C001Q1L4_IntroSprite_1"
           ],
           "SoloGameSetup": [
             "SpiderLt1",
@@ -131,7 +128,7 @@
             "SpiderLt3"
           ],
           "NextStageId": "",
-          "BGM": "mus_cave",
+          "BGM": "mus_saurontheme",
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q1L4_TEXT_0"
@@ -334,11 +331,11 @@
     },
     {
       "Id": "C001Q2",
-      "IconSprite": "Sprites/Quest/icon_q1",
-      "ArtSprite": "Sprites/Quest/quest_1",
+      "IconSprite": "C001Q2QuestIcon",
+      "ArtSprite": "C001Q2QuestArt",
       "VictoryVoice": "Victory",
       "DefeatVoice": "Defeat",
-      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "ResolutionArtSprite": "C001Q2QuestResolution",
       "Stages": [
         {
           "Id": "C001Q2L1",
@@ -675,11 +672,11 @@
     },
     {
       "Id": "C001Q3",
-      "IconSprite": "Sprites/Quest/icon_q1",
-      "ArtSprite": "Sprites/Quest/quest_1",
+      "IconSprite": "C001Q3QuestIcon",
+      "ArtSprite": "C001Q3QuestArt",
       "VictoryVoice": "Victory",
       "DefeatVoice": "Defeat",
-      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "ResolutionArtSprite": "C001Q3QuestResolution",
       "Stages": [
         {
           "Id": "C001Q3L1",
@@ -1167,11 +1164,11 @@
     },
     {
       "Id": "C001Q4",
-      "IconSprite": "Sprites/Quest/icon_q1",
-      "ArtSprite": "Sprites/Quest/quest_1",
+      "IconSprite": "C001Q4QuestIcon",
+      "ArtSprite": "C001Q4QuestArt",
       "VictoryVoice": "Victory",
       "DefeatVoice": "Defeat",
-      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "ResolutionArtSprite": "C001Q4QuestResolution",
       "Stages": [
         {
           "Id": "C001Q4L1",
@@ -1184,7 +1181,7 @@
             "Sprites/Locations/Quest1_Stage01"
           ],
           "SoloGameSetup": [
-            "HugeMarshWorm",
+            "GiantMarshWorm",
             "MuckAdder"
           ],
           "NextStageId": "C001Q4L2",
@@ -1225,7 +1222,7 @@
           ],
           "FateCardList": [
             {
-              "Id": "ShaftOfSunlight",
+              "Id": "ShaftofSunlight",
               "Threshold": 4
             }
           ],
@@ -1510,11 +1507,11 @@
     },
     {
       "Id": "C001Q5",
-      "IconSprite": "Sprites/Quest/icon_q1",
-      "ArtSprite": "Sprites/Quest/quest_1",
+      "IconSprite": "C001Q5QuestIcon",
+      "ArtSprite": "C001Q5QuestArt",
       "VictoryVoice": "Victory",
       "DefeatVoice": "Defeat",
-      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "ResolutionArtSprite": "C001Q5QuestResolution",
       "Stages": [
         {
           "Id": "C001Q5L1",

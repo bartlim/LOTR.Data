@@ -4116,6 +4116,18 @@
     "Text_FR": "You must make room to accept this Character into your party;\nSelect an Ally to replace"
   },
   {
+    "Id": "U_SHOP_PALANTIRPACK_HELP_TITLE",
+    "Text": "What is the Palantír?",
+    "Text_CN": "[C]What is the Palantír?",
+    "Text_FR": "What is the Palantír?"
+  },
+  {
+    "Id": "U_QUEST_SCORE_BEST_SCORE",
+    "Text": "Best Score: ",
+    "Text_CN": "[C]Best Score: ",
+    "Text_FR": "Best Score: "
+  },
+  {
     "Id": "PLACEHOLDER2",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -13603,7 +13615,7 @@
   },
   {
     "Id": "C_GOBLINTASKMASTER_TEXT",
-    "Text": "<line-height=100%><b>Arrival</b>: Every <b><i>Orc</b></i> gains +1 <size=120%><sprite=2></size>"
+    "Text": "<line-height=100%>Every <b><i>Orc</b></i> gains +1 <size=120%><sprite=0></size>"
   },
   {
     "Id": "C_GOBLINTASKMASTER_FLAVOR",
@@ -15899,7 +15911,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q1L1_TEXT_0",
-    "Text": "<size=50%><i><size=58>T</size>he tranquility of Beorn’s Hall is shattered when a devastated Glóin bursts in. The old dwarf shares dreadful news: he and his dear friend Bilbo were ambushed by giant spiders—and one of them has taken the hobbit!\r\n<indent=50></indent>“And to think that Bilbo once rescued </i>us<i> from such webs,\" Glóin sobs. \"If only Gandalf were here!”\r\n<indent=50></indent>The Grey Wizard is far from the hall this night. Still, all is not lost. Having heard every word, you and your companions stand as one and volunteer to rescue Bilbo… hopefully before he is consumed or suffers an even greater unpleasantness.\r\n<indent=50></indent>Glóin pledges to take you, but he can barely stand from exhaustion.\r\n<indent=50></indent>\"Alas, I will only slow you down.\" Glóin's voice is raw with anguish. Then inspiration strikes. He sketches a map on a bit of parchment. \"This will lead you to where Bilbo was taken. Now go—quickly!\"</i></size>"
+    "Text": "<size=50%><i><size=58>T</size>he tranquility of Beorn’s Hall is shattered when a devastated Glóin bursts in. The old dwarf shares dreadful news: he and his dear friend Bilbo were ambushed by giant spiders—and one of them has taken the hobbit!\r\n<indent=50></indent>“And to think that Bilbo once rescued </i>us<i> from such webs,\" Glóin sobs. \"If only Gandalf were here!”\r\n<indent=50></indent>The Grey Wizard is far from the hall this night. Still, all is not lost. Having heard every word, you and your companions stand as one and volunteer to rescue Bilbo… hopefully before he is consumed or suffers an even greater unpleasantness.\r\n<indent=50></indent>Glóin pledges to take you, but he can barely stand from exhaustion.\r\n<indent=50></indent>\"Alas, I will only slow you down.\" Glóin's voice is raw with anguish. Then inspiration strikes. He sketches a map on a bit of parchment. \"This will lead you to where Bilbo was taken. go—quickly!\"</i></size>"
   },
   {
     "Id": "Q_STAGE_C001Q1L2_TEXT_0",
@@ -16459,15 +16471,15 @@
   },
   {
     "Id": "Q_STAGE_C001Q5L1_CHOICE_TEXT",
-    "Text": ""
+    "Text": null
   },
   {
     "Id": "Q_STAGE_C001Q5L2_CHOICE_TEXT",
-    "Text": ""
+    "Text": null
   },
   {
     "Id": "Q_STAGE_C001Q5L3_CHOICE_TEXT",
-    "Text": ""
+    "Text": null
   },
   {
     "Id": "Q_STAGE_C001Q5L3B_CHOICE_TEXT",
@@ -16479,7 +16491,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q5L4_CHOICE_TEXT",
-    "Text": ""
+    "Text": null
   },
   {
     "Id": "C_TCFATETEST_TITLE",
