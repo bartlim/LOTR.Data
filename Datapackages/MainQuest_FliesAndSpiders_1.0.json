@@ -300,7 +300,7 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_DarkForest_TEXT_0"
+          "Q_STAGE_DARKFOREST_TEXT_0"
         ]
       },
       {
@@ -319,7 +319,7 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_TheSpidersLair_TEXT_0"
+          "Q_STAGE_THESPIDERSLAIR_TEXT_0"
         ]
       },
       {
@@ -338,7 +338,7 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_TheSpidersWebs_TEXT_0"
+          "Q_STAGE_THESPIDERSWEBS_TEXT_0"
         ]
       },
       {
@@ -358,12 +358,14 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_ForestGlade_TEXT_0"
+          "Q_STAGE_FORESTGLADE_TEXT_0"
         ]
       }
     ],
     "Sequences": [],
     "Stories": [],
+    "VictoryCount": 0,
+    "VictoryTextList": [],
     "FateCardList": [
       {
         "Id": "CuttingTheWebs",
@@ -394,9 +396,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180731082615019",
+  "Version": "20180808152927261",
   "Key": "MainQuest",
   "SubKey": "FliesAndSpiders",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_FliesAndSpiders_20180731082615019"
+  "InternalKey": "MainQuest_FliesAndSpiders_20180808152927261"
 }
