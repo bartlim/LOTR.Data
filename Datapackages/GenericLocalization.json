@@ -15917,7 +15917,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q1L1_TEXT_0",
-    "Text": "<size=50%><i><size=58>T</size>he tranquility of Beorn’s Hall is shattered when a devastated Glóin bursts in. The old dwarf shares dreadful news: he and his dear friend Bilbo were ambushed by giant spiders—and one of them has taken the hobbit!\r\n<indent=50></indent>“And to think that Bilbo once rescued </i>us<i> from such webs,\" Glóin sobs. \"If only Gandalf were here!”\r\n<indent=50></indent>The Grey Wizard is far from the hall this night. Still, all is not lost. Having heard every word, you and your companions stand as one and volunteer to rescue Bilbo… hopefully before he is consumed or suffers an even greater unpleasantness.\r\n<indent=50></indent>Glóin pledges to take you, but he can barely stand from exhaustion.\r\n<indent=50></indent>\"Alas, I will only slow you down.\" Glóin's voice is raw with anguish. Then inspiration strikes. He sketches a map on a bit of parchment. \"This will lead you to where Bilbo was taken. go—quickly!\"</i></size>"
+    "Text": "<line-height=100%><size=200%>T</size>he tranquility of Beorn’s Hall is shattered when a devastated Glóin bursts in. The old dwarf shares dreadful news: he and his dear friend Bilbo were ambushed by giant spiders—and one of them has taken the hobbit!\r\n<indent=50></indent>“And to think that Bilbo once rescued <i>us</i> from such webs,\" Glóin sobs. \"If only Gandalf were here!”\r\n<indent=50></indent>The Grey Wizard is far from the hall this night. Still, all is not lost. Having heard every word, you and your companions stand as one and volunteer to rescue Bilbo… hopefully before he is consumed or suffers an even greater unpleasantness.\r\n<indent=50></indent>Glóin pledges to take you, but he can barely stand from exhaustion.\r\n<indent=50></indent>\"Alas, I will only slow you down.\" Glóin's voice is raw with anguish. Then inspiration strikes. He sketches a map on a bit of parchment. \"This will lead you to where Bilbo was taken. Now go—quickly!\""
   },
   {
     "Id": "Q_STAGE_C001Q1L2_TEXT_0",
@@ -16189,7 +16189,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q1L1_TEXT_1",
-    "Text": "<size=50%><i><size=58>S</size>oon you stand before the vast forest once known as Greenwood the Great, but that the wary and wise now call Mirkwood. A sleeping evil once inhabited this land, but was purged many years ago. Since that time, it has known peace and a return of wholesome, uncorrupted life. Yet as you advance, you sense a foulness on the air. You fear that evil may have returned.\r\n<indent=50></indent>Rough though Glóin's map was, it nonetheless leads you unerringly to the site of Bilbo's capture. You waste no time searching for signs of a trail to pursue. Haste is called for if you hope to rescue the hobbit. Spiders are not known for their patience.\r\n<indent=50></indent>There are ample signs of struggle, with several of Bilbo's possessions strewn about. You also notice several giant spiders creeping into the glade. They don't seem at all interested in assisting your search. Quite the contrary…</i></size>"
+    "Text": "<line-height=100%><size=200%>S</size>oon you stand before the vast forest once known as Greenwood the Great, but that the wary and wise now call Mirkwood. A sleeping evil once inhabited this land but was purged many years ago. Since that time, it has known peace and a slow return of wholesome, uncorrupted life. Yet as you advance, you sense a foulness on the air. You fear that evil may have returned.\r\n<indent=50></indent>Rough though Glóin's map was, it nonetheless leads you unerringly to the site of Bilbo's capture. You begin searching for signs of a trail to pursue. Haste is called for if you hope to rescue the hobbit. Spiders are not known for their patience.\r\n<indent=50></indent>There are ample signs of struggle, with several of Bilbo's possessions strewn about. You then see several giant spiders emerge from the woods. They don't seem at all interested in assisting your search. Quite the contrary…"
   },
   {
     "Id": "Q_STAGE_C001Q1L1_TEXT_2",
@@ -16773,7 +16773,7 @@
   },
   {
     "Id": "Q_QUEST_C001Q5_TEXT_0",
-    "Text": "DefaultVictory1"
+    "Text": "You have successfully gotten Bilbo to safety in Lorien. He will need time to recover from his ordeal before he moves along on his travels to Dale. You however, have adventures ahead of you investigating the information gathered on your adventure..."
   },
   {
     "Id": "Q_QUEST_C001Q2_TEXT_0",
