@@ -527,10 +527,8 @@
     ],
     "Sequences": [],
     "Stories": [],
-    "VictoryCount": 1,
-    "VictoryTextList": [
-      "Q_QUEST_C001Q3_TEXT_0"
-    ],
+    "VictoryCount": 0,
+    "VictoryTextList": [],
     "FateCardList": [
       {
         "Id": "ForageForSupplies",
@@ -561,9 +559,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180808141427088",
+  "Version": "20180808145318550",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180808141427088"
+  "InternalKey": "MainQuest_C001Q3_20180808145318550"
 }
