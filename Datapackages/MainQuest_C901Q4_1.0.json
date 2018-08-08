@@ -94,19 +94,32 @@
         "ThreatCardList": [],
         "NarrativeCount": 0,
         "NarrativeTextList": []
+      },
+      {
+        "Title": "",
+        "SoloGameSetup": [],
+        "CoopGameSetup": [],
+        "NextStages": [],
+        "NextStageTitles": [
+          ""
+        ],
+        "FateCardList": null,
+        "ThreatCardList": null,
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE__TEXT_0"
+        ]
       }
     ],
     "Sequences": [],
     "Stories": [],
-    "VictoryCount": 0,
-    "VictoryTextList": [],
     "FateCardList": [],
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180808155746833",
+  "Version": "20180808162147461",
   "Key": "MainQuest",
   "SubKey": "C901Q4",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C901Q4_20180808155746833"
+  "InternalKey": "MainQuest_C901Q4_20180808162147461"
 }
