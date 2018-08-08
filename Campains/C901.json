@@ -928,6 +928,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
@@ -1016,6 +1018,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
@@ -1098,6 +1102,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
@@ -1205,6 +1211,10 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 1,
+      "VictoryTextList": [
+        "Q_QUEST_C901Q4_TEXT_0"
+      ],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
@@ -1213,8 +1223,8 @@
       "Id": "C901Q5",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
-      "VictoryVoice": null,
-      "DefeatVoice": null,
+      "VictoryVoice": "Victory",
+      "DefeatVoice": "Defeat",
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
@@ -1287,6 +1297,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
