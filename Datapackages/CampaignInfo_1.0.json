@@ -2103,7 +2103,7 @@
             }
           ],
           "VictoryCount": 0,
-          "VictoryTextList": null,
+          "VictoryTextList": [],
           "FateCardList": [
             {
               "Id": "UnexpectedAid",
@@ -2446,7 +2446,7 @@
             }
           ],
           "VictoryCount": 0,
-          "VictoryTextList": null,
+          "VictoryTextList": [],
           "FateCardList": [
             {
               "Id": "CuttingTheWebs",
@@ -2511,10 +2511,10 @@
               ],
               "FateCardList": [],
               "ThreatCardList": [],
-              "ChoiceBGSprite": "",
+              "ChoiceBGSprite": "C001Q3L1_ChoiceBG",
               "ChoiceSpriteList": [
-                "",
-                ""
+                "C001Q3L1_ChoiceSprite_1",
+                "C001Q3L1_ChoiceSprite_2"
               ]
             },
             {
@@ -2939,8 +2939,10 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
+          "VictoryCount": 1,
+          "VictoryTextList": [
+            "Q_QUEST_C001Q3_TEXT_0"
+          ],
           "FateCardList": [
             {
               "Id": "ForageForSupplies",
@@ -3285,7 +3287,7 @@
             }
           ],
           "VictoryCount": 0,
-          "VictoryTextList": null,
+          "VictoryTextList": [],
           "FateCardList": [
             {
               "Id": "StaggeringBlow",
@@ -3632,7 +3634,7 @@
             }
           ],
           "VictoryCount": 0,
-          "VictoryTextList": null,
+          "VictoryTextList": [],
           "FateCardList": [
             {
               "Id": "RefreshingWaters",
@@ -3691,6 +3693,7 @@
               ],
               "SoloGameSetup": [
                 "FindThePath",
+                "MarshAdder",
                 "VeteranPatrol"
               ],
               "NextStageId": "C901Q1L2,C901Q1L3",
@@ -4594,9 +4597,10 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 1,
+          "VictoryCount": 2,
           "VictoryTextList": [
-            "Q_QUEST_C901Q1_TEXT_0"
+            "Q_QUEST_C901Q1_TEXT_0",
+            "Q_QUEST_C901Q1_TEXT_1"
           ],
           "FateCardList": [],
           "ThreatCardList": [],
