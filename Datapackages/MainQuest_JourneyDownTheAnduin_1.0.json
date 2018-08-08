@@ -300,7 +300,7 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_ToTheRiver_TEXT_0"
+          "Q_STAGE_TOTHERIVER_TEXT_0"
         ]
       },
       {
@@ -320,7 +320,7 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_AnduinPassage_TEXT_0"
+          "Q_STAGE_ANDUINPASSAGE_TEXT_0"
         ]
       },
       {
@@ -341,7 +341,7 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_TreacherousShortcut_TEXT_0"
+          "Q_STAGE_TREACHEROUSSHORTCUT_TEXT_0"
         ]
       },
       {
@@ -360,7 +360,7 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_GentleWaters_TEXT_0"
+          "Q_STAGE_GENTLEWATERS_TEXT_0"
         ]
       },
       {
@@ -386,12 +386,14 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_AmbushOnTheShoreStage_TEXT_0"
+          "Q_STAGE_AMBUSHONTHESHORESTAGE_TEXT_0"
         ]
       }
     ],
     "Sequences": [],
     "Stories": [],
+    "VictoryCount": 0,
+    "VictoryTextList": [],
     "FateCardList": [
       {
         "Id": "RefreshingWaters",
@@ -422,9 +424,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180731082624316",
+  "Version": "20180808152936605",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180731082624316"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180808152936605"
 }
