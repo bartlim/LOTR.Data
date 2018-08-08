@@ -29,7 +29,7 @@
             "ForestSpider"
           ],
           "NextStageId": "C001Q1L2",
-          "BGM": "mus_mirkwood",
+          "BGM": "mus_thewilderlands",
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q1L1_TEXT_0"
@@ -299,10 +299,8 @@
           "PlayOnce": false
         }
       ],
-      "VictoryCount": 1,
-      "VictoryTextList": [
-        "Q_QUEST_C001Q1_TEXT_0"
-      ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "UnexpectedAid",
@@ -357,7 +355,7 @@
             "ForestSpider"
           ],
           "NextStageId": "C001Q2L2",
-          "BGM": "mus_cave",
+          "BGM": "mus_spookyforest",
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q2L1_TEXT_0"
@@ -388,7 +386,7 @@
             "Cocoon"
           ],
           "NextStageId": "C001Q2L3",
-          "BGM": "mus_cave",
+          "BGM": "mus_mirkwood",
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q2L2_TEXT_0"
@@ -644,10 +642,8 @@
           "PlayOnce": false
         }
       ],
-      "VictoryCount": 1,
-      "VictoryTextList": [
-        "Q_QUEST_C001Q2_TEXT_0"
-      ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "CuttingTheWebs",
@@ -1140,10 +1136,8 @@
           "PlayOnce": false
         }
       ],
-      "VictoryCount": 1,
-      "VictoryTextList": [
-        "Q_QUEST_C001Q3_TEXT_0"
-      ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "ForageForSupplies",
@@ -1487,10 +1481,8 @@
           "PlayOnce": false
         }
       ],
-      "VictoryCount": 1,
-      "VictoryTextList": [
-        "Q_QUEST_C001Q4_TEXT_0"
-      ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "StaggeringBlow",
@@ -1836,10 +1828,8 @@
           "PlayOnce": false
         }
       ],
-      "VictoryCount": 1,
-      "VictoryTextList": [
-        "Q_QUEST_C001Q5_TEXT_0"
-      ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "RefreshingWaters",
