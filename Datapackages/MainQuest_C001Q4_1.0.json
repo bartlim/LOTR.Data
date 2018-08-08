@@ -405,10 +405,8 @@
     ],
     "Sequences": [],
     "Stories": [],
-    "VictoryCount": 1,
-    "VictoryTextList": [
-      "Q_QUEST_C001Q4_TEXT_0"
-    ],
+    "VictoryCount": 0,
+    "VictoryTextList": [],
     "FateCardList": [
       {
         "Id": "StaggeringBlow",
@@ -439,9 +437,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180808141431790",
+  "Version": "20180808145323256",
   "Key": "MainQuest",
   "SubKey": "C001Q4",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q4_20180808141431790"
+  "InternalKey": "MainQuest_C001Q4_20180808145323256"
 }
