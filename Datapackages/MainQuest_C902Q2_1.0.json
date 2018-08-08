@@ -100,18 +100,15 @@
     ],
     "Sequences": [],
     "Stories": [],
-    "VictoryCount": 2,
-    "VictoryTextList": [
-      "C902Q2_Victory1",
-      "C902Q2_Victory2"
-    ],
+    "VictoryCount": 0,
+    "VictoryTextList": [],
     "FateCardList": [],
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180807103730549",
+  "Version": "20180808110258756",
   "Key": "MainQuest",
   "SubKey": "C902Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C902Q2_20180807103730549"
+  "InternalKey": "MainQuest_C902Q2_20180808110258756"
 }

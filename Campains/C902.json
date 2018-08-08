@@ -176,8 +176,8 @@
       ],
       "VictoryCount": 2,
       "VictoryTextList": [
-        "C902Q1_Victory1",
-        "C902Q1_Victory2"
+        "Q_QUEST_C902Q1_TEXT_0",
+        "Q_QUEST_C902Q1_TEXT_1"
       ],
       "FateCardList": [],
       "ThreatCardList": [],
@@ -267,11 +267,8 @@
           "PlayOnce": false
         }
       ],
-      "VictoryCount": 2,
-      "VictoryTextList": [
-        "C902Q2_Victory1",
-        "C902Q2_Victory2"
-      ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"

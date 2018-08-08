@@ -342,6 +342,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "RangersCache",
@@ -663,6 +665,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "CuttingTheWebs",
@@ -1110,6 +1114,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "MakeAStand",
@@ -1466,6 +1472,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "RefreshingWaters",
@@ -1759,6 +1767,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "StaggeringBlow",
@@ -2092,6 +2102,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "UnexpectedAid",
@@ -2433,6 +2445,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "CuttingTheWebs",
@@ -2925,6 +2939,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "ForageForSupplies",
@@ -3268,6 +3284,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "StaggeringBlow",
@@ -3613,6 +3631,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "RefreshingWaters",
@@ -4574,6 +4594,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -4662,6 +4684,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -4744,6 +4768,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -4826,6 +4852,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -4908,6 +4936,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -5090,6 +5120,11 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 2,
+          "VictoryTextList": [
+            "Q_QUEST_C902Q1_TEXT_0",
+            "Q_QUEST_C902Q1_TEXT_1"
+          ],
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -5178,6 +5213,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": [],
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -5266,6 +5303,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": [],
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -5354,6 +5393,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": [],
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -5442,6 +5483,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": [],
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -5777,6 +5820,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "RangersCache",
@@ -5882,6 +5927,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": null
@@ -5961,6 +6008,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": null
@@ -6040,6 +6089,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": null
@@ -6119,6 +6170,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": null
@@ -6265,6 +6318,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "RangersCache",
@@ -6436,6 +6491,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -6578,6 +6635,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -6657,6 +6716,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -6736,6 +6797,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -6823,6 +6886,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -6902,6 +6967,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -6981,6 +7048,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7060,6 +7129,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7139,6 +7210,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7247,6 +7320,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "RangersCache",
@@ -7352,6 +7427,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7431,6 +7508,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7510,6 +7589,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7589,6 +7670,8 @@
               "PlayOnce": false
             }
           ],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7686,6 +7769,8 @@
             }
           ],
           "SauronDeck": [],
+          "VictoryCount": 0,
+          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "TutorialFateEvent",
