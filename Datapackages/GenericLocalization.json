@@ -16437,7 +16437,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q3L1_CHOICE_TEXT",
-    "Text": ""
+    "Text": "Gollum's Help\nDo you ignore Gollum, or listen to Gollum..."
   },
   {
     "Id": "Q_STAGE_C001Q3L2A_CHOICE_TEXT",
@@ -16762,5 +16762,9 @@
   {
     "Id": "Q_QUEST_C901Q1_TEXT_1",
     "Text": "but it took some time to do"
+  },
+  {
+    "Id": "Q_QUEST_C001Q3_TEXT_0",
+    "Text": "DefaultVictory1"
   }
 ]
