@@ -24,9 +24,10 @@
           ],
           "SoloGameSetup": [
             "FindThePath",
+            "MarshAdder",
             "VeteranPatrol"
           ],
-          "NextStageId": "C901Q1L2",
+          "NextStageId": "C901Q1L2,C901Q1L3",
           "BGM": "mus_cave",
           "NarrativeCount": 1,
           "NarrativeTextList": [
@@ -927,6 +928,11 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 2,
+      "VictoryTextList": [
+        "Q_QUEST_C901Q1_TEXT_0",
+        "Q_QUEST_C901Q1_TEXT_1"
+      ],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
@@ -1015,6 +1021,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
@@ -1097,6 +1105,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
@@ -1179,6 +1189,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
@@ -1261,6 +1273,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"

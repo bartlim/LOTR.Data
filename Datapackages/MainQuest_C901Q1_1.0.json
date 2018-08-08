@@ -83,12 +83,14 @@
         "Title": "C901Q1L1",
         "SoloGameSetup": [
           "FindThePath",
+          "MarshAdder",
           "VeteranPatrol"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
-          "C901Q1L2"
+          "C901Q1L2",
+          "C901Q1L3"
         ],
         "FateCardList": [],
         "ThreatCardList": [],
@@ -639,13 +641,18 @@
     ],
     "Sequences": [],
     "Stories": [],
+    "VictoryCount": 2,
+    "VictoryTextList": [
+      "Q_QUEST_C901Q1_TEXT_0",
+      "Q_QUEST_C901Q1_TEXT_1"
+    ],
     "FateCardList": [],
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180807160601276",
+  "Version": "20180808070426310",
   "Key": "MainQuest",
   "SubKey": "C901Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C901Q1_20180807160601276"
+  "InternalKey": "MainQuest_C901Q1_20180808070426310"
 }
