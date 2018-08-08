@@ -278,9 +278,10 @@
       {
         "Title": "C001Q1L2",
         "SoloGameSetup": [
-          "KingSpider",
-          "GiantSpider",
-          "FindAWayAcross"
+          "FindAWayAcross",
+          "WildBear",
+          "RockAdder",
+          "BlackForestBats"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -313,12 +314,7 @@
         "NextStageTitles": [
           "C001Q1L4"
         ],
-        "FateCardList": [
-          {
-            "Id": "FateThrashingCocoon",
-            "Threshold": 7
-          }
-        ],
+        "FateCardList": [],
         "ThreatCardList": [],
         "NarrativeCount": 1,
         "NarrativeTextList": [
@@ -388,9 +384,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180808180315597",
+  "Version": "20180808180928697",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180808180315597"
+  "InternalKey": "MainQuest_C001Q1_20180808180928697"
 }
