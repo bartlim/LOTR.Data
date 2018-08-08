@@ -4850,6 +4850,31 @@
                 "",
                 ""
               ]
+            },
+            {
+              "Id": "",
+              "SceneName": "",
+              "IntroMusic": "mus_cave",
+              "IntroVoiceList": [
+                "OpeningMirkwood_01"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage01"
+              ],
+              "SoloGameSetup": null,
+              "NextStageId": "",
+              "BGM": "mus_deckmenu",
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE__TEXT_0"
+              ],
+              "FateCardList": null,
+              "ThreatCardList": null,
+              "ChoiceBGSprite": "_ChoiceBG",
+              "ChoiceSpriteList": [
+                "_ChoiceSprite_1",
+                "_ChoiceSprite_2"
+              ]
             }
           ],
           "SauronDeck": [
@@ -4907,8 +4932,8 @@
           "Id": "C901Q5",
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
-          "VictoryVoice": "Victory",
-          "DefeatVoice": "Defeat",
+          "VictoryVoice": null,
+          "DefeatVoice": null,
           "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
