@@ -299,6 +299,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "UnexpectedAid",
@@ -640,6 +642,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "CuttingTheWebs",
@@ -704,10 +708,10 @@
           ],
           "FateCardList": [],
           "ThreatCardList": [],
-          "ChoiceBGSprite": "",
+          "ChoiceBGSprite": "C001Q3L1_ChoiceBG",
           "ChoiceSpriteList": [
-            "",
-            ""
+            "C001Q3L1_ChoiceSprite_1",
+            "C001Q3L1_ChoiceSprite_2"
           ]
         },
         {
@@ -1132,6 +1136,10 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 1,
+      "VictoryTextList": [
+        "Q_QUEST_C001Q3_TEXT_0"
+      ],
       "FateCardList": [
         {
           "Id": "ForageForSupplies",
@@ -1475,6 +1483,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "StaggeringBlow",
@@ -1820,6 +1830,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "RefreshingWaters",
