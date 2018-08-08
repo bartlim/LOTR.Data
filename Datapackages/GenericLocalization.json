@@ -15929,7 +15929,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q1L4_TEXT_0",
-    "Text": "DefaultStory1"
+    "Text": "<line-height=100%><size=200%>Y</size>ou follow the route that Wilelk suggests, but clues to the spiders' passage lessens the further you go. Soon enough, despite your best efforts, you can find no evidence of where Bilbo has gone. You have lost the trail.\r\n<indent=50></indent>Just then, you hear a shrill wail in the distance. The anguish and rage send chills down your spine. Fearing the worst, you scramble toward the sound—only to find your way blocked as three enormous spider-guardians descend from the trees!"
   },
   {
     "Id": "Q_STAGE_C001Q2L1_TEXT_0",
@@ -16769,10 +16769,14 @@
   },
   {
     "Id": "Q_QUEST_C001Q1_TEXT_0",
-    "Text": "DefaultVictory1"
+    "Text": "<line-height=100%><size=200%>T</size>hough you haven't found Bilbo, you do catch a glimpse of the spider that Glóin described. She is monstrous indeed—a hulking thing that appears to be talking to a small humanoid creature. You move in closer to see if you can learn more…"
   },
   {
     "Id": "Q_QUEST_C001Q5_TEXT_0",
     "Text": "DefaultVictory1"
+  },
+  {
+    "Id": "Q_QUEST_C001Q2_TEXT_0",
+    "Text": "You have succeeded in defeating Ungoliant's Spawn, but Bilbo is still nowhere to be found."
   }
 ]
