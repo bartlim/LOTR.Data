@@ -15921,7 +15921,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q1L2_TEXT_0",
-    "Text": "DefaultStory1"
+    "Text": "<line-height=100%><size=200%>Y</size>ou probe deeper into the forest, thorny undergrowth and sticky crawlers grabbing at your every step. The hope kindled by finding Bilbo’s sword wanes after hours of travel leave you scratched and worn.\r\n<indent=50></indent>A subtle shift in the noises of the forest heralds a change in scenery. You come upon a dark, gurgling stream that flows beneath a thick canopy of trees. You’ve been warned not to trust any water in Mirkwood—only that gathered from fresh rain. Indeed, though the sound is soothing, a strange odor emanates from the flowing water. Its befouled current offers further evidence that evil encroaches once more upon Mirkwood.\r\n<indent=50></indent>The spiders crossed along the branches that reach from either side. You must find another way. At a bend in the river, you spot a dead tree leaning over the water. It should make a serviceable bridge if you can direct its fall.\r\n<indent=50></indent>As you and your companions push at the trunk, something moves in the shadowy canopy above. You barely have time to call out before enemies are upon you!"
   },
   {
     "Id": "Q_STAGE_C001Q1L3_TEXT_0",
@@ -16765,6 +16765,14 @@
   },
   {
     "Id": "Q_QUEST_C001Q3_TEXT_0",
+    "Text": "DefaultVictory1"
+  },
+  {
+    "Id": "Q_QUEST_C001Q1_TEXT_0",
+    "Text": "DefaultVictory1"
+  },
+  {
+    "Id": "Q_QUEST_C001Q5_TEXT_0",
     "Text": "DefaultVictory1"
   }
 ]
