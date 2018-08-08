@@ -328,16 +328,23 @@
       {
         "Title": "C001Q1L4",
         "SoloGameSetup": [
-          "SpiderLt1",
-          "SpiderLt2",
-          "SpiderLt3"
+          "ThrashingCocoon",
+          "GiantSpider",
+          "ForestSpider",
+          "SpiderGuard",
+          "ForestSpider"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": [],
+        "FateCardList": [
+          {
+            "Id": "FateThrashingCocoon",
+            "Threshold": 8
+          }
+        ],
         "ThreatCardList": [],
         "NarrativeCount": 1,
         "NarrativeTextList": [
@@ -347,6 +354,10 @@
     ],
     "Sequences": [],
     "Stories": [],
+    "VictoryCount": 1,
+    "VictoryTextList": [
+      "Q_QUEST_C001Q1_TEXT_0"
+    ],
     "FateCardList": [
       {
         "Id": "UnexpectedAid",
@@ -377,9 +388,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180808162119262",
+  "Version": "20180808180315597",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180808162119262"
+  "InternalKey": "MainQuest_C001Q1_20180808180315597"
 }
