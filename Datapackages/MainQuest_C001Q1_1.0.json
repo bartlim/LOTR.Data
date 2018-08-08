@@ -278,8 +278,9 @@
       {
         "Title": "C001Q1L2",
         "SoloGameSetup": [
-          "KingSpider",
-          "GiantSpider",
+          "WildBear",
+          "RockAdder",
+          "BlackForestBats",
           "FindAWayAcross"
         ],
         "CoopGameSetup": [],
@@ -294,31 +295,26 @@
             "Threshold": 3
           }
         ],
-        "NarrativeCount": 1,
+        "NarrativeCount": 2,
         "NarrativeTextList": [
-          "Q_STAGE_C001Q1L2_TEXT_0"
+          "Q_STAGE_C001Q1L2_TEXT_0",
+          "Q_STAGE_C001Q1L2_TEXT_1"
         ]
       },
       {
         "Title": "C001Q1L3",
         "SoloGameSetup": [
-          "ThrashingCocoon",
           "GiantSpider",
           "ForestSpider",
-          "SpiderGuard",
-          "ForestSpider"
+          "ForestSpider",
+          "FreshlyWovenCocoon"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
           "C001Q1L4"
         ],
-        "FateCardList": [
-          {
-            "Id": "FateThrashingCocoon",
-            "Threshold": 7
-          }
-        ],
+        "FateCardList": [],
         "ThreatCardList": [],
         "NarrativeCount": 1,
         "NarrativeTextList": [
@@ -328,16 +324,22 @@
       {
         "Title": "C001Q1L4",
         "SoloGameSetup": [
-          "SpiderLt1",
-          "SpiderLt2",
-          "SpiderLt3"
+          "ThrashingCocoon",
+          "ForestSpider",
+          "GiantSpider",
+          "SpidersOfMirkwood"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": [],
+        "FateCardList": [
+          {
+            "Id": "FateThrashingCocoon",
+            "Threshold": 8
+          }
+        ],
         "ThreatCardList": [],
         "NarrativeCount": 1,
         "NarrativeTextList": [
@@ -347,8 +349,10 @@
     ],
     "Sequences": [],
     "Stories": [],
-    "VictoryCount": 0,
-    "VictoryTextList": [],
+    "VictoryCount": 1,
+    "VictoryTextList": [
+      "Q_QUEST_C001Q1_TEXT_0"
+    ],
     "FateCardList": [
       {
         "Id": "UnexpectedAid",
@@ -379,9 +383,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180808182032032",
+  "Version": "20180808190938570",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180808182032032"
+  "InternalKey": "MainQuest_C001Q1_20180808190938570"
 }
