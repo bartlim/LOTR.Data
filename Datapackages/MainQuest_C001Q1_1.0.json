@@ -278,10 +278,9 @@
       {
         "Title": "C001Q1L2",
         "SoloGameSetup": [
-          "FindAWayAcross",
-          "WildBear",
-          "RockAdder",
-          "BlackForestBats"
+          "KingSpider",
+          "GiantSpider",
+          "FindAWayAcross"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -314,7 +313,12 @@
         "NextStageTitles": [
           "C001Q1L4"
         ],
-        "FateCardList": [],
+        "FateCardList": [
+          {
+            "Id": "FateThrashingCocoon",
+            "Threshold": 7
+          }
+        ],
         "ThreatCardList": [],
         "NarrativeCount": 1,
         "NarrativeTextList": [
@@ -324,23 +328,16 @@
       {
         "Title": "C001Q1L4",
         "SoloGameSetup": [
-          "ThrashingCocoon",
-          "GiantSpider",
-          "ForestSpider",
-          "SpiderGuard",
-          "ForestSpider"
+          "SpiderLt1",
+          "SpiderLt2",
+          "SpiderLt3"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": [
-          {
-            "Id": "FateThrashingCocoon",
-            "Threshold": 8
-          }
-        ],
+        "FateCardList": [],
         "ThreatCardList": [],
         "NarrativeCount": 1,
         "NarrativeTextList": [
@@ -350,10 +347,8 @@
     ],
     "Sequences": [],
     "Stories": [],
-    "VictoryCount": 1,
-    "VictoryTextList": [
-      "Q_QUEST_C001Q1_TEXT_0"
-    ],
+    "VictoryCount": 0,
+    "VictoryTextList": [],
     "FateCardList": [
       {
         "Id": "UnexpectedAid",
@@ -384,9 +379,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180808180928697",
+  "Version": "20180808182032032",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180808180928697"
+  "InternalKey": "MainQuest_C001Q1_20180808182032032"
 }
