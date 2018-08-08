@@ -928,8 +928,11 @@
           "PlayOnce": false
         }
       ],
-      "VictoryCount": 0,
-      "VictoryTextList": [],
+      "VictoryCount": 2,
+      "VictoryTextList": [
+        "Q_QUEST_C901Q1_TEXT_0",
+        "Q_QUEST_C901Q1_TEXT_1"
+      ],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
