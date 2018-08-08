@@ -53,9 +53,10 @@
             "C001Q1L2_IntroSprite_1"
           ],
           "SoloGameSetup": [
-            "KingSpider",
-            "GiantSpider",
-            "FindAWayAcross"
+            "FindAWayAcross",
+            "WildBear",
+            "RockAdder",
+            "BlackForestBats"
           ],
           "NextStageId": "C001Q1L3",
           "BGM": "mus_spookyforest",
@@ -99,12 +100,7 @@
           "NarrativeTextList": [
             "Q_STAGE_C001Q1L3_TEXT_0"
           ],
-          "FateCardList": [
-            {
-              "Id": "FateThrashingCocoon",
-              "Threshold": 7
-            }
-          ],
+          "FateCardList": [],
           "ThreatCardList": [],
           "ChoiceBGSprite": "",
           "ChoiceSpriteList": [
