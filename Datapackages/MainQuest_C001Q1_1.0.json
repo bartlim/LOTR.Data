@@ -347,6 +347,8 @@
     ],
     "Sequences": [],
     "Stories": [],
+    "VictoryCount": 0,
+    "VictoryTextList": [],
     "FateCardList": [
       {
         "Id": "UnexpectedAid",
@@ -377,9 +379,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180807155225294",
+  "Version": "20180808111600806",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180807155225294"
+  "InternalKey": "MainQuest_C001Q1_20180808111600806"
 }
