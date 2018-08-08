@@ -17,10 +17,12 @@
           "SceneName": "Mirkwood02",
           "IntroMusic": "mus_deckmenu",
           "IntroVoiceList": [
-            "OpeningMirkwood_01"
+            "OpeningMirkwood_01",
+            ""
           ],
           "IntroSpriteList": [
-            "C001Q1L1_IntroSprite_1"
+            "C001Q1L1_IntroSprite_1",
+            ""
           ],
           "SoloGameSetup": [
             "InvestigateTheGlade",
@@ -30,9 +32,10 @@
           ],
           "NextStageId": "C001Q1L2",
           "BGM": "mus_mirkwood",
-          "NarrativeCount": 1,
+          "NarrativeCount": 2,
           "NarrativeTextList": [
-            "Q_STAGE_C001Q1L1_TEXT_0"
+            "Q_STAGE_C001Q1L1_TEXT_0",
+            "Q_STAGE_C001Q1L1_TEXT_1"
           ],
           "FateCardList": [],
           "ThreatCardList": [],
