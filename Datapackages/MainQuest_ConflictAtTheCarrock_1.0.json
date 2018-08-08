@@ -288,7 +288,7 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_SearchingForGrimbeorn_TEXT_0"
+          "Q_STAGE_SEARCHINGFORGRIMBEORN_TEXT_0"
         ]
       },
       {
@@ -309,7 +309,7 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_TheTrollsDinner_TEXT_0"
+          "Q_STAGE_THETROLLSDINNER_TEXT_0"
         ]
       },
       {
@@ -334,12 +334,14 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_FightWithTheTrolls_TEXT_0"
+          "Q_STAGE_FIGHTWITHTHETROLLS_TEXT_0"
         ]
       }
     ],
     "Sequences": [],
     "Stories": [],
+    "VictoryCount": 0,
+    "VictoryTextList": [],
     "FateCardList": [
       {
         "Id": "StaggeringBlow",
@@ -370,9 +372,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180731082629058",
+  "Version": "20180808152941781",
   "Key": "MainQuest",
   "SubKey": "ConflictAtTheCarrock",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180731082629058"
+  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180808152941781"
 }
