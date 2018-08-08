@@ -21,11 +21,12 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "But they had not gone more than a furlong when the storm returned with fresh fury. \r\n—<i>The Fellowship of the Ring</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "",
     "Status": "WIP",
-    "CardOffsetX": 1.0,
+    "CardOffsetX": 0.8,
     "CardOffsetY": 1.0,
-    "CardScale": 1.0,
+    "CardScale": 0.8,
     "CameoOffsetX": 1.0,
     "CameoOffsetY": 1.0,
     "CameoScale": 1.0,
@@ -33,9 +34,9 @@
     "ResolutionValue": 0,
     "CanBePlayedDuringTravel": true,
     "ComboList": [],
-    "ArtworkMD5": null,
-    "BannerMD5": null,
-    "IconMD5": null
+    "ArtworkMD5": "f64c616cd8621296a6628d9d5071327e",
+    "BannerMD5": "66a91fe6b6880bb07a738c8536dcca3a",
+    "IconMD5": "972e40a73e5a9e5d57e7df63e3044ecf"
   },
   "Localization": {
     "Title": "Foul Weather",

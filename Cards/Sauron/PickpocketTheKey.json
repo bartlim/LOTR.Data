@@ -25,8 +25,8 @@
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
-    "CardOffsetY": 1.0,
-    "CardScale": 1.0,
+    "CardOffsetY": 0.95,
+    "CardScale": 0.9,
     "CameoOffsetX": 1.0,
     "CameoOffsetY": 1.0,
     "CameoScale": 1.0,
@@ -34,9 +34,9 @@
     "ResolutionValue": 0,
     "CanBePlayedDuringTravel": true,
     "ComboList": [],
-    "ArtworkMD5": null,
-    "BannerMD5": null,
-    "IconMD5": null
+    "ArtworkMD5": "6393db2b9ef3c92a33075177d667595d",
+    "BannerMD5": "405f1160762edfee0b2ee2a40c8419e1",
+    "IconMD5": "67f38d37f54734b209a32f4c52d8d764"
   },
   "Localization": {
     "Title": "Pickpocket the Key",

@@ -1,18 +1,18 @@
 {
   "CardData": {
-    "Id": "WardensOfLorien",
-    "Owner": "Sauron",
-    "CardType": 6,
+    "Id": "AAAddPursuitToAll",
+    "Owner": "Player",
+    "CardType": 4,
     "ShopType": "",
     "Cost": 0,
-    "QuestPoints": 3,
+    "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
-    "Trait": "Main",
+    "Trait": "",
     "Rarity": 0,
-    "Sphere": 5,
-    "SphereLevel": 0,
+    "Sphere": 2,
+    "SphereLevel": 1,
     "Revision": null,
     "PlayVFX": "",
     "PlaySFX": "",
@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "\"…there is a secret power here that holds evil from the land.\"\r\n—Legolas, <i>The Fellowship of the Ring</i>",
+    "FlavorText": "",
     "CannotTriggerReason": "",
     "ArtistName": "",
     "Status": "WIP",
@@ -34,12 +34,12 @@
     "ResolutionValue": 0,
     "CanBePlayedDuringTravel": true,
     "ComboList": [],
-    "ArtworkMD5": "b48b4852fd12b61dd91aec193a5d9076",
-    "BannerMD5": "b51dbb6ecd8fe26c117aeb2bb903703c",
-    "IconMD5": "4d841c4bf4aed2016fd2c6b1650c2de1"
+    "ArtworkMD5": null,
+    "BannerMD5": null,
+    "IconMD5": null
   },
   "Localization": {
-    "Title": "Wardens of Lórien",
-    "Text": "Cannot engage.\r\nResolve for Haldir and his wardens to arrive. End of round: Apply 1 progress"
+    "Title": "Add pursuit to all",
+    "Text": "Add pursuit to all"
   }
 }

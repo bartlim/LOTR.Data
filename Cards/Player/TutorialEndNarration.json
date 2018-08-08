@@ -1,6 +1,6 @@
 {
   "CardData": {
-    "Id": "TutorialNarrationL3",
+    "Id": "TutorialEndNarration",
     "Owner": "Player",
     "CardType": 12,
     "ShopType": "",
@@ -23,7 +23,7 @@
     "FlavorText": "",
     "CannotTriggerReason": "",
     "ArtistName": "",
-    "Status": "None",
+    "Status": "WIP",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
     "CardScale": 1.0,
@@ -34,12 +34,12 @@
     "ResolutionValue": 0,
     "CanBePlayedDuringTravel": true,
     "ComboList": [],
-    "ArtworkMD5": "15d431980b5f6f899323c6f6ee7b3e37",
-    "BannerMD5": "be9127678c75ab64895cbb857b6e180c",
-    "IconMD5": "92fffc84f4e5aa069fdb30f7404dbd06"
+    "ArtworkMD5": "2cfb8f356ae2903a63af057c3422e9cd",
+    "BannerMD5": "d040d2c2dbecd80d8c82406167bd1767",
+    "IconMD5": "1efa14bddfcfb8c7bf883de4de419297"
   },
   "Localization": {
-    "Title": "Well-learned",
-    "Text": "      While there is more to discover that will help you on your Quest, you have learned the fundamentals that will carry you through this battle. It is down to you, now—defeat the King Spider, destroy the nest, and win the day! "
+    "Title": "The Burglar Burgled",
+    "Text": "While the companions were focused on destroying the spiders' nest, a massive spider charged from the shadows. Moving with incredible speed despite its size, the monstrous creature pounced upon Bilbo! Arwen and Glóin rushed to defend their friend, but it was too late. The spider spun sticky silken cords around the hobbit even as it bounded away to vanish into the depths of the forest."
   }
 }

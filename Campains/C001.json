@@ -14,7 +14,7 @@
       "Stages": [
         {
           "Id": "C001Q1L1",
-          "SceneName": "ForestStream03",
+          "SceneName": "Mirkwood02",
           "IntroMusic": "mus_deckmenu",
           "IntroVoiceList": [
             "OpeningMirkwood_01"
@@ -78,7 +78,7 @@
         },
         {
           "Id": "C001Q1L3",
-          "SceneName": "Mirkwood02",
+          "SceneName": "Mirkwood04",
           "IntroMusic": "mus_cave",
           "IntroVoiceList": [
             "OpeningMirkwood_01"
@@ -114,7 +114,7 @@
         },
         {
           "Id": "C001Q1L4",
-          "SceneName": "DarkForest03",
+          "SceneName": "Spiders02",
           "IntroMusic": "mus_mapmenu",
           "IntroVoiceList": [
             "OpeningMirkwood_01"
@@ -399,7 +399,7 @@
         },
         {
           "Id": "C001Q2L3",
-          "SceneName": "Spiders02",
+          "SceneName": "Spiders03",
           "IntroMusic": "mus_cave",
           "IntroVoiceList": [
             "OpeningMirkwood_01"
@@ -459,13 +459,13 @@
           "NarrativeTextList": [
             "Q_STAGE_C001Q2L4_TEXT_0"
           ],
-          "FateCardList": [],
-          "ThreatCardList": [
+          "FateCardList": [
             {
               "Id": "OvercomeDarkness",
               "Threshold": 5
             }
           ],
+          "ThreatCardList": [],
           "ChoiceBGSprite": "",
           "ChoiceSpriteList": [
             "",
@@ -844,7 +844,7 @@
         },
         {
           "Id": "C001Q3L4",
-          "SceneName": "MirkwoodSwamp01",
+          "SceneName": "Ruins01",
           "IntroMusic": "mus_cave",
           "IntroVoiceList": [
             "OpeningMirkwood_01"
@@ -875,7 +875,7 @@
         },
         {
           "Id": "C001Q3L5",
-          "SceneName": "MirkwoodSwamp01",
+          "SceneName": "Dungeon01",
           "IntroMusic": "mus_cave",
           "IntroVoiceList": [
             "OpeningMirkwood_01"
@@ -1172,7 +1172,7 @@
       "Stages": [
         {
           "Id": "C001Q4L1",
-          "SceneName": "Trolls01",
+          "SceneName": "GoblinTunnel01",
           "IntroMusic": "mus_cave",
           "IntroVoiceList": [
             "OpeningMirkwood_01"
@@ -1200,7 +1200,7 @@
         },
         {
           "Id": "C001Q4L2",
-          "SceneName": "Trolls01",
+          "SceneName": "Hall02",
           "IntroMusic": "mus_dungeon",
           "IntroVoiceList": [
             "OpeningMirkwood_01"
@@ -1240,7 +1240,7 @@
         },
         {
           "Id": "C001Q4L3",
-          "SceneName": "Trolls01",
+          "SceneName": "Hall01",
           "IntroMusic": "mus_dungeon",
           "IntroVoiceList": [
             "OpeningMirkwood_01"
@@ -1549,7 +1549,7 @@
         },
         {
           "Id": "C001Q5L2",
-          "SceneName": "ForestStream03",
+          "SceneName": "Anduin_River_Raft",
           "IntroMusic": "mus_stream",
           "IntroVoiceList": [
             "OpeningMirkwood_01"
@@ -1581,7 +1581,7 @@
         },
         {
           "Id": "C001Q5L3",
-          "SceneName": "ForestStream04",
+          "SceneName": "ForestStream05",
           "IntroMusic": "mus_cave",
           "IntroVoiceList": [
             "OpeningMirkwood_01"
@@ -1617,7 +1617,7 @@
         },
         {
           "Id": "C001Q5L4",
-          "SceneName": "ForestStream05",
+          "SceneName": "Mirkwood01",
           "IntroMusic": "mus_cave",
           "IntroVoiceList": [
             "OpeningMirkwood_01"

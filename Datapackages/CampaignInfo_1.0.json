@@ -342,8 +342,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "RangersCache",
@@ -665,8 +663,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "CuttingTheWebs",
@@ -1114,8 +1110,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "MakeAStand",
@@ -1472,8 +1466,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "RefreshingWaters",
@@ -1767,8 +1759,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "StaggeringBlow",
@@ -1817,7 +1807,7 @@
           "Stages": [
             {
               "Id": "C001Q1L1",
-              "SceneName": "ForestStream03",
+              "SceneName": "Mirkwood02",
               "IntroMusic": "mus_deckmenu",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
@@ -1881,7 +1871,7 @@
             },
             {
               "Id": "C001Q1L3",
-              "SceneName": "Mirkwood02",
+              "SceneName": "Mirkwood04",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
@@ -1917,7 +1907,7 @@
             },
             {
               "Id": "C001Q1L4",
-              "SceneName": "DarkForest03",
+              "SceneName": "Spiders02",
               "IntroMusic": "mus_mapmenu",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
@@ -2102,8 +2092,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "UnexpectedAid",
@@ -2204,7 +2192,7 @@
             },
             {
               "Id": "C001Q2L3",
-              "SceneName": "Spiders02",
+              "SceneName": "Spiders03",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
@@ -2264,13 +2252,13 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q2L4_TEXT_0"
               ],
-              "FateCardList": [],
-              "ThreatCardList": [
+              "FateCardList": [
                 {
                   "Id": "OvercomeDarkness",
                   "Threshold": 5
                 }
               ],
+              "ThreatCardList": [],
               "ChoiceBGSprite": "",
               "ChoiceSpriteList": [
                 "",
@@ -2445,8 +2433,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "CuttingTheWebs",
@@ -2651,7 +2637,7 @@
             },
             {
               "Id": "C001Q3L4",
-              "SceneName": "MirkwoodSwamp01",
+              "SceneName": "Ruins01",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
@@ -2682,7 +2668,7 @@
             },
             {
               "Id": "C001Q3L5",
-              "SceneName": "MirkwoodSwamp01",
+              "SceneName": "Dungeon01",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
@@ -2939,8 +2925,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "ForageForSupplies",
@@ -2981,7 +2965,7 @@
           "Stages": [
             {
               "Id": "C001Q4L1",
-              "SceneName": "Trolls01",
+              "SceneName": "GoblinTunnel01",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
@@ -3009,7 +2993,7 @@
             },
             {
               "Id": "C001Q4L2",
-              "SceneName": "Trolls01",
+              "SceneName": "Hall02",
               "IntroMusic": "mus_dungeon",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
@@ -3049,7 +3033,7 @@
             },
             {
               "Id": "C001Q4L3",
-              "SceneName": "Trolls01",
+              "SceneName": "Hall01",
               "IntroMusic": "mus_dungeon",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
@@ -3284,8 +3268,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "StaggeringBlow",
@@ -3360,7 +3342,7 @@
             },
             {
               "Id": "C001Q5L2",
-              "SceneName": "ForestStream03",
+              "SceneName": "Anduin_River_Raft",
               "IntroMusic": "mus_stream",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
@@ -3392,7 +3374,7 @@
             },
             {
               "Id": "C001Q5L3",
-              "SceneName": "ForestStream04",
+              "SceneName": "ForestStream05",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
@@ -3428,7 +3410,7 @@
             },
             {
               "Id": "C001Q5L4",
-              "SceneName": "ForestStream05",
+              "SceneName": "Mirkwood01",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
@@ -3631,8 +3613,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "RefreshingWaters",
@@ -3701,8 +3681,11 @@
               ],
               "FateCardList": [],
               "ThreatCardList": [],
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L2",
@@ -3726,8 +3709,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L3",
@@ -3751,8 +3737,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L4",
@@ -3776,8 +3765,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L5",
@@ -3801,8 +3793,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L6",
@@ -3826,8 +3821,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L7",
@@ -3851,8 +3849,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L8",
@@ -3876,8 +3877,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9",
@@ -3901,8 +3905,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9A",
@@ -3926,8 +3933,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9B",
@@ -3951,8 +3961,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9C",
@@ -3976,8 +3989,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9D",
@@ -4001,8 +4017,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9E",
@@ -4026,8 +4045,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9F",
@@ -4051,8 +4073,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9G",
@@ -4076,8 +4101,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9H",
@@ -4101,8 +4129,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9I",
@@ -4126,8 +4157,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9J",
@@ -4151,8 +4185,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9K",
@@ -4176,8 +4213,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9L",
@@ -4201,8 +4241,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9M",
@@ -4226,8 +4269,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9N",
@@ -4251,8 +4297,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9O",
@@ -4276,8 +4325,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9P",
@@ -4301,8 +4353,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9Q",
@@ -4326,8 +4381,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9R",
@@ -4351,8 +4409,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9S",
@@ -4376,8 +4437,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "C901Q1L9T",
@@ -4401,8 +4465,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "C901Q1L9T_ChoiceBG",
+              "ChoiceSpriteList": [
+                "C901Q1L9T_ChoiceSprite_1",
+                "C901Q1L9T_ChoiceSprite_2"
+              ]
             },
             {
               "Id": "C901Q1L9U",
@@ -4426,8 +4493,38 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "C901Q1L9U_ChoiceBG",
+              "ChoiceSpriteList": [
+                "C901Q1L9U_ChoiceSprite_1",
+                "C901Q1L9U_ChoiceSprite_2"
+              ]
+            },
+            {
+              "Id": "C901Q1L9V",
+              "SceneName": "Anduin_River_Raft",
+              "IntroMusic": "mus_cave",
+              "IntroVoiceList": [
+                "OpeningMirkwood_01"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage01"
+              ],
+              "SoloGameSetup": [
+                ""
+              ],
+              "NextStageId": "",
+              "BGM": "mus_cave",
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C901Q1L9V_TEXT_0"
+              ],
+              "FateCardList": null,
+              "ThreatCardList": null,
+              "ChoiceBGSprite": "_ChoiceBG",
+              "ChoiceSpriteList": [
+                "_ChoiceSprite_1",
+                "_ChoiceSprite_2"
+              ]
             }
           ],
           "SauronDeck": [
@@ -4477,8 +4574,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -4495,20 +4590,29 @@
               "Id": "C901Q2L1",
               "SceneName": "Q01_L01_ForestGate",
               "IntroMusic": "",
-              "IntroVoiceList": [],
-              "IntroSpriteList": [],
+              "IntroVoiceList": [
+                "OpeningMirkwood_01"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage01"
+              ],
               "SoloGameSetup": [
                 "FindThePath",
                 "VeteranPatrol"
               ],
               "NextStageId": "",
               "BGM": null,
-              "NarrativeCount": 0,
-              "NarrativeTextList": [],
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE_C901Q2L1_TEXT_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": [],
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "C901Q2L1_ChoiceBG",
+              "ChoiceSpriteList": [
+                "C901Q2L1_ChoiceSprite_1",
+                "C901Q2L1_ChoiceSprite_2"
+              ]
             }
           ],
           "SauronDeck": [
@@ -4558,8 +4662,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -4588,8 +4690,11 @@
               "NarrativeTextList": [],
               "FateCardList": [],
               "ThreatCardList": [],
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             }
           ],
           "SauronDeck": [
@@ -4639,8 +4744,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -4669,8 +4772,11 @@
               "NarrativeTextList": [],
               "FateCardList": [],
               "ThreatCardList": [],
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             }
           ],
           "SauronDeck": [
@@ -4720,8 +4826,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -4750,8 +4854,11 @@
               "NarrativeTextList": [],
               "FateCardList": [],
               "ThreatCardList": [],
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             }
           ],
           "SauronDeck": [
@@ -4801,8 +4908,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -4985,11 +5090,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 2,
-          "VictoryTextList": [
-            "C902Q1_Victory1",
-            "C902Q1_Victory2"
-          ],
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -5077,11 +5177,6 @@
               "Amount": 2,
               "PlayOnce": false
             }
-          ],
-          "VictoryCount": 2,
-          "VictoryTextList": [
-            "C902Q2_Victory1",
-            "C902Q2_Victory2"
           ],
           "FateCardList": [],
           "ThreatCardList": [],
@@ -5171,8 +5266,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": [],
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -5261,8 +5354,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": [],
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -5351,8 +5442,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": [],
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -5688,8 +5777,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "RangersCache",
@@ -5795,8 +5882,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": null
@@ -5876,8 +5961,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": null
@@ -5957,8 +6040,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": null
@@ -6038,8 +6119,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": null
@@ -6186,8 +6265,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "RangersCache",
@@ -6359,8 +6436,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -6503,8 +6578,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -6584,8 +6657,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -6665,8 +6736,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -6754,8 +6823,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -6835,8 +6902,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -6916,8 +6981,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -6997,8 +7060,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7078,8 +7139,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7188,8 +7247,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "RangersCache",
@@ -7295,8 +7352,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7376,8 +7431,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7457,8 +7510,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7538,8 +7589,6 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7565,12 +7614,12 @@
               "SceneName": "Mirkwood01",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
-                "TutorialNarrativeScreen1",
-                "TutorialNarrativeScreen1"
+                "Tutorial_Stage_01_IntroVoice_1",
+                "Tutorial_Stage_01_IntroVoice_2"
               ],
               "IntroSpriteList": [
-                "Sprites/Locations/Tutorial_NarrativeScreen-1",
-                "Sprites/Locations/Tutorial_NarrativeScreen-1"
+                "Tutorial_Stage_01_IntroSprite_1",
+                "Tutorial_Stage_01_IntroSprite_2"
               ],
               "SoloGameSetup": null,
               "NextStageId": "Tutorial_Stage_02",
@@ -7590,12 +7639,12 @@
               "SceneName": "Mirkwood01",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
-                "TutorialNarrativeScreen2",
-                "TutorialNarrativeScreen2"
+                "Tutorial_Stage_02_IntroVoice_1",
+                "Tutorial_Stage_02_IntroVoice_2"
               ],
               "IntroSpriteList": [
-                "Sprites/Locations/Tutorial_NarrativeScreen-2",
-                "Sprites/Locations/Tutorial_NarrativeScreen-2"
+                "Tutorial_Stage_02_IntroSprite_1",
+                "Tutorial_Stage_02_IntroSprite_2"
               ],
               "SoloGameSetup": null,
               "NextStageId": "Tutorial_Stage_03",
@@ -7615,12 +7664,12 @@
               "SceneName": "Mirkwood01",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
-                "TutorialNarrativeScreen3",
-                "TutorialNarrativeScreen3"
+                "Tutorial_Stage_03_IntroVoice_1",
+                "Tutorial_Stage_03_IntroVoice_2"
               ],
               "IntroSpriteList": [
-                "Sprites/Locations/Tutorial_NarrativeScreen-3",
-                "Sprites/Locations/Tutorial_NarrativeScreen-3"
+                "Tutorial_Stage_03_IntroSprite_1",
+                "Tutorial_Stage_03_IntroSprite_2"
               ],
               "SoloGameSetup": null,
               "NextStageId": "",
@@ -7637,8 +7686,6 @@
             }
           ],
           "SauronDeck": [],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
           "FateCardList": [
             {
               "Id": "TutorialFateEvent",

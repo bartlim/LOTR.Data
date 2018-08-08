@@ -12419,7 +12419,7 @@
   },
   {
     "Id": "C_BEORNINGROAMER_TITLE",
-    "Text": "‰Wilfelk"
+    "Text": "‰Wilelk"
   },
   {
     "Id": "C_BEORNINGROAMER_TEXT",
@@ -15627,7 +15627,7 @@
   },
   {
     "Id": "C_HURRYUP_FLAVOR",
-    "Text": "<line-height=100%><size=200%>I</size>t's impossible to tell if Gollum is searching for a trail or simply foraging for \"tassty grubsses.\" Reaching the limits of patience, you pull him away from digging through a rotted log and impress upon him the urgency of your mission. The creature quails an apology, then scampers off to find evidence of the caravan's passage."
+    "Text": "<line-height=100%><size=200%>I</size>t's impossible to tell if Gollum is searching for a trail or simply foraging for \"tassty grubsses.\" Reaching the limits of patience, you pull him away from digging through a rotted log and impress upon him the urgency of your mission. The creature quails an "
   },
   {
     "Id": "C_TORCHESFROMTHETOWER_TITLE",
@@ -16399,87 +16399,87 @@
   },
   {
     "Id": "Q_STAGE_C001Q1L1_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q1L2_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q1L3_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q1L4_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q2L1_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q2L2_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q2L3_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q2L4_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q3L1_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q3L2A_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q3L2B_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q3L3A_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q3L3B_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q3L4_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q3L5_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q4L1_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q4L2_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q4L3_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q5L1_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q5L2_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q5L3_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "Q_STAGE_C001Q5L3B_CHOICE_TEXT",
@@ -16491,7 +16491,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q5L4_CHOICE_TEXT",
-    "Text": null
+    "Text": ""
   },
   {
     "Id": "C_TCFATETEST_TITLE",
@@ -16568,5 +16568,185 @@
   {
     "Id": "Q_QUEST_C902Q2_TEXT_1",
     "Text": "C902Q2_Victory2"
+  },
+  {
+    "Id": "C_AAADDPURSUITTOALL_TITLE",
+    "Text": "Add pursuit to all"
+  },
+  {
+    "Id": "C_AAADDPURSUITTOALL_TEXT",
+    "Text": "Add pursuit to all"
+  },
+  {
+    "Id": "C_AAADDPURSUITTOALL_FLAVOR",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L1_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L1_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L2_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L2_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L3_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L3_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L4_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L4_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L5_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L5_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L6_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L6_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L7_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L7_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L8_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L8_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9A_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9A_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9B_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9B_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9C_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9C_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9D_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9D_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9E_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9E_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9F_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9F_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9G_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9G_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9H_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9H_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9I_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9I_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9J_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9J_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9K_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9K_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9L_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9L_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9M_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9M_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9N_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9N_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9O_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9O_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9P_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9P_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9Q_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9Q_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9R_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9R_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9S_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9S_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9T_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9T_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9U_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q1L9U_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9V_NAME",
+    "Text": "Anduin_River_Raft"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9V_OBJECTIVE",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9V_TEXT_0",
+    "Text": "DefaultStory1"
+  },
+  {
+    "Id": "Q_STAGE_C901Q1L9V_CHOICE_TEXT",
+    "Text": "Q_STAGE__CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q2L1_TEXT_0",
+    "Text": "DefaultStory1"
+  },
+  {
+    "Id": "Q_STAGE_C901Q2L1_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q2L1_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q3L1_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q3L1_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q4L1_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q4L1_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C901Q5L1_CHOICE_TEXT",
+    "Text": "Q_STAGE_C901Q5L1_CHOICE_TEXT"
+  },
+  {
+    "Id": "C_TUTORIALENDNARRATION_TITLE",
+    "Text": "The Burglar Burgled"
+  },
+  {
+    "Id": "C_TUTORIALENDNARRATION_TEXT",
+    "Text": "While the companions were focused on destroying the spiders' nest, a massive spider charged from the shadows. Moving with incredible speed despite its size, the monstrous creature pounced upon Bilbo! Arwen and Glóin rushed to defend their friend, but it was too late. The spider spun sticky silken cords around the hobbit even as it bounded away to vanish into the depths of the forest."
+  },
+  {
+    "Id": "C_TUTORIALENDNARRATION_FLAVOR",
+    "Text": ""
   }
 ]
