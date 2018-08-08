@@ -373,10 +373,8 @@
     ],
     "Sequences": [],
     "Stories": [],
-    "VictoryCount": 1,
-    "VictoryTextList": [
-      "Q_QUEST_C001Q5_TEXT_0"
-    ],
+    "VictoryCount": 0,
+    "VictoryTextList": [],
     "FateCardList": [
       {
         "Id": "RefreshingWaters",
@@ -407,9 +405,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180808135456304",
+  "Version": "20180808135551168",
   "Key": "MainQuest",
   "SubKey": "C001Q5",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q5_20180808135456304"
+  "InternalKey": "MainQuest_C001Q5_20180808135551168"
 }
