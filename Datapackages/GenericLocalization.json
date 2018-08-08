@@ -1249,9 +1249,9 @@
   },
   {
     "Id": "U_SHOP_PALANTIRPACK_ITEMS",
-    "Text": "The Palantír is a wondrous object of mysterious ability.\n\nWhen you gaze into the Palantír, you receive two \nrewards from the following possibilities:\n\nValor Points; cards you do not own already; \nor new cosmetic items",
-    "Text_CN": "[C]The Palantír is a wondrous object of mysterious ability.\n\nWhen you gaze into the Palantír, you receive two \nrewards from the following possibilities:\n\nValor Points; cards you do not own already; \nor new cosmetic items",
-    "Text_FR": "The Palantír is a wondrous object of mysterious ability.\n\nWhen you gaze into the Palantír, you receive two \nrewards from the following possibilities:\n\nValor Points; cards you do not own already; \nor new cosmetic items"
+    "Text": "<i><indent=50><size=58>T</size>he</indent> Palantír is a bonus system. This wondrous \nobject of mysterious ability grants rewards when \nyou gaze into it.\n<indent=50>You</indent> spend a Palantír View each time you gaze \ninto the Palantír. You then receive two rewards \nfrom the following possibilities:\n<indent=50>Valor</indent> Points; cards you do not own already; \nor new cosmetic items.\n<indent=50>Palantír</indent> Views are precious things. You can \ngain them through exceptional gameplay or \nthrough special boons bestowed upon you.</i>",
+    "Text_CN": "[C]<i><indent=50><size=58>T</size>he</indent> Palantír is a bonus system. This wondrous \nobject of mysterious ability grants rewards when \nyou gaze into it.\n<indent=50>You</indent> spend a Palantír View each time you gaze \ninto the Palantír. You then receive two rewards \nfrom the following possibilities:\n<indent=50>Valor</indent> Points; cards you do not own already; \nor new cosmetic items.\n<indent=50>Palantír</indent> Views are precious things. You can \ngain them through exceptional gameplay or \nthrough special boons bestowed upon you.</i>",
+    "Text_FR": "<i><indent=50><size=58>T</size>he</indent> Palantír is a bonus system. This wondrous \nobject of mysterious ability grants rewards when \nyou gaze into it.\n<indent=50>You</indent> spend a Palantír View each time you gaze \ninto the Palantír. You then receive two rewards \nfrom the following possibilities:\n<indent=50>Valor</indent> Points; cards you do not own already; \nor new cosmetic items.\n<indent=50>Palantír</indent> Views are precious things. You can \ngain them through exceptional gameplay or \nthrough special boons bestowed upon you.</i>"
   },
   {
     "Id": "U_SHOP_PALANTIRPACK_PACKS",
@@ -2589,7 +2589,7 @@
     "Id": "U_QUEST_SCORE_YOUR_SCORE",
     "Text": "Scoring",
     "Text_CN": "[C]您的分数",
-    "Text_FR": "Scoring"
+    "Text_FR": "SCORE"
   },
   {
     "Id": "U_QUEST_SCORE_BONUS_REWARDS",
@@ -2619,7 +2619,7 @@
     "Id": "U_QUEST_SCORE_OBJECTIVE_RESOLVED",
     "Text": "Hazards Resolved",
     "Text_CN": "[C]解决的目标数量",
-    "Text_FR": "Hazards Resolved"
+    "Text_FR": "Objectifs atteints"
   },
   {
     "Id": "U_QUEST_SCORE_FAVOR_CARD_BONUS",
@@ -2701,7 +2701,7 @@
   },
   {
     "Id": "U_SHOP_VALOR_GO_BUY_HERO_PACK",
-    "Text": "To unlock this card, purchase \nthe Hero Pack: {0}",
+    "Text": "To unlock this card, purchase the \nHero Pack: {0}",
     "Text_CN": "[C]要解锁这张卡，请购买英雄卡包：{0}",
     "Text_FR": "To unlock this card, purchase the Hero Pack: {0}"
   },
@@ -4063,9 +4063,9 @@
   },
   {
     "Id": "U_SHOP_HEROPACK_DESC_HEROPACK_STEADFASTCOMPANION",
-    "Text": "Steadfast Companion description",
-    "Text_CN": "[C]可靠的朋友",
-    "Text_FR": "Steadfast Companion description"
+    "Text": "<i>Dwalin of the House of Durin leads the battle against all enemies of the Dwarves—whether Orcs, Wargs, Spiders, or any other foe.</i>\nThis pack focuses on enhancing Characters’ abilities to overwhelm enemy ranks and resolve Objectives.",
+    "Text_CN": "[C]<i>Dwalin of the House of Durin leads the battle against all enemies of the Dwarves—whether Orcs, Wargs, Spiders, or any other foe.</i>\nThis pack focuses on enhancing Characters’ abilities to overwhelm enemy ranks and resolve Objectives.",
+    "Text_FR": "<i>Dwalin of the House of Durin leads the battle against all enemies of the Dwarves—whether Orcs, Wargs, Spiders, or any other foe.</i>\nThis pack focuses on enhancing Characters’ abilities to overwhelm enemy ranks and resolve Objectives."
   },
   {
     "Id": "U_DECKMENU_HEROPACK_TITLE_HEROPACK_STEADFASTCOMPANION",
@@ -4076,19 +4076,19 @@
   {
     "Id": "U_STAGE_FULL",
     "Text": "The battle stage is full!",
-    "Text_CN": "[C]战场已满",
+    "Text_CN": "[C]The battle stage is full!",
     "Text_FR": "The battle stage is full!"
   },
   {
     "Id": "U_FATE_NOT_ENOUGH_FATE",
-    "Text": "Not Enough Fate!",
-    "Text_CN": "[C]菲特不足！",
-    "Text_FR": "Not Enough Fate!"
+    "Text": "Not Enough Fate",
+    "Text_CN": "[C]Not Enough Fate",
+    "Text_FR": "Not Enough Fate"
   },
   {
     "Id": "U_CAMPAIGN_COMPLETE",
     "Text": "CAMPAIGN COMPLETE",
-    "Text_CN": "[C]战役完成！",
+    "Text_CN": "[C]CAMPAIGN COMPLETE",
     "Text_FR": "CAMPAIGN COMPLETE"
   },
   {
@@ -4126,6 +4126,12 @@
     "Text": "Best Score: ",
     "Text_CN": "[C]Best Score: ",
     "Text_FR": "Best Score: "
+  },
+  {
+    "Id": "U_QUEST_COMPLETE_FIRST_TIME",
+    "Text": "Congratulations!\nYou've completed the <i>{0}</i> for the first time. As a special reward, you've earned this bonus!",
+    "Text_CN": "[C]Congratulations!\nYou've completed the <i>{0}</i> for the first time. As a special reward, you've earned this bonus!",
+    "Text_FR": "Congratulations!\nYou've completed the <i>{0}</i> for the first time. As a special reward, you've earned this bonus!"
   },
   {
     "Id": "PLACEHOLDER2",
