@@ -113,13 +113,17 @@
     ],
     "Sequences": [],
     "Stories": [],
+    "VictoryCount": 1,
+    "VictoryTextList": [
+      "Q_QUEST_C901Q4_TEXT_0"
+    ],
     "FateCardList": [],
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180808162147461",
+  "Version": "20180808184610122",
   "Key": "MainQuest",
   "SubKey": "C901Q4",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C901Q4_20180808162147461"
+  "InternalKey": "MainQuest_C901Q4_20180808184610122"
 }
