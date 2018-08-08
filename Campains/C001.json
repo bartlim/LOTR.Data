@@ -123,9 +123,11 @@
             "C001Q1L4_IntroSprite_1"
           ],
           "SoloGameSetup": [
-            "SpiderLt1",
-            "SpiderLt2",
-            "SpiderLt3"
+            "ThrashingCocoon",
+            "GiantSpider",
+            "ForestSpider",
+            "SpiderGuard",
+            "ForestSpider"
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme",
@@ -133,7 +135,12 @@
           "NarrativeTextList": [
             "Q_STAGE_C001Q1L4_TEXT_0"
           ],
-          "FateCardList": [],
+          "FateCardList": [
+            {
+              "Id": "FateThrashingCocoon",
+              "Threshold": 8
+            }
+          ],
           "ThreatCardList": [],
           "ChoiceBGSprite": "",
           "ChoiceSpriteList": [
@@ -298,6 +305,10 @@
           "Amount": 1,
           "PlayOnce": false
         }
+      ],
+      "VictoryCount": 1,
+      "VictoryTextList": [
+        "Q_QUEST_C001Q1_TEXT_0"
       ],
       "FateCardList": [
         {
@@ -640,6 +651,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "CuttingTheWebs",
@@ -1132,6 +1145,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "ForageForSupplies",
@@ -1475,6 +1490,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "StaggeringBlow",
@@ -1820,6 +1837,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "RefreshingWaters",
