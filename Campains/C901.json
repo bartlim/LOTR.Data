@@ -1150,7 +1150,7 @@
           ],
           "SoloGameSetup": null,
           "NextStageId": "",
-          "BGM": "mus_deckmenu",
+          "BGM": "mus_cave",
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE__TEXT_0"
@@ -1223,8 +1223,8 @@
       "Id": "C901Q5",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
-      "VictoryVoice": "Victory",
-      "DefeatVoice": "Defeat",
+      "VictoryVoice": null,
+      "DefeatVoice": null,
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
         {
