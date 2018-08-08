@@ -16005,7 +16005,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q3L4_TEXT_0",
-    "Text": "DefaultStory1"
+    "Text": "Now hidden, you advance on the tower, dodging patrols and guards. However, a cursory scout of the area reveals a locked gate being the only way in besides the heavily guarded main gate. You'll need the key. One of the nearby guards may have it though."
   },
   {
     "Id": "Q_STAGE_C001Q3L5_NAME",
@@ -16017,7 +16017,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q3L5_TEXT_0",
-    "Text": "Is it a Tunnel, or a Tower?"
+    "Text": "The heroes have made it inside the tower and are looking for Bilbo's whereabouts."
   },
   {
     "Id": "C_GNOG_TITLE",
@@ -16765,7 +16765,7 @@
   },
   {
     "Id": "Q_QUEST_C001Q3_TEXT_0",
-    "Text": "DefaultVictory1"
+    "Text": "You have been betrayed! Gollum cackles madly then runs off as you fall into a deep dark pit filled with strange and disturbing smells ...and noises. You are not alone..."
   },
   {
     "Id": "Q_QUEST_C001Q1_TEXT_0",
@@ -16778,5 +16778,9 @@
   {
     "Id": "Q_QUEST_C001Q2_TEXT_0",
     "Text": "You have succeeded in defeating Ungoliant's Spawn, but Bilbo is still nowhere to be found."
+  },
+  {
+    "Id": "Q_QUEST_C001Q4_TEXT_0",
+    "Text": "You've defied every problem along the way and saved Bilbo. Now you must make good on your escape though..."
   }
 ]
