@@ -392,8 +392,10 @@
     ],
     "Sequences": [],
     "Stories": [],
-    "VictoryCount": 0,
-    "VictoryTextList": [],
+    "VictoryCount": 1,
+    "VictoryTextList": [
+      "Q_QUEST_JOURNEYDOWNTHEANDUIN_TEXT_0"
+    ],
     "FateCardList": [
       {
         "Id": "RefreshingWaters",
@@ -424,9 +426,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180808152936605",
+  "Version": "20180809035431906",
   "Key": "MainQuest",
   "SubKey": "JourneyDownTheAnduin",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180808152936605"
+  "InternalKey": "MainQuest_JourneyDownTheAnduin_20180809035431906"
 }
