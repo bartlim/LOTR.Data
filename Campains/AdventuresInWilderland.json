@@ -32,11 +32,16 @@
           ],
           "NextStageId": "CapturedBySpiders",
           "BGM": "mus_thewilderlands",
-          "FateCardList": [],
-          "ThreatCardList": [],
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_FORESTGATE_TEXT_0"
+          ],
+          "FateCardList": [],
+          "ThreatCardList": [],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -55,11 +60,16 @@
           ],
           "NextStageId": "StandAndFight,TurnAndFlee",
           "BGM": "mus_dungeon",
-          "FateCardList": null,
-          "ThreatCardList": [],
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_CAPTUREDBYSPIDERS_TEXT_0"
+          ],
+          "FateCardList": null,
+          "ThreatCardList": [],
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -81,11 +91,16 @@
           ],
           "NextStageId": "TheEnchantedStream",
           "BGM": "mus_cave",
-          "FateCardList": [],
-          "ThreatCardList": null,
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_STANDANDFIGHT_TEXT_0"
+          ],
+          "FateCardList": [],
+          "ThreatCardList": null,
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -106,11 +121,16 @@
           ],
           "NextStageId": "TheEnchantedStreamAlt",
           "BGM": "mus_mirkwood",
-          "FateCardList": [],
-          "ThreatCardList": null,
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_TURNANDFLEE_TEXT_0"
+          ],
+          "FateCardList": [],
+          "ThreatCardList": null,
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -128,6 +148,10 @@
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_THEENCHANTEDSTREAM_TEXT_0"
+          ],
           "FateCardList": [
             {
               "Id": "FateKingsfoil",
@@ -135,9 +159,10 @@
             }
           ],
           "ThreatCardList": null,
-          "NarrativeCount": 1,
-          "NarrativeTextList": [
-            "Q_STAGE_THEENCHANTEDSTREAM_TEXT_0"
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -158,6 +183,10 @@
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_THEENCHANTEDSTREAMALT_TEXT_0"
+          ],
           "FateCardList": [
             {
               "Id": "SavedbytheElves",
@@ -165,9 +194,10 @@
             }
           ],
           "ThreatCardList": null,
-          "NarrativeCount": 1,
-          "NarrativeTextList": [
-            "Q_STAGE_THEENCHANTEDSTREAMALT_TEXT_0"
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         }
       ],
@@ -328,6 +358,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "RangersCache",
@@ -383,6 +415,10 @@
           ],
           "NextStageId": "TheSpidersLair",
           "BGM": "mus_mirkwood",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_DARKFOREST_TEXT_0"
+          ],
           "FateCardList": [
             {
               "Id": "UnexpectedAid",
@@ -390,9 +426,10 @@
             }
           ],
           "ThreatCardList": null,
-          "NarrativeCount": 1,
-          "NarrativeTextList": [
-            "Q_STAGE_DARKFOREST_TEXT_0"
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -412,11 +449,16 @@
           ],
           "NextStageId": "TheSpidersWebs",
           "BGM": "mus_dungeon",
-          "FateCardList": [],
-          "ThreatCardList": null,
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_THESPIDERSLAIR_TEXT_0"
+          ],
+          "FateCardList": [],
+          "ThreatCardList": null,
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -436,11 +478,16 @@
           ],
           "NextStageId": "ForestGlade",
           "BGM": "mus_dungeon",
-          "FateCardList": [],
-          "ThreatCardList": null,
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_THESPIDERSWEBS_TEXT_0"
+          ],
+          "FateCardList": [],
+          "ThreatCardList": null,
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -461,11 +508,16 @@
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme",
-          "FateCardList": null,
-          "ThreatCardList": null,
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_FORESTGLADE_TEXT_0"
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null,
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         }
       ],
@@ -641,6 +693,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "CuttingTheWebs",
@@ -699,11 +753,16 @@
           ],
           "NextStageId": "ForestStream",
           "BGM": "mus_mirkwood",
-          "FateCardList": null,
-          "ThreatCardList": null,
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_MIRKWOODFOREST_TEXT_0"
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null,
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -725,6 +784,10 @@
           ],
           "NextStageId": "BareHilltop",
           "BGM": "mus_mirkwood",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_FORESTSTREAM_TEXT_0"
+          ],
           "FateCardList": [
             {
               "Id": "FearOfTheFlames",
@@ -732,9 +795,10 @@
             }
           ],
           "ThreatCardList": null,
-          "NarrativeCount": 1,
-          "NarrativeTextList": [
-            "Q_STAGE_FORESTSTREAM_TEXT_0"
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -756,6 +820,10 @@
           ],
           "NextStageId": "MirkwoodSwamp",
           "BGM": "mus_mirkwood",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_BAREHILLTOP_TEXT_0"
+          ],
           "FateCardList": [
             {
               "Id": "DistractingCall",
@@ -763,9 +831,10 @@
             }
           ],
           "ThreatCardList": null,
-          "NarrativeCount": 1,
-          "NarrativeTextList": [
-            "Q_STAGE_BAREHILLTOP_TEXT_0"
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -786,11 +855,16 @@
           ],
           "NextStageId": "OvergrownTrail",
           "BGM": "mus_mirkwood",
-          "FateCardList": [],
-          "ThreatCardList": null,
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_MIRKWOODSWAMP_TEXT_0"
+          ],
+          "FateCardList": [],
+          "ThreatCardList": null,
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -811,11 +885,16 @@
           ],
           "NextStageId": "AbandonedVillage",
           "BGM": "mus_mirkwood",
-          "FateCardList": null,
-          "ThreatCardList": null,
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_OVERGROWNTRAIL_TEXT_0"
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null,
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -836,11 +915,16 @@
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme",
-          "FateCardList": null,
-          "ThreatCardList": null,
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_ABANDONEDVILLAGE_TEXT_0"
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null,
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         }
       ],
@@ -1076,6 +1160,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "MakeAStand",
@@ -1131,6 +1217,10 @@
           ],
           "NextStageId": "AnduinPassage",
           "BGM": "mus_stream",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_TOTHERIVER_TEXT_0"
+          ],
           "FateCardList": [
             {
               "Id": "DistractTheTroll",
@@ -1138,9 +1228,10 @@
             }
           ],
           "ThreatCardList": null,
-          "NarrativeCount": 1,
-          "NarrativeTextList": [
-            "Q_STAGE_TOTHERIVER_TEXT_0"
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -1161,11 +1252,16 @@
           ],
           "NextStageId": "TreacherousShortcut",
           "BGM": "mus_stream",
-          "FateCardList": [],
-          "ThreatCardList": null,
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_ANDUINPASSAGE_TEXT_0"
+          ],
+          "FateCardList": [],
+          "ThreatCardList": null,
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -1187,11 +1283,16 @@
           ],
           "NextStageId": "AmbushOnTheShoreStage",
           "BGM": "mus_cave",
-          "FateCardList": null,
-          "ThreatCardList": null,
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_TREACHEROUSSHORTCUT_TEXT_0"
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null,
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -1211,11 +1312,16 @@
           ],
           "NextStageId": "AmbushOnTheShoreStage",
           "BGM": "mus_stream",
-          "FateCardList": [],
-          "ThreatCardList": null,
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_GENTLEWATERS_TEXT_0"
+          ],
+          "FateCardList": [],
+          "ThreatCardList": null,
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -1237,6 +1343,10 @@
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_AMBUSHONTHESHORESTAGE_TEXT_0"
+          ],
           "FateCardList": [
             {
               "Id": "SavedByTheBeornings",
@@ -1244,9 +1354,10 @@
             }
           ],
           "ThreatCardList": null,
-          "NarrativeCount": 1,
-          "NarrativeTextList": [
-            "Q_STAGE_AMBUSHONTHESHORESTAGE_TEXT_0"
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         }
       ],
@@ -1422,6 +1533,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "RefreshingWaters",
@@ -1463,7 +1576,7 @@
         {
           "Id": "SearchingForGrimbeorn",
           "SceneName": "ForestStream03",
-          "IntroMusic": null,
+          "IntroMusic": "mus_cave",
           "IntroVoiceList": [
             "Q5L1_SearchingForGrimbeorn"
           ],
@@ -1477,12 +1590,17 @@
             "Wargs"
           ],
           "NextStageId": "TheTrollsDinner",
-          "BGM": "mus_cave",
-          "FateCardList": [],
-          "ThreatCardList": null,
+          "BGM": "mus_deckmenu",
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_SEARCHINGFORGRIMBEORN_TEXT_0"
+          ],
+          "FateCardList": [],
+          "ThreatCardList": null,
+          "ChoiceBGSprite": "SearchingForGrimbeorn_ChoiceBG",
+          "ChoiceSpriteList": [
+            "SearchingForGrimbeorn_ChoiceSprite_1",
+            "SearchingForGrimbeorn_ChoiceSprite_2"
           ]
         },
         {
@@ -1504,11 +1622,16 @@
           ],
           "NextStageId": "FightWithTheTrolls",
           "BGM": "mus_cave",
-          "FateCardList": null,
-          "ThreatCardList": null,
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_THETROLLSDINNER_TEXT_0"
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null,
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
@@ -1529,6 +1652,10 @@
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_FIGHTWITHTHETROLLS_TEXT_0"
+          ],
           "FateCardList": [
             {
               "Id": "BoldResolve",
@@ -1536,9 +1663,10 @@
             }
           ],
           "ThreatCardList": null,
-          "NarrativeCount": 1,
-          "NarrativeTextList": [
-            "Q_STAGE_FIGHTWITHTHETROLLS_TEXT_0"
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         }
       ],
@@ -1709,6 +1837,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "StaggeringBlow",

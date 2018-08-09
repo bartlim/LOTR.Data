@@ -29,7 +29,7 @@
             "ForestSpider"
           ],
           "NextStageId": "C001Q1L2",
-          "BGM": "mus_mirkwood",
+          "BGM": "mus_thewilderlands",
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q1L1_TEXT_0"
@@ -47,21 +47,25 @@
           "SceneName": "EnchantedStream01",
           "IntroMusic": "mus_deckmenu",
           "IntroVoiceList": [
-            "OpeningMirkwood_01"
+            "OpeningMirkwood_01",
+            ""
           ],
           "IntroSpriteList": [
-            "C001Q1L2_IntroSprite_1"
+            "C001Q1L2_IntroSprite_1",
+            "C001Q1L2_IntroSprite_2"
           ],
           "SoloGameSetup": [
-            "KingSpider",
-            "GiantSpider",
+            "WildBear",
+            "RockAdder",
+            "BlackForestBats",
             "FindAWayAcross"
           ],
           "NextStageId": "C001Q1L3",
           "BGM": "mus_spookyforest",
-          "NarrativeCount": 1,
+          "NarrativeCount": 2,
           "NarrativeTextList": [
-            "Q_STAGE_C001Q1L2_TEXT_0"
+            "Q_STAGE_C001Q1L2_TEXT_0",
+            "Q_STAGE_C001Q1L2_TEXT_1"
           ],
           "FateCardList": [],
           "ThreatCardList": [
@@ -87,11 +91,10 @@
             "C001Q1L3_IntroSprite_1"
           ],
           "SoloGameSetup": [
-            "ThrashingCocoon",
             "GiantSpider",
             "ForestSpider",
-            "SpiderGuard",
-            "ForestSpider"
+            "ForestSpider",
+            "FreshlyWovenCocoon"
           ],
           "NextStageId": "C001Q1L4",
           "BGM": "mus_mirkwood",
@@ -99,12 +102,7 @@
           "NarrativeTextList": [
             "Q_STAGE_C001Q1L3_TEXT_0"
           ],
-          "FateCardList": [
-            {
-              "Id": "FateThrashingCocoon",
-              "Threshold": 7
-            }
-          ],
+          "FateCardList": [],
           "ThreatCardList": [],
           "ChoiceBGSprite": "",
           "ChoiceSpriteList": [
@@ -123,9 +121,10 @@
             "C001Q1L4_IntroSprite_1"
           ],
           "SoloGameSetup": [
-            "SpiderLt1",
-            "SpiderLt2",
-            "SpiderLt3"
+            "ThrashingCocoon",
+            "ForestSpider",
+            "GiantSpider",
+            "SpidersOfMirkwood"
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme",
@@ -133,7 +132,12 @@
           "NarrativeTextList": [
             "Q_STAGE_C001Q1L4_TEXT_0"
           ],
-          "FateCardList": [],
+          "FateCardList": [
+            {
+              "Id": "FateThrashingCocoon",
+              "Threshold": 8
+            }
+          ],
           "ThreatCardList": [],
           "ChoiceBGSprite": "",
           "ChoiceSpriteList": [
@@ -298,6 +302,10 @@
           "Amount": 1,
           "PlayOnce": false
         }
+      ],
+      "VictoryCount": 1,
+      "VictoryTextList": [
+        "Q_QUEST_C001Q1_TEXT_0"
       ],
       "FateCardList": [
         {
@@ -640,6 +648,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "CuttingTheWebs",
@@ -704,10 +714,10 @@
           ],
           "FateCardList": [],
           "ThreatCardList": [],
-          "ChoiceBGSprite": "",
+          "ChoiceBGSprite": "C001Q3L1_ChoiceBG",
           "ChoiceSpriteList": [
-            "",
-            ""
+            "C001Q3L1_ChoiceSprite_1",
+            "C001Q3L1_ChoiceSprite_2"
           ]
         },
         {
@@ -1132,6 +1142,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "ForageForSupplies",
@@ -1475,6 +1487,8 @@
           "PlayOnce": false
         }
       ],
+      "VictoryCount": 0,
+      "VictoryTextList": [],
       "FateCardList": [
         {
           "Id": "StaggeringBlow",
@@ -1819,6 +1833,10 @@
           "Amount": 1,
           "PlayOnce": false
         }
+      ],
+      "VictoryCount": 1,
+      "VictoryTextList": [
+        "Q_QUEST_C001Q5_TEXT_0"
       ],
       "FateCardList": [
         {

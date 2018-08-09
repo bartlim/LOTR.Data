@@ -274,7 +274,7 @@
         "ThreatCardList": [],
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_ForestGate_TEXT_0"
+          "Q_STAGE_FORESTGATE_TEXT_0"
         ]
       },
       {
@@ -293,7 +293,7 @@
         "ThreatCardList": [],
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_CapturedBySpiders_TEXT_0"
+          "Q_STAGE_CAPTUREDBYSPIDERS_TEXT_0"
         ]
       },
       {
@@ -314,7 +314,7 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_StandAndFight_TEXT_0"
+          "Q_STAGE_STANDANDFIGHT_TEXT_0"
         ]
       },
       {
@@ -334,7 +334,7 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_TurnAndFlee_TEXT_0"
+          "Q_STAGE_TURNANDFLEE_TEXT_0"
         ]
       },
       {
@@ -356,7 +356,7 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_TheEnchantedStream_TEXT_0"
+          "Q_STAGE_THEENCHANTEDSTREAM_TEXT_0"
         ]
       },
       {
@@ -381,12 +381,14 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_TheEnchantedStreamAlt_TEXT_0"
+          "Q_STAGE_THEENCHANTEDSTREAMALT_TEXT_0"
         ]
       }
     ],
     "Sequences": [],
     "Stories": [],
+    "VictoryCount": 0,
+    "VictoryTextList": [],
     "FateCardList": [
       {
         "Id": "RangersCache",
@@ -417,9 +419,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180731082610764",
+  "Version": "20180808152922962",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180731082610764"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180808152922962"
 }

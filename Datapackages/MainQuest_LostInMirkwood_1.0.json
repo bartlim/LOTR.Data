@@ -394,7 +394,7 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_MirkwoodForest_TEXT_0"
+          "Q_STAGE_MIRKWOODFOREST_TEXT_0"
         ]
       },
       {
@@ -420,7 +420,7 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_ForestStream_TEXT_0"
+          "Q_STAGE_FORESTSTREAM_TEXT_0"
         ]
       },
       {
@@ -446,7 +446,7 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_BareHilltop_TEXT_0"
+          "Q_STAGE_BAREHILLTOP_TEXT_0"
         ]
       },
       {
@@ -466,7 +466,7 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_MirkwoodSwamp_TEXT_0"
+          "Q_STAGE_MIRKWOODSWAMP_TEXT_0"
         ]
       },
       {
@@ -486,7 +486,7 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_OvergrownTrail_TEXT_0"
+          "Q_STAGE_OVERGROWNTRAIL_TEXT_0"
         ]
       },
       {
@@ -506,12 +506,14 @@
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_AbandonedVillage_TEXT_0"
+          "Q_STAGE_ABANDONEDVILLAGE_TEXT_0"
         ]
       }
     ],
     "Sequences": [],
     "Stories": [],
+    "VictoryCount": 0,
+    "VictoryTextList": [],
     "FateCardList": [
       {
         "Id": "MakeAStand",
@@ -542,9 +544,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180731082619677",
+  "Version": "20180808152931951",
   "Key": "MainQuest",
   "SubKey": "LostInMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_LostInMirkwood_20180731082619677"
+  "InternalKey": "MainQuest_LostInMirkwood_20180808152931951"
 }

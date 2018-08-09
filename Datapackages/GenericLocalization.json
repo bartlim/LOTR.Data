@@ -1249,9 +1249,9 @@
   },
   {
     "Id": "U_SHOP_PALANTIRPACK_ITEMS",
-    "Text": "The Palantír is a wondrous object of mysterious ability.\n\nWhen you gaze into the Palantír, you receive two \nrewards from the following possibilities:\n\nValor Points; cards you do not own already; \nor new cosmetic items",
-    "Text_CN": "[C]The Palantír is a wondrous object of mysterious ability.\n\nWhen you gaze into the Palantír, you receive two \nrewards from the following possibilities:\n\nValor Points; cards you do not own already; \nor new cosmetic items",
-    "Text_FR": "The Palantír is a wondrous object of mysterious ability.\n\nWhen you gaze into the Palantír, you receive two \nrewards from the following possibilities:\n\nValor Points; cards you do not own already; \nor new cosmetic items"
+    "Text": "<i><indent=50><size=58>T</size>he</indent> Palantír is a bonus system. This wondrous \nobject of mysterious ability grants rewards when \nyou gaze into it.\n<indent=50>You</indent> spend a Palantír View each time you gaze \ninto the Palantír. You then receive two rewards \nfrom the following possibilities:\n<indent=50>Valor</indent> Points; cards you do not own already; \nor new cosmetic items.\n<indent=50>Palantír</indent> Views are precious things. You can \ngain them through exceptional gameplay or \nthrough special boons bestowed upon you.</i>",
+    "Text_CN": "[C]<i><indent=50><size=58>T</size>he</indent> Palantír is a bonus system. This wondrous \nobject of mysterious ability grants rewards when \nyou gaze into it.\n<indent=50>You</indent> spend a Palantír View each time you gaze \ninto the Palantír. You then receive two rewards \nfrom the following possibilities:\n<indent=50>Valor</indent> Points; cards you do not own already; \nor new cosmetic items.\n<indent=50>Palantír</indent> Views are precious things. You can \ngain them through exceptional gameplay or \nthrough special boons bestowed upon you.</i>",
+    "Text_FR": "<i><indent=50><size=58>T</size>he</indent> Palantír is a bonus system. This wondrous \nobject of mysterious ability grants rewards when \nyou gaze into it.\n<indent=50>You</indent> spend a Palantír View each time you gaze \ninto the Palantír. You then receive two rewards \nfrom the following possibilities:\n<indent=50>Valor</indent> Points; cards you do not own already; \nor new cosmetic items.\n<indent=50>Palantír</indent> Views are precious things. You can \ngain them through exceptional gameplay or \nthrough special boons bestowed upon you.</i>"
   },
   {
     "Id": "U_SHOP_PALANTIRPACK_PACKS",
@@ -2589,7 +2589,7 @@
     "Id": "U_QUEST_SCORE_YOUR_SCORE",
     "Text": "Scoring",
     "Text_CN": "[C]您的分数",
-    "Text_FR": "Scoring"
+    "Text_FR": "SCORE"
   },
   {
     "Id": "U_QUEST_SCORE_BONUS_REWARDS",
@@ -2619,7 +2619,7 @@
     "Id": "U_QUEST_SCORE_OBJECTIVE_RESOLVED",
     "Text": "Hazards Resolved",
     "Text_CN": "[C]解决的目标数量",
-    "Text_FR": "Hazards Resolved"
+    "Text_FR": "Objectifs atteints"
   },
   {
     "Id": "U_QUEST_SCORE_FAVOR_CARD_BONUS",
@@ -2701,7 +2701,7 @@
   },
   {
     "Id": "U_SHOP_VALOR_GO_BUY_HERO_PACK",
-    "Text": "To unlock this card, purchase \nthe Hero Pack: {0}",
+    "Text": "To unlock this card, purchase the \nHero Pack: {0}",
     "Text_CN": "[C]要解锁这张卡，请购买英雄卡包：{0}",
     "Text_FR": "To unlock this card, purchase the Hero Pack: {0}"
   },
@@ -4063,9 +4063,9 @@
   },
   {
     "Id": "U_SHOP_HEROPACK_DESC_HEROPACK_STEADFASTCOMPANION",
-    "Text": "Steadfast Companion description",
-    "Text_CN": "[C]可靠的朋友",
-    "Text_FR": "Steadfast Companion description"
+    "Text": "<i>Dwalin of the House of Durin leads the battle against all enemies of the Dwarves—whether Orcs, Wargs, Spiders, or any other foe.</i>\nThis pack focuses on enhancing Characters’ abilities to overwhelm enemy ranks and resolve Objectives.",
+    "Text_CN": "[C]<i>Dwalin of the House of Durin leads the battle against all enemies of the Dwarves—whether Orcs, Wargs, Spiders, or any other foe.</i>\nThis pack focuses on enhancing Characters’ abilities to overwhelm enemy ranks and resolve Objectives.",
+    "Text_FR": "<i>Dwalin of the House of Durin leads the battle against all enemies of the Dwarves—whether Orcs, Wargs, Spiders, or any other foe.</i>\nThis pack focuses on enhancing Characters’ abilities to overwhelm enemy ranks and resolve Objectives."
   },
   {
     "Id": "U_DECKMENU_HEROPACK_TITLE_HEROPACK_STEADFASTCOMPANION",
@@ -4076,19 +4076,19 @@
   {
     "Id": "U_STAGE_FULL",
     "Text": "The battle stage is full!",
-    "Text_CN": "[C]战场已满",
+    "Text_CN": "[C]The battle stage is full!",
     "Text_FR": "The battle stage is full!"
   },
   {
     "Id": "U_FATE_NOT_ENOUGH_FATE",
-    "Text": "Not Enough Fate!",
-    "Text_CN": "[C]菲特不足！",
-    "Text_FR": "Not Enough Fate!"
+    "Text": "Not Enough Fate",
+    "Text_CN": "[C]Not Enough Fate",
+    "Text_FR": "Not Enough Fate"
   },
   {
     "Id": "U_CAMPAIGN_COMPLETE",
     "Text": "CAMPAIGN COMPLETE",
-    "Text_CN": "[C]战役完成！",
+    "Text_CN": "[C]CAMPAIGN COMPLETE",
     "Text_FR": "CAMPAIGN COMPLETE"
   },
   {
@@ -4126,6 +4126,12 @@
     "Text": "Best Score: ",
     "Text_CN": "[C]Best Score: ",
     "Text_FR": "Best Score: "
+  },
+  {
+    "Id": "U_QUEST_COMPLETE_FIRST_TIME",
+    "Text": "Congratulations!\nYou've completed the <i>{0}</i> for the first time. As a special reward, you've earned this bonus!",
+    "Text_CN": "[C]Congratulations!\nYou've completed the <i>{0}</i> for the first time. As a special reward, you've earned this bonus!",
+    "Text_FR": "Congratulations!\nYou've completed the <i>{0}</i> for the first time. As a special reward, you've earned this bonus!"
   },
   {
     "Id": "PLACEHOLDER2",
@@ -14191,7 +14197,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q1L3_NAME",
-    "Text": "A Rescue"
+    "Text": "A Fresh Dilemma"
   },
   {
     "Id": "Q_STAGE_C001Q1L3_TEXT",
@@ -14199,11 +14205,11 @@
   },
   {
     "Id": "Q_STAGE_C001Q1L3_OBJECTIVE",
-    "Text": "Open the Thrashing Cocoon either through questing or the fate event to proceed."
+    "Text": "Free your friend from the Cocoon!"
   },
   {
     "Id": "Q_STAGE_C001Q1L4_NAME",
-    "Text": "Three is Company"
+    "Text": "A Timely Rescue"
   },
   {
     "Id": "Q_STAGE_C001Q1L4_TEXT",
@@ -14211,7 +14217,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q1L4_OBJECTIVE",
-    "Text": "Defeat the bosses"
+    "Text": "<b>Final Encounter</b>: Drive off the spiders and open the cocoon"
   },
   {
     "Id": "Q_QUEST_C001Q2_NAME",
@@ -15911,19 +15917,19 @@
   },
   {
     "Id": "Q_STAGE_C001Q1L1_TEXT_0",
-    "Text": "<size=50%><i><size=58>T</size>he tranquility of Beorn’s Hall is shattered when a devastated Glóin bursts in. The old dwarf shares dreadful news: he and his dear friend Bilbo were ambushed by giant spiders—and one of them has taken the hobbit!\r\n<indent=50></indent>“And to think that Bilbo once rescued </i>us<i> from such webs,\" Glóin sobs. \"If only Gandalf were here!”\r\n<indent=50></indent>The Grey Wizard is far from the hall this night. Still, all is not lost. Having heard every word, you and your companions stand as one and volunteer to rescue Bilbo… hopefully before he is consumed or suffers an even greater unpleasantness.\r\n<indent=50></indent>Glóin pledges to take you, but he can barely stand from exhaustion.\r\n<indent=50></indent>\"Alas, I will only slow you down.\" Glóin's voice is raw with anguish. Then inspiration strikes. He sketches a map on a bit of parchment. \"This will lead you to where Bilbo was taken. go—quickly!\"</i></size>"
+    "Text": "Arriving at Beorn’s Hall, you learn that Mirkwood spiders have taken the famous Bilbo Baggins. Without hesitation, you and your companions volunteer to rescue the hobbit… hopefully before he’s consumed or suffers some other deadly unpleasantness.\r\n\r\nThe dwarf Glóin was there when Bilbo was captured. Though he wishes he could take you, he can barely stand from exhaustion. Instead, he hands you a map, sketched on a bit of parchment, to guide your way.\r\n\r\nAnd so you come to stand before what was once known as Greenwood the Great, but that the wary and wise now call Mirkwood. A sleeping evil once inhabited this land, but was purged many years ago. Since, it has known a period of peace and the slow return of wholesome life.\r\n\r\nYet as you advance, you sense a foulness on the air. You fear that evil may have returned.\r\n\r\nIndeed, just as you start investigating the area, several giant spiders creep into the glade. They don’t seem at all interested in assisting your search. Quite the contrary…"
   },
   {
     "Id": "Q_STAGE_C001Q1L2_TEXT_0",
-    "Text": "DefaultStory1"
+    "Text": "A cocoon is hauled before the Lady. The creature next to her squeals in anticipation, a yellowish light glowing in its lantern-like eyes.\r\n\r\n“Eats it, m’lady! Scrumptious it is.” The creature gives the cocoon a kick. “False it is, Baggins. Trickster, thief. Eats it, eeeeats it! Gollum.”\r\n\r\nThe spider-thing looms over the cocoon, spear-sized pincers emerging from her dripping maw as she prepares to feed.\r\n\r\n“Suck it to boneses! Sweet and juicy, hobbitses is. Not like tough dwarvses or tricksy elvses. Just leave its clothses, m’lady. Gollum. The Precious is in its pocketses. My Precioussss.”\r\n\r\nA clamor arises beyond the lair. Her minions investigate while the Lady rises, meal forgotten for the moment. A vile odor gusts from quivering glands on her bloated belly.\r\n\r\n“Don’t listen to woodsy noises, m’lady,” the creature pleads, flapping its hands and bobbing its scrawny neck. “Eat, eat, while hobbitses is warmses.”\r\n\r\nBut the sounds only increase. Someone has arrived. The spiders move to greet them…"
   },
   {
     "Id": "Q_STAGE_C001Q1L3_TEXT_0",
-    "Text": "DefaultStory1"
+    "Text": "Having held back your foes long enough to cross the dead tree, you make it to the far shore. The beasts seem unwilling to pursue—and you soon realize why. To your dismay. giant spiders have been lying in wait at this side of the stream. They must be scouts of the group you've been tracking.\r\n\r\nThe spiders use their sheer bulk to swarm over your party. You drive them back, only to discover that it was a feint—they cocooned one of your companions during the melee. You must act with haste to keep the spiders from scampering off with your friend!"
   },
   {
     "Id": "Q_STAGE_C001Q1L4_TEXT_0",
-    "Text": "DefaultStory1"
+    "Text": "Following subtle signs, you continue your search for the spiders' trail. Before the monotony of the forest can start clawing at you again, you come upon a clearing in the trees. The sluggish breeze and wan gray light of the dell are a welcome change from the humid twilight of the forest.\r\n\r\nEven more welcome, on the far side you spy what you've been searching for: A group of giant spiders, hovering over a tightly-wound cocoon that thrashes upon ground.\r\n\r\nIt’s time for a rescue! "
   },
   {
     "Id": "Q_STAGE_C001Q2L1_TEXT_0",
@@ -15999,7 +16005,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q3L4_TEXT_0",
-    "Text": "DefaultStory1"
+    "Text": "Now hidden, you advance on the tower, dodging patrols and guards. However, a cursory scout of the area reveals a locked gate being the only way in besides the heavily guarded main gate. You'll need the key. One of the nearby guards may have it though."
   },
   {
     "Id": "Q_STAGE_C001Q3L5_NAME",
@@ -16011,7 +16017,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q3L5_TEXT_0",
-    "Text": "Is it a Tunnel, or a Tower?"
+    "Text": "The heroes have made it inside the tower and are looking for Bilbo's whereabouts."
   },
   {
     "Id": "C_GNOG_TITLE",
@@ -16183,7 +16189,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q1L1_TEXT_1",
-    "Text": "<size=50%><i><size=58>S</size>oon you stand before the vast forest once known as Greenwood the Great, but that the wary and wise now call Mirkwood. A sleeping evil once inhabited this land, but was purged many years ago. Since that time, it has known peace and a return of wholesome, uncorrupted life. Yet as you advance, you sense a foulness on the air. You fear that evil may have returned.\r\n<indent=50></indent>Rough though Glóin's map was, it nonetheless leads you unerringly to the site of Bilbo's capture. You waste no time searching for signs of a trail to pursue. Haste is called for if you hope to rescue the hobbit. Spiders are not known for their patience.\r\n<indent=50></indent>There are ample signs of struggle, with several of Bilbo's possessions strewn about. You also notice several giant spiders creeping into the glade. They don't seem at all interested in assisting your search. Quite the contrary…</i></size>"
+    "Text": "<line-height=100%><size=200%>S</size>oon you stand before the vast forest once known as Greenwood the Great, but that the wary and wise now call Mirkwood. A sleeping evil once inhabited this land but was purged many years ago. Since that time, it has known peace and a slow return of wholesome, uncorrupted life. Yet as you advance, you sense a foulness on the air. You fear that evil may have returned.\r\n<indent=50></indent>Rough though Glóin's map was, it nonetheless leads you unerringly to the site of Bilbo's capture. You begin searching for signs of a trail to pursue. Haste is called for if you hope to rescue the hobbit. Spiders are not known for their patience.\r\n<indent=50></indent>There are ample signs of struggle, with several of Bilbo's possessions strewn about. You then see several giant spiders emerge from the woods. They don't seem at all interested in assisting your search. Quite the contrary…"
   },
   {
     "Id": "Q_STAGE_C001Q1L1_TEXT_2",
@@ -16431,7 +16437,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q3L1_CHOICE_TEXT",
-    "Text": ""
+    "Text": "Gollum's Help\nDo you ignore Gollum, or listen to Gollum..."
   },
   {
     "Id": "Q_STAGE_C001Q3L2A_CHOICE_TEXT",
@@ -16756,5 +16762,41 @@
   {
     "Id": "Q_QUEST_C901Q1_TEXT_1",
     "Text": "but it took some time to do"
+  },
+  {
+    "Id": "Q_QUEST_C001Q3_TEXT_0",
+    "Text": "You have been betrayed! Gollum cackles madly then runs off as you fall into a deep dark pit filled with strange and disturbing smells ...and noises. You are not alone..."
+  },
+  {
+    "Id": "Q_QUEST_C001Q1_TEXT_0",
+    "Text": "Having dispatched the spiders, you tear open the disconcertingly large cocoon. Much to your disappointment—though not to his—the captive is not Bilbo, but a Beorning!\r\n\r\nHe introduces himself as Wilelk and thanks you profusely. While he doesn’t speak their chittering language, he suspects the spiders were debating whether to carry him onward or eat him.\r\n\r\nWilelk shudders, looking upon the carnage of the dell. He describes how spiders ambushed him near the eaves of Mirkwood, many leagues south of Beorn's estate, where he tends bees. He also relates that others of his tribe have gone missing in recent months. He suspects they fell prey to similar circumstances, but cannot say why the spiders are so daring after years of relative calm.\r\n\r\nThe beekeeper admits he's afraid to return alone. He asks to join you instead, and indicates the direction he believes the spiders were headed. \r\n\r\nAs one, you scan the gloomy forest. Somewhere under the never-ending trees, an old hobbit awaits rescue… or doom."
+  },
+  {
+    "Id": "Q_QUEST_C001Q5_TEXT_0",
+    "Text": "You have successfully gotten Bilbo to safety in Lorien. He will need time to recover from his ordeal before he moves along on his travels to Dale. You however, have adventures ahead of you investigating the information gathered on your adventure..."
+  },
+  {
+    "Id": "Q_QUEST_C001Q2_TEXT_0",
+    "Text": "You have succeeded in defeating Ungoliant's Spawn, but Bilbo is still nowhere to be found."
+  },
+  {
+    "Id": "Q_QUEST_C001Q4_TEXT_0",
+    "Text": "You've defied every problem along the way and saved Bilbo. Now you must make good on your escape though..."
+  },
+  {
+    "Id": "Q_QUEST_C901Q4_TEXT_0",
+    "Text": "DefaultVictory1"
+  },
+  {
+    "Id": "Q_STAGE__TEXT_0",
+    "Text": "DefaultStory1"
+  },
+  {
+    "Id": "Q_STAGE__CHOICE_TEXT",
+    "Text": "Q_STAGE__CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L2_TEXT_1",
+    "Text": "You probe deeper into the forest, thorny undergrowth and sticky crawlers grabbing at your every step. The hope kindled by finding Bilbo’s sword wanes after hours of travel leave you scratched and worn.\r\n\r\nA subtle shift in the noises of the forest heralds a change in scenery. You come upon a dark, gurgling stream that flows beneath a thick canopy of trees. You’ve been warned not to trust any water in Mirkwood—only that gathered from fresh rain. Indeed, though the sound is soothing, a strange odor emanates from the flowing water. Its befouled current offers further evidence that evil encroaches once more upon Mirkwood.\r\n\r\nThe spiders crossed along the branches that reach from either side. You must find another way. At a bend in the river, you spot a dead tree leaning over the water. It should make a serviceable bridge if you can direct its fall.\r\n\r\nYou and your companions heave at the trunk. Soon, the dead tree crashes across the stream in a cacophony of tearing roots and breaking branches. As you step upon the log, you realize that the sound stirred something in the thick foliage nearby. You barely have time to call out before the creature is upon you!"
   }
 ]

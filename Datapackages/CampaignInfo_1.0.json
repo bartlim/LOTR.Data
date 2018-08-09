@@ -40,8 +40,11 @@
               ],
               "FateCardList": [],
               "ThreatCardList": [],
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "CapturedBySpiders",
@@ -65,8 +68,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": [],
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "StandAndFight",
@@ -93,8 +99,11 @@
               ],
               "FateCardList": [],
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "TurnAndFlee",
@@ -120,8 +129,11 @@
               ],
               "FateCardList": [],
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "TheEnchantedStream",
@@ -149,8 +161,11 @@
                 }
               ],
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "TheEnchantedStreamAlt",
@@ -181,8 +196,11 @@
                 }
               ],
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             }
           ],
           "SauronDeck": [
@@ -343,7 +361,7 @@
             }
           ],
           "VictoryCount": 0,
-          "VictoryTextList": null,
+          "VictoryTextList": [],
           "FateCardList": [
             {
               "Id": "RangersCache",
@@ -410,8 +428,11 @@
                 }
               ],
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "TheSpidersLair",
@@ -436,8 +457,11 @@
               ],
               "FateCardList": [],
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "TheSpidersWebs",
@@ -462,8 +486,11 @@
               ],
               "FateCardList": [],
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "ForestGlade",
@@ -489,8 +516,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             }
           ],
           "SauronDeck": [
@@ -666,7 +696,7 @@
             }
           ],
           "VictoryCount": 0,
-          "VictoryTextList": null,
+          "VictoryTextList": [],
           "FateCardList": [
             {
               "Id": "CuttingTheWebs",
@@ -731,8 +761,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "ForestStream",
@@ -764,8 +797,11 @@
                 }
               ],
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "BareHilltop",
@@ -797,8 +833,11 @@
                 }
               ],
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "MirkwoodSwamp",
@@ -824,8 +863,11 @@
               ],
               "FateCardList": [],
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "OvergrownTrail",
@@ -851,8 +893,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "AbandonedVillage",
@@ -878,8 +923,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             }
           ],
           "SauronDeck": [
@@ -1115,7 +1163,7 @@
             }
           ],
           "VictoryCount": 0,
-          "VictoryTextList": null,
+          "VictoryTextList": [],
           "FateCardList": [
             {
               "Id": "MakeAStand",
@@ -1182,8 +1230,11 @@
                 }
               ],
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "AnduinPassage",
@@ -1209,8 +1260,11 @@
               ],
               "FateCardList": [],
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "TreacherousShortcut",
@@ -1237,8 +1291,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "GentleWaters",
@@ -1263,8 +1320,11 @@
               ],
               "FateCardList": [],
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "AmbushOnTheShoreStage",
@@ -1296,8 +1356,11 @@
                 }
               ],
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             }
           ],
           "SauronDeck": [
@@ -1473,7 +1536,7 @@
             }
           ],
           "VictoryCount": 0,
-          "VictoryTextList": null,
+          "VictoryTextList": [],
           "FateCardList": [
             {
               "Id": "RefreshingWaters",
@@ -1515,7 +1578,7 @@
             {
               "Id": "SearchingForGrimbeorn",
               "SceneName": "ForestStream03",
-              "IntroMusic": null,
+              "IntroMusic": "mus_cave",
               "IntroVoiceList": [
                 "Q5L1_SearchingForGrimbeorn"
               ],
@@ -1529,15 +1592,18 @@
                 "Wargs"
               ],
               "NextStageId": "TheTrollsDinner",
-              "BGM": "mus_cave",
+              "BGM": "mus_deckmenu",
               "NarrativeCount": 1,
               "NarrativeTextList": [
                 "Q_STAGE_SEARCHINGFORGRIMBEORN_TEXT_0"
               ],
               "FateCardList": [],
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "SearchingForGrimbeorn_ChoiceBG",
+              "ChoiceSpriteList": [
+                "SearchingForGrimbeorn_ChoiceSprite_1",
+                "SearchingForGrimbeorn_ChoiceSprite_2"
+              ]
             },
             {
               "Id": "TheTrollsDinner",
@@ -1564,8 +1630,11 @@
               ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "FightWithTheTrolls",
@@ -1596,8 +1665,11 @@
                 }
               ],
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             }
           ],
           "SauronDeck": [
@@ -1768,7 +1840,7 @@
             }
           ],
           "VictoryCount": 0,
-          "VictoryTextList": null,
+          "VictoryTextList": [],
           "FateCardList": [
             {
               "Id": "StaggeringBlow",
@@ -1832,7 +1904,7 @@
                 "ForestSpider"
               ],
               "NextStageId": "C001Q1L2",
-              "BGM": "mus_mirkwood",
+              "BGM": "mus_thewilderlands",
               "NarrativeCount": 1,
               "NarrativeTextList": [
                 "Q_STAGE_C001Q1L1_TEXT_0"
@@ -1850,21 +1922,25 @@
               "SceneName": "EnchantedStream01",
               "IntroMusic": "mus_deckmenu",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "OpeningMirkwood_01",
+                ""
               ],
               "IntroSpriteList": [
-                "C001Q1L2_IntroSprite_1"
+                "C001Q1L2_IntroSprite_1",
+                "C001Q1L2_IntroSprite_2"
               ],
               "SoloGameSetup": [
-                "KingSpider",
-                "GiantSpider",
+                "WildBear",
+                "RockAdder",
+                "BlackForestBats",
                 "FindAWayAcross"
               ],
               "NextStageId": "C001Q1L3",
               "BGM": "mus_spookyforest",
-              "NarrativeCount": 1,
+              "NarrativeCount": 2,
               "NarrativeTextList": [
-                "Q_STAGE_C001Q1L2_TEXT_0"
+                "Q_STAGE_C001Q1L2_TEXT_0",
+                "Q_STAGE_C001Q1L2_TEXT_1"
               ],
               "FateCardList": [],
               "ThreatCardList": [
@@ -1890,11 +1966,10 @@
                 "C001Q1L3_IntroSprite_1"
               ],
               "SoloGameSetup": [
-                "ThrashingCocoon",
                 "GiantSpider",
                 "ForestSpider",
-                "SpiderGuard",
-                "ForestSpider"
+                "ForestSpider",
+                "FreshlyWovenCocoon"
               ],
               "NextStageId": "C001Q1L4",
               "BGM": "mus_mirkwood",
@@ -1902,12 +1977,7 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q1L3_TEXT_0"
               ],
-              "FateCardList": [
-                {
-                  "Id": "FateThrashingCocoon",
-                  "Threshold": 7
-                }
-              ],
+              "FateCardList": [],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
               "ChoiceSpriteList": [
@@ -1926,9 +1996,10 @@
                 "C001Q1L4_IntroSprite_1"
               ],
               "SoloGameSetup": [
-                "SpiderLt1",
-                "SpiderLt2",
-                "SpiderLt3"
+                "ThrashingCocoon",
+                "ForestSpider",
+                "GiantSpider",
+                "SpidersOfMirkwood"
               ],
               "NextStageId": "",
               "BGM": "mus_saurontheme",
@@ -1936,7 +2007,12 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q1L4_TEXT_0"
               ],
-              "FateCardList": [],
+              "FateCardList": [
+                {
+                  "Id": "FateThrashingCocoon",
+                  "Threshold": 8
+                }
+              ],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
               "ChoiceSpriteList": [
@@ -2102,8 +2178,10 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
+          "VictoryCount": 1,
+          "VictoryTextList": [
+            "Q_QUEST_C001Q1_TEXT_0"
+          ],
           "FateCardList": [
             {
               "Id": "UnexpectedAid",
@@ -2446,7 +2524,7 @@
             }
           ],
           "VictoryCount": 0,
-          "VictoryTextList": null,
+          "VictoryTextList": [],
           "FateCardList": [
             {
               "Id": "CuttingTheWebs",
@@ -2511,10 +2589,10 @@
               ],
               "FateCardList": [],
               "ThreatCardList": [],
-              "ChoiceBGSprite": "",
+              "ChoiceBGSprite": "C001Q3L1_ChoiceBG",
               "ChoiceSpriteList": [
-                "",
-                ""
+                "C001Q3L1_ChoiceSprite_1",
+                "C001Q3L1_ChoiceSprite_2"
               ]
             },
             {
@@ -2940,7 +3018,7 @@
             }
           ],
           "VictoryCount": 0,
-          "VictoryTextList": null,
+          "VictoryTextList": [],
           "FateCardList": [
             {
               "Id": "ForageForSupplies",
@@ -3285,7 +3363,7 @@
             }
           ],
           "VictoryCount": 0,
-          "VictoryTextList": null,
+          "VictoryTextList": [],
           "FateCardList": [
             {
               "Id": "StaggeringBlow",
@@ -3631,8 +3709,10 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
+          "VictoryCount": 1,
+          "VictoryTextList": [
+            "Q_QUEST_C001Q5_TEXT_0"
+          ],
           "FateCardList": [
             {
               "Id": "RefreshingWaters",
@@ -3691,6 +3771,7 @@
               ],
               "SoloGameSetup": [
                 "FindThePath",
+                "MarshAdder",
                 "VeteranPatrol"
               ],
               "NextStageId": "C901Q1L2,C901Q1L3",
@@ -4594,10 +4675,8 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 1,
-          "VictoryTextList": [
-            "Q_QUEST_C901Q1_TEXT_0"
-          ],
+          "VictoryCount": 0,
+          "VictoryTextList": [],
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -4805,6 +4884,31 @@
                 "",
                 ""
               ]
+            },
+            {
+              "Id": "",
+              "SceneName": "",
+              "IntroMusic": "mus_cave",
+              "IntroVoiceList": [
+                "OpeningMirkwood_01"
+              ],
+              "IntroSpriteList": [
+                "Sprites/Locations/Quest1_Stage01"
+              ],
+              "SoloGameSetup": null,
+              "NextStageId": "",
+              "BGM": "mus_cave",
+              "NarrativeCount": 1,
+              "NarrativeTextList": [
+                "Q_STAGE__TEXT_0"
+              ],
+              "FateCardList": null,
+              "ThreatCardList": null,
+              "ChoiceBGSprite": "_ChoiceBG",
+              "ChoiceSpriteList": [
+                "_ChoiceSprite_1",
+                "_ChoiceSprite_2"
+              ]
             }
           ],
           "SauronDeck": [
@@ -4854,8 +4958,10 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": [],
+          "VictoryCount": 1,
+          "VictoryTextList": [
+            "Q_QUEST_C901Q4_TEXT_0"
+          ],
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
