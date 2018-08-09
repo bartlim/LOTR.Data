@@ -364,8 +364,10 @@
     ],
     "Sequences": [],
     "Stories": [],
-    "VictoryCount": 0,
-    "VictoryTextList": [],
+    "VictoryCount": 1,
+    "VictoryTextList": [
+      "Q_QUEST_FLIESANDSPIDERS_TEXT_0"
+    ],
     "FateCardList": [
       {
         "Id": "CuttingTheWebs",
@@ -396,9 +398,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180808152927261",
+  "Version": "20180809040322036",
   "Key": "MainQuest",
   "SubKey": "FliesAndSpiders",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_FliesAndSpiders_20180808152927261"
+  "InternalKey": "MainQuest_FliesAndSpiders_20180809040322036"
 }

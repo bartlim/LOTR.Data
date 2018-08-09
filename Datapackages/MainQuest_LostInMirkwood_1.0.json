@@ -390,7 +390,7 @@
         "NextStageTitles": [
           "ForestStream"
         ],
-        "FateCardList": null,
+        "FateCardList": [],
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
@@ -512,8 +512,10 @@
     ],
     "Sequences": [],
     "Stories": [],
-    "VictoryCount": 0,
-    "VictoryTextList": [],
+    "VictoryCount": 1,
+    "VictoryTextList": [
+      "Q_QUEST_LOSTINMIRKWOOD_TEXT_0"
+    ],
     "FateCardList": [
       {
         "Id": "MakeAStand",
@@ -544,9 +546,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180808152931951",
+  "Version": "20180809040326653",
   "Key": "MainQuest",
   "SubKey": "LostInMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_LostInMirkwood_20180808152931951"
+  "InternalKey": "MainQuest_LostInMirkwood_20180809040326653"
 }

@@ -9260,6 +9260,54 @@
     "Text_FR": "You will encounter many Objectives\nand Hazards on your Quests"
   },
   {
+    "Id": "T_POP_V5_THANKSTARBROOCH",
+    "Text": "Thanks to the Star Brooch, Glóin gains Stalwart",
+    "Text_CN": "Thanks to the Star Brooch, Glóin gains Stalwart",
+    "Text_FR": "Thanks to the Star Brooch, Glóin gains Stalwart"
+  },
+  {
+    "Id": "T_POP_V5_VIEWBLOCKCARD",
+    "Text": "Some units have Block. Select King Spider to view the card detail ",
+    "Text_CN": "Some units have Block. Select King Spider to view the card detail ",
+    "Text_FR": "Some units have Block. Select King Spider to view the card detail "
+  },
+  {
+    "Id": "T_POP_V5_VIEWSNEAKATTACK",
+    "Text": "Select Sneak Attack to view the card detail ",
+    "Text_CN": "Select Sneak Attack to view the card detail ",
+    "Text_FR": "Select Sneak Attack to view the card detail "
+  },
+  {
+    "Id": "T_POP_V5_SNEAKATTACKABILITY",
+    "Text": "Sneak Attack plays a random Ally that helps you, but it gains the Fleeting keyword",
+    "Text_CN": "Sneak Attack plays a random Ally that helps you, but it gains the Fleeting keyword",
+    "Text_FR": "Sneak Attack plays a random Ally that helps you, but it gains the Fleeting keyword"
+  },
+  {
+    "Id": "T_POP_V5_FLEETING",
+    "Text": "A unit with Fleeting is removed at the end of the round",
+    "Text_CN": "A unit with Fleeting is removed at the end of the round",
+    "Text_FR": "A unit with Fleeting is removed at the end of the round"
+  },
+  {
+    "Id": "T_POP_V5_LOOMINGDANGER",
+    "Text": "Threat is a measure of the looming danger that Sauron represents",
+    "Text_CN": "Threat is a measure of the looming danger that Sauron represents",
+    "Text_FR": "Threat is a measure of the looming danger that Sauron represents"
+  },
+  {
+    "Id": "T_POP_V5_THEATTIER",
+    "Text": "When the meter reaches a Threat tier, it means a Threat Event will trigger the next round!",
+    "Text_CN": "When the meter reaches a Threat tier, it means a Threat Event will trigger the next round!",
+    "Text_FR": "When the meter reaches a Threat tier, it means a Threat Event will trigger the next round!"
+  },
+  {
+    "Id": "T_POP_V5_CAREGIVERFLEETING",
+    "Text": "Since Sneak Attack played Imladris Caregiver, it has Fleeting and leaves at the end of the round",
+    "Text_CN": "Since Sneak Attack played Imladris Caregiver, it has Fleeting and leaves at the end of the round",
+    "Text_FR": "Since Sneak Attack played Imladris Caregiver, it has Fleeting and leaves at the end of the round"
+  },
+  {
     "Id": "_PLACEHOLDER5",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
@@ -16830,5 +16878,121 @@
   {
     "Id": "Q_STAGE_C902Q5L1_CHOICE_TITLE_TEXT",
     "Text": "Q_STAGE_C902Q5L1_CHOICE_TITLE_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_TEXT_0",
+    "Text": "<i><size=58>A</size>lthough weary from your trevails, you summon the strength to cross the enchanted river. Having its dark waters between you and your pursuers brings some measure of relief, but you know well that further dangers lie ahead. You continue your journey, even more determined to warn the Beornings of the unrest stirring within Mirkwood Forest…</i>"
+  },
+  {
+    "Id": "Q_STAGE_FORESTGATE_CHOICE_TEXT",
+    "Text": "Q_STAGE_FORESTGATE_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_CAPTUREDBYSPIDERS_CHOICE_TEXT",
+    "Text": "<i>Having rescued your friend and left the spiders’ lair, you must decide upon your next course of action. Though you have no idea how many Orcs patrol these woods, their presence threatens the success of your mission. Do you stay off the main path and find an alternate route around them, or confront them directly in hopes of pushing on quickly?</i>"
+  },
+  {
+    "Id": "Q_STAGE_STANDANDFIGHT_CHOICE_TEXT",
+    "Text": "Q_STAGE_STANDANDFIGHT_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_TURNANDFLEE_CHOICE_TEXT",
+    "Text": "Q_STAGE_TURNANDFLEE_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_THEENCHANTEDSTREAM_CHOICE_TEXT",
+    "Text": "Q_STAGE_THEENCHANTEDSTREAM_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_THEENCHANTEDSTREAMALT_CHOICE_TEXT",
+    "Text": "Q_STAGE_THEENCHANTEDSTREAMALT_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_FLIESANDSPIDERS_TEXT_0",
+    "Text": "An unearthly shriek reverberates through the predawn woods as Ungoliant's Spawn thrashes about in her death throes. Even as her swollen carcass twitches its last, you spare no time to revel in victory. Eager to leave this place behind, you strike out deeper into the forest to continue your mission…"
+  },
+  {
+    "Id": "Q_STAGE_DARKFOREST_CHOICE_TEXT",
+    "Text": "Q_STAGE_DARKFOREST_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_THESPIDERSLAIR_CHOICE_TEXT",
+    "Text": "Q_STAGE_THESPIDERSLAIR_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_THESPIDERSWEBS_CHOICE_TEXT",
+    "Text": "Q_STAGE_THESPIDERSWEBS_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_FORESTGLADE_CHOICE_TEXT",
+    "Text": "Q_STAGE_FORESTGLADE_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_LOSTINMIRKWOOD_TEXT_0",
+    "Text": "<i><size=58>A</size>gainst all odds, you have escaped Mirkwood Forest. Before you stretches the vales of Anduin, and the Misty Mountains beyond. The next leg of your journey lies to the south: the realm of the Beornings. Having seen firsthand the menace rising within Mirkwood, you know well the urgency to your mission. Still, you grant yourself a brief pause to gather your strength, the clear sky being a welcome change from your time under Mirkwood's dark canopy…</i>"
+  },
+  {
+    "Id": "Q_STAGE_MIRKWOODFOREST_CHOICE_TEXT",
+    "Text": "Q_STAGE_MIRKWOODFOREST_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_FORESTSTREAM_CHOICE_TEXT",
+    "Text": "Q_STAGE_FORESTSTREAM_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_BAREHILLTOP_CHOICE_TEXT",
+    "Text": "Q_STAGE_BAREHILLTOP_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_MIRKWOODSWAMP_CHOICE_TEXT",
+    "Text": "Q_STAGE_MIRKWOODSWAMP_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_OVERGROWNTRAIL_CHOICE_TEXT",
+    "Text": "Q_STAGE_OVERGROWNTRAIL_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_ABANDONEDVILLAGE_CHOICE_TEXT",
+    "Text": "Q_STAGE_ABANDONEDVILLAGE_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_JOURNEYDOWNTHEANDUIN_TEXT_0",
+    "Text": "<i><size=58>T</size>he battle is hard fought, but at last you stand triumphant. Even so, it is but a momentary victory. The strength of the Orcs' assault leaves little doubt that this was not a random attack: they intend to leave no witnesses to their presence in the region. Sparing a last look at the evidence of your defiance, you clamber back aboard the raft to complete your journey to the Beornings…</i>"
+  },
+  {
+    "Id": "Q_STAGE_TOTHERIVER_CHOICE_TEXT",
+    "Text": "Q_STAGE_TOTHERIVER_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_ANDUINPASSAGE_CHOICE_TEXT",
+    "Text": "Q_STAGE_ANDUINPASSAGE_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_TREACHEROUSSHORTCUT_CHOICE_TEXT",
+    "Text": "Q_STAGE_TREACHEROUSSHORTCUT_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_GENTLEWATERS_CHOICE_TEXT",
+    "Text": "Q_STAGE_GENTLEWATERS_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_AMBUSHONTHESHORESTAGE_CHOICE_TEXT",
+    "Text": "Q_STAGE_AMBUSHONTHESHORESTAGE_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_QUEST_CONFLICTATTHECARROCK_TEXT_0",
+    "Text": "<i><size=58>\"F</size>ine work,\" Grimbeorn says, looking upon the defeated Trolls. \"I am in your debt.\" \n<indent=50>You</indent> explain that encountering him was not mere happenstance. The Beorning chieftain grows somber as you share the news of unrest along Mirkwood's borders, then gives a decisive nod. \"Come; I would hear more of the King of Dale's offer. And there is that beer I promised!\"\n<indent=50>You</indent> smile despite your weariness. Uniting the Beornings and Men of Dale against the forces marshaling within Mirkwood addresses but one threat of many. Yet, wherever your next adventure may lead, you take heart that the Free Peoples shall rise to the challenge…</i>"
+  },
+  {
+    "Id": "Q_STAGE_SEARCHINGFORGRIMBEORN_CHOICE_TEXT",
+    "Text": "Q_STAGE_SEARCHINGFORGRIMBEORN_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_THETROLLSDINNER_CHOICE_TEXT",
+    "Text": "Q_STAGE_THETROLLSDINNER_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_FIGHTWITHTHETROLLS_CHOICE_TEXT",
+    "Text": "Q_STAGE_FIGHTWITHTHETROLLS_CHOICE_TEXT"
   }
 ]
