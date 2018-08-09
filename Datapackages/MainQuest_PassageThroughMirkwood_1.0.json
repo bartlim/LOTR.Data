@@ -387,8 +387,10 @@
     ],
     "Sequences": [],
     "Stories": [],
-    "VictoryCount": 0,
-    "VictoryTextList": [],
+    "VictoryCount": 1,
+    "VictoryTextList": [
+      "Q_QUEST_PASSAGETHROUGHMIRKWOOD_TEXT_0"
+    ],
     "FateCardList": [
       {
         "Id": "RangersCache",
@@ -419,9 +421,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180808152922962",
+  "Version": "20180809035417276",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180808152922962"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180809035417276"
 }
