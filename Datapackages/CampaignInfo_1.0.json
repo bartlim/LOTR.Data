@@ -2012,10 +2012,12 @@
               "SceneName": "Spiders02",
               "IntroMusic": "mus_mapmenu",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "OpeningMirkwood_01",
+                ""
               ],
               "IntroSpriteList": [
-                "C001Q1L4_IntroSprite_1"
+                "C001Q1L4_IntroSprite_1",
+                "C001Q1L4_IntroSprite_2"
               ],
               "SoloGameSetup": [
                 "ThrashingCocoon",
@@ -2025,9 +2027,10 @@
               ],
               "NextStageId": "",
               "BGM": "mus_saurontheme",
-              "NarrativeCount": 1,
+              "NarrativeCount": 2,
               "NarrativeTextList": [
-                "Q_STAGE_C001Q1L4_TEXT_0"
+                "Q_STAGE_C001Q1L4_TEXT_0",
+                "Q_STAGE_C001Q1L4_TEXT_1"
               ],
               "FateCardList": [
                 {
@@ -2206,8 +2209,8 @@
           ],
           "FateCardList": [
             {
-              "Id": "AidFromTheBeornings",
-              "Threshold": 6
+              "Id": "GloinRecovered",
+              "Threshold": 9
             }
           ],
           "ThreatCardList": [
