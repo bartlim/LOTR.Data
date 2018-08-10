@@ -9,7 +9,7 @@
     "Attack": 1,
     "Willpower": 0,
     "Health": 10,
-    "Trait": "",
+    "Trait": "Legend",
     "Rarity": 4,
     "Sphere": 5,
     "SphereLevel": 0,
@@ -22,7 +22,7 @@
     "DeathSFX": "",
     "FlavorText": "",
     "CannotTriggerReason": "",
-    "ArtistName": "",
+    "ArtistName": "Tiziano Baracchi",
     "Status": "WIP",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
@@ -40,6 +40,6 @@
   },
   "Localization": {
     "Title": "‰Gollum",
-    "Text": "Will run away if reduced to 6 <size=120%><sprite=2></size> or less"
+    "Text": "Gollum flees if at 6 <size=120%><sprite=2></size> or less"
   }
 }

@@ -21,6 +21,7 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "…how much more of this would they have to endure, or could they endure?\n—<i>The Two Towers</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Aleksander Karcz",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,13 +32,14 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
-    "ComboList": null,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": [],
     "ArtworkMD5": "558225edfb3bdc2b02214669e5df5c72",
     "BannerMD5": null,
     "IconMD5": "244724ee7b60d06d2686f85825f8f2c2"
   },
   "Localization": {
-    "Title": "Self-Preservation",
+    "Title": "Self-preservation",
     "Text": "<b>Upkeep</b>: Restore 1 <size=120%><sprite=2></size>"
   }
 }

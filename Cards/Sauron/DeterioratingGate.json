@@ -22,7 +22,7 @@
     "DeathSFX": "",
     "FlavorText": "“We did not come too soon,” said Aragorn, looking at the gates. Their great hinges and iron bars were wrenched and bent; many of their timbers were cracked.\r\n—<i>The Two Towers</i>",
     "CannotTriggerReason": "",
-    "ArtistName": "",
+    "ArtistName": "Joshua Cairos",
     "Status": "WIP",
     "CardOffsetX": 0.8,
     "CardOffsetY": 1.0,
@@ -40,6 +40,6 @@
   },
   "Localization": {
     "Title": "Deteriorating Gate",
-    "Text": "When resolved, spawn \nChieftain Ufthak.\r\nEnd of round: Add 1 random \n<b><i>Orc</i></b></size> card and apply 1 progress"
+    "Text": "When resolved, add \nChieftain Ufthak.\r\nEnd of round: Add 1 random \n<b><i>Orc</i></b></size> and apply 1 progress"
   }
 }

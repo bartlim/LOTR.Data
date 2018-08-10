@@ -21,6 +21,7 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "\"The world was fair in Durin’s Day.\"\r\n—Gimli, <i>The Fellowship of the Ring</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "Legacy of Durin",
-    "Text": "Draw 1 card every time \nyou play a <b><i>Dwarf</b></i> card"
+    "Text": "Draw 1 card every time \nyou play a <b><i>Dwarf</b></i>"
   }
 }

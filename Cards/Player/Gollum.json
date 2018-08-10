@@ -9,7 +9,7 @@
     "Attack": 0,
     "Willpower": 0,
     "Health": 10,
-    "Trait": "",
+    "Trait": "Legend",
     "Rarity": 4,
     "Sphere": 2,
     "SphereLevel": 0,
@@ -22,7 +22,7 @@
     "DeathSFX": "",
     "FlavorText": "\"Through Mirkwood and back again it led them, though they never caught him.\"\r\n—Gandalf, <i>The Fellowship of the Ring</i>",
     "CannotTriggerReason": "",
-    "ArtistName": "",
+    "ArtistName": "Jacob Murray",
     "Status": "WIP",
     "CardOffsetX": 1.0,
     "CardOffsetY": 0.9,
@@ -40,6 +40,6 @@
   },
   "Localization": {
     "Title": "‰Gollum",
-    "Text": "Can only equip Precious.\n<line-height=100%><b>Block</b>. <b>Power</b>: Gollum helps you;\nor gain +1 <size=120%><sprite=4></size> each round the <b>Power</b>\nisn't used"
+    "Text": "<line-height=100%>Can only equip Precious.\n<b>Block</b>. <b>Power</b>: Gollum helps you;\nor gain +1 <size=120%><sprite=4></size> each round the <b>Power</b>\nisn't used"
   }
 }

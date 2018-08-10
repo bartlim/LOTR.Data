@@ -22,7 +22,7 @@
     "DeathSFX": "",
     "FlavorText": "\"We allow no strangers to spy out the secrets of the Naith. Few indeed are permitted even to set foot there.\"\n—Haldir, <i>The Fellowship of the Ring</i>",
     "CannotTriggerReason": "",
-    "ArtistName": "",
+    "ArtistName": "Magali Villeneuve",
     "Status": "WIP",
     "CardOffsetX": 1.0,
     "CardOffsetY": 0.85,
@@ -40,6 +40,6 @@
   },
   "Localization": {
     "Title": "‰Haldir",
-    "Text": "<line-height=100%><b>Arrival</b>: Every <b><i>Orc</i></b> loses 1 <size=120%><sprite=0></size>; then reduce all <b><i>Silvan</b></i> cards \nin hand to 0 <size=120%><sprite=3></size>"
+    "Text": "<line-height=100%><b>Arrival</b>: Every <b><i>Orc</i></b> loses 1 <size=120%><sprite=0></size>; then reduce all <b><i>Silvan</b></i> units \nin hand to 0 <size=120%><sprite=3></size>"
   }
 }

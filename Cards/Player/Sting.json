@@ -21,7 +21,8 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "“I will do the stinging!” And he did. He darted backwards and forwards, slashing at spider-threads, hacking at their legs, and stabbing at their fat bodies if they came too near.\r\n—Bilbo, <i>The Hobbit</i>",
-    "ArtistName": "",
+    "CannotTriggerReason": "",
+    "ArtistName": "Magali Villeneuve",
     "Status": "Ready",
     "CardOffsetX": 1.04,
     "CardOffsetY": 0.92,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "‰Sting ",
-    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=0></size>; or gain +2 <size=120%><sprite=0></size> \nversus <b><i>Orc</i></b> or <b><i>Spider</i></b> targets"
+    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=0></size>; or gain +2 <size=120%><sprite=0></size> when \nattacking <b><i>Orc</i></b> or <b><i>Spider</i></b> targets"
   }
 }
