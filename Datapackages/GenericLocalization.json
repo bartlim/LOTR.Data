@@ -121,7 +121,7 @@
   },
   {
     "Id": "U_OPTIONS_FULLSCREEN",
-    "Text": "Fullscreen",
+    "Text": "Full Screen",
     "Text_CN": "全屏",
     "Text_FR": "Plein écran"
   },
@@ -607,7 +607,7 @@
   },
   {
     "Id": "U_ASMODEE_LOGGINGIN",
-    "Text": "Asmodee.net account login…this may take a moment.",
+    "Text": "Asmodee.net account login… this may take a moment",
     "Text_CN": "Asmodee.net account login…this may take a moment.",
     "Text_FR": "Asmodee.net account login…this may take a moment."
   },
@@ -721,9 +721,9 @@
   },
   {
     "Id": "U_INGAME_TUTORIALSKIP_CONFIRM",
-    "Text": "Are you sure you want to skip the tutorial?\n\nYou can replay it at any time through the Game Options menu",
+    "Text": "Are you sure you want to skip the tutorial?\n\nYou can replay it at any time through the Options menu",
     "Text_CN": "确认跳过教程吗？\n您在游戏设置菜单中可以随时重玩教程",
-    "Text_FR": "Are you sure you want to skip the tutorial?\n\nYou can replay it at any time through the Game Options menu"
+    "Text_FR": "Are you sure you want to skip the tutorial?\n\nYou can replay it at any time through the Options menu"
   },
   {
     "Id": "U_INGAME_SELECT_CARD_TO_REPLACE",
@@ -1249,9 +1249,9 @@
   },
   {
     "Id": "U_SHOP_PALANTIRPACK_ITEMS",
-    "Text": "<i><indent=50><size=58>T</size>he</indent> Palantír is a bonus system. This wondrous \nobject of mysterious ability grants rewards when \nyou gaze into it.\n<indent=50>You</indent> spend a Palantír View each time you gaze \ninto the Palantír. You then receive two rewards \nfrom the following possibilities:\n<indent=50>Valor</indent> Points; cards you do not own already; \nor new cosmetic items.\n<indent=50>Palantír</indent> Views are precious things. You can \ngain them through exceptional gameplay or \nthrough special boons bestowed upon you.</i>",
-    "Text_CN": "<i><indent=50><size=58>T</size>he</indent> Palantír is a bonus system. This wondrous \nobject of mysterious ability grants rewards when \nyou gaze into it.\n<indent=50>You</indent> spend a Palantír View each time you gaze \ninto the Palantír. You then receive two rewards \nfrom the following possibilities:\n<indent=50>Valor</indent> Points; cards you do not own already; \nor new cosmetic items.\n<indent=50>Palantír</indent> Views are precious things. You can \ngain them through exceptional gameplay or \nthrough special boons bestowed upon you.</i>",
-    "Text_FR": "<i><indent=50><size=58>T</size>he</indent> Palantír is a bonus system. This wondrous \nobject of mysterious ability grants rewards when \nyou gaze into it.\n<indent=50>You</indent> spend a Palantír View each time you gaze \ninto the Palantír. You then receive two rewards \nfrom the following possibilities:\n<indent=50>Valor</indent> Points; cards you do not own already; \nor new cosmetic items.\n<indent=50>Palantír</indent> Views are precious things. You can \ngain them through exceptional gameplay or \nthrough special boons bestowed upon you.</i>"
+    "Text": "<i><line-height=100%><indent=50><size=200%>T</size>he</indent> Palantír is a bonus system. This wondrous \nobject of mysterious ability grants rewards when \nyou gaze into it.\n<indent=50>You</indent> spend a Palantír View each time you gaze \ninto the Palantír. You then receive two rewards \nfrom the following possibilities:\n<indent=50>Valor</indent> Points; cards you do not own already; \nor new cosmetic items.\n<indent=50>Palantír</indent> Views are precious things. You can \ngain them through exceptional gameplay or \nthrough special boons bestowed upon you.</i>",
+    "Text_CN": "<i><line-height=100%><indent=50><size=200%>T</size>he</indent> Palantír is a bonus system. This wondrous \nobject of mysterious ability grants rewards when \nyou gaze into it.\n<indent=50>You</indent> spend a Palantír View each time you gaze \ninto the Palantír. You then receive two rewards \nfrom the following possibilities:\n<indent=50>Valor</indent> Points; cards you do not own already; \nor new cosmetic items.\n<indent=50>Palantír</indent> Views are precious things. You can \ngain them through exceptional gameplay or \nthrough special boons bestowed upon you.</i>",
+    "Text_FR": "<i><line-height=100%><indent=50><size=200%>T</size>he</indent> Palantír is a bonus system. This wondrous \nobject of mysterious ability grants rewards when \nyou gaze into it.\n<indent=50>You</indent> spend a Palantír View each time you gaze \ninto the Palantír. You then receive two rewards \nfrom the following possibilities:\n<indent=50>Valor</indent> Points; cards you do not own already; \nor new cosmetic items.\n<indent=50>Palantír</indent> Views are precious things. You can \ngain them through exceptional gameplay or \nthrough special boons bestowed upon you.</i>"
   },
   {
     "Id": "U_SHOP_PALANTIRPACK_PACKS",
@@ -2323,9 +2323,9 @@
   },
   {
     "Id": "U_SHOP_CAMPAIGN_01_DESC",
-    "Text": "The first Campaign in The Lord of the Rings™: Living Card Game™.",
-    "Text_CN": "The first Campaign in The Lord of the Rings™: Living Card Game™.",
-    "Text_FR": "The first Campaign in The Lord of the Rings™: Living Card Game™."
+    "Text": "The first Campaign in The Lord of the Rings: Living Card Game.",
+    "Text_CN": "The first Campaign in The Lord of the Rings: Living Card Game.",
+    "Text_FR": "The first Campaign in The Lord of the Rings: Living Card Game."
   },
   {
     "Id": "U_SHOP_CB_ISTARI",
@@ -3679,9 +3679,9 @@
   },
   {
     "Id": "U_ALREADY_HAS_BLOCK",
-    "Text": "Target already has Block, attach anyway?",
-    "Text_CN": "Target already has Block, attach anyway?",
-    "Text_FR": "Target already has Block, attach anyway?"
+    "Text": "Target has <b>Block</b> already. Attach anyway?",
+    "Text_CN": "Target has <b>Block</b> already. Attach anyway?",
+    "Text_FR": "Target has <b>Block</b> already. Attach anyway?"
   },
   {
     "Id": "U_INGAME_CHOOSEHERO_COCOONED",
@@ -4033,27 +4033,27 @@
   },
   {
     "Id": "U_ALREADY_HAS_RANGED",
-    "Text": "Target already has Ranged, attach anyway?",
-    "Text_CN": "Target already has Ranged, attach anyway?",
-    "Text_FR": "Target already has Ranged, attach anyway?"
+    "Text": "Target has <b>Ranged</b> already. Attach anyway?",
+    "Text_CN": "Target has <b>Ranged</b> already. Attach anyway?",
+    "Text_FR": "Target has <b>Ranged</b> already. Attach anyway?"
   },
   {
     "Id": "U_ALREADY_HAS_STEALTH",
-    "Text": "Target already has Stealth, attach anyway?",
-    "Text_CN": "Target already has Stealth, attach anyway?",
-    "Text_FR": "Target already has Stealth, attach anyway?"
+    "Text": "Target has <b>Stealth</b> already. Attach anyway?",
+    "Text_CN": "Target has <b>Stealth</b> already. Attach anyway?",
+    "Text_FR": "Target has <b>Stealth</b> already. Attach anyway?"
   },
   {
     "Id": "U_ALREADY_HAS_QUICK",
-    "Text": "Target already has Ambush, attach anyway?",
-    "Text_CN": "Target already has Ambush, attach anyway?",
-    "Text_FR": "Target already has Ambush, attach anyway?"
+    "Text": "Target has <b>Ambush</b> already. Attach anyway?",
+    "Text_CN": "Target has <b>Ambush</b> already. Attach anyway?",
+    "Text_FR": "Target has <b>Ambush</b> already. Attach anyway?"
   },
   {
     "Id": "U_ALREADY_HAS_STALWART",
-    "Text": "Target already has Stalwart, attach anyway?",
-    "Text_CN": "Target already has Stalwart, attach anyway?",
-    "Text_FR": "Target already has Stalwart, attach anyway?"
+    "Text": "Target has <b>Stalwart</b> already. Attach anyway?",
+    "Text_CN": "Target has <b>Stalwart</b> already. Attach anyway?",
+    "Text_FR": "Target has <b>Stalwart</b> already. Attach anyway?"
   },
   {
     "Id": "U_SHOP_HEROPACK_TITLE_HEROPACK_STEADFASTCOMPANION",
@@ -4144,6 +4144,12 @@
     "Text": "The famous Bilbo Baggins has been captured in Mirkwood! Vowing to rescue him before he suffers a terrible fate, you soon suspect that there's more to his abduction than meets the eye...",
     "Text_CN": "The famous Bilbo Baggins has been captured in Mirkwood! Vowing to rescue him before he suffers a terrible fate, you soon suspect that there's more to his abduction than meets the eye...",
     "Text_FR": "The famous Bilbo Baggins has been captured in Mirkwood! Vowing to rescue him before he suffers a terrible fate, you soon suspect that there's more to his abduction than meets the eye..."
+  },
+  {
+    "Id": "U_SHOP_CAMPAIGN_ADVENTURESINWILDERLAND_DESC",
+    "Text": "Acting as envoy for the King of Dale, you must venture through Mirkwood and down the Anduin to the land of the Beornings, to seek an audience with Grimbeorn the Old.",
+    "Text_CN": "Acting as envoy for the King of Dale, you must venture through Mirkwood and down the Anduin to the land of the Beornings, to seek an audience with Grimbeorn the Old.",
+    "Text_FR": "Acting as envoy for the King of Dale, you must venture through Mirkwood and down the Anduin to the land of the Beornings, to seek an audience with Grimbeorn the Old."
   },
   {
     "Id": "PLACEHOLDER2",
@@ -8782,206 +8788,32 @@
   {
     "Id": "T_TITLE",
     "Text": "TUTORIAL",
-    "Text_CN": "TUTORIAL",
+    "Text_CN": "[C]TUTORIAL",
     "Text_FR": "TUTORIAL3"
   },
   {
     "Id": "T_DESC",
     "Text": "Start your Journey…",
-    "Text_CN": "Start your journey",
+    "Text_CN": "[C]Start your journey",
     "Text_FR": "Start your journey"
   },
   {
     "Id": "T_ASMODEE_SIGN_UP",
     "Text": "Congratulations! You have completed the prologue, but that was merely the beginning. \n\nCreate an Asmodee.net account now to unlock additional Heroes and cards to use on your further adventures across Middle-earth…",
-    "Text_CN": "Congratulations! You have completed the prologue, but that was merely the beginning. \n\nCreate an Asmodee.net account now to unlock additional Heroes and cards to use on your further adventures across Middle-earth…",
+    "Text_CN": "[C]Congratulations! You have completed the prologue, but that was merely the beginning. \n\nCreate an Asmodee.net account now to unlock additional Heroes and cards to use on your further adventures across Middle-earth…",
     "Text_FR": "Congratulations! You have completed the prologue, but that was merely the beginning. \n\nCreate an Asmodee.net account now to unlock additional Heroes and cards to use on your further adventures across Middle-earth…"
   },
   {
     "Id": "T_ASMODEE_SIGN_IN_1",
     "Text": "Your Asmodee.net account gives you many rewards: new Heroes, cards, a starter deck, a gift of 3000 Valor Points, and the first Quest free!",
-    "Text_CN": "Your Asmodee.net account gives you many rewards: new Heroes, cards, a starter deck, a gift of 3000 Valor Points, and the first Quest free!",
+    "Text_CN": "[C]Your Asmodee.net account gives you many rewards: new Heroes, cards, a starter deck, a gift of 3000 Valor Points, and the first Quest free!",
     "Text_FR": "Your Asmodee.net account gives you many rewards: new Heroes, cards, a starter deck, a gift of 3000 Valor Points, and the first Quest free!"
   },
   {
     "Id": "T_ASMODEE_SIGN_IN_2",
     "Text": "The time has come to begin your journey. Go forth and fare well!",
-    "Text_CN": "The time has come to begin your journey. Go forth and fare well!",
+    "Text_CN": "[C]The time has come to begin your journey. Go forth and fare well!",
     "Text_FR": "The time has come to begin your journey. Go forth and fare well!"
-  },
-  {
-    "Id": "T_POP_DRAGCARD",
-    "Text": "Drag the card into play area",
-    "Text_CN": "Drag the card into play area",
-    "Text_FR": "Drag the card into play area"
-  },
-  {
-    "Id": "T_POP_EXHAUST",
-    "Text": "Combat exhausts the attacker",
-    "Text_CN": "Combat exhausts the attacker",
-    "Text_FR": "Combat exhausts the attacker"
-  },
-  {
-    "Id": "T_POP_BILBOATTACK",
-    "Text": "Use <i>Bilbo</i> to attack <i>Rock Adder</i>",
-    "Text_CN": "Use <i>Bilbo</i> to attack <i>Rock Adder</i>",
-    "Text_FR": "Use <i>Bilbo</i> to attack <i>Rock Adder</i>"
-  },
-  {
-    "Id": "T_POP_SLAY",
-    "Text": "Slay the snake",
-    "Text_CN": "Slay the snake",
-    "Text_FR": "Slay the snake"
-  },
-  {
-    "Id": "T_POP_ROUNDEND",
-    "Text": "When you and Sauron cannot take any more actions, the round ends",
-    "Text_CN": "When you and Sauron cannot take any more actions, the round ends",
-    "Text_FR": "When you and Sauron cannot take any more actions, the round ends"
-  },
-  {
-    "Id": "T_POP_UPKEEP",
-    "Text": "Every round, each exhausted card readies. You then gain 3 Resources and draw 2 cards",
-    "Text_CN": "Every round, each exhausted card readies. You then gain 3 Resources and draw 2 cards",
-    "Text_FR": "Every round, each exhausted card readies. You then gain 3 Resources and draw 2 cards"
-  },
-  {
-    "Id": "T_POP_MAXTHREAT",
-    "Text": "If you reach 50 Threat, your Quest fails!",
-    "Text_CN": "If you reach 50 Threat, your Quest fails!",
-    "Text_FR": "If you reach 50 Threat, your Quest fails!"
-  },
-  {
-    "Id": "T_POP_L1TRAVEL",
-    "Text": "You have defeat the <i>Broodmother</i>! Select Travel to continue your journey and escape the hatchling",
-    "Text_CN": "You have defeat the <i>Broodmother</i>! Select Travel to continue your journey and escape the hatchling",
-    "Text_FR": "You have defeat the <i>Broodmother</i>! Select Travel to continue your journey and escape the hatchling"
-  },
-  {
-    "Id": "T_POP_ABILITYATUPKEEP",
-    "Text": "Some cards have special abilities that trigger during the <b>Upkeep</b> phase",
-    "Text_CN": "Some cards have special abilities that trigger during the <b>Upkeep</b> phase",
-    "Text_FR": "Some cards have special abilities that trigger during the <b>Upkeep</b> phase"
-  },
-  {
-    "Id": "T_POP_GUARD01",
-    "Text": "When a card with <b>Guard</b> is in play, you cannot choose another target or Objective. Attacking or exhausting the target removes <b>Guard</b>",
-    "Text_CN": "When a card with <b>Guard</b> is in play, you cannot choose another target or Objective. Attacking or exhausting the target removes <b>Guard</b>",
-    "Text_FR": "When a card with <b>Guard</b> is in play, you cannot choose another target or Objective. Attacking or exhausting the target removes <b>Guard</b>"
-  },
-  {
-    "Id": "T_POP_GUARD02",
-    "Text": "A card with <b>Guard</b> active deals its full Attack value when attacked",
-    "Text_CN": "A card with <b>Guard</b> active deals its full Attack value when attacked",
-    "Text_FR": "A card with <b>Guard</b> active deals its full Attack value when attacked"
-  },
-  {
-    "Id": "T_POP_PREPARATION",
-    "Text": "Preparation is a type of Event card which triggers based on a particular circumstance",
-    "Text_CN": "Preparation is a type of Event card which triggers based on a particular circumstance",
-    "Text_FR": "Preparation is a type of Event card which triggers based on a particular circumstance"
-  },
-  {
-    "Id": "T_POP_STALWART",
-    "Text": "A Character with <b>Stalwart</b> does not exhaust after their first action each round",
-    "Text_CN": "A Character with <b>Stalwart</b> does not exhaust after their first action each round",
-    "Text_FR": "A Character with <b>Stalwart</b> does not exhaust after their first action each round"
-  },
-  {
-    "Id": "T_POP_SPHERE",
-    "Text": "Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck",
-    "Text_CN": "Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck",
-    "Text_FR": "Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck"
-  },
-  {
-    "Id": "T_POP_RANGED",
-    "Text": "A Character with <b>Ranged</b> can bypass <b>Guard</b>",
-    "Text_CN": "A Character with <b>Ranged</b> can bypass <b>Guard</b>",
-    "Text_FR": "A Character with <b>Ranged</b> can bypass <b>Guard</b>"
-  },
-  {
-    "Id": "T_POP_HAZARD",
-    "Text": "Hazards are optional Objectives that may complicate your journey unless you resolve them",
-    "Text_CN": "Hazards are optional Objectives that may complicate your journey unless you resolve them",
-    "Text_FR": "Hazards are optional Objectives that may complicate your journey unless you resolve them"
-  },
-  {
-    "Id": "T_POP_WILLPOWER",
-    "Text": "Characters with Willpower can engage Objectives",
-    "Text_CN": "Characters with Willpower can engage Objectives",
-    "Text_FR": "Characters with Willpower can engage Objectives"
-  },
-  {
-    "Id": "T_POP_L2TRAVEL",
-    "Text": "You have secured the camp! Select Travel to continue your journey",
-    "Text_CN": "You have secured the camp! Select Travel to continue your journey",
-    "Text_FR": "You have secured the camp! Select Travel to continue your journey"
-  },
-  {
-    "Id": "T_POP_TRAVEL",
-    "Text": "When you travel, Enemies that are not exhausted can attack!",
-    "Text_CN": "When you travel, Enemies that are not exhausted can attack!",
-    "Text_FR": "When you travel, Enemies that are not exhausted can attack!"
-  },
-  {
-    "Id": "T_POP_BLOCK",
-    "Text": "<b>Block</b> reduces the damage from each attack by 1",
-    "Text_CN": "<b>Block</b> reduces the damage from each attack by 1",
-    "Text_FR": "<b>Block</b> reduces the damage from each attack by 1"
-  },
-  {
-    "Id": "T_POP_BILBOPOWER",
-    "Text": "Use <i>Bilbo</i>'s power to gain an advantage against Sauron!",
-    "Text_CN": "Use <i>Bilbo</i>'s power to gain an advantage against Sauron!",
-    "Text_FR": "Use <i>Bilbo</i>'s power to gain an advantage against Sauron!"
-  },
-  {
-    "Id": "T_POP_BILBOACTION",
-    "Text": "<i>Bilbo</i> can take another action!",
-    "Text_CN": "<i>Bilbo</i> can take another action!",
-    "Text_FR": "<i>Bilbo</i> can take another action!"
-  },
-  {
-    "Id": "T_POP_USEFULCHARACTER",
-    "Text": "Some Characters can be useful in ways other than battle.  ",
-    "Text_CN": "Some Characters can be useful in ways other than battle.  ",
-    "Text_FR": "Some Characters can be useful in ways other than battle.  "
-  },
-  {
-    "Id": "T_POP_FATE",
-    "Text": "Characters with Willpower can take an action to contribute to your Fate pool. Fate can unlock special single-use abilities during your Quest!",
-    "Text_CN": "Characters with Willpower can take an action to contribute to your Fate pool. Fate can unlock special single-use abilities during your Quest!",
-    "Text_FR": "Characters with Willpower can take an action to contribute to your Fate pool. Fate can unlock special single-use abilities during your Quest!"
-  },
-  {
-    "Id": "T_POP_CAREGIVERFATE",
-    "Text": "Select <i>Imladris Caregiver</i> to activate her Fate contribution",
-    "Text_CN": "Select <i>Imladris Caregiver</i> to activate her Fate contribution",
-    "Text_FR": "Select <i>Imladris Caregiver</i> to activate her Fate contribution"
-  },
-  {
-    "Id": "T_POP_CHARACTERDEFEND",
-    "Text": "You can also use Characters to defend the rest of your party",
-    "Text_CN": "You can also use Characters to defend the rest of your party",
-    "Text_FR": "You can also use Characters to defend the rest of your party"
-  },
-  {
-    "Id": "T_POP_USEFATE",
-    "Text": "You can use Fate for special one-time benefits during a Quest. Selecting an available Fate card is a free action.",
-    "Text_CN": "You can use Fate for special one-time benefits during a Quest. Selecting an available Fate card is a free action.",
-    "Text_FR": "You can use Fate for special one-time benefits during a Quest. Selecting an available Fate card is a free action."
-  },
-  {
-    "Id": "T_POP_NEUTRAL",
-    "Text": "Neutral cards may be used with any Sphere of Influence",
-    "Text_CN": "Neutral cards may be used with any Sphere of Influence",
-    "Text_FR": "Neutral cards may be used with any Sphere of Influence"
-  },
-  {
-    "Id": "T_POP_STARBROOCH",
-    "Text": "Give Gloin the Star Brooch",
-    "Text_CN": "Give Gloin the Star Brooch",
-    "Text_FR": "Give Gloin the Star Brooch"
   },
   {
     "Id": "T_POP_V5_ROLLOVER",
@@ -8991,27 +8823,27 @@
   },
   {
     "Id": "T_POP_V5_VIEWHERO",
-    "Text": "Select Bilbo to view the full card",
-    "Text_CN": "Select Bilbo to view the full card",
-    "Text_FR": "Select Bilbo to view the full card"
+    "Text": "Select Bilbo to view the card detail",
+    "Text_CN": "Select Bilbo to view the card detail",
+    "Text_FR": "Select Bilbo to view the card detail"
   },
   {
     "Id": "T_POP_V5_HEROFEATURE",
-    "Text": "This is a full card view. Let's see what each feature means…",
-    "Text_CN": "This is a full card view. Let's see what each feature means…",
-    "Text_FR": "This is a full card view. Let's see what each feature means…"
+    "Text": "This is a card detail view. Let's see what each feature means…",
+    "Text_CN": "This is a card detail view. Let's see what each feature means…",
+    "Text_FR": "This is a card detail view. Let's see what each feature means…"
   },
   {
     "Id": "T_POP_V5_VIEWENEMY",
-    "Text": "Select a Rock Adder to view the full card",
-    "Text_CN": "Select a Rock Adder to view the full card",
-    "Text_FR": "Select a Rock Adder to view the full card"
+    "Text": "Select a Rock Adder to view the card detail",
+    "Text_CN": "Select a Rock Adder to view the card detail",
+    "Text_FR": "Select a Rock Adder to view the card detail"
   },
   {
     "Id": "T_POP_V5_ENEMYFEATURE",
-    "Text": "Enemy cards are distinct from Hero cards. Let's look at the features…",
-    "Text_CN": "Enemy cards are distinct from Hero cards. Let's look at the features…",
-    "Text_FR": "Enemy cards are distinct from Hero cards. Let's look at the features…"
+    "Text": "Enemy units are distinct from Hero units. Let's look at the features…",
+    "Text_CN": "Enemy units are distinct from Hero units. Let's look at the features…",
+    "Text_FR": "Enemy units are distinct from Hero units. Let's look at the features…"
   },
   {
     "Id": "T_POP_V5_ADVENTUREPHASE",
@@ -9021,9 +8853,9 @@
   },
   {
     "Id": "T_POP_V5_VIEWATTACHMENT",
-    "Text": "Select Sting to view the full card",
-    "Text_CN": "Select Sting to view the full card",
-    "Text_FR": "Select Sting to view the full card"
+    "Text": "Select Sting to view the card detail",
+    "Text_CN": "Select Sting to view the card detail",
+    "Text_FR": "Select Sting to view the card detail"
   },
   {
     "Id": "T_POP_V5_DECKCARDS",
@@ -9069,9 +8901,9 @@
   },
   {
     "Id": "T_POP_V5_UPKEEP01",
-    "Text": "All exhausted cards ready at the start of each round",
-    "Text_CN": "All exhausted cards ready at the start of each round",
-    "Text_FR": "All exhausted cards ready at the start of each round"
+    "Text": "All exhausted units in play ready at the start of each round",
+    "Text_CN": "All exhausted units in play ready at the start of each round",
+    "Text_FR": "All exhausted units in play ready at the start of each round"
   },
   {
     "Id": "T_POP_V5_UPKEEP02",
@@ -9093,33 +8925,33 @@
   },
   {
     "Id": "T_POP_V5_ABILITYATUPKEEP",
-    "Text": "Some cards have special abilities that trigger during Upkeep",
-    "Text_CN": "Some cards have special abilities that trigger during Upkeep",
-    "Text_FR": "Some cards have special abilities that trigger during Upkeep"
+    "Text": "Some cards have special abilities that trigger during <b>Upkeep</b>",
+    "Text_CN": "Some cards have special abilities that trigger during <b>Upkeep</b>",
+    "Text_FR": "Some cards have special abilities that trigger during <b>Upkeep</b>"
   },
   {
     "Id": "T_POP_V5_GUARD01",
-    "Text": "When a card has the Guard keyword active, you cannot choose another target or Objective",
-    "Text_CN": "When a card has the Guard keyword active, you cannot choose another target or Objective",
-    "Text_FR": "When a card has the Guard keyword active, you cannot choose another target or Objective"
+    "Text": "When the <b>Guard</b> keyword is active, no other target can be engaged until that unit acts or is attacked in melee combat",
+    "Text_CN": "When the <b>Guard</b> keyword is active, no other target can be engaged until that unit acts or is attacked in melee combat",
+    "Text_FR": "When the <b>Guard</b> keyword is active, no other target can be engaged until that unit acts or is attacked in melee combat"
   },
   {
     "Id": "T_POP_V5_GUARD02",
-    "Text": "A card with Guard active deals its full Attack value when attacked",
-    "Text_CN": "A card with Guard active deals its full Attack value when attacked",
-    "Text_FR": "A card with Guard active deals its full Attack value when attacked"
+    "Text": "A unit with <b>Guard</b> active deals reciprocal damage to the unit that attacks it in melee combat",
+    "Text_CN": "A unit with <b>Guard</b> active deals reciprocal damage to the unit that attacks it in melee combat",
+    "Text_FR": "A unit with <b>Guard</b> active deals reciprocal damage to the unit that attacks it in melee combat"
   },
   {
     "Id": "T_POP_V5_GUARD03",
-    "Text": "Guard is removed after being attacked or exhausted",
-    "Text_CN": "Guard is removed after being attacked or exhausted",
-    "Text_FR": "Guard is removed after being attacked or exhausted"
+    "Text": "<b>Guard</b> is removed after being attacked or exhausted",
+    "Text_CN": "<b>Guard</b> is removed after being attacked or exhausted",
+    "Text_FR": "<b>Guard</b> is removed after being attacked or exhausted"
   },
   {
     "Id": "T_POP_V5_PREPARATION",
-    "Text": "Preparation is a type of Event card which triggers based on a particular circumstance",
-    "Text_CN": "Preparation is a type of Event card which triggers based on a particular circumstance",
-    "Text_FR": "Preparation is a type of Event card which triggers based on a particular circumstance"
+    "Text": "<b>Preparation</b> is a type of Event card which triggers based on a particular circumstance",
+    "Text_CN": "<b>Preparation</b> is a type of Event card which triggers based on a particular circumstance",
+    "Text_FR": "<b>Preparation</b> is a type of Event card which triggers based on a particular circumstance"
   },
   {
     "Id": "T_POP_V5_STARBROOCH",
@@ -9141,21 +8973,21 @@
   },
   {
     "Id": "T_POP_V5_RANGED",
-    "Text": "A card with the Ranged keyword can bypass Guard",
-    "Text_CN": "A card with the Ranged keyword can bypass Guard",
-    "Text_FR": "A card with the Ranged keyword can bypass Guard"
+    "Text": "A unit with the <b>Ranged</b> keyword can bypass <b>Guard</b>",
+    "Text_CN": "A unit with the <b>Ranged</b> keyword can bypass <b>Guard</b>",
+    "Text_FR": "A unit with the <b>Ranged</b> keyword can bypass <b>Guard</b>"
   },
   {
     "Id": "T_POP_V5_HAZARD",
-    "Text": "Hazards are optional Objectives that may complicate your journey unless you resolve them",
-    "Text_CN": "Hazards are optional Objectives that may complicate your journey unless you resolve them",
-    "Text_FR": "Hazards are optional Objectives that may complicate your journey unless you resolve them"
+    "Text": "A <b>Hazard</b> is an optional Objective that may complicate your journey unless you resolve it",
+    "Text_CN": "A <b>Hazard</b> is an optional Objective that may complicate your journey unless you resolve it",
+    "Text_FR": "A <b>Hazard</b> is an optional Objective that may complicate your journey unless you resolve it"
   },
   {
     "Id": "T_POP_V5_WILLPOWER",
-    "Text": "Only cards with a Willpower value can engage Objectives",
-    "Text_CN": "Only cards with a Willpower value can engage Objectives",
-    "Text_FR": "Only cards with a Willpower value can engage Objectives"
+    "Text": "Only a unit with a Willpower value can engage an Objective",
+    "Text_CN": "Only a unit with a Willpower value can engage an Objective",
+    "Text_FR": "Only a unit with a Willpower value can engage an Objective"
   },
   {
     "Id": "T_POP_V5_L2TRAVEL",
@@ -9165,9 +8997,9 @@
   },
   {
     "Id": "T_POP_V5_TRAVEL",
-    "Text": "When you travel, Enemies that are not exhausted can attack your Characters!",
-    "Text_CN": "When you travel, Enemies that are not exhausted can attack your Characters!",
-    "Text_FR": "When you travel, Enemies that are not exhausted can attack your Characters!"
+    "Text": "When you travel, any Enemy that is not exhausted can attack your Characters!",
+    "Text_CN": "When you travel, any Enemy that is not exhausted can attack your Characters!",
+    "Text_FR": "When you travel, any Enemy that is not exhausted can attack your Characters!"
   },
   {
     "Id": "T_POP_V5_HEROATTACKENEMY",
@@ -9177,15 +9009,15 @@
   },
   {
     "Id": "T_POP_V5_BLOCK",
-    "Text": "The Block keyword reduces the damage from each attack by 1",
-    "Text_CN": "The Block keyword reduces the damage from each attack by 1",
-    "Text_FR": "The Block keyword reduces the damage from each attack by 1"
+    "Text": "The <b>Block</b> keyword reduces the damage from each attack by 1",
+    "Text_CN": "The <b>Block</b> keyword reduces the damage from each attack by 1",
+    "Text_FR": "The <b>Block</b> keyword reduces the damage from each attack by 1"
   },
   {
     "Id": "T_POP_V5_ALLYATTACKHAZARD",
-    "Text": "Many Characters have special abilities. Use Rhovanion Outrider to engage The Cloaked Stranger",
-    "Text_CN": "Many Characters have special abilities. Use Rhovanion Outrider to engage The Cloaked Stranger",
-    "Text_FR": "Many Characters have special abilities. Use Rhovanion Outrider to engage The Cloaked Stranger"
+    "Text": "Many units have special abilities. Use Rhovanion Outrider to engage The Cloaked Stranger",
+    "Text_CN": "Many units have special abilities. Use Rhovanion Outrider to engage The Cloaked Stranger",
+    "Text_FR": "Many units have special abilities. Use Rhovanion Outrider to engage The Cloaked Stranger"
   },
   {
     "Id": "T_POP_V5_SAURONPASS",
@@ -9249,9 +9081,9 @@
   },
   {
     "Id": "T_POP_V5_GAINGUARD",
-    "Text": "When you activate Defense, that Character gainst the Guard keyword for the round",
-    "Text_CN": "When you activate Defense, that Character gainst the Guard keyword for the round",
-    "Text_FR": "When you activate Defense, that Character gainst the Guard keyword for the round"
+    "Text": "When you activate Defense, that Character gains the <b>Guard</b> keyword for the round",
+    "Text_CN": "When you activate Defense, that Character gains the <b>Guard</b> keyword for the round",
+    "Text_FR": "When you activate Defense, that Character gains the <b>Guard</b> keyword for the round"
   },
   {
     "Id": "T_POP_V5_ROLLOVEREND",
@@ -9261,15 +9093,15 @@
   },
   {
     "Id": "T_POP_V5_VIEWOBJECTIVE",
-    "Text": "Select Secure the Camp!\nTo view the full card",
-    "Text_CN": "Select Secure the Camp!\nTo view the full card",
-    "Text_FR": "Select Secure the Camp!\nTo view the full card"
+    "Text": "Select Secure the Camp!\nTo view the card detail",
+    "Text_CN": "Select Secure the Camp!\nTo view the card detail",
+    "Text_FR": "Select Secure the Camp!\nTo view the card detail"
   },
   {
     "Id": "T_POP_V5_OBJECTIVEFEATURE",
-    "Text": "You will encounter many Objectives\nand Hazards on your Quests",
-    "Text_CN": "You will encounter many Objectives\nand Hazards on your Quests",
-    "Text_FR": "You will encounter many Objectives\nand Hazards on your Quests"
+    "Text": "You will encounter many Objectives on your Quests",
+    "Text_CN": "You will encounter many Objectives on your Quests",
+    "Text_FR": "You will encounter many Objectives on your Quests"
   },
   {
     "Id": "T_POP_V5_THANKSTARBROOCH",
@@ -9339,9 +9171,9 @@
   },
   {
     "Id": "G_002_DESC",
-    "Text": "A card type representing friends, followers, or creatures that assist your Heroes on their Quest",
-    "Text_CN": "A card type representing friends, followers, or creatures that assist your Heroes on their Quest",
-    "Text_FR": "A card type representing friends, followers, or creatures that assist your Heroes on their Quest"
+    "Text": "A card type representing a friend, follower, or creature that assists your Heroes on their Quest",
+    "Text_CN": "A card type representing a friend, follower, or creature that assists your Heroes on their Quest",
+    "Text_FR": "A card type representing a friend, follower, or creature that assists your Heroes on their Quest"
   },
   {
     "Id": "G_002_TERM",
@@ -9387,9 +9219,9 @@
   },
   {
     "Id": "G_006_DESC",
-    "Text": "An extension of a Hero, Ally, or Enemy card which displays any Attachments that modify the card",
-    "Text_CN": "An extension of a Hero, Ally, or Enemy card which displays any Attachments that modify the card",
-    "Text_FR": "An extension of a Hero, Ally, or Enemy card which displays any Attachments that modify the card"
+    "Text": "An extension of a unit's card detail which shows any Attachments that modify the unit",
+    "Text_CN": "An extension of a unit's card detail which shows any Attachments that modify the unit",
+    "Text_FR": "An extension of a unit's card detail which shows any Attachments that modify the unit"
   },
   {
     "Id": "G_006_TERM",
@@ -9399,9 +9231,9 @@
   },
   {
     "Id": "G_007_DESC",
-    "Text": "This ability measures the card's effectiveness when attacking in combat",
-    "Text_CN": "This ability measures the card's effectiveness when attacking in combat",
-    "Text_FR": "This ability measures the card's effectiveness when attacking in combat"
+    "Text": "This ability measures the unit's effectiveness when attacking in combat",
+    "Text_CN": "This ability measures the unit's effectiveness when attacking in combat",
+    "Text_FR": "This ability measures the unit's effectiveness when attacking in combat"
   },
   {
     "Id": "G_007_TERM",
@@ -9471,9 +9303,9 @@
   },
   {
     "Id": "G_013_DESC",
-    "Text": "A card type that refers to all Heroes and Allies",
-    "Text_CN": "A card type that refers to all Heroes and Allies",
-    "Text_FR": "A card type that refers to all Heroes and Allies"
+    "Text": "A card type that refers to any Hero or Ally",
+    "Text_CN": "A card type that refers to any Hero or Ally",
+    "Text_FR": "A card type that refers to any Hero or Ally"
   },
   {
     "Id": "G_013_TERM",
@@ -9483,9 +9315,9 @@
   },
   {
     "Id": "G_014_DESC",
-    "Text": "Displayed in the upper-left of each card, this is the Resource amount needed to play a card. Heroes do not have a cost, since they begin the game already in play",
-    "Text_CN": "Displayed in the upper-left of each card, this is the Resource amount needed to play a card. Heroes do not have a cost, since they begin the game already in play",
-    "Text_FR": "Displayed in the upper-left of each card, this is the Resource amount needed to play a card. Heroes do not have a cost, since they begin the game already in play"
+    "Text": "Located on the upper left of every Ally, Attachment, Event, and Sauron card, this is the Resource amount needed to play that card. Hero units do not have a cost, since they begin the game already in play",
+    "Text_CN": "Located on the upper left of every Ally, Attachment, Event, and Sauron card, this is the Resource amount needed to play that card. Hero units do not have a cost, since they begin the game already in play",
+    "Text_FR": "Located on the upper left of every Ally, Attachment, Event, and Sauron card, this is the Resource amount needed to play that card. Hero units do not have a cost, since they begin the game already in play"
   },
   {
     "Id": "G_014_TERM",
@@ -9519,9 +9351,9 @@
   },
   {
     "Id": "G_017_DESC",
-    "Text": "A deck of 30 cards based on 3 Heroes of your choice. You build each deck based on these Heroes, and you cannot have more than 2 copies of any individual card. You select a deck each time you begin a Quest. During the Quest, you can rollover the deck to see how many remain",
-    "Text_CN": "A deck of 30 cards based on 3 Heroes of your choice. You build each deck based on these Heroes, and you cannot have more than 2 copies of any individual card. You select a deck each time you begin a Quest. During the Quest, you can rollover the deck to see how many remain",
-    "Text_FR": "A deck of 30 cards based on 3 Heroes of your choice. You build each deck based on these Heroes, and you cannot have more than 2 copies of any individual card. You select a deck each time you begin a Quest. During the Quest, you can rollover the deck to see how many remain"
+    "Text": "A deck of 30 cards based on 3 Hero units of your choice. You build each deck based on the Heroes, and you cannot have more than 2 copies of any individual card. You select a deck each time you begin a Quest. During the Quest, you can rollover the deck to see how many remain",
+    "Text_CN": "A deck of 30 cards based on 3 Hero units of your choice. You build each deck based on the Heroes, and you cannot have more than 2 copies of any individual card. You select a deck each time you begin a Quest. During the Quest, you can rollover the deck to see how many remain",
+    "Text_FR": "A deck of 30 cards based on 3 Hero units of your choice. You build each deck based on the Heroes, and you cannot have more than 2 copies of any individual card. You select a deck each time you begin a Quest. During the Quest, you can rollover the deck to see how many remain"
   },
   {
     "Id": "G_017_TERM",
@@ -9531,9 +9363,9 @@
   },
   {
     "Id": "G_018_DESC",
-    "Text": "Upon being defeated, a card is discarded from play. This can occur if the card falls to 0 Health or through some other means",
-    "Text_CN": "Upon being defeated, a card is discarded from play. This can occur if the card falls to 0 Health or through some other means",
-    "Text_FR": "Upon being defeated, a card is discarded from play. This can occur if the card falls to 0 Health or through some other means"
+    "Text": "Upon being defeated, a unit is discarded from play. This can occur if the unit falls to 0 Health or through some other means",
+    "Text_CN": "Upon being defeated, a unit is discarded from play. This can occur if the unit falls to 0 Health or through some other means",
+    "Text_FR": "Upon being defeated, a unit is discarded from play. This can occur if the unit falls to 0 Health or through some other means"
   },
   {
     "Id": "G_018_TERM",
@@ -9543,9 +9375,9 @@
   },
   {
     "Id": "G_019_DESC",
-    "Text": "Selecting a Character's Defense button gives that card the Guard keyword for the round. Attacking or exhausting the card cancels Defense and removes Guard. At the start of the next round, the Character then readies as normal. Activating Defense again requires a new action that round",
-    "Text_CN": "Selecting a Character's Defense button gives that card the Guard keyword for the round. Attacking or exhausting the card cancels Defense and removes Guard. At the start of the next round, the Character then readies as normal. Activating Defense again requires a new action that round",
-    "Text_FR": "Selecting a Character's Defense button gives that card the Guard keyword for the round. Attacking or exhausting the card cancels Defense and removes Guard. At the start of the next round, the Character then readies as normal. Activating Defense again requires a new action that round"
+    "Text": "Selecting a Character's Defense button gives that unit the <b>Guard</b> keyword for the round. Attacking or exhausting the unit cancels Defense and removes <b>Guard</b>. At the start of the next round, the Character then readies as normal. Activating Defense again requires a new action that round",
+    "Text_CN": "Selecting a Character's Defense button gives that unit the <b>Guard</b> keyword for the round. Attacking or exhausting the unit cancels Defense and removes <b>Guard</b>. At the start of the next round, the Character then readies as normal. Activating Defense again requires a new action that round",
+    "Text_FR": "Selecting a Character's Defense button gives that unit the <b>Guard</b> keyword for the round. Attacking or exhausting the unit cancels Defense and removes <b>Guard</b>. At the start of the next round, the Character then readies as normal. Activating Defense again requires a new action that round"
   },
   {
     "Id": "G_019_TERM",
@@ -9603,9 +9435,9 @@
   },
   {
     "Id": "G_024_DESC",
-    "Text": "A card in play is exhausted when it is used. All exhausted cards ready during Upkeep",
-    "Text_CN": "A card in play is exhausted when it is used. All exhausted cards ready during Upkeep",
-    "Text_FR": "A card in play is exhausted when it is used. All exhausted cards ready during Upkeep"
+    "Text": "A unit in play is exhausted when it is used. All exhausted cards ready during <b>Upkeep</b>",
+    "Text_CN": "A unit in play is exhausted when it is used. All exhausted cards ready during <b>Upkeep</b>",
+    "Text_FR": "A unit in play is exhausted when it is used. All exhausted cards ready during <b>Upkeep</b>"
   },
   {
     "Id": "G_024_TERM",
@@ -9615,9 +9447,9 @@
   },
   {
     "Id": "G_025_DESC",
-    "Text": "An ability that can unlock special single-use abilities unique to each Quest",
-    "Text_CN": "An ability that can unlock special single-use abilities unique to each Quest",
-    "Text_FR": "An ability that can unlock special single-use abilities unique to each Quest"
+    "Text": "An ability that can unlock special single-use effects unique to each Quest",
+    "Text_CN": "An ability that can unlock special single-use effects unique to each Quest",
+    "Text_FR": "An ability that can unlock special single-use effects unique to each Quest"
   },
   {
     "Id": "G_025_TERM",
@@ -9627,9 +9459,9 @@
   },
   {
     "Id": "G_026_DESC",
-    "Text": "This tracks your Fate Pool, which can unlock special single-use abilities",
-    "Text_CN": "This tracks your Fate Pool, which can unlock special single-use abilities",
-    "Text_FR": "This tracks your Fate Pool, which can unlock special single-use abilities"
+    "Text": "This tracks your Fate Pool, which can unlock special single-use effects",
+    "Text_CN": "This tracks your Fate Pool, which can unlock special single-use effects",
+    "Text_FR": "This tracks your Fate Pool, which can unlock special single-use effects"
   },
   {
     "Id": "G_026_TERM",
@@ -9657,15 +9489,15 @@
   },
   {
     "Id": "G_028_TERM",
-    "Text": "Game Options",
-    "Text_CN": "Game Options",
-    "Text_FR": "Game Options"
+    "Text": "Options",
+    "Text_CN": "Options",
+    "Text_FR": "Options"
   },
   {
     "Id": "G_029_DESC",
-    "Text": "When active, a card with this keyword must be engaged before other targets. Also, the card deals its Attack value in reciprocal damage when attacked. Attacking or exhausting the card removes Guard. A card with the Guardkeyword activates Defense as a free action at the start of each round. A card with Stealth cannot Guard",
-    "Text_CN": "When active, a card with this keyword must be engaged before other targets. Also, the card deals its Attack value in reciprocal damage when attacked. Attacking or exhausting the card removes Guard. A card with the Guardkeyword activates Defense as a free action at the start of each round. A card with Stealth cannot Guard",
-    "Text_FR": "When active, a card with this keyword must be engaged before other targets. Also, the card deals its Attack value in reciprocal damage when attacked. Attacking or exhausting the card removes Guard. A card with the Guardkeyword activates Defense as a free action at the start of each round. A card with Stealth cannot Guard"
+    "Text": "When active, no other target can be engaged until that unit acts or is attacked in melee combat. Also, the unit deals its Attack value in reciprocal damage when attacked in melee combat. Attacking or exhausting the unit removes <b>Guard</b>. A unit with the <b>Guard</b> keyword activates Defense as a free action at the start of each round. A unit with <b>Stealth</b> cannot <b>Guard</b>\n",
+    "Text_CN": "When active, no other target can be engaged until that unit acts or is attacked in melee combat. Also, the unit deals its Attack value in reciprocal damage when attacked in melee combat. Attacking or exhausting the unit removes <b>Guard</b>. A unit with the <b>Guard</b> keyword activates Defense as a free action at the start of each round. A unit with <b>Stealth</b> cannot <b>Guard</b>\n",
+    "Text_FR": "When active, no other target can be engaged until that unit acts or is attacked in melee combat. Also, the unit deals its Attack value in reciprocal damage when attacked in melee combat. Attacking or exhausting the unit removes <b>Guard</b>. A unit with the <b>Guard</b> keyword activates Defense as a free action at the start of each round. A unit with <b>Stealth</b> cannot <b>Guard</b>\n"
   },
   {
     "Id": "G_029_TERM",
@@ -9699,9 +9531,9 @@
   },
   {
     "Id": "G_032_DESC",
-    "Text": "The amount of damage the card can suffer before being defeated",
-    "Text_CN": "The amount of damage the card can suffer before being defeated",
-    "Text_FR": "The amount of damage the card can suffer before being defeated"
+    "Text": "The amount of damage the unit can suffer before being defeated",
+    "Text_CN": "The amount of damage the unit can suffer before being defeated",
+    "Text_FR": "The amount of damage the unit can suffer before being defeated"
   },
   {
     "Id": "G_032_TERM",
@@ -9711,9 +9543,9 @@
   },
   {
     "Id": "G_033_DESC",
-    "Text": "A main Character that you control during a Quest. Heroes start the game in play, and have a Threat value instead of a Resource cost. If all your Heroes are defeated, you fail the Quest!",
-    "Text_CN": "A main Character that you control during a Quest. Heroes start the game in play, and have a Threat value instead of a Resource cost. If all your Heroes are defeated, you fail the Quest!",
-    "Text_FR": "A main Character that you control during a Quest. Heroes start the game in play, and have a Threat value instead of a Resource cost. If all your Heroes are defeated, you fail the Quest!"
+    "Text": "A main Character that you control during a Quest. A Hero starts the game in play, and has a Threat value instead of a Resource cost. If every Hero is defeated, you fail the Quest!",
+    "Text_CN": "A main Character that you control during a Quest. A Hero starts the game in play, and has a Threat value instead of a Resource cost. If every Hero is defeated, you fail the Quest!",
+    "Text_FR": "A main Character that you control during a Quest. A Hero starts the game in play, and has a Threat value instead of a Resource cost. If every Hero is defeated, you fail the Quest!"
   },
   {
     "Id": "G_033_TERM",
@@ -9783,9 +9615,9 @@
   },
   {
     "Id": "G_039_DESC",
-    "Text": "The banner at the top center of the game environment. You may select it at any time to display the current Objective",
-    "Text_CN": "The banner at the top center of the game environment. You may select it at any time to display the current Objective",
-    "Text_FR": "The banner at the top center of the game environment. You may select it at any time to display the current Objective"
+    "Text": "The banner at the top center of the game environment. You may select it at any time to display the goal you must accomplish to continue your Quest",
+    "Text_CN": "The banner at the top center of the game environment. You may select it at any time to display the goal you must accomplish to continue your Quest",
+    "Text_FR": "The banner at the top center of the game environment. You may select it at any time to display the goal you must accomplish to continue your Quest"
   },
   {
     "Id": "G_039_TERM",
@@ -9927,9 +9759,9 @@
   },
   {
     "Id": "G_051_DESC",
-    "Text": "This keyword allows the card to follow your Heroes from one Location to the next",
-    "Text_CN": "This keyword allows the card to follow your Heroes from one Location to the next",
-    "Text_FR": "This keyword allows the card to follow your Heroes from one Location to the next"
+    "Text": "This keyword allows the unit to follow your Heroes from one Location to the next",
+    "Text_CN": "This keyword allows the unit to follow your Heroes from one Location to the next",
+    "Text_FR": "This keyword allows the unit to follow your Heroes from one Location to the next"
   },
   {
     "Id": "G_051_TERM",
@@ -9951,9 +9783,9 @@
   },
   {
     "Id": "G_053_DESC",
-    "Text": "A card with this keyword ignores Guard when attacking",
-    "Text_CN": "A card with this keyword ignores Guard when attacking",
-    "Text_FR": "A card with this keyword ignores Guard when attacking"
+    "Text": "A unit with this keyword ignores <b>Guard</b> when attacking",
+    "Text_CN": "A unit with this keyword ignores <b>Guard</b> when attacking",
+    "Text_FR": "A unit with this keyword ignores <b>Guard</b> when attacking"
   },
   {
     "Id": "G_053_TERM",
@@ -9963,9 +9795,9 @@
   },
   {
     "Id": "G_054_DESC",
-    "Text": "All player cards have a listed rarity: Starter and Hero, as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities",
-    "Text_CN": "All player cards have a listed rarity: Starter and Hero, as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities",
-    "Text_FR": "All player cards have a listed rarity: Starter and Hero, as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities"
+    "Text": "All player cards have a listed rarity: Starter and Hero; as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities",
+    "Text_CN": "All player cards have a listed rarity: Starter and Hero; as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities",
+    "Text_FR": "All player cards have a listed rarity: Starter and Hero; as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities"
   },
   {
     "Id": "G_054_TERM",
@@ -9999,9 +9831,9 @@
   },
   {
     "Id": "G_057_DESC",
-    "Text": "This keyword triggers an effect when the card is defeated",
-    "Text_CN": "This keyword triggers an effect when the card is defeated",
-    "Text_FR": "This keyword triggers an effect when the card is defeated"
+    "Text": "This keyword triggers an effect when the unit is defeated",
+    "Text_CN": "This keyword triggers an effect when the unit is defeated",
+    "Text_FR": "This keyword triggers an effect when the unit is defeated"
   },
   {
     "Id": "G_057_TERM",
@@ -10071,9 +9903,9 @@
   },
   {
     "Id": "G_063_DESC",
-    "Text": "A card with this keyword does not exhaust after the first action each round",
-    "Text_CN": "A card with this keyword does not exhaust after the first action each round",
-    "Text_FR": "A card with this keyword does not exhaust after the first action each round"
+    "Text": "A unit with this keyword does not exhaust after the first action each round",
+    "Text_CN": "A unit with this keyword does not exhaust after the first action each round",
+    "Text_FR": "A unit with this keyword does not exhaust after the first action each round"
   },
   {
     "Id": "G_063_TERM",
@@ -10083,9 +9915,9 @@
   },
   {
     "Id": "G_064_DESC",
-    "Text": "When active, a card with this keyword cannot be attacked, and ignores Block and Guard when targeting Enemies and Objectives. An exhausted card cannot have Stealth active",
-    "Text_CN": "When active, a card with this keyword cannot be attacked, and ignores Block and Guard when targeting Enemies and Objectives. An exhausted card cannot have Stealth active",
-    "Text_FR": "When active, a card with this keyword cannot be attacked, and ignores Block and Guard when targeting Enemies and Objectives. An exhausted card cannot have Stealth active"
+    "Text": "When active, a unit with this keyword cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting an Enemy or Objective. An exhausted unit cannot have <b>Stealth</b> active",
+    "Text_CN": "When active, a unit with this keyword cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting an Enemy or Objective. An exhausted unit cannot have <b>Stealth</b> active",
+    "Text_FR": "When active, a unit with this keyword cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting an Enemy or Objective. An exhausted unit cannot have <b>Stealth</b> active"
   },
   {
     "Id": "G_064_TERM",
@@ -10143,9 +9975,9 @@
   },
   {
     "Id": "G_069_DESC",
-    "Text": "This is the number on the upper left of each Hero card. It adds to the Threat meter to determine your starting Threat",
-    "Text_CN": "This is the number on the upper left of each Hero card. It adds to the Threat meter to determine your starting Threat",
-    "Text_FR": "This is the number on the upper left of each Hero card. It adds to the Threat meter to determine your starting Threat"
+    "Text": "Located on the upper left of every Hero card, this number adds to the Threat meter to determine your starting Threat",
+    "Text_CN": "Located on the upper left of every Hero card, this number adds to the Threat meter to determine your starting Threat",
+    "Text_FR": "Located on the upper left of every Hero card, this number adds to the Threat meter to determine your starting Threat"
   },
   {
     "Id": "G_069_TERM",
@@ -10179,9 +10011,9 @@
   },
   {
     "Id": "G_072_DESC",
-    "Text": "At the start of each round, you and Sauron gain Resources and draw cards automatically. Certain abilities may also activate",
-    "Text_CN": "At the start of each round, you and Sauron gain Resources and draw cards automatically. Certain abilities may also activate",
-    "Text_FR": "At the start of each round, you and Sauron gain Resources and draw cards automatically. Certain abilities may also activate"
+    "Text": "At the start of each round, all exhausted units in play ready; then you and Sauron gain Resources and draw cards automatically. Certain abilities may also activate",
+    "Text_CN": "At the start of each round, all exhausted units in play ready; then you and Sauron gain Resources and draw cards automatically. Certain abilities may also activate",
+    "Text_FR": "At the start of each round, all exhausted units in play ready; then you and Sauron gain Resources and draw cards automatically. Certain abilities may also activate"
   },
   {
     "Id": "G_072_TERM",
@@ -10227,9 +10059,9 @@
   },
   {
     "Id": "G_076_DESC",
-    "Text": "The card's effectiveness when engaging an Objective",
-    "Text_CN": "The card's effectiveness when engaging an Objective",
-    "Text_FR": "The card's effectiveness when engaging an Objective"
+    "Text": "The unit's effectiveness when engaging an Objective",
+    "Text_CN": "The unit's effectiveness when engaging an Objective",
+    "Text_FR": "The unit's effectiveness when engaging an Objective"
   },
   {
     "Id": "G_076_TERM",
@@ -10251,15 +10083,15 @@
   },
   {
     "Id": "T_ROLLOVER_DESC_ATTACHMENTTRAY",
-    "Text": "When played, Attachments that modify the card are located here. Select to view",
-    "Text_CN": "When played, Attachments that modify the card are located here. Select to view",
-    "Text_FR": "When played, Attachments that modify the card are located here. Select to view"
+    "Text": "When played, Attachments that modify the unit are located here. Select to view",
+    "Text_CN": "When played, Attachments that modify the unit are located here. Select to view",
+    "Text_FR": "When played, Attachments that modify the unit are located here. Select to view"
   },
   {
     "Id": "T_ROLLOVER_DESC_ATTACK",
-    "Text": "The card's effectiveness when attacking in combat",
-    "Text_CN": "The card's effectiveness when attacking in combat",
-    "Text_FR": "The card's effectiveness when attacking in combat"
+    "Text": "The unit's effectiveness when attacking in combat",
+    "Text_CN": "The unit's effectiveness when attacking in combat",
+    "Text_FR": "The unit's effectiveness when attacking in combat"
   },
   {
     "Id": "T_ROLLOVER_DESC_AVATAR",
@@ -10305,9 +10137,9 @@
   },
   {
     "Id": "T_ROLLOVER_DESC_DEFENSE",
-    "Text": "Select to give the card the <b>Guard</b> keyword for the round",
-    "Text_CN": "Select to give the card the <b>Guard</b> keyword for the round",
-    "Text_FR": "Select to give the card the <b>Guard</b> keyword for the round"
+    "Text": "Select to give the unit the <b>Guard</b> keyword for the round",
+    "Text_CN": "Select to give the unit the <b>Guard</b> keyword for the round",
+    "Text_FR": "Select to give the unit the <b>Guard</b> keyword for the round"
   },
   {
     "Id": "T_ROLLOVER_DESC_DUNADAN",
@@ -10323,9 +10155,9 @@
   },
   {
     "Id": "T_ROLLOVER_DESC_FATE",
-    "Text": "Select to add the card's Willpower value to your Fate Pool",
-    "Text_CN": "Select to add the card's Willpower value to your Fate Pool",
-    "Text_FR": "Select to add the card's Willpower value to your Fate Pool"
+    "Text": "Select to add the unit's Willpower value to your Fate Pool",
+    "Text_CN": "Select to add the unit's Willpower value to your Fate Pool",
+    "Text_FR": "Select to add the unit's Willpower value to your Fate Pool"
   },
   {
     "Id": "T_ROLLOVER_DESC_FATEMETER",
@@ -10359,9 +10191,9 @@
   },
   {
     "Id": "T_ROLLOVER_DESC_HEALTH",
-    "Text": "The amount of damage the card can suffer before being defeated",
-    "Text_CN": "The amount of damage the card can suffer before being defeated",
-    "Text_FR": "The amount of damage the card can suffer before being defeated"
+    "Text": "The amount of damage the unit can suffer before being defeated",
+    "Text_CN": "The amount of damage the unit can suffer before being defeated",
+    "Text_FR": "The amount of damage the unit can suffer before being defeated"
   },
   {
     "Id": "T_ROLLOVER_DESC_HISTORY",
@@ -10377,9 +10209,9 @@
   },
   {
     "Id": "T_ROLLOVER_DESC_ISTAR",
-    "Text": "A trait type, which indicates certain behavior or restrictions.",
-    "Text_CN": "A trait type, which indicates certain behavior or restrictions.",
-    "Text_FR": "A trait type, which indicates certain behavior or restrictions."
+    "Text": "A trait type, which indicates certain behavior or restrictions",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
   },
   {
     "Id": "T_ROLLOVER_DESC_LEADERSHIP",
@@ -10527,21 +10359,21 @@
   },
   {
     "Id": "T_ROLLOVER_DESC_WILLPOWER",
-    "Text": "The card's effectiveness when engaging an Objective",
-    "Text_CN": "The card's effectiveness when engaging an Objective",
-    "Text_FR": "The card's effectiveness when engaging an Objective"
+    "Text": "The unit's effectiveness when engaging an Objective",
+    "Text_CN": "The unit's effectiveness when engaging an Objective",
+    "Text_FR": "The unit's effectiveness when engaging an Objective"
   },
   {
     "Id": "T_ROLLOVER_DESC_TRAIT",
-    "Text": "Indicates a particular category,\nbehavior, or restriction",
-    "Text_CN": "Indicates a particular category,\nbehavior, or restriction",
-    "Text_FR": "Indicates a particular category,\nbehavior, or restriction"
+    "Text": "Indicates a particular category,\\nbehavior, or restriction",
+    "Text_CN": "Indicates a particular category,\\nbehavior, or restriction",
+    "Text_FR": "Indicates a particular category,\\nbehavior, or restriction"
   },
   {
     "Id": "T_ROLLOVER_DESC_ATTACHMENTSOCKETS",
-    "Text": "Player cards can have one of each type:\nWeapon, Armor, Special, Shadow",
-    "Text_CN": "Player cards can have one of each type:\nWeapon, Armor, Special, Shadow",
-    "Text_FR": "Player cards can have one of each type:\nWeapon, Armor, Special, Shadow"
+    "Text": "Characters can have one of each type:\\nWeapon, Armor, Special, Shadow",
+    "Text_CN": "Characters can have one of each type:\\nWeapon, Armor, Special, Shadow",
+    "Text_FR": "Characters can have one of each type:\\nWeapon, Armor, Special, Shadow"
   },
   {
     "Id": "T_ROLLOVER_DESC_VALORCARD",
@@ -10551,15 +10383,15 @@
   },
   {
     "Id": "T_ROLLOVER_DESC_QUEST_RESULT_PV",
-    "Text": "A 250+ final score unlocks\nthe +1 Palantír View reward",
-    "Text_CN": "A 250+ final score unlocks\nthe +1 Palantír View reward",
-    "Text_FR": "A 250+ final score unlocks\nthe +1 Palantír View reward"
+    "Text": "A 250+ final score unlocks\\nthe +1 Palantír View reward",
+    "Text_CN": "A 250+ final score unlocks\\nthe +1 Palantír View reward",
+    "Text_FR": "A 250+ final score unlocks\\nthe +1 Palantír View reward"
   },
   {
     "Id": "T_ROLLOVER_DESC_QUEST_RESULT_VP",
-    "Text": "A 200+ final score unlocks\nthe +50 Valor Points reward",
-    "Text_CN": "A 200+ final score unlocks\nthe +50 Valor Points reward",
-    "Text_FR": "A 200+ final score unlocks\nthe +50 Valor Points reward"
+    "Text": "A 200+ final score unlocks\\nthe +50 Valor Points reward",
+    "Text_CN": "A 200+ final score unlocks\\nthe +50 Valor Points reward",
+    "Text_FR": "A 200+ final score unlocks\\nthe +50 Valor Points reward"
   },
   {
     "Id": "T_ROLLOVER_TITLE_ARMOR",
@@ -10576,8 +10408,8 @@
   {
     "Id": "T_ROLLOVER_TITLE_ATTACK",
     "Text": "<b>Attack Value</b>",
-    "Text_CN": "<b>Attack Value</b> <sprite=0>",
-    "Text_FR": "<b>Attack Value</b> <sprite=0>"
+    "Text_CN": "<b>Attack Value</b>",
+    "Text_FR": "<b>Attack Value</b>"
   },
   {
     "Id": "T_ROLLOVER_TITLE_AVATAR",
@@ -10606,8 +10438,8 @@
   {
     "Id": "T_ROLLOVER_TITLE_COST",
     "Text": "<b>Cost</b>",
-    "Text_CN": "<b>Card Cost</b> <sprite=3>",
-    "Text_FR": "<b>Card Cost</b> <sprite=3>"
+    "Text_CN": "<b>Cost</b>",
+    "Text_FR": "<b>Cost</b>"
   },
   {
     "Id": "T_ROLLOVER_TITLE_DALE",
@@ -10653,9 +10485,9 @@
   },
   {
     "Id": "T_ROLLOVER_TITLE_GAMEOPTIONS",
-    "Text": "<b>Game Options</b>",
-    "Text_CN": "<b>Game Options</b>",
-    "Text_FR": "<b>Game Options</b>"
+    "Text": "<b>Options</b>",
+    "Text_CN": "<b>Options</b>",
+    "Text_FR": "<b>Options</b>"
   },
   {
     "Id": "T_ROLLOVER_TITLE_GLOSSARY",
@@ -10678,8 +10510,8 @@
   {
     "Id": "T_ROLLOVER_TITLE_HEALTH",
     "Text": "<b>Health Value</b>",
-    "Text_CN": "<b>Health Value</b> <sprite=2>",
-    "Text_FR": "<b>Health Value</b> <sprite=2>"
+    "Text_CN": "<b>Health Value</b>",
+    "Text_FR": "<b>Health Value</b>"
   },
   {
     "Id": "T_ROLLOVER_TITLE_HISTORY",
@@ -10846,8 +10678,8 @@
   {
     "Id": "T_ROLLOVER_TITLE_WILLPOWER",
     "Text": "<b>Willpower Value</b>",
-    "Text_CN": "<b>Willpower Value</b> <sprite=5>",
-    "Text_FR": "<b>Willpower Value</b> <sprite=5>"
+    "Text_CN": "<b>Willpower Value</b>",
+    "Text_FR": "<b>Willpower Value</b>"
   },
   {
     "Id": "T_ROLLOVER_TITLE_TRAIT",
@@ -10983,9 +10815,9 @@
   },
   {
     "Id": "K_GUARD_DESC",
-    "Text": "When active, this card must be engaged before other targets and deals damage equal to its Attack value when attacked. Attacking or exhausting this card removes <b>Guard</b>",
-    "Text_CN": "When active, this card must be engaged before other targets and deals damage equal to its Attack value when attacked. Attacking or exhausting this card removes <b>Guard</b>",
-    "Text_FR": "When active, this card must be engaged before other targets and deals damage equal to its Attack value when attacked. Attacking or exhausting this card removes <b>Guard</b>"
+    "Text": "When active, no other target can be engaged until that unit acts or is attacked in melee combat. Attacking or exhausting this card removes <b>Guard</b>",
+    "Text_CN": "When active, no other target can be engaged until that unit acts or is attacked in melee combat. Attacking or exhausting this card removes <b>Guard</b>",
+    "Text_FR": "When active, no other target can be engaged until that unit acts or is attacked in melee combat. Attacking or exhausting this card removes <b>Guard</b>"
   },
   {
     "Id": "K_POWER_DESC",
@@ -10995,33 +10827,33 @@
   },
   {
     "Id": "K_PURSUIT_DESC",
-    "Text": "This card follows your Heroes from one Location to the next",
-    "Text_CN": "This card follows your Heroes from one Location to the next",
-    "Text_FR": "This card follows your Heroes from one Location to the next"
+    "Text": "This unit follows your Heroes from one Location to the next",
+    "Text_CN": "This unit follows your Heroes from one Location to the next",
+    "Text_FR": "This unit follows your Heroes from one Location to the next"
   },
   {
     "Id": "K_RANGED_DESC",
-    "Text": "This card ignores <b>Guard</b> when attacking",
-    "Text_CN": "This card ignores <b>Guard</b> when attacking",
-    "Text_FR": "This card ignores <b>Guard</b> when attacking"
+    "Text": "This unit ignores <b>Guard</b> when attacking",
+    "Text_CN": "This unit ignores <b>Guard</b> when attacking",
+    "Text_FR": "This unit ignores <b>Guard</b> when attacking"
   },
   {
     "Id": "K_REVENGE_DESC",
-    "Text": "The ability triggers when this card is defeated",
-    "Text_CN": "The ability triggers when this card is defeated",
-    "Text_FR": "The ability triggers when this card is defeated"
+    "Text": "The ability triggers when this unit is defeated",
+    "Text_CN": "The ability triggers when this unit is defeated",
+    "Text_FR": "The ability triggers when this unit is defeated"
   },
   {
     "Id": "K_STALWART_DESC",
-    "Text": "This card does not exhaust after the first action each round",
-    "Text_CN": "This card does not exhaust after the first action each round",
-    "Text_FR": "This card does not exhaust after the first action each round"
+    "Text": "This unit does not exhaust after the first action each round",
+    "Text_CN": "This unit does not exhaust after the first action each round",
+    "Text_FR": "This unit does not exhaust after the first action each round"
   },
   {
     "Id": "K_STEALTH_DESC",
-    "Text": "When active, this card cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting Enemies and Objectives. An exhausted card cannot have <b>Stealth</b> active",
-    "Text_CN": "When active, this card cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting Enemies and Objectives. An exhausted card cannot have <b>Stealth</b> active",
-    "Text_FR": "When active, this card cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting Enemies and Objectives. An exhausted card cannot have <b>Stealth</b> active"
+    "Text": "When active, this unit cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting an Enemy or Objective. An exhausted unit cannot have <b>Stealth</b> active",
+    "Text_CN": "When active, this unit cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting an Enemy or Objective. An exhausted unit cannot have <b>Stealth</b> active",
+    "Text_FR": "When active, this unit cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting an Enemy or Objective. An exhausted unit cannot have <b>Stealth</b> active"
   },
   {
     "Id": "K_SURGE_DESC",
@@ -11043,9 +10875,9 @@
   },
   {
     "Id": "K_COUNTER_DESC",
-    "Text": "This card deals 1 damage when defending against melee attacks. (Does not apply to ranged attacks)",
-    "Text_CN": "This card deals 1 damage when defending against melee attacks. (Does not apply to ranged attacks)",
-    "Text_FR": "This card deals 1 damage when defending against melee attacks. (Does not apply to ranged attacks)"
+    "Text": "This unit deals 1 damage when defending against melee attacks. (Does not apply to ranged attacks)",
+    "Text_CN": "This unit deals 1 damage when defending against melee attacks. (Does not apply to ranged attacks)",
+    "Text_FR": "This unit deals 1 damage when defending against melee attacks. (Does not apply to ranged attacks)"
   },
   {
     "Id": "Q_CAMPAIGN_DEMO_NAME",
