@@ -274,8 +274,8 @@
             "Threshold": 2
           },
           {
-            "Id": "GloinRecovered",
-            "Threshold": 7
+            "Id": "AidFromTheBeornings",
+            "Threshold": 6
           }
         ],
         "ThreatCardList": [],
@@ -384,9 +384,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180810193549087",
+  "Version": "20180810193714078",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180810193549087"
+  "InternalKey": "MainQuest_C001Q1_20180810193714078"
 }
