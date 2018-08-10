@@ -1922,7 +1922,16 @@
                 "Q_STAGE_C001Q1L1_TEXT_0",
                 "Q_STAGE_C001Q1L1_TEXT_1"
               ],
-              "FateCardList": [],
+              "FateCardList": [
+                {
+                  "Id": "BilbosPack",
+                  "Threshold": 2
+                },
+                {
+                  "Id": "GloinRecovered",
+                  "Threshold": 7
+                }
+              ],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
               "ChoiceSpriteList": [
