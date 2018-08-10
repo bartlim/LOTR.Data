@@ -21,6 +21,7 @@
     "DeathVFX": "Effect_Death3",
     "DeathSFX": "die_both_e",
     "FlavorText": "Her maidens stood silent about her, and a while she looked upon her guests.\n<i>—The Fellowship of the Ring</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Sara Betsy",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,6 +32,8 @@
     "CameoScale": 0.8,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": [],
     "ArtworkMD5": "dfc48ef93e9ec2973150cc2bde5126ae",
     "BannerMD5": null,
     "IconMD5": "dbe3026a9eedd784213499a81f4e17ea"
