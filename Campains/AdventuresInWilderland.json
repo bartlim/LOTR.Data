@@ -403,7 +403,7 @@
         {
           "Id": "DarkForest",
           "SceneName": "Spiders01",
-          "IntroMusic": "mus_cave",
+          "IntroMusic": "mus_dungeon",
           "IntroVoiceList": [
             "Q2L1_DarkForest"
           ],
@@ -437,7 +437,7 @@
         {
           "Id": "TheSpidersLair",
           "SceneName": "Spiders02",
-          "IntroMusic": "mus_cave",
+          "IntroMusic": "mus_dungeon",
           "IntroVoiceList": [
             "Q2L2_SpidersLair"
           ],
@@ -466,7 +466,7 @@
         {
           "Id": "TheSpidersWebs",
           "SceneName": "Spiders03",
-          "IntroMusic": "mus_cave",
+          "IntroMusic": "mus_dungeon",
           "IntroVoiceList": [
             "Q2L3_SpidersWebs"
           ],
@@ -495,7 +495,7 @@
         {
           "Id": "ForestGlade",
           "SceneName": "Spiders04",
-          "IntroMusic": null,
+          "IntroMusic": "mus_cave",
           "IntroVoiceList": [
             "Q2L4_ForestGlade"
           ],
@@ -740,7 +740,7 @@
         {
           "Id": "MirkwoodForest",
           "SceneName": "DarkForest01",
-          "IntroMusic": null,
+          "IntroMusic": "mus_dungeon",
           "IntroVoiceList": [
             "Q3L1_MirkwoodForest"
           ],
@@ -772,7 +772,7 @@
         {
           "Id": "ForestStream",
           "SceneName": "ForestStream01",
-          "IntroMusic": null,
+          "IntroMusic": "mus_mapmenu",
           "IntroVoiceList": [
             "Q3L2A_ForestStream"
           ],
@@ -808,7 +808,7 @@
         {
           "Id": "BareHilltop",
           "SceneName": "DarkForest02",
-          "IntroMusic": null,
+          "IntroMusic": "mus_deckmenu",
           "IntroVoiceList": [
             "Q3L2B_BareHilltop"
           ],
@@ -844,7 +844,7 @@
         {
           "Id": "MirkwoodSwamp",
           "SceneName": "MirkwoodSwamp01",
-          "IntroMusic": null,
+          "IntroMusic": "mus_mapmenu",
           "IntroVoiceList": [
             "Q3L3A_MirkwoodSwamp"
           ],
@@ -874,7 +874,7 @@
         {
           "Id": "OvergrownTrail",
           "SceneName": "DarkForest03",
-          "IntroMusic": null,
+          "IntroMusic": "mus_deckmenu",
           "IntroVoiceList": [
             "Q3L3B_OvergrownTrail"
           ],
@@ -904,7 +904,7 @@
         {
           "Id": "AbandonedVillage",
           "SceneName": "DarkForest04",
-          "IntroMusic": null,
+          "IntroMusic": "mus_cave",
           "IntroVoiceList": [
             "Q3L3C_AbandonedVillage"
           ],
@@ -1209,7 +1209,7 @@
         {
           "Id": "ToTheRiver",
           "SceneName": "ForestStream02",
-          "IntroMusic": null,
+          "IntroMusic": "mus_deckmenu",
           "IntroVoiceList": [
             "Q4L1_ToTheRiver"
           ],
@@ -1243,7 +1243,7 @@
         {
           "Id": "AnduinPassage",
           "SceneName": "ForestStream05",
-          "IntroMusic": null,
+          "IntroMusic": "mus_cave",
           "IntroVoiceList": [
             "Q4L2_AnduinPassage"
           ],
@@ -1273,7 +1273,7 @@
         {
           "Id": "TreacherousShortcut",
           "SceneName": "ForestStream05",
-          "IntroMusic": null,
+          "IntroMusic": "mus_deckmenu",
           "IntroVoiceList": [
             "Q4L3A_TreacherousShortcut"
           ],
@@ -1304,7 +1304,7 @@
         {
           "Id": "GentleWaters",
           "SceneName": "ForestStream04",
-          "IntroMusic": null,
+          "IntroMusic": "mus_mapmenu",
           "IntroVoiceList": [
             "Q4L3B_GentleWaters"
           ],
@@ -1333,7 +1333,7 @@
         {
           "Id": "AmbushOnTheShoreStage",
           "SceneName": "ForestStream04",
-          "IntroMusic": null,
+          "IntroMusic": "mus_cave",
           "IntroVoiceList": [
             "Q4L3_AmbushOnTheShore"
           ],
@@ -1584,7 +1584,7 @@
         {
           "Id": "SearchingForGrimbeorn",
           "SceneName": "ForestStream03",
-          "IntroMusic": "mus_cave",
+          "IntroMusic": "mus_dungeon",
           "IntroVoiceList": [
             "Q5L1_SearchingForGrimbeorn"
           ],
@@ -1614,7 +1614,7 @@
         {
           "Id": "TheTrollsDinner",
           "SceneName": "Trolls01",
-          "IntroMusic": null,
+          "IntroMusic": "mus_cave",
           "IntroVoiceList": [
             "Q5L2_TheTrollsDinner"
           ],
@@ -1645,7 +1645,7 @@
         {
           "Id": "FightWithTheTrolls",
           "SceneName": "Trolls02",
-          "IntroMusic": "mus_cave",
+          "IntroMusic": "mus_deckmenu",
           "IntroVoiceList": [
             "Q5L3_FightWithTheTrolls"
           ],
