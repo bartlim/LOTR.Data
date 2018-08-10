@@ -4160,31 +4160,31 @@
   {
     "Id": "T_TITLE",
     "Text": "TUTORIAL",
-    "Text_CN": "[C]TUTORIAL",
+    "Text_CN": "TUTORIAL",
     "Text_FR": "TUTORIAL3"
   },
   {
     "Id": "T_DESC",
     "Text": "Start your Journey…",
-    "Text_CN": "[C]Start your journey",
+    "Text_CN": "Start your journey",
     "Text_FR": "Start your journey"
   },
   {
     "Id": "T_ASMODEE_SIGN_UP",
     "Text": "Congratulations! You have completed the prologue, but that was merely the beginning. \n\nCreate an Asmodee.net account now to unlock additional Heroes and cards to use on your further adventures across Middle-earth…",
-    "Text_CN": "[C]Congratulations! You have completed the prologue, but that was merely the beginning. \n\nCreate an Asmodee.net account now to unlock additional Heroes and cards to use on your further adventures across Middle-earth…",
+    "Text_CN": "Congratulations! You have completed the prologue, but that was merely the beginning. \n\nCreate an Asmodee.net account now to unlock additional Heroes and cards to use on your further adventures across Middle-earth…",
     "Text_FR": "Congratulations! You have completed the prologue, but that was merely the beginning. \n\nCreate an Asmodee.net account now to unlock additional Heroes and cards to use on your further adventures across Middle-earth…"
   },
   {
     "Id": "T_ASMODEE_SIGN_IN_1",
     "Text": "Your Asmodee.net account gives you many rewards: new Heroes, cards, a starter deck, a gift of 3000 Valor Points, and the first Quest free!",
-    "Text_CN": "[C]Your Asmodee.net account gives you many rewards: new Heroes, cards, a starter deck, a gift of 3000 Valor Points, and the first Quest free!",
+    "Text_CN": "Your Asmodee.net account gives you many rewards: new Heroes, cards, a starter deck, a gift of 3000 Valor Points, and the first Quest free!",
     "Text_FR": "Your Asmodee.net account gives you many rewards: new Heroes, cards, a starter deck, a gift of 3000 Valor Points, and the first Quest free!"
   },
   {
     "Id": "T_ASMODEE_SIGN_IN_2",
     "Text": "The time has come to begin your journey. Go forth and fare well!",
-    "Text_CN": "[C]The time has come to begin your journey. Go forth and fare well!",
+    "Text_CN": "The time has come to begin your journey. Go forth and fare well!",
     "Text_FR": "The time has come to begin your journey. Go forth and fare well!"
   },
   {
@@ -5383,69 +5383,81 @@
   },
   {
     "Id": "G_072_DESC",
+    "Text": "A card type that refers to any Hero, Ally, Enemy, or Boss card",
+    "Text_CN": "A card type that refers to any Hero, Ally, Enemy, or Boss card",
+    "Text_FR": "A card type that refers to any Hero, Ally, Enemy, or Boss card"
+  },
+  {
+    "Id": "G_072_TERM",
+    "Text": "Unit",
+    "Text_CN": "Unit",
+    "Text_FR": "Unit"
+  },
+  {
+    "Id": "G_073_DESC",
     "Text": "At the start of each round, all exhausted units in play ready; then you and Sauron gain Resources and draw cards automatically. Certain abilities may also activate",
     "Text_CN": "At the start of each round, all exhausted units in play ready; then you and Sauron gain Resources and draw cards automatically. Certain abilities may also activate",
     "Text_FR": "At the start of each round, all exhausted units in play ready; then you and Sauron gain Resources and draw cards automatically. Certain abilities may also activate"
   },
   {
-    "Id": "G_072_TERM",
+    "Id": "G_073_TERM",
     "Text": "Upkeep",
     "Text_CN": "Upkeep",
     "Text_FR": "Upkeep"
   },
   {
-    "Id": "G_073_DESC",
+    "Id": "G_074_DESC",
     "Text": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more",
     "Text_CN": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more",
     "Text_FR": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more"
   },
   {
-    "Id": "G_073_TERM",
+    "Id": "G_074_TERM",
     "Text": "Valor Points",
     "Text_CN": "Valor Points",
     "Text_FR": "Valor Points"
   },
   {
-    "Id": "G_074_DESC",
+    "Id": "G_075_DESC",
     "Text": "This keyword triggers an effect upon defeating a target",
     "Text_CN": "This keyword triggers an effect upon defeating a target",
     "Text_FR": "This keyword triggers an effect upon defeating a target"
   },
   {
-    "Id": "G_074_TERM",
+    "Id": "G_075_TERM",
     "Text": "Vanquish",
     "Text_CN": "Vanquish",
     "Text_FR": "Vanquish"
   },
   {
-    "Id": "G_075_DESC",
+    "Id": "G_076_DESC",
     "Text": "An Attachment type that provides some benefit when attacking. A Character can have only one Attachment of each type at a time",
     "Text_CN": "An Attachment type that provides some benefit when attacking. A Character can have only one Attachment of each type at a time",
     "Text_FR": "An Attachment type that provides some benefit when attacking. A Character can have only one Attachment of each type at a time"
   },
   {
-    "Id": "G_075_TERM",
+    "Id": "G_076_TERM",
     "Text": "Weapon",
     "Text_CN": "Weapon",
     "Text_FR": "Weapon"
   },
   {
-    "Id": "G_076_DESC",
+    "Id": "G_077_DESC",
     "Text": "The unit's effectiveness when engaging an Objective",
     "Text_CN": "The unit's effectiveness when engaging an Objective",
     "Text_FR": "The unit's effectiveness when engaging an Objective"
   },
   {
-    "Id": "G_076_TERM",
+    "Id": "G_077_TERM",
     "Text": "Willpower Value",
     "Text_CN": "Willpower Value",
     "Text_FR": "Willpower Value"
   },
   {
     "Id": "G_COUNT",
-    "Text": "76",
-    "Text_CN": "76",
-    "Text_FR": "76"
+    "Text": "77",
+    "Text_CN": "77",
+    "Text_FR": "77"
   },
   {
     "Id": "T_ROLLOVER_DESC_ARMOR",
