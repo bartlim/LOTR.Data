@@ -268,7 +268,16 @@
         "NextStageTitles": [
           "C001Q1L2"
         ],
-        "FateCardList": [],
+        "FateCardList": [
+          {
+            "Id": "BilbosPack",
+            "Threshold": 2
+          },
+          {
+            "Id": "GloinRecovered",
+            "Threshold": 7
+          }
+        ],
         "ThreatCardList": [],
         "NarrativeCount": 2,
         "NarrativeTextList": [
@@ -384,9 +393,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180810160625882",
+  "Version": "20180810165014503",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180810160625882"
+  "InternalKey": "MainQuest_C001Q1_20180810165014503"
 }
