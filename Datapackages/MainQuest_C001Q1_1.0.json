@@ -349,9 +349,10 @@
           }
         ],
         "ThreatCardList": [],
-        "NarrativeCount": 1,
+        "NarrativeCount": 2,
         "NarrativeTextList": [
-          "Q_STAGE_C001Q1L4_TEXT_0"
+          "Q_STAGE_C001Q1L4_TEXT_0",
+          "Q_STAGE_C001Q1L4_TEXT_1"
         ]
       }
     ],
@@ -383,9 +384,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180810175142799",
+  "Version": "20180810192913260",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180810175142799"
+  "InternalKey": "MainQuest_C001Q1_20180810192913260"
 }
