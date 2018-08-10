@@ -1,6 +1,6 @@
 [
   {
-    "Id": "PLACEHOLDER1",
+    "Id": "_PLACEHOLDER1",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_FR": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -4152,7 +4152,2107 @@
     "Text_FR": "Acting as envoy for the King of Dale, you must venture through Mirkwood and down the Anduin to the land of the Beornings, to seek an audience with Grimbeorn the Old."
   },
   {
-    "Id": "PLACEHOLDER2",
+    "Id": "_PLACEHOLDER2",
+    "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
+    "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
+    "Text_FR": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
+  },
+  {
+    "Id": "T_TITLE",
+    "Text": "TUTORIAL",
+    "Text_CN": "[C]TUTORIAL",
+    "Text_FR": "TUTORIAL3"
+  },
+  {
+    "Id": "T_DESC",
+    "Text": "Start your Journey…",
+    "Text_CN": "[C]Start your journey",
+    "Text_FR": "Start your journey"
+  },
+  {
+    "Id": "T_ASMODEE_SIGN_UP",
+    "Text": "Congratulations! You have completed the prologue, but that was merely the beginning. \n\nCreate an Asmodee.net account now to unlock additional Heroes and cards to use on your further adventures across Middle-earth…",
+    "Text_CN": "[C]Congratulations! You have completed the prologue, but that was merely the beginning. \n\nCreate an Asmodee.net account now to unlock additional Heroes and cards to use on your further adventures across Middle-earth…",
+    "Text_FR": "Congratulations! You have completed the prologue, but that was merely the beginning. \n\nCreate an Asmodee.net account now to unlock additional Heroes and cards to use on your further adventures across Middle-earth…"
+  },
+  {
+    "Id": "T_ASMODEE_SIGN_IN_1",
+    "Text": "Your Asmodee.net account gives you many rewards: new Heroes, cards, a starter deck, a gift of 3000 Valor Points, and the first Quest free!",
+    "Text_CN": "[C]Your Asmodee.net account gives you many rewards: new Heroes, cards, a starter deck, a gift of 3000 Valor Points, and the first Quest free!",
+    "Text_FR": "Your Asmodee.net account gives you many rewards: new Heroes, cards, a starter deck, a gift of 3000 Valor Points, and the first Quest free!"
+  },
+  {
+    "Id": "T_ASMODEE_SIGN_IN_2",
+    "Text": "The time has come to begin your journey. Go forth and fare well!",
+    "Text_CN": "[C]The time has come to begin your journey. Go forth and fare well!",
+    "Text_FR": "The time has come to begin your journey. Go forth and fare well!"
+  },
+  {
+    "Id": "T_POP_V5_ROLLOVER",
+    "Text": "Rollover each highlighted feature to learn its function in the game",
+    "Text_CN": "Rollover each highlighted feature to learn its function in the game",
+    "Text_FR": "Rollover each highlighted feature to learn its function in the game"
+  },
+  {
+    "Id": "T_POP_V5_VIEWHERO",
+    "Text": "Select Bilbo to view the card detail",
+    "Text_CN": "Select Bilbo to view the card detail",
+    "Text_FR": "Select Bilbo to view the card detail"
+  },
+  {
+    "Id": "T_POP_V5_HEROFEATURE",
+    "Text": "This is a card detail view. Let's see what each feature means…",
+    "Text_CN": "This is a card detail view. Let's see what each feature means…",
+    "Text_FR": "This is a card detail view. Let's see what each feature means…"
+  },
+  {
+    "Id": "T_POP_V5_VIEWENEMY",
+    "Text": "Select a Rock Adder to view the card detail",
+    "Text_CN": "Select a Rock Adder to view the card detail",
+    "Text_FR": "Select a Rock Adder to view the card detail"
+  },
+  {
+    "Id": "T_POP_V5_ENEMYFEATURE",
+    "Text": "Enemy units are distinct from Hero units. Let's look at the features…",
+    "Text_CN": "Enemy units are distinct from Hero units. Let's look at the features…",
+    "Text_FR": "Enemy units are distinct from Hero units. Let's look at the features…"
+  },
+  {
+    "Id": "T_POP_V5_ADVENTUREPHASE",
+    "Text": "Welcome to the Adventure phase! Here you may play cards or take actions",
+    "Text_CN": "Welcome to the Adventure phase! Here you may play cards or take actions",
+    "Text_FR": "Welcome to the Adventure phase! Here you may play cards or take actions"
+  },
+  {
+    "Id": "T_POP_V5_VIEWATTACHMENT",
+    "Text": "Select Sting to view the card detail",
+    "Text_CN": "Select Sting to view the card detail",
+    "Text_FR": "Select Sting to view the card detail"
+  },
+  {
+    "Id": "T_POP_V5_DECKCARDS",
+    "Text": "Your deck can include Attachment cards like this one, as well as Ally and Event cards",
+    "Text_CN": "Your deck can include Attachment cards like this one, as well as Ally and Event cards",
+    "Text_FR": "Your deck can include Attachment cards like this one, as well as Ally and Event cards"
+  },
+  {
+    "Id": "T_POP_V5_TAKETURNS",
+    "Text": "In the Adventure phase, you take turns performing actions with Sauron, your opponent",
+    "Text_CN": "In the Adventure phase, you take turns performing actions with Sauron, your opponent",
+    "Text_FR": "In the Adventure phase, you take turns performing actions with Sauron, your opponent"
+  },
+  {
+    "Id": "T_POP_V5_DRAGCARD",
+    "Text": "Drag the card into the play area",
+    "Text_CN": "Drag the card into the play area",
+    "Text_FR": "Drag the card into the play area"
+  },
+  {
+    "Id": "T_POP_V5_EXHAUST",
+    "Text": "Combat exhausts the attacker",
+    "Text_CN": "Combat exhausts the attacker",
+    "Text_FR": "Combat exhausts the attacker"
+  },
+  {
+    "Id": "T_POP_V5_BILBOATTACK",
+    "Text": "To attack, select and drag Bilbo toward the target",
+    "Text_CN": "To attack, select and drag Bilbo toward the target",
+    "Text_FR": "To attack, select and drag Bilbo toward the target"
+  },
+  {
+    "Id": "T_POP_V5_AUTOPASS",
+    "Text": "You pass automatically when you cannot take any more actions",
+    "Text_CN": "You pass automatically when you cannot take any more actions",
+    "Text_FR": "You pass automatically when you cannot take any more actions"
+  },
+  {
+    "Id": "T_POP_V5_ROUNDEND",
+    "Text": "The round ends when you and Sauron both pass",
+    "Text_CN": "The round ends when you and Sauron both pass",
+    "Text_FR": "The round ends when you and Sauron both pass"
+  },
+  {
+    "Id": "T_POP_V5_UPKEEP01",
+    "Text": "All exhausted units in play ready at the start of each round",
+    "Text_CN": "All exhausted units in play ready at the start of each round",
+    "Text_FR": "All exhausted units in play ready at the start of each round"
+  },
+  {
+    "Id": "T_POP_V5_UPKEEP02",
+    "Text": "You then gain 3 Resources and draw 2 cards",
+    "Text_CN": "You then gain 3 Resources and draw 2 cards",
+    "Text_FR": "You then gain 3 Resources and draw 2 cards"
+  },
+  {
+    "Id": "T_POP_V5_ATTACHMENT",
+    "Text": "A Character may have one Attachment of each type",
+    "Text_CN": "A Character may have one Attachment of each type",
+    "Text_FR": "A Character may have one Attachment of each type"
+  },
+  {
+    "Id": "T_POP_V5_L1TRAVEL",
+    "Text": "You have defeated the snakes! Select Travel to continue your journey",
+    "Text_CN": "You have defeated the snakes! Select Travel to continue your journey",
+    "Text_FR": "You have defeated the snakes! Select Travel to continue your journey"
+  },
+  {
+    "Id": "T_POP_V5_ABILITYATUPKEEP",
+    "Text": "Some cards have special abilities that trigger during <b>Upkeep</b>",
+    "Text_CN": "Some cards have special abilities that trigger during <b>Upkeep</b>",
+    "Text_FR": "Some cards have special abilities that trigger during <b>Upkeep</b>"
+  },
+  {
+    "Id": "T_POP_V5_GUARD01",
+    "Text": "When the <b>Guard</b> keyword is active, no other target can be engaged until that unit acts or is attacked in melee combat",
+    "Text_CN": "When the <b>Guard</b> keyword is active, no other target can be engaged until that unit acts or is attacked in melee combat",
+    "Text_FR": "When the <b>Guard</b> keyword is active, no other target can be engaged until that unit acts or is attacked in melee combat"
+  },
+  {
+    "Id": "T_POP_V5_GUARD02",
+    "Text": "A unit with <b>Guard</b> active deals reciprocal damage to the unit that attacks it in melee combat",
+    "Text_CN": "A unit with <b>Guard</b> active deals reciprocal damage to the unit that attacks it in melee combat",
+    "Text_FR": "A unit with <b>Guard</b> active deals reciprocal damage to the unit that attacks it in melee combat"
+  },
+  {
+    "Id": "T_POP_V5_GUARD03",
+    "Text": "<b>Guard</b> is removed after being attacked or exhausted",
+    "Text_CN": "<b>Guard</b> is removed after being attacked or exhausted",
+    "Text_FR": "<b>Guard</b> is removed after being attacked or exhausted"
+  },
+  {
+    "Id": "T_POP_V5_PREPARATION",
+    "Text": "<b>Preparation</b> is a type of Event card which triggers based on a particular circumstance",
+    "Text_CN": "<b>Preparation</b> is a type of Event card which triggers based on a particular circumstance",
+    "Text_FR": "<b>Preparation</b> is a type of Event card which triggers based on a particular circumstance"
+  },
+  {
+    "Id": "T_POP_V5_STARBROOCH",
+    "Text": "Equip Glóin with the Star Brooch",
+    "Text_CN": "Equip Glóin with the Star Brooch",
+    "Text_FR": "Equip Glóin with the Star Brooch"
+  },
+  {
+    "Id": "T_POP_V5_STALWART",
+    "Text": "A card with the Stalwart keyword does not exhaust after its first action each round",
+    "Text_CN": "A card with the Stalwart keyword does not exhaust after its first action each round",
+    "Text_FR": "A card with the Stalwart keyword does not exhaust after its first action each round"
+  },
+  {
+    "Id": "T_POP_V5_SPHERE",
+    "Text": "Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck",
+    "Text_CN": "Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck",
+    "Text_FR": "Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck"
+  },
+  {
+    "Id": "T_POP_V5_RANGED",
+    "Text": "A unit with the <b>Ranged</b> keyword can bypass <b>Guard</b>",
+    "Text_CN": "A unit with the <b>Ranged</b> keyword can bypass <b>Guard</b>",
+    "Text_FR": "A unit with the <b>Ranged</b> keyword can bypass <b>Guard</b>"
+  },
+  {
+    "Id": "T_POP_V5_HAZARD",
+    "Text": "A <b>Hazard</b> is an optional Objective that may complicate your journey unless you resolve it",
+    "Text_CN": "A <b>Hazard</b> is an optional Objective that may complicate your journey unless you resolve it",
+    "Text_FR": "A <b>Hazard</b> is an optional Objective that may complicate your journey unless you resolve it"
+  },
+  {
+    "Id": "T_POP_V5_WILLPOWER",
+    "Text": "Only a unit with a Willpower value can engage an Objective",
+    "Text_CN": "Only a unit with a Willpower value can engage an Objective",
+    "Text_FR": "Only a unit with a Willpower value can engage an Objective"
+  },
+  {
+    "Id": "T_POP_V5_L2TRAVEL",
+    "Text": "When you resolve an Objective, you may travel right away or take additional actions first",
+    "Text_CN": "When you resolve an Objective, you may travel right away or take additional actions first",
+    "Text_FR": "When you resolve an Objective, you may travel right away or take additional actions first"
+  },
+  {
+    "Id": "T_POP_V5_TRAVEL",
+    "Text": "When you travel, any Enemy that is not exhausted can attack your Characters!",
+    "Text_CN": "When you travel, any Enemy that is not exhausted can attack your Characters!",
+    "Text_FR": "When you travel, any Enemy that is not exhausted can attack your Characters!"
+  },
+  {
+    "Id": "T_POP_V5_HEROATTACKENEMY",
+    "Text": "Use Bilbo to attack a Spider Guard",
+    "Text_CN": "Use Bilbo to attack a Spider Guard",
+    "Text_FR": "Use Bilbo to attack a Spider Guard"
+  },
+  {
+    "Id": "T_POP_V5_BLOCK",
+    "Text": "The <b>Block</b> keyword reduces the damage from each attack by 1",
+    "Text_CN": "The <b>Block</b> keyword reduces the damage from each attack by 1",
+    "Text_FR": "The <b>Block</b> keyword reduces the damage from each attack by 1"
+  },
+  {
+    "Id": "T_POP_V5_ALLYATTACKHAZARD",
+    "Text": "Many units have special abilities. Use Rhovanion Outrider to engage The Cloaked Stranger",
+    "Text_CN": "Many units have special abilities. Use Rhovanion Outrider to engage The Cloaked Stranger",
+    "Text_FR": "Many units have special abilities. Use Rhovanion Outrider to engage The Cloaked Stranger"
+  },
+  {
+    "Id": "T_POP_V5_SAURONPASS",
+    "Text": "After Sauron passes, you may continue to take turns while you have actions available",
+    "Text_CN": "After Sauron passes, you may continue to take turns while you have actions available",
+    "Text_FR": "After Sauron passes, you may continue to take turns while you have actions available"
+  },
+  {
+    "Id": "T_POP_V5_ROUNDEND02",
+    "Text": "When you and Sauron cannot take any more actions, the round ends automatically",
+    "Text_CN": "When you and Sauron cannot take any more actions, the round ends automatically",
+    "Text_FR": "When you and Sauron cannot take any more actions, the round ends automatically"
+  },
+  {
+    "Id": "T_POP_V5_3HEROES",
+    "Text": "A standard Quest requires three Heroes",
+    "Text_CN": "A standard Quest requires three Heroes",
+    "Text_FR": "A standard Quest requires three Heroes"
+  },
+  {
+    "Id": "T_POP_V5_BILBOPOWER",
+    "Text": "Use Bilbo's power to gain an advantage against Sauron!",
+    "Text_CN": "Use Bilbo's power to gain an advantage against Sauron!",
+    "Text_FR": "Use Bilbo's power to gain an advantage against Sauron!"
+  },
+  {
+    "Id": "T_POP_V5_PLAYEVENT",
+    "Text": "Play cards to take best advantage of opportunities—use Ever Vigilant to ready Bilbo!",
+    "Text_CN": "Play cards to take best advantage of opportunities—use Ever Vigilant to ready Bilbo!",
+    "Text_FR": "Play cards to take best advantage of opportunities—use Ever Vigilant to ready Bilbo!"
+  },
+  {
+    "Id": "T_POP_V5_USEFULCHARACTER",
+    "Text": "Some Characters can be useful in ways other than battle",
+    "Text_CN": "Some Characters can be useful in ways other than battle",
+    "Text_FR": "Some Characters can be useful in ways other than battle"
+  },
+  {
+    "Id": "T_POP_V5_FATE",
+    "Text": "Characters with Willpower can take an action to add to your Fate Pool",
+    "Text_CN": "Characters with Willpower can take an action to add to your Fate Pool",
+    "Text_FR": "Characters with Willpower can take an action to add to your Fate Pool"
+  },
+  {
+    "Id": "T_POP_V5_ARWENFATE",
+    "Text": "Select Arwen to add her Willpower to the Fate Pool",
+    "Text_CN": "Select Arwen to add her Willpower to the Fate Pool",
+    "Text_FR": "Select Arwen to add her Willpower to the Fate Pool"
+  },
+  {
+    "Id": "T_POP_V5_FATEEVENT",
+    "Text": "Fate Events are unique one-time abilities that can aid you in completing your Quest ",
+    "Text_CN": "Fate Events are unique one-time abilities that can aid you in completing your Quest ",
+    "Text_FR": "Fate Events are unique one-time abilities that can aid you in completing your Quest "
+  },
+  {
+    "Id": "T_POP_V5_DEFENSE",
+    "Text": "Characters can also commit to defending the rest of the party. Select Rhovanion Outrider to activate his Defense ability",
+    "Text_CN": "Characters can also commit to defending the rest of the party. Select Rhovanion Outrider to activate his Defense ability",
+    "Text_FR": "Characters can also commit to defending the rest of the party. Select Rhovanion Outrider to activate his Defense ability"
+  },
+  {
+    "Id": "T_POP_V5_GAINGUARD",
+    "Text": "When you activate Defense, that Character gains the <b>Guard</b> keyword for the round",
+    "Text_CN": "When you activate Defense, that Character gains the <b>Guard</b> keyword for the round",
+    "Text_FR": "When you activate Defense, that Character gains the <b>Guard</b> keyword for the round"
+  },
+  {
+    "Id": "T_POP_V5_ROLLOVEREND",
+    "Text": "Well done!\nTo view a tooltip duron a Quest,\nsimply rollover the game feature",
+    "Text_CN": "Well done!\nTo view a tooltip duron a Quest,\nsimply rollover the game feature",
+    "Text_FR": "Well done!\nTo view a tooltip duron a Quest,\nsimply rollover the game feature"
+  },
+  {
+    "Id": "T_POP_V5_VIEWOBJECTIVE",
+    "Text": "Select Secure the Camp!\nTo view the card detail",
+    "Text_CN": "Select Secure the Camp!\nTo view the card detail",
+    "Text_FR": "Select Secure the Camp!\nTo view the card detail"
+  },
+  {
+    "Id": "T_POP_V5_OBJECTIVEFEATURE",
+    "Text": "You will encounter many Objectives on your Quests",
+    "Text_CN": "You will encounter many Objectives on your Quests",
+    "Text_FR": "You will encounter many Objectives on your Quests"
+  },
+  {
+    "Id": "T_POP_V5_THANKSTARBROOCH",
+    "Text": "Thanks to the Star Brooch, Glóin gains Stalwart",
+    "Text_CN": "Thanks to the Star Brooch, Glóin gains Stalwart",
+    "Text_FR": "Thanks to the Star Brooch, Glóin gains Stalwart"
+  },
+  {
+    "Id": "T_POP_V5_VIEWBLOCKCARD",
+    "Text": "Some units have Block. Select King Spider to view the card detail ",
+    "Text_CN": "Some units have Block. Select King Spider to view the card detail ",
+    "Text_FR": "Some units have Block. Select King Spider to view the card detail "
+  },
+  {
+    "Id": "T_POP_V5_VIEWSNEAKATTACK",
+    "Text": "Select Sneak Attack to view the card detail ",
+    "Text_CN": "Select Sneak Attack to view the card detail ",
+    "Text_FR": "Select Sneak Attack to view the card detail "
+  },
+  {
+    "Id": "T_POP_V5_SNEAKATTACKABILITY",
+    "Text": "Sneak Attack plays a random Ally that helps you, but it gains the Fleeting keyword",
+    "Text_CN": "Sneak Attack plays a random Ally that helps you, but it gains the Fleeting keyword",
+    "Text_FR": "Sneak Attack plays a random Ally that helps you, but it gains the Fleeting keyword"
+  },
+  {
+    "Id": "T_POP_V5_FLEETING",
+    "Text": "A unit with Fleeting is removed at the end of the round",
+    "Text_CN": "A unit with Fleeting is removed at the end of the round",
+    "Text_FR": "A unit with Fleeting is removed at the end of the round"
+  },
+  {
+    "Id": "T_POP_V5_LOOMINGDANGER",
+    "Text": "Threat is a measure of the looming danger that Sauron represents",
+    "Text_CN": "Threat is a measure of the looming danger that Sauron represents",
+    "Text_FR": "Threat is a measure of the looming danger that Sauron represents"
+  },
+  {
+    "Id": "T_POP_V5_THEATTIER",
+    "Text": "When the meter reaches a Threat tier, it means a Threat Event will trigger the next round!",
+    "Text_CN": "When the meter reaches a Threat tier, it means a Threat Event will trigger the next round!",
+    "Text_FR": "When the meter reaches a Threat tier, it means a Threat Event will trigger the next round!"
+  },
+  {
+    "Id": "T_POP_V5_CAREGIVERFLEETING",
+    "Text": "Since Sneak Attack played Imladris Caregiver, it has Fleeting and leaves at the end of the round",
+    "Text_CN": "Since Sneak Attack played Imladris Caregiver, it has Fleeting and leaves at the end of the round",
+    "Text_FR": "Since Sneak Attack played Imladris Caregiver, it has Fleeting and leaves at the end of the round"
+  },
+  {
+    "Id": "_PLACEHOLDER3",
+    "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
+    "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
+    "Text_FR": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
+  },
+  {
+    "Id": "G_001_DESC",
+    "Text": "During this phase, you take turns with Sauron and may play cards, attack Enemies, or engage Objectives",
+    "Text_CN": "During this phase, you take turns with Sauron and may play cards, attack Enemies, or engage Objectives",
+    "Text_FR": "During this phase, you take turns with Sauron and may play cards, attack Enemies, or engage Objectives"
+  },
+  {
+    "Id": "G_001_TERM",
+    "Text": "Adventure Phase",
+    "Text_CN": "Adventure Phase",
+    "Text_FR": "Adventure Phase"
+  },
+  {
+    "Id": "G_002_DESC",
+    "Text": "A card type representing a friend, follower, or creature that assists your Heroes on their Quest",
+    "Text_CN": "A card type representing a friend, follower, or creature that assists your Heroes on their Quest",
+    "Text_FR": "A card type representing a friend, follower, or creature that assists your Heroes on their Quest"
+  },
+  {
+    "Id": "G_002_TERM",
+    "Text": "Ally",
+    "Text_CN": "Ally",
+    "Text_FR": "Ally"
+  },
+  {
+    "Id": "G_003_DESC",
+    "Text": "An Attachment type that typically provides a defensive benefit. A Character can have only one Attachment of each type at a time",
+    "Text_CN": "An Attachment type that typically provides a defensive benefit. A Character can have only one Attachment of each type at a time",
+    "Text_FR": "An Attachment type that typically provides a defensive benefit. A Character can have only one Attachment of each type at a time"
+  },
+  {
+    "Id": "G_003_TERM",
+    "Text": "Armor",
+    "Text_CN": "Armor",
+    "Text_FR": "Armor"
+  },
+  {
+    "Id": "G_004_DESC",
+    "Text": "This keyword triggers an effect when the card enters play",
+    "Text_CN": "This keyword triggers an effect when the card enters play",
+    "Text_FR": "This keyword triggers an effect when the card enters play"
+  },
+  {
+    "Id": "G_004_TERM",
+    "Text": "Arrival",
+    "Text_CN": "Arrival",
+    "Text_FR": "Arrival"
+  },
+  {
+    "Id": "G_005_DESC",
+    "Text": "A card type representing armor, weapons, or special abilities. Unless otherwise stated, it modifies only the Character to which it is equipped",
+    "Text_CN": "A card type representing armor, weapons, or special abilities. Unless otherwise stated, it modifies only the Character to which it is equipped",
+    "Text_FR": "A card type representing armor, weapons, or special abilities. Unless otherwise stated, it modifies only the Character to which it is equipped"
+  },
+  {
+    "Id": "G_005_TERM",
+    "Text": "Attachment",
+    "Text_CN": "Attachment",
+    "Text_FR": "Attachment"
+  },
+  {
+    "Id": "G_006_DESC",
+    "Text": "An extension of a unit's card detail which shows any Attachments that modify the unit",
+    "Text_CN": "An extension of a unit's card detail which shows any Attachments that modify the unit",
+    "Text_FR": "An extension of a unit's card detail which shows any Attachments that modify the unit"
+  },
+  {
+    "Id": "G_006_TERM",
+    "Text": "Attachment Tray",
+    "Text_CN": "Attachment Tray",
+    "Text_FR": "Attachment Tray"
+  },
+  {
+    "Id": "G_007_DESC",
+    "Text": "This ability measures the unit's effectiveness when attacking in combat",
+    "Text_CN": "This ability measures the unit's effectiveness when attacking in combat",
+    "Text_FR": "This ability measures the unit's effectiveness when attacking in combat"
+  },
+  {
+    "Id": "G_007_TERM",
+    "Text": "Attack Value",
+    "Text_CN": "Attack Value",
+    "Text_FR": "Attack Value"
+  },
+  {
+    "Id": "G_008_DESC",
+    "Text": "The icon shown in your profile",
+    "Text_CN": "The icon shown in your profile",
+    "Text_FR": "The icon shown in your profile"
+  },
+  {
+    "Id": "G_008_TERM",
+    "Text": "Avatar",
+    "Text_CN": "Avatar",
+    "Text_FR": "Avatar"
+  },
+  {
+    "Id": "G_009_DESC",
+    "Text": "This keyword reduces by 1 the damage taken from each attack",
+    "Text_CN": "This keyword reduces by 1 the damage taken from each attack",
+    "Text_FR": "This keyword reduces by 1 the damage taken from each attack"
+  },
+  {
+    "Id": "G_009_TERM",
+    "Text": "Block",
+    "Text_CN": "Block",
+    "Text_FR": "Block"
+  },
+  {
+    "Id": "G_010_DESC",
+    "Text": "A series of 5 Quests that tell a larger story",
+    "Text_CN": "A series of 5 Quests that tell a larger story",
+    "Text_FR": "A series of 5 Quests that tell a larger story"
+  },
+  {
+    "Id": "G_010_TERM",
+    "Text": "Campaign",
+    "Text_CN": "Campaign",
+    "Text_FR": "Campaign"
+  },
+  {
+    "Id": "G_011_DESC",
+    "Text": "The first time you log in every 24 hours, the game generates a challenge tied to a random unlocked Quest. Completing each daily challenge grants you Valor (and potential additional rewards)",
+    "Text_CN": "The first time you log in every 24 hours, the game generates a challenge tied to a random unlocked Quest. Completing each daily challenge grants you Valor (and potential additional rewards)",
+    "Text_FR": "The first time you log in every 24 hours, the game generates a challenge tied to a random unlocked Quest. Completing each daily challenge grants you Valor (and potential additional rewards)"
+  },
+  {
+    "Id": "G_011_TERM",
+    "Text": "Challenge, Daily",
+    "Text_CN": "Challenge, Daily",
+    "Text_FR": "Challenge, Daily"
+  },
+  {
+    "Id": "G_012_DESC",
+    "Text": "Achievements that are tracked over the lifetime of your account",
+    "Text_CN": "Achievements that are tracked over the lifetime of your account",
+    "Text_FR": "Achievements that are tracked over the lifetime of your account"
+  },
+  {
+    "Id": "G_012_TERM",
+    "Text": "Challenge, Epic",
+    "Text_CN": "Challenge, Epic",
+    "Text_FR": "Challenge, Epic"
+  },
+  {
+    "Id": "G_013_DESC",
+    "Text": "A card type that refers to any Hero or Ally",
+    "Text_CN": "A card type that refers to any Hero or Ally",
+    "Text_FR": "A card type that refers to any Hero or Ally"
+  },
+  {
+    "Id": "G_013_TERM",
+    "Text": "Character",
+    "Text_CN": "Character",
+    "Text_FR": "Character"
+  },
+  {
+    "Id": "G_014_DESC",
+    "Text": "Located on the upper left of every Ally, Attachment, Event, and Sauron card, this is the Resource amount needed to play that card. Hero units do not have a cost, since they begin the game already in play",
+    "Text_CN": "Located on the upper left of every Ally, Attachment, Event, and Sauron card, this is the Resource amount needed to play that card. Hero units do not have a cost, since they begin the game already in play",
+    "Text_FR": "Located on the upper left of every Ally, Attachment, Event, and Sauron card, this is the Resource amount needed to play that card. Hero units do not have a cost, since they begin the game already in play"
+  },
+  {
+    "Id": "G_014_TERM",
+    "Text": "Cost",
+    "Text_CN": "Cost",
+    "Text_FR": "Cost"
+  },
+  {
+    "Id": "G_015_DESC",
+    "Text": "A trait type representing one of the countless variety of beasts found throughout Middle-earth",
+    "Text_CN": "A trait type representing one of the countless variety of beasts found throughout Middle-earth",
+    "Text_FR": "A trait type representing one of the countless variety of beasts found throughout Middle-earth"
+  },
+  {
+    "Id": "G_015_TERM",
+    "Text": "Creature",
+    "Text_CN": "Creature",
+    "Text_FR": "Creature"
+  },
+  {
+    "Id": "G_016_DESC",
+    "Text": "A trait type representing a person from the city-state of Men in northeastern Rhovanion",
+    "Text_CN": "A trait type representing a person from the city-state of Men in northeastern Rhovanion",
+    "Text_FR": "A trait type representing a person from the city-state of Men in northeastern Rhovanion"
+  },
+  {
+    "Id": "G_016_TERM",
+    "Text": "Dale",
+    "Text_CN": "Dale",
+    "Text_FR": "Dale"
+  },
+  {
+    "Id": "G_017_DESC",
+    "Text": "A deck of 30 cards based on 3 Hero units of your choice. You build each deck based on the Heroes, and you cannot have more than 2 copies of any individual card. You select a deck each time you begin a Quest. During the Quest, you can rollover the deck to see how many remain",
+    "Text_CN": "A deck of 30 cards based on 3 Hero units of your choice. You build each deck based on the Heroes, and you cannot have more than 2 copies of any individual card. You select a deck each time you begin a Quest. During the Quest, you can rollover the deck to see how many remain",
+    "Text_FR": "A deck of 30 cards based on 3 Hero units of your choice. You build each deck based on the Heroes, and you cannot have more than 2 copies of any individual card. You select a deck each time you begin a Quest. During the Quest, you can rollover the deck to see how many remain"
+  },
+  {
+    "Id": "G_017_TERM",
+    "Text": "Deck",
+    "Text_CN": "Deck",
+    "Text_FR": "Deck"
+  },
+  {
+    "Id": "G_018_DESC",
+    "Text": "Upon being defeated, a unit is discarded from play. This can occur if the unit falls to 0 Health or through some other means",
+    "Text_CN": "Upon being defeated, a unit is discarded from play. This can occur if the unit falls to 0 Health or through some other means",
+    "Text_FR": "Upon being defeated, a unit is discarded from play. This can occur if the unit falls to 0 Health or through some other means"
+  },
+  {
+    "Id": "G_018_TERM",
+    "Text": "Defeated",
+    "Text_CN": "Defeated",
+    "Text_FR": "Defeated"
+  },
+  {
+    "Id": "G_019_DESC",
+    "Text": "Selecting a Character's Defense button gives that unit the <b>Guard</b> keyword for the round. Attacking or exhausting the unit cancels Defense and removes <b>Guard</b>. At the start of the next round, the Character then readies as normal. Activating Defense again requires a new action that round",
+    "Text_CN": "Selecting a Character's Defense button gives that unit the <b>Guard</b> keyword for the round. Attacking or exhausting the unit cancels Defense and removes <b>Guard</b>. At the start of the next round, the Character then readies as normal. Activating Defense again requires a new action that round",
+    "Text_FR": "Selecting a Character's Defense button gives that unit the <b>Guard</b> keyword for the round. Attacking or exhausting the unit cancels Defense and removes <b>Guard</b>. At the start of the next round, the Character then readies as normal. Activating Defense again requires a new action that round"
+  },
+  {
+    "Id": "G_019_TERM",
+    "Text": "Defense",
+    "Text_CN": "Defense",
+    "Text_FR": "Defense"
+  },
+  {
+    "Id": "G_020_DESC",
+    "Text": "The challenge level you face in a Quest: Easy, Normal, or Hard. Sauron gains more Resources as the difficulty goes up, but you can gain greater rewards if you survive",
+    "Text_CN": "The challenge level you face in a Quest: Easy, Normal, or Hard. Sauron gains more Resources as the difficulty goes up, but you can gain greater rewards if you survive",
+    "Text_FR": "The challenge level you face in a Quest: Easy, Normal, or Hard. Sauron gains more Resources as the difficulty goes up, but you can gain greater rewards if you survive"
+  },
+  {
+    "Id": "G_020_TERM",
+    "Text": "Difficulty",
+    "Text_CN": "Difficulty",
+    "Text_FR": "Difficulty"
+  },
+  {
+    "Id": "G_021_DESC",
+    "Text": "A trait type representing one of the Dúnedain, the Men of the West",
+    "Text_CN": "A trait type representing one of the Dúnedain, the Men of the West",
+    "Text_FR": "A trait type representing one of the Dúnedain, the Men of the West"
+  },
+  {
+    "Id": "G_021_TERM",
+    "Text": "Dúnadan",
+    "Text_CN": "Dúnadan",
+    "Text_FR": "Dúnadan"
+  },
+  {
+    "Id": "G_022_DESC",
+    "Text": "The action of applying a Character's progress to an Objective",
+    "Text_CN": "The action of applying a Character's progress to an Objective",
+    "Text_FR": "The action of applying a Character's progress to an Objective"
+  },
+  {
+    "Id": "G_022_TERM",
+    "Text": "Engage",
+    "Text_CN": "Engage",
+    "Text_FR": "Engage"
+  },
+  {
+    "Id": "G_023_DESC",
+    "Text": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game",
+    "Text_CN": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game",
+    "Text_FR": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game"
+  },
+  {
+    "Id": "G_023_TERM",
+    "Text": "Event",
+    "Text_CN": "Event",
+    "Text_FR": "Event"
+  },
+  {
+    "Id": "G_024_DESC",
+    "Text": "A unit in play is exhausted when it is used. All exhausted cards ready during <b>Upkeep</b>",
+    "Text_CN": "A unit in play is exhausted when it is used. All exhausted cards ready during <b>Upkeep</b>",
+    "Text_FR": "A unit in play is exhausted when it is used. All exhausted cards ready during <b>Upkeep</b>"
+  },
+  {
+    "Id": "G_024_TERM",
+    "Text": "Exhausted",
+    "Text_CN": "Exhausted",
+    "Text_FR": "Exhausted"
+  },
+  {
+    "Id": "G_025_DESC",
+    "Text": "An ability that can unlock special single-use effects unique to each Quest",
+    "Text_CN": "An ability that can unlock special single-use effects unique to each Quest",
+    "Text_FR": "An ability that can unlock special single-use effects unique to each Quest"
+  },
+  {
+    "Id": "G_025_TERM",
+    "Text": "Fate",
+    "Text_CN": "Fate",
+    "Text_FR": "Fate"
+  },
+  {
+    "Id": "G_026_DESC",
+    "Text": "This tracks your Fate Pool, which can unlock special single-use effects",
+    "Text_CN": "This tracks your Fate Pool, which can unlock special single-use effects",
+    "Text_FR": "This tracks your Fate Pool, which can unlock special single-use effects"
+  },
+  {
+    "Id": "G_026_TERM",
+    "Text": "Fate Meter",
+    "Text_CN": "Fate Meter",
+    "Text_FR": "Fate Meter"
+  },
+  {
+    "Id": "G_027_DESC",
+    "Text": "A card with this keyword is removed at the end of the round",
+    "Text_CN": "A card with this keyword is removed at the end of the round",
+    "Text_FR": "A card with this keyword is removed at the end of the round"
+  },
+  {
+    "Id": "G_027_TERM",
+    "Text": "Fleeting",
+    "Text_CN": "Fleeting",
+    "Text_FR": "Fleeting"
+  },
+  {
+    "Id": "G_028_DESC",
+    "Text": "Select to adjust game settings or to leave the Quest",
+    "Text_CN": "Select to adjust game settings or to leave the Quest",
+    "Text_FR": "Select to adjust game settings or to leave the Quest"
+  },
+  {
+    "Id": "G_028_TERM",
+    "Text": "Options",
+    "Text_CN": "Options",
+    "Text_FR": "Options"
+  },
+  {
+    "Id": "G_029_DESC",
+    "Text": "When active, no other target can be engaged until that unit acts or is attacked in melee combat. Also, the unit deals its Attack value in reciprocal damage when attacked in melee combat. Attacking or exhausting the unit removes <b>Guard</b>. A unit with the <b>Guard</b> keyword activates Defense as a free action at the start of each round. A unit with <b>Stealth</b> cannot <b>Guard</b>\n",
+    "Text_CN": "When active, no other target can be engaged until that unit acts or is attacked in melee combat. Also, the unit deals its Attack value in reciprocal damage when attacked in melee combat. Attacking or exhausting the unit removes <b>Guard</b>. A unit with the <b>Guard</b> keyword activates Defense as a free action at the start of each round. A unit with <b>Stealth</b> cannot <b>Guard</b>\n",
+    "Text_FR": "When active, no other target can be engaged until that unit acts or is attacked in melee combat. Also, the unit deals its Attack value in reciprocal damage when attacked in melee combat. Attacking or exhausting the unit removes <b>Guard</b>. A unit with the <b>Guard</b> keyword activates Defense as a free action at the start of each round. A unit with <b>Stealth</b> cannot <b>Guard</b>\n"
+  },
+  {
+    "Id": "G_029_TERM",
+    "Text": "Guard",
+    "Text_CN": "Guard",
+    "Text_FR": "Guard"
+  },
+  {
+    "Id": "G_030_DESC",
+    "Text": "A trait type representing a person from the most prominent kingdom of Men in Middle-earth.",
+    "Text_CN": "A trait type representing a person from the most prominent kingdom of Men in Middle-earth.",
+    "Text_FR": "A trait type representing a person from the most prominent kingdom of Men in Middle-earth."
+  },
+  {
+    "Id": "G_030_TERM",
+    "Text": "Gondor",
+    "Text_CN": "Gondor",
+    "Text_FR": "Gondor"
+  },
+  {
+    "Id": "G_031_DESC",
+    "Text": "A task that you may face in the course of a Quest. A Hazard is an optional Objective; you are not required to resolve it to complete a Quest",
+    "Text_CN": "A task that you may face in the course of a Quest. A Hazard is an optional Objective; you are not required to resolve it to complete a Quest",
+    "Text_FR": "A task that you may face in the course of a Quest. A Hazard is an optional Objective; you are not required to resolve it to complete a Quest"
+  },
+  {
+    "Id": "G_031_TERM",
+    "Text": "Hazard",
+    "Text_CN": "Hazard",
+    "Text_FR": "Hazard"
+  },
+  {
+    "Id": "G_032_DESC",
+    "Text": "The amount of damage the unit can suffer before being defeated",
+    "Text_CN": "The amount of damage the unit can suffer before being defeated",
+    "Text_FR": "The amount of damage the unit can suffer before being defeated"
+  },
+  {
+    "Id": "G_032_TERM",
+    "Text": "Health Value",
+    "Text_CN": "Health Value",
+    "Text_FR": "Health Value"
+  },
+  {
+    "Id": "G_033_DESC",
+    "Text": "A main Character that you control during a Quest. A Hero starts the game in play, and has a Threat value instead of a Resource cost. If every Hero is defeated, you fail the Quest!",
+    "Text_CN": "A main Character that you control during a Quest. A Hero starts the game in play, and has a Threat value instead of a Resource cost. If every Hero is defeated, you fail the Quest!",
+    "Text_FR": "A main Character that you control during a Quest. A Hero starts the game in play, and has a Threat value instead of a Resource cost. If every Hero is defeated, you fail the Quest!"
+  },
+  {
+    "Id": "G_033_TERM",
+    "Text": "Hero",
+    "Text_CN": "Hero",
+    "Text_FR": "Hero"
+  },
+  {
+    "Id": "G_034_DESC",
+    "Text": "This is a log of recent gameplay actions",
+    "Text_CN": "This is a log of recent gameplay actions",
+    "Text_FR": "This is a log of recent gameplay actions"
+  },
+  {
+    "Id": "G_034_TERM",
+    "Text": "History",
+    "Text_CN": "History",
+    "Text_FR": "History"
+  },
+  {
+    "Id": "G_035_DESC",
+    "Text": "A trait type representing one of a race of gentle beings with a reputation for preferring a settled life over excitement and adventure",
+    "Text_CN": "A trait type representing one of a race of gentle beings with a reputation for preferring a settled life over excitement and adventure",
+    "Text_FR": "A trait type representing one of a race of gentle beings with a reputation for preferring a settled life over excitement and adventure"
+  },
+  {
+    "Id": "G_035_TERM",
+    "Text": "Hobbit",
+    "Text_CN": "Hobbit",
+    "Text_FR": "Hobbit"
+  },
+  {
+    "Id": "G_036_DESC",
+    "Text": "A trait type representing an individual such as Gandalf or Saruman who is more than mortal and possessed of great age and power",
+    "Text_CN": "A trait type representing an individual such as Gandalf or Saruman who is more than mortal and possessed of great age and power",
+    "Text_FR": "A trait type representing an individual such as Gandalf or Saruman who is more than mortal and possessed of great age and power"
+  },
+  {
+    "Id": "G_036_TERM",
+    "Text": "Istar",
+    "Text_CN": "Istar",
+    "Text_FR": "Istar"
+  },
+  {
+    "Id": "G_037_DESC",
+    "Text": "A Sphere of Influence representing the potential to lead, inspire, and command others",
+    "Text_CN": "A Sphere of Influence representing the potential to lead, inspire, and command others",
+    "Text_FR": "A Sphere of Influence representing the potential to lead, inspire, and command others"
+  },
+  {
+    "Id": "G_037_TERM",
+    "Text": "Leadership",
+    "Text_CN": "Leadership",
+    "Text_FR": "Leadership"
+  },
+  {
+    "Id": "G_038_DESC",
+    "Text": "A distinct Quest stage. Completing a Quest requires advancing through a series of Locations",
+    "Text_CN": "A distinct Quest stage. Completing a Quest requires advancing through a series of Locations",
+    "Text_FR": "A distinct Quest stage. Completing a Quest requires advancing through a series of Locations"
+  },
+  {
+    "Id": "G_038_TERM",
+    "Text": "Location",
+    "Text_CN": "Location",
+    "Text_FR": "Location"
+  },
+  {
+    "Id": "G_039_DESC",
+    "Text": "The banner at the top center of the game environment. You may select it at any time to display the goal you must accomplish to continue your Quest",
+    "Text_CN": "The banner at the top center of the game environment. You may select it at any time to display the goal you must accomplish to continue your Quest",
+    "Text_FR": "The banner at the top center of the game environment. You may select it at any time to display the goal you must accomplish to continue your Quest"
+  },
+  {
+    "Id": "G_039_TERM",
+    "Text": "Location Banner",
+    "Text_CN": "Location Banner",
+    "Text_FR": "Location Banner"
+  },
+  {
+    "Id": "G_040_DESC",
+    "Text": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge",
+    "Text_CN": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge",
+    "Text_FR": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge"
+  },
+  {
+    "Id": "G_040_TERM",
+    "Text": "Lore",
+    "Text_CN": "Lore",
+    "Text_FR": "Lore"
+  },
+  {
+    "Id": "G_041_DESC",
+    "Text": "A trait type representing a person from the second clan of the Elves, known for their martial prowess",
+    "Text_CN": "A trait type representing a person from the second clan of the Elves, known for their martial prowess",
+    "Text_FR": "A trait type representing a person from the second clan of the Elves, known for their martial prowess"
+  },
+  {
+    "Id": "G_041_TERM",
+    "Text": "Noldor",
+    "Text_CN": "Noldor",
+    "Text_FR": "Noldor"
+  },
+  {
+    "Id": "G_042_DESC",
+    "Text": "The primary goal you must resolve before you can advance to the next Location",
+    "Text_CN": "The primary goal you must resolve before you can advance to the next Location",
+    "Text_FR": "The primary goal you must resolve before you can advance to the next Location"
+  },
+  {
+    "Id": "G_042_TERM",
+    "Text": "Objective",
+    "Text_CN": "Objective",
+    "Text_FR": "Objective"
+  },
+  {
+    "Id": "G_043_DESC",
+    "Text": "A trait type representing a member of an evil and violent race who serve Sauron",
+    "Text_CN": "A trait type representing a member of an evil and violent race who serve Sauron",
+    "Text_FR": "A trait type representing a member of an evil and violent race who serve Sauron"
+  },
+  {
+    "Id": "G_043_TERM",
+    "Text": "Orc",
+    "Text_CN": "Orc",
+    "Text_FR": "Orc"
+  },
+  {
+    "Id": "G_044_DESC",
+    "Text": "An optional bonus system. You can use the Palantír to gain rewards such as Valor Points, new cards, and cosmetic items",
+    "Text_CN": "An optional bonus system. You can use the Palantír to gain rewards such as Valor Points, new cards, and cosmetic items",
+    "Text_FR": "An optional bonus system. You can use the Palantír to gain rewards such as Valor Points, new cards, and cosmetic items"
+  },
+  {
+    "Id": "G_044_TERM",
+    "Text": "Palantír",
+    "Text_CN": "Palantír",
+    "Text_FR": "Palantír"
+  },
+  {
+    "Id": "G_045_DESC",
+    "Text": "Shows the current phase of the round",
+    "Text_CN": "Shows the current phase of the round",
+    "Text_FR": "Shows the current phase of the round"
+  },
+  {
+    "Id": "G_045_TERM",
+    "Text": "Phase Button",
+    "Text_CN": "Phase Button",
+    "Text_FR": "Phase Button"
+  },
+  {
+    "Id": "G_046_DESC",
+    "Text": "These are any Ally, Attachment, Event, and Hero cards in your deck",
+    "Text_CN": "These are any Ally, Attachment, Event, and Hero cards in your deck",
+    "Text_FR": "These are any Ally, Attachment, Event, and Hero cards in your deck"
+  },
+  {
+    "Id": "G_046_TERM",
+    "Text": "Player Cards",
+    "Text_CN": "Player Cards",
+    "Text_FR": "Player Cards"
+  },
+  {
+    "Id": "G_047_DESC",
+    "Text": "This keyword activates the card's unique ability",
+    "Text_CN": "This keyword activates the card's unique ability",
+    "Text_FR": "This keyword activates the card's unique ability"
+  },
+  {
+    "Id": "G_047_TERM",
+    "Text": "Power",
+    "Text_CN": "Power",
+    "Text_FR": "Power"
+  },
+  {
+    "Id": "G_048_DESC",
+    "Text": "An Event card type which triggers based on a timing window or circumstance. Once played, it is hidden from Sauron's view until triggered",
+    "Text_CN": "An Event card type which triggers based on a timing window or circumstance. Once played, it is hidden from Sauron's view until triggered",
+    "Text_FR": "An Event card type which triggers based on a timing window or circumstance. Once played, it is hidden from Sauron's view until triggered"
+  },
+  {
+    "Id": "G_048_TERM",
+    "Text": "Preparation",
+    "Text_CN": "Preparation",
+    "Text_FR": "Preparation"
+  },
+  {
+    "Id": "G_049_DESC",
+    "Text": "Indicates unrevealed Preparation cards. You may select the sockets at any time to view your prepared cards",
+    "Text_CN": "Indicates unrevealed Preparation cards. You may select the sockets at any time to view your prepared cards",
+    "Text_FR": "Indicates unrevealed Preparation cards. You may select the sockets at any time to view your prepared cards"
+  },
+  {
+    "Id": "G_049_TERM",
+    "Text": "Preparation Sockets",
+    "Text_CN": "Preparation Sockets",
+    "Text_FR": "Preparation Sockets"
+  },
+  {
+    "Id": "G_050_DESC",
+    "Text": "The amount by which you reduce the Quest value each time you engage an Objective",
+    "Text_CN": "The amount by which you reduce the Quest value each time you engage an Objective",
+    "Text_FR": "The amount by which you reduce the Quest value each time you engage an Objective"
+  },
+  {
+    "Id": "G_050_TERM",
+    "Text": "Progress",
+    "Text_CN": "Progress",
+    "Text_FR": "Progress"
+  },
+  {
+    "Id": "G_051_DESC",
+    "Text": "This keyword allows the unit to follow your Heroes from one Location to the next",
+    "Text_CN": "This keyword allows the unit to follow your Heroes from one Location to the next",
+    "Text_FR": "This keyword allows the unit to follow your Heroes from one Location to the next"
+  },
+  {
+    "Id": "G_051_TERM",
+    "Text": "Pursuit",
+    "Text_CN": "Pursuit",
+    "Text_FR": "Pursuit"
+  },
+  {
+    "Id": "G_052_DESC",
+    "Text": "The total Willpower amount required to resolve an Objective",
+    "Text_CN": "The total Willpower amount required to resolve an Objective",
+    "Text_FR": "The total Willpower amount required to resolve an Objective"
+  },
+  {
+    "Id": "G_052_TERM",
+    "Text": "Quest Value",
+    "Text_CN": "Quest Value",
+    "Text_FR": "Quest Value"
+  },
+  {
+    "Id": "G_053_DESC",
+    "Text": "A unit with this keyword ignores <b>Guard</b> when attacking",
+    "Text_CN": "A unit with this keyword ignores <b>Guard</b> when attacking",
+    "Text_FR": "A unit with this keyword ignores <b>Guard</b> when attacking"
+  },
+  {
+    "Id": "G_053_TERM",
+    "Text": "Ranged",
+    "Text_CN": "Ranged",
+    "Text_FR": "Ranged"
+  },
+  {
+    "Id": "G_054_DESC",
+    "Text": "All player cards have a listed rarity: Starter and Hero; as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities",
+    "Text_CN": "All player cards have a listed rarity: Starter and Hero; as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities",
+    "Text_FR": "All player cards have a listed rarity: Starter and Hero; as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities"
+  },
+  {
+    "Id": "G_054_TERM",
+    "Text": "Rarity",
+    "Text_CN": "Rarity",
+    "Text_FR": "Rarity"
+  },
+  {
+    "Id": "G_055_DESC",
+    "Text": "The act of completing, overcoming, or otherwise removing an Objective",
+    "Text_CN": "The act of completing, overcoming, or otherwise removing an Objective",
+    "Text_FR": "The act of completing, overcoming, or otherwise removing an Objective"
+  },
+  {
+    "Id": "G_055_TERM",
+    "Text": "Resolve",
+    "Text_CN": "Resolve",
+    "Text_FR": "Resolve"
+  },
+  {
+    "Id": "G_056_DESC",
+    "Text": "Spent to play cards. Resources refresh each round during Upkeep",
+    "Text_CN": "Spent to play cards. Resources refresh each round during Upkeep",
+    "Text_FR": "Spent to play cards. Resources refresh each round during Upkeep"
+  },
+  {
+    "Id": "G_056_TERM",
+    "Text": "Resources",
+    "Text_CN": "Resources",
+    "Text_FR": "Resources"
+  },
+  {
+    "Id": "G_057_DESC",
+    "Text": "This keyword triggers an effect when the unit is defeated",
+    "Text_CN": "This keyword triggers an effect when the unit is defeated",
+    "Text_FR": "This keyword triggers an effect when the unit is defeated"
+  },
+  {
+    "Id": "G_057_TERM",
+    "Text": "Revenge",
+    "Text_CN": "Revenge",
+    "Text_FR": "Revenge"
+  },
+  {
+    "Id": "G_058_DESC",
+    "Text": "A trait type representing a person from the kingdom between the Misty Mountains and White Mountains",
+    "Text_CN": "A trait type representing a person from the kingdom between the Misty Mountains and White Mountains",
+    "Text_FR": "A trait type representing a person from the kingdom between the Misty Mountains and White Mountains"
+  },
+  {
+    "Id": "G_058_TERM",
+    "Text": "Rohan",
+    "Text_CN": "Rohan",
+    "Text_FR": "Rohan"
+  },
+  {
+    "Id": "G_059_DESC",
+    "Text": "A trait type representing an Elf who is more interested in knowledge than in combat, compared to Noldor",
+    "Text_CN": "A trait type representing an Elf who is more interested in knowledge than in combat, compared to Noldor",
+    "Text_FR": "A trait type representing an Elf who is more interested in knowledge than in combat, compared to Noldor"
+  },
+  {
+    "Id": "G_059_TERM",
+    "Text": "Silvan",
+    "Text_CN": "Silvan",
+    "Text_FR": "Silvan"
+  },
+  {
+    "Id": "G_060_DESC",
+    "Text": "An Attachment type that provides a special in-game benefit. A Character can have only one Attachment of each type at a time",
+    "Text_CN": "An Attachment type that provides a special in-game benefit. A Character can have only one Attachment of each type at a time",
+    "Text_FR": "An Attachment type that provides a special in-game benefit. A Character can have only one Attachment of each type at a time"
+  },
+  {
+    "Id": "G_060_TERM",
+    "Text": "Special",
+    "Text_CN": "Special",
+    "Text_FR": "Special"
+  },
+  {
+    "Id": "G_061_DESC",
+    "Text": "The card's Sphere. Each of the four Spheres (Leadership, Lore, Spirit, Tactics) focuses on a particular personality aspect. Every Hero belongs to a Sphere, which dictates the cards you can include in a deck",
+    "Text_CN": "The card's Sphere. Each of the four Spheres (Leadership, Lore, Spirit, Tactics) focuses on a particular personality aspect. Every Hero belongs to a Sphere, which dictates the cards you can include in a deck",
+    "Text_FR": "The card's Sphere. Each of the four Spheres (Leadership, Lore, Spirit, Tactics) focuses on a particular personality aspect. Every Hero belongs to a Sphere, which dictates the cards you can include in a deck"
+  },
+  {
+    "Id": "G_061_TERM",
+    "Text": "Sphere of Influence",
+    "Text_CN": "Sphere of Influence",
+    "Text_FR": "Sphere of Influence"
+  },
+  {
+    "Id": "G_062_DESC",
+    "Text": "A Sphere of Influence encompassing strength of will and aspects of the supernatural",
+    "Text_CN": "A Sphere of Influence encompassing strength of will and aspects of the supernatural",
+    "Text_FR": "A Sphere of Influence encompassing strength of will and aspects of the supernatural"
+  },
+  {
+    "Id": "G_062_TERM",
+    "Text": "Spirit",
+    "Text_CN": "Spirit",
+    "Text_FR": "Spirit"
+  },
+  {
+    "Id": "G_063_DESC",
+    "Text": "A unit with this keyword does not exhaust after the first action each round",
+    "Text_CN": "A unit with this keyword does not exhaust after the first action each round",
+    "Text_FR": "A unit with this keyword does not exhaust after the first action each round"
+  },
+  {
+    "Id": "G_063_TERM",
+    "Text": "Stalwart",
+    "Text_CN": "Stalwart",
+    "Text_FR": "Stalwart"
+  },
+  {
+    "Id": "G_064_DESC",
+    "Text": "When active, a unit with this keyword cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting an Enemy or Objective. An exhausted unit cannot have <b>Stealth</b> active",
+    "Text_CN": "When active, a unit with this keyword cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting an Enemy or Objective. An exhausted unit cannot have <b>Stealth</b> active",
+    "Text_FR": "When active, a unit with this keyword cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting an Enemy or Objective. An exhausted unit cannot have <b>Stealth</b> active"
+  },
+  {
+    "Id": "G_064_TERM",
+    "Text": "Stealth",
+    "Text_CN": "Stealth",
+    "Text_FR": "Stealth"
+  },
+  {
+    "Id": "G_065_DESC",
+    "Text": "This keyword grants you an immediate action after the card is played",
+    "Text_CN": "This keyword grants you an immediate action after the card is played",
+    "Text_FR": "This keyword grants you an immediate action after the card is played"
+  },
+  {
+    "Id": "G_065_TERM",
+    "Text": "Surge",
+    "Text_CN": "Surge",
+    "Text_FR": "Surge"
+  },
+  {
+    "Id": "G_066_DESC",
+    "Text": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat",
+    "Text_CN": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat",
+    "Text_FR": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat"
+  },
+  {
+    "Id": "G_066_TERM",
+    "Text": "Tactics",
+    "Text_CN": "Tactics",
+    "Text_FR": "Tactics"
+  },
+  {
+    "Id": "G_067_DESC",
+    "Text": "A measure of the risk you face during the Quest. Threat increases each round and when you travel. If you reach 50 Threat, your Quest fails!",
+    "Text_CN": "A measure of the risk you face during the Quest. Threat increases each round and when you travel. If you reach 50 Threat, your Quest fails!",
+    "Text_FR": "A measure of the risk you face during the Quest. Threat increases each round and when you travel. If you reach 50 Threat, your Quest fails!"
+  },
+  {
+    "Id": "G_067_TERM",
+    "Text": "Threat",
+    "Text_CN": "Threat",
+    "Text_FR": "Threat"
+  },
+  {
+    "Id": "G_068_DESC",
+    "Text": "This tracks the amount of risk you face. Your Quest fails if you reach 50 Threat",
+    "Text_CN": "This tracks the amount of risk you face. Your Quest fails if you reach 50 Threat",
+    "Text_FR": "This tracks the amount of risk you face. Your Quest fails if you reach 50 Threat"
+  },
+  {
+    "Id": "G_068_TERM",
+    "Text": "Threat Meter",
+    "Text_CN": "Threat Meter",
+    "Text_FR": "Threat Meter"
+  },
+  {
+    "Id": "G_069_DESC",
+    "Text": "Located on the upper left of every Hero card, this number adds to the Threat meter to determine your starting Threat",
+    "Text_CN": "Located on the upper left of every Hero card, this number adds to the Threat meter to determine your starting Threat",
+    "Text_FR": "Located on the upper left of every Hero card, this number adds to the Threat meter to determine your starting Threat"
+  },
+  {
+    "Id": "G_069_TERM",
+    "Text": "Threat Value",
+    "Text_CN": "Threat Value",
+    "Text_FR": "Threat Value"
+  },
+  {
+    "Id": "G_070_DESC",
+    "Text": "Some cards have traits which indicate particular categories, behaviors, or restrictions",
+    "Text_CN": "Some cards have traits which indicate particular categories, behaviors, or restrictions",
+    "Text_FR": "Some cards have traits which indicate particular categories, behaviors, or restrictions"
+  },
+  {
+    "Id": "G_070_TERM",
+    "Text": "Trait",
+    "Text_CN": "Trait",
+    "Text_FR": "Trait"
+  },
+  {
+    "Id": "G_071_DESC",
+    "Text": "Sauron's unrevealed Treachery cards. They remain secret until revealed",
+    "Text_CN": "Sauron's unrevealed Treachery cards. They remain secret until revealed",
+    "Text_FR": "Sauron's unrevealed Treachery cards. They remain secret until revealed"
+  },
+  {
+    "Id": "G_071_TERM",
+    "Text": "Treachery Sockets",
+    "Text_CN": "Treachery Sockets",
+    "Text_FR": "Treachery Sockets"
+  },
+  {
+    "Id": "G_072_DESC",
+    "Text": "At the start of each round, all exhausted units in play ready; then you and Sauron gain Resources and draw cards automatically. Certain abilities may also activate",
+    "Text_CN": "At the start of each round, all exhausted units in play ready; then you and Sauron gain Resources and draw cards automatically. Certain abilities may also activate",
+    "Text_FR": "At the start of each round, all exhausted units in play ready; then you and Sauron gain Resources and draw cards automatically. Certain abilities may also activate"
+  },
+  {
+    "Id": "G_072_TERM",
+    "Text": "Upkeep",
+    "Text_CN": "Upkeep",
+    "Text_FR": "Upkeep"
+  },
+  {
+    "Id": "G_073_DESC",
+    "Text": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more",
+    "Text_CN": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more",
+    "Text_FR": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more"
+  },
+  {
+    "Id": "G_073_TERM",
+    "Text": "Valor Points",
+    "Text_CN": "Valor Points",
+    "Text_FR": "Valor Points"
+  },
+  {
+    "Id": "G_074_DESC",
+    "Text": "This keyword triggers an effect upon defeating a target",
+    "Text_CN": "This keyword triggers an effect upon defeating a target",
+    "Text_FR": "This keyword triggers an effect upon defeating a target"
+  },
+  {
+    "Id": "G_074_TERM",
+    "Text": "Vanquish",
+    "Text_CN": "Vanquish",
+    "Text_FR": "Vanquish"
+  },
+  {
+    "Id": "G_075_DESC",
+    "Text": "An Attachment type that provides some benefit when attacking. A Character can have only one Attachment of each type at a time",
+    "Text_CN": "An Attachment type that provides some benefit when attacking. A Character can have only one Attachment of each type at a time",
+    "Text_FR": "An Attachment type that provides some benefit when attacking. A Character can have only one Attachment of each type at a time"
+  },
+  {
+    "Id": "G_075_TERM",
+    "Text": "Weapon",
+    "Text_CN": "Weapon",
+    "Text_FR": "Weapon"
+  },
+  {
+    "Id": "G_076_DESC",
+    "Text": "The unit's effectiveness when engaging an Objective",
+    "Text_CN": "The unit's effectiveness when engaging an Objective",
+    "Text_FR": "The unit's effectiveness when engaging an Objective"
+  },
+  {
+    "Id": "G_076_TERM",
+    "Text": "Willpower Value",
+    "Text_CN": "Willpower Value",
+    "Text_FR": "Willpower Value"
+  },
+  {
+    "Id": "G_COUNT",
+    "Text": "76",
+    "Text_CN": "76",
+    "Text_FR": "76"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_ARMOR",
+    "Text": "An Attachment type. A Character can have only one Attachment of each type at a time",
+    "Text_CN": "An Attachment type. A Character can have only one Attachment of each type at a time",
+    "Text_FR": "An Attachment type. A Character can have only one Attachment of each type at a time"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_ATTACHMENTTRAY",
+    "Text": "When played, Attachments that modify the unit are located here. Select to view",
+    "Text_CN": "When played, Attachments that modify the unit are located here. Select to view",
+    "Text_FR": "When played, Attachments that modify the unit are located here. Select to view"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_ATTACK",
+    "Text": "The unit's effectiveness when attacking in combat",
+    "Text_CN": "The unit's effectiveness when attacking in combat",
+    "Text_FR": "The unit's effectiveness when attacking in combat"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_AVATAR",
+    "Text": "The icon shown in your profile",
+    "Text_CN": "The icon shown in your profile",
+    "Text_FR": "The icon shown in your profile"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_BACK",
+    "Text": "Select to return to the previous screen",
+    "Text_CN": "Select to return to the previous screen",
+    "Text_FR": "Select to return to the previous screen"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_CARDABILITY",
+    "Text": "Any abilities that the card has are described here",
+    "Text_CN": "Any abilities that the card has are described here",
+    "Text_FR": "Any abilities that the card has are described here"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_CARDTITLE",
+    "Text": "The card name. The \"‰\" symbol means the card is unique",
+    "Text_CN": "The card name. The \"‰\" symbol means the card is unique",
+    "Text_FR": "The card name. The \"‰\" symbol means the card is unique"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_COST",
+    "Text": "The Resource amount needed to play a card",
+    "Text_CN": "The Resource amount needed to play a card",
+    "Text_FR": "The Resource amount needed to play a card"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_DALE",
+    "Text": "A trait type, which indicates certain behavior or restrictions",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_DECK",
+    "Text": "The cards you use in the Quest. Rollover to see how many remain",
+    "Text_CN": "The cards you use in the Quest. Rollover to see how many remain",
+    "Text_FR": "The cards you use in the Quest. Rollover to see how many remain"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_DEFENSE",
+    "Text": "Select to give the unit the <b>Guard</b> keyword for the round",
+    "Text_CN": "Select to give the unit the <b>Guard</b> keyword for the round",
+    "Text_FR": "Select to give the unit the <b>Guard</b> keyword for the round"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_DUNADAN",
+    "Text": "A trait type, which indicates certain behavior or restrictions",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_EVENT",
+    "Text": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game",
+    "Text_CN": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game",
+    "Text_FR": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_FATE",
+    "Text": "Select to add the unit's Willpower value to your Fate Pool",
+    "Text_CN": "Select to add the unit's Willpower value to your Fate Pool",
+    "Text_FR": "Select to add the unit's Willpower value to your Fate Pool"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_FATEMETER",
+    "Text": "Tracks your Fate Pool, which can unlock special single-use abilities",
+    "Text_CN": "Tracks your Fate Pool, which can unlock special single-use abilities",
+    "Text_FR": "Tracks your Fate Pool, which can unlock special single-use abilities"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_GAMEOPTIONS",
+    "Text": "Select to adjust game settings or to leave the Quest",
+    "Text_CN": "Select to adjust game settings or to leave the Quest",
+    "Text_FR": "Select to adjust game settings or to leave the Quest"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_GLOSSARY",
+    "Text": "Important keywords and terminology",
+    "Text_CN": "Important keywords and terminology",
+    "Text_FR": "Important keywords and terminology"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_GONDOR",
+    "Text": "A trait type, which indicates certain behavior or restrictions",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_HAZARD",
+    "Text": "A task that you may face in the course of a Quest",
+    "Text_CN": "A task that you may face in the course of a Quest",
+    "Text_FR": "A task that you may face in the course of a Quest"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_HEALTH",
+    "Text": "The amount of damage the unit can suffer before being defeated",
+    "Text_CN": "The amount of damage the unit can suffer before being defeated",
+    "Text_FR": "The amount of damage the unit can suffer before being defeated"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_HISTORY",
+    "Text": "Shows recent gameplay actions",
+    "Text_CN": "Shows recent gameplay actions",
+    "Text_FR": "Shows recent gameplay actions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_HOBBIT",
+    "Text": "A trait type, which indicates certain behavior or restrictions",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_ISTAR",
+    "Text": "A trait type, which indicates certain behavior or restrictions",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_LEADERSHIP",
+    "Text": "A Sphere of Influence representing the potential to lead, inspire, and command others",
+    "Text_CN": "A Sphere of Influence representing the potential to lead, inspire, and command others",
+    "Text_FR": "A Sphere of Influence representing the potential to lead, inspire, and command others"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_LOCATIONBANNER",
+    "Text": "Shows your Location. Select to display the current Objective",
+    "Text_CN": "Shows your Location. Select to display the current Objective",
+    "Text_FR": "Shows your Location. Select to display the current Objective"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_LORE",
+    "Text": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge",
+    "Text_CN": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge",
+    "Text_FR": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_NOLDOR",
+    "Text": "A trait type, which indicates certain behavior or restrictions",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_OBJECTIVE",
+    "Text": "The primary goal you must resolve before you can advance to the next Location",
+    "Text_CN": "The primary goal you must resolve before you can advance to the next Location",
+    "Text_FR": "The primary goal you must resolve before you can advance to the next Location"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_OPTIONS",
+    "Text": "Select to adjust game settings, or to restart or exit the Quest",
+    "Text_CN": "Select to adjust game settings, or to restart or exit the Quest",
+    "Text_FR": "Select to adjust game settings, or to restart or exit the Quest"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_ORC",
+    "Text": "A trait type, which indicates certain behavior or restrictions",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_PHASEBUTTON",
+    "Text": "Shows the current phase of the round",
+    "Text_CN": "Shows the current phase of the round",
+    "Text_FR": "Shows the current phase of the round"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_POWERBUTTON",
+    "Text": "Select to activate the card's unique ability",
+    "Text_CN": "Select to activate the card's unique ability",
+    "Text_FR": "Select to activate the card's unique ability"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_PREPARATION",
+    "Text": "A trait type, which indicates certain behavior or restrictions",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_PREPARATIONSOCKET",
+    "Text": "Indicates unrevealed Preparation cards. Select to view your prepared cards",
+    "Text_CN": "Indicates unrevealed Preparation cards. Select to view your prepared cards",
+    "Text_FR": "Indicates unrevealed Preparation cards. Select to view your prepared cards"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_QUESTVALUE",
+    "Text": "The total Willpower amount required to resolve an Objective",
+    "Text_CN": "The total Willpower amount required to resolve an Objective",
+    "Text_FR": "The total Willpower amount required to resolve an Objective"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_PLAYERRESOURCES",
+    "Text": "Spend to play cards. Refreshes each round during Upkeep",
+    "Text_CN": "Spend to play cards. Refreshes each round during Upkeep",
+    "Text_FR": "Spend to play cards. Refreshes each round during Upkeep"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_ROHAN",
+    "Text": "A trait type, which indicates certain behavior or restrictions",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_SAURONRESOURCES",
+    "Text": "What Sauron spends to play cards. Refreshes each round during Upkeep",
+    "Text_CN": "What Sauron spends to play cards. Refreshes each round during Upkeep",
+    "Text_FR": "What Sauron spends to play cards. Refreshes each round during Upkeep"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_SILVAN",
+    "Text": "A trait type, which indicates certain behavior or restrictions",
+    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
+    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_SPECIAL",
+    "Text": "An Attachment type. A Character can have only one Attachment of each type at a time",
+    "Text_CN": "An Attachment type. A Character can have only one Attachment of each type at a time",
+    "Text_FR": "An Attachment type. A Character can have only one Attachment of each type at a time"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_SPHEREOFINFLUENCE",
+    "Text": "The card's Sphere: Leadership, Lore, Spirit, Tactics, or Neutral",
+    "Text_CN": "The card's Sphere: Leadership, Lore, Spirit, Tactics, or Neutral",
+    "Text_FR": "The card's Sphere: Leadership, Lore, Spirit, Tactics, or Neutral"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_SPIRIT",
+    "Text": "A Sphere of Influence encompassing strength of will and aspects of the supernatural",
+    "Text_CN": "A Sphere of Influence encompassing strength of will and aspects of the supernatural",
+    "Text_FR": "A Sphere of Influence encompassing strength of will and aspects of the supernatural"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_TACTICS",
+    "Text": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat",
+    "Text_CN": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat",
+    "Text_FR": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_THREATMETER",
+    "Text": "Tracks the amount of risk you face. Your Quest fails if you reach 50 Threat",
+    "Text_CN": "Tracks the amount of risk you face. Your Quest fails if you reach 50 Threat",
+    "Text_FR": "Tracks the amount of risk you face. Your Quest fails if you reach 50 Threat"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_THREATVALUE",
+    "Text": "The number added to the Threat meter to determine your starting Threat",
+    "Text_CN": "The number added to the Threat meter to determine your starting Threat",
+    "Text_FR": "The number added to the Threat meter to determine your starting Threat"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_TREACHERYSOCKET",
+    "Text": "Sauron's unrevealed Treachery cards. They remain secret until revealed",
+    "Text_CN": "Sauron's unrevealed Treachery cards. They remain secret until revealed",
+    "Text_FR": "Sauron's unrevealed Treachery cards. They remain secret until revealed"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_WEAPON",
+    "Text": "An Attachment type. A Character can have only one Attachment of each type at a time",
+    "Text_CN": "An Attachment type. A Character can have only one Attachment of each type at a time",
+    "Text_FR": "An Attachment type. A Character can have only one Attachment of each type at a time"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_WILLPOWER",
+    "Text": "The unit's effectiveness when engaging an Objective",
+    "Text_CN": "The unit's effectiveness when engaging an Objective",
+    "Text_FR": "The unit's effectiveness when engaging an Objective"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_TRAIT",
+    "Text": "Indicates a particular category,\\nbehavior, or restriction",
+    "Text_CN": "Indicates a particular category,\\nbehavior, or restriction",
+    "Text_FR": "Indicates a particular category,\\nbehavior, or restriction"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_ATTACHMENTSOCKETS",
+    "Text": "Characters can have one of each type:\\nWeapon, Armor, Special, Shadow",
+    "Text_CN": "Characters can have one of each type:\\nWeapon, Armor, Special, Shadow",
+    "Text_FR": "Characters can have one of each type:\\nWeapon, Armor, Special, Shadow"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_VALORCARD",
+    "Text": "Available in the Valor Menu",
+    "Text_CN": "Available in the Valor Menu",
+    "Text_FR": "Available in the Valor Menu"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_QUEST_RESULT_PV",
+    "Text": "A 250+ final score unlocks\\nthe +1 Palantír View reward",
+    "Text_CN": "A 250+ final score unlocks\\nthe +1 Palantír View reward",
+    "Text_FR": "A 250+ final score unlocks\\nthe +1 Palantír View reward"
+  },
+  {
+    "Id": "T_ROLLOVER_DESC_QUEST_RESULT_VP",
+    "Text": "A 200+ final score unlocks\\nthe +50 Valor Points reward",
+    "Text_CN": "A 200+ final score unlocks\\nthe +50 Valor Points reward",
+    "Text_FR": "A 200+ final score unlocks\\nthe +50 Valor Points reward"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_ARMOR",
+    "Text": "<b>Armor</b>",
+    "Text_CN": "<b>Armor</b>",
+    "Text_FR": "<b>Armor</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_ATTACHMENTTRAY",
+    "Text": "<b>Attachment Tray</b>",
+    "Text_CN": "<b>Attachment Tray</b>",
+    "Text_FR": "<b>Attachment Tray</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_ATTACK",
+    "Text": "<b>Attack Value</b>",
+    "Text_CN": "<b>Attack Value</b>",
+    "Text_FR": "<b>Attack Value</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_AVATAR",
+    "Text": "<b>Avatar</b>",
+    "Text_CN": "<b>Avatar</b>",
+    "Text_FR": "<b>Avatar</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_BACK",
+    "Text": "<b>Back</b>",
+    "Text_CN": "<b>Back</b>",
+    "Text_FR": "<b>Back</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_CARDABILITY",
+    "Text": "<b>Card Ability</b>",
+    "Text_CN": "<b>Card Ability</b>",
+    "Text_FR": "<b>Card Ability</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_CARDTITLE",
+    "Text": "<b>Card Title</b>",
+    "Text_CN": "<b>Card Title</b>",
+    "Text_FR": "<b>Card Title</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_COST",
+    "Text": "<b>Cost</b>",
+    "Text_CN": "<b>Cost</b>",
+    "Text_FR": "<b>Cost</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_DALE",
+    "Text": "<b>Dale</b>",
+    "Text_CN": "<b>Dale</b>",
+    "Text_FR": "<b>Dale</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_DECK",
+    "Text": "<b>Deck</b>",
+    "Text_CN": "<b>Deck</b>",
+    "Text_FR": "<b>Deck</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_DEFENSE",
+    "Text": "<b>Defense Button</b>",
+    "Text_CN": "<b>Defense Button</b>",
+    "Text_FR": "<b>Defense Button</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_DUNADAN",
+    "Text": "<b>Dúnadan</b>",
+    "Text_CN": "<b>Dúnadan</b>",
+    "Text_FR": "<b>Dúnadan</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_EVENT",
+    "Text": "<b>Event</b>",
+    "Text_CN": "<b>Event</b>",
+    "Text_FR": "<b>Event</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_FATE",
+    "Text": "<b>Fate Button</b>",
+    "Text_CN": "<b>Fate Button</b>",
+    "Text_FR": "<b>Fate Button</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_FATEMETER",
+    "Text": "<b>Fate Meter</b>",
+    "Text_CN": "<b>Fate Meter</b>",
+    "Text_FR": "<b>Fate Meter</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_GAMEOPTIONS",
+    "Text": "<b>Options</b>",
+    "Text_CN": "<b>Options</b>",
+    "Text_FR": "<b>Options</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_GLOSSARY",
+    "Text": "<b>Glossary</b>",
+    "Text_CN": "<b>Glossary</b>",
+    "Text_FR": "<b>Glossary</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_GONDOR",
+    "Text": "<b>Gondor</b>",
+    "Text_CN": "<b>Gondor</b>",
+    "Text_FR": "<b>Gondor</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_HAZARD",
+    "Text": "<b>Hazard</b>",
+    "Text_CN": "<b>Hazard</b>",
+    "Text_FR": "<b>Hazard</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_HEALTH",
+    "Text": "<b>Health Value</b>",
+    "Text_CN": "<b>Health Value</b>",
+    "Text_FR": "<b>Health Value</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_HISTORY",
+    "Text": "<b>History</b>",
+    "Text_CN": "<b>History</b>",
+    "Text_FR": "<b>History</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_HOBBIT",
+    "Text": "<b>Hobbit</b>",
+    "Text_CN": "<b>Hobbit</b>",
+    "Text_FR": "<b>Hobbit</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_ISTAR",
+    "Text": "<b>Istar</b>",
+    "Text_CN": "<b>Istar</b>",
+    "Text_FR": "<b>Istar</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_LEADERSHIP",
+    "Text": "<b>Leadership</b>",
+    "Text_CN": "<b>Leadership</b>",
+    "Text_FR": "<b>Leadership</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_LOCATIONBANNER",
+    "Text": "<b>Location Banner</b>",
+    "Text_CN": "<b>Location Banner</b>",
+    "Text_FR": "<b>Location Banner</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_LORE",
+    "Text": "<b>Lore</b>",
+    "Text_CN": "<b>Lore</b>",
+    "Text_FR": "<b>Lore</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_NOLDOR",
+    "Text": "<b>Noldor</b>",
+    "Text_CN": "<b>Noldor</b>",
+    "Text_FR": "<b>Noldor</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_OBJECTIVE",
+    "Text": "<b>Objective</b>",
+    "Text_CN": "<b>Objective</b>",
+    "Text_FR": "<b>Objective</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_OPTIONS",
+    "Text": "<b>Options</b>",
+    "Text_CN": "<b>Options</b>",
+    "Text_FR": "<b>Options</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_ORC",
+    "Text": "<b>Orc</b>",
+    "Text_CN": "<b>Orc</b>",
+    "Text_FR": "<b>Orc</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_PHASEBUTTON",
+    "Text": "<b>Phase Button</b>",
+    "Text_CN": "<b>Phase Button</b>",
+    "Text_FR": "<b>Phase Button</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_POWERBUTTON",
+    "Text": "<b>Power Button</b>",
+    "Text_CN": "<b>Power Button</b>",
+    "Text_FR": "<b>Power Button</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_PREPARATION",
+    "Text": "<b>Preparation</b>",
+    "Text_CN": "<b>Preparation</b>",
+    "Text_FR": "<b>Preparation</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_PREPARATIONSOCKET",
+    "Text": "<b>Preparation Sockets</b>",
+    "Text_CN": "<b>Preparation Sockets</b>",
+    "Text_FR": "<b>Preparation Sockets</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_QUESTVALUE",
+    "Text": "<b>Quest Value</b>",
+    "Text_CN": "<b>Quest Value</b>",
+    "Text_FR": "<b>Quest Value</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_PLAYERRESOURCES",
+    "Text": "<b>Player Resources</b>",
+    "Text_CN": "<b>Player Resources</b>",
+    "Text_FR": "<b>Player Resources</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_ROHAN",
+    "Text": "<b>Rohan</b>",
+    "Text_CN": "<b>Rohan</b>",
+    "Text_FR": "<b>Rohan</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_SAURONRESOURCES",
+    "Text": "<b>Sauron's Resources</b>",
+    "Text_CN": "<b>Sauron's Resources</b>",
+    "Text_FR": "<b>Sauron's Resources</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_SILVAN",
+    "Text": "<b>Silvan</b>",
+    "Text_CN": "<b>Silvan</b>",
+    "Text_FR": "<b>Silvan</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_SPECIAL",
+    "Text": "<b>Special</b>",
+    "Text_CN": "<b>Special</b>",
+    "Text_FR": "<b>Special</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_SPHEREOFINFLUENCE",
+    "Text": "<b>Sphere of Influence</b>",
+    "Text_CN": "<b>Sphere of Influence</b>",
+    "Text_FR": "<b>Sphere of Influence</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_SPIRIT",
+    "Text": "<b>Spirit</b>",
+    "Text_CN": "<b>Spirit</b>",
+    "Text_FR": "<b>Spirit</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_TACTICS",
+    "Text": "<b>Tactics</b>",
+    "Text_CN": "<b>Tactics</b>",
+    "Text_FR": "<b>Tactics</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_THREATMETER",
+    "Text": "<b>Threat Meter</b>",
+    "Text_CN": "<b>Threat Meter</b>",
+    "Text_FR": "<b>Threat Meter</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_THREATVALUE",
+    "Text": "<b>Threat Value</b>",
+    "Text_CN": "<b>Threat Value</b>",
+    "Text_FR": "<b>Threat Value</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_TREACHERYSOCKET",
+    "Text": "<b>Treachery Sockets</b>",
+    "Text_CN": "<b>Treachery Sockets</b>",
+    "Text_FR": "<b>Treachery Sockets</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_WEAPON",
+    "Text": "<b>Weapon</b>",
+    "Text_CN": "<b>Weapon</b>",
+    "Text_FR": "<b>Weapon</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_WILLPOWER",
+    "Text": "<b>Willpower Value</b>",
+    "Text_CN": "<b>Willpower Value</b>",
+    "Text_FR": "<b>Willpower Value</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_TRAIT",
+    "Text": "<b>Trait</b>",
+    "Text_CN": "<b>Trait</b>",
+    "Text_FR": "<b>Trait</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_ATTACHMENTSOCKETS",
+    "Text": "<b>Attachment Sockets</b>",
+    "Text_CN": "<b>Attachment Sockets</b>",
+    "Text_FR": "<b>Attachment Sockets</b>"
+  },
+  {
+    "Id": "T_ROLLOVER_TITLE_VALORCARD",
+    "Text": "<b>Valor Card</b>",
+    "Text_CN": "<b>Valor Card</b>",
+    "Text_FR": "<b>Valor Card</b>"
+  },
+  {
+    "Id": "K_ARRIVAL_TERM",
+    "Text": "<b>Arrival</b>",
+    "Text_CN": "<b>Arrival</b>",
+    "Text_FR": "<b>Arrival</b>"
+  },
+  {
+    "Id": "K_BLOCK_TERM",
+    "Text": "<b>Block</b>",
+    "Text_CN": "<b>Block</b>",
+    "Text_FR": "<b>Block</b>"
+  },
+  {
+    "Id": "K_DEFENSE_TERM",
+    "Text": "<b>Defense</b>",
+    "Text_CN": "<b>Defense</b>",
+    "Text_FR": "<b>Defense</b>"
+  },
+  {
+    "Id": "K_FLEETING_TERM",
+    "Text": "<b>Fleeting</b>",
+    "Text_CN": "<b>Fleeting</b>",
+    "Text_FR": "<b>Fleeting</b>"
+  },
+  {
+    "Id": "K_GUARD_TERM",
+    "Text": "<b>Guard</b>",
+    "Text_CN": "<b>Guard</b>",
+    "Text_FR": "<b>Guard</b>"
+  },
+  {
+    "Id": "K_POWER_TERM",
+    "Text": "<b>Power</b>",
+    "Text_CN": "<b>Power</b>",
+    "Text_FR": "<b>Power</b>"
+  },
+  {
+    "Id": "K_PURSUIT_TERM",
+    "Text": "<b>Pursuit</b>",
+    "Text_CN": "<b>Pursuit</b>",
+    "Text_FR": "<b>Pursuit</b>"
+  },
+  {
+    "Id": "K_RANGED_TERM",
+    "Text": "<b>Ranged</b>",
+    "Text_CN": "<b>Ranged</b>",
+    "Text_FR": "<b>Ranged</b>"
+  },
+  {
+    "Id": "K_REVENGE_TERM",
+    "Text": "<b>Revenge</b>",
+    "Text_CN": "<b>Revenge</b>",
+    "Text_FR": "<b>Revenge</b>"
+  },
+  {
+    "Id": "K_STALWART_TERM",
+    "Text": "<b>Stalwart</b>",
+    "Text_CN": "<b>Stalwart</b>",
+    "Text_FR": "<b>Stalwart</b>"
+  },
+  {
+    "Id": "K_STEALTH_TERM",
+    "Text": "<b>Stealth</b>",
+    "Text_CN": "<b>Stealth</b>",
+    "Text_FR": "<b>Stealth</b>"
+  },
+  {
+    "Id": "K_SURGE_TERM",
+    "Text": "<b>Surge</b>",
+    "Text_CN": "<b>Surge</b>",
+    "Text_FR": "<b>Surge</b>"
+  },
+  {
+    "Id": "K_VANQUISH_TERM",
+    "Text": "<b>Vanquish</b>",
+    "Text_CN": "<b>Vanquish</b>",
+    "Text_FR": "<b>Vanquish</b>"
+  },
+  {
+    "Id": "K_AMBUSH_TERM",
+    "Text": "<b>Ambush</b>",
+    "Text_CN": "<b>Ambush</b>",
+    "Text_FR": "<b>Ambush</b>"
+  },
+  {
+    "Id": "K_COUNTER_TERM",
+    "Text": "<b>Counter</b>",
+    "Text_CN": "<b>Counter</b>",
+    "Text_FR": "<b>Counter</b>"
+  },
+  {
+    "Id": "K_ARRIVAL_DESC",
+    "Text": "The ability triggers when this card enters play",
+    "Text_CN": "The ability triggers when this card enters play",
+    "Text_FR": "The ability triggers when this card enters play"
+  },
+  {
+    "Id": "K_BLOCK_DESC",
+    "Text": "Reduces by 1 the damage taken from each attack",
+    "Text_CN": "Reduces by 1 the damage taken from each attack",
+    "Text_FR": "Reduces by 1 the damage taken from each attack"
+  },
+  {
+    "Id": "K_DEFENSE_DESC",
+    "Text": "Select to give the Character the <b>Guard</b> keyword for the round",
+    "Text_CN": "Select to give the Character the <b>Guard</b> keyword for the round",
+    "Text_FR": "Select to give the Character the <b>Guard</b> keyword for the round"
+  },
+  {
+    "Id": "K_FLEETING_DESC",
+    "Text": "This card is removed at the end of the round",
+    "Text_CN": "This card is removed at the end of the round",
+    "Text_FR": "This card is removed at the end of the round"
+  },
+  {
+    "Id": "K_GUARD_DESC",
+    "Text": "When active, no other target can be engaged until that unit acts or is attacked in melee combat. Attacking or exhausting this card removes <b>Guard</b>",
+    "Text_CN": "When active, no other target can be engaged until that unit acts or is attacked in melee combat. Attacking or exhausting this card removes <b>Guard</b>",
+    "Text_FR": "When active, no other target can be engaged until that unit acts or is attacked in melee combat. Attacking or exhausting this card removes <b>Guard</b>"
+  },
+  {
+    "Id": "K_POWER_DESC",
+    "Text": "Select to activate the Character's unique ability",
+    "Text_CN": "Select to activate the Character's unique ability",
+    "Text_FR": "Select to activate the Character's unique ability"
+  },
+  {
+    "Id": "K_PURSUIT_DESC",
+    "Text": "This unit follows your Heroes from one Location to the next",
+    "Text_CN": "This unit follows your Heroes from one Location to the next",
+    "Text_FR": "This unit follows your Heroes from one Location to the next"
+  },
+  {
+    "Id": "K_RANGED_DESC",
+    "Text": "This unit ignores <b>Guard</b> when attacking",
+    "Text_CN": "This unit ignores <b>Guard</b> when attacking",
+    "Text_FR": "This unit ignores <b>Guard</b> when attacking"
+  },
+  {
+    "Id": "K_REVENGE_DESC",
+    "Text": "The ability triggers when this unit is defeated",
+    "Text_CN": "The ability triggers when this unit is defeated",
+    "Text_FR": "The ability triggers when this unit is defeated"
+  },
+  {
+    "Id": "K_STALWART_DESC",
+    "Text": "This unit does not exhaust after the first action each round",
+    "Text_CN": "This unit does not exhaust after the first action each round",
+    "Text_FR": "This unit does not exhaust after the first action each round"
+  },
+  {
+    "Id": "K_STEALTH_DESC",
+    "Text": "When active, this unit cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting an Enemy or Objective. An exhausted unit cannot have <b>Stealth</b> active",
+    "Text_CN": "When active, this unit cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting an Enemy or Objective. An exhausted unit cannot have <b>Stealth</b> active",
+    "Text_FR": "When active, this unit cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting an Enemy or Objective. An exhausted unit cannot have <b>Stealth</b> active"
+  },
+  {
+    "Id": "K_SURGE_DESC",
+    "Text": "Gain an immediate action after this card is played",
+    "Text_CN": "Gain an immediate action after this card is played",
+    "Text_FR": "Gain an immediate action after this card is played"
+  },
+  {
+    "Id": "K_VANQUISH_DESC",
+    "Text": "The ability triggers upon defeating a target",
+    "Text_CN": "The ability triggers upon defeating a target",
+    "Text_FR": "The ability triggers upon defeating a target"
+  },
+  {
+    "Id": "K_AMBUSH_DESC",
+    "Text": "The attack ignores <b>Block</b> and <b>Counter</b>",
+    "Text_CN": "The attack ignores <b>Block</b> and <b>Counter</b>",
+    "Text_FR": "The attack ignores <b>Block</b> and <b>Counter</b>"
+  },
+  {
+    "Id": "K_COUNTER_DESC",
+    "Text": "This unit deals 1 damage when defending against melee attacks. (Does not apply to ranged attacks)",
+    "Text_CN": "This unit deals 1 damage when defending against melee attacks. (Does not apply to ranged attacks)",
+    "Text_FR": "This unit deals 1 damage when defending against melee attacks. (Does not apply to ranged attacks)"
+  },
+  {
+    "Id": "_PLACEHOLDER4",
     "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
     "Text_FR": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
@@ -4980,12 +7080,6 @@
   {
     "Id": "Q_STAGE_THEWOODMANVILLAGE_OBJECTIVE",
     "Text": "Defeat all enemies in play."
-  },
-  {
-    "Id": "_PLACEHOLDER3",
-    "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
-    "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
-    "Text_FR": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
   },
   {
     "Id": "C_ACCURSEDFOREST_FLAVOR",
@@ -8778,2106 +10872,6 @@
   {
     "Id": "C_ATEST180402EXP_FLAVOR",
     "Text": "test card on exp -1-2"
-  },
-  {
-    "Id": "PLACEHOLDER4",
-    "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
-    "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
-    "Text_FR": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
-  },
-  {
-    "Id": "T_TITLE",
-    "Text": "TUTORIAL",
-    "Text_CN": "[C]TUTORIAL",
-    "Text_FR": "TUTORIAL3"
-  },
-  {
-    "Id": "T_DESC",
-    "Text": "Start your Journey…",
-    "Text_CN": "[C]Start your journey",
-    "Text_FR": "Start your journey"
-  },
-  {
-    "Id": "T_ASMODEE_SIGN_UP",
-    "Text": "Congratulations! You have completed the prologue, but that was merely the beginning. \n\nCreate an Asmodee.net account now to unlock additional Heroes and cards to use on your further adventures across Middle-earth…",
-    "Text_CN": "[C]Congratulations! You have completed the prologue, but that was merely the beginning. \n\nCreate an Asmodee.net account now to unlock additional Heroes and cards to use on your further adventures across Middle-earth…",
-    "Text_FR": "Congratulations! You have completed the prologue, but that was merely the beginning. \n\nCreate an Asmodee.net account now to unlock additional Heroes and cards to use on your further adventures across Middle-earth…"
-  },
-  {
-    "Id": "T_ASMODEE_SIGN_IN_1",
-    "Text": "Your Asmodee.net account gives you many rewards: new Heroes, cards, a starter deck, a gift of 3000 Valor Points, and the first Quest free!",
-    "Text_CN": "[C]Your Asmodee.net account gives you many rewards: new Heroes, cards, a starter deck, a gift of 3000 Valor Points, and the first Quest free!",
-    "Text_FR": "Your Asmodee.net account gives you many rewards: new Heroes, cards, a starter deck, a gift of 3000 Valor Points, and the first Quest free!"
-  },
-  {
-    "Id": "T_ASMODEE_SIGN_IN_2",
-    "Text": "The time has come to begin your journey. Go forth and fare well!",
-    "Text_CN": "[C]The time has come to begin your journey. Go forth and fare well!",
-    "Text_FR": "The time has come to begin your journey. Go forth and fare well!"
-  },
-  {
-    "Id": "T_POP_V5_ROLLOVER",
-    "Text": "Rollover each highlighted feature to learn its function in the game",
-    "Text_CN": "Rollover each highlighted feature to learn its function in the game",
-    "Text_FR": "Rollover each highlighted feature to learn its function in the game"
-  },
-  {
-    "Id": "T_POP_V5_VIEWHERO",
-    "Text": "Select Bilbo to view the card detail",
-    "Text_CN": "Select Bilbo to view the card detail",
-    "Text_FR": "Select Bilbo to view the card detail"
-  },
-  {
-    "Id": "T_POP_V5_HEROFEATURE",
-    "Text": "This is a card detail view. Let's see what each feature means…",
-    "Text_CN": "This is a card detail view. Let's see what each feature means…",
-    "Text_FR": "This is a card detail view. Let's see what each feature means…"
-  },
-  {
-    "Id": "T_POP_V5_VIEWENEMY",
-    "Text": "Select a Rock Adder to view the card detail",
-    "Text_CN": "Select a Rock Adder to view the card detail",
-    "Text_FR": "Select a Rock Adder to view the card detail"
-  },
-  {
-    "Id": "T_POP_V5_ENEMYFEATURE",
-    "Text": "Enemy units are distinct from Hero units. Let's look at the features…",
-    "Text_CN": "Enemy units are distinct from Hero units. Let's look at the features…",
-    "Text_FR": "Enemy units are distinct from Hero units. Let's look at the features…"
-  },
-  {
-    "Id": "T_POP_V5_ADVENTUREPHASE",
-    "Text": "Welcome to the Adventure phase! Here you may play cards or take actions",
-    "Text_CN": "Welcome to the Adventure phase! Here you may play cards or take actions",
-    "Text_FR": "Welcome to the Adventure phase! Here you may play cards or take actions"
-  },
-  {
-    "Id": "T_POP_V5_VIEWATTACHMENT",
-    "Text": "Select Sting to view the card detail",
-    "Text_CN": "Select Sting to view the card detail",
-    "Text_FR": "Select Sting to view the card detail"
-  },
-  {
-    "Id": "T_POP_V5_DECKCARDS",
-    "Text": "Your deck can include Attachment cards like this one, as well as Ally and Event cards",
-    "Text_CN": "Your deck can include Attachment cards like this one, as well as Ally and Event cards",
-    "Text_FR": "Your deck can include Attachment cards like this one, as well as Ally and Event cards"
-  },
-  {
-    "Id": "T_POP_V5_TAKETURNS",
-    "Text": "In the Adventure phase, you take turns performing actions with Sauron, your opponent",
-    "Text_CN": "In the Adventure phase, you take turns performing actions with Sauron, your opponent",
-    "Text_FR": "In the Adventure phase, you take turns performing actions with Sauron, your opponent"
-  },
-  {
-    "Id": "T_POP_V5_DRAGCARD",
-    "Text": "Drag the card into the play area",
-    "Text_CN": "Drag the card into the play area",
-    "Text_FR": "Drag the card into the play area"
-  },
-  {
-    "Id": "T_POP_V5_EXHAUST",
-    "Text": "Combat exhausts the attacker",
-    "Text_CN": "Combat exhausts the attacker",
-    "Text_FR": "Combat exhausts the attacker"
-  },
-  {
-    "Id": "T_POP_V5_BILBOATTACK",
-    "Text": "To attack, select and drag Bilbo toward the target",
-    "Text_CN": "To attack, select and drag Bilbo toward the target",
-    "Text_FR": "To attack, select and drag Bilbo toward the target"
-  },
-  {
-    "Id": "T_POP_V5_AUTOPASS",
-    "Text": "You pass automatically when you cannot take any more actions",
-    "Text_CN": "You pass automatically when you cannot take any more actions",
-    "Text_FR": "You pass automatically when you cannot take any more actions"
-  },
-  {
-    "Id": "T_POP_V5_ROUNDEND",
-    "Text": "The round ends when you and Sauron both pass",
-    "Text_CN": "The round ends when you and Sauron both pass",
-    "Text_FR": "The round ends when you and Sauron both pass"
-  },
-  {
-    "Id": "T_POP_V5_UPKEEP01",
-    "Text": "All exhausted units in play ready at the start of each round",
-    "Text_CN": "All exhausted units in play ready at the start of each round",
-    "Text_FR": "All exhausted units in play ready at the start of each round"
-  },
-  {
-    "Id": "T_POP_V5_UPKEEP02",
-    "Text": "You then gain 3 Resources and draw 2 cards",
-    "Text_CN": "You then gain 3 Resources and draw 2 cards",
-    "Text_FR": "You then gain 3 Resources and draw 2 cards"
-  },
-  {
-    "Id": "T_POP_V5_ATTACHMENT",
-    "Text": "A Character may have one Attachment of each type",
-    "Text_CN": "A Character may have one Attachment of each type",
-    "Text_FR": "A Character may have one Attachment of each type"
-  },
-  {
-    "Id": "T_POP_V5_L1TRAVEL",
-    "Text": "You have defeated the snakes! Select Travel to continue your journey",
-    "Text_CN": "You have defeated the snakes! Select Travel to continue your journey",
-    "Text_FR": "You have defeated the snakes! Select Travel to continue your journey"
-  },
-  {
-    "Id": "T_POP_V5_ABILITYATUPKEEP",
-    "Text": "Some cards have special abilities that trigger during <b>Upkeep</b>",
-    "Text_CN": "Some cards have special abilities that trigger during <b>Upkeep</b>",
-    "Text_FR": "Some cards have special abilities that trigger during <b>Upkeep</b>"
-  },
-  {
-    "Id": "T_POP_V5_GUARD01",
-    "Text": "When the <b>Guard</b> keyword is active, no other target can be engaged until that unit acts or is attacked in melee combat",
-    "Text_CN": "When the <b>Guard</b> keyword is active, no other target can be engaged until that unit acts or is attacked in melee combat",
-    "Text_FR": "When the <b>Guard</b> keyword is active, no other target can be engaged until that unit acts or is attacked in melee combat"
-  },
-  {
-    "Id": "T_POP_V5_GUARD02",
-    "Text": "A unit with <b>Guard</b> active deals reciprocal damage to the unit that attacks it in melee combat",
-    "Text_CN": "A unit with <b>Guard</b> active deals reciprocal damage to the unit that attacks it in melee combat",
-    "Text_FR": "A unit with <b>Guard</b> active deals reciprocal damage to the unit that attacks it in melee combat"
-  },
-  {
-    "Id": "T_POP_V5_GUARD03",
-    "Text": "<b>Guard</b> is removed after being attacked or exhausted",
-    "Text_CN": "<b>Guard</b> is removed after being attacked or exhausted",
-    "Text_FR": "<b>Guard</b> is removed after being attacked or exhausted"
-  },
-  {
-    "Id": "T_POP_V5_PREPARATION",
-    "Text": "<b>Preparation</b> is a type of Event card which triggers based on a particular circumstance",
-    "Text_CN": "<b>Preparation</b> is a type of Event card which triggers based on a particular circumstance",
-    "Text_FR": "<b>Preparation</b> is a type of Event card which triggers based on a particular circumstance"
-  },
-  {
-    "Id": "T_POP_V5_STARBROOCH",
-    "Text": "Equip Glóin with the Star Brooch",
-    "Text_CN": "Equip Glóin with the Star Brooch",
-    "Text_FR": "Equip Glóin with the Star Brooch"
-  },
-  {
-    "Id": "T_POP_V5_STALWART",
-    "Text": "A card with the Stalwart keyword does not exhaust after its first action each round",
-    "Text_CN": "A card with the Stalwart keyword does not exhaust after its first action each round",
-    "Text_FR": "A card with the Stalwart keyword does not exhaust after its first action each round"
-  },
-  {
-    "Id": "T_POP_V5_SPHERE",
-    "Text": "Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck",
-    "Text_CN": "Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck",
-    "Text_FR": "Each Hero belongs to a Sphere of Influence. The Hero's Sphere dictates the types of cards available in your deck"
-  },
-  {
-    "Id": "T_POP_V5_RANGED",
-    "Text": "A unit with the <b>Ranged</b> keyword can bypass <b>Guard</b>",
-    "Text_CN": "A unit with the <b>Ranged</b> keyword can bypass <b>Guard</b>",
-    "Text_FR": "A unit with the <b>Ranged</b> keyword can bypass <b>Guard</b>"
-  },
-  {
-    "Id": "T_POP_V5_HAZARD",
-    "Text": "A <b>Hazard</b> is an optional Objective that may complicate your journey unless you resolve it",
-    "Text_CN": "A <b>Hazard</b> is an optional Objective that may complicate your journey unless you resolve it",
-    "Text_FR": "A <b>Hazard</b> is an optional Objective that may complicate your journey unless you resolve it"
-  },
-  {
-    "Id": "T_POP_V5_WILLPOWER",
-    "Text": "Only a unit with a Willpower value can engage an Objective",
-    "Text_CN": "Only a unit with a Willpower value can engage an Objective",
-    "Text_FR": "Only a unit with a Willpower value can engage an Objective"
-  },
-  {
-    "Id": "T_POP_V5_L2TRAVEL",
-    "Text": "When you resolve an Objective, you may travel right away or take additional actions first",
-    "Text_CN": "When you resolve an Objective, you may travel right away or take additional actions first",
-    "Text_FR": "When you resolve an Objective, you may travel right away or take additional actions first"
-  },
-  {
-    "Id": "T_POP_V5_TRAVEL",
-    "Text": "When you travel, any Enemy that is not exhausted can attack your Characters!",
-    "Text_CN": "When you travel, any Enemy that is not exhausted can attack your Characters!",
-    "Text_FR": "When you travel, any Enemy that is not exhausted can attack your Characters!"
-  },
-  {
-    "Id": "T_POP_V5_HEROATTACKENEMY",
-    "Text": "Use Bilbo to attack a Spider Guard",
-    "Text_CN": "Use Bilbo to attack a Spider Guard",
-    "Text_FR": "Use Bilbo to attack a Spider Guard"
-  },
-  {
-    "Id": "T_POP_V5_BLOCK",
-    "Text": "The <b>Block</b> keyword reduces the damage from each attack by 1",
-    "Text_CN": "The <b>Block</b> keyword reduces the damage from each attack by 1",
-    "Text_FR": "The <b>Block</b> keyword reduces the damage from each attack by 1"
-  },
-  {
-    "Id": "T_POP_V5_ALLYATTACKHAZARD",
-    "Text": "Many units have special abilities. Use Rhovanion Outrider to engage The Cloaked Stranger",
-    "Text_CN": "Many units have special abilities. Use Rhovanion Outrider to engage The Cloaked Stranger",
-    "Text_FR": "Many units have special abilities. Use Rhovanion Outrider to engage The Cloaked Stranger"
-  },
-  {
-    "Id": "T_POP_V5_SAURONPASS",
-    "Text": "After Sauron passes, you may continue to take turns while you have actions available",
-    "Text_CN": "After Sauron passes, you may continue to take turns while you have actions available",
-    "Text_FR": "After Sauron passes, you may continue to take turns while you have actions available"
-  },
-  {
-    "Id": "T_POP_V5_ROUNDEND02",
-    "Text": "When you and Sauron cannot take any more actions, the round ends automatically",
-    "Text_CN": "When you and Sauron cannot take any more actions, the round ends automatically",
-    "Text_FR": "When you and Sauron cannot take any more actions, the round ends automatically"
-  },
-  {
-    "Id": "T_POP_V5_3HEROES",
-    "Text": "A standard Quest requires three Heroes",
-    "Text_CN": "A standard Quest requires three Heroes",
-    "Text_FR": "A standard Quest requires three Heroes"
-  },
-  {
-    "Id": "T_POP_V5_BILBOPOWER",
-    "Text": "Use Bilbo's power to gain an advantage against Sauron!",
-    "Text_CN": "Use Bilbo's power to gain an advantage against Sauron!",
-    "Text_FR": "Use Bilbo's power to gain an advantage against Sauron!"
-  },
-  {
-    "Id": "T_POP_V5_PLAYEVENT",
-    "Text": "Play cards to take best advantage of opportunities—use Ever Vigilant to ready Bilbo!",
-    "Text_CN": "Play cards to take best advantage of opportunities—use Ever Vigilant to ready Bilbo!",
-    "Text_FR": "Play cards to take best advantage of opportunities—use Ever Vigilant to ready Bilbo!"
-  },
-  {
-    "Id": "T_POP_V5_USEFULCHARACTER",
-    "Text": "Some Characters can be useful in ways other than battle",
-    "Text_CN": "Some Characters can be useful in ways other than battle",
-    "Text_FR": "Some Characters can be useful in ways other than battle"
-  },
-  {
-    "Id": "T_POP_V5_FATE",
-    "Text": "Characters with Willpower can take an action to add to your Fate Pool",
-    "Text_CN": "Characters with Willpower can take an action to add to your Fate Pool",
-    "Text_FR": "Characters with Willpower can take an action to add to your Fate Pool"
-  },
-  {
-    "Id": "T_POP_V5_ARWENFATE",
-    "Text": "Select Arwen to add her Willpower to the Fate Pool",
-    "Text_CN": "Select Arwen to add her Willpower to the Fate Pool",
-    "Text_FR": "Select Arwen to add her Willpower to the Fate Pool"
-  },
-  {
-    "Id": "T_POP_V5_FATEEVENT",
-    "Text": "Fate Events are unique one-time abilities that can aid you in completing your Quest ",
-    "Text_CN": "Fate Events are unique one-time abilities that can aid you in completing your Quest ",
-    "Text_FR": "Fate Events are unique one-time abilities that can aid you in completing your Quest "
-  },
-  {
-    "Id": "T_POP_V5_DEFENSE",
-    "Text": "Characters can also commit to defending the rest of the party. Select Rhovanion Outrider to activate his Defense ability",
-    "Text_CN": "Characters can also commit to defending the rest of the party. Select Rhovanion Outrider to activate his Defense ability",
-    "Text_FR": "Characters can also commit to defending the rest of the party. Select Rhovanion Outrider to activate his Defense ability"
-  },
-  {
-    "Id": "T_POP_V5_GAINGUARD",
-    "Text": "When you activate Defense, that Character gains the <b>Guard</b> keyword for the round",
-    "Text_CN": "When you activate Defense, that Character gains the <b>Guard</b> keyword for the round",
-    "Text_FR": "When you activate Defense, that Character gains the <b>Guard</b> keyword for the round"
-  },
-  {
-    "Id": "T_POP_V5_ROLLOVEREND",
-    "Text": "Well done!\nTo view a tooltip duron a Quest,\nsimply rollover the game feature",
-    "Text_CN": "Well done!\nTo view a tooltip duron a Quest,\nsimply rollover the game feature",
-    "Text_FR": "Well done!\nTo view a tooltip duron a Quest,\nsimply rollover the game feature"
-  },
-  {
-    "Id": "T_POP_V5_VIEWOBJECTIVE",
-    "Text": "Select Secure the Camp!\nTo view the card detail",
-    "Text_CN": "Select Secure the Camp!\nTo view the card detail",
-    "Text_FR": "Select Secure the Camp!\nTo view the card detail"
-  },
-  {
-    "Id": "T_POP_V5_OBJECTIVEFEATURE",
-    "Text": "You will encounter many Objectives on your Quests",
-    "Text_CN": "You will encounter many Objectives on your Quests",
-    "Text_FR": "You will encounter many Objectives on your Quests"
-  },
-  {
-    "Id": "T_POP_V5_THANKSTARBROOCH",
-    "Text": "Thanks to the Star Brooch, Glóin gains Stalwart",
-    "Text_CN": "Thanks to the Star Brooch, Glóin gains Stalwart",
-    "Text_FR": "Thanks to the Star Brooch, Glóin gains Stalwart"
-  },
-  {
-    "Id": "T_POP_V5_VIEWBLOCKCARD",
-    "Text": "Some units have Block. Select King Spider to view the card detail ",
-    "Text_CN": "Some units have Block. Select King Spider to view the card detail ",
-    "Text_FR": "Some units have Block. Select King Spider to view the card detail "
-  },
-  {
-    "Id": "T_POP_V5_VIEWSNEAKATTACK",
-    "Text": "Select Sneak Attack to view the card detail ",
-    "Text_CN": "Select Sneak Attack to view the card detail ",
-    "Text_FR": "Select Sneak Attack to view the card detail "
-  },
-  {
-    "Id": "T_POP_V5_SNEAKATTACKABILITY",
-    "Text": "Sneak Attack plays a random Ally that helps you, but it gains the Fleeting keyword",
-    "Text_CN": "Sneak Attack plays a random Ally that helps you, but it gains the Fleeting keyword",
-    "Text_FR": "Sneak Attack plays a random Ally that helps you, but it gains the Fleeting keyword"
-  },
-  {
-    "Id": "T_POP_V5_FLEETING",
-    "Text": "A unit with Fleeting is removed at the end of the round",
-    "Text_CN": "A unit with Fleeting is removed at the end of the round",
-    "Text_FR": "A unit with Fleeting is removed at the end of the round"
-  },
-  {
-    "Id": "T_POP_V5_LOOMINGDANGER",
-    "Text": "Threat is a measure of the looming danger that Sauron represents",
-    "Text_CN": "Threat is a measure of the looming danger that Sauron represents",
-    "Text_FR": "Threat is a measure of the looming danger that Sauron represents"
-  },
-  {
-    "Id": "T_POP_V5_THEATTIER",
-    "Text": "When the meter reaches a Threat tier, it means a Threat Event will trigger the next round!",
-    "Text_CN": "When the meter reaches a Threat tier, it means a Threat Event will trigger the next round!",
-    "Text_FR": "When the meter reaches a Threat tier, it means a Threat Event will trigger the next round!"
-  },
-  {
-    "Id": "T_POP_V5_CAREGIVERFLEETING",
-    "Text": "Since Sneak Attack played Imladris Caregiver, it has Fleeting and leaves at the end of the round",
-    "Text_CN": "Since Sneak Attack played Imladris Caregiver, it has Fleeting and leaves at the end of the round",
-    "Text_FR": "Since Sneak Attack played Imladris Caregiver, it has Fleeting and leaves at the end of the round"
-  },
-  {
-    "Id": "_PLACEHOLDER5",
-    "Text": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
-    "Text_CN": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove.",
-    "Text_FR": "This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove. This is a placeholder text for exporting string over 255 characters so do not remove."
-  },
-  {
-    "Id": "G_001_DESC",
-    "Text": "During this phase, you take turns with Sauron and may play cards, attack Enemies, or engage Objectives",
-    "Text_CN": "During this phase, you take turns with Sauron and may play cards, attack Enemies, or engage Objectives",
-    "Text_FR": "During this phase, you take turns with Sauron and may play cards, attack Enemies, or engage Objectives"
-  },
-  {
-    "Id": "G_001_TERM",
-    "Text": "Adventure Phase",
-    "Text_CN": "Adventure Phase",
-    "Text_FR": "Adventure Phase"
-  },
-  {
-    "Id": "G_002_DESC",
-    "Text": "A card type representing a friend, follower, or creature that assists your Heroes on their Quest",
-    "Text_CN": "A card type representing a friend, follower, or creature that assists your Heroes on their Quest",
-    "Text_FR": "A card type representing a friend, follower, or creature that assists your Heroes on their Quest"
-  },
-  {
-    "Id": "G_002_TERM",
-    "Text": "Ally",
-    "Text_CN": "Ally",
-    "Text_FR": "Ally"
-  },
-  {
-    "Id": "G_003_DESC",
-    "Text": "An Attachment type that typically provides a defensive benefit. A Character can have only one Attachment of each type at a time",
-    "Text_CN": "An Attachment type that typically provides a defensive benefit. A Character can have only one Attachment of each type at a time",
-    "Text_FR": "An Attachment type that typically provides a defensive benefit. A Character can have only one Attachment of each type at a time"
-  },
-  {
-    "Id": "G_003_TERM",
-    "Text": "Armor",
-    "Text_CN": "Armor",
-    "Text_FR": "Armor"
-  },
-  {
-    "Id": "G_004_DESC",
-    "Text": "This keyword triggers an effect when the card enters play",
-    "Text_CN": "This keyword triggers an effect when the card enters play",
-    "Text_FR": "This keyword triggers an effect when the card enters play"
-  },
-  {
-    "Id": "G_004_TERM",
-    "Text": "Arrival",
-    "Text_CN": "Arrival",
-    "Text_FR": "Arrival"
-  },
-  {
-    "Id": "G_005_DESC",
-    "Text": "A card type representing armor, weapons, or special abilities. Unless otherwise stated, it modifies only the Character to which it is equipped",
-    "Text_CN": "A card type representing armor, weapons, or special abilities. Unless otherwise stated, it modifies only the Character to which it is equipped",
-    "Text_FR": "A card type representing armor, weapons, or special abilities. Unless otherwise stated, it modifies only the Character to which it is equipped"
-  },
-  {
-    "Id": "G_005_TERM",
-    "Text": "Attachment",
-    "Text_CN": "Attachment",
-    "Text_FR": "Attachment"
-  },
-  {
-    "Id": "G_006_DESC",
-    "Text": "An extension of a unit's card detail which shows any Attachments that modify the unit",
-    "Text_CN": "An extension of a unit's card detail which shows any Attachments that modify the unit",
-    "Text_FR": "An extension of a unit's card detail which shows any Attachments that modify the unit"
-  },
-  {
-    "Id": "G_006_TERM",
-    "Text": "Attachment Tray",
-    "Text_CN": "Attachment Tray",
-    "Text_FR": "Attachment Tray"
-  },
-  {
-    "Id": "G_007_DESC",
-    "Text": "This ability measures the unit's effectiveness when attacking in combat",
-    "Text_CN": "This ability measures the unit's effectiveness when attacking in combat",
-    "Text_FR": "This ability measures the unit's effectiveness when attacking in combat"
-  },
-  {
-    "Id": "G_007_TERM",
-    "Text": "Attack Value",
-    "Text_CN": "Attack Value",
-    "Text_FR": "Attack Value"
-  },
-  {
-    "Id": "G_008_DESC",
-    "Text": "The icon shown in your profile",
-    "Text_CN": "The icon shown in your profile",
-    "Text_FR": "The icon shown in your profile"
-  },
-  {
-    "Id": "G_008_TERM",
-    "Text": "Avatar",
-    "Text_CN": "Avatar",
-    "Text_FR": "Avatar"
-  },
-  {
-    "Id": "G_009_DESC",
-    "Text": "This keyword reduces by 1 the damage taken from each attack",
-    "Text_CN": "This keyword reduces by 1 the damage taken from each attack",
-    "Text_FR": "This keyword reduces by 1 the damage taken from each attack"
-  },
-  {
-    "Id": "G_009_TERM",
-    "Text": "Block",
-    "Text_CN": "Block",
-    "Text_FR": "Block"
-  },
-  {
-    "Id": "G_010_DESC",
-    "Text": "A series of 5 Quests that tell a larger story",
-    "Text_CN": "A series of 5 Quests that tell a larger story",
-    "Text_FR": "A series of 5 Quests that tell a larger story"
-  },
-  {
-    "Id": "G_010_TERM",
-    "Text": "Campaign",
-    "Text_CN": "Campaign",
-    "Text_FR": "Campaign"
-  },
-  {
-    "Id": "G_011_DESC",
-    "Text": "The first time you log in every 24 hours, the game generates a challenge tied to a random unlocked Quest. Completing each daily challenge grants you Valor (and potential additional rewards)",
-    "Text_CN": "The first time you log in every 24 hours, the game generates a challenge tied to a random unlocked Quest. Completing each daily challenge grants you Valor (and potential additional rewards)",
-    "Text_FR": "The first time you log in every 24 hours, the game generates a challenge tied to a random unlocked Quest. Completing each daily challenge grants you Valor (and potential additional rewards)"
-  },
-  {
-    "Id": "G_011_TERM",
-    "Text": "Challenge, Daily",
-    "Text_CN": "Challenge, Daily",
-    "Text_FR": "Challenge, Daily"
-  },
-  {
-    "Id": "G_012_DESC",
-    "Text": "Achievements that are tracked over the lifetime of your account",
-    "Text_CN": "Achievements that are tracked over the lifetime of your account",
-    "Text_FR": "Achievements that are tracked over the lifetime of your account"
-  },
-  {
-    "Id": "G_012_TERM",
-    "Text": "Challenge, Epic",
-    "Text_CN": "Challenge, Epic",
-    "Text_FR": "Challenge, Epic"
-  },
-  {
-    "Id": "G_013_DESC",
-    "Text": "A card type that refers to any Hero or Ally",
-    "Text_CN": "A card type that refers to any Hero or Ally",
-    "Text_FR": "A card type that refers to any Hero or Ally"
-  },
-  {
-    "Id": "G_013_TERM",
-    "Text": "Character",
-    "Text_CN": "Character",
-    "Text_FR": "Character"
-  },
-  {
-    "Id": "G_014_DESC",
-    "Text": "Located on the upper left of every Ally, Attachment, Event, and Sauron card, this is the Resource amount needed to play that card. Hero units do not have a cost, since they begin the game already in play",
-    "Text_CN": "Located on the upper left of every Ally, Attachment, Event, and Sauron card, this is the Resource amount needed to play that card. Hero units do not have a cost, since they begin the game already in play",
-    "Text_FR": "Located on the upper left of every Ally, Attachment, Event, and Sauron card, this is the Resource amount needed to play that card. Hero units do not have a cost, since they begin the game already in play"
-  },
-  {
-    "Id": "G_014_TERM",
-    "Text": "Cost",
-    "Text_CN": "Cost",
-    "Text_FR": "Cost"
-  },
-  {
-    "Id": "G_015_DESC",
-    "Text": "A trait type representing one of the countless variety of beasts found throughout Middle-earth",
-    "Text_CN": "A trait type representing one of the countless variety of beasts found throughout Middle-earth",
-    "Text_FR": "A trait type representing one of the countless variety of beasts found throughout Middle-earth"
-  },
-  {
-    "Id": "G_015_TERM",
-    "Text": "Creature",
-    "Text_CN": "Creature",
-    "Text_FR": "Creature"
-  },
-  {
-    "Id": "G_016_DESC",
-    "Text": "A trait type representing a person from the city-state of Men in northeastern Rhovanion",
-    "Text_CN": "A trait type representing a person from the city-state of Men in northeastern Rhovanion",
-    "Text_FR": "A trait type representing a person from the city-state of Men in northeastern Rhovanion"
-  },
-  {
-    "Id": "G_016_TERM",
-    "Text": "Dale",
-    "Text_CN": "Dale",
-    "Text_FR": "Dale"
-  },
-  {
-    "Id": "G_017_DESC",
-    "Text": "A deck of 30 cards based on 3 Hero units of your choice. You build each deck based on the Heroes, and you cannot have more than 2 copies of any individual card. You select a deck each time you begin a Quest. During the Quest, you can rollover the deck to see how many remain",
-    "Text_CN": "A deck of 30 cards based on 3 Hero units of your choice. You build each deck based on the Heroes, and you cannot have more than 2 copies of any individual card. You select a deck each time you begin a Quest. During the Quest, you can rollover the deck to see how many remain",
-    "Text_FR": "A deck of 30 cards based on 3 Hero units of your choice. You build each deck based on the Heroes, and you cannot have more than 2 copies of any individual card. You select a deck each time you begin a Quest. During the Quest, you can rollover the deck to see how many remain"
-  },
-  {
-    "Id": "G_017_TERM",
-    "Text": "Deck",
-    "Text_CN": "Deck",
-    "Text_FR": "Deck"
-  },
-  {
-    "Id": "G_018_DESC",
-    "Text": "Upon being defeated, a unit is discarded from play. This can occur if the unit falls to 0 Health or through some other means",
-    "Text_CN": "Upon being defeated, a unit is discarded from play. This can occur if the unit falls to 0 Health or through some other means",
-    "Text_FR": "Upon being defeated, a unit is discarded from play. This can occur if the unit falls to 0 Health or through some other means"
-  },
-  {
-    "Id": "G_018_TERM",
-    "Text": "Defeated",
-    "Text_CN": "Defeated",
-    "Text_FR": "Defeated"
-  },
-  {
-    "Id": "G_019_DESC",
-    "Text": "Selecting a Character's Defense button gives that unit the <b>Guard</b> keyword for the round. Attacking or exhausting the unit cancels Defense and removes <b>Guard</b>. At the start of the next round, the Character then readies as normal. Activating Defense again requires a new action that round",
-    "Text_CN": "Selecting a Character's Defense button gives that unit the <b>Guard</b> keyword for the round. Attacking or exhausting the unit cancels Defense and removes <b>Guard</b>. At the start of the next round, the Character then readies as normal. Activating Defense again requires a new action that round",
-    "Text_FR": "Selecting a Character's Defense button gives that unit the <b>Guard</b> keyword for the round. Attacking or exhausting the unit cancels Defense and removes <b>Guard</b>. At the start of the next round, the Character then readies as normal. Activating Defense again requires a new action that round"
-  },
-  {
-    "Id": "G_019_TERM",
-    "Text": "Defense",
-    "Text_CN": "Defense",
-    "Text_FR": "Defense"
-  },
-  {
-    "Id": "G_020_DESC",
-    "Text": "The challenge level you face in a Quest: Easy, Normal, or Hard. Sauron gains more Resources as the difficulty goes up, but you can gain greater rewards if you survive",
-    "Text_CN": "The challenge level you face in a Quest: Easy, Normal, or Hard. Sauron gains more Resources as the difficulty goes up, but you can gain greater rewards if you survive",
-    "Text_FR": "The challenge level you face in a Quest: Easy, Normal, or Hard. Sauron gains more Resources as the difficulty goes up, but you can gain greater rewards if you survive"
-  },
-  {
-    "Id": "G_020_TERM",
-    "Text": "Difficulty",
-    "Text_CN": "Difficulty",
-    "Text_FR": "Difficulty"
-  },
-  {
-    "Id": "G_021_DESC",
-    "Text": "A trait type representing one of the Dúnedain, the Men of the West",
-    "Text_CN": "A trait type representing one of the Dúnedain, the Men of the West",
-    "Text_FR": "A trait type representing one of the Dúnedain, the Men of the West"
-  },
-  {
-    "Id": "G_021_TERM",
-    "Text": "Dúnadan",
-    "Text_CN": "Dúnadan",
-    "Text_FR": "Dúnadan"
-  },
-  {
-    "Id": "G_022_DESC",
-    "Text": "The action of applying a Character's progress to an Objective",
-    "Text_CN": "The action of applying a Character's progress to an Objective",
-    "Text_FR": "The action of applying a Character's progress to an Objective"
-  },
-  {
-    "Id": "G_022_TERM",
-    "Text": "Engage",
-    "Text_CN": "Engage",
-    "Text_FR": "Engage"
-  },
-  {
-    "Id": "G_023_DESC",
-    "Text": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game",
-    "Text_CN": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game",
-    "Text_FR": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game"
-  },
-  {
-    "Id": "G_023_TERM",
-    "Text": "Event",
-    "Text_CN": "Event",
-    "Text_FR": "Event"
-  },
-  {
-    "Id": "G_024_DESC",
-    "Text": "A unit in play is exhausted when it is used. All exhausted cards ready during <b>Upkeep</b>",
-    "Text_CN": "A unit in play is exhausted when it is used. All exhausted cards ready during <b>Upkeep</b>",
-    "Text_FR": "A unit in play is exhausted when it is used. All exhausted cards ready during <b>Upkeep</b>"
-  },
-  {
-    "Id": "G_024_TERM",
-    "Text": "Exhausted",
-    "Text_CN": "Exhausted",
-    "Text_FR": "Exhausted"
-  },
-  {
-    "Id": "G_025_DESC",
-    "Text": "An ability that can unlock special single-use effects unique to each Quest",
-    "Text_CN": "An ability that can unlock special single-use effects unique to each Quest",
-    "Text_FR": "An ability that can unlock special single-use effects unique to each Quest"
-  },
-  {
-    "Id": "G_025_TERM",
-    "Text": "Fate",
-    "Text_CN": "Fate",
-    "Text_FR": "Fate"
-  },
-  {
-    "Id": "G_026_DESC",
-    "Text": "This tracks your Fate Pool, which can unlock special single-use effects",
-    "Text_CN": "This tracks your Fate Pool, which can unlock special single-use effects",
-    "Text_FR": "This tracks your Fate Pool, which can unlock special single-use effects"
-  },
-  {
-    "Id": "G_026_TERM",
-    "Text": "Fate Meter",
-    "Text_CN": "Fate Meter",
-    "Text_FR": "Fate Meter"
-  },
-  {
-    "Id": "G_027_DESC",
-    "Text": "A card with this keyword is removed at the end of the round",
-    "Text_CN": "A card with this keyword is removed at the end of the round",
-    "Text_FR": "A card with this keyword is removed at the end of the round"
-  },
-  {
-    "Id": "G_027_TERM",
-    "Text": "Fleeting",
-    "Text_CN": "Fleeting",
-    "Text_FR": "Fleeting"
-  },
-  {
-    "Id": "G_028_DESC",
-    "Text": "Select to adjust game settings or to leave the Quest",
-    "Text_CN": "Select to adjust game settings or to leave the Quest",
-    "Text_FR": "Select to adjust game settings or to leave the Quest"
-  },
-  {
-    "Id": "G_028_TERM",
-    "Text": "Options",
-    "Text_CN": "Options",
-    "Text_FR": "Options"
-  },
-  {
-    "Id": "G_029_DESC",
-    "Text": "When active, no other target can be engaged until that unit acts or is attacked in melee combat. Also, the unit deals its Attack value in reciprocal damage when attacked in melee combat. Attacking or exhausting the unit removes <b>Guard</b>. A unit with the <b>Guard</b> keyword activates Defense as a free action at the start of each round. A unit with <b>Stealth</b> cannot <b>Guard</b>\n",
-    "Text_CN": "When active, no other target can be engaged until that unit acts or is attacked in melee combat. Also, the unit deals its Attack value in reciprocal damage when attacked in melee combat. Attacking or exhausting the unit removes <b>Guard</b>. A unit with the <b>Guard</b> keyword activates Defense as a free action at the start of each round. A unit with <b>Stealth</b> cannot <b>Guard</b>\n",
-    "Text_FR": "When active, no other target can be engaged until that unit acts or is attacked in melee combat. Also, the unit deals its Attack value in reciprocal damage when attacked in melee combat. Attacking or exhausting the unit removes <b>Guard</b>. A unit with the <b>Guard</b> keyword activates Defense as a free action at the start of each round. A unit with <b>Stealth</b> cannot <b>Guard</b>\n"
-  },
-  {
-    "Id": "G_029_TERM",
-    "Text": "Guard",
-    "Text_CN": "Guard",
-    "Text_FR": "Guard"
-  },
-  {
-    "Id": "G_030_DESC",
-    "Text": "A trait type representing a person from the most prominent kingdom of Men in Middle-earth.",
-    "Text_CN": "A trait type representing a person from the most prominent kingdom of Men in Middle-earth.",
-    "Text_FR": "A trait type representing a person from the most prominent kingdom of Men in Middle-earth."
-  },
-  {
-    "Id": "G_030_TERM",
-    "Text": "Gondor",
-    "Text_CN": "Gondor",
-    "Text_FR": "Gondor"
-  },
-  {
-    "Id": "G_031_DESC",
-    "Text": "A task that you may face in the course of a Quest. A Hazard is an optional Objective; you are not required to resolve it to complete a Quest",
-    "Text_CN": "A task that you may face in the course of a Quest. A Hazard is an optional Objective; you are not required to resolve it to complete a Quest",
-    "Text_FR": "A task that you may face in the course of a Quest. A Hazard is an optional Objective; you are not required to resolve it to complete a Quest"
-  },
-  {
-    "Id": "G_031_TERM",
-    "Text": "Hazard",
-    "Text_CN": "Hazard",
-    "Text_FR": "Hazard"
-  },
-  {
-    "Id": "G_032_DESC",
-    "Text": "The amount of damage the unit can suffer before being defeated",
-    "Text_CN": "The amount of damage the unit can suffer before being defeated",
-    "Text_FR": "The amount of damage the unit can suffer before being defeated"
-  },
-  {
-    "Id": "G_032_TERM",
-    "Text": "Health Value",
-    "Text_CN": "Health Value",
-    "Text_FR": "Health Value"
-  },
-  {
-    "Id": "G_033_DESC",
-    "Text": "A main Character that you control during a Quest. A Hero starts the game in play, and has a Threat value instead of a Resource cost. If every Hero is defeated, you fail the Quest!",
-    "Text_CN": "A main Character that you control during a Quest. A Hero starts the game in play, and has a Threat value instead of a Resource cost. If every Hero is defeated, you fail the Quest!",
-    "Text_FR": "A main Character that you control during a Quest. A Hero starts the game in play, and has a Threat value instead of a Resource cost. If every Hero is defeated, you fail the Quest!"
-  },
-  {
-    "Id": "G_033_TERM",
-    "Text": "Hero",
-    "Text_CN": "Hero",
-    "Text_FR": "Hero"
-  },
-  {
-    "Id": "G_034_DESC",
-    "Text": "This is a log of recent gameplay actions",
-    "Text_CN": "This is a log of recent gameplay actions",
-    "Text_FR": "This is a log of recent gameplay actions"
-  },
-  {
-    "Id": "G_034_TERM",
-    "Text": "History",
-    "Text_CN": "History",
-    "Text_FR": "History"
-  },
-  {
-    "Id": "G_035_DESC",
-    "Text": "A trait type representing one of a race of gentle beings with a reputation for preferring a settled life over excitement and adventure",
-    "Text_CN": "A trait type representing one of a race of gentle beings with a reputation for preferring a settled life over excitement and adventure",
-    "Text_FR": "A trait type representing one of a race of gentle beings with a reputation for preferring a settled life over excitement and adventure"
-  },
-  {
-    "Id": "G_035_TERM",
-    "Text": "Hobbit",
-    "Text_CN": "Hobbit",
-    "Text_FR": "Hobbit"
-  },
-  {
-    "Id": "G_036_DESC",
-    "Text": "A trait type representing an individual such as Gandalf or Saruman who is more than mortal and possessed of great age and power",
-    "Text_CN": "A trait type representing an individual such as Gandalf or Saruman who is more than mortal and possessed of great age and power",
-    "Text_FR": "A trait type representing an individual such as Gandalf or Saruman who is more than mortal and possessed of great age and power"
-  },
-  {
-    "Id": "G_036_TERM",
-    "Text": "Istar",
-    "Text_CN": "Istar",
-    "Text_FR": "Istar"
-  },
-  {
-    "Id": "G_037_DESC",
-    "Text": "A Sphere of Influence representing the potential to lead, inspire, and command others",
-    "Text_CN": "A Sphere of Influence representing the potential to lead, inspire, and command others",
-    "Text_FR": "A Sphere of Influence representing the potential to lead, inspire, and command others"
-  },
-  {
-    "Id": "G_037_TERM",
-    "Text": "Leadership",
-    "Text_CN": "Leadership",
-    "Text_FR": "Leadership"
-  },
-  {
-    "Id": "G_038_DESC",
-    "Text": "A distinct Quest stage. Completing a Quest requires advancing through a series of Locations",
-    "Text_CN": "A distinct Quest stage. Completing a Quest requires advancing through a series of Locations",
-    "Text_FR": "A distinct Quest stage. Completing a Quest requires advancing through a series of Locations"
-  },
-  {
-    "Id": "G_038_TERM",
-    "Text": "Location",
-    "Text_CN": "Location",
-    "Text_FR": "Location"
-  },
-  {
-    "Id": "G_039_DESC",
-    "Text": "The banner at the top center of the game environment. You may select it at any time to display the goal you must accomplish to continue your Quest",
-    "Text_CN": "The banner at the top center of the game environment. You may select it at any time to display the goal you must accomplish to continue your Quest",
-    "Text_FR": "The banner at the top center of the game environment. You may select it at any time to display the goal you must accomplish to continue your Quest"
-  },
-  {
-    "Id": "G_039_TERM",
-    "Text": "Location Banner",
-    "Text_CN": "Location Banner",
-    "Text_FR": "Location Banner"
-  },
-  {
-    "Id": "G_040_DESC",
-    "Text": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge",
-    "Text_CN": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge",
-    "Text_FR": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge"
-  },
-  {
-    "Id": "G_040_TERM",
-    "Text": "Lore",
-    "Text_CN": "Lore",
-    "Text_FR": "Lore"
-  },
-  {
-    "Id": "G_041_DESC",
-    "Text": "A trait type representing a person from the second clan of the Elves, known for their martial prowess",
-    "Text_CN": "A trait type representing a person from the second clan of the Elves, known for their martial prowess",
-    "Text_FR": "A trait type representing a person from the second clan of the Elves, known for their martial prowess"
-  },
-  {
-    "Id": "G_041_TERM",
-    "Text": "Noldor",
-    "Text_CN": "Noldor",
-    "Text_FR": "Noldor"
-  },
-  {
-    "Id": "G_042_DESC",
-    "Text": "The primary goal you must resolve before you can advance to the next Location",
-    "Text_CN": "The primary goal you must resolve before you can advance to the next Location",
-    "Text_FR": "The primary goal you must resolve before you can advance to the next Location"
-  },
-  {
-    "Id": "G_042_TERM",
-    "Text": "Objective",
-    "Text_CN": "Objective",
-    "Text_FR": "Objective"
-  },
-  {
-    "Id": "G_043_DESC",
-    "Text": "A trait type representing a member of an evil and violent race who serve Sauron",
-    "Text_CN": "A trait type representing a member of an evil and violent race who serve Sauron",
-    "Text_FR": "A trait type representing a member of an evil and violent race who serve Sauron"
-  },
-  {
-    "Id": "G_043_TERM",
-    "Text": "Orc",
-    "Text_CN": "Orc",
-    "Text_FR": "Orc"
-  },
-  {
-    "Id": "G_044_DESC",
-    "Text": "An optional bonus system. You can use the Palantír to gain rewards such as Valor Points, new cards, and cosmetic items",
-    "Text_CN": "An optional bonus system. You can use the Palantír to gain rewards such as Valor Points, new cards, and cosmetic items",
-    "Text_FR": "An optional bonus system. You can use the Palantír to gain rewards such as Valor Points, new cards, and cosmetic items"
-  },
-  {
-    "Id": "G_044_TERM",
-    "Text": "Palantír",
-    "Text_CN": "Palantír",
-    "Text_FR": "Palantír"
-  },
-  {
-    "Id": "G_045_DESC",
-    "Text": "Shows the current phase of the round",
-    "Text_CN": "Shows the current phase of the round",
-    "Text_FR": "Shows the current phase of the round"
-  },
-  {
-    "Id": "G_045_TERM",
-    "Text": "Phase Button",
-    "Text_CN": "Phase Button",
-    "Text_FR": "Phase Button"
-  },
-  {
-    "Id": "G_046_DESC",
-    "Text": "These are any Ally, Attachment, Event, and Hero cards in your deck",
-    "Text_CN": "These are any Ally, Attachment, Event, and Hero cards in your deck",
-    "Text_FR": "These are any Ally, Attachment, Event, and Hero cards in your deck"
-  },
-  {
-    "Id": "G_046_TERM",
-    "Text": "Player Cards",
-    "Text_CN": "Player Cards",
-    "Text_FR": "Player Cards"
-  },
-  {
-    "Id": "G_047_DESC",
-    "Text": "This keyword activates the card's unique ability",
-    "Text_CN": "This keyword activates the card's unique ability",
-    "Text_FR": "This keyword activates the card's unique ability"
-  },
-  {
-    "Id": "G_047_TERM",
-    "Text": "Power",
-    "Text_CN": "Power",
-    "Text_FR": "Power"
-  },
-  {
-    "Id": "G_048_DESC",
-    "Text": "An Event card type which triggers based on a timing window or circumstance. Once played, it is hidden from Sauron's view until triggered",
-    "Text_CN": "An Event card type which triggers based on a timing window or circumstance. Once played, it is hidden from Sauron's view until triggered",
-    "Text_FR": "An Event card type which triggers based on a timing window or circumstance. Once played, it is hidden from Sauron's view until triggered"
-  },
-  {
-    "Id": "G_048_TERM",
-    "Text": "Preparation",
-    "Text_CN": "Preparation",
-    "Text_FR": "Preparation"
-  },
-  {
-    "Id": "G_049_DESC",
-    "Text": "Indicates unrevealed Preparation cards. You may select the sockets at any time to view your prepared cards",
-    "Text_CN": "Indicates unrevealed Preparation cards. You may select the sockets at any time to view your prepared cards",
-    "Text_FR": "Indicates unrevealed Preparation cards. You may select the sockets at any time to view your prepared cards"
-  },
-  {
-    "Id": "G_049_TERM",
-    "Text": "Preparation Sockets",
-    "Text_CN": "Preparation Sockets",
-    "Text_FR": "Preparation Sockets"
-  },
-  {
-    "Id": "G_050_DESC",
-    "Text": "The amount by which you reduce the Quest value each time you engage an Objective",
-    "Text_CN": "The amount by which you reduce the Quest value each time you engage an Objective",
-    "Text_FR": "The amount by which you reduce the Quest value each time you engage an Objective"
-  },
-  {
-    "Id": "G_050_TERM",
-    "Text": "Progress",
-    "Text_CN": "Progress",
-    "Text_FR": "Progress"
-  },
-  {
-    "Id": "G_051_DESC",
-    "Text": "This keyword allows the unit to follow your Heroes from one Location to the next",
-    "Text_CN": "This keyword allows the unit to follow your Heroes from one Location to the next",
-    "Text_FR": "This keyword allows the unit to follow your Heroes from one Location to the next"
-  },
-  {
-    "Id": "G_051_TERM",
-    "Text": "Pursuit",
-    "Text_CN": "Pursuit",
-    "Text_FR": "Pursuit"
-  },
-  {
-    "Id": "G_052_DESC",
-    "Text": "The total Willpower amount required to resolve an Objective",
-    "Text_CN": "The total Willpower amount required to resolve an Objective",
-    "Text_FR": "The total Willpower amount required to resolve an Objective"
-  },
-  {
-    "Id": "G_052_TERM",
-    "Text": "Quest Value",
-    "Text_CN": "Quest Value",
-    "Text_FR": "Quest Value"
-  },
-  {
-    "Id": "G_053_DESC",
-    "Text": "A unit with this keyword ignores <b>Guard</b> when attacking",
-    "Text_CN": "A unit with this keyword ignores <b>Guard</b> when attacking",
-    "Text_FR": "A unit with this keyword ignores <b>Guard</b> when attacking"
-  },
-  {
-    "Id": "G_053_TERM",
-    "Text": "Ranged",
-    "Text_CN": "Ranged",
-    "Text_FR": "Ranged"
-  },
-  {
-    "Id": "G_054_DESC",
-    "Text": "All player cards have a listed rarity: Starter and Hero; as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities",
-    "Text_CN": "All player cards have a listed rarity: Starter and Hero; as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities",
-    "Text_FR": "All player cards have a listed rarity: Starter and Hero; as well as Common, Uncommon, Rare, and Legendary. The less common a card is, the more potent its abilities"
-  },
-  {
-    "Id": "G_054_TERM",
-    "Text": "Rarity",
-    "Text_CN": "Rarity",
-    "Text_FR": "Rarity"
-  },
-  {
-    "Id": "G_055_DESC",
-    "Text": "The act of completing, overcoming, or otherwise removing an Objective",
-    "Text_CN": "The act of completing, overcoming, or otherwise removing an Objective",
-    "Text_FR": "The act of completing, overcoming, or otherwise removing an Objective"
-  },
-  {
-    "Id": "G_055_TERM",
-    "Text": "Resolve",
-    "Text_CN": "Resolve",
-    "Text_FR": "Resolve"
-  },
-  {
-    "Id": "G_056_DESC",
-    "Text": "Spent to play cards. Resources refresh each round during Upkeep",
-    "Text_CN": "Spent to play cards. Resources refresh each round during Upkeep",
-    "Text_FR": "Spent to play cards. Resources refresh each round during Upkeep"
-  },
-  {
-    "Id": "G_056_TERM",
-    "Text": "Resources",
-    "Text_CN": "Resources",
-    "Text_FR": "Resources"
-  },
-  {
-    "Id": "G_057_DESC",
-    "Text": "This keyword triggers an effect when the unit is defeated",
-    "Text_CN": "This keyword triggers an effect when the unit is defeated",
-    "Text_FR": "This keyword triggers an effect when the unit is defeated"
-  },
-  {
-    "Id": "G_057_TERM",
-    "Text": "Revenge",
-    "Text_CN": "Revenge",
-    "Text_FR": "Revenge"
-  },
-  {
-    "Id": "G_058_DESC",
-    "Text": "A trait type representing a person from the kingdom between the Misty Mountains and White Mountains",
-    "Text_CN": "A trait type representing a person from the kingdom between the Misty Mountains and White Mountains",
-    "Text_FR": "A trait type representing a person from the kingdom between the Misty Mountains and White Mountains"
-  },
-  {
-    "Id": "G_058_TERM",
-    "Text": "Rohan",
-    "Text_CN": "Rohan",
-    "Text_FR": "Rohan"
-  },
-  {
-    "Id": "G_059_DESC",
-    "Text": "A trait type representing an Elf who is more interested in knowledge than in combat, compared to Noldor",
-    "Text_CN": "A trait type representing an Elf who is more interested in knowledge than in combat, compared to Noldor",
-    "Text_FR": "A trait type representing an Elf who is more interested in knowledge than in combat, compared to Noldor"
-  },
-  {
-    "Id": "G_059_TERM",
-    "Text": "Silvan",
-    "Text_CN": "Silvan",
-    "Text_FR": "Silvan"
-  },
-  {
-    "Id": "G_060_DESC",
-    "Text": "An Attachment type that provides a special in-game benefit. A Character can have only one Attachment of each type at a time",
-    "Text_CN": "An Attachment type that provides a special in-game benefit. A Character can have only one Attachment of each type at a time",
-    "Text_FR": "An Attachment type that provides a special in-game benefit. A Character can have only one Attachment of each type at a time"
-  },
-  {
-    "Id": "G_060_TERM",
-    "Text": "Special",
-    "Text_CN": "Special",
-    "Text_FR": "Special"
-  },
-  {
-    "Id": "G_061_DESC",
-    "Text": "The card's Sphere. Each of the four Spheres (Leadership, Lore, Spirit, Tactics) focuses on a particular personality aspect. Every Hero belongs to a Sphere, which dictates the cards you can include in a deck",
-    "Text_CN": "The card's Sphere. Each of the four Spheres (Leadership, Lore, Spirit, Tactics) focuses on a particular personality aspect. Every Hero belongs to a Sphere, which dictates the cards you can include in a deck",
-    "Text_FR": "The card's Sphere. Each of the four Spheres (Leadership, Lore, Spirit, Tactics) focuses on a particular personality aspect. Every Hero belongs to a Sphere, which dictates the cards you can include in a deck"
-  },
-  {
-    "Id": "G_061_TERM",
-    "Text": "Sphere of Influence",
-    "Text_CN": "Sphere of Influence",
-    "Text_FR": "Sphere of Influence"
-  },
-  {
-    "Id": "G_062_DESC",
-    "Text": "A Sphere of Influence encompassing strength of will and aspects of the supernatural",
-    "Text_CN": "A Sphere of Influence encompassing strength of will and aspects of the supernatural",
-    "Text_FR": "A Sphere of Influence encompassing strength of will and aspects of the supernatural"
-  },
-  {
-    "Id": "G_062_TERM",
-    "Text": "Spirit",
-    "Text_CN": "Spirit",
-    "Text_FR": "Spirit"
-  },
-  {
-    "Id": "G_063_DESC",
-    "Text": "A unit with this keyword does not exhaust after the first action each round",
-    "Text_CN": "A unit with this keyword does not exhaust after the first action each round",
-    "Text_FR": "A unit with this keyword does not exhaust after the first action each round"
-  },
-  {
-    "Id": "G_063_TERM",
-    "Text": "Stalwart",
-    "Text_CN": "Stalwart",
-    "Text_FR": "Stalwart"
-  },
-  {
-    "Id": "G_064_DESC",
-    "Text": "When active, a unit with this keyword cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting an Enemy or Objective. An exhausted unit cannot have <b>Stealth</b> active",
-    "Text_CN": "When active, a unit with this keyword cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting an Enemy or Objective. An exhausted unit cannot have <b>Stealth</b> active",
-    "Text_FR": "When active, a unit with this keyword cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting an Enemy or Objective. An exhausted unit cannot have <b>Stealth</b> active"
-  },
-  {
-    "Id": "G_064_TERM",
-    "Text": "Stealth",
-    "Text_CN": "Stealth",
-    "Text_FR": "Stealth"
-  },
-  {
-    "Id": "G_065_DESC",
-    "Text": "This keyword grants you an immediate action after the card is played",
-    "Text_CN": "This keyword grants you an immediate action after the card is played",
-    "Text_FR": "This keyword grants you an immediate action after the card is played"
-  },
-  {
-    "Id": "G_065_TERM",
-    "Text": "Surge",
-    "Text_CN": "Surge",
-    "Text_FR": "Surge"
-  },
-  {
-    "Id": "G_066_DESC",
-    "Text": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat",
-    "Text_CN": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat",
-    "Text_FR": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat"
-  },
-  {
-    "Id": "G_066_TERM",
-    "Text": "Tactics",
-    "Text_CN": "Tactics",
-    "Text_FR": "Tactics"
-  },
-  {
-    "Id": "G_067_DESC",
-    "Text": "A measure of the risk you face during the Quest. Threat increases each round and when you travel. If you reach 50 Threat, your Quest fails!",
-    "Text_CN": "A measure of the risk you face during the Quest. Threat increases each round and when you travel. If you reach 50 Threat, your Quest fails!",
-    "Text_FR": "A measure of the risk you face during the Quest. Threat increases each round and when you travel. If you reach 50 Threat, your Quest fails!"
-  },
-  {
-    "Id": "G_067_TERM",
-    "Text": "Threat",
-    "Text_CN": "Threat",
-    "Text_FR": "Threat"
-  },
-  {
-    "Id": "G_068_DESC",
-    "Text": "This tracks the amount of risk you face. Your Quest fails if you reach 50 Threat",
-    "Text_CN": "This tracks the amount of risk you face. Your Quest fails if you reach 50 Threat",
-    "Text_FR": "This tracks the amount of risk you face. Your Quest fails if you reach 50 Threat"
-  },
-  {
-    "Id": "G_068_TERM",
-    "Text": "Threat Meter",
-    "Text_CN": "Threat Meter",
-    "Text_FR": "Threat Meter"
-  },
-  {
-    "Id": "G_069_DESC",
-    "Text": "Located on the upper left of every Hero card, this number adds to the Threat meter to determine your starting Threat",
-    "Text_CN": "Located on the upper left of every Hero card, this number adds to the Threat meter to determine your starting Threat",
-    "Text_FR": "Located on the upper left of every Hero card, this number adds to the Threat meter to determine your starting Threat"
-  },
-  {
-    "Id": "G_069_TERM",
-    "Text": "Threat Value",
-    "Text_CN": "Threat Value",
-    "Text_FR": "Threat Value"
-  },
-  {
-    "Id": "G_070_DESC",
-    "Text": "Some cards have traits which indicate particular categories, behaviors, or restrictions",
-    "Text_CN": "Some cards have traits which indicate particular categories, behaviors, or restrictions",
-    "Text_FR": "Some cards have traits which indicate particular categories, behaviors, or restrictions"
-  },
-  {
-    "Id": "G_070_TERM",
-    "Text": "Trait",
-    "Text_CN": "Trait",
-    "Text_FR": "Trait"
-  },
-  {
-    "Id": "G_071_DESC",
-    "Text": "Sauron's unrevealed Treachery cards. They remain secret until revealed",
-    "Text_CN": "Sauron's unrevealed Treachery cards. They remain secret until revealed",
-    "Text_FR": "Sauron's unrevealed Treachery cards. They remain secret until revealed"
-  },
-  {
-    "Id": "G_071_TERM",
-    "Text": "Treachery Sockets",
-    "Text_CN": "Treachery Sockets",
-    "Text_FR": "Treachery Sockets"
-  },
-  {
-    "Id": "G_072_DESC",
-    "Text": "At the start of each round, all exhausted units in play ready; then you and Sauron gain Resources and draw cards automatically. Certain abilities may also activate",
-    "Text_CN": "At the start of each round, all exhausted units in play ready; then you and Sauron gain Resources and draw cards automatically. Certain abilities may also activate",
-    "Text_FR": "At the start of each round, all exhausted units in play ready; then you and Sauron gain Resources and draw cards automatically. Certain abilities may also activate"
-  },
-  {
-    "Id": "G_072_TERM",
-    "Text": "Upkeep",
-    "Text_CN": "Upkeep",
-    "Text_FR": "Upkeep"
-  },
-  {
-    "Id": "G_073_DESC",
-    "Text": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more",
-    "Text_CN": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more",
-    "Text_FR": "In-game rewards that you can spend to get Quests, Heroes, cards, avatars, and more"
-  },
-  {
-    "Id": "G_073_TERM",
-    "Text": "Valor Points",
-    "Text_CN": "Valor Points",
-    "Text_FR": "Valor Points"
-  },
-  {
-    "Id": "G_074_DESC",
-    "Text": "This keyword triggers an effect upon defeating a target",
-    "Text_CN": "This keyword triggers an effect upon defeating a target",
-    "Text_FR": "This keyword triggers an effect upon defeating a target"
-  },
-  {
-    "Id": "G_074_TERM",
-    "Text": "Vanquish",
-    "Text_CN": "Vanquish",
-    "Text_FR": "Vanquish"
-  },
-  {
-    "Id": "G_075_DESC",
-    "Text": "An Attachment type that provides some benefit when attacking. A Character can have only one Attachment of each type at a time",
-    "Text_CN": "An Attachment type that provides some benefit when attacking. A Character can have only one Attachment of each type at a time",
-    "Text_FR": "An Attachment type that provides some benefit when attacking. A Character can have only one Attachment of each type at a time"
-  },
-  {
-    "Id": "G_075_TERM",
-    "Text": "Weapon",
-    "Text_CN": "Weapon",
-    "Text_FR": "Weapon"
-  },
-  {
-    "Id": "G_076_DESC",
-    "Text": "The unit's effectiveness when engaging an Objective",
-    "Text_CN": "The unit's effectiveness when engaging an Objective",
-    "Text_FR": "The unit's effectiveness when engaging an Objective"
-  },
-  {
-    "Id": "G_076_TERM",
-    "Text": "Willpower Value",
-    "Text_CN": "Willpower Value",
-    "Text_FR": "Willpower Value"
-  },
-  {
-    "Id": "G_COUNT",
-    "Text": "76",
-    "Text_CN": "76",
-    "Text_FR": "76"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_ARMOR",
-    "Text": "An Attachment type. A Character can have only one Attachment of each type at a time",
-    "Text_CN": "An Attachment type. A Character can have only one Attachment of each type at a time",
-    "Text_FR": "An Attachment type. A Character can have only one Attachment of each type at a time"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_ATTACHMENTTRAY",
-    "Text": "When played, Attachments that modify the unit are located here. Select to view",
-    "Text_CN": "When played, Attachments that modify the unit are located here. Select to view",
-    "Text_FR": "When played, Attachments that modify the unit are located here. Select to view"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_ATTACK",
-    "Text": "The unit's effectiveness when attacking in combat",
-    "Text_CN": "The unit's effectiveness when attacking in combat",
-    "Text_FR": "The unit's effectiveness when attacking in combat"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_AVATAR",
-    "Text": "The icon shown in your profile",
-    "Text_CN": "The icon shown in your profile",
-    "Text_FR": "The icon shown in your profile"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_BACK",
-    "Text": "Select to return to the previous screen",
-    "Text_CN": "Select to return to the previous screen",
-    "Text_FR": "Select to return to the previous screen"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_CARDABILITY",
-    "Text": "Any abilities that the card has are described here",
-    "Text_CN": "Any abilities that the card has are described here",
-    "Text_FR": "Any abilities that the card has are described here"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_CARDTITLE",
-    "Text": "The card name. The \"‰\" symbol means the card is unique",
-    "Text_CN": "The card name. The \"‰\" symbol means the card is unique",
-    "Text_FR": "The card name. The \"‰\" symbol means the card is unique"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_COST",
-    "Text": "The Resource amount needed to play a card",
-    "Text_CN": "The Resource amount needed to play a card",
-    "Text_FR": "The Resource amount needed to play a card"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_DALE",
-    "Text": "A trait type, which indicates certain behavior or restrictions",
-    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
-    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_DECK",
-    "Text": "The cards you use in the Quest. Rollover to see how many remain",
-    "Text_CN": "The cards you use in the Quest. Rollover to see how many remain",
-    "Text_FR": "The cards you use in the Quest. Rollover to see how many remain"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_DEFENSE",
-    "Text": "Select to give the unit the <b>Guard</b> keyword for the round",
-    "Text_CN": "Select to give the unit the <b>Guard</b> keyword for the round",
-    "Text_FR": "Select to give the unit the <b>Guard</b> keyword for the round"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_DUNADAN",
-    "Text": "A trait type, which indicates certain behavior or restrictions",
-    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
-    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_EVENT",
-    "Text": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game",
-    "Text_CN": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game",
-    "Text_FR": "A card type that covers any scheme, twist of fate, or other effect that occurs during the game"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_FATE",
-    "Text": "Select to add the unit's Willpower value to your Fate Pool",
-    "Text_CN": "Select to add the unit's Willpower value to your Fate Pool",
-    "Text_FR": "Select to add the unit's Willpower value to your Fate Pool"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_FATEMETER",
-    "Text": "Tracks your Fate Pool, which can unlock special single-use abilities",
-    "Text_CN": "Tracks your Fate Pool, which can unlock special single-use abilities",
-    "Text_FR": "Tracks your Fate Pool, which can unlock special single-use abilities"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_GAMEOPTIONS",
-    "Text": "Select to adjust game settings or to leave the Quest",
-    "Text_CN": "Select to adjust game settings or to leave the Quest",
-    "Text_FR": "Select to adjust game settings or to leave the Quest"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_GLOSSARY",
-    "Text": "Important keywords and terminology",
-    "Text_CN": "Important keywords and terminology",
-    "Text_FR": "Important keywords and terminology"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_GONDOR",
-    "Text": "A trait type, which indicates certain behavior or restrictions",
-    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
-    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_HAZARD",
-    "Text": "A task that you may face in the course of a Quest",
-    "Text_CN": "A task that you may face in the course of a Quest",
-    "Text_FR": "A task that you may face in the course of a Quest"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_HEALTH",
-    "Text": "The amount of damage the unit can suffer before being defeated",
-    "Text_CN": "The amount of damage the unit can suffer before being defeated",
-    "Text_FR": "The amount of damage the unit can suffer before being defeated"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_HISTORY",
-    "Text": "Shows recent gameplay actions",
-    "Text_CN": "Shows recent gameplay actions",
-    "Text_FR": "Shows recent gameplay actions"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_HOBBIT",
-    "Text": "A trait type, which indicates certain behavior or restrictions",
-    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
-    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_ISTAR",
-    "Text": "A trait type, which indicates certain behavior or restrictions",
-    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
-    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_LEADERSHIP",
-    "Text": "A Sphere of Influence representing the potential to lead, inspire, and command others",
-    "Text_CN": "A Sphere of Influence representing the potential to lead, inspire, and command others",
-    "Text_FR": "A Sphere of Influence representing the potential to lead, inspire, and command others"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_LOCATIONBANNER",
-    "Text": "Shows your Location. Select to display the current Objective",
-    "Text_CN": "Shows your Location. Select to display the current Objective",
-    "Text_FR": "Shows your Location. Select to display the current Objective"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_LORE",
-    "Text": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge",
-    "Text_CN": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge",
-    "Text_FR": "A Sphere of Influence emphasizing intellect, wisdom, and specialized knowledge"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_NOLDOR",
-    "Text": "A trait type, which indicates certain behavior or restrictions",
-    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
-    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_OBJECTIVE",
-    "Text": "The primary goal you must resolve before you can advance to the next Location",
-    "Text_CN": "The primary goal you must resolve before you can advance to the next Location",
-    "Text_FR": "The primary goal you must resolve before you can advance to the next Location"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_OPTIONS",
-    "Text": "Select to adjust game settings, or to restart or exit the Quest",
-    "Text_CN": "Select to adjust game settings, or to restart or exit the Quest",
-    "Text_FR": "Select to adjust game settings, or to restart or exit the Quest"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_ORC",
-    "Text": "A trait type, which indicates certain behavior or restrictions",
-    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
-    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_PHASEBUTTON",
-    "Text": "Shows the current phase of the round",
-    "Text_CN": "Shows the current phase of the round",
-    "Text_FR": "Shows the current phase of the round"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_POWERBUTTON",
-    "Text": "Select to activate the card's unique ability",
-    "Text_CN": "Select to activate the card's unique ability",
-    "Text_FR": "Select to activate the card's unique ability"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_PREPARATION",
-    "Text": "A trait type, which indicates certain behavior or restrictions",
-    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
-    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_PREPARATIONSOCKET",
-    "Text": "Indicates unrevealed Preparation cards. Select to view your prepared cards",
-    "Text_CN": "Indicates unrevealed Preparation cards. Select to view your prepared cards",
-    "Text_FR": "Indicates unrevealed Preparation cards. Select to view your prepared cards"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_QUESTVALUE",
-    "Text": "The total Willpower amount required to resolve an Objective",
-    "Text_CN": "The total Willpower amount required to resolve an Objective",
-    "Text_FR": "The total Willpower amount required to resolve an Objective"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_PLAYERRESOURCES",
-    "Text": "Spend to play cards. Refreshes each round during Upkeep",
-    "Text_CN": "Spend to play cards. Refreshes each round during Upkeep",
-    "Text_FR": "Spend to play cards. Refreshes each round during Upkeep"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_ROHAN",
-    "Text": "A trait type, which indicates certain behavior or restrictions",
-    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
-    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_SAURONRESOURCES",
-    "Text": "What Sauron spends to play cards. Refreshes each round during Upkeep",
-    "Text_CN": "What Sauron spends to play cards. Refreshes each round during Upkeep",
-    "Text_FR": "What Sauron spends to play cards. Refreshes each round during Upkeep"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_SILVAN",
-    "Text": "A trait type, which indicates certain behavior or restrictions",
-    "Text_CN": "A trait type, which indicates certain behavior or restrictions",
-    "Text_FR": "A trait type, which indicates certain behavior or restrictions"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_SPECIAL",
-    "Text": "An Attachment type. A Character can have only one Attachment of each type at a time",
-    "Text_CN": "An Attachment type. A Character can have only one Attachment of each type at a time",
-    "Text_FR": "An Attachment type. A Character can have only one Attachment of each type at a time"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_SPHEREOFINFLUENCE",
-    "Text": "The card's Sphere: Leadership, Lore, Spirit, Tactics, or Neutral",
-    "Text_CN": "The card's Sphere: Leadership, Lore, Spirit, Tactics, or Neutral",
-    "Text_FR": "The card's Sphere: Leadership, Lore, Spirit, Tactics, or Neutral"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_SPIRIT",
-    "Text": "A Sphere of Influence encompassing strength of will and aspects of the supernatural",
-    "Text_CN": "A Sphere of Influence encompassing strength of will and aspects of the supernatural",
-    "Text_FR": "A Sphere of Influence encompassing strength of will and aspects of the supernatural"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_TACTICS",
-    "Text": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat",
-    "Text_CN": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat",
-    "Text_FR": "A Sphere of Influence emphasizing martial prowess, from tactical challenges to direct combat"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_THREATMETER",
-    "Text": "Tracks the amount of risk you face. Your Quest fails if you reach 50 Threat",
-    "Text_CN": "Tracks the amount of risk you face. Your Quest fails if you reach 50 Threat",
-    "Text_FR": "Tracks the amount of risk you face. Your Quest fails if you reach 50 Threat"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_THREATVALUE",
-    "Text": "The number added to the Threat meter to determine your starting Threat",
-    "Text_CN": "The number added to the Threat meter to determine your starting Threat",
-    "Text_FR": "The number added to the Threat meter to determine your starting Threat"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_TREACHERYSOCKET",
-    "Text": "Sauron's unrevealed Treachery cards. They remain secret until revealed",
-    "Text_CN": "Sauron's unrevealed Treachery cards. They remain secret until revealed",
-    "Text_FR": "Sauron's unrevealed Treachery cards. They remain secret until revealed"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_WEAPON",
-    "Text": "An Attachment type. A Character can have only one Attachment of each type at a time",
-    "Text_CN": "An Attachment type. A Character can have only one Attachment of each type at a time",
-    "Text_FR": "An Attachment type. A Character can have only one Attachment of each type at a time"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_WILLPOWER",
-    "Text": "The unit's effectiveness when engaging an Objective",
-    "Text_CN": "The unit's effectiveness when engaging an Objective",
-    "Text_FR": "The unit's effectiveness when engaging an Objective"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_TRAIT",
-    "Text": "Indicates a particular category,\\nbehavior, or restriction",
-    "Text_CN": "Indicates a particular category,\\nbehavior, or restriction",
-    "Text_FR": "Indicates a particular category,\\nbehavior, or restriction"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_ATTACHMENTSOCKETS",
-    "Text": "Characters can have one of each type:\\nWeapon, Armor, Special, Shadow",
-    "Text_CN": "Characters can have one of each type:\\nWeapon, Armor, Special, Shadow",
-    "Text_FR": "Characters can have one of each type:\\nWeapon, Armor, Special, Shadow"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_VALORCARD",
-    "Text": "Available in the Valor Menu",
-    "Text_CN": "Available in the Valor Menu",
-    "Text_FR": "Available in the Valor Menu"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_QUEST_RESULT_PV",
-    "Text": "A 250+ final score unlocks\\nthe +1 Palantír View reward",
-    "Text_CN": "A 250+ final score unlocks\\nthe +1 Palantír View reward",
-    "Text_FR": "A 250+ final score unlocks\\nthe +1 Palantír View reward"
-  },
-  {
-    "Id": "T_ROLLOVER_DESC_QUEST_RESULT_VP",
-    "Text": "A 200+ final score unlocks\\nthe +50 Valor Points reward",
-    "Text_CN": "A 200+ final score unlocks\\nthe +50 Valor Points reward",
-    "Text_FR": "A 200+ final score unlocks\\nthe +50 Valor Points reward"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_ARMOR",
-    "Text": "<b>Armor</b>",
-    "Text_CN": "<b>Armor</b>",
-    "Text_FR": "<b>Armor</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_ATTACHMENTTRAY",
-    "Text": "<b>Attachment Tray</b>",
-    "Text_CN": "<b>Attachment Tray</b>",
-    "Text_FR": "<b>Attachment Tray</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_ATTACK",
-    "Text": "<b>Attack Value</b>",
-    "Text_CN": "<b>Attack Value</b>",
-    "Text_FR": "<b>Attack Value</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_AVATAR",
-    "Text": "<b>Avatar</b>",
-    "Text_CN": "<b>Avatar</b>",
-    "Text_FR": "<b>Avatar</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_BACK",
-    "Text": "<b>Back</b>",
-    "Text_CN": "<b>Back</b>",
-    "Text_FR": "<b>Back</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_CARDABILITY",
-    "Text": "<b>Card Ability</b>",
-    "Text_CN": "<b>Card Ability</b>",
-    "Text_FR": "<b>Card Ability</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_CARDTITLE",
-    "Text": "<b>Card Title</b>",
-    "Text_CN": "<b>Card Title</b>",
-    "Text_FR": "<b>Card Title</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_COST",
-    "Text": "<b>Cost</b>",
-    "Text_CN": "<b>Cost</b>",
-    "Text_FR": "<b>Cost</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_DALE",
-    "Text": "<b>Dale</b>",
-    "Text_CN": "<b>Dale</b>",
-    "Text_FR": "<b>Dale</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_DECK",
-    "Text": "<b>Deck</b>",
-    "Text_CN": "<b>Deck</b>",
-    "Text_FR": "<b>Deck</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_DEFENSE",
-    "Text": "<b>Defense Button</b>",
-    "Text_CN": "<b>Defense Button</b>",
-    "Text_FR": "<b>Defense Button</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_DUNADAN",
-    "Text": "<b>Dúnadan</b>",
-    "Text_CN": "<b>Dúnadan</b>",
-    "Text_FR": "<b>Dúnadan</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_EVENT",
-    "Text": "<b>Event</b>",
-    "Text_CN": "<b>Event</b>",
-    "Text_FR": "<b>Event</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_FATE",
-    "Text": "<b>Fate Button</b>",
-    "Text_CN": "<b>Fate Button</b>",
-    "Text_FR": "<b>Fate Button</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_FATEMETER",
-    "Text": "<b>Fate Meter</b>",
-    "Text_CN": "<b>Fate Meter</b>",
-    "Text_FR": "<b>Fate Meter</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_GAMEOPTIONS",
-    "Text": "<b>Options</b>",
-    "Text_CN": "<b>Options</b>",
-    "Text_FR": "<b>Options</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_GLOSSARY",
-    "Text": "<b>Glossary</b>",
-    "Text_CN": "<b>Glossary</b>",
-    "Text_FR": "<b>Glossary</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_GONDOR",
-    "Text": "<b>Gondor</b>",
-    "Text_CN": "<b>Gondor</b>",
-    "Text_FR": "<b>Gondor</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_HAZARD",
-    "Text": "<b>Hazard</b>",
-    "Text_CN": "<b>Hazard</b>",
-    "Text_FR": "<b>Hazard</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_HEALTH",
-    "Text": "<b>Health Value</b>",
-    "Text_CN": "<b>Health Value</b>",
-    "Text_FR": "<b>Health Value</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_HISTORY",
-    "Text": "<b>History</b>",
-    "Text_CN": "<b>History</b>",
-    "Text_FR": "<b>History</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_HOBBIT",
-    "Text": "<b>Hobbit</b>",
-    "Text_CN": "<b>Hobbit</b>",
-    "Text_FR": "<b>Hobbit</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_ISTAR",
-    "Text": "<b>Istar</b>",
-    "Text_CN": "<b>Istar</b>",
-    "Text_FR": "<b>Istar</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_LEADERSHIP",
-    "Text": "<b>Leadership</b>",
-    "Text_CN": "<b>Leadership</b>",
-    "Text_FR": "<b>Leadership</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_LOCATIONBANNER",
-    "Text": "<b>Location Banner</b>",
-    "Text_CN": "<b>Location Banner</b>",
-    "Text_FR": "<b>Location Banner</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_LORE",
-    "Text": "<b>Lore</b>",
-    "Text_CN": "<b>Lore</b>",
-    "Text_FR": "<b>Lore</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_NOLDOR",
-    "Text": "<b>Noldor</b>",
-    "Text_CN": "<b>Noldor</b>",
-    "Text_FR": "<b>Noldor</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_OBJECTIVE",
-    "Text": "<b>Objective</b>",
-    "Text_CN": "<b>Objective</b>",
-    "Text_FR": "<b>Objective</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_OPTIONS",
-    "Text": "<b>Options</b>",
-    "Text_CN": "<b>Options</b>",
-    "Text_FR": "<b>Options</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_ORC",
-    "Text": "<b>Orc</b>",
-    "Text_CN": "<b>Orc</b>",
-    "Text_FR": "<b>Orc</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_PHASEBUTTON",
-    "Text": "<b>Phase Button</b>",
-    "Text_CN": "<b>Phase Button</b>",
-    "Text_FR": "<b>Phase Button</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_POWERBUTTON",
-    "Text": "<b>Power Button</b>",
-    "Text_CN": "<b>Power Button</b>",
-    "Text_FR": "<b>Power Button</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_PREPARATION",
-    "Text": "<b>Preparation</b>",
-    "Text_CN": "<b>Preparation</b>",
-    "Text_FR": "<b>Preparation</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_PREPARATIONSOCKET",
-    "Text": "<b>Preparation Sockets</b>",
-    "Text_CN": "<b>Preparation Sockets</b>",
-    "Text_FR": "<b>Preparation Sockets</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_QUESTVALUE",
-    "Text": "<b>Quest Value</b>",
-    "Text_CN": "<b>Quest Value</b>",
-    "Text_FR": "<b>Quest Value</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_PLAYERRESOURCES",
-    "Text": "<b>Player Resources</b>",
-    "Text_CN": "<b>Player Resources</b>",
-    "Text_FR": "<b>Player Resources</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_ROHAN",
-    "Text": "<b>Rohan</b>",
-    "Text_CN": "<b>Rohan</b>",
-    "Text_FR": "<b>Rohan</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_SAURONRESOURCES",
-    "Text": "<b>Sauron's Resources</b>",
-    "Text_CN": "<b>Sauron's Resources</b>",
-    "Text_FR": "<b>Sauron's Resources</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_SILVAN",
-    "Text": "<b>Silvan</b>",
-    "Text_CN": "<b>Silvan</b>",
-    "Text_FR": "<b>Silvan</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_SPECIAL",
-    "Text": "<b>Special</b>",
-    "Text_CN": "<b>Special</b>",
-    "Text_FR": "<b>Special</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_SPHEREOFINFLUENCE",
-    "Text": "<b>Sphere of Influence</b>",
-    "Text_CN": "<b>Sphere of Influence</b>",
-    "Text_FR": "<b>Sphere of Influence</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_SPIRIT",
-    "Text": "<b>Spirit</b>",
-    "Text_CN": "<b>Spirit</b>",
-    "Text_FR": "<b>Spirit</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_TACTICS",
-    "Text": "<b>Tactics</b>",
-    "Text_CN": "<b>Tactics</b>",
-    "Text_FR": "<b>Tactics</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_THREATMETER",
-    "Text": "<b>Threat Meter</b>",
-    "Text_CN": "<b>Threat Meter</b>",
-    "Text_FR": "<b>Threat Meter</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_THREATVALUE",
-    "Text": "<b>Threat Value</b>",
-    "Text_CN": "<b>Threat Value</b>",
-    "Text_FR": "<b>Threat Value</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_TREACHERYSOCKET",
-    "Text": "<b>Treachery Sockets</b>",
-    "Text_CN": "<b>Treachery Sockets</b>",
-    "Text_FR": "<b>Treachery Sockets</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_WEAPON",
-    "Text": "<b>Weapon</b>",
-    "Text_CN": "<b>Weapon</b>",
-    "Text_FR": "<b>Weapon</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_WILLPOWER",
-    "Text": "<b>Willpower Value</b>",
-    "Text_CN": "<b>Willpower Value</b>",
-    "Text_FR": "<b>Willpower Value</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_TRAIT",
-    "Text": "<b>Trait</b>",
-    "Text_CN": "<b>Trait</b>",
-    "Text_FR": "<b>Trait</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_ATTACHMENTSOCKETS",
-    "Text": "<b>Attachment Sockets</b>",
-    "Text_CN": "<b>Attachment Sockets</b>",
-    "Text_FR": "<b>Attachment Sockets</b>"
-  },
-  {
-    "Id": "T_ROLLOVER_TITLE_VALORCARD",
-    "Text": "<b>Valor Card</b>",
-    "Text_CN": "<b>Valor Card</b>",
-    "Text_FR": "<b>Valor Card</b>"
-  },
-  {
-    "Id": "K_ARRIVAL_TERM",
-    "Text": "<b>Arrival</b>",
-    "Text_CN": "<b>Arrival</b>",
-    "Text_FR": "<b>Arrival</b>"
-  },
-  {
-    "Id": "K_BLOCK_TERM",
-    "Text": "<b>Block</b>",
-    "Text_CN": "<b>Block</b>",
-    "Text_FR": "<b>Block</b>"
-  },
-  {
-    "Id": "K_DEFENSE_TERM",
-    "Text": "<b>Defense</b>",
-    "Text_CN": "<b>Defense</b>",
-    "Text_FR": "<b>Defense</b>"
-  },
-  {
-    "Id": "K_FLEETING_TERM",
-    "Text": "<b>Fleeting</b>",
-    "Text_CN": "<b>Fleeting</b>",
-    "Text_FR": "<b>Fleeting</b>"
-  },
-  {
-    "Id": "K_GUARD_TERM",
-    "Text": "<b>Guard</b>",
-    "Text_CN": "<b>Guard</b>",
-    "Text_FR": "<b>Guard</b>"
-  },
-  {
-    "Id": "K_POWER_TERM",
-    "Text": "<b>Power</b>",
-    "Text_CN": "<b>Power</b>",
-    "Text_FR": "<b>Power</b>"
-  },
-  {
-    "Id": "K_PURSUIT_TERM",
-    "Text": "<b>Pursuit</b>",
-    "Text_CN": "<b>Pursuit</b>",
-    "Text_FR": "<b>Pursuit</b>"
-  },
-  {
-    "Id": "K_RANGED_TERM",
-    "Text": "<b>Ranged</b>",
-    "Text_CN": "<b>Ranged</b>",
-    "Text_FR": "<b>Ranged</b>"
-  },
-  {
-    "Id": "K_REVENGE_TERM",
-    "Text": "<b>Revenge</b>",
-    "Text_CN": "<b>Revenge</b>",
-    "Text_FR": "<b>Revenge</b>"
-  },
-  {
-    "Id": "K_STALWART_TERM",
-    "Text": "<b>Stalwart</b>",
-    "Text_CN": "<b>Stalwart</b>",
-    "Text_FR": "<b>Stalwart</b>"
-  },
-  {
-    "Id": "K_STEALTH_TERM",
-    "Text": "<b>Stealth</b>",
-    "Text_CN": "<b>Stealth</b>",
-    "Text_FR": "<b>Stealth</b>"
-  },
-  {
-    "Id": "K_SURGE_TERM",
-    "Text": "<b>Surge</b>",
-    "Text_CN": "<b>Surge</b>",
-    "Text_FR": "<b>Surge</b>"
-  },
-  {
-    "Id": "K_VANQUISH_TERM",
-    "Text": "<b>Vanquish</b>",
-    "Text_CN": "<b>Vanquish</b>",
-    "Text_FR": "<b>Vanquish</b>"
-  },
-  {
-    "Id": "K_AMBUSH_TERM",
-    "Text": "<b>Ambush</b>",
-    "Text_CN": "<b>Ambush</b>",
-    "Text_FR": "<b>Ambush</b>"
-  },
-  {
-    "Id": "K_COUNTER_TERM",
-    "Text": "<b>Counter</b>",
-    "Text_CN": "<b>Counter</b>",
-    "Text_FR": "<b>Counter</b>"
-  },
-  {
-    "Id": "K_ARRIVAL_DESC",
-    "Text": "The ability triggers when this card enters play",
-    "Text_CN": "The ability triggers when this card enters play",
-    "Text_FR": "The ability triggers when this card enters play"
-  },
-  {
-    "Id": "K_BLOCK_DESC",
-    "Text": "Reduces by 1 the damage taken from each attack",
-    "Text_CN": "Reduces by 1 the damage taken from each attack",
-    "Text_FR": "Reduces by 1 the damage taken from each attack"
-  },
-  {
-    "Id": "K_DEFENSE_DESC",
-    "Text": "Select to give the Character the <b>Guard</b> keyword for the round",
-    "Text_CN": "Select to give the Character the <b>Guard</b> keyword for the round",
-    "Text_FR": "Select to give the Character the <b>Guard</b> keyword for the round"
-  },
-  {
-    "Id": "K_FLEETING_DESC",
-    "Text": "This card is removed at the end of the round",
-    "Text_CN": "This card is removed at the end of the round",
-    "Text_FR": "This card is removed at the end of the round"
-  },
-  {
-    "Id": "K_GUARD_DESC",
-    "Text": "When active, no other target can be engaged until that unit acts or is attacked in melee combat. Attacking or exhausting this card removes <b>Guard</b>",
-    "Text_CN": "When active, no other target can be engaged until that unit acts or is attacked in melee combat. Attacking or exhausting this card removes <b>Guard</b>",
-    "Text_FR": "When active, no other target can be engaged until that unit acts or is attacked in melee combat. Attacking or exhausting this card removes <b>Guard</b>"
-  },
-  {
-    "Id": "K_POWER_DESC",
-    "Text": "Select to activate the Character's unique ability",
-    "Text_CN": "Select to activate the Character's unique ability",
-    "Text_FR": "Select to activate the Character's unique ability"
-  },
-  {
-    "Id": "K_PURSUIT_DESC",
-    "Text": "This unit follows your Heroes from one Location to the next",
-    "Text_CN": "This unit follows your Heroes from one Location to the next",
-    "Text_FR": "This unit follows your Heroes from one Location to the next"
-  },
-  {
-    "Id": "K_RANGED_DESC",
-    "Text": "This unit ignores <b>Guard</b> when attacking",
-    "Text_CN": "This unit ignores <b>Guard</b> when attacking",
-    "Text_FR": "This unit ignores <b>Guard</b> when attacking"
-  },
-  {
-    "Id": "K_REVENGE_DESC",
-    "Text": "The ability triggers when this unit is defeated",
-    "Text_CN": "The ability triggers when this unit is defeated",
-    "Text_FR": "The ability triggers when this unit is defeated"
-  },
-  {
-    "Id": "K_STALWART_DESC",
-    "Text": "This unit does not exhaust after the first action each round",
-    "Text_CN": "This unit does not exhaust after the first action each round",
-    "Text_FR": "This unit does not exhaust after the first action each round"
-  },
-  {
-    "Id": "K_STEALTH_DESC",
-    "Text": "When active, this unit cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting an Enemy or Objective. An exhausted unit cannot have <b>Stealth</b> active",
-    "Text_CN": "When active, this unit cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting an Enemy or Objective. An exhausted unit cannot have <b>Stealth</b> active",
-    "Text_FR": "When active, this unit cannot be attacked, and ignores <b>Block</b> and <b>Guard</b> when targeting an Enemy or Objective. An exhausted unit cannot have <b>Stealth</b> active"
-  },
-  {
-    "Id": "K_SURGE_DESC",
-    "Text": "Gain an immediate action after this card is played",
-    "Text_CN": "Gain an immediate action after this card is played",
-    "Text_FR": "Gain an immediate action after this card is played"
-  },
-  {
-    "Id": "K_VANQUISH_DESC",
-    "Text": "The ability triggers upon defeating a target",
-    "Text_CN": "The ability triggers upon defeating a target",
-    "Text_FR": "The ability triggers upon defeating a target"
-  },
-  {
-    "Id": "K_AMBUSH_DESC",
-    "Text": "The attack ignores <b>Block</b> and <b>Counter</b>",
-    "Text_CN": "The attack ignores <b>Block</b> and <b>Counter</b>",
-    "Text_FR": "The attack ignores <b>Block</b> and <b>Counter</b>"
-  },
-  {
-    "Id": "K_COUNTER_DESC",
-    "Text": "This unit deals 1 damage when defending against melee attacks. (Does not apply to ranged attacks)",
-    "Text_CN": "This unit deals 1 damage when defending against melee attacks. (Does not apply to ranged attacks)",
-    "Text_FR": "This unit deals 1 damage when defending against melee attacks. (Does not apply to ranged attacks)"
   },
   {
     "Id": "Q_CAMPAIGN_DEMO_NAME",
