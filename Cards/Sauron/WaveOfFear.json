@@ -21,6 +21,7 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "<i><line-height=100%><size=200%>T</size>he endless gloom of Mirkwood seems to come alive. No match for the imagined horrors that swarm amid the shadows, your companions flee in terror!</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Micah Epstein",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -38,7 +39,7 @@
     "IconMD5": "0c54d2c0e227443a0a31ba07d280062f"
   },
   "Localization": {
-    "Title": "Wave of Fear",
+    "Title": "An Unbearable Gloom",
     "Text": "Defeat every Ally in play"
   }
 }
