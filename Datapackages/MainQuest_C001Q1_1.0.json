@@ -364,8 +364,8 @@
     ],
     "FateCardList": [
       {
-        "Id": "AidFromTheBeornings",
-        "Threshold": 6
+        "Id": "GloinRecovered",
+        "Threshold": 9
       }
     ],
     "ThreatCardList": [
@@ -384,9 +384,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180810193333166",
+  "Version": "20180810193419003",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180810193333166"
+  "InternalKey": "MainQuest_C001Q1_20180810193419003"
 }
