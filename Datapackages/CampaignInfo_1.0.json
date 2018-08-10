@@ -7893,8 +7893,11 @@
             }
           ],
           "SauronDeck": [],
-          "VictoryCount": 0,
-          "VictoryTextList": null,
+          "VictoryCount": 2,
+          "VictoryTextList": [
+            "Q_QUEST_TUTORIAL_VICTORY_TEXT_0",
+            "Q_QUEST_TUTORIAL_VICTORY_TEXT_1"
+          ],
           "FateCardList": [
             {
               "Id": "TutorialFateEvent",
