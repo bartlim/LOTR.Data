@@ -60,11 +60,13 @@
           "IntroMusic": "mus_deckmenu",
           "IntroVoiceList": [
             "OpeningMirkwood_01",
+            "",
             ""
           ],
           "IntroSpriteList": [
             "C001Q1L2_IntroSprite_1",
-            "C001Q1L2_IntroSprite_2"
+            "C001Q1L2_IntroSprite_2",
+            "C001Q1L2_IntroSprite_3"
           ],
           "SoloGameSetup": [
             "WildBear",
@@ -74,10 +76,11 @@
           ],
           "NextStageId": "C001Q1L3",
           "BGM": "mus_spookyforest",
-          "NarrativeCount": 2,
+          "NarrativeCount": 3,
           "NarrativeTextList": [
             "Q_STAGE_C001Q1L2_TEXT_0",
-            "Q_STAGE_C001Q1L2_TEXT_1"
+            "Q_STAGE_C001Q1L2_TEXT_1",
+            "Q_STAGE_C001Q1L2_TEXT_2"
           ],
           "FateCardList": [],
           "ThreatCardList": [
