@@ -21,6 +21,7 @@
     "DeathVFX": "Effect_Death3",
     "DeathSFX": "die_both_e",
     "FlavorText": "Far and wide her lesser broods, bastards of the miserable mates, her own offspring, that she slew, spread from glen to glen…\n—<i>The Two Towers</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Aurelien Hubert",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -38,7 +39,7 @@
     "IconMD5": "a6b5bf7144111622ff7709d93b8b3736"
   },
   "Localization": {
-    "Title": "Ungoliant's Brood",
+    "Title": "Brood Elder",
     "Text": "<line-height=100%>End of round: Every <b><i>Spider</b></i> \ngains +1 <size=120%><sprite=2></size>"
   }
 }
