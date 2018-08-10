@@ -47,7 +47,7 @@
         {
           "Id": "CapturedBySpiders",
           "SceneName": "Mirkwood02",
-          "IntroMusic": "mus_cave",
+          "IntroMusic": "mus_dungeon",
           "IntroVoiceList": [
             "Q1L2_CapturedBySpiders"
           ],
@@ -75,7 +75,7 @@
         {
           "Id": "StandAndFight",
           "SceneName": "Mirkwood03",
-          "IntroMusic": null,
+          "IntroMusic": "mus_deckmenu",
           "IntroVoiceList": [
             "Q1L3A_StandAndFight"
           ],
@@ -106,7 +106,7 @@
         {
           "Id": "TurnAndFlee",
           "SceneName": "Mirkwood04",
-          "IntroMusic": null,
+          "IntroMusic": "mus_cave",
           "IntroVoiceList": [
             "Q1L3B_TurnAndFlee"
           ],
@@ -136,7 +136,7 @@
         {
           "Id": "TheEnchantedStream",
           "SceneName": "EnchantedStream01",
-          "IntroMusic": "mus_cave",
+          "IntroMusic": "mus_deckmenu",
           "IntroVoiceList": [
             "Q1L4_TheEnchantedStream"
           ],
@@ -168,7 +168,7 @@
         {
           "Id": "TheEnchantedStreamAlt",
           "SceneName": "EnchantedStream01",
-          "IntroMusic": null,
+          "IntroMusic": "mus_deckmenu",
           "IntroVoiceList": [
             "Sprites/Locations/Quest1_Stage04B"
           ],
