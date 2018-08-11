@@ -1099,9 +1099,9 @@
   },
   {
     "Id": "U_INGAME_CHOOSEHERO_AVOIDSPIDER",
-    "Text": "Choose a Hero to remain free of the spiders' webs",
-    "Text_CN": "看看是哪个英雄躲过了蜘蛛网",
-    "Text_FR": "Choisissez un héros pour ne pas vous empêtrer dans les toiles d'araignée."
+    "Text": "Two of your heroes are captured by spiders! Select the hero you wish to remain in play.",
+    "Text_CN": "Two of your heroes are captured by spiders! Select the hero you wish to remain in play.",
+    "Text_FR": "Two of your heroes are captured by spiders! Select the hero you wish to remain in play."
   },
   {
     "Id": "U_INGAME_GAME_OVER",
@@ -1642,48 +1642,6 @@
     "Text": "Language",
     "Text_CN": "语言",
     "Text_FR": "Langue"
-  },
-  {
-    "Id": "U_OPTIONS_LANGUAGE_DE",
-    "Text": "Deutsch",
-    "Text_CN": "Deutsch",
-    "Text_FR": "Deutsch"
-  },
-  {
-    "Id": "U_OPTIONS_LANGUAGE_EN",
-    "Text": "English",
-    "Text_CN": "简体中文",
-    "Text_FR": "English"
-  },
-  {
-    "Id": "U_OPTIONS_LANGUAGE_ES",
-    "Text": "Español",
-    "Text_CN": "Español",
-    "Text_FR": "Español"
-  },
-  {
-    "Id": "U_OPTIONS_LANGUAGE_FR",
-    "Text": "Français",
-    "Text_CN": "Français",
-    "Text_FR": "Français"
-  },
-  {
-    "Id": "U_OPTIONS_LANGUAGE_IT",
-    "Text": "Italiano",
-    "Text_CN": "Italiano",
-    "Text_FR": "Italiano"
-  },
-  {
-    "Id": "U_OPTIONS_LANGUAGE_PT_BR",
-    "Text": "Português",
-    "Text_CN": "Português",
-    "Text_FR": "Português"
-  },
-  {
-    "Id": "U_OPTIONS_LANGUAGE_ZH_CN",
-    "Text": "简体中文",
-    "Text_CN": "简体中文",
-    "Text_FR": "简体中文"
   },
   {
     "Id": "U_OPTIONS_DISPLAY",
@@ -4158,10 +4116,16 @@
     "Text_FR": "Copying..."
   },
   {
-    "Id": "U_DECKMENU_CREATING_DECK ",
+    "Id": "U_DECKMENU_CREATING_DECK",
     "Text": "Creating deck...",
     "Text_CN": "Creating deck...",
     "Text_FR": "Creating deck..."
+  },
+  {
+    "Id": "U_BATTLE_OUT_OF_ACTION",
+    "Text": "YOU ARE OUT OF ACTIONS",
+    "Text_CN": "YOU ARE OUT OF ACTIONS",
+    "Text_FR": "YOU ARE OUT OF ACTIONS"
   },
   {
     "Id": "_PLACEHOLDER2",
