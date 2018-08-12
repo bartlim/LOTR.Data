@@ -380,11 +380,11 @@
       },
       {
         "Id": "LightTheTorches",
-        "Threshold": 6
+        "Threshold": 5
       },
       {
         "Id": "InspiringCourage",
-        "Threshold": 9
+        "Threshold": 7
       }
     ],
     "ThreatCardList": [
@@ -403,9 +403,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180812214223866",
+  "Version": "20180812214439416",
   "Key": "MainQuest",
   "SubKey": "C001Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q2_20180812214223866"
+  "InternalKey": "MainQuest_C001Q2_20180812214439416"
 }
