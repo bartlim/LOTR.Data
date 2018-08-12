@@ -357,7 +357,7 @@
         "FateCardList": [
           {
             "Id": "OvercomeDarkness",
-            "Threshold": 5
+            "Threshold": 4
           }
         ],
         "ThreatCardList": [],
@@ -403,9 +403,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180812214717433",
+  "Version": "20180812220101929",
   "Key": "MainQuest",
   "SubKey": "C001Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q2_20180812214717433"
+  "InternalKey": "MainQuest_C001Q2_20180812220101929"
 }
