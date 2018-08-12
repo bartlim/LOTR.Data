@@ -1946,7 +1946,10 @@
                 "Q_STAGE_C001Q1L1_TEXT_0",
                 "Q_STAGE_C001Q1L1_TEXT_1"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q1L1_TITLE_0",
+                "Q_STAGE_C001Q1L1_TITLE_1"
+              ],
               "FateCardList": [
                 {
                   "Id": "BilbosPack",
@@ -1992,7 +1995,11 @@
                 "Q_STAGE_C001Q1L2_TEXT_1",
                 "Q_STAGE_C001Q1L2_TEXT_2"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q1L2_TITLE_0",
+                "Q_STAGE_C001Q1L2_TITLE_1",
+                "Q_STAGE_C001Q1L2_TITLE_2"
+              ],
               "FateCardList": [],
               "ThreatCardList": [
                 {
@@ -2025,7 +2032,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q1L3_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q1L3_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
@@ -2059,7 +2068,10 @@
                 "Q_STAGE_C001Q1L4_TEXT_0",
                 "Q_STAGE_C001Q1L4_TEXT_1"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q1L4_TITLE_0",
+                "Q_STAGE_C001Q1L4_TITLE_1"
+              ],
               "FateCardList": [
                 {
                   "Id": "FateThrashingCocoon",
@@ -2238,7 +2250,7 @@
           "FateCardList": [
             {
               "Id": "TheGuiltOfDwarves",
-              "Threshold": 9
+              "Threshold": 7
             }
           ],
           "ThreatCardList": [
@@ -2286,7 +2298,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q2L1_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q2L1_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
@@ -2318,7 +2332,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q2L2_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q2L2_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
@@ -2349,7 +2365,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q2L3_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q2L3_TITLE_0"
+              ],
               "FateCardList": [
                 {
                   "Id": "RecoverYourFriend",
@@ -2390,7 +2408,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q2L4_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q2L4_TITLE_0"
+              ],
               "FateCardList": [
                 {
                   "Id": "OvercomeDarkness",
@@ -2583,11 +2603,11 @@
             },
             {
               "Id": "LightTheTorches",
-              "Threshold": 6
+              "Threshold": 5
             },
             {
               "Id": "InspiringCourage",
-              "Threshold": 9
+              "Threshold": 7
             }
           ],
           "ThreatCardList": [
@@ -2638,7 +2658,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q3L1_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q3L1_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": [],
               "ChoiceBGSprite": "C001Q3L1_ChoiceBG",
@@ -2669,7 +2691,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q3L2A_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q3L2A_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
@@ -2700,7 +2724,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q3L2B_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q3L2B_TITLE_0"
+              ],
               "FateCardList": [
                 {
                   "Id": "HurryUp",
@@ -2735,7 +2761,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q3L3A_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q3L3A_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": [
                 {
@@ -2769,7 +2797,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q3L3B_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q3L3B_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": [
                 {
@@ -2806,7 +2836,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q3L4_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q3L4_TITLE_0"
+              ],
               "FateCardList": null,
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
@@ -2838,7 +2870,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q3L5_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q3L5_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": null,
               "ChoiceBGSprite": "",
@@ -3086,11 +3120,11 @@
             },
             {
               "Id": "BoldResolve",
-              "Threshold": 6
+              "Threshold": 5
             },
             {
               "Id": "ScoutAhead",
-              "Threshold": 9
+              "Threshold": 7
             }
           ],
           "ThreatCardList": [
@@ -3137,7 +3171,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q4L1_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q4L1_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
@@ -3168,7 +3204,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q4L2_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q4L2_TITLE_0"
+              ],
               "FateCardList": [
                 {
                   "Id": "ShaftofSunlight",
@@ -3208,7 +3246,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q4L3_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q4L3_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
@@ -3436,11 +3476,11 @@
             },
             {
               "Id": "MakeAStand",
-              "Threshold": 6
+              "Threshold": 5
             },
             {
               "Id": "SecondWind",
-              "Threshold": 9
+              "Threshold": 7
             }
           ],
           "ThreatCardList": [
@@ -3488,7 +3528,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q5L1_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q5L1_TITLE_0"
+              ],
               "FateCardList": [
                 {
                   "Id": "DistractTheTroll",
@@ -3526,7 +3568,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q5L2_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q5L2_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
@@ -3558,7 +3602,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q5L3_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q5L3_TITLE_0"
+              ],
               "FateCardList": [
                 {
                   "Id": "DislodgeTheRaft",
@@ -3596,7 +3642,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C001Q5L4_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C001Q5L4_TITLE_0"
+              ],
               "FateCardList": [
                 {
                   "Id": "RapidResponse",
@@ -3789,11 +3837,11 @@
             },
             {
               "Id": "BeneficialCurrent",
-              "Threshold": 6
+              "Threshold": 5
             },
             {
               "Id": "CripplingBlow",
-              "Threshold": 9
+              "Threshold": 7
             }
           ],
           "ThreatCardList": [
