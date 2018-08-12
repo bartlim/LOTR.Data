@@ -384,11 +384,11 @@
       },
       {
         "Id": "BeneficialCurrent",
-        "Threshold": 6
+        "Threshold": 5
       },
       {
         "Id": "CripplingBlow",
-        "Threshold": 9
+        "Threshold": 7
       }
     ],
     "ThreatCardList": [
@@ -407,9 +407,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180812214637805",
+  "Version": "20180812214731695",
   "Key": "MainQuest",
   "SubKey": "C001Q5",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q5_20180812214637805"
+  "InternalKey": "MainQuest_C001Q5_20180812214731695"
 }
