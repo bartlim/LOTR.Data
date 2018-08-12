@@ -2414,7 +2414,7 @@
               "FateCardList": [
                 {
                   "Id": "OvercomeDarkness",
-                  "Threshold": 5
+                  "Threshold": 4
                 }
               ],
               "ThreatCardList": [],
@@ -3605,12 +3605,7 @@
               "NarrativeTitleList": [
                 "Q_STAGE_C001Q5L3_TITLE_0"
               ],
-              "FateCardList": [
-                {
-                  "Id": "DislodgeTheRaft",
-                  "Threshold": 7
-                }
-              ],
+              "FateCardList": [],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
               "ChoiceSpriteList": [
