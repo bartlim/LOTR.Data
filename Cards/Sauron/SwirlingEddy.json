@@ -21,6 +21,7 @@
     "DeathVFX": "Effect_Empty",
     "DeathSFX": "",
     "FlavorText": "Sam shuffled along, clutching hard, and looking down into the pale eddying water as if it was a chasm in the mountains.\n—<i>The Fellowship of the Ring</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Jose Vega",
     "Status": "Ready",
     "CardOffsetX": 0.7,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "Swirling Eddy",
-    "Text": "End of round: Until resolved, discard the top card from each player's deck"
+    "Text": "<size=92%>The current violently pulls your raft!</size>\nEnd of round: Discard the top card from each player's deck"
   }
 }
