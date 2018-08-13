@@ -2279,10 +2279,12 @@
               "SceneName": "Spiders01",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "OpeningMirkwood_01",
+                ""
               ],
               "IntroSpriteList": [
-                "Sprites/Locations/Quest1_Stage01"
+                "Sprites/Locations/Quest1_Stage01",
+                ""
               ],
               "SoloGameSetup": [
                 "CuttingThroughTheWeb",
@@ -2291,12 +2293,14 @@
               ],
               "NextStageId": "C001Q2L2",
               "BGM": "mus_cave",
-              "NarrativeCount": 1,
+              "NarrativeCount": 2,
               "NarrativeTextList": [
-                "Q_STAGE_C001Q2L1_TEXT_0"
+                "Q_STAGE_C001Q2L1_TEXT_0",
+                "Q_STAGE_C001Q2L1_TEXT_1"
               ],
               "NarrativeTitleList": [
-                "Q_STAGE_C001Q2L1_TITLE_0"
+                "Q_STAGE_C001Q2L1_TITLE_0",
+                "Q_STAGE_C001Q2L1_TITLE_1"
               ],
               "FateCardList": [],
               "ThreatCardList": [],
@@ -2332,7 +2336,12 @@
               "NarrativeTitleList": [
                 "Q_STAGE_C001Q2L2_TITLE_0"
               ],
-              "FateCardList": [],
+              "FateCardList": [
+                {
+                  "Id": "RecoverYourFriend",
+                  "Threshold": 4
+                }
+              ],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
               "ChoiceSpriteList": [
@@ -2342,49 +2351,6 @@
             },
             {
               "Id": "C001Q2L3",
-              "SceneName": "Spiders03",
-              "IntroMusic": "mus_cave",
-              "IntroVoiceList": [
-                "OpeningMirkwood_01"
-              ],
-              "IntroSpriteList": [
-                "Sprites/Locations/Quest1_Stage01"
-              ],
-              "SoloGameSetup": [
-                "OpenThePantry",
-                "GiantSpider",
-                "DolGuldurArcher",
-                "GoblinTaskmaster"
-              ],
-              "NextStageId": "C001Q2L4",
-              "BGM": "mus_cave",
-              "NarrativeCount": 1,
-              "NarrativeTextList": [
-                "Q_STAGE_C001Q2L3_TEXT_0"
-              ],
-              "NarrativeTitleList": [
-                "Q_STAGE_C001Q2L3_TITLE_0"
-              ],
-              "FateCardList": [
-                {
-                  "Id": "RecoverYourFriend",
-                  "Threshold": 8
-                }
-              ],
-              "ThreatCardList": [
-                {
-                  "Id": "WhatsThatNoise",
-                  "Threshold": 2
-                }
-              ],
-              "ChoiceBGSprite": "",
-              "ChoiceSpriteList": [
-                "",
-                ""
-              ]
-            },
-            {
-              "Id": "C001Q2L4",
               "SceneName": "Spiders04",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
@@ -2403,10 +2369,10 @@
               "BGM": "mus_cave",
               "NarrativeCount": 1,
               "NarrativeTextList": [
-                "Q_STAGE_C001Q2L4_TEXT_0"
+                "Q_STAGE_C001Q2L3_TEXT_0"
               ],
               "NarrativeTitleList": [
-                "Q_STAGE_C001Q2L4_TITLE_0"
+                "Q_STAGE_C001Q2L3_TITLE_0"
               ],
               "FateCardList": [
                 {
