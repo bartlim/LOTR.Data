@@ -21,6 +21,7 @@
     "DeathVFX": "Effect_Empty",
     "DeathSFX": "",
     "FlavorText": "It was flowing fast and noisily, as mountain-streams do of a summer evening, when sun has been all day on the snow far up above.\n—<i>The Hobbit</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "David Lecossu",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "Rapids",
-    "Text": "End of round: Until resolved, deal 2 damage to a random Character"
+    "Text": "The churning water smashes\nyou from side to side!\nEnd of round: Deal 2 damage to a random Character"
   }
 }
