@@ -1935,9 +1935,9 @@
               ],
               "SoloGameSetup": [
                 "InvestigateTheGlade",
-                "ForestSpider",
                 "SpiderGuard",
-                "ForestSpider"
+                "ForestSpider",
+                "GiantSpider"
               ],
               "NextStageId": "C001Q1L2",
               "BGM": "mus_thewilderlands",
@@ -2069,12 +2069,7 @@
               "NarrativeTitleList": [
                 "Q_STAGE_C001Q1L4_TITLE_0"
               ],
-              "FateCardList": [
-                {
-                  "Id": "FateThrashingCocoon",
-                  "Threshold": 8
-                }
-              ],
+              "FateCardList": [],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
               "ChoiceSpriteList": [
