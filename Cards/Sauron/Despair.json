@@ -21,6 +21,7 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "The black shadow stood close to the point where they had left the path, and it swayed from side to side. Frodo thought he heard the sound of snuffling. The shadow bent to the ground, and then began to crawl towards him.\n—<i>The Fellowship of the Ring</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Marc Scheff",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "Despair",
-    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=4></size> after attacking \nthis target"
+    "Text": "<line-height=100%>Gain +1 <size=120%><sprite=4></size> after attacking \nthis Enemy"
   }
 }
