@@ -21,6 +21,7 @@
     "DeathVFX": "Effect_Empty",
     "DeathSFX": "",
     "FlavorText": "\"My cuts, short or long, don't go wrong.\" \n—Strider, <i>The Fellowship of the Ring</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Ben Zweifel",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "Blocked Path",
-    "Text": "Until resolved, you cannot engage other Objectives"
+    "Text": "This obstacle is keeping you\nfrom interacting with all other Objectives"
   }
 }
