@@ -2,7 +2,7 @@
   "CardData": {
     "Id": "ElrondTutorial",
     "Owner": "Player",
-    "CardType": 0,
+    "CardType": 5,
     "ShopType": "Special",
     "Cost": 0,
     "QuestPoints": 0,
@@ -23,7 +23,7 @@
     "FlavorText": "",
     "CannotTriggerReason": "",
     "ArtistName": "",
-    "Status": "",
+    "Status": "None",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
     "CardScale": 1.0,
@@ -39,7 +39,7 @@
     "IconMD5": null
   },
   "Localization": {
-    "Title": "Elrond",
+    "Title": "‰Elrond",
     "Text": ""
   }
 }
