@@ -305,41 +305,16 @@
         "NextStageTitles": [
           "C001Q2L3"
         ],
-        "FateCardList": [],
+        "FateCardList": [
+          {
+            "Id": "RecoverYourFriend",
+            "Threshold": 4
+          }
+        ],
         "ThreatCardList": [],
         "NarrativeCount": 1,
         "NarrativeTextList": [
           "Q_STAGE_C001Q2L2_TEXT_0"
-        ]
-      },
-      {
-        "Title": "C001Q2L3",
-        "SoloGameSetup": [
-          "OpenThePantry",
-          "GiantSpider",
-          "DolGuldurArcher",
-          "GoblinTaskmaster"
-        ],
-        "CoopGameSetup": [],
-        "NextStages": [],
-        "NextStageTitles": [
-          "C001Q2L4"
-        ],
-        "FateCardList": [
-          {
-            "Id": "RecoverYourFriend",
-            "Threshold": 8
-          }
-        ],
-        "ThreatCardList": [
-          {
-            "Id": "WhatsThatNoise",
-            "Threshold": 2
-          }
-        ],
-        "NarrativeCount": 1,
-        "NarrativeTextList": [
-          "Q_STAGE_C001Q2L3_TEXT_0"
         ]
       },
       {
@@ -404,9 +379,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180813152150352",
+  "Version": "20180813153127736",
   "Key": "MainQuest",
   "SubKey": "C001Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q2_20180813152150352"
+  "InternalKey": "MainQuest_C001Q2_20180813153127736"
 }
