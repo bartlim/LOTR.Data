@@ -25,7 +25,7 @@
     "ArtistName": "J.B. Casacop",
     "Status": "WIP",
     "CardOffsetX": 1.0,
-    "CardOffsetY": 0.9,
+    "CardOffsetY": 0.85,
     "CardScale": 1.0,
     "CameoOffsetX": 1.0,
     "CameoOffsetY": 1.0,
@@ -40,6 +40,6 @@
   },
   "Localization": {
     "Title": "Free Bilbo",
-    "Text": "Cannot engage while \nan Enemy is in play. \r\nResolve to release Bilbo \nand allow travel"
+    "Text": "Poor Bilbo is held within this cell, but you cannot try to free him while any Enemies are in play. \r"
   }
 }
