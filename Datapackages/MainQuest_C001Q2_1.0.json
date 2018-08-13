@@ -318,7 +318,7 @@
         ]
       },
       {
-        "Title": "C001Q2L4",
+        "Title": "C001Q2L3",
         "SoloGameSetup": [
           "UngoliantsSpawn",
           "GiantSpider",
@@ -339,7 +339,7 @@
         "ThreatCardList": [],
         "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_C001Q2L4_TEXT_0"
+          "Q_STAGE_C001Q2L3_TEXT_0"
         ]
       }
     ],
@@ -379,9 +379,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180813153127736",
+  "Version": "20180813153732075",
   "Key": "MainQuest",
   "SubKey": "C001Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q2_20180813153127736"
+  "InternalKey": "MainQuest_C001Q2_20180813153732075"
 }
