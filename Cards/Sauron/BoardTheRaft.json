@@ -21,6 +21,7 @@
     "DeathVFX": "Effect_Door",
     "DeathSFX": "",
     "FlavorText": "The current was swift and they went forward slowly. Sam sat in the bows, clutching the sides, and looking back wistfully to the shore. \n—<i>The Fellowship of the Ring</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Ben Zweifel",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "Board the Raft",
-    "Text": "<size=95%>Cannot engage while\nHill Troll is in play.</size>\nWhen resolved, you may travel from this Location"
+    "Text": "Untie the thick rope attaching\nthe raft to the dock.\nCannot engage while the\nHill Troll is in play."
   }
 }
