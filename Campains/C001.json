@@ -370,10 +370,12 @@
           "SceneName": "Spiders01",
           "IntroMusic": "mus_cave",
           "IntroVoiceList": [
-            "OpeningMirkwood_01"
+            "OpeningMirkwood_01",
+            ""
           ],
           "IntroSpriteList": [
-            "Sprites/Locations/Quest1_Stage01"
+            "Sprites/Locations/Quest1_Stage01",
+            ""
           ],
           "SoloGameSetup": [
             "CuttingThroughTheWeb",
@@ -382,12 +384,14 @@
           ],
           "NextStageId": "C001Q2L2",
           "BGM": "mus_cave",
-          "NarrativeCount": 1,
+          "NarrativeCount": 2,
           "NarrativeTextList": [
-            "Q_STAGE_C001Q2L1_TEXT_0"
+            "Q_STAGE_C001Q2L1_TEXT_0",
+            "Q_STAGE_C001Q2L1_TEXT_1"
           ],
           "NarrativeTitleList": [
-            "Q_STAGE_C001Q2L1_TITLE_0"
+            "Q_STAGE_C001Q2L1_TITLE_0",
+            "Q_STAGE_C001Q2L1_TITLE_1"
           ],
           "FateCardList": [],
           "ThreatCardList": [],
