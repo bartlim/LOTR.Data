@@ -139,12 +139,10 @@
           "SceneName": "Spiders02",
           "IntroMusic": "mus_mapmenu",
           "IntroVoiceList": [
-            "OpeningMirkwood_01",
-            ""
+            "OpeningMirkwood_01"
           ],
           "IntroSpriteList": [
-            "C001Q1L4_IntroSprite_1",
-            "C001Q1L4_IntroSprite_2"
+            "C001Q1L4_IntroSprite_1"
           ],
           "SoloGameSetup": [
             "ThrashingCocoon",
@@ -154,14 +152,12 @@
           ],
           "NextStageId": "",
           "BGM": "mus_saurontheme",
-          "NarrativeCount": 2,
+          "NarrativeCount": 1,
           "NarrativeTextList": [
-            "Q_STAGE_C001Q1L4_TEXT_0",
-            "Q_STAGE_C001Q1L4_TEXT_1"
+            "Q_STAGE_C001Q1L4_TEXT_0"
           ],
           "NarrativeTitleList": [
-            "Q_STAGE_C001Q1L4_TITLE_0",
-            "Q_STAGE_C001Q1L4_TITLE_1"
+            "Q_STAGE_C001Q1L4_TITLE_0"
           ],
           "FateCardList": [
             {
