@@ -21,6 +21,7 @@
     "DeathVFX": "Effect_Door",
     "DeathSFX": "",
     "FlavorText": "They thought they could dimly guess a dark cloaked shape in the mist, a yard or two ahead.\n—<i>The Fellowship of the Ring</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Anthony Devine",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "The Cloaked Stranger",
-    "Text": "Resolve to rescue the cloaked stranger from the spiders' ambush!"
+    "Text": "Rescue the cloaked stranger\nfrom the spiders' ambush!"
   }
 }
