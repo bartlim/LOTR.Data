@@ -21,6 +21,7 @@
     "DeathVFX": "Effect_Door",
     "DeathSFX": "",
     "FlavorText": "And there they stand to this day, all alone, unless the birds perch on them; for trolls, as you probably know, must be underground before dawn, or they go back to the stuff of the mountains they are made of, and never move again. \n—<i>The Hobbit</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Anthony Devine",
     "Status": "Ready",
     "CardOffsetX": 1.05,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "Delay until Dawn",
-    "Text": "Resolve to hold on until \ndawn breaks and turns every <b><i>Troll</b></i> to stone!"
+    "Text": "Hold on until \ndawn breaks and turns every <b><i>Troll</b></i> to stone!"
   }
 }
