@@ -21,7 +21,7 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "\"Do what you will; but I will hinder it, if I may.\"\n—Éowyn, <i>The Return of the King</i>",
-    "CannotTriggerReason": null,
+    "CannotTriggerReason": "",
     "ArtistName": "Chris Rahn",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -40,6 +40,6 @@
   },
   "Localization": {
     "Title": "Sterner than Steel",
-    "Text": "<line-height=100%>Every Character in play gains \n+1 <size=120%><sprite=5></size> on this Quest"
+    "Text": "<line-height=100%>Every Character\nin play gains +1 <size=120%><sprite=5></size> "
   }
 }
