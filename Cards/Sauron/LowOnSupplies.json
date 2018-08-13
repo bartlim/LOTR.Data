@@ -21,6 +21,7 @@
     "DeathVFX": "Effect_Empty",
     "DeathSFX": "",
     "FlavorText": "There they sat and made such a meal as they could.\n—<i>The Return of the King</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Régis Moulun",
     "Status": "Ready",
     "CardOffsetX": 0.7,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "Low on Supplies",
-    "Text": "<line-height=100%>Until resolved, gain +1 <size=120%><sprite=4></size> \nevery time you play a card"
+    "Text": "Your reach into your pockets\nand find only crumbs.\n<line-height=100%>Gain +1 <size=120%><sprite=4></size> every time\nyou play a card"
   }
 }
