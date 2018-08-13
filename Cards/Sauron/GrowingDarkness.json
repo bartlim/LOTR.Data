@@ -21,6 +21,7 @@
     "DeathVFX": "Effect_Empty",
     "DeathSFX": "",
     "FlavorText": "The rising sun was hazy, and behind it, following it slowly up the sky, there was a growing darkness, as of a great storm moving out of the East.\n—<i>The Two Towers</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Katy Grierson",
     "Status": "Ready",
     "CardOffsetX": 0.9,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "Growing Darkness",
-    "Text": "<b>Upkeep</b>: Until resolved, \nSauron gains +1 <size=120%><sprite=3></size>"
+    "Text": "Gloom descends upon you.\n<b>Upkeep</b>: Until resolved, \nSauron gains +1 <size=120%><sprite=3></size>"
   }
 }
