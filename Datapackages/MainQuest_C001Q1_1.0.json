@@ -298,7 +298,16 @@
         "NextStageTitles": [
           "C001Q1L3"
         ],
-        "FateCardList": [],
+        "FateCardList": [
+          {
+            "Id": "UlahidMushrooms",
+            "Threshold": 2
+          },
+          {
+            "Id": "CordialOfSleep",
+            "Threshold": 4
+          }
+        ],
         "ThreatCardList": [
           {
             "Id": "UnsteadyFooting",
@@ -323,8 +332,18 @@
         "NextStageTitles": [
           "C001Q1L4"
         ],
-        "FateCardList": [],
-        "ThreatCardList": [],
+        "FateCardList": [
+          {
+            "Id": "WildHoney",
+            "Threshold": 6
+          }
+        ],
+        "ThreatCardList": [
+          {
+            "Id": "MoreToBear",
+            "Threshold": 2
+          }
+        ],
         "NarrativeCount": 1,
         "NarrativeTextList": [
           "Q_STAGE_C001Q1L3_TEXT_0"
@@ -380,9 +399,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180814194128791",
+  "Version": "20180814194428805",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180814194128791"
+  "InternalKey": "MainQuest_C001Q1_20180814194428805"
 }
