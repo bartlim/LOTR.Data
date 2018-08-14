@@ -5255,12 +5255,14 @@
                 "VeteranPatrol"
               ],
               "NextStageId": "",
-              "BGM": "mus_cave",
+              "BGM": "mus_mirkwoodstream",
               "NarrativeCount": 1,
               "NarrativeTextList": [
                 "Q_STAGE_C902Q1L1_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C902Q1L1_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": [],
               "ChoiceBGSprite": "C902Q1L1_ChoiceBG",
@@ -5294,7 +5296,11 @@
                 "Q_STAGE_C902Q1L2_TEXT_1",
                 "Q_STAGE_C902Q1L2_TEXT_2"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C902Q1L2_TITLE_0",
+                "Q_STAGE_C902Q1L2_TITLE_1",
+                "Q_STAGE_C902Q1L2_TITLE_2"
+              ],
               "FateCardList": null,
               "ThreatCardList": null,
               "ChoiceBGSprite": "C902Q1L2_ChoiceBG",
@@ -5320,7 +5326,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C902Q1L3_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C902Q1L3_TITLE_0"
+              ],
               "FateCardList": null,
               "ThreatCardList": null,
               "ChoiceBGSprite": "C902Q1L3_ChoiceBG",
@@ -5349,7 +5357,10 @@
                 "Q_STAGE_C902Q1L4_TEXT_0",
                 "Q_STAGE_C902Q1L4_TEXT_1"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C902Q1L4_TITLE_0",
+                "Q_STAGE_C902Q1L4_TITLE_1"
+              ],
               "FateCardList": null,
               "ThreatCardList": null,
               "ChoiceBGSprite": "C902Q1L4_ChoiceBG",
@@ -5443,7 +5454,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C902Q2L1_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C902Q2L1_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
@@ -5534,7 +5547,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C902Q3L1_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C902Q3L1_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
@@ -5625,7 +5640,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C902Q4L1_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C902Q4L1_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
@@ -5716,7 +5733,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_C902Q5L1_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_C902Q5L1_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
