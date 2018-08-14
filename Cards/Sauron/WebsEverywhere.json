@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "<line-height=100%><size=200%>S</size>omething is wrong. With the coming of twilight, the forest seems to shift somehow. Branches grab at you when you turn your back, and the canopies  stir as if moving to a wind that you cannot feel. The malevolent creaking of branches picks at the scab of your hidden fears, as the forest itself seems to waken from dark slumber. To your nightmare.",
+    "FlavorText": "<i><line-height=100%><size=200%>S</size>omething is wrong. With the coming of twilight, the forest seems to shift somehow. Branches grab at you when you turn your back, and the canopies stir as if moving to a wind that you cannot feel. The malevolent creaking of branches picks at the scab of your hidden fears, as the forest itself seems to waken from dark slumber.</i>",
     "CannotTriggerReason": "",
     "ArtistName": "Leanna Crossan",
     "Status": "Ready",
@@ -40,6 +40,6 @@
   },
   "Localization": {
     "Title": "Deep Roots, Rotten Hearts",
-    "Text": "Discard all of the cards in each player's deck"
+    "Text": "Discard all cards from each player's deck"
   }
 }
