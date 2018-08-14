@@ -371,10 +371,9 @@
         "Title": "C001Q3L1",
         "SoloGameSetup": [
           "PursuadingGollum",
-          "GoblinSniper",
           "BlackForestBats",
           "BlackForestBats",
-          "MirkwoodPatrol",
+          "MirkwoodFlock",
           "SpiesofShadow"
         ],
         "CoopGameSetup": [],
@@ -561,9 +560,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180814215302772",
+  "Version": "20180814215353172",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180814215302772"
+  "InternalKey": "MainQuest_C001Q3_20180814215353172"
 }
