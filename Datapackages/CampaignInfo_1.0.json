@@ -2000,7 +2000,16 @@
                 "Q_STAGE_C001Q1L2_TITLE_1",
                 "Q_STAGE_C001Q1L2_TITLE_2"
               ],
-              "FateCardList": [],
+              "FateCardList": [
+                {
+                  "Id": "UlahidMushrooms",
+                  "Threshold": 2
+                },
+                {
+                  "Id": "CordialOfSleep",
+                  "Threshold": 4
+                }
+              ],
               "ThreatCardList": [
                 {
                   "Id": "UnsteadyFooting",
@@ -2036,8 +2045,18 @@
               "NarrativeTitleList": [
                 "Q_STAGE_C001Q1L3_TITLE_0"
               ],
-              "FateCardList": [],
-              "ThreatCardList": [],
+              "FateCardList": [
+                {
+                  "Id": "WildHoney",
+                  "Threshold": 6
+                }
+              ],
+              "ThreatCardList": [
+                {
+                  "Id": "MoreToBear",
+                  "Threshold": 2
+                }
+              ],
               "ChoiceBGSprite": "",
               "ChoiceSpriteList": [
                 "",
