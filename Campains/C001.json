@@ -423,7 +423,7 @@
             "OpeningMirkwood_01"
           ],
           "IntroSpriteList": [
-            "Sprites/Locations/Quest1_Stage01"
+            "C001Q2L2_IntroSprite_1"
           ],
           "SoloGameSetup": [
             "ForestSpider",
@@ -433,7 +433,7 @@
             "Cocoon"
           ],
           "NextStageId": "C001Q2L4",
-          "BGM": "mus_cave",
+          "BGM": "mus_orcmarch",
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q2L2_TEXT_0"
