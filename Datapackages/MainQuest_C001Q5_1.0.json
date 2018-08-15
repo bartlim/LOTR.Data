@@ -310,8 +310,18 @@
         "NextStageTitles": [
           "C001Q5L3"
         ],
-        "FateCardList": [],
-        "ThreatCardList": [],
+        "FateCardList": [
+          {
+            "Id": "BeneficialCurrent",
+            "Threshold": 4
+          }
+        ],
+        "ThreatCardList": [
+          {
+            "Id": "ForcedOffCourse",
+            "Threshold": 2
+          }
+        ],
         "NarrativeCount": 1,
         "NarrativeTextList": [
           "Q_STAGE_C001Q5L2_TEXT_0"
@@ -402,9 +412,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180815231003086",
+  "Version": "20180815231155457",
   "Key": "MainQuest",
   "SubKey": "C001Q5",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q5_20180815231003086"
+  "InternalKey": "MainQuest_C001Q5_20180815231155457"
 }
