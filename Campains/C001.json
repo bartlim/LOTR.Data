@@ -382,14 +382,14 @@
         {
           "Id": "C001Q2L1",
           "SceneName": "Spiders01",
-          "IntroMusic": "mus_cave",
+          "IntroMusic": "mus_spookyforest",
           "IntroVoiceList": [
             "OpeningMirkwood_01",
             ""
           ],
           "IntroSpriteList": [
             "C001Q2L1_IntroSprite_1",
-            ""
+            "C001Q2L1_IntroSprite_2"
           ],
           "SoloGameSetup": [
             "SpiderLt1",
