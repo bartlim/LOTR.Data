@@ -402,7 +402,12 @@
         "NextStageTitles": [
           "C001Q3L3A"
         ],
-        "FateCardList": [],
+        "FateCardList": [
+          {
+            "Id": "StrikeFear",
+            "Threshold": 8
+          }
+        ],
         "ThreatCardList": [],
         "NarrativeCount": 1,
         "NarrativeTextList": [
@@ -422,12 +427,7 @@
         "NextStageTitles": [
           "C001Q3L3B"
         ],
-        "FateCardList": [
-          {
-            "Id": "HurryUp",
-            "Threshold": 4
-          }
-        ],
+        "FateCardList": [],
         "ThreatCardList": [],
         "NarrativeCount": 1,
         "NarrativeTextList": [
@@ -446,7 +446,12 @@
         "NextStageTitles": [
           "C001Q3L4"
         ],
-        "FateCardList": [],
+        "FateCardList": [
+          {
+            "Id": "DistractionFate",
+            "Threshold": 4
+          }
+        ],
         "ThreatCardList": [
           {
             "Id": "TorchesFromTheTower",
@@ -469,7 +474,12 @@
         "NextStageTitles": [
           "C001Q3L4"
         ],
-        "FateCardList": [],
+        "FateCardList": [
+          {
+            "Id": "FightItWithFlame",
+            "Threshold": 4
+          }
+        ],
         "ThreatCardList": [
           {
             "Id": "StuckInTheMud",
@@ -495,7 +505,12 @@
         "NextStageTitles": [
           "C001Q3L5"
         ],
-        "FateCardList": null,
+        "FateCardList": [
+          {
+            "Id": "SlipIntoShadow",
+            "Threshold": 6
+          }
+        ],
         "ThreatCardList": [],
         "NarrativeCount": 1,
         "NarrativeTextList": [
@@ -516,7 +531,12 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": [],
+        "FateCardList": [
+          {
+            "Id": "WheelsWithinWheels",
+            "Threshold": 2
+          }
+        ],
         "ThreatCardList": null,
         "NarrativeCount": 1,
         "NarrativeTextList": [
@@ -554,15 +574,15 @@
         "Threshold": 2
       },
       {
-        "Id": "BeyondWeary",
+        "Id": "Tantrum",
         "Threshold": 3
       }
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180815224512891",
+  "Version": "20180815225006835",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180815224512891"
+  "InternalKey": "MainQuest_C001Q3_20180815225006835"
 }
