@@ -366,7 +366,12 @@
         "NextStageTitles": [
           "C001Q4L3"
         ],
-        "FateCardList": [],
+        "FateCardList": [
+          {
+            "Id": "ForgottenPassage",
+            "Threshold": 2
+          }
+        ],
         "ThreatCardList": [
           {
             "Id": "TheOrcCommander",
@@ -390,7 +395,12 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": [],
+        "FateCardList": [
+          {
+            "Id": "FreeThePrisoner",
+            "Threshold": 4
+          }
+        ],
         "ThreatCardList": [],
         "NarrativeCount": 1,
         "NarrativeTextList": [
@@ -434,9 +444,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180815225444068",
+  "Version": "20180815225807203",
   "Key": "MainQuest",
   "SubKey": "C001Q4",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q4_20180815225444068"
+  "InternalKey": "MainQuest_C001Q4_20180815225807203"
 }
