@@ -536,11 +536,11 @@
         "Threshold": 3
       },
       {
-        "Id": "BoldResolve",
+        "Id": "OrcBlades",
         "Threshold": 5
       },
       {
-        "Id": "ScoutAhead",
+        "Id": "TheHighGround",
         "Threshold": 7
       }
     ],
@@ -560,9 +560,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180815223657555",
+  "Version": "20180815224512891",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180815223657555"
+  "InternalKey": "MainQuest_C001Q3_20180815224512891"
 }
