@@ -21,6 +21,7 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "He saw his friends’ faces more clearly again, and a measure of new hope and strength returned.\r\n—<i>The Fellowship of the Ring</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "",
     "Status": "WIP",
     "CardOffsetX": 1.0,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "A Light from Within",
-    "Text": "<line-height=100%>Every Ally gains +1 <size=120%><sprite=5></size> \nthis round"
+    "Text": "<line-height=100%>Every Ally gains +1 <size=120%><sprite=5></size> "
   }
 }
