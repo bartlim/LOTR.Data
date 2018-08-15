@@ -462,7 +462,7 @@
             "OpeningMirkwood_01"
           ],
           "IntroSpriteList": [
-            "Sprites/Locations/Quest1_Stage01"
+            "C001Q2L4_IntroSprite_1"
           ],
           "SoloGameSetup": [
             "UngoliantsSpawn",
@@ -471,7 +471,7 @@
             "ForestSpider"
           ],
           "NextStageId": "",
-          "BGM": "mus_cave",
+          "BGM": "mus_saurontheme",
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q2L4_TEXT_0"
