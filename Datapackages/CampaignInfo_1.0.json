@@ -2684,7 +2684,12 @@
               "NarrativeTitleList": [
                 "Q_STAGE_C001Q3L2A_TITLE_0"
               ],
-              "FateCardList": [],
+              "FateCardList": [
+                {
+                  "Id": "StrikeFear",
+                  "Threshold": 8
+                }
+              ],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
               "ChoiceSpriteList": [
@@ -2717,12 +2722,7 @@
               "NarrativeTitleList": [
                 "Q_STAGE_C001Q3L2B_TITLE_0"
               ],
-              "FateCardList": [
-                {
-                  "Id": "HurryUp",
-                  "Threshold": 4
-                }
-              ],
+              "FateCardList": [],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
               "ChoiceSpriteList": [
@@ -2754,7 +2754,12 @@
               "NarrativeTitleList": [
                 "Q_STAGE_C001Q3L3A_TITLE_0"
               ],
-              "FateCardList": [],
+              "FateCardList": [
+                {
+                  "Id": "DistractionFate",
+                  "Threshold": 4
+                }
+              ],
               "ThreatCardList": [
                 {
                   "Id": "TorchesFromTheTower",
@@ -2790,7 +2795,12 @@
               "NarrativeTitleList": [
                 "Q_STAGE_C001Q3L3B_TITLE_0"
               ],
-              "FateCardList": [],
+              "FateCardList": [
+                {
+                  "Id": "FightItWithFlame",
+                  "Threshold": 4
+                }
+              ],
               "ThreatCardList": [
                 {
                   "Id": "StuckInTheMud",
@@ -2829,8 +2839,18 @@
               "NarrativeTitleList": [
                 "Q_STAGE_C001Q3L4_TITLE_0"
               ],
-              "FateCardList": null,
-              "ThreatCardList": [],
+              "FateCardList": [
+                {
+                  "Id": "SlipIntoShadow",
+                  "Threshold": 6
+                }
+              ],
+              "ThreatCardList": [
+                {
+                  "Id": "OrcScouts",
+                  "Threshold": 2
+                }
+              ],
               "ChoiceBGSprite": "",
               "ChoiceSpriteList": [
                 "",
@@ -2863,8 +2883,18 @@
               "NarrativeTitleList": [
                 "Q_STAGE_C001Q3L5_TITLE_0"
               ],
-              "FateCardList": [],
-              "ThreatCardList": null,
+              "FateCardList": [
+                {
+                  "Id": "WheelsWithinWheels",
+                  "Threshold": 2
+                }
+              ],
+              "ThreatCardList": [
+                {
+                  "Id": "StupidsThing",
+                  "Threshold": 2
+                }
+              ],
               "ChoiceBGSprite": "",
               "ChoiceSpriteList": [
                 "",
@@ -3109,11 +3139,11 @@
               "Threshold": 3
             },
             {
-              "Id": "BoldResolve",
+              "Id": "OrcBlades",
               "Threshold": 5
             },
             {
-              "Id": "ScoutAhead",
+              "Id": "TheHighGround",
               "Threshold": 7
             }
           ],
@@ -3127,7 +3157,7 @@
               "Threshold": 2
             },
             {
-              "Id": "BeyondWeary",
+              "Id": "Tantrum",
               "Threshold": 3
             }
           ],
@@ -3197,7 +3227,12 @@
               "NarrativeTitleList": [
                 "Q_STAGE_C001Q4L2_TITLE_0"
               ],
-              "FateCardList": [],
+              "FateCardList": [
+                {
+                  "Id": "ForgottenPassage",
+                  "Threshold": 2
+                }
+              ],
               "ThreatCardList": [
                 {
                   "Id": "TheOrcCommander",
@@ -3234,7 +3269,12 @@
               "NarrativeTitleList": [
                 "Q_STAGE_C001Q4L3_TITLE_0"
               ],
-              "FateCardList": [],
+              "FateCardList": [
+                {
+                  "Id": "FreeThePrisoner",
+                  "Threshold": 4
+                }
+              ],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
               "ChoiceSpriteList": [
