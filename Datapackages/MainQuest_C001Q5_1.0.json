@@ -378,7 +378,7 @@
         "Threshold": 3
       },
       {
-        "Id": "BeneficialCurrent",
+        "Id": "GraceOfLorien",
         "Threshold": 5
       },
       {
@@ -392,7 +392,7 @@
         "Threshold": 1
       },
       {
-        "Id": "ForcedOffCourse",
+        "Id": "BilbosBane",
         "Threshold": 2
       },
       {
@@ -402,9 +402,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180815225812135",
+  "Version": "20180815231003086",
   "Key": "MainQuest",
   "SubKey": "C001Q5",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q5_20180815225812135"
+  "InternalKey": "MainQuest_C001Q5_20180815231003086"
 }
