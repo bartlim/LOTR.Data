@@ -355,7 +355,7 @@
         "Threshold": 3
       },
       {
-        "Id": "LightTheTorches",
+        "Id": "SoftUnderbelly",
         "Threshold": 5
       },
       {
@@ -379,9 +379,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180815222914180",
+  "Version": "20180815223520426",
   "Key": "MainQuest",
   "SubKey": "C001Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q2_20180815222914180"
+  "InternalKey": "MainQuest_C001Q2_20180815223520426"
 }
