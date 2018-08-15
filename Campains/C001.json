@@ -775,7 +775,12 @@
           "NarrativeTitleList": [
             "Q_STAGE_C001Q3L2A_TITLE_0"
           ],
-          "FateCardList": [],
+          "FateCardList": [
+            {
+              "Id": "StrikeFear",
+              "Threshold": 8
+            }
+          ],
           "ThreatCardList": [],
           "ChoiceBGSprite": "",
           "ChoiceSpriteList": [
@@ -808,12 +813,7 @@
           "NarrativeTitleList": [
             "Q_STAGE_C001Q3L2B_TITLE_0"
           ],
-          "FateCardList": [
-            {
-              "Id": "HurryUp",
-              "Threshold": 4
-            }
-          ],
+          "FateCardList": [],
           "ThreatCardList": [],
           "ChoiceBGSprite": "",
           "ChoiceSpriteList": [
@@ -845,7 +845,12 @@
           "NarrativeTitleList": [
             "Q_STAGE_C001Q3L3A_TITLE_0"
           ],
-          "FateCardList": [],
+          "FateCardList": [
+            {
+              "Id": "DistractionFate",
+              "Threshold": 4
+            }
+          ],
           "ThreatCardList": [
             {
               "Id": "TorchesFromTheTower",
@@ -881,7 +886,12 @@
           "NarrativeTitleList": [
             "Q_STAGE_C001Q3L3B_TITLE_0"
           ],
-          "FateCardList": [],
+          "FateCardList": [
+            {
+              "Id": "FightItWithFlame",
+              "Threshold": 4
+            }
+          ],
           "ThreatCardList": [
             {
               "Id": "StuckInTheMud",
@@ -920,7 +930,12 @@
           "NarrativeTitleList": [
             "Q_STAGE_C001Q3L4_TITLE_0"
           ],
-          "FateCardList": null,
+          "FateCardList": [
+            {
+              "Id": "SlipIntoShadow",
+              "Threshold": 6
+            }
+          ],
           "ThreatCardList": [],
           "ChoiceBGSprite": "",
           "ChoiceSpriteList": [
@@ -954,7 +969,12 @@
           "NarrativeTitleList": [
             "Q_STAGE_C001Q3L5_TITLE_0"
           ],
-          "FateCardList": [],
+          "FateCardList": [
+            {
+              "Id": "WheelsWithinWheels",
+              "Threshold": 2
+            }
+          ],
           "ThreatCardList": null,
           "ChoiceBGSprite": "",
           "ChoiceSpriteList": [
@@ -1218,7 +1238,7 @@
           "Threshold": 2
         },
         {
-          "Id": "BeyondWeary",
+          "Id": "Tantrum",
           "Threshold": 3
         }
       ],
