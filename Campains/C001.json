@@ -451,7 +451,12 @@
               "Threshold": 4
             }
           ],
-          "ThreatCardList": [],
+          "ThreatCardList": [
+            {
+              "Id": "UnholyUnion",
+              "Threshold": 2
+            }
+          ],
           "ChoiceBGSprite": "",
           "ChoiceSpriteList": [
             "",
@@ -489,7 +494,12 @@
               "Threshold": 4
             }
           ],
-          "ThreatCardList": [],
+          "ThreatCardList": [
+            {
+              "Id": "TheSpidersLairThreat",
+              "Threshold": 2
+            }
+          ],
           "ChoiceBGSprite": "",
           "ChoiceSpriteList": [
             "",
