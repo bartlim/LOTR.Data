@@ -2371,7 +2371,7 @@
                 "OpeningMirkwood_01"
               ],
               "IntroSpriteList": [
-                "Sprites/Locations/Quest1_Stage01"
+                "C001Q2L4_IntroSprite_1"
               ],
               "SoloGameSetup": [
                 "UngoliantsSpawn",
@@ -2380,7 +2380,7 @@
                 "ForestSpider"
               ],
               "NextStageId": "",
-              "BGM": "mus_cave",
+              "BGM": "mus_saurontheme",
               "NarrativeCount": 1,
               "NarrativeTextList": [
                 "Q_STAGE_C001Q2L4_TEXT_0"
@@ -2648,12 +2648,12 @@
             {
               "Id": "C001Q3L2A",
               "SceneName": "ForestStream01",
-              "IntroMusic": "mus_cave",
+              "IntroMusic": "mus_stream",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
               ],
               "IntroSpriteList": [
-                "Sprites/Locations/Quest1_Stage01"
+                "C001Q3L2A_IntroSprite_1"
               ],
               "SoloGameSetup": [
                 "GoblinTaskmaster",
@@ -2662,7 +2662,7 @@
                 "EastBightPatrol"
               ],
               "NextStageId": "C001Q3L3A",
-              "BGM": "mus_cave",
+              "BGM": "mus_thewilderlands",
               "NarrativeCount": 1,
               "NarrativeTextList": [
                 "Q_STAGE_C001Q3L2A_TEXT_0"
@@ -2681,12 +2681,12 @@
             {
               "Id": "C001Q3L2B",
               "SceneName": "DarkForest01",
-              "IntroMusic": "mus_cave",
+              "IntroMusic": "mus_stream",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
               ],
               "IntroSpriteList": [
-                "Sprites/Locations/Quest1_Stage01"
+                "C001Q3L2B_IntroSprite_1"
               ],
               "SoloGameSetup": [
                 "FindYourWay",
@@ -2695,7 +2695,7 @@
                 "SpiderGuard"
               ],
               "NextStageId": "C001Q3L3B",
-              "BGM": "mus_cave",
+              "BGM": "mus_spookyforest",
               "NarrativeCount": 1,
               "NarrativeTextList": [
                 "Q_STAGE_C001Q3L2B_TEXT_0"
