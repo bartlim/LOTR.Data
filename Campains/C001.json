@@ -917,12 +917,12 @@
         {
           "Id": "C001Q3L5",
           "SceneName": "Dungeon01",
-          "IntroMusic": "mus_cave",
+          "IntroMusic": "mus_mapmenu",
           "IntroVoiceList": [
             "OpeningMirkwood_01"
           ],
           "IntroSpriteList": [
-            "Sprites/Locations/Quest1_Stage01"
+            "C001Q3L5_IntroSprite_1"
           ],
           "SoloGameSetup": [
             "StrangeMechanism",
@@ -932,7 +932,7 @@
             "UnderTheWatchfulEye"
           ],
           "NextStageId": "",
-          "BGM": "mus_cave",
+          "BGM": "mus_dungeon",
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q3L5_TEXT_0"
