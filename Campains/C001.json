@@ -739,7 +739,7 @@
         {
           "Id": "C001Q3L2A",
           "SceneName": "ForestStream01",
-          "IntroMusic": "mus_stream",
+          "IntroMusic": "mus_thewilderlands",
           "IntroVoiceList": [
             "OpeningMirkwood_01"
           ],
@@ -753,7 +753,7 @@
             "EastBightPatrol"
           ],
           "NextStageId": "C001Q3L3A",
-          "BGM": "mus_thewilderlands",
+          "BGM": "mus_orcmarch",
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q3L2A_TEXT_0"
