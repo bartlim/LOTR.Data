@@ -810,12 +810,12 @@
         {
           "Id": "C001Q3L3A",
           "SceneName": "DarkForest03",
-          "IntroMusic": "mus_cave",
+          "IntroMusic": "mus_orcmarch",
           "IntroVoiceList": [
             "OpeningMirkwood_01"
           ],
           "IntroSpriteList": [
-            "Sprites/Locations/Quest1_Stage01"
+            "C001Q3L3A_IntroSprite_1"
           ],
           "SoloGameSetup": [
             "RescueGollum",
@@ -823,7 +823,7 @@
             "VeteranPatrol"
           ],
           "NextStageId": "C001Q3L4",
-          "BGM": "mus_cave",
+          "BGM": "mus_mountain",
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q3L3A_TEXT_0"
