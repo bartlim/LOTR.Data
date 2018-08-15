@@ -1687,8 +1687,18 @@
           "NarrativeTitleList": [
             "Q_STAGE_C001Q5L2_TITLE_0"
           ],
-          "FateCardList": [],
-          "ThreatCardList": [],
+          "FateCardList": [
+            {
+              "Id": "BeneficialCurrent",
+              "Threshold": 4
+            }
+          ],
+          "ThreatCardList": [
+            {
+              "Id": "ForcedOffCourse",
+              "Threshold": 2
+            }
+          ],
           "ChoiceBGSprite": "",
           "ChoiceSpriteList": [
             "",
