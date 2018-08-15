@@ -936,7 +936,12 @@
               "Threshold": 6
             }
           ],
-          "ThreatCardList": [],
+          "ThreatCardList": [
+            {
+              "Id": "OrcScouts",
+              "Threshold": 2
+            }
+          ],
           "ChoiceBGSprite": "",
           "ChoiceSpriteList": [
             "",
@@ -975,7 +980,12 @@
               "Threshold": 2
             }
           ],
-          "ThreatCardList": null,
+          "ThreatCardList": [
+            {
+              "Id": "StupidsThing",
+              "Threshold": 2
+            }
+          ],
           "ChoiceBGSprite": "",
           "ChoiceSpriteList": [
             "",
