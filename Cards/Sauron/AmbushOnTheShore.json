@@ -21,6 +21,7 @@
     "DeathVFX": "Effect_Door",
     "DeathSFX": "",
     "FlavorText": "There seemed no chance of reaching the Ford before he was cut off by the others that had lain in ambush. \n—<i>The Fellowship of the Ring</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "David A. Nash",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +40,6 @@
   },
   "Localization": {
     "Title": "Ambush on the Shore",
-    "Text": "<size=95%>Cannot engage with\na non-<b>Stealth</b> Enemy in play.</size>\n<line-height=100%><b>Upkeep</b>: Until resolved, Sauron gains +1 <size=120%><sprite=3></size> per player"
+    "Text": "Cannot engage with a \nnon-<b>Stealth</b> Enemy in play.\n<line-height=100%><b>Upkeep</b>: Sauron gains +1 <size=120%><sprite=3></size> per player"
   }
 }
