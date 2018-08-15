@@ -883,12 +883,12 @@
         {
           "Id": "C001Q3L4",
           "SceneName": "Ruins01",
-          "IntroMusic": "mus_cave",
+          "IntroMusic": "mus_orcmarch",
           "IntroVoiceList": [
             "OpeningMirkwood_01"
           ],
           "IntroSpriteList": [
-            "Sprites/Locations/Quest1_Stage01"
+            "C001Q3L4_IntroSprite_1"
           ],
           "SoloGameSetup": [
             "PickpocketTheKey",
@@ -898,7 +898,7 @@
             "MirkwoodPatrol"
           ],
           "NextStageId": "C001Q3L5",
-          "BGM": "mus_cave",
+          "BGM": "mus_mountain",
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q3L4_TEXT_0"
