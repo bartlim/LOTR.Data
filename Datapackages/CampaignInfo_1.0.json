@@ -2614,7 +2614,7 @@
             {
               "Id": "C001Q3L1",
               "SceneName": "Mirkwood03",
-              "IntroMusic": "mus_cave",
+              "IntroMusic": "mus_thewilderlands",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
               ],
@@ -2629,7 +2629,7 @@
                 "SpiesofShadow"
               ],
               "NextStageId": "C001Q3L2A,C001Q3L2B",
-              "BGM": "mus_cave",
+              "BGM": "mus_spookyforest",
               "NarrativeCount": 1,
               "NarrativeTextList": [
                 "Q_STAGE_C001Q3L1_TEXT_0"
