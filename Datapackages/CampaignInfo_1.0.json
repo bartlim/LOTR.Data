@@ -2756,19 +2756,19 @@
             {
               "Id": "C001Q3L3B",
               "SceneName": "MirkwoodSwamp01",
-              "IntroMusic": "mus_cave",
+              "IntroMusic": "mus_spookyforest",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
               ],
               "IntroSpriteList": [
-                "Sprites/Locations/Quest1_Stage01"
+                "C001Q3L3B_IntroSprite_1"
               ],
               "SoloGameSetup": [
                 "MarshAdder",
                 "MuckAdder"
               ],
               "NextStageId": "C001Q3L4",
-              "BGM": "mus_cave",
+              "BGM": "mus_stream",
               "NarrativeCount": 1,
               "NarrativeTextList": [
                 "Q_STAGE_C001Q3L3B_TEXT_0"
