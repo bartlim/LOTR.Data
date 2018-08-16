@@ -1356,7 +1356,7 @@
             "OpeningMirkwood_01"
           ],
           "IntroSpriteList": [
-            "Sprites/Locations/Quest1_Stage01"
+            "C001Q4L3_IntroSprite_1"
           ],
           "SoloGameSetup": [
             "FreeBilbo",
@@ -1364,7 +1364,7 @@
             "GollumEnemy"
           ],
           "NextStageId": "",
-          "BGM": "mus_dungeon",
+          "BGM": "mus_saurontheme",
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q4L3_TEXT_0"
