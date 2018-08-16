@@ -20,9 +20,9 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "<line-height=100%><size=200%>T</size>hough deep in the lair of the enemy, you continue to defy the odds—you survive despite the many dangers you've faced thus far. Pausing but a moment to catch your breath, you forge onward with renewed vigor.",
+    "FlavorText": "<i><line-height=100%><size=200%>Y</size>ou find a flask of dark liquid sitting on a rickety old table. It smells terrible, but your companion recognizes it as orcish medicine. You pour the burning liquid down your throat and feel a hot fierce glow flow through your body. Your pain vanishes, and you pray that there will be no ill effects.</i>",
     "CannotTriggerReason": "",
-    "ArtistName": "",
+    "ArtistName": "Claudio Pozas",
     "Status": "Ready",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
@@ -39,7 +39,7 @@
     "IconMD5": "7a0088531a0ea14962a506a0763a9fe8"
   },
   "Localization": {
-    "Title": "Second Wind",
+    "Title": "Orcish Medicine",
     "Text": "Restore a Hero to full <size=120%><sprite=2></size>"
   }
 }
