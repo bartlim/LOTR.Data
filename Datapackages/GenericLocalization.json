@@ -14299,7 +14299,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q4L2_NAME",
-    "Text": "Into The Dungeon"
+    "Text": "IntoTheDungeon"
   },
   {
     "Id": "Q_STAGE_C001Q4L2_TEXT",
@@ -15883,7 +15883,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q4L2_TEXT_0",
-    "Text": "<i><size=58>O</size>ur heroes have escapes the Pit and make their way into the heart of the Tower, but Chieftain Ufthak learns of their intrusion and the defeat of his pet. He orders full mobilization of his forces, the intruders must not escape...</i>"
+    "Text": "Meanwhile…\r\n\r\nA tall figure awaits Ufthak in the tower’s main hall, wearing cold-hammered black armor. A black cowl shadows his features but for an unnatural glint in his grey eyes.\r\n\r\nUfthak purposefully strides into the hall to stand glowering before the black-clad figure. Damned if he’ll show the fear he feels. The Mouth of Dol Guldur is not fooled and smiles cruelly at the orc’s expense.\r\n\r\n“Message from Cold Ones?” Ufthak snarls, discomforted by the unnatural chill emanating from Dol Guldur’s favored messenger.\r\n\r\n“I’ve ridden without halt, so I shall be precise” replies a voice like frozen stone. “I’m to inform you, that the masters need the promised slaves with haste. The last batch... expired... faster than anticipated.”\r\n\r\n“New prisoners all here, Mouth” Ufthak grunts. “My warriors provision first, leave for Black Hill at next dark”.\r\n\r\nAt that moment the tower rumbles and jolts, as if a great fist had struck its foundations. \r"
   },
   {
     "Id": "Q_STAGE_C001Q4L3_TEXT_0",
@@ -17511,7 +17511,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q4L2_TITLE_0",
-    "Text": "Default Title 1"
+    "Text": "Message From The Cold Ones"
   },
   {
     "Id": "Q_STAGE_C001Q4L3_TITLE_0",
@@ -18072,5 +18072,13 @@
   {
     "Id": "Q_STAGE_C001Q4L1_TITLE_2",
     "Text": "The Pit"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L2_TEXT_1",
+    "Text": "The enormous slug falls and the walls tremble, sousing the air with an avalanche of grime. \r\n\r\nBehind a patch of bogland ivy, you discover a narrow staircase and commence to climb the moldy steps at once. While ascending, a clamor can be heard in the tower above. Harsh yells, clanging of doors, and the bellows of a great orc. The enemy is scouring the tower for you! How will you ever get out?\r\n\r\nThe stairs emerge into a derelict alcove, overgrown with cobwebs and moss. It faces a great room, finely decorated of old, but now ruined and forgotten. As the racket of the enemy grows closer, you’ve no doubt that he’ll soon be upon you. \r\n\r\nSpeed may be your only hope. You rush towards a set of oaken doors on the far wall, when disaster strikes: as you emerge from the alcove, a troop of orcs slog into the room. They roar in excitement and draw their weapons. More enemies arrive.\r\n\r\nYou are surrounded!\r"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L2_TITLE_1",
+    "Text": "Surrounded"
   }
 ]
