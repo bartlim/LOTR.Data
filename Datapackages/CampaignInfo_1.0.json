@@ -3174,12 +3174,16 @@
             {
               "Id": "C001Q4L1",
               "SceneName": "GoblinTunnel01",
-              "IntroMusic": "mus_cave",
+              "IntroMusic": "mus_dungeon",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "OpeningMirkwood_01",
+                "",
+                ""
               ],
               "IntroSpriteList": [
-                "Sprites/Locations/Quest1_Stage01"
+                "C001Q4L1_IntroSprite_1",
+                "C001Q4L1_IntroSprite_2",
+                "C001Q4L1_IntroSprite_3"
               ],
               "SoloGameSetup": [
                 "GiantMarshWorm",
@@ -3187,12 +3191,16 @@
               ],
               "NextStageId": "C001Q4L2",
               "BGM": "mus_cave",
-              "NarrativeCount": 1,
+              "NarrativeCount": 3,
               "NarrativeTextList": [
-                "Q_STAGE_C001Q4L1_TEXT_0"
+                "Q_STAGE_C001Q4L1_TEXT_0",
+                "Q_STAGE_C001Q4L1_TEXT_1",
+                "Q_STAGE_C001Q4L1_TEXT_2"
               ],
               "NarrativeTitleList": [
-                "Q_STAGE_C001Q4L1_TITLE_0"
+                "Q_STAGE_C001Q4L1_TITLE_0",
+                "Q_STAGE_C001Q4L1_TITLE_1",
+                "Q_STAGE_C001Q4L1_TITLE_2"
               ],
               "FateCardList": [],
               "ThreatCardList": [],
