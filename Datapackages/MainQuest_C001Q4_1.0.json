@@ -380,9 +380,10 @@
             "Threshold": 2
           }
         ],
-        "NarrativeCount": 1,
+        "NarrativeCount": 2,
         "NarrativeTextList": [
-          "Q_STAGE_C001Q4L2_TEXT_0"
+          "Q_STAGE_C001Q4L2_TEXT_0",
+          "Q_STAGE_C001Q4L2_TEXT_1"
         ]
       },
       {
@@ -446,9 +447,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180816232808745",
+  "Version": "20180816234230168",
   "Key": "MainQuest",
   "SubKey": "C001Q4",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q4_20180816232808745"
+  "InternalKey": "MainQuest_C001Q4_20180816234230168"
 }
