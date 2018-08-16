@@ -3215,10 +3215,12 @@
               "SceneName": "Hall02",
               "IntroMusic": "mus_dungeon",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "OpeningMirkwood_01",
+                ""
               ],
               "IntroSpriteList": [
-                "Sprites/Locations/Quest1_Stage01"
+                "C001Q4L2_IntroSprite_1",
+                "C001Q4L2_IntroSprite_2"
               ],
               "SoloGameSetup": [
                 "IntrudersInTheTower",
@@ -3227,13 +3229,15 @@
                 "GoblinPursuer"
               ],
               "NextStageId": "C001Q4L3",
-              "BGM": "mus_dungeon",
-              "NarrativeCount": 1,
+              "BGM": "mus_mountain",
+              "NarrativeCount": 2,
               "NarrativeTextList": [
-                "Q_STAGE_C001Q4L2_TEXT_0"
+                "Q_STAGE_C001Q4L2_TEXT_0",
+                "Q_STAGE_C001Q4L2_TEXT_1"
               ],
               "NarrativeTitleList": [
-                "Q_STAGE_C001Q4L2_TITLE_0"
+                "Q_STAGE_C001Q4L2_TITLE_0",
+                "Q_STAGE_C001Q4L2_TITLE_1"
               ],
               "FateCardList": [
                 {
