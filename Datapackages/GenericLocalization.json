@@ -12,6 +12,12 @@
     "Text_FR": "Le Seigneur des Anneaux™, jeu de carte évolutif™"
   },
   {
+    "Id": "U_MENU_COMMON_APPLYING",
+    "Text": "Applying...",
+    "Text_CN": "Applying...",
+    "Text_FR": "Applying..."
+  },
+  {
     "Id": "U_MENU_COMMON_LOADING",
     "Text": "Loading…",
     "Text_CN": "加载中…",
@@ -60,10 +66,40 @@
     "Text_FR": "CONFIRMER"
   },
   {
+    "Id": "U_ERROR_MSG_LUA",
+    "Text": "An error has occurred. Please check the error log and report it to developers.",
+    "Text_CN": "An error has occurred. Please check the error log and report it to developers.",   
+    "Text_FR": "An error has occurred. Please check the error log and report it to developers."
+  },
+  {
     "Id": "U_ERROR_MSG_STRANGE",
     "Text": "An error has occurred. Please check the error log and report anything strange",
     "Text_CN": "发生问题，请提交错误日志",
     "Text_FR": "Une erreur est survenue. Veuillez consulter le journal d'erreurs et signaler ce qui sort de l'ordinaire"
+  },
+  {
+    "Id": "U_ERROR_MSG_LOST_CONNECTION",
+    "Text": "Lost connection to game server. Returning to main menu.",
+    "Text_CN": "Lost connection to game server. Returning to main menu.",
+    "Text_FR": "Lost connection to game server. Returning to main menu."
+  },
+  {
+    "Id": "U_ERROR_MSG_SERVER_ERROR",
+    "Text": "An critical error occurs in game server. Returning to main menu.",
+    "Text_CN": "An critical error occurs in game server. Returning to main menu.",
+    "Text_FR": "An critical error occurs in game server. Returning to main menu."
+  },
+  {
+    "Id": "U_ERROR_MSG_RECONNECTING",
+    "Text": "Lost connection to game server. Trying to reconnect...",
+    "Text_CN": "Lost connection to game server. Trying to reconnect...",
+    "Text_FR": "Lost connection to game server. Trying to reconnect..."
+  },
+  {
+    "Id": "U_ERROR_MSG_RECONNETION_FAILED",
+    "Text": "Reconnection failed. Do you want to retry?",
+    "Text_CN": "Reconnection failed. Do you want to retry?",
+    "Text_FR": "Reconnection failed. Do you want to retry?"
   },
   {
     "Id": "U_MAINMENU_PLAY",
@@ -2785,7 +2821,7 @@
   },
   {
     "Id": "U_EA_MSG_BODY",
-    "Text": "<b>The Lord of the Rings™: Living Card Game™</b> is still in active development.\n \nFeatures, cards, effects, and mechanics are subject to change for\nany number of reasons based on game play data and user feedback.\n \nIf you run into any game play issues or bugs, or have any feedback,\nplease let us know at our <a href=\"http://steamcommunity.com/app/509580/discussions/\">Steam Discussions</a>.\n \nWe appreciate your taking part in our early access development so that we can\nrefine, balance, and improve the game.  \n \nNow… on to Middle-earth and the adventures that await you there!",
+    "Text": "Quite simply, this means that <b>The Lord of the Rings™: Living Card Game™</b> is still in active development.\n \nThis means that features, cards, effects, and mechanics are subject to change for\nany number of reasons based on data acquired from actual play and user feedback.\n \nIt also means that you will run into bugs or quirks from time to time that our team is actively working to fix.\n \nThis also means that during Early Access, we have roughed in a Tutorial that teaches you the game but requires much additional polish.\n \nIf you do run into any play issues or bugs, or have any feedback, please let us know at our <a href=\"http://steamcommunity.com/app/509580/discussions/\">Steam Discussions</a> page.\n \nWe appreciate your taking part in our early access development, which will help us to refine, balance, and improve the game on our path to full release.\n \nWe'll work to make Sauron more clever, the animations more plentiful and snappier, and the game more challenging and exciting.\n \nWith your participation, we wish to make this a fantastic experience that you can enjoy for many years to come.\n \nNow...on to Middle-earth and the adventures that await you there!",
     "Text_CN": "<b>The Lord of the Rings™: Living Card Game™</b> is still in active development.\n \nMany features, cards, effects and mechanics are subject to change for any number of reasons based on game play data and user feedback.\n \nIf you run into any game play issues or bugs, or have any feedback, please let us know at our <a href=\"http://steamcommunity.com/app/509580/discussions/\">Steam Discussions</a>.\n \nWe appreciate your taking part in our early access development so that we can refine, balance, and improve the game.  \n \nNow… on to Middle-earth and the adventures that await you there!",
     "Text_FR": "<b>Le Seigneur des Anneaux™, jeu de carte évolutif™</b> est toujours en cours de développement.\n \nLes fonctionnalités, cartes, effets et mécanismes de jeu sont susceptibles de changer pour\nun certain nombre de raisons basées sur les données de jeu et les retours des utilisateurs.\n \nSi vous rencontrez des problèmes ou des bugs dans le jeu, ou que vous avez des commentaires,\nmerci de nous en informer sur nos <a href=\"http://steamcommunity.com/app/509580/discussions/\">Discussions Steam</a>.\n \nNous apprécions beaucoup que vous preniez part au développement grâce à l'accès anticipé, nous pourrons ainsi\naffiner, équilibrer et améliorer le jeu.  \n \nEt maintenant... en route vers la Terre du Milieu et les aventures qui vous y attendent !"
   },
