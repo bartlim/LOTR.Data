@@ -20,9 +20,9 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "<line-height=100%><indent=50>Y</indent>our foes throw themselves at you in a never-ending assault. How can even a tower of this size can contain so many orcs?! Still, you haven't come so far to fail now. With strength of will to match the steel of your weapons, you stand fast against your enemi",
+    "FlavorText": "<i><line-height=100%><indent=50>A</indent>s you hold back the wall of foes, your allies search the room for anything that could aid in your escape from this wretched place. You hope that they will find some abandoned equipment, or maybe even other travelers to help join in the fight.</i>",
     "CannotTriggerReason": "",
-    "ArtistName": "Arden Beckwith",
+    "ArtistName": "Leanna Crossan",
     "Status": "Ready",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
@@ -39,7 +39,7 @@
     "IconMD5": "9d97d475fdc20dea2c4554a8a561a805"
   },
   "Localization": {
-    "Title": "Make a Stand",
+    "Title": "Hunt For Supplies",
     "Text": "Gain +1 <size=120%><sprite=3></size> for each Ally in play"
   }
 }
