@@ -2865,7 +2865,7 @@
                 "OpeningMirkwood_01"
               ],
               "IntroSpriteList": [
-                "Sprites/Locations/Quest1_Stage01"
+                "C001Q3L5_IntroSprite_1"
               ],
               "SoloGameSetup": [
                 "StrangeMechanism",
@@ -3552,7 +3552,7 @@
                 "OpeningMirkwood_01"
               ],
               "IntroSpriteList": [
-                "Sprites/Locations/Quest1_Stage01"
+                "C001Q5L1_IntroSprite_1"
               ],
               "SoloGameSetup": [
                 "BoardTheRaft",
@@ -3560,7 +3560,7 @@
                 "HillTroll"
               ],
               "NextStageId": "C001Q5L2",
-              "BGM": "mus_cave",
+              "BGM": "mus_stream",
               "NarrativeCount": 1,
               "NarrativeTextList": [
                 "Q_STAGE_C001Q5L1_TEXT_0"
@@ -3584,12 +3584,12 @@
             {
               "Id": "C001Q5L2",
               "SceneName": "Anduin_River_Raft",
-              "IntroMusic": "mus_stream",
+              "IntroMusic": "mus_thewilderlands",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
               ],
               "IntroSpriteList": [
-                "Sprites/Locations/Quest1_Stage01"
+                "C001Q5L2_IntroSprite_1"
               ],
               "SoloGameSetup": [
                 "Rapids",
@@ -3600,7 +3600,7 @@
                 "DolGuldurArcher"
               ],
               "NextStageId": "C001Q5L3",
-              "BGM": "mus_cave",
+              "BGM": "mus_stream",
               "NarrativeCount": 1,
               "NarrativeTextList": [
                 "Q_STAGE_C001Q5L2_TEXT_0"
@@ -3629,12 +3629,12 @@
             {
               "Id": "C001Q5L3",
               "SceneName": "ForestStream05",
-              "IntroMusic": "mus_cave",
+              "IntroMusic": "mus_thewilderlands",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
               ],
               "IntroSpriteList": [
-                "Sprites/Locations/Quest1_Stage01"
+                "C001Q5L3_IntroSprite_1"
               ],
               "SoloGameSetup": [
                 "DenyTheCrossing",
@@ -3644,7 +3644,7 @@
                 "OrcMarauder"
               ],
               "NextStageId": "C001Q5L4",
-              "BGM": "mus_cave",
+              "BGM": "mus_stream",
               "NarrativeCount": 1,
               "NarrativeTextList": [
                 "Q_STAGE_C001Q5L3_TEXT_0"
@@ -3663,12 +3663,12 @@
             {
               "Id": "C001Q5L4",
               "SceneName": "Mirkwood01",
-              "IntroMusic": "mus_cave",
+              "IntroMusic": "mus_stream",
               "IntroVoiceList": [
                 "OpeningMirkwood_01"
               ],
               "IntroSpriteList": [
-                "Sprites/Locations/Quest1_Stage01"
+                "C001Q5L4_IntroSprite_1"
               ],
               "SoloGameSetup": [
                 "WardensOfLorien",
@@ -3868,9 +3868,10 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 1,
+          "VictoryCount": 2,
           "VictoryTextList": [
-            "Q_QUEST_C001Q5_TEXT_0"
+            "Q_QUEST_C001Q5_TEXT_0",
+            "Q_QUEST_C001Q5_TEXT_1"
           ],
           "FateCardList": [
             {
