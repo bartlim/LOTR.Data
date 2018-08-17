@@ -1720,7 +1720,7 @@
         {
           "Id": "C001Q5L3",
           "SceneName": "ForestStream05",
-          "IntroMusic": "mus_cave",
+          "IntroMusic": "mus_thewilderlands",
           "IntroVoiceList": [
             "OpeningMirkwood_01"
           ],
@@ -1735,7 +1735,7 @@
             "OrcMarauder"
           ],
           "NextStageId": "C001Q5L4",
-          "BGM": "mus_cave",
+          "BGM": "mus_stream",
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_C001Q5L3_TEXT_0"
