@@ -21,6 +21,7 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "\"I do not know for what reason the Enemy is pursuing you,\" answered Gildor; \"but I perceive that he is—strange indeed though that seems to me. And I warn you that peril is now both before you and behind you, and upon either side.\" \n—<i>The Fellowship of the Ring</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Jose Vega",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,14 +32,14 @@
     "CameoScale": 0.95,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": true,
     "ComboList": [],
     "ArtworkMD5": "42c742aac4167eae2a5cd46592453d3b",
     "BannerMD5": null,
-    "IconMD5": "63d84e1119d53b1f6bbf2082d88b1c6b",
-    "CanBePlayedDuringTravel": true
+    "IconMD5": "63d84e1119d53b1f6bbf2082d88b1c6b"
   },
   "Localization": {
-    "Title": "‰Agent of Sauron",
+    "Title": "‰Mouth of Dol Guldur",
     "Text": "<b>Stalwart</b>.\nDeal 1 damage when attacked"
   }
 }
