@@ -378,9 +378,10 @@
     ],
     "Sequences": [],
     "Stories": [],
-    "VictoryCount": 1,
+    "VictoryCount": 2,
     "VictoryTextList": [
-      "Q_QUEST_C001Q5_TEXT_0"
+      "Q_QUEST_C001Q5_TEXT_0",
+      "Q_QUEST_C001Q5_TEXT_1"
     ],
     "FateCardList": [
       {
@@ -412,9 +413,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180817151455077",
+  "Version": "20180817151709442",
   "Key": "MainQuest",
   "SubKey": "C001Q5",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q5_20180817151455077"
+  "InternalKey": "MainQuest_C001Q5_20180817151709442"
 }
