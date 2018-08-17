@@ -20,9 +20,9 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "<line-height=100%><size=200%>T</size>hough appearing gentle from the shore, the waters along this stretch of the river move with surprising speed. You must focus intently to navigate your raft safely through the treacherous currents.",
+    "FlavorText": "<i><line-height=100%><size=200%>A</size>n angry band of Orcs and Goblins shout battlecries from the far side of the river. Their numbers are countless, and you know it is only a matter of time before they find a way to engage you.</i>",
     "CannotTriggerReason": "",
-    "ArtistName": "David Lecossu",
+    "ArtistName": "Derek Zabrocki",
     "Status": "Ready",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
@@ -39,7 +39,7 @@
     "IconMD5": "840492270e2e802750c19821325fa3f7"
   },
   "Localization": {
-    "Title": "Unstable Currents",
+    "Title": "Orc Battlecries",
     "Text": "Reduce every Hero to 0 <size=120%><sprite=5></size> this round"
   }
 }
