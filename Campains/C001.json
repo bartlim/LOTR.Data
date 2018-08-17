@@ -1754,12 +1754,12 @@
         {
           "Id": "C001Q5L4",
           "SceneName": "Mirkwood01",
-          "IntroMusic": "mus_cave",
+          "IntroMusic": "mus_stream",
           "IntroVoiceList": [
             "OpeningMirkwood_01"
           ],
           "IntroSpriteList": [
-            "Sprites/Locations/Quest1_Stage01"
+            "C001Q5L4_IntroSprite_1"
           ],
           "SoloGameSetup": [
             "WardensOfLorien",
