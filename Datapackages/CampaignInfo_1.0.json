@@ -1917,7 +1917,7 @@
           "Id": "C001Q1",
           "IconSprite": "C001Q1QuestIcon",
           "ArtSprite": "C001Q1QuestArt",
-          "VictoryVoice": "Victory",
+          "VictoryVoice": "Q1Victory1_ACaravanForCocoons",
           "DefeatVoice": "Defeat",
           "ResolutionArtSprite": "C001Q1QuestResolution",
           "Stages": [
@@ -2027,7 +2027,7 @@
               "SceneName": "Mirkwood04",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "Q1L3S1_NewBearings"
               ],
               "IntroSpriteList": [
                 "C001Q1L3_IntroSprite_1"
@@ -2071,7 +2071,7 @@
               "SceneName": "Spiders02",
               "IntroMusic": "mus_mapmenu",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "Q1L4S1_ARescue"
               ],
               "IntroSpriteList": [
                 "C001Q1L4_IntroSprite_1"
@@ -2288,7 +2288,7 @@
           "Id": "C001Q2",
           "IconSprite": "C001Q2QuestIcon",
           "ArtSprite": "C001Q2QuestArt",
-          "VictoryVoice": "Victory",
+          "VictoryVoice": "Q2Victory1_TheCreature",
           "DefeatVoice": "Defeat",
           "ResolutionArtSprite": "C001Q2QuestResolution",
           "Stages": [
@@ -2297,8 +2297,8 @@
               "SceneName": "Spiders01",
               "IntroMusic": "mus_spookyforest",
               "IntroVoiceList": [
-                "OpeningMirkwood_01",
-                ""
+                "Q2L1S1_OneLastCocoon",
+                "Q2L1S2_GarlobDellobAndUllob"
               ],
               "IntroSpriteList": [
                 "C001Q2L1_IntroSprite_1",
@@ -2333,7 +2333,7 @@
               "SceneName": "Spiders02",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "Q2L2S1_AStickySituation"
               ],
               "IntroSpriteList": [
                 "C001Q2L2_IntroSprite_1"
@@ -2377,7 +2377,7 @@
               "SceneName": "Spiders04",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "Q2L4S1_UngoliantsSpawn"
               ],
               "IntroSpriteList": [
                 "C001Q2L4_IntroSprite_1"
@@ -2621,7 +2621,7 @@
           "Id": "C001Q3",
           "IconSprite": "C001Q3QuestIcon",
           "ArtSprite": "C001Q3QuestArt",
-          "VictoryVoice": "Victory",
+          "VictoryVoice": "Q3L7VICSL1_Betrayed",
           "DefeatVoice": "Defeat",
           "ResolutionArtSprite": "C001Q3QuestResolution",
           "Stages": [
@@ -2630,7 +2630,7 @@
               "SceneName": "Mirkwood03",
               "IntroMusic": "mus_thewilderlands",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "Q3L1S1_SlinkerStinker"
               ],
               "IntroSpriteList": [
                 "C001Q3L1_IntroSprite_1"
@@ -2664,7 +2664,7 @@
               "SceneName": "ForestStream01",
               "IntroMusic": "mus_thewilderlands",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "Q3L2AS1_CatchingTheCaravan"
               ],
               "IntroSpriteList": [
                 "C001Q3L2A_IntroSprite_1"
@@ -2702,7 +2702,7 @@
               "SceneName": "DarkForest01",
               "IntroMusic": "mus_stream",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "Q3L2BS1_ASecretWay"
               ],
               "IntroSpriteList": [
                 "C001Q3L2B_IntroSprite_1"
@@ -2735,7 +2735,7 @@
               "SceneName": "DarkForest03",
               "IntroMusic": "mus_orcmarch",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "Q3L3AS1_SavingTheSneak"
               ],
               "IntroSpriteList": [
                 "C001Q3L3A_IntroSprite_1"
@@ -2777,7 +2777,7 @@
               "SceneName": "MirkwoodSwamp01",
               "IntroMusic": "mus_spookyforest",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "Q3L3BS1_FishesAndSnakeses"
               ],
               "IntroSpriteList": [
                 "C001Q3L3B_IntroSprite_1"
@@ -2818,7 +2818,7 @@
               "SceneName": "Ruins01",
               "IntroMusic": "mus_orcmarch",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "Q3L4S1_HidingInTheShadows"
               ],
               "IntroSpriteList": [
                 "C001Q3L4_IntroSprite_1"
@@ -2862,7 +2862,7 @@
               "SceneName": "Dungeon01",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "Q3L5S1_IntoTheTower"
               ],
               "IntroSpriteList": [
                 "C001Q3L5_IntroSprite_1"
@@ -3167,7 +3167,7 @@
           "Id": "C001Q4",
           "IconSprite": "C001Q4QuestIcon",
           "ArtSprite": "C001Q4QuestArt",
-          "VictoryVoice": "Victory",
+          "VictoryVoice": "Q4VICS1_EreBreakOfDay",
           "DefeatVoice": "Defeat",
           "ResolutionArtSprite": "C001Q4QuestResolution",
           "Stages": [
@@ -3176,9 +3176,9 @@
               "SceneName": "GoblinTunnel01",
               "IntroMusic": "mus_dungeon",
               "IntroVoiceList": [
-                "OpeningMirkwood_01",
-                "",
-                ""
+                "Q4L1S1_WhatLiesBelow",
+                "Q4L1S2_TheVisitor",
+                "Q4L1S3_ThePit"
               ],
               "IntroSpriteList": [
                 "C001Q4L1_IntroSprite_1",
@@ -3215,8 +3215,8 @@
               "SceneName": "Hall02",
               "IntroMusic": "mus_dungeon",
               "IntroVoiceList": [
-                "OpeningMirkwood_01",
-                ""
+                "Q4L2S1_MessageFromTheColdOnes",
+                "Q4L2S2_Surrounded"
               ],
               "IntroSpriteList": [
                 "C001Q4L2_IntroSprite_1",
@@ -3262,7 +3262,7 @@
               "SceneName": "Hall01",
               "IntroMusic": "mus_dungeon",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "Q4L3S1_ConcerningAHobbit"
               ],
               "IntroSpriteList": [
                 "C001Q4L3_IntroSprite_1"
@@ -3540,7 +3540,7 @@
           "Id": "C001Q5",
           "IconSprite": "C001Q5QuestIcon",
           "ArtSprite": "C001Q5QuestArt",
-          "VictoryVoice": "Victory",
+          "VictoryVoice": "Q5V1_InEveryWoodInEverySpring",
           "DefeatVoice": "Defeat",
           "ResolutionArtSprite": "C001Q5QuestResolution",
           "Stages": [
@@ -3549,7 +3549,7 @@
               "SceneName": "ForestStream02",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "Q5L1S1_ATrollForARaft"
               ],
               "IntroSpriteList": [
                 "C001Q5L1_IntroSprite_1"
@@ -3586,7 +3586,7 @@
               "SceneName": "Anduin_River_Raft",
               "IntroMusic": "mus_thewilderlands",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "Q5L2S1_TheGreatRiver"
               ],
               "IntroSpriteList": [
                 "C001Q5L2_IntroSprite_1"
@@ -3631,7 +3631,7 @@
               "SceneName": "ForestStream05",
               "IntroMusic": "mus_thewilderlands",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "Q5L3S1_TheFord"
               ],
               "IntroSpriteList": [
                 "C001Q5L3_IntroSprite_1"
@@ -3665,7 +3665,7 @@
               "SceneName": "Mirkwood01",
               "IntroMusic": "mus_stream",
               "IntroVoiceList": [
-                "OpeningMirkwood_01"
+                "Q5L4S1_TheGoldenWood"
               ],
               "IntroSpriteList": [
                 "C001Q5L4_IntroSprite_1"
