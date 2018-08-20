@@ -23,7 +23,7 @@
     "FlavorText": "<i><line-height=100%><size=200%>T</size>he strange mechanism shrieks and groans as Sméagol pulls at its gears. “Stupids. stupids thing!” You’re still not sure what the machine does, but a piece seems to have broken off it.\r</i>",
     "CannotTriggerReason": "",
     "ArtistName": "Cristina Vela",
-    "Status": "WIP",
+    "Status": "Ready",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
     "CardScale": 1.0,
@@ -40,6 +40,6 @@
   },
   "Localization": {
     "Title": "Stupids Thing",
-    "Text": "1 Hazard enters play. Restore 1 to Strange Mechanism"
+    "Text": "This Location Only.\n1 Hazard enters play. Restore 1 to Strange Mechanism"
   }
 }
