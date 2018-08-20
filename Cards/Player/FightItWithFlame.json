@@ -23,7 +23,7 @@
     "FlavorText": "<i><line-height=100%><size=200%>T</size>he creature seems to back away from your torch, perhaps you have discovered a weakness?</i>",
     "CannotTriggerReason": "",
     "ArtistName": "",
-    "Status": "WIP",
+    "Status": "Ready",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
     "CardScale": 1.0,
@@ -40,6 +40,6 @@
   },
   "Localization": {
     "Title": "Fight it with Flame",
-    "Text": "Marsh Adder loses <b>Block</b> until <b>End of Round</b>"
+    "Text": "This Location Only.\nMarsh Adder loses <b>Block</b> until <b>End of Round</b>"
   }
 }
