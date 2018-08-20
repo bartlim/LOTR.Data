@@ -23,7 +23,7 @@
     "FlavorText": "<i><line-height=100%><size=200%>D</size>odging a blow, you lose your balance and fall backwards into the dark stream. Friendly hands quickly retrieve you coughing and spluttering from the water. You feel...strange, wonderfully strange. The forest blurs as a strong dark force seems to pull you to the ground, guiding you into a sweet and deep oblivion.</i>",
     "CannotTriggerReason": "",
     "ArtistName": "Jose Vega",
-    "Status": "WIP",
+    "Status": "Ready",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.05,
     "CardScale": 1.0,
@@ -40,6 +40,6 @@
   },
   "Localization": {
     "Title": "Unsteady Footing",
-    "Text": "Exhaust a random Ally. It does not ready during the next <b>Upkeep</b> phase"
+    "Text": "This Location Only.\nExhaust a random Ally. It does not ready during the next <b>Upkeep</b> phase"
   }
 }
