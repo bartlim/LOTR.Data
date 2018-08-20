@@ -23,7 +23,7 @@
     "FlavorText": "<i><line-height=100%><size=200%>Y</size>ou’d almost forgotten about the honeycomb you received at Beorn’s house. You gently drop it on the ground, sure it will attract any beast with a sweet tooth.</i>",
     "CannotTriggerReason": "",
     "ArtistName": "",
-    "Status": "WIP",
+    "Status": "Ready",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.02,
     "CardScale": 1.0,
@@ -40,6 +40,6 @@
   },
   "Localization": {
     "Title": "Wild Honeycomb",
-    "Text": "Remove <b>Pursuit</b> from all enemies"
+    "Text": "This Location Only.\nRemove <b>Pursuit</b> from all enemies"
   }
 }
