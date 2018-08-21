@@ -8,7 +8,6 @@
       "Id": "Tutorial",
       "IconSprite": "Sprites/Quest/icon_q2",
       "ArtSprite": "Sprites/Quest/quest_2",
-      "VictoryVoice": null,
       "DefeatVoice": "TutorialDefeatVoice",
       "ResolutionArtSprite": null,
       "Stages": [
@@ -110,6 +109,10 @@
       "VictoryTextList": [
         "Q_QUEST_TUTORIAL_TEXT_0",
         "Q_QUEST_TUTORIAL_TEXT_1"
+      ],
+      "VictoryVoiceList": [
+        "TutorialVictoryVoice",
+        ""
       ],
       "FateCardList": [
         {
