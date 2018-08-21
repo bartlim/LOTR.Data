@@ -155,13 +155,17 @@
       "Q_QUEST_C902Q1_TEXT_0",
       "Q_QUEST_C902Q1_TEXT_1"
     ],
+    "VictoryVoiceList": [
+      "Q_QUEST_C902Q1_TEXT_0",
+      "Q_QUEST_C902Q1_TEXT_1"
+    ],
     "FateCardList": [],
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180816075139211",
+  "Version": "20180821121727220",
   "Key": "MainQuest",
   "SubKey": "C902Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C902Q1_20180816075139211"
+  "InternalKey": "MainQuest_C902Q1_20180821121727220"
 }
