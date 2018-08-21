@@ -8,7 +8,6 @@
       "Id": "C001Q1",
       "IconSprite": "C001Q1QuestIcon",
       "ArtSprite": "C001Q1QuestArt",
-      "VictoryVoice": "Q1Victory1_ACaravanForCocoons",
       "DefeatVoice": "Defeat",
       "ResolutionArtSprite": "C001Q1QuestResolution",
       "Stages": [
@@ -353,6 +352,10 @@
         "Q_QUEST_C001Q1_TEXT_0",
         "Q_QUEST_C001Q1_TEXT_1"
       ],
+      "VictoryVoiceList": [
+        "Q1Victory1_ACaravanForCocoons",
+        "Q1Victory2_TheDarkeningOfMirkwood"
+      ],
       "FateCardList": [
         {
           "Id": "TheGuiltOfDwarves",
@@ -379,7 +382,6 @@
       "Id": "C001Q2",
       "IconSprite": "C001Q2QuestIcon",
       "ArtSprite": "C001Q2QuestArt",
-      "VictoryVoice": "Q2Victory1_TheCreature",
       "DefeatVoice": "Defeat",
       "ResolutionArtSprite": "C001Q2QuestResolution",
       "Stages": [
@@ -678,6 +680,9 @@
       "VictoryTextList": [
         "Q_QUEST_C001Q2_TEXT_0"
       ],
+      "VictoryVoiceList": [
+        "Q2Victory1_TheCreature"
+      ],
       "FateCardList": [
         {
           "Id": "CuttingTheWebs",
@@ -712,7 +717,6 @@
       "Id": "C001Q3",
       "IconSprite": "C001Q3QuestIcon",
       "ArtSprite": "C001Q3QuestArt",
-      "VictoryVoice": "Q3L7VICSL1_Betrayed",
       "DefeatVoice": "Defeat",
       "ResolutionArtSprite": "C001Q3QuestResolution",
       "Stages": [
@@ -1224,6 +1228,9 @@
       "VictoryTextList": [
         "Q_QUEST_C001Q3_TEXT_0"
       ],
+      "VictoryVoiceList": [
+        "Q3L7VICSL1_Betrayed"
+      ],
       "FateCardList": [
         {
           "Id": "ForageForSupplies",
@@ -1258,7 +1265,6 @@
       "Id": "C001Q4",
       "IconSprite": "C001Q4QuestIcon",
       "ArtSprite": "C001Q4QuestArt",
-      "VictoryVoice": "Q4VICS1_EreBreakOfDay",
       "DefeatVoice": "Defeat",
       "ResolutionArtSprite": "C001Q4QuestResolution",
       "Stages": [
@@ -1597,6 +1603,9 @@
       "VictoryTextList": [
         "Q_QUEST_C001Q4_TEXT_0"
       ],
+      "VictoryVoiceList": [
+        "Q4VICS1_EreBreakOfDay"
+      ],
       "FateCardList": [
         {
           "Id": "StaggeringBlow",
@@ -1631,7 +1640,6 @@
       "Id": "C001Q5",
       "IconSprite": "C001Q5QuestIcon",
       "ArtSprite": "C001Q5QuestArt",
-      "VictoryVoice": "Q5V1_InEveryWoodInEverySpring",
       "DefeatVoice": "Defeat",
       "ResolutionArtSprite": "C001Q5QuestResolution",
       "Stages": [
@@ -1963,6 +1971,10 @@
       "VictoryTextList": [
         "Q_QUEST_C001Q5_TEXT_0",
         "Q_QUEST_C001Q5_TEXT_1"
+      ],
+      "VictoryVoiceList": [
+        "Q5V1_InEveryWoodInEverySpring",
+        "Q5V2_ItDrawsAllWickedThings"
       ],
       "FateCardList": [
         {

@@ -368,6 +368,9 @@
     "VictoryTextList": [
       "Q_QUEST_FLIESANDSPIDERS_TEXT_0"
     ],
+    "VictoryVoiceList": [
+      "Q2_Victory"
+    ],
     "FateCardList": [
       {
         "Id": "CuttingTheWebs",
@@ -398,9 +401,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180810100804830",
+  "Version": "20180821122618401",
   "Key": "MainQuest",
   "SubKey": "FliesAndSpiders",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_FliesAndSpiders_20180810100804830"
+  "InternalKey": "MainQuest_FliesAndSpiders_20180821122618401"
 }

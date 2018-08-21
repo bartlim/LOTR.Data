@@ -417,6 +417,9 @@
     "VictoryTextList": [
       "Q_QUEST_C001Q4_TEXT_0"
     ],
+    "VictoryVoiceList": [
+      "Q4VICS1_EreBreakOfDay"
+    ],
     "FateCardList": [
       {
         "Id": "StaggeringBlow",
@@ -447,9 +450,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180820213328362",
+  "Version": "20180821122728834",
   "Key": "MainQuest",
   "SubKey": "C001Q4",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q4_20180820213328362"
+  "InternalKey": "MainQuest_C001Q4_20180821122728834"
 }

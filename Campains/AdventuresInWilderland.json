@@ -8,7 +8,6 @@
       "Id": "PassageThroughMirkwood",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
-      "VictoryVoice": "Q1_Victory",
       "DefeatVoice": "Q1_Defeat",
       "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
       "Stages": [
@@ -35,6 +34,9 @@
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_FORESTGATE_TEXT_0"
+          ],
+          "NarrativeTitleList": [
+            "Q_STAGE_FORESTGATE_TITLE_0"
           ],
           "FateCardList": [],
           "ThreatCardList": [],
@@ -63,6 +65,9 @@
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_CAPTUREDBYSPIDERS_TEXT_0"
+          ],
+          "NarrativeTitleList": [
+            "Q_STAGE_CAPTUREDBYSPIDERS_TITLE_0"
           ],
           "FateCardList": null,
           "ThreatCardList": [],
@@ -95,6 +100,9 @@
           "NarrativeTextList": [
             "Q_STAGE_STANDANDFIGHT_TEXT_0"
           ],
+          "NarrativeTitleList": [
+            "Q_STAGE_STANDANDFIGHT_TITLE_0"
+          ],
           "FateCardList": [],
           "ThreatCardList": null,
           "ChoiceBGSprite": "",
@@ -125,6 +133,9 @@
           "NarrativeTextList": [
             "Q_STAGE_TURNANDFLEE_TEXT_0"
           ],
+          "NarrativeTitleList": [
+            "Q_STAGE_TURNANDFLEE_TITLE_0"
+          ],
           "FateCardList": [],
           "ThreatCardList": null,
           "ChoiceBGSprite": "",
@@ -151,6 +162,9 @@
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_THEENCHANTEDSTREAM_TEXT_0"
+          ],
+          "NarrativeTitleList": [
+            "Q_STAGE_THEENCHANTEDSTREAM_TITLE_0"
           ],
           "FateCardList": [
             {
@@ -186,6 +200,9 @@
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_THEENCHANTEDSTREAMALT_TEXT_0"
+          ],
+          "NarrativeTitleList": [
+            "Q_STAGE_THEENCHANTEDSTREAMALT_TITLE_0"
           ],
           "FateCardList": [
             {
@@ -362,6 +379,9 @@
       "VictoryTextList": [
         "Q_QUEST_PASSAGETHROUGHMIRKWOOD_TEXT_0"
       ],
+      "VictoryVoiceList": [
+        "Q1_Victory"
+      ],
       "FateCardList": [
         {
           "Id": "RangersCache",
@@ -396,7 +416,6 @@
       "Id": "FliesAndSpiders",
       "IconSprite": "Sprites/Quest/icon_q2",
       "ArtSprite": "Sprites/Quest/quest_2",
-      "VictoryVoice": "Q2_Victory",
       "DefeatVoice": "Q1_Defeat",
       "ResolutionArtSprite": "Sprites/Quest/Quest2_Resolution",
       "Stages": [
@@ -420,6 +439,9 @@
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_DARKFOREST_TEXT_0"
+          ],
+          "NarrativeTitleList": [
+            "Q_STAGE_DARKFOREST_TITLE_0"
           ],
           "FateCardList": [
             {
@@ -455,6 +477,9 @@
           "NarrativeTextList": [
             "Q_STAGE_THESPIDERSLAIR_TEXT_0"
           ],
+          "NarrativeTitleList": [
+            "Q_STAGE_THESPIDERSLAIR_TITLE_0"
+          ],
           "FateCardList": [],
           "ThreatCardList": null,
           "ChoiceBGSprite": "",
@@ -483,6 +508,9 @@
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_THESPIDERSWEBS_TEXT_0"
+          ],
+          "NarrativeTitleList": [
+            "Q_STAGE_THESPIDERSWEBS_TITLE_0"
           ],
           "FateCardList": [],
           "ThreatCardList": null,
@@ -513,6 +541,9 @@
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_FORESTGLADE_TEXT_0"
+          ],
+          "NarrativeTitleList": [
+            "Q_STAGE_FORESTGLADE_TITLE_0"
           ],
           "FateCardList": null,
           "ThreatCardList": null,
@@ -699,6 +730,9 @@
       "VictoryTextList": [
         "Q_QUEST_FLIESANDSPIDERS_TEXT_0"
       ],
+      "VictoryVoiceList": [
+        "Q2_Victory"
+      ],
       "FateCardList": [
         {
           "Id": "CuttingTheWebs",
@@ -733,7 +767,6 @@
       "Id": "LostInMirkwood",
       "IconSprite": "Sprites/Quest/icon_q3",
       "ArtSprite": "Sprites/Quest/quest_3",
-      "VictoryVoice": "Q3_Victory",
       "DefeatVoice": "Q1_Defeat",
       "ResolutionArtSprite": "Sprites/Quest/Quest3_Resolution",
       "Stages": [
@@ -760,6 +793,9 @@
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_MIRKWOODFOREST_TEXT_0"
+          ],
+          "NarrativeTitleList": [
+            "Q_STAGE_MIRKWOODFOREST_TITLE_0"
           ],
           "FateCardList": [],
           "ThreatCardList": null,
@@ -791,6 +827,9 @@
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_FORESTSTREAM_TEXT_0"
+          ],
+          "NarrativeTitleList": [
+            "Q_STAGE_FORESTSTREAM_TITLE_0"
           ],
           "FateCardList": [
             {
@@ -828,6 +867,9 @@
           "NarrativeTextList": [
             "Q_STAGE_BAREHILLTOP_TEXT_0"
           ],
+          "NarrativeTitleList": [
+            "Q_STAGE_BAREHILLTOP_TITLE_0"
+          ],
           "FateCardList": [
             {
               "Id": "DistractingCall",
@@ -863,6 +905,9 @@
           "NarrativeTextList": [
             "Q_STAGE_MIRKWOODSWAMP_TEXT_0"
           ],
+          "NarrativeTitleList": [
+            "Q_STAGE_MIRKWOODSWAMP_TITLE_0"
+          ],
           "FateCardList": [],
           "ThreatCardList": null,
           "ChoiceBGSprite": "",
@@ -893,6 +938,9 @@
           "NarrativeTextList": [
             "Q_STAGE_OVERGROWNTRAIL_TEXT_0"
           ],
+          "NarrativeTitleList": [
+            "Q_STAGE_OVERGROWNTRAIL_TITLE_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null,
           "ChoiceBGSprite": "",
@@ -922,6 +970,9 @@
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_ABANDONEDVILLAGE_TEXT_0"
+          ],
+          "NarrativeTitleList": [
+            "Q_STAGE_ABANDONEDVILLAGE_TITLE_0"
           ],
           "FateCardList": null,
           "ThreatCardList": null,
@@ -1168,6 +1219,9 @@
       "VictoryTextList": [
         "Q_QUEST_LOSTINMIRKWOOD_TEXT_0"
       ],
+      "VictoryVoiceList": [
+        "Q3_Victory"
+      ],
       "FateCardList": [
         {
           "Id": "MakeAStand",
@@ -1202,7 +1256,6 @@
       "Id": "JourneyDownTheAnduin",
       "IconSprite": "Sprites/Quest/icon_q4",
       "ArtSprite": "Sprites/Quest/quest_4",
-      "VictoryVoice": "Q4_Victory",
       "DefeatVoice": "Q4_Defeat",
       "ResolutionArtSprite": "Sprites/Quest/Quest4_Resolution",
       "Stages": [
@@ -1226,6 +1279,9 @@
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_TOTHERIVER_TEXT_0"
+          ],
+          "NarrativeTitleList": [
+            "Q_STAGE_TOTHERIVER_TITLE_0"
           ],
           "FateCardList": [
             {
@@ -1262,6 +1318,9 @@
           "NarrativeTextList": [
             "Q_STAGE_ANDUINPASSAGE_TEXT_0"
           ],
+          "NarrativeTitleList": [
+            "Q_STAGE_ANDUINPASSAGE_TITLE_0"
+          ],
           "FateCardList": [],
           "ThreatCardList": null,
           "ChoiceBGSprite": "",
@@ -1293,6 +1352,9 @@
           "NarrativeTextList": [
             "Q_STAGE_TREACHEROUSSHORTCUT_TEXT_0"
           ],
+          "NarrativeTitleList": [
+            "Q_STAGE_TREACHEROUSSHORTCUT_TITLE_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null,
           "ChoiceBGSprite": "",
@@ -1321,6 +1383,9 @@
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_GENTLEWATERS_TEXT_0"
+          ],
+          "NarrativeTitleList": [
+            "Q_STAGE_GENTLEWATERS_TITLE_0"
           ],
           "FateCardList": [],
           "ThreatCardList": null,
@@ -1352,6 +1417,9 @@
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_AMBUSHONTHESHORESTAGE_TEXT_0"
+          ],
+          "NarrativeTitleList": [
+            "Q_STAGE_AMBUSHONTHESHORESTAGE_TITLE_0"
           ],
           "FateCardList": [
             {
@@ -1543,6 +1611,9 @@
       "VictoryTextList": [
         "Q_QUEST_JOURNEYDOWNTHEANDUIN_TEXT_0"
       ],
+      "VictoryVoiceList": [
+        "Q4_Victory"
+      ],
       "FateCardList": [
         {
           "Id": "RefreshingWaters",
@@ -1577,7 +1648,6 @@
       "Id": "ConflictAtTheCarrock",
       "IconSprite": "Sprites/Quest/icon_q5",
       "ArtSprite": "Sprites/Quest/quest_5",
-      "VictoryVoice": "Q5_Victory",
       "DefeatVoice": "Q5_Defeat",
       "ResolutionArtSprite": "Sprites/Quest/Quest5_Resolution",
       "Stages": [
@@ -1602,6 +1672,9 @@
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_SEARCHINGFORGRIMBEORN_TEXT_0"
+          ],
+          "NarrativeTitleList": [
+            "Q_STAGE_SEARCHINGFORGRIMBEORN_TITLE_0"
           ],
           "FateCardList": [],
           "ThreatCardList": null,
@@ -1634,6 +1707,9 @@
           "NarrativeTextList": [
             "Q_STAGE_THETROLLSDINNER_TEXT_0"
           ],
+          "NarrativeTitleList": [
+            "Q_STAGE_THETROLLSDINNER_TITLE_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null,
           "ChoiceBGSprite": "",
@@ -1663,6 +1739,9 @@
           "NarrativeCount": 1,
           "NarrativeTextList": [
             "Q_STAGE_FIGHTWITHTHETROLLS_TEXT_0"
+          ],
+          "NarrativeTitleList": [
+            "Q_STAGE_FIGHTWITHTHETROLLS_TITLE_0"
           ],
           "FateCardList": [
             {
@@ -1848,6 +1927,9 @@
       "VictoryCount": 1,
       "VictoryTextList": [
         "Q_QUEST_CONFLICTATTHECARROCK_TEXT_0"
+      ],
+      "VictoryVoiceList": [
+        "Q5_Victory"
       ],
       "FateCardList": [
         {

@@ -560,6 +560,9 @@
     "VictoryTextList": [
       "Q_QUEST_C001Q3_TEXT_0"
     ],
+    "VictoryVoiceList": [
+      "Q3L7VICSL1_Betrayed"
+    ],
     "FateCardList": [
       {
         "Id": "ForageForSupplies",
@@ -590,9 +593,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180820213323535",
+  "Version": "20180821122724044",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180820213323535"
+  "InternalKey": "MainQuest_C001Q3_20180821122724044"
 }

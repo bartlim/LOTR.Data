@@ -391,6 +391,9 @@
     "VictoryTextList": [
       "Q_QUEST_PASSAGETHROUGHMIRKWOOD_TEXT_0"
     ],
+    "VictoryVoiceList": [
+      "Q1_Victory"
+    ],
     "FateCardList": [
       {
         "Id": "RangersCache",
@@ -421,9 +424,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180810100759994",
+  "Version": "20180821122612947",
   "Key": "MainQuest",
   "SubKey": "PassageThroughMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_PassageThroughMirkwood_20180810100759994"
+  "InternalKey": "MainQuest_PassageThroughMirkwood_20180821122612947"
 }
