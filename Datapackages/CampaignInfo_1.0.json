@@ -8149,11 +8149,17 @@
                 "Q_STAGE_TUTORIAL_STAGE_01_TEXT_0",
                 "Q_STAGE_TUTORIAL_STAGE_01_TEXT_1"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_TUTORIAL_STAGE_01_TITLE_0",
+                "Q_STAGE_TUTORIAL_STAGE_01_TITLE_1"
+              ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "Tutorial_Stage_01_ChoiceBG",
+              "ChoiceSpriteList": [
+                "Tutorial_Stage_01_ChoiceSprite_1",
+                "Tutorial_Stage_01_ChoiceSprite_2"
+              ]
             },
             {
               "Id": "Tutorial_Stage_02",
@@ -8175,11 +8181,17 @@
                 "Q_STAGE_TUTORIAL_STAGE_02_TEXT_0",
                 "Q_STAGE_TUTORIAL_STAGE_02_TEXT_1"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_TUTORIAL_STAGE_02_TITLE_0",
+                "Q_STAGE_TUTORIAL_STAGE_02_TITLE_1"
+              ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "",
+              "ChoiceSpriteList": [
+                "",
+                ""
+              ]
             },
             {
               "Id": "Tutorial_Stage_03",
@@ -8201,18 +8213,24 @@
                 "Q_STAGE_TUTORIAL_STAGE_03_TEXT_0",
                 "Q_STAGE_TUTORIAL_STAGE_03_TEXT_1"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_TUTORIAL_STAGE_03_TITLE_0",
+                "Q_STAGE_TUTORIAL_STAGE_03_TITLE_1"
+              ],
               "FateCardList": null,
               "ThreatCardList": null,
-              "ChoiceBGSprite": null,
-              "ChoiceSpriteList": null
+              "ChoiceBGSprite": "Tutorial_Stage_03_ChoiceBG",
+              "ChoiceSpriteList": [
+                "Tutorial_Stage_03_ChoiceSprite_1",
+                "Tutorial_Stage_03_ChoiceSprite_2"
+              ]
             }
           ],
           "SauronDeck": [],
           "VictoryCount": 2,
           "VictoryTextList": [
-            "Q_QUEST_TUTORIAL_VICTORY_TEXT_0",
-            "Q_QUEST_TUTORIAL_VICTORY_TEXT_1"
+            "Q_QUEST_TUTORIAL_TEXT_0",
+            "Q_QUEST_TUTORIAL_TEXT_1"
           ],
           "FateCardList": [
             {
