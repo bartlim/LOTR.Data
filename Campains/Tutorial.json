@@ -38,10 +38,10 @@
           ],
           "FateCardList": null,
           "ThreatCardList": null,
-          "ChoiceBGSprite": "",
+          "ChoiceBGSprite": "Tutorial_Stage_01_ChoiceBG",
           "ChoiceSpriteList": [
-            "",
-            ""
+            "Tutorial_Stage_01_ChoiceSprite_1",
+            "Tutorial_Stage_01_ChoiceSprite_2"
           ]
         },
         {
@@ -49,27 +49,31 @@
           "SceneName": "Mirkwood01",
           "IntroMusic": "mus_cave",
           "IntroVoiceList": [
-            "Tutorial_Stage_02_IntroVoice_1"
+            "Tutorial_Stage_02_IntroVoice_1",
+            "Tutorial_Stage_02_IntroVoice_2"
           ],
           "IntroSpriteList": [
-            "Tutorial_Stage_02_IntroSprite_1"
+            "Tutorial_Stage_02_IntroSprite_1",
+            "Tutorial_Stage_02_IntroSprite_2"
           ],
           "SoloGameSetup": null,
           "NextStageId": "Tutorial_Stage_03",
           "BGM": "mus_cave",
-          "NarrativeCount": 1,
+          "NarrativeCount": 2,
           "NarrativeTextList": [
-            "Q_STAGE_TUTORIAL_STAGE_02_TEXT_0"
+            "Q_STAGE_TUTORIAL_STAGE_02_TEXT_0",
+            "Q_STAGE_TUTORIAL_STAGE_02_TEXT_1"
           ],
           "NarrativeTitleList": [
-            "Q_STAGE_TUTORIAL_STAGE_02_TITLE_0"
+            "Q_STAGE_TUTORIAL_STAGE_02_TITLE_0",
+            "Q_STAGE_TUTORIAL_STAGE_02_TITLE_1"
           ],
           "FateCardList": null,
           "ThreatCardList": null,
-          "ChoiceBGSprite": "Tutorial_Stage_02_ChoiceBG",
+          "ChoiceBGSprite": "",
           "ChoiceSpriteList": [
-            "Tutorial_Stage_02_ChoiceSprite_1",
-            "Tutorial_Stage_02_ChoiceSprite_2"
+            "",
+            ""
           ]
         },
         {
