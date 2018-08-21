@@ -16063,9 +16063,7 @@
   },
   {
     "Id": "Q_STAGE_TUTORIAL_STAGE_02_TEXT_0",
-    "Text": "For days, a strange pull had drawn the creature toward the edge of the forest.\n     Desire drove it on. And hunger. And longing. Though it missed the cool air and precious darkness under stone, it had roamed the Wilderlands for years. Relentlessly searching, hunting… craving.\n     A sudden burst of noise nearby drew its attention. The creature slid through the shadows to investigate.\n     Peering from the trees, its ancient heart began to beat rapidly. For there it was, upon the trail… the thief. The forever cursed.\n     At last.\n     Baggins.",
-    "Text_CN": "For days, a strange pull had drawn the creature toward the edge of the forest.\n     Desire drove it on. And hunger. And longing. Though it missed the cool air and precious darkness under stone, it had roamed the Wilderlands for years. Relentlessly searching, hunting… craving.\n     A sudden burst of noise nearby drew its attention. The creature slid through the shadows to investigate.\n     Peering from the trees, its ancient heart began to beat rapidly. For there it was, upon the trail… the thief. The forever cursed.\n     At last.\n     Baggins.",
-    "Text_FR": "For days, a strange pull had drawn the creature toward the edge of the forest.\n     Desire drove it on. And hunger. And longing. Though it missed the cool air and precious darkness under stone, it had roamed the Wilderlands for years. Relentlessly searching, hunting… craving.\n     A sudden burst of noise nearby drew its attention. The creature slid through the shadows to investigate.\n     Peering from the trees, its ancient heart began to beat rapidly. For there it was, upon the trail… the thief. The forever cursed.\n     At last.\n     Baggins."
+    "Text": "Meanwhile…\r\n\r\nFor days, a strange pull had drawn the Creature towards the forest’s edge.\r\n\r\nDesire drove it on. The Creature missed the cool air and precious darkness under stone, yet for years it had roamed the Wilderland, faithfully searching. Hunting. Craving.\r\n\r\nA nearby noise attracted its attention, and the creature slid through the branches to investigate. \r\n\r\nAs it peered out of the trees onto a small trail, its ancient heart began to beat rapidly. For there it stood… the thief, the forever cursed. Finally.\r\n\r\n“Baggins”."
   },
   {
     "Id": "Q_STAGE_TUTORIAL_STAGE_02_TEXT_1",
@@ -18120,5 +18118,57 @@
   {
     "Id": "C_GRIMBEORNTUTORIAL_FLAVOR",
     "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_TUTORIAL_TEXT_0",
+    "Text": "Q_QUEST_TUTORIAL_VICTORY_TEXT_0"
+  },
+  {
+    "Id": "Q_QUEST_TUTORIAL_TEXT_1",
+    "Text": "Q_QUEST_TUTORIAL_VICTORY_TEXT_1"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_01_TITLE_0",
+    "Text": "Default Title 1"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_01_TITLE_1",
+    "Text": "Default Title 2"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_01_CHOICE_TITLE_TEXT",
+    "Text": "Q_STAGE_TUTORIAL_STAGE_01_CHOICE_TITLE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_01_CHOICE_TEXT",
+    "Text": "Q_STAGE_TUTORIAL_STAGE_01_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_02_TITLE_0",
+    "Text": "Default Title 1"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_02_CHOICE_TITLE_TEXT",
+    "Text": "Q_STAGE_TUTORIAL_STAGE_02_CHOICE_TITLE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_02_CHOICE_TEXT",
+    "Text": "Q_STAGE_TUTORIAL_STAGE_02_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_03_TITLE_0",
+    "Text": "Default Title 1"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_03_TITLE_1",
+    "Text": "Default Title 2"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_03_CHOICE_TITLE_TEXT",
+    "Text": "Q_STAGE_TUTORIAL_STAGE_03_CHOICE_TITLE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_03_CHOICE_TEXT",
+    "Text": "Q_STAGE_TUTORIAL_STAGE_03_CHOICE_TEXT"
   }
 ]
