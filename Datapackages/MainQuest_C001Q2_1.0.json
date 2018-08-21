@@ -359,6 +359,9 @@
     "VictoryTextList": [
       "Q_QUEST_C001Q2_TEXT_0"
     ],
+    "VictoryVoiceList": [
+      "Q2Victory1_TheCreature"
+    ],
     "FateCardList": [
       {
         "Id": "CuttingTheWebs",
@@ -389,9 +392,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180820213318744",
+  "Version": "20180821122719212",
   "Key": "MainQuest",
   "SubKey": "C001Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q2_20180820213318744"
+  "InternalKey": "MainQuest_C001Q2_20180821122719212"
 }
