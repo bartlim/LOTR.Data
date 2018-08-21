@@ -516,6 +516,9 @@
     "VictoryTextList": [
       "Q_QUEST_LOSTINMIRKWOOD_TEXT_0"
     ],
+    "VictoryVoiceList": [
+      "Q3_Victory"
+    ],
     "FateCardList": [
       {
         "Id": "MakeAStand",
@@ -546,9 +549,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180810100809595",
+  "Version": "20180821122524889",
   "Key": "MainQuest",
   "SubKey": "LostInMirkwood",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_LostInMirkwood_20180810100809595"
+  "InternalKey": "MainQuest_LostInMirkwood_20180821122524889"
 }
