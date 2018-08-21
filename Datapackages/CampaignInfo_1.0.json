@@ -2014,7 +2014,7 @@
                 },
                 {
                   "Id": "AddercopAddercop",
-                  "Threshold": 6
+                  "Threshold": 4
                 }
               ],
               "ThreatCardList": [],
@@ -2319,10 +2319,7 @@
             "Q_QUEST_C001Q1_TEXT_0",
             "Q_QUEST_C001Q1_TEXT_1"
           ],
-          "VictoryVoiceList": [
-            "Q1Victory1_ACaravanForCocoons",
-            "Q1Victory2_TheDarkeningOfMirkwood"
-          ],
+          "VictoryVoiceList": null,
           "FateCardList": [
             {
               "Id": "TheGuiltOfDwarves",
@@ -2647,9 +2644,7 @@
           "VictoryTextList": [
             "Q_QUEST_C001Q2_TEXT_0"
           ],
-          "VictoryVoiceList": [
-            "Q2Victory1_TheCreature"
-          ],
+          "VictoryVoiceList": null,
           "FateCardList": [
             {
               "Id": "CuttingTheWebs",
@@ -3195,9 +3190,7 @@
           "VictoryTextList": [
             "Q_QUEST_C001Q3_TEXT_0"
           ],
-          "VictoryVoiceList": [
-            "Q3L7VICSL1_Betrayed"
-          ],
+          "VictoryVoiceList": null,
           "FateCardList": [
             {
               "Id": "ForageForSupplies",
@@ -3570,9 +3563,7 @@
           "VictoryTextList": [
             "Q_QUEST_C001Q4_TEXT_0"
           ],
-          "VictoryVoiceList": [
-            "Q4VICS1_EreBreakOfDay"
-          ],
+          "VictoryVoiceList": null,
           "FateCardList": [
             {
               "Id": "StaggeringBlow",
@@ -3939,10 +3930,7 @@
             "Q_QUEST_C001Q5_TEXT_0",
             "Q_QUEST_C001Q5_TEXT_1"
           ],
-          "VictoryVoiceList": [
-            "Q5V1_InEveryWoodInEverySpring",
-            "Q5V2_ItDrawsAllWickedThings"
-          ],
+          "VictoryVoiceList": null,
           "FateCardList": [
             {
               "Id": "RefreshingWaters",
