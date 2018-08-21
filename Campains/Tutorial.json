@@ -16,59 +16,100 @@
           "Id": "Tutorial_Stage_01",
           "SceneName": "Mirkwood01",
           "IntroMusic": "mus_cave",
-          "IntroVoiceList": ["Tutorial_Stage_01_IntroVoice_1","Tutorial_Stage_01_IntroVoice_2"],
-          "IntroSpriteList": ["Tutorial_Stage_01_IntroSprite_1","Tutorial_Stage_01_IntroSprite_2"],
+          "IntroVoiceList": [
+            "Tutorial_Stage_01_IntroVoice_1",
+            "Tutorial_Stage_01_IntroVoice_2"
+          ],
+          "IntroSpriteList": [
+            "Tutorial_Stage_01_IntroSprite_1",
+            "Tutorial_Stage_01_IntroSprite_2"
+          ],
           "SoloGameSetup": null,
           "NextStageId": "Tutorial_Stage_02",
           "BGM": "mus_cave",
-          "FateCardList": null,
-          "ThreatCardList": null,
           "NarrativeCount": 2,
           "NarrativeTextList": [
             "Q_STAGE_TUTORIAL_STAGE_01_TEXT_0",
             "Q_STAGE_TUTORIAL_STAGE_01_TEXT_1"
+          ],
+          "NarrativeTitleList": [
+            "Q_STAGE_TUTORIAL_STAGE_01_TITLE_0",
+            "Q_STAGE_TUTORIAL_STAGE_01_TITLE_1"
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null,
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         },
         {
           "Id": "Tutorial_Stage_02",
           "SceneName": "Mirkwood01",
           "IntroMusic": "mus_cave",
-          "IntroVoiceList": ["Tutorial_Stage_02_IntroVoice_1","Tutorial_Stage_02_IntroVoice_2"],
-          "IntroSpriteList": ["Tutorial_Stage_02_IntroSprite_1","Tutorial_Stage_02_IntroSprite_2"],
+          "IntroVoiceList": [
+            "Tutorial_Stage_02_IntroVoice_1"
+          ],
+          "IntroSpriteList": [
+            "Tutorial_Stage_02_IntroSprite_1"
+          ],
           "SoloGameSetup": null,
           "NextStageId": "Tutorial_Stage_03",
           "BGM": "mus_cave",
+          "NarrativeCount": 1,
+          "NarrativeTextList": [
+            "Q_STAGE_TUTORIAL_STAGE_02_TEXT_0"
+          ],
+          "NarrativeTitleList": [
+            "Q_STAGE_TUTORIAL_STAGE_02_TITLE_0"
+          ],
           "FateCardList": null,
           "ThreatCardList": null,
-          "NarrativeCount": 2,
-          "NarrativeTextList": [
-            "Q_STAGE_TUTORIAL_STAGE_02_TEXT_0",
-            "Q_STAGE_TUTORIAL_STAGE_02_TEXT_1"
+          "ChoiceBGSprite": "Tutorial_Stage_02_ChoiceBG",
+          "ChoiceSpriteList": [
+            "Tutorial_Stage_02_ChoiceSprite_1",
+            "Tutorial_Stage_02_ChoiceSprite_2"
           ]
         },
         {
           "Id": "Tutorial_Stage_03",
           "SceneName": "Mirkwood01",
           "IntroMusic": "mus_cave",
-          "IntroVoiceList": ["Tutorial_Stage_03_IntroVoice_1","Tutorial_Stage_03_IntroVoice_2"],
-          "IntroSpriteList": ["Tutorial_Stage_03_IntroSprite_1","Tutorial_Stage_03_IntroSprite_2"],
+          "IntroVoiceList": [
+            "Tutorial_Stage_03_IntroVoice_1",
+            "Tutorial_Stage_03_IntroVoice_2"
+          ],
+          "IntroSpriteList": [
+            "Tutorial_Stage_03_IntroSprite_1",
+            "Tutorial_Stage_03_IntroSprite_2"
+          ],
           "SoloGameSetup": null,
           "NextStageId": "",
           "BGM": "mus_cave",
-          "FateCardList": null,
-          "ThreatCardList": null,
           "NarrativeCount": 2,
           "NarrativeTextList": [
             "Q_STAGE_TUTORIAL_STAGE_03_TEXT_0",
             "Q_STAGE_TUTORIAL_STAGE_03_TEXT_1"
+          ],
+          "NarrativeTitleList": [
+            "Q_STAGE_TUTORIAL_STAGE_03_TITLE_0",
+            "Q_STAGE_TUTORIAL_STAGE_03_TITLE_1"
+          ],
+          "FateCardList": null,
+          "ThreatCardList": null,
+          "ChoiceBGSprite": "",
+          "ChoiceSpriteList": [
+            "",
+            ""
           ]
         }
       ],
-      "SauronDeck": [ ],
+      "SauronDeck": [],
       "VictoryCount": 2,
       "VictoryTextList": [
-        "Q_QUEST_TUTORIAL_VICTORY_TEXT_0",
-        "Q_QUEST_TUTORIAL_VICTORY_TEXT_1"
+        "Q_QUEST_TUTORIAL_TEXT_0",
+        "Q_QUEST_TUTORIAL_TEXT_1"
       ],
       "FateCardList": [
         {
