@@ -275,7 +275,7 @@
           },
           {
             "Id": "AddercopAddercop",
-            "Threshold": 6
+            "Threshold": 4
           }
         ],
         "ThreatCardList": [],
@@ -380,10 +380,7 @@
       "Q_QUEST_C001Q1_TEXT_0",
       "Q_QUEST_C001Q1_TEXT_1"
     ],
-    "VictoryVoiceList": [
-      "Q1Victory1_ACaravanForCocoons",
-      "Q1Victory2_TheDarkeningOfMirkwood"
-    ],
+    "VictoryVoiceList": null,
     "FateCardList": [
       {
         "Id": "TheGuiltOfDwarves",
@@ -406,9 +403,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180821095252139",
+  "Version": "20180821142824462",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180821095252139"
+  "InternalKey": "MainQuest_C001Q1_20180821142824462"
 }
