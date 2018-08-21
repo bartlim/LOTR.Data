@@ -15,7 +15,12 @@
           "Tutorial_Stage_02"
         ],
         "FateCardList": null,
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 2,
+        "NarrativeTextList": [
+          "Q_STAGE_TUTORIAL_STAGE_01_TEXT_0",
+          "Q_STAGE_TUTORIAL_STAGE_01_TEXT_1"
+        ]
       },
       {
         "Title": "Tutorial_Stage_02",
@@ -26,7 +31,11 @@
           "Tutorial_Stage_03"
         ],
         "FateCardList": null,
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 1,
+        "NarrativeTextList": [
+          "Q_STAGE_TUTORIAL_STAGE_02_TEXT_0"
+        ]
       },
       {
         "Title": "Tutorial_Stage_03",
@@ -37,15 +46,20 @@
           ""
         ],
         "FateCardList": null,
-        "ThreatCardList": null
+        "ThreatCardList": null,
+        "NarrativeCount": 2,
+        "NarrativeTextList": [
+          "Q_STAGE_TUTORIAL_STAGE_03_TEXT_0",
+          "Q_STAGE_TUTORIAL_STAGE_03_TEXT_1"
+        ]
       }
     ],
     "Sequences": [],
-    "Stories": [ ],
+    "Stories": [],
     "VictoryCount": 2,
     "VictoryTextList": [
-      "Q_QUEST_TUTORIAL_VICTORY_TEXT_0",
-      "Q_QUEST_TUTORIAL_VICTORY_TEXT_1"
+      "Q_QUEST_TUTORIAL_TEXT_0",
+      "Q_QUEST_TUTORIAL_TEXT_1"
     ],
     "FateCardList": [
       {
@@ -61,9 +75,9 @@
     ],
     "AIBehavior": null
   },
-  "Version": "20180705100144861",
+  "Version": "20180821033730413",
   "Key": "MainQuest",
   "SubKey": "Tutorial",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Tutorial_20180705100144861"
+  "InternalKey": "MainQuest_Tutorial_20180821033730413"
 }
