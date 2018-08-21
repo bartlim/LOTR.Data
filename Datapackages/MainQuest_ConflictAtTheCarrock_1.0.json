@@ -344,6 +344,9 @@
     "VictoryTextList": [
       "Q_QUEST_CONFLICTATTHECARROCK_TEXT_0"
     ],
+    "VictoryVoiceList": [
+      "Q5_Victory"
+    ],
     "FateCardList": [
       {
         "Id": "StaggeringBlow",
@@ -374,9 +377,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180810100819499",
+  "Version": "20180821122533599",
   "Key": "MainQuest",
   "SubKey": "ConflictAtTheCarrock",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180810100819499"
+  "InternalKey": "MainQuest_ConflictAtTheCarrock_20180821122533599"
 }
