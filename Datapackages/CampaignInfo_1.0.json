@@ -37,7 +37,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_FORESTGATE_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_FORESTGATE_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": [],
               "ChoiceBGSprite": "",
@@ -66,7 +68,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_CAPTUREDBYSPIDERS_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_CAPTUREDBYSPIDERS_TITLE_0"
+              ],
               "FateCardList": null,
               "ThreatCardList": [],
               "ChoiceBGSprite": "CapturedBySpiders_ChoiceBG",
@@ -98,7 +102,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_STANDANDFIGHT_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_STANDANDFIGHT_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": null,
               "ChoiceBGSprite": "",
@@ -129,7 +135,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_TURNANDFLEE_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_TURNANDFLEE_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": null,
               "ChoiceBGSprite": "",
@@ -157,7 +165,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_THEENCHANTEDSTREAM_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_THEENCHANTEDSTREAM_TITLE_0"
+              ],
               "FateCardList": [
                 {
                   "Id": "FateKingsfoil",
@@ -193,7 +203,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_THEENCHANTEDSTREAMALT_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_THEENCHANTEDSTREAMALT_TITLE_0"
+              ],
               "FateCardList": [
                 {
                   "Id": "SavedbytheElves",
@@ -369,7 +381,9 @@
           "VictoryTextList": [
             "Q_QUEST_PASSAGETHROUGHMIRKWOOD_TEXT_0"
           ],
-          "VictoryVoiceList": null,
+          "VictoryVoiceList": [
+            "Q1_Victory"
+          ],
           "FateCardList": [
             {
               "Id": "RangersCache",
@@ -428,7 +442,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_DARKFOREST_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_DARKFOREST_TITLE_0"
+              ],
               "FateCardList": [
                 {
                   "Id": "UnexpectedAid",
@@ -463,7 +479,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_THESPIDERSLAIR_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_THESPIDERSLAIR_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": null,
               "ChoiceBGSprite": "",
@@ -493,7 +511,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_THESPIDERSWEBS_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_THESPIDERSWEBS_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": null,
               "ChoiceBGSprite": "",
@@ -524,7 +544,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_FORESTGLADE_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_FORESTGLADE_TITLE_0"
+              ],
               "FateCardList": null,
               "ThreatCardList": null,
               "ChoiceBGSprite": "",
@@ -710,7 +732,9 @@
           "VictoryTextList": [
             "Q_QUEST_FLIESANDSPIDERS_TEXT_0"
           ],
-          "VictoryVoiceList": null,
+          "VictoryVoiceList": [
+            "Q2_Victory"
+          ],
           "FateCardList": [
             {
               "Id": "CuttingTheWebs",
@@ -772,7 +796,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_MIRKWOODFOREST_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_MIRKWOODFOREST_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": null,
               "ChoiceBGSprite": "",
@@ -804,7 +830,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_FORESTSTREAM_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_FORESTSTREAM_TITLE_0"
+              ],
               "FateCardList": [
                 {
                   "Id": "FearOfTheFlames",
@@ -841,7 +869,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_BAREHILLTOP_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_BAREHILLTOP_TITLE_0"
+              ],
               "FateCardList": [
                 {
                   "Id": "DistractingCall",
@@ -877,7 +907,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_MIRKWOODSWAMP_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_MIRKWOODSWAMP_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": null,
               "ChoiceBGSprite": "",
@@ -908,7 +940,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_OVERGROWNTRAIL_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_OVERGROWNTRAIL_TITLE_0"
+              ],
               "FateCardList": null,
               "ThreatCardList": null,
               "ChoiceBGSprite": "",
@@ -939,7 +973,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_ABANDONEDVILLAGE_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_ABANDONEDVILLAGE_TITLE_0"
+              ],
               "FateCardList": null,
               "ThreatCardList": null,
               "ChoiceBGSprite": "",
@@ -1185,7 +1221,9 @@
           "VictoryTextList": [
             "Q_QUEST_LOSTINMIRKWOOD_TEXT_0"
           ],
-          "VictoryVoiceList": null,
+          "VictoryVoiceList": [
+            "Q3_Victory"
+          ],
           "FateCardList": [
             {
               "Id": "MakeAStand",
@@ -1244,7 +1282,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_TOTHERIVER_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_TOTHERIVER_TITLE_0"
+              ],
               "FateCardList": [
                 {
                   "Id": "DistractTheTroll",
@@ -1280,7 +1320,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_ANDUINPASSAGE_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_ANDUINPASSAGE_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": null,
               "ChoiceBGSprite": "",
@@ -1312,7 +1354,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_TREACHEROUSSHORTCUT_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_TREACHEROUSSHORTCUT_TITLE_0"
+              ],
               "FateCardList": null,
               "ThreatCardList": null,
               "ChoiceBGSprite": "",
@@ -1342,7 +1386,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_GENTLEWATERS_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_GENTLEWATERS_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": null,
               "ChoiceBGSprite": "",
@@ -1374,7 +1420,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_AMBUSHONTHESHORESTAGE_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_AMBUSHONTHESHORESTAGE_TITLE_0"
+              ],
               "FateCardList": [
                 {
                   "Id": "SavedByTheBeornings",
@@ -1565,7 +1613,9 @@
           "VictoryTextList": [
             "Q_QUEST_JOURNEYDOWNTHEANDUIN_TEXT_0"
           ],
-          "VictoryVoiceList": null,
+          "VictoryVoiceList": [
+            "Q4_Victory"
+          ],
           "FateCardList": [
             {
               "Id": "RefreshingWaters",
@@ -1625,7 +1675,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_SEARCHINGFORGRIMBEORN_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_SEARCHINGFORGRIMBEORN_TITLE_0"
+              ],
               "FateCardList": [],
               "ThreatCardList": null,
               "ChoiceBGSprite": "SearchingForGrimbeorn_ChoiceBG",
@@ -1657,7 +1709,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_THETROLLSDINNER_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_THETROLLSDINNER_TITLE_0"
+              ],
               "FateCardList": null,
               "ThreatCardList": null,
               "ChoiceBGSprite": "",
@@ -1688,7 +1742,9 @@
               "NarrativeTextList": [
                 "Q_STAGE_FIGHTWITHTHETROLLS_TEXT_0"
               ],
-              "NarrativeTitleList": null,
+              "NarrativeTitleList": [
+                "Q_STAGE_FIGHTWITHTHETROLLS_TITLE_0"
+              ],
               "FateCardList": [
                 {
                   "Id": "BoldResolve",
@@ -1874,7 +1930,9 @@
           "VictoryTextList": [
             "Q_QUEST_CONFLICTATTHECARROCK_TEXT_0"
           ],
-          "VictoryVoiceList": null,
+          "VictoryVoiceList": [
+            "Q5_Victory"
+          ],
           "FateCardList": [
             {
               "Id": "StaggeringBlow",
@@ -2261,7 +2319,10 @@
             "Q_QUEST_C001Q1_TEXT_0",
             "Q_QUEST_C001Q1_TEXT_1"
           ],
-          "VictoryVoiceList": null,
+          "VictoryVoiceList": [
+            "Q1Victory1_ACaravanForCocoons",
+            "Q1Victory2_TheDarkeningOfMirkwood"
+          ],
           "FateCardList": [
             {
               "Id": "TheGuiltOfDwarves",
@@ -2586,7 +2647,9 @@
           "VictoryTextList": [
             "Q_QUEST_C001Q2_TEXT_0"
           ],
-          "VictoryVoiceList": null,
+          "VictoryVoiceList": [
+            "Q2Victory1_TheCreature"
+          ],
           "FateCardList": [
             {
               "Id": "CuttingTheWebs",
@@ -3132,7 +3195,9 @@
           "VictoryTextList": [
             "Q_QUEST_C001Q3_TEXT_0"
           ],
-          "VictoryVoiceList": null,
+          "VictoryVoiceList": [
+            "Q3L7VICSL1_Betrayed"
+          ],
           "FateCardList": [
             {
               "Id": "ForageForSupplies",
@@ -3505,7 +3570,9 @@
           "VictoryTextList": [
             "Q_QUEST_C001Q4_TEXT_0"
           ],
-          "VictoryVoiceList": null,
+          "VictoryVoiceList": [
+            "Q4VICS1_EreBreakOfDay"
+          ],
           "FateCardList": [
             {
               "Id": "StaggeringBlow",
@@ -3872,7 +3939,10 @@
             "Q_QUEST_C001Q5_TEXT_0",
             "Q_QUEST_C001Q5_TEXT_1"
           ],
-          "VictoryVoiceList": null,
+          "VictoryVoiceList": [
+            "Q5V1_InEveryWoodInEverySpring",
+            "Q5V2_ItDrawsAllWickedThings"
+          ],
           "FateCardList": [
             {
               "Id": "RefreshingWaters",
