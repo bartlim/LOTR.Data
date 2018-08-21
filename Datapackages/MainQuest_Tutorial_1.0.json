@@ -61,6 +61,10 @@
       "Q_QUEST_TUTORIAL_TEXT_0",
       "Q_QUEST_TUTORIAL_TEXT_1"
     ],
+    "VictoryVoiceList": [
+      "TutorialVictoryVoice",
+      ""
+    ],
     "FateCardList": [
       {
         "Id": "TutorialFateEvent",
@@ -75,9 +79,9 @@
     ],
     "AIBehavior": null
   },
-  "Version": "20180821065026518",
+  "Version": "20180821094805146",
   "Key": "MainQuest",
   "SubKey": "Tutorial",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Tutorial_20180821065026518"
+  "InternalKey": "MainQuest_Tutorial_20180821094805146"
 }
