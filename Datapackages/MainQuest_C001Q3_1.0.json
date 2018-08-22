@@ -439,7 +439,9 @@
         "SoloGameSetup": [
           "RescueGollum",
           "DolGuldurOrcs",
-          "VeteranPatrol"
+          "VeteranPatrol",
+          "MirkwoodPatrol",
+          "OrcBeastmaster"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -594,9 +596,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180822202229934",
+  "Version": "20180822204001330",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180822202229934"
+  "InternalKey": "MainQuest_C001Q3_20180822204001330"
 }
