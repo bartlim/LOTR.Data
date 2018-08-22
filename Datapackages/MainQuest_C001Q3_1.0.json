@@ -565,7 +565,7 @@
     "VictoryTextList": [
       "Q_QUEST_C001Q3_TEXT_0"
     ],
-    "VictoryVoiceList": null,
+    "VictoryVoiceList": [],
     "FateCardList": [
       {
         "Id": "ForageForSupplies",
@@ -596,9 +596,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180822221011355",
+  "Version": "20180822225240275",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180822221011355"
+  "InternalKey": "MainQuest_C001Q3_20180822225240275"
 }
