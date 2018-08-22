@@ -360,7 +360,8 @@
           "ThrashingCocoon",
           "ForestSpider",
           "GiantSpider",
-          "SpidersOfMirkwood"
+          "SpidersOfMirkwood",
+          "SpiderGuard"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -405,9 +406,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180822181323964",
+  "Version": "20180822183345898",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180822181323964"
+  "InternalKey": "MainQuest_C001Q1_20180822183345898"
 }
