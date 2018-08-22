@@ -93,7 +93,7 @@
         "FateCardList": [
           {
             "Id": "TEST",
-            "Threshold": 1
+            "Threshold": 2
           }
         ],
         "ThreatCardList": [],
@@ -168,9 +168,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180822103231241",
+  "Version": "20180822103513734",
   "Key": "MainQuest",
   "SubKey": "C902Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C902Q1_20180822103231241"
+  "InternalKey": "MainQuest_C902Q1_20180822103513734"
 }
