@@ -34,7 +34,12 @@
           "NarrativeTitleList": [
             "Q_STAGE_C902Q1L1_TITLE_0"
           ],
-          "FateCardList": [],
+          "FateCardList": [
+            {
+              "Id": "TEST",
+              "Threshold": 2
+            }
+          ],
           "ThreatCardList": [],
           "ChoiceBGSprite": "C902Q1L1_ChoiceBG",
           "ChoiceSpriteList": [
