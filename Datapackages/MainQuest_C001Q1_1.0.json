@@ -289,10 +289,11 @@
       {
         "Title": "C001Q1L2",
         "SoloGameSetup": [
+          "FindAWayAcross",
           "WildBear",
           "RockAdder",
           "BlackForestBats",
-          "FindAWayAcross"
+          ""
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -404,9 +405,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180822181046229",
+  "Version": "20180822181323964",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180822181046229"
+  "InternalKey": "MainQuest_C001Q1_20180822181323964"
 }
