@@ -466,8 +466,11 @@
       {
         "Title": "C001Q3L3B",
         "SoloGameSetup": [
+          "RockAdder",
+          "MuckAdder",
           "MarshAdder",
-          "MuckAdder"
+          "MuckAdder",
+          "RockAdder"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -591,9 +594,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180822195622635",
+  "Version": "20180822202229934",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180822195622635"
+  "InternalKey": "MainQuest_C001Q3_20180822202229934"
 }
