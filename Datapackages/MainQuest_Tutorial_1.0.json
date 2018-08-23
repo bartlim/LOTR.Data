@@ -62,8 +62,8 @@
       "Q_QUEST_TUTORIAL_TEXT_1"
     ],
     "VictoryVoiceList": [
-      "TutorialVictoryVoice",
-      ""
+      "Tutorial_VictoryVoice_1",
+      "Tutorial_VictoryVoice_2"
     ],
     "FateCardList": [
       {
@@ -79,9 +79,9 @@
     ],
     "AIBehavior": null
   },
-  "Version": "20180821094805146",
+  "Version": "20180823024858417",
   "Key": "MainQuest",
   "SubKey": "Tutorial",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Tutorial_20180821094805146"
+  "InternalKey": "MainQuest_Tutorial_20180823024858417"
 }
