@@ -275,7 +275,7 @@
         "Title": "C001Q5L1",
         "SoloGameSetup": [
           "BoardTheRaft",
-          "EastBightPatrol",
+          "DolGuldurOrcs",
           "HillTroll"
         ],
         "CoopGameSetup": [],
@@ -417,9 +417,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180823025902264",
+  "Version": "20180823150215006",
   "Key": "MainQuest",
   "SubKey": "C001Q5",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q5_20180823025902264"
+  "InternalKey": "MainQuest_C001Q5_20180823150215006"
 }
