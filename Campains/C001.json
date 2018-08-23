@@ -1706,7 +1706,7 @@
             "Rocks",
             "SwirlingEddy",
             "GoblinSniper",
-            "DolGuldurArcher"
+            "RangingGoblin"
           ],
           "NextStageId": "C001Q5L3",
           "BGM": "mus_stream",
@@ -1726,7 +1726,7 @@
           "ThreatCardList": [
             {
               "Id": "ForcedOffCourse",
-              "Threshold": 2
+              "Threshold": 3
             }
           ],
           "ChoiceBGSprite": "",
