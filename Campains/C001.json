@@ -355,7 +355,10 @@
         "Q_QUEST_C001Q1_TEXT_0",
         "Q_QUEST_C001Q1_TEXT_1"
       ],
-      "VictoryVoiceList": [],
+      "VictoryVoiceList": [
+        "C001Q1_VictoryVoice_1",
+        "C001Q1_VictoryVoice_2"
+      ],
       "FateCardList": [
         {
           "Id": "TheGuiltOfDwarves",
@@ -680,7 +683,9 @@
       "VictoryTextList": [
         "Q_QUEST_C001Q2_TEXT_0"
       ],
-      "VictoryVoiceList": [],
+      "VictoryVoiceList": [
+        "C001Q2_VictoryVoice_1"
+      ],
       "FateCardList": [
         {
           "Id": "CuttingTheWebs",
@@ -1231,7 +1236,9 @@
       "VictoryTextList": [
         "Q_QUEST_C001Q3_TEXT_0"
       ],
-      "VictoryVoiceList": [],
+      "VictoryVoiceList": [
+        "C001Q3_VictoryVoice_1"
+      ],
       "FateCardList": [
         {
           "Id": "ForageForSupplies",
@@ -1606,7 +1613,9 @@
       "VictoryTextList": [
         "Q_QUEST_C001Q4_TEXT_0"
       ],
-      "VictoryVoiceList": [],
+      "VictoryVoiceList": [
+        "C001Q4_VictoryVoice_1"
+      ],
       "FateCardList": [
         {
           "Id": "StaggeringBlow",
@@ -1973,7 +1982,10 @@
         "Q_QUEST_C001Q5_TEXT_0",
         "Q_QUEST_C001Q5_TEXT_1"
       ],
-      "VictoryVoiceList": [],
+      "VictoryVoiceList": [
+        "C001Q5_VictoryVoice_1",
+        "C001Q5_VictoryVoice_2"
+      ],
       "FateCardList": [
         {
           "Id": "RefreshingWaters",
