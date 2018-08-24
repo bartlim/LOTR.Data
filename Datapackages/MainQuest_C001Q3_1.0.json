@@ -29,14 +29,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "DarkSorcery",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "Despair",
           "Quantity": 1,
           "PlayOnce": false,
@@ -173,6 +165,14 @@
           "MaxDifficulty": 4
         },
         {
+          "Id": "DarkSorcery",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
           "Id": "EvilStorm",
           "Quantity": 1,
           "PlayOnce": false,
@@ -205,8 +205,8 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "GreedyFingers",
-          "Quantity": 1,
+          "Id": "StragglingGoblin",
+          "Quantity": 2,
           "PlayOnce": false,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -247,14 +247,6 @@
         {
           "Id": "SpiderGuard",
           "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "StragglingGoblin",
-          "Quantity": 2,
           "PlayOnce": false,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -350,6 +342,14 @@
         },
         {
           "Id": "GoblinWarlord",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "GreedyFingers",
           "Quantity": 1,
           "PlayOnce": false,
           "MinThreatLevel": 0,
@@ -598,9 +598,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180823153255719",
+  "Version": "20180824153251522",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180823153255719"
+  "InternalKey": "MainQuest_C001Q3_20180824153251522"
 }
