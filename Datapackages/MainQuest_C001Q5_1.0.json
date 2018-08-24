@@ -14,7 +14,7 @@
         },
         {
           "Id": "WatchersInTheDark",
-          "Quantity": 3,
+          "Quantity": 2,
           "PlayOnce": false,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -23,14 +23,6 @@
         {
           "Id": "CreatureOfDarkness",
           "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "DarkSorcery",
-          "Quantity": 1,
           "PlayOnce": false,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -93,6 +85,14 @@
           "MaxDifficulty": 4
         },
         {
+          "Id": "RangingGoblin",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
           "Id": "RockAdder",
           "Quantity": 1,
           "PlayOnce": false,
@@ -133,6 +133,14 @@
           "MaxDifficulty": 4
         },
         {
+          "Id": "DarkSorcery",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
           "Id": "Enfeebled",
           "Quantity": 1,
           "PlayOnce": false,
@@ -159,14 +167,6 @@
         {
           "Id": "GoblinPursuer",
           "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "GreedyFingers",
-          "Quantity": 1,
           "PlayOnce": false,
           "MinThreatLevel": 0,
           "MinDifficulty": 1,
@@ -262,6 +262,14 @@
         },
         {
           "Id": "PursuitOnTheShore",
+          "Quantity": 2,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "GreedyFingers",
           "Quantity": 1,
           "PlayOnce": false,
           "MinThreatLevel": 0,
@@ -417,9 +425,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180823153306754",
+  "Version": "20180824153301746",
   "Key": "MainQuest",
   "SubKey": "C001Q5",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q5_20180823153306754"
+  "InternalKey": "MainQuest_C001Q5_20180824153301746"
 }
