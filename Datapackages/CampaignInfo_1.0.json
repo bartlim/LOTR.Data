@@ -2989,11 +2989,6 @@
               "PlayOnce": false
             },
             {
-              "Id": "DarkSorcery",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
               "Id": "Despair",
               "Amount": 1,
               "PlayOnce": false
@@ -3079,6 +3074,11 @@
               "PlayOnce": false
             },
             {
+              "Id": "DarkSorcery",
+              "Amount": 1,
+              "PlayOnce": false
+            },
+            {
               "Id": "EvilStorm",
               "Amount": 1,
               "PlayOnce": false
@@ -3099,8 +3099,8 @@
               "PlayOnce": false
             },
             {
-              "Id": "GreedyFingers",
-              "Amount": 1,
+              "Id": "StragglingGoblin",
+              "Amount": 2,
               "PlayOnce": false
             },
             {
@@ -3126,11 +3126,6 @@
             {
               "Id": "SpiderGuard",
               "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "StragglingGoblin",
-              "Amount": 2,
               "PlayOnce": false
             },
             {
@@ -3190,6 +3185,11 @@
             },
             {
               "Id": "GoblinWarlord",
+              "Amount": 1,
+              "PlayOnce": false
+            },
+            {
+              "Id": "GreedyFingers",
               "Amount": 1,
               "PlayOnce": false
             },
@@ -3785,17 +3785,12 @@
             },
             {
               "Id": "WatchersInTheDark",
-              "Amount": 3,
+              "Amount": 2,
               "PlayOnce": false
             },
             {
               "Id": "CreatureOfDarkness",
               "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "DarkSorcery",
-              "Amount": 1,
               "PlayOnce": false
             },
             {
@@ -3834,6 +3829,11 @@
               "PlayOnce": false
             },
             {
+              "Id": "RangingGoblin",
+              "Amount": 2,
+              "PlayOnce": false
+            },
+            {
               "Id": "RockAdder",
               "Amount": 1,
               "PlayOnce": false
@@ -3859,6 +3859,11 @@
               "PlayOnce": false
             },
             {
+              "Id": "DarkSorcery",
+              "Amount": 1,
+              "PlayOnce": false
+            },
+            {
               "Id": "Enfeebled",
               "Amount": 1,
               "PlayOnce": false
@@ -3876,11 +3881,6 @@
             {
               "Id": "GoblinPursuer",
               "Amount": 2,
-              "PlayOnce": false
-            },
-            {
-              "Id": "GreedyFingers",
-              "Amount": 1,
               "PlayOnce": false
             },
             {
@@ -3940,6 +3940,11 @@
             },
             {
               "Id": "PursuitOnTheShore",
+              "Amount": 2,
+              "PlayOnce": false
+            },
+            {
+              "Id": "GreedyFingers",
               "Amount": 1,
               "PlayOnce": false
             }
