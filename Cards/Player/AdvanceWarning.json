@@ -21,6 +21,7 @@
     "DeathVFX": "",
     "DeathSFX": "",
     "FlavorText": "Suddenly he halted and listened. Had he heard a whistle or not? Or was it the call of some strange bird? \n—<i>The Two Towers</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Adam Lane",
     "Status": "Ready",
     "CardOffsetX": 0.98,
@@ -31,6 +32,7 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
     "ComboList": [],
     "ArtworkMD5": "87341bea2c2774dbd31233c3d31f3a0f",
     "BannerMD5": null,
@@ -38,6 +40,6 @@
   },
   "Localization": {
     "Title": "Advance Warning",
-    "Text": "Exhaust the next Enemy that enters play during the Adventure Phase"
+    "Text": "Exhaust the next Enemy that enters play during the Adventure phase"
   }
 }
