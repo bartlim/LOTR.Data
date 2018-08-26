@@ -29,14 +29,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "DarkSorcery",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "Despair",
           "Quantity": 2,
           "PlayOnce": false,
@@ -165,6 +157,14 @@
           "MaxDifficulty": 4
         },
         {
+          "Id": "DarkSorcery",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
           "Id": "Enfeebled",
           "Quantity": 1,
           "PlayOnce": false,
@@ -181,7 +181,7 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "GreedyFingers",
+          "Id": "StragglingGoblin",
           "Quantity": 1,
           "PlayOnce": false,
           "MinThreatLevel": 0,
@@ -198,14 +198,6 @@
         },
         {
           "Id": "LowOnSupplies",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "StragglingGoblin",
           "Quantity": 1,
           "PlayOnce": false,
           "MinThreatLevel": 0,
@@ -301,14 +293,6 @@
           "MaxDifficulty": 4
         },
         {
-          "Id": "TurnedAround",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
           "Id": "VeteranPatrol",
           "Quantity": 2,
           "PlayOnce": false,
@@ -326,6 +310,14 @@
         },
         {
           "Id": "GoblinWarlord",
+          "Quantity": 1,
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 1,
+          "MaxDifficulty": 4
+        },
+        {
+          "Id": "GreedyFingers",
           "Quantity": 1,
           "PlayOnce": false,
           "MinThreatLevel": 0,
@@ -452,9 +444,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180824162824462",
+  "Version": "20180826203656343",
   "Key": "MainQuest",
   "SubKey": "C001Q4",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q4_20180824162824462"
+  "InternalKey": "MainQuest_C001Q4_20180826203656343"
 }
