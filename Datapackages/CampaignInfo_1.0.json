@@ -8292,24 +8292,20 @@
               "SceneName": "Mirkwood01",
               "IntroMusic": "mus_cave",
               "IntroVoiceList": [
-                "Tutorial_Stage_03_IntroVoice_1",
-                "Tutorial_Stage_03_IntroVoice_2"
+                "Tutorial_Stage_03_IntroVoice_1"
               ],
               "IntroSpriteList": [
-                "Tutorial_Stage_03_IntroSprite_1",
-                "Tutorial_Stage_03_IntroSprite_2"
+                "Tutorial_Stage_03_IntroSprite_1"
               ],
               "SoloGameSetup": null,
               "NextStageId": "",
               "BGM": "mus_cave",
-              "NarrativeCount": 2,
+              "NarrativeCount": 1,
               "NarrativeTextList": [
-                "Q_STAGE_TUTORIAL_STAGE_03_TEXT_0",
-                "Q_STAGE_TUTORIAL_STAGE_03_TEXT_1"
+                "Q_STAGE_TUTORIAL_STAGE_03_TEXT_0"
               ],
               "NarrativeTitleList": [
-                "Q_STAGE_TUTORIAL_STAGE_03_TITLE_0",
-                "Q_STAGE_TUTORIAL_STAGE_03_TITLE_1"
+                "Q_STAGE_TUTORIAL_STAGE_03_TITLE_0"
               ],
               "FateCardList": null,
               "ThreatCardList": null,
