@@ -3386,11 +3386,6 @@
               "PlayOnce": false
             },
             {
-              "Id": "DarkSorcery",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
               "Id": "Despair",
               "Amount": 2,
               "PlayOnce": false
@@ -3471,6 +3466,11 @@
               "PlayOnce": false
             },
             {
+              "Id": "DarkSorcery",
+              "Amount": 1,
+              "PlayOnce": false
+            },
+            {
               "Id": "Enfeebled",
               "Amount": 1,
               "PlayOnce": false
@@ -3481,7 +3481,7 @@
               "PlayOnce": false
             },
             {
-              "Id": "GreedyFingers",
+              "Id": "StragglingGoblin",
               "Amount": 1,
               "PlayOnce": false
             },
@@ -3492,11 +3492,6 @@
             },
             {
               "Id": "LowOnSupplies",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
-              "Id": "StragglingGoblin",
               "Amount": 1,
               "PlayOnce": false
             },
@@ -3556,11 +3551,6 @@
               "PlayOnce": false
             },
             {
-              "Id": "TurnedAround",
-              "Amount": 1,
-              "PlayOnce": false
-            },
-            {
               "Id": "VeteranPatrol",
               "Amount": 2,
               "PlayOnce": false
@@ -3572,6 +3562,11 @@
             },
             {
               "Id": "GoblinWarlord",
+              "Amount": 1,
+              "PlayOnce": false
+            },
+            {
+              "Id": "GreedyFingers",
               "Amount": 1,
               "PlayOnce": false
             }
