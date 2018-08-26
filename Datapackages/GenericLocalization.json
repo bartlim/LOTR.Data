@@ -14371,7 +14371,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q5L1_OBJECTIVE",
-    "Text": "Resolve <i>Board the Raft</i> to allow travel from this Location. <color=red>Bilbo must survive</color>"
+    "Text": "Board the raft to try and escape the pursuing orcs. \r\n<color=red>Bilbo must survive</color>"
   },
   {
     "Id": "Q_STAGE_C001Q5L2_NAME",
@@ -15891,7 +15891,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q5L1_TEXT_0",
-    "Text": "To rescue Bilbo Baggins from Mirkwood spiders, you’ve fought bears, a monstrous slug, met the treacherous Sméagol, and much more. You’ve discovered that the great spiders are in league with a host of Orcs, collecting slaves for some devilry to the south.\r\n\r\nYou managed to free Bilbo from those Orcs and their captain, Ufthak.\r\n\r\nEscaping on a fast-flowing stream, the current has taken you several miles away before you are able to swim onto dry land. Looking to the northeast, the sight of distant torches confirms what you fear: that Ufthak and his minions are in pursuit.\r\n\r\nBilbo shakes with cold. You must find some way to reach the River Anduin and get the old Hobbit to safety. After following the bank for some miles, you catch the sound of pounding ahead. You soon come upon a terrible sight. A hill troll has beaten two Beorning fishermen to death and now looks to be deciding which to eat first.\r\n\r\nLapping against the shore is what you’re looking for, a large fishing raft.\r\n"
+    "Text": "To rescue Bilbo Baggins from Mirkwood spiders, you’ve fought bears, a monstrous slug, met the treacherous Sméagol, and much more. You’ve discovered that the great spiders are in league with a host of orcs, collecting slaves for some devilry to the south.\r\n<indent=50></indent>You managed to free Bilbo from the orcs and their captain, Ufthak.\r\n<indent=50></indent>Escaping on a fast-flowing stream, the current has taken you several miles away before you're able to swim onto dry land. Looking to the northeast, the sight of distant torches confirms what you fear: that Ufthak and his minions are in pursuit.\r\n<indent=50></indent>Bilbo shakes with cold. You must find some way to reach the River Anduin and get the old hobbit to safety. After following the bank for some miles, you catch the sound of pounding ahead. You soon come upon a terrible sight. A hill troll has beaten two Beorning fishermen to death and now looks to be deciding which to eat first.\r\n<indent=50></indent>Lapping against the shore is what you’re looking for: a large fishing raft.\r"
   },
   {
     "Id": "Q_STAGE_C001Q5L2_TEXT_0",
@@ -17509,7 +17509,7 @@
   },
   {
     "Id": "Q_STAGE_C001Q5L1_TITLE_0",
-    "Text": "A Troll For A Raft"
+    "Text": "A Troll for a Raft"
   },
   {
     "Id": "Q_STAGE_C001Q5L2_TITLE_0",
