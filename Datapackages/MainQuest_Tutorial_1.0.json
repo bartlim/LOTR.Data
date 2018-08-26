@@ -47,10 +47,9 @@
         ],
         "FateCardList": null,
         "ThreatCardList": null,
-        "NarrativeCount": 2,
+        "NarrativeCount": 1,
         "NarrativeTextList": [
-          "Q_STAGE_TUTORIAL_STAGE_03_TEXT_0",
-          "Q_STAGE_TUTORIAL_STAGE_03_TEXT_1"
+          "Q_STAGE_TUTORIAL_STAGE_03_TEXT_0"
         ]
       }
     ],
@@ -79,9 +78,9 @@
     ],
     "AIBehavior": null
   },
-  "Version": "20180826102106515",
+  "Version": "20180826102254963",
   "Key": "MainQuest",
   "SubKey": "Tutorial",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Tutorial_20180826102106515"
+  "InternalKey": "MainQuest_Tutorial_20180826102254963"
 }
