@@ -276,7 +276,8 @@
         "SoloGameSetup": [
           "SpiderLt1",
           "SpiderLt2",
-          "SpiderLt3"
+          "SpiderLt3",
+          "ThickWebs"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -392,9 +393,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180827161356332",
+  "Version": "20180827163528139",
   "Key": "MainQuest",
   "SubKey": "C001Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q2_20180827161356332"
+  "InternalKey": "MainQuest_C001Q2_20180827163528139"
 }
