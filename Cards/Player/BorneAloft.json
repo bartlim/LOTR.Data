@@ -20,7 +20,8 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "\"Very well,\" said Gandalf. \"Take us where and as far as you will!\" \n<i>—The Hobbit</i>",
+    "FlavorText": "\"Very well,\" said Gandalf. \"Take us where and as far as you will!\" \n—<i>The Hobbit</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Salvador Trakal",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,6 +32,8 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": [],
     "ArtworkMD5": "809b2c5c4821ae910fe830fc2e2718cc",
     "BannerMD5": null,
     "IconMD5": "e4581fe7d0e2e2b194f8712ea5448a38"
