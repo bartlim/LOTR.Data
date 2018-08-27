@@ -365,10 +365,10 @@
           "WardensOfLorien",
           "UnderTheWatchfulEye",
           "ChieftainUfthak",
+          "VeteranPatrol",
           "GoblinWarlord",
           "MirkwoodPatrol",
-          "OrcMarauder",
-          "MirkwoodPatrol"
+          "OrcMarauder"
         ],
         "CoopGameSetup": [],
         "NextStages": [],
@@ -424,9 +424,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180827221536876",
+  "Version": "20180827235840205",
   "Key": "MainQuest",
   "SubKey": "C001Q5",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q5_20180827221536876"
+  "InternalKey": "MainQuest_C001Q5_20180827235840205"
 }
