@@ -3628,7 +3628,8 @@
               "SoloGameSetup": [
                 "BoardTheRaft",
                 "DolGuldurOrcs",
-                "HillTroll"
+                "HillTroll",
+                "EastBightPatrol"
               ],
               "NextStageId": "C001Q5L2",
               "BGM": "mus_stream",
@@ -3668,7 +3669,8 @@
                 "Rocks",
                 "SwirlingEddy",
                 "GoblinSniper",
-                "RangingGoblin"
+                "RangingGoblin",
+                "GoblinSniper"
               ],
               "NextStageId": "C001Q5L3",
               "BGM": "mus_stream",
@@ -3712,6 +3714,7 @@
                 "MirkwoodPatrol",
                 "GoblinSniper",
                 "EastBightPatrol",
+                "OrcMarauder",
                 "OrcMarauder"
               ],
               "NextStageId": "C001Q5L4",
@@ -3745,7 +3748,7 @@
                 "WardensOfLorien",
                 "ChieftainUfthak",
                 "VeteranPatrol",
-                "EastBightPatrol",
+                "GoblinWarlord",
                 "MirkwoodPatrol",
                 "OrcMarauder"
               ],
