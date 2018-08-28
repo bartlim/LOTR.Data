@@ -8220,7 +8220,7 @@
           "IconSprite": "Sprites/Quest/icon_q2",
           "ArtSprite": "Sprites/Quest/quest_2",
           "DefeatVoice": "TutorialDefeatVoice",
-          "ResolutionArtSprite": null,
+          "ResolutionArtSprite": "TutorialQuestResolution",
           "Stages": [
             {
               "Id": "Tutorial_Stage_01",
