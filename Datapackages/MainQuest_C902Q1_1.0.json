@@ -112,7 +112,7 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": null,
+        "FateCardList": [],
         "ThreatCardList": null,
         "NarrativeCount": 3,
         "NarrativeTextList": [
@@ -168,9 +168,9 @@
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180829070553509",
+  "Version": "20180829071459873",
   "Key": "MainQuest",
   "SubKey": "C902Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C902Q1_20180829070553509"
+  "InternalKey": "MainQuest_C902Q1_20180829071459873"
 }
