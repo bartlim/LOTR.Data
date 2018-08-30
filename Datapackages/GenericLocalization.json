@@ -6310,10 +6310,6 @@
     "Text": "Conflict at the Carrock"
   },
   {
-    "Id": "Q_QUEST_TUTORIAL_NAME",
-    "Text": "Tutorial"
-  },
-  {
     "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_DESCRIPTION",
     "Text": "The King of Dale seeks an alliance with the Beornings and you have agreed to act as his envoy. To reach their lands, you must brave the dangers of Mirkwood Forest."
   },
@@ -6332,10 +6328,6 @@
   {
     "Id": "Q_QUEST_CONFLICTATTHECARROCK_DESCRIPTION",
     "Text": "You have reached the land of the Beornings at last. But a new complication arises: Their leader, Grimbeorn the Old, is missing!"
-  },
-  {
-    "Id": "Q_QUEST_TUTORIAL_DESCRIPTION",
-    "Text": "Start your Journey"
   },
   {
     "Id": "Q_STAGE_FORESTGATE_NAME",
@@ -6422,18 +6414,6 @@
     "Text": "Fight with the Trolls"
   },
   {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_01_NAME",
-    "Text": "Forest Path"
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_02_NAME",
-    "Text": "Forest Camp"
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_03_NAME",
-    "Text": "The Spiders' Nest"
-  },
-  {
     "Id": "Q_STAGE_FORESTGATE_TEXT",
     "Text": "<line-height=100%><i><size=58>S</size>hadows loom in Mirkwood Forest, threatening the lands that surround it. The King of Dale decides that the peoples living along the dark forest’s borders must unite against this menace. You agree to act as his envoy to the Beornings, reclusive Skin-changers who dwell in the Anduin Vale to the west under the rule of their chieftain, Grimbeorn the Old. This is a journey fraught with peril, since you must travel through Mirkwood itself.\n<indent=50>The</indent> Elf-path that crosses the forest’s northern reaches offers the safest route—but, while searching for this hidden path, you find yourself surrounded by servants of the growing darkness…</i>"
   },
@@ -6516,18 +6496,6 @@
   {
     "Id": "Q_STAGE_FIGHTWITHTHETROLLS_TEXT",
     "Text": "<line-height=100%><i><size=58>F</size>reed from the chains, Grimbeorn claps you on the shoulder in thanks. You start toward the river, but he surprises you by heading deeper into the woods. \"More Trolls lurk nearby,\" he growls. \"We shall teach them the folly of crossing Grimbeorn the Old!\"\n<indent=50>You</indent> dash after the Skin-changer, his shouts as easy to follow as his trail through the brush. Bursting into a moonlit clearing, you see Grimbeorn facing three massive Trolls. “A barrel of beer to any who bring me a Troll’s head!” he proclaims, lunging at the nearest foe. You will need to defeat the Trolls outright or find a way to keep them occupied until the sun rises!</i>"
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_01_TEXT",
-    "Text": "<line-height=100%><i><indent=50><size=58>A</size>s</indent> a guest of the Elves in Rivendell, Bilbo began to feel stretched, as if he were becoming thin in his old age. He longed for one last grand adventure while he still retained some measure of youthful vigor. During a visit by his old friend Gloin, Bilbo jumped at the chance to accompany the Dwarf once more to the Wilderlands and beyond to the Lonely Mountain of Erebor. Gloin led Bilbo through the mountain passes of the Misty Mountains, this time in summer and blissfully without any dangerous encounters. After descending from the mountains to the edge of Mirkwood, the pair entered the forest along the secret Elf-path and began the long journey toward the town of Dale.\r\n\nAfter two day's journey through Mirkwood, Gloin is setting up camp when Bilbo hears a curious noise and wanders off to investigate…</i>"
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_02_TEXT",
-    "Text": "<line-height=100%><i><indent=50><size=58>B</size>ilbo</indent> races back to camp in order to warn his friend Gloin. As he enters the clearing, Bilbo finds his old Dwarf friend already locked in a valiant struggle to fend off more of the giant chittering spiders!</i>"
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_03_TEXT",
-    "Text": "<line-height=100%><i><indent=50><size=58>B</size>efore</indent> he fell, the Forest Protector told of a nest nearby. The spiders must be using it as a base from which to swarm the Elf-path. Bilbo and Gloin exhange a determined look. They well know the danger that these vile creatures pose. Other travelers must not fall to the spiders' depredations. The nest must be destroyed!</i>"
   },
   {
     "Id": "Q_STAGE_FORESTGATE_OBJECTIVE",
@@ -6614,18 +6582,6 @@
     "Text": "Defeat each Troll or resolve <i>Delay Until Dawn</i> to complete the Quest"
   },
   {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_01_OBJECTIVE",
-    "Text": "Defeat the next two Enemies that appear"
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_02_OBJECTIVE",
-    "Text": "Secure the camp from the spider incursion!"
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_03_OBJECTIVE",
-    "Text": "Destroy the spiders' nest to complete the Quest"
-  },
-  {
     "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_VICTORY_TEXT",
     "Text": "<i><size=58>A</size>lthough weary from your trevails, you summon the strength to cross the enchanted river. Having its dark waters between you and your pursuers brings some measure of relief, but you know well that further dangers lie ahead. You continue your journey, even more determined to warn the Beornings of the unrest stirring within Mirkwood Forest…</i>"
   },
@@ -6646,10 +6602,6 @@
     "Text": "<i><size=58>\"F</size>ine work,\" Grimbeorn says, looking upon the defeated Trolls. \"I am in your debt.\" \n<indent=50>You</indent> explain that encountering him was not mere happenstance. The Beorning chieftain grows somber as you share the news of unrest along Mirkwood's borders, then gives a decisive nod. \"Come; I would hear more of the King of Dale's offer. And there is that beer I promised!\"\n<indent=50>You</indent> smile despite your weariness. Uniting the Beornings and Men of Dale against the forces marshaling within Mirkwood addresses but one threat of many. Yet, wherever your next adventure may lead, you take heart that the Free Peoples shall rise to the challenge…</i>"
   },
   {
-    "Id": "Q_QUEST_TUTORIAL_VICTORY_TEXT",
-    "Text": "<i>You have completed the prologue, but your adventure has only just begun. You must rescue Bilbo!</i>"
-  },
-  {
     "Id": "Q_QUEST_PASSAGETHROUGHMIRKWOOD_DEFEAT_TEXT",
     "Text": "Your journey has come to a tragic end."
   },
@@ -6668,10 +6620,6 @@
   {
     "Id": "Q_QUEST_CONFLICTATTHECARROCK_DEFEAT_TEXT",
     "Text": "Your journey has come to a tragic end."
-  },
-  {
-    "Id": "Q_QUEST_TUTORIAL_DEFEAT_TEXT",
-    "Text": ""
   },
   {
     "Id": "Q_CAMPAIGN_NSKTEST_NAME",
@@ -15458,44 +15406,6 @@
     "Text": "C902-Q1L4Story2"
   },
   {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_01_TEXT_0",
-    "Text": "Bilbo waved at the Beorning guards as he passed into the twilight landscape beyond the gate. A sickle moon was rising and calm winds moved the grasses. \r\n\nGlóin was to have greeted them at Beorn’s Hall, but the old dwarf had not yet arrived. He’d wished to accompany them on their journey through Mirkwood to Erebor. \r\n\nDespite weary feet and a full stomach, Bilbo was in need of an evening stroll to sing and to think, and hoped to be the first to greet Glóin on the road.\r\n\nÓin, Nori, and Bombur were happy to sip the famous mead of the House of Beorn. Especially Bombur.\r\n\nIn the quiet way of hobbits, Bilbo moved invisibly through the night. Memories and thoughts of distant friends lay heavy on his heart that evening. The secret longing, the deep dull ache that never would entirely abate, had grown stronger in recent days."
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_01_TEXT_1",
-    "Text": "Lost in memory, Bilbo wandered through meadow and plain until he found himself at the edge of the Greenwood in the last rays of the sinking sun. Scents of growth and decay drifted from the trees. A symphony of evening birds and insects was on the air.\r\n\nBilbo came out of his reverie as something stirred in the tall bushes nearby. Glóin, perhaps? \r\n\nWhat emerged was not Glóin."
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_02_TEXT_0",
-    "Text": "For days, a strange pull had drawn the creature towards the forest’s edge.\r\n\nDesire drove it on. The creature missed the cool air and precious darkness under stone, yet for years it had roamed the Wilderland, faithfully searching. Hunting. Craving.\r\n\nA nearby noise attracted its attention, and the creature slid through the branches to investigate. \r\n\nAs it peered out of the trees onto a small trail, its ancient heart began to beat rapidly. For there it stood… the thief, the forever cursed. Finally.\r\n\n“Baggins.”"
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_02_TEXT_1",
-    "Text": "Weariness forgotten, Bilbo raced back toward camp. The snakes had come from that direction, agitated by something. Something that had driven them away. Something that might pose a danger to Glóin.\n     Bilbo cursed himself for being lulled into complacency. This was Mirkwood, after all. Though it had known peace in recent years, its dark nature was unchanged. For each danger revealed, another lurked in the shadows.\n     Rounding a bend in the trail, Bilbo's suspicions were confirmed: Illuminated by the campfire, his old friend was locked in a valiant struggle against giant spiders…",
-    "Text_CN": "Weariness forgotten, Bilbo raced back toward camp. The snakes had come from that direction, agitated by something. Something that had driven them away. Something that might pose a danger to Glóin.\n     Bilbo cursed himself for being lulled into complacency. This was Mirkwood, after all. Though it had known peace in recent years, its dark nature was unchanged. For each danger revealed, another lurked in the shadows.\n     Rounding a bend in the trail, Bilbo's suspicions were confirmed: Illuminated by the campfire, his old friend was locked in a valiant struggle against giant spiders…",
-    "Text_FR": "Weariness forgotten, Bilbo raced back toward camp. The snakes had come from that direction, agitated by something. Something that had driven them away. Something that might pose a danger to Glóin.\n     Bilbo cursed himself for being lulled into complacency. This was Mirkwood, after all. Though it had known peace in recent years, its dark nature was unchanged. For each danger revealed, another lurked in the shadows.\n     Rounding a bend in the trail, Bilbo's suspicions were confirmed: Illuminated by the campfire, his old friend was locked in a valiant struggle against giant spiders…"
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_03_TEXT_0",
-    "Text": "The creature hesitated.\r\n\nIt would have struck without mercy, had not that filthy dwarf been with Baggins. The creature feared the strength of dwarves. Fortunately, it knew of a safer way to snare its prey.\r\n\nFor the creature had made friends in the forest over the years. It had learned their chittering tongue, and they’d helped each other in dark deeds.\r\n\nNoiselessly under shadowed boughs, the creature slid off to plead with the lady of the nearby brood. Tasty flesh it would offer her. For himself, the creature desired only a tiny thing. A trinket.\r\n\nThe smallest of things."
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_03_TEXT_1",
-    "Text": "The tranquility of Beorn’s Hall was shattered when a devastated Gloin arrived, exhausted and anguished.\r\n\r\nThe old dwarf tearfully explained how he’d met Bilbo in the outskirts of the Greenwood, and how they’d been ambushed by great spiders who’d taken the dear hobbit.\r\n\r\n“And to think that Bilbo Baggins rescued us from such webs; it’s almost more than I can bear” sobbed the old dwarf. “If only Gandalf were here”. \r\n\r\nAlas, the grey wizard was nowhere near Beorn’s Hall, but another group of hardy folks had arrived shortly after Bilbo left for his evening walk."
-  },
-  {
-    "Id": "Q_QUEST_TUTORIAL_VICTORY_TEXT_0",
-    "Text": "While the party was focused on destroying the spiders' nest, a massive spider lunged from the shadows to capture Bilbo and steal him away! Glóin and Arwen recognized that the beast was a spawn of Ungoliant, a spider of tremendous power. They realized they must return to the nearby Beornings to organize a rescue party for Bilbo.\n\nTheir mission clear, the companions returned to the Hall of Beorn with the greatest of haste.",
-    "Text_CN": "While the party was focused on destroying the spiders' nest, a massive spider lunged from the shadows to capture Bilbo and steal him away! Glóin and Arwen recognized that the beast was a spawn of Ungoliant, a spider of tremendous power. They realized they must return to the nearby Beornings to organize a rescue party for Bilbo.\n\nTheir mission clear, the companions returned to the Hall of Beorn with the greatest of haste.",
-    "Text_FR": "While the party was focused on destroying the spiders' nest, a massive spider lunged from the shadows to capture Bilbo and steal him away! Glóin and Arwen recognized that the beast was a spawn of Ungoliant, a spider of tremendous power. They realized they must return to the nearby Beornings to organize a rescue party for Bilbo.\n\nTheir mission clear, the companions returned to the Hall of Beorn with the greatest of haste."
-  },
-  {
-    "Id": "Q_QUEST_TUTORIAL_VICTORY_TEXT_1",
-    "Text": "You have completed the prologue, but your adventure has only just begun. \n     Gather your own fellowship and begin the first Campaign, The Shadow's Reach, to rescue Bilbo!",
-    "Text_CN": "You have completed the prologue, but your adventure has only just begun. \n     Gather your own fellowship and begin the first Campaign, The Shadow's Reach, to rescue Bilbo!",
-    "Text_FR": "You have completed the prologue, but your adventure has only just begun. \n     Gather your own fellowship and begin the first Campaign, The Shadow's Reach, to rescue Bilbo!"
-  },
-  {
     "Id": "C_THEORCCOMMANDER_TITLE",
     "Text": "The Orc Commander"
   },
@@ -17152,66 +17062,6 @@
     "Text": ""
   },
   {
-    "Id": "Q_QUEST_TUTORIAL_TEXT_0",
-    "Text": "While the party was focused on destroying the spiders' nest, a massive spider lunged from the shadows to capture Bilbo and steal him away! Glóin recognized that the beast was a spawn of Ungoliant, a spider of tremendous power. He realized he must return to the nearby Beornings to organize a rescue party for Bilbo.\r\n<indent=50></indent>The mission clear, Glóin returned to the Hall of Beorn with the greatest of haste."
-  },
-  {
-    "Id": "Q_QUEST_TUTORIAL_TEXT_1",
-    "Text": "The tranquility of Beorn’s Hall was shattered when a devastated Glóin arrived, exhausted and anguished.\r\n<indent=50></indent>The old dwarf tearfully explained how he’d met Bilbo in the outskirts of the Greenwood, and how they’d been ambushed by great spiders who’d taken the dear hobbit.\r\n<indent=50></indent>“And to think that Bilbo Baggins rescued us from such webs; it’s almost more than I can bear,” sobbed the old dwarf. “If only Gandalf were here.”\r\n<indent=50></indent>Alas, the grey wizard was nowhere near Beorn’s Hall, but another group of hardy folks had arrived shortly after Bilbo left for his evening walk."
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_01_TITLE_0",
-    "Text": "A Heavy Heart"
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_01_TITLE_1",
-    "Text": "An Unexpected Encounter"
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_01_CHOICE_TITLE_TEXT",
-    "Text": "Q_STAGE_TUTORIAL_STAGE_01_CHOICE_TITLE_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_01_CHOICE_TEXT",
-    "Text": "Q_STAGE_TUTORIAL_STAGE_01_CHOICE_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_02_TITLE_0",
-    "Text": "Something in the Trees"
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_02_CHOICE_TITLE_TEXT",
-    "Text": "Q_STAGE_TUTORIAL_STAGE_02_CHOICE_TITLE_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_02_CHOICE_TEXT",
-    "Text": "Q_STAGE_TUTORIAL_STAGE_02_CHOICE_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_03_TITLE_0",
-    "Text": "A Baleful Bargain"
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_03_TITLE_1",
-    "Text": "Victory and Loss"
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_03_CHOICE_TITLE_TEXT",
-    "Text": "Q_STAGE_TUTORIAL_STAGE_03_CHOICE_TITLE_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_03_CHOICE_TEXT",
-    "Text": "Q_STAGE_TUTORIAL_STAGE_03_CHOICE_TEXT"
-  },
-  {
-    "Id": "Q_STAGE_TUTORIAL_STAGE_02_TITLE_1",
-    "Text": "Default Title 2"
-  },
-  {
-    "Id": "Q_STAGE_FORESTGATE_TITLE_0",
-    "Text": "Default Title 1"
-  },
-  {
     "Id": "Q_STAGE_CAPTUREDBYSPIDERS_TITLE_0",
     "Text": "Default Title 1"
   },
@@ -17306,10 +17156,6 @@
   {
     "Id": "Q_QUEST_C902Q3_TEXT_0",
     "Text": "DefaultVictory1"
-  },
-  {
-    "Id": "Q_QUEST_TUTORIAL_TEXT_2",
-    "Text": "The time has come to begin your journey. Go forth and fare well!"
   },
   {
     "Id": "Q_STAGE_C902Q1L1_CHOICE_1",
