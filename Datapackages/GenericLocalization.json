@@ -17330,5 +17330,405 @@
   {
     "Id": "C_AAEXHAUSTALLENEMY_FLAVOR",
     "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_C001Q1_NAME",
+    "Text": "Attercop, Attercop"
+  },
+  {
+    "Id": "Q_QUEST_C001Q1_DESCRIPTION",
+    "Text": "An anguished Glóin arrives at Beorn's Hall with dreadful news: a great spider has captured Bilbo Baggins! He beseeches a hardy band of heroes to help rescue his dear friend."
+  },
+  {
+    "Id": "Q_QUEST_C001Q1_TEXT_0",
+    "Text": "The Lady and her brood are gathered at the edge of their lair. A band of Orcs and Goblins have emerged from the trees. Some heave empty wagons, others carry torches.\n\nA huge Orc tromps to stand before the Lady.\n\n\"The moon is full, spidey. Ufthak comes to collect!\" he snarls.\n\nThe Lady chitters at her lieutenants, who rush into the webs. The spiders soon return with web-wrapped cocoons, depositing them in front of the Orc captain. Goblins rush to gather the cocoons, loading them into carts. As the last cocoons are loaded, a hooded Goblin begins screeching at Ufthak, pointing to a parchment full of hash marks.\n\nUfthak glares at the yelling Goblin for a moment, then blinks and pivots back to the Lady.\n\n\"We one short, leggy.\" The Orc's grainy voice is mild, but laced with promise of violence. \"Cold masters don't like… short. Ufthak don't like… short. We had deal!\""
+  },
+  {
+    "Id": "Q_QUEST_C001Q1_DEFEAT_TEXT",
+    "Text": "Your Quest ends in failure, leaving Bilbo to a horrible fate."
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L1_NAME",
+    "Text": "A Journey Begins"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L1_OBJECTIVE",
+    "Text": "Defeat every Enemy, or resolve Glint of Steel"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L1_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L1_CHOICE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L2_NAME",
+    "Text": "A Mysterious Stream"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L2_OBJECTIVE",
+    "Text": "Find a way across the stream"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L2_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L2_CHOICE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L3_NAME",
+    "Text": "A Fresh Dilemma"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L3_OBJECTIVE",
+    "Text": "Defeat Kirous"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L3_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L3_CHOICE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L4_NAME",
+    "Text": "A Timely Rescue"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L4_OBJECTIVE",
+    "Text": "<b>Final Encounter</b>: Defeat every Enemy"
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L4_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q1L4_CHOICE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_C001Q2_NAME",
+    "Text": "In the City of Webs"
+  },
+  {
+    "Id": "Q_QUEST_C001Q2_DESCRIPTION",
+    "Text": "Tracking Bilbo's abductors to their lair, you are surprised to see spiders and orcs together. Whatever their plans for Bilbo, you are determined to stop them.\r"
+  },
+  {
+    "Id": "Q_QUEST_C001Q2_DEFEAT_TEXT",
+    "Text": "Your Quest ends in failure, leaving Bilbo to a horrible fate."
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L1_NAME",
+    "Text": "A Sticky Situation"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L1_OBJECTIVE",
+    "Text": "You must defeat the monstrous spiders\r"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L1_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L1_CHOICE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L2_NAME",
+    "Text": "Too Many Options"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L2_OBJECTIVE",
+    "Text": "Open the cocoons to rescue your companions"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L2_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L2_CHOICE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L4_NAME",
+    "Text": "Ungoliant’s Spawn"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L4_OBJECTIVE",
+    "Text": "<b>Final Encounter</b>: Defeat Ungoliant's Spawn"
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L4_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q2L4_CHOICE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_C001Q3_NAME",
+    "Text": "On the Trail"
+  },
+  {
+    "Id": "Q_QUEST_C001Q3_DESCRIPTION",
+    "Text": "You find a pitiful Creature that claims it can help you find Bilbo… but are you sure you can trust the wretched thing?"
+  },
+  {
+    "Id": "Q_QUEST_C001Q3_DEFEAT_TEXT",
+    "Text": "Your Quest ends in failure, leaving Bilbo to a horrible fate."
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L1_NAME",
+    "Text": "Slinker, Stinker"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L1_OBJECTIVE",
+    "Text": "Persuade the creature to help you find Bilbo"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L1_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L1_CHOICE_TEXT",
+    "Text": "<size=130%><align=center>\nEither follow the Orc caravan <size=80%>(Gain By Day And Dark)</size>, or Trust Sméagol <size=80%>(Gain Sméagol)</size></align></size>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2A_NAME",
+    "Text": "Catching the Caravan"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2A_OBJECTIVE",
+    "Text": "Defeat every <b><i>Orc</i></b>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2A_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2A_CHOICE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2B_NAME",
+    "Text": "A Secret Way"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2B_OBJECTIVE",
+    "Text": "Follow Sméagol as he finds a way through the marsh.\n<color=red>Sméagol must survive</color>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2B_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L2B_CHOICE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3A_NAME",
+    "Text": "Saving the Sneak"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3A_OBJECTIVE",
+    "Text": "Save Sméagol, then try to hide.\n<color=red>Sméagol must survive</color>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3A_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3A_CHOICE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3B_NAME",
+    "Text": "Juicy Fishes and Snakeses"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3B_OBJECTIVE",
+    "Text": "Defeat the Marsh Adder.\n<color=red>Sméagol must survive</color>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3B_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L3B_CHOICE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L4_NAME",
+    "Text": "Hiding in the Shadows"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L4_OBJECTIVE",
+    "Text": "Pickpocket the key, or defeat enemies to take it by force.\n<color=red>Sméagol must survive</color>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L4_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L4_CHOICE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L5_NAME",
+    "Text": "Into the Tower"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L5_OBJECTIVE",
+    "Text": "<b>Final Encounter</b>: With Sméagol's help, try to find out where Bilbo was taken.\n<color=red>Sméagol must survive</color>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L5_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q3L5_CHOICE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_C001Q4_NAME",
+    "Text": "We Must Away"
+  },
+  {
+    "Id": "Q_QUEST_C001Q4_DESCRIPTION",
+    "Text": "Your pursuit of Bilbo has brought you to a tower hidden deep in Mirkwood. You must be careful not to draw the attention of every foul creature that calls this dark place home."
+  },
+  {
+    "Id": "Q_QUEST_C001Q4_DEFEAT_TEXT",
+    "Text": "Your Quest ends in failure, leaving Bilbo to a horrible fate."
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L1_NAME",
+    "Text": "The Pit"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L1_OBJECTIVE",
+    "Text": "Defeat the Giant Slug"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L1_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L1_CHOICE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L2_NAME",
+    "Text": "Into the Dungeon"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L2_OBJECTIVE",
+    "Text": "Survive for 4 rounds as you fight your way across the hall to the far door"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L2_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L2_CHOICE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L3_NAME",
+    "Text": "Concerning a Hobbit"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L3_OBJECTIVE",
+    "Text": "<b>Final Encounter</b>: Drive off Sméagol and save Bilbo"
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L3_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q4L3_CHOICE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_C001Q5_NAME",
+    "Text": "Down the Anduin"
+  },
+  {
+    "Id": "Q_QUEST_C001Q5_DESCRIPTION",
+    "Text": "Bilbo is free, but now you face the retribution of his former captors. Your only hope of salvation is to flee down the nearby Anduin and seek refuge with the elves of Lórien."
+  },
+  {
+    "Id": "Q_QUEST_C001Q5_DEFEAT_TEXT",
+    "Text": "Your Quest ends in failure, leaving Bilbo to a horrible fate."
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L1_NAME",
+    "Text": "A Troll for a Raft"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L1_OBJECTIVE",
+    "Text": "Board the raft to try and escape the pursuing orcs. \r\n<color=red>Bilbo must survive</color>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L1_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L1_CHOICE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L2_NAME",
+    "Text": "River Rapids"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L2_OBJECTIVE",
+    "Text": "Resolve all Hazards to continue downriver.\r\n<color=red>Bilbo must survive</color>\r"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L2_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L2_CHOICE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3_NAME",
+    "Text": "The Ford"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3_OBJECTIVE",
+    "Text": "Deny the crossing to hold the orcs at bay until you can escape upon the water.\r\n<color=red>Bilbo must survive</color>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L3_CHOICE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L4_NAME",
+    "Text": "Surrounded"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L4_OBJECTIVE",
+    "Text": "<b>Final Encounter</b>: Protect Bilbo until wardens of Lórien arrive; then defeat every Enemy in play.\r\n<color=red>Bilbo must survive</color>"
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L4_CHOICE_TITLE_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_C001Q5L4_CHOICE_TEXT",
+    "Text": ""
   }
 ]
