@@ -112,7 +112,7 @@
         "NextStageTitles": [
           ""
         ],
-        "FateCardList": [],
+        "FateCardList": null,
         "ThreatCardList": null,
         "NarrativeCount": 3,
         "NarrativeTextList": [
@@ -162,15 +162,15 @@
     ],
     "VictoryVoiceList": [
       "C902Q1_VictoryVoice_1",
-      "Victory_1"
+      "C902Q1_VictoryVoice_2"
     ],
     "FateCardList": [],
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180829071459873",
+  "Version": "20180830022447488",
   "Key": "MainQuest",
   "SubKey": "C902Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C902Q1_20180829071459873"
+  "InternalKey": "MainQuest_C902Q1_20180830022447488"
 }
