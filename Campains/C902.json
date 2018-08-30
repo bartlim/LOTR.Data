@@ -9,7 +9,7 @@
       "IconSprite": "C902Q1QuestIcon",
       "ArtSprite": "C902Q1QuestArt",
       "DefeatVoice": "Defeat",
-      "ResolutionArtSprite": "C902Q1QuestResolution",
+      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "C902Q1L1",
@@ -77,7 +77,7 @@
             "Q_STAGE_C902Q1L2_TITLE_1",
             "Q_STAGE_C902Q1L2_TITLE_2"
           ],
-          "FateCardList": [],
+          "FateCardList": null,
           "ThreatCardList": null,
           "ChoiceBGSprite": "C902Q1L2_ChoiceBG",
           "ChoiceSpriteList": [
@@ -200,7 +200,7 @@
       ],
       "VictoryVoiceList": [
         "C902Q1_VictoryVoice_1",
-        "Victory_1"
+        "C902Q1_VictoryVoice_2"
       ],
       "FateCardList": [],
       "ThreatCardList": [],
@@ -211,7 +211,7 @@
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "DefeatVoice": "Defeat",
-      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "C902Q2L1",
@@ -308,7 +308,7 @@
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "DefeatVoice": null,
-      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "C902Q3L1",
@@ -403,7 +403,7 @@
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "DefeatVoice": null,
-      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "C902Q4L1",
@@ -496,7 +496,7 @@
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "DefeatVoice": null,
-      "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
+      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "C902Q5L1",
