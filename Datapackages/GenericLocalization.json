@@ -17576,5 +17576,69 @@
   {
     "Id": "Q_STAGE_C001Q5L4_CHOICE_TEXT",
     "Text": ""
+  },
+  {
+    "Id": "Q_QUEST_TUTORIAL_NAME",
+    "Text": "Tutorial"
+  },
+  {
+    "Id": "Q_QUEST_TUTORIAL_DESCRIPTION",
+    "Text": "Start your Journey"
+  },
+  {
+    "Id": "Q_QUEST_TUTORIAL_TEXT_0",
+    "Text": "While the party was focused on destroying the spiders' nest, a massive spider lunged from the shadows to capture Bilbo and steal him away! Glóin recognized that the beast was a spawn of Ungoliant, a spider of tremendous power. He realized he must return to the nearby Beornings to organize a rescue party for Bilbo.\r\n<indent=50></indent>The mission clear, Glóin returned to the Hall of Beorn with the greatest of haste."
+  },
+  {
+    "Id": "Q_QUEST_TUTORIAL_DEFEAT_TEXT",
+    "Text": ""
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_01_NAME",
+    "Text": "Forest Path"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_01_OBJECTIVE",
+    "Text": "Defeat the next two Enemies that appear"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_01_CHOICE_TITLE_TEXT",
+    "Text": "Q_STAGE_TUTORIAL_STAGE_01_CHOICE_TITLE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_01_CHOICE_TEXT",
+    "Text": "Q_STAGE_TUTORIAL_STAGE_01_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_02_NAME",
+    "Text": "Forest Camp"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_02_OBJECTIVE",
+    "Text": "Secure the camp from the spider incursion!"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_02_CHOICE_TITLE_TEXT",
+    "Text": "Q_STAGE_TUTORIAL_STAGE_02_CHOICE_TITLE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_02_CHOICE_TEXT",
+    "Text": "Q_STAGE_TUTORIAL_STAGE_02_CHOICE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_03_NAME",
+    "Text": "The Spiders' Nest"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_03_OBJECTIVE",
+    "Text": "Destroy the spiders' nest to complete the Quest"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_03_CHOICE_TITLE_TEXT",
+    "Text": "Q_STAGE_TUTORIAL_STAGE_03_CHOICE_TITLE_TEXT"
+  },
+  {
+    "Id": "Q_STAGE_TUTORIAL_STAGE_03_CHOICE_TEXT",
+    "Text": "Q_STAGE_TUTORIAL_STAGE_03_CHOICE_TEXT"
   }
 ]
