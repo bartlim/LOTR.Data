@@ -417,7 +417,9 @@
       "VictoryTextList": [
         "Q_QUEST_C902Q3_TEXT_0"
       ],
-      "VictoryVoiceList": [],
+      "VictoryVoiceList": [
+        "C902Q3_VictoryVoice_1"
+      ],
       "ResolutionArtSpriteList": [],
       "FateCardList": [],
       "ThreatCardList": [],
@@ -510,10 +512,16 @@
         }
       ],
       "VictoryBGM": null,
-      "VictoryCount": 0,
-      "VictoryTitleList": [],
-      "VictoryTextList": [],
-      "VictoryVoiceList": [],
+      "VictoryCount": 1,
+      "VictoryTitleList": [
+        "Q_QUEST_C902Q4_TITLE_0"
+      ],
+      "VictoryTextList": [
+        "Q_QUEST_C902Q4_TEXT_0"
+      ],
+      "VictoryVoiceList": [
+        "C902Q4_VictoryVoice_1"
+      ],
       "ResolutionArtSpriteList": [],
       "FateCardList": [],
       "ThreatCardList": [],
@@ -606,10 +614,16 @@
         }
       ],
       "VictoryBGM": null,
-      "VictoryCount": 0,
-      "VictoryTitleList": [],
-      "VictoryTextList": [],
-      "VictoryVoiceList": [],
+      "VictoryCount": 1,
+      "VictoryTitleList": [
+        "Q_QUEST_C902Q5_TITLE_0"
+      ],
+      "VictoryTextList": [
+        "Q_QUEST_C902Q5_TEXT_0"
+      ],
+      "VictoryVoiceList": [
+        "C902Q5_VictoryVoice_1"
+      ],
       "ResolutionArtSpriteList": [],
       "FateCardList": [],
       "ThreatCardList": [],
