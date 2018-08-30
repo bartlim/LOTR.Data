@@ -11,7 +11,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": "Q1_Defeat",
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "ForestGate",
@@ -383,13 +382,16 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 1,
+          "VictoryTitleList": null,
           "VictoryTextList": [
             "Q_QUEST_PASSAGETHROUGHMIRKWOOD_TEXT_0"
           ],
           "VictoryVoiceList": [
             "Q1_Victory"
           ],
+          "ResolutionArtSpriteList": null,
           "FateCardList": [
             {
               "Id": "RangersCache",
@@ -425,7 +427,6 @@
           "IconSprite": "Sprites/Quest/icon_q2",
           "ArtSprite": "Sprites/Quest/quest_2",
           "DefeatVoice": "Q1_Defeat",
-          "ResolutionArtSprite": "Sprites/Quest/Quest2_Resolution",
           "Stages": [
             {
               "Id": "DarkForest",
@@ -738,13 +739,16 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 1,
+          "VictoryTitleList": null,
           "VictoryTextList": [
             "Q_QUEST_FLIESANDSPIDERS_TEXT_0"
           ],
           "VictoryVoiceList": [
             "Q2_Victory"
           ],
+          "ResolutionArtSpriteList": null,
           "FateCardList": [
             {
               "Id": "CuttingTheWebs",
@@ -780,7 +784,6 @@
           "IconSprite": "Sprites/Quest/icon_q3",
           "ArtSprite": "Sprites/Quest/quest_3",
           "DefeatVoice": "Q1_Defeat",
-          "ResolutionArtSprite": "Sprites/Quest/Quest3_Resolution",
           "Stages": [
             {
               "Id": "MirkwoodForest",
@@ -1233,13 +1236,16 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 1,
+          "VictoryTitleList": null,
           "VictoryTextList": [
             "Q_QUEST_LOSTINMIRKWOOD_TEXT_0"
           ],
           "VictoryVoiceList": [
             "Q3_Victory"
           ],
+          "ResolutionArtSpriteList": null,
           "FateCardList": [
             {
               "Id": "MakeAStand",
@@ -1275,7 +1281,6 @@
           "IconSprite": "Sprites/Quest/icon_q4",
           "ArtSprite": "Sprites/Quest/quest_4",
           "DefeatVoice": "Q4_Defeat",
-          "ResolutionArtSprite": "Sprites/Quest/Quest4_Resolution",
           "Stages": [
             {
               "Id": "ToTheRiver",
@@ -1630,13 +1635,16 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 1,
+          "VictoryTitleList": null,
           "VictoryTextList": [
             "Q_QUEST_JOURNEYDOWNTHEANDUIN_TEXT_0"
           ],
           "VictoryVoiceList": [
             "Q4_Victory"
           ],
+          "ResolutionArtSpriteList": null,
           "FateCardList": [
             {
               "Id": "RefreshingWaters",
@@ -1672,7 +1680,6 @@
           "IconSprite": "Sprites/Quest/icon_q5",
           "ArtSprite": "Sprites/Quest/quest_5",
           "DefeatVoice": "Q5_Defeat",
-          "ResolutionArtSprite": "Sprites/Quest/Quest5_Resolution",
           "Stages": [
             {
               "Id": "SearchingForGrimbeorn",
@@ -1950,13 +1957,16 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 1,
+          "VictoryTitleList": null,
           "VictoryTextList": [
             "Q_QUEST_CONFLICTATTHECARROCK_TEXT_0"
           ],
           "VictoryVoiceList": [
             "Q5_Victory"
           ],
+          "ResolutionArtSpriteList": null,
           "FateCardList": [
             {
               "Id": "StaggeringBlow",
@@ -2000,7 +2010,6 @@
           "IconSprite": "C001Q1QuestIcon",
           "ArtSprite": "C001Q1QuestArt",
           "DefeatVoice": "Defeat",
-          "ResolutionArtSprite": "C001Q1QuestResolution",
           "Stages": [
             {
               "Id": "C001Q1L1",
@@ -2345,7 +2354,9 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 2,
+          "VictoryTitleList": null,
           "VictoryTextList": [
             "Q_QUEST_C001Q1_TEXT_0",
             "Q_QUEST_C001Q1_TEXT_1"
@@ -2354,6 +2365,7 @@
             "C001Q1_VictoryVoice_1",
             "C001Q1_VictoryVoice_2"
           ],
+          "ResolutionArtSpriteList": null,
           "FateCardList": [
             {
               "Id": "TheGuiltOfDwarves",
@@ -2381,7 +2393,6 @@
           "IconSprite": "C001Q2QuestIcon",
           "ArtSprite": "C001Q2QuestArt",
           "DefeatVoice": "Defeat",
-          "ResolutionArtSprite": "C001Q2QuestResolution",
           "Stages": [
             {
               "Id": "C001Q2L1",
@@ -2678,13 +2689,16 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 1,
+          "VictoryTitleList": null,
           "VictoryTextList": [
             "Q_QUEST_C001Q2_TEXT_0"
           ],
           "VictoryVoiceList": [
             "C001Q2_VictoryVoice_1"
           ],
+          "ResolutionArtSpriteList": null,
           "FateCardList": [
             {
               "Id": "CuttingTheWebs",
@@ -2720,7 +2734,6 @@
           "IconSprite": "C001Q3QuestIcon",
           "ArtSprite": "C001Q3QuestArt",
           "DefeatVoice": "Defeat",
-          "ResolutionArtSprite": "C001Q3QuestResolution",
           "Stages": [
             {
               "Id": "C001Q3L1",
@@ -3238,13 +3251,16 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 1,
+          "VictoryTitleList": null,
           "VictoryTextList": [
             "Q_QUEST_C001Q3_TEXT_0"
           ],
           "VictoryVoiceList": [
             "C001Q3_VictoryVoice_1"
           ],
+          "ResolutionArtSpriteList": null,
           "FateCardList": [
             {
               "Id": "ForageForSupplies",
@@ -3280,7 +3296,6 @@
           "IconSprite": "C001Q4QuestIcon",
           "ArtSprite": "C001Q4QuestArt",
           "DefeatVoice": "Defeat",
-          "ResolutionArtSprite": "C001Q4QuestResolution",
           "Stages": [
             {
               "Id": "C001Q4L1",
@@ -3613,13 +3628,16 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 1,
+          "VictoryTitleList": null,
           "VictoryTextList": [
             "Q_QUEST_C001Q4_TEXT_0"
           ],
           "VictoryVoiceList": [
             "C001Q4_VictoryVoice_1"
           ],
+          "ResolutionArtSpriteList": null,
           "FateCardList": [
             {
               "Id": "StaggeringBlow",
@@ -3655,7 +3673,6 @@
           "IconSprite": "C001Q5QuestIcon",
           "ArtSprite": "C001Q5QuestArt",
           "DefeatVoice": "Defeat",
-          "ResolutionArtSprite": "C001Q5QuestResolution",
           "Stages": [
             {
               "Id": "C001Q5L1",
@@ -3989,7 +4006,9 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 2,
+          "VictoryTitleList": null,
           "VictoryTextList": [
             "Q_QUEST_C001Q5_TEXT_0",
             "Q_QUEST_C001Q5_TEXT_1"
@@ -3998,6 +4017,7 @@
             "C001Q5_VictoryVoice_1",
             "C001Q5_VictoryVoice_2"
           ],
+          "ResolutionArtSpriteList": null,
           "FateCardList": [
             {
               "Id": "RefreshingWaters",
@@ -4041,7 +4061,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": "Defeat",
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "C901Q1L1",
@@ -5087,11 +5106,14 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 1,
+          "VictoryTitleList": null,
           "VictoryTextList": [
             "Q_QUEST_C901Q1_TEXT_0"
           ],
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -5101,7 +5123,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "C901Q2L1",
@@ -5183,9 +5204,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": [],
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -5195,7 +5219,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "C901Q3L1",
@@ -5269,9 +5292,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": [],
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -5281,7 +5307,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "C901Q4L1",
@@ -5384,11 +5409,14 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 1,
+          "VictoryTitleList": null,
           "VictoryTextList": [
             "Q_QUEST_C901Q4_TEXT_0"
           ],
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -5398,7 +5426,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "C901Q5L1",
@@ -5472,9 +5499,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": [],
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -5492,7 +5522,6 @@
           "IconSprite": "C902Q1QuestIcon",
           "ArtSprite": "C902Q1QuestArt",
           "DefeatVoice": "Defeat",
-          "ResolutionArtSprite": "C902Q1QuestResolution",
           "Stages": [
             {
               "Id": "C902Q1L1",
@@ -5683,7 +5712,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 2,
+          "VictoryTitleList": [
+            "Q_QUEST_C902Q1_TITLE_0",
+            "Q_QUEST_C902Q1_TITLE_1"
+          ],
           "VictoryTextList": [
             "Q_QUEST_C902Q1_TEXT_0",
             "Q_QUEST_C902Q1_TEXT_1"
@@ -5691,6 +5725,10 @@
           "VictoryVoiceList": [
             "C902Q1_VictoryVoice_1",
             "Victory_1"
+          ],
+          "ResolutionArtSpriteList": [
+            "C902Q1_QuestResolution_1",
+            "C902Q1_QuestResolution_2"
           ],
           "FateCardList": [],
           "ThreatCardList": [],
@@ -5701,7 +5739,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": "Defeat",
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "C902Q2L1",
@@ -5783,13 +5820,18 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 1,
+          "VictoryTitleList": [
+            "Q_QUEST_C902Q2_TITLE_0"
+          ],
           "VictoryTextList": [
             "Q_QUEST_C902Q2_TEXT_0"
           ],
           "VictoryVoiceList": [
             "TEST1"
           ],
+          "ResolutionArtSpriteList": [],
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -5799,7 +5841,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "C902Q3L1",
@@ -5881,11 +5922,18 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 1,
+          "VictoryTitleList": [
+            "Q_QUEST_C902Q3_TITLE_0"
+          ],
           "VictoryTextList": [
             "Q_QUEST_C902Q3_TEXT_0"
           ],
-          "VictoryVoiceList": [],
+          "VictoryVoiceList": [
+            "C902Q3_VictoryVoice_1"
+          ],
+          "ResolutionArtSpriteList": [],
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -5895,7 +5943,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "C902Q4L1",
@@ -5977,9 +6024,18 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": [],
-          "VictoryVoiceList": [],
+          "VictoryBGM": null,
+          "VictoryCount": 1,
+          "VictoryTitleList": [
+            "Q_QUEST_C902Q4_TITLE_0"
+          ],
+          "VictoryTextList": [
+            "Q_QUEST_C902Q4_TEXT_0"
+          ],
+          "VictoryVoiceList": [
+            "C902Q4_VictoryVoice_1"
+          ],
+          "ResolutionArtSpriteList": [],
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -5989,7 +6045,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "C902Q5L1",
@@ -6071,9 +6126,18 @@
               "PlayOnce": false
             }
           ],
-          "VictoryCount": 0,
-          "VictoryTextList": [],
-          "VictoryVoiceList": [],
+          "VictoryBGM": null,
+          "VictoryCount": 1,
+          "VictoryTitleList": [
+            "Q_QUEST_C902Q5_TITLE_0"
+          ],
+          "VictoryTextList": [
+            "Q_QUEST_C902Q5_TEXT_0"
+          ],
+          "VictoryVoiceList": [
+            "C902Q5_VictoryVoice_1"
+          ],
+          "ResolutionArtSpriteList": [],
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": "AggressiveAI"
@@ -6091,7 +6155,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": "Defeat",
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "DemoLocation1",
@@ -6414,9 +6477,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": null,
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": [
             {
               "Id": "RangersCache",
@@ -6452,7 +6518,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": "Defeat",
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "Location201",
@@ -6523,9 +6588,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": null,
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": null
@@ -6535,7 +6603,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "Location301",
@@ -6606,9 +6673,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": null,
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": null
@@ -6618,7 +6688,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "Location401",
@@ -6689,9 +6758,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": null,
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": null
@@ -6701,7 +6773,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "Location501",
@@ -6772,9 +6843,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": null,
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": [],
           "ThreatCardList": [],
           "AIBehavior": null
@@ -6792,7 +6866,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": "Defeat",
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "TheWoodmanVillage",
@@ -6928,9 +7001,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": null,
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": [
             {
               "Id": "RangersCache",
@@ -6966,7 +7042,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": "Defeat",
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "TheCaveEntrance",
@@ -7111,9 +7186,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": null,
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7123,7 +7201,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": "Defeat",
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "RacingThroughTheForest",
@@ -7265,9 +7342,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": null,
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7277,7 +7357,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "Location401",
@@ -7348,9 +7427,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": null,
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7360,7 +7442,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "Location501",
@@ -7431,9 +7512,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": null,
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7451,7 +7535,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": "Defeat",
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "Location101",
@@ -7522,9 +7605,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": null,
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7534,7 +7620,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "Location201",
@@ -7605,9 +7690,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": null,
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7617,7 +7705,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "Location301",
@@ -7688,9 +7775,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": null,
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7700,7 +7790,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "Location401",
@@ -7771,9 +7860,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": null,
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7783,7 +7875,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "Location501",
@@ -7854,9 +7945,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": null,
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -7874,7 +7968,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "Location101",
@@ -7968,9 +8061,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": null,
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": [
             {
               "Id": "RangersCache",
@@ -8006,7 +8102,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "Location201",
@@ -8077,9 +8172,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": null,
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -8089,7 +8187,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "Location301",
@@ -8160,9 +8257,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": null,
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -8172,7 +8272,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "Location401",
@@ -8243,9 +8342,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": null,
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -8255,7 +8357,6 @@
           "IconSprite": "Sprites/Quest/icon_q1",
           "ArtSprite": "Sprites/Quest/quest_1",
           "DefeatVoice": null,
-          "ResolutionArtSprite": "Sprites/Quest/Quest1_Resolution",
           "Stages": [
             {
               "Id": "Location501",
@@ -8326,9 +8427,12 @@
               "PlayOnce": false
             }
           ],
+          "VictoryBGM": null,
           "VictoryCount": 0,
+          "VictoryTitleList": null,
           "VictoryTextList": null,
           "VictoryVoiceList": null,
+          "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
           "AIBehavior": null
@@ -8346,7 +8450,6 @@
           "IconSprite": "Sprites/Quest/icon_q2",
           "ArtSprite": "Sprites/Quest/quest_2",
           "DefeatVoice": "TutorialDefeatVoice",
-          "ResolutionArtSprite": "TutorialQuestResolution",
           "Stages": [
             {
               "Id": "Tutorial_Stage_01",
@@ -8441,7 +8544,9 @@
             }
           ],
           "SauronDeck": [],
+          "VictoryBGM": null,
           "VictoryCount": 3,
+          "VictoryTitleList": null,
           "VictoryTextList": [
             "Q_QUEST_TUTORIAL_TEXT_0",
             "Q_QUEST_TUTORIAL_TEXT_1",
@@ -8452,6 +8557,7 @@
             "Tutorial_VictoryVoice_2",
             "Tutorial_VictoryVoice_3"
           ],
+          "ResolutionArtSpriteList": null,
           "FateCardList": [
             {
               "Id": "TutorialFateEvent",
