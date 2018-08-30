@@ -100,16 +100,25 @@
     ],
     "Sequences": [],
     "Stories": [],
-    "VictoryCount": 0,
-    "VictoryTextList": [],
-    "VictoryVoiceList": [],
+    "VictoryBGM": null,
+    "VictoryCount": 1,
+    "VictoryTitleList": [
+      "Q_QUEST_C902Q4_TITLE_0"
+    ],
+    "VictoryTextList": [
+      "Q_QUEST_C902Q4_TEXT_0"
+    ],
+    "VictoryVoiceList": [
+      "C902Q4_VictoryVoice_1"
+    ],
+    "ResolutionArtSpriteList": [],
     "FateCardList": [],
     "ThreatCardList": [],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180830022502181",
+  "Version": "20180830120122443",
   "Key": "MainQuest",
   "SubKey": "C902Q4",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C902Q4_20180830022502181"
+  "InternalKey": "MainQuest_C902Q4_20180830120122443"
 }
