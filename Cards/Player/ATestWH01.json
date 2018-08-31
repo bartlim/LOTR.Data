@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "CannotTriggerReason": "",
     "ArtistName": "",
     "Status": "None",
     "CardOffsetX": 1.0,
@@ -39,6 +39,7 @@
   },
   "Localization": {
     "Title": "TestWH01",
-    "Text": ""
+    "Text": "cardText",
+    "FlavorText": "flavorText"
   }
 }
