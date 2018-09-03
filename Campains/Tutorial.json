@@ -9,7 +9,6 @@
       "IconSprite": "Sprites/Quest/icon_q2",
       "ArtSprite": "Sprites/Quest/quest_2",
       "DefeatVoice": "TutorialDefeatVoice",
-      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "Tutorial_Stage_01",
@@ -41,6 +40,10 @@
           "ChoiceSpriteList": [
             "Tutorial_Stage_01_ChoiceSprite_1",
             "Tutorial_Stage_01_ChoiceSprite_2"
+          ],
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_TUTORIAL_STAGE_01_CHOICE_1",
+            "Q_STAGE_TUTORIAL_STAGE_01_CHOICE_2"
           ]
         },
         {
@@ -69,6 +72,10 @@
           "ChoiceSpriteList": [
             "",
             ""
+          ],
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_TUTORIAL_STAGE_02_CHOICE_1",
+            "Q_STAGE_TUTORIAL_STAGE_02_CHOICE_2"
           ]
         },
         {
@@ -97,11 +104,21 @@
           "ChoiceSpriteList": [
             "Tutorial_Stage_03_ChoiceSprite_1",
             "Tutorial_Stage_03_ChoiceSprite_2"
+          ],
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_TUTORIAL_STAGE_03_CHOICE_1",
+            "Q_STAGE_TUTORIAL_STAGE_03_CHOICE_2"
           ]
         }
       ],
       "SauronDeck": [],
+      "VictoryBGM": null,
       "VictoryCount": 3,
+      "VictoryTitleList": [
+        "Q_QUEST_TUTORIAL_TITLE_0",
+        "Q_QUEST_TUTORIAL_TITLE_1",
+        "Q_QUEST_TUTORIAL_TITLE_2"
+      ],
       "VictoryTextList": [
         "Q_QUEST_TUTORIAL_TEXT_0",
         "Q_QUEST_TUTORIAL_TEXT_1",
@@ -111,6 +128,11 @@
         "Tutorial_VictoryVoice_1",
         "Tutorial_VictoryVoice_2",
         "Tutorial_VictoryVoice_3"
+      ],
+      "ResolutionArtSpriteList": [
+        "Tutorial_QuestResolution_1",
+        "Tutorial_QuestResolution_2",
+        "Tutorial_QuestResolution_3"
       ],
       "FateCardList": [
         {
