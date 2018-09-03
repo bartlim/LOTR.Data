@@ -55,7 +55,13 @@
     ],
     "Sequences": [],
     "Stories": [],
+    "VictoryBGM": null,
     "VictoryCount": 3,
+    "VictoryTitleList": [
+      "Q_QUEST_TUTORIAL_TITLE_0",
+      "Q_QUEST_TUTORIAL_TITLE_1",
+      "Q_QUEST_TUTORIAL_TITLE_2"
+    ],
     "VictoryTextList": [
       "Q_QUEST_TUTORIAL_TEXT_0",
       "Q_QUEST_TUTORIAL_TEXT_1",
@@ -65,6 +71,11 @@
       "Tutorial_VictoryVoice_1",
       "Tutorial_VictoryVoice_2",
       "Tutorial_VictoryVoice_3"
+    ],
+    "ResolutionArtSpriteList": [
+      "Tutorial_QuestResolution_1",
+      "Tutorial_QuestResolution_2",
+      "Tutorial_QuestResolution_3"
     ],
     "FateCardList": [
       {
@@ -80,9 +91,9 @@
     ],
     "AIBehavior": null
   },
-  "Version": "20180903033654286",
+  "Version": "20180903074543844",
   "Key": "MainQuest",
   "SubKey": "Tutorial",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_Tutorial_20180903033654286"
+  "InternalKey": "MainQuest_Tutorial_20180903074543844"
 }
