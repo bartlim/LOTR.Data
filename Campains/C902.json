@@ -9,7 +9,6 @@
       "IconSprite": "C902Q1QuestIcon",
       "ArtSprite": "C902Q1QuestArt",
       "DefeatVoice": "Defeat",
-      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "C902Q1L1",
@@ -45,7 +44,8 @@
           "ChoiceSpriteList": [
             "C902Q1L1_ChoiceSprite_1",
             "C902Q1L1_ChoiceSprite_2"
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         },
         {
           "Id": "C902Q1L2",
@@ -83,7 +83,8 @@
           "ChoiceSpriteList": [
             "C902Q1L2_ChoiceSprite_1",
             "C902Q1L2_ChoiceSprite_2"
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         },
         {
           "Id": "C902Q1L3",
@@ -111,7 +112,8 @@
           "ChoiceSpriteList": [
             "C902Q1L3_ChoiceSprite_1",
             "C902Q1L3_ChoiceSprite_2"
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         },
         {
           "Id": "C902Q1L4",
@@ -143,7 +145,8 @@
           "ChoiceSpriteList": [
             "C902Q1L4_ChoiceSprite_1",
             "C902Q1L4_ChoiceSprite_2"
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         }
       ],
       "SauronDeck": [
@@ -193,7 +196,13 @@
           "PlayOnce": false
         }
       ],
+      "VictoryBGM": null,
       "VictoryCount": 3,
+      "VictoryTitleList": [
+        "Q_QUEST_C902Q1_TITLE_0",
+        "Q_QUEST_C902Q1_TITLE_1",
+        "Q_QUEST_C902Q1_TITLE_2"
+      ],
       "VictoryTextList": [
         "Q_QUEST_C902Q1_TEXT_0",
         "Q_QUEST_C902Q1_TEXT_1",
@@ -204,6 +213,11 @@
         "C902Q1_VictoryVoice_2",
         "C902Q1_VictoryVoice_3"
       ],
+      "ResolutionArtSpriteList": [
+        "C902Q1_QuestResolution_1",
+        "C902Q1_QuestResolution_2",
+        "C902Q1_QuestResolution_3"
+      ],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
@@ -213,7 +227,6 @@
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "DefeatVoice": "Defeat",
-      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "C902Q2L1",
@@ -244,7 +257,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         }
       ],
       "SauronDeck": [
@@ -294,13 +308,18 @@
           "PlayOnce": false
         }
       ],
+      "VictoryBGM": null,
       "VictoryCount": 1,
+      "VictoryTitleList": [
+        "Q_QUEST_C902Q2_TITLE_0"
+      ],
       "VictoryTextList": [
         "Q_QUEST_C902Q2_TEXT_0"
       ],
       "VictoryVoiceList": [
         "TEST1"
       ],
+      "ResolutionArtSpriteList": [],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
@@ -310,7 +329,6 @@
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "DefeatVoice": null,
-      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "C902Q3L1",
@@ -341,7 +359,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         }
       ],
       "SauronDeck": [
@@ -391,13 +410,18 @@
           "PlayOnce": false
         }
       ],
+      "VictoryBGM": null,
       "VictoryCount": 1,
+      "VictoryTitleList": [
+        "Q_QUEST_C902Q3_TITLE_0"
+      ],
       "VictoryTextList": [
         "Q_QUEST_C902Q3_TEXT_0"
       ],
       "VictoryVoiceList": [
         "C902Q3_VictoryVoice_1"
       ],
+      "ResolutionArtSpriteList": [],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
@@ -407,7 +431,6 @@
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "DefeatVoice": null,
-      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "C902Q4L1",
@@ -438,7 +461,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         }
       ],
       "SauronDeck": [
@@ -488,13 +512,18 @@
           "PlayOnce": false
         }
       ],
+      "VictoryBGM": null,
       "VictoryCount": 1,
+      "VictoryTitleList": [
+        "Q_QUEST_C902Q4_TITLE_0"
+      ],
       "VictoryTextList": [
         "Q_QUEST_C902Q4_TEXT_0"
       ],
       "VictoryVoiceList": [
         "C902Q4_VictoryVoice_1"
       ],
+      "ResolutionArtSpriteList": [],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
@@ -504,7 +533,6 @@
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
       "DefeatVoice": null,
-      "ResolutionArtSprite": null,
       "Stages": [
         {
           "Id": "C902Q5L1",
@@ -535,7 +563,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         }
       ],
       "SauronDeck": [
@@ -585,13 +614,18 @@
           "PlayOnce": false
         }
       ],
+      "VictoryBGM": null,
       "VictoryCount": 1,
+      "VictoryTitleList": [
+        "Q_QUEST_C902Q5_TITLE_0"
+      ],
       "VictoryTextList": [
         "Q_QUEST_C902Q5_TEXT_0"
       ],
       "VictoryVoiceList": [
         "C902Q5_VictoryVoice_1"
       ],
+      "ResolutionArtSpriteList": [],
       "FateCardList": [],
       "ThreatCardList": [],
       "AIBehavior": "AggressiveAI"
