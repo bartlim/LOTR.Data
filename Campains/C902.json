@@ -45,10 +45,7 @@
             "C902Q1L1_ChoiceSprite_1",
             "C902Q1L1_ChoiceSprite_2"
           ],
-          "ChoiceSpriteTitleList": [
-            "Q_STAGE_C902Q1L1_CHOICE_1",
-            "Q_STAGE_C902Q1L1_CHOICE_2"
-          ]
+          "ChoiceSpriteTitleList": []
         },
         {
           "Id": "C902Q1L2",
@@ -199,7 +196,7 @@
           "PlayOnce": false
         }
       ],
-      "VictoryBGM": "C902Q1_VictoryBGM",
+      "VictoryBGM": null,
       "VictoryCount": 3,
       "VictoryTitleList": [
         "Q_QUEST_C902Q1_TITLE_0",
