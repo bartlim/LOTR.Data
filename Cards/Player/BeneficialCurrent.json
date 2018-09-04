@@ -20,7 +20,6 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "<i><line-height=100%><size=200%>Y</size>ou soon realize that brute force is ineffective in directing your course along the river. The Anduin is too powerful to be cowed by any mortal efforts. Changing tactics, you take a moment to watch how the water flows, then guide your raft in response.</i>",
     "CannotTriggerReason": "",
     "ArtistName": "Victor Garcia",
     "Status": "Ready",
@@ -40,6 +39,7 @@
   },
   "Localization": {
     "Title": "Beneficial Current",
-    "Text": "<size=120%>This Location only.\nApply 4 progress to a random <b><i>Hazard</b></i>"
+    "Text": "<size=120%>This Location only.\nApply 5 progress to a random <b><i>Hazard</b></i>",
+    "FlavorText": ""
   }
 }
