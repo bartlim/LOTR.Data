@@ -5,7 +5,7 @@
     "CardType": 6,
     "ShopType": "",
     "Cost": 0,
-    "QuestPoints": 5,
+    "QuestPoints": 6,
     "Attack": 0,
     "Willpower": 0,
     "Health": 0,
@@ -20,7 +20,6 @@
     "AttackSFX": "",
     "DeathVFX": "Effect_Empty",
     "DeathSFX": "",
-    "FlavorText": "Sam shuffled along, clutching hard, and looking down into the pale eddying water as if it was a chasm in the mountains.\n—<i>The Fellowship of the Ring</i>",
     "CannotTriggerReason": "",
     "ArtistName": "Jose Vega",
     "Status": "Ready",
@@ -40,6 +39,7 @@
   },
   "Localization": {
     "Title": "Swirling Eddy",
-    "Text": "<b>End of round</b>: Discard the top card from each player's deck"
+    "Text": "<b>End of round</b>: Discard the top card from each player's deck",
+    "FlavorText": ""
   }
 }
