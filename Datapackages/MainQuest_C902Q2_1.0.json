@@ -114,11 +114,12 @@
     "ResolutionArtSpriteList": [],
     "FateCardList": [],
     "ThreatCardList": [],
-    "AIBehavior": "AggressiveAI"
+    "AIBehavior": "AggressiveAI",
+    "IsFinalQuest": false
   },
-  "Version": "20180903070614506",
+  "Version": "20180904151615601",
   "Key": "MainQuest",
   "SubKey": "C902Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C902Q2_20180903070614506"
+  "InternalKey": "MainQuest_C902Q2_20180904151615601"
 }
