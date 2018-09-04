@@ -9,7 +9,6 @@
       "IconSprite": "C001Q1QuestIcon",
       "ArtSprite": "C001Q1QuestArt",
       "DefeatVoice": "Defeat",
-      "ResolutionArtSprite": "C001Q1QuestResolution",
       "Stages": [
         {
           "Id": "C001Q1L1",
@@ -56,7 +55,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         },
         {
           "Id": "C001Q1L2",
@@ -112,7 +112,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         },
         {
           "Id": "C001Q1L3",
@@ -156,7 +157,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         },
         {
           "Id": "C001Q1L4",
@@ -190,7 +192,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         }
       ],
       "SauronDeck": [
@@ -350,7 +353,12 @@
           "PlayOnce": false
         }
       ],
+      "VictoryBGM": "mus_mapmenu",
       "VictoryCount": 2,
+      "VictoryTitleList": [
+        "Q_QUEST_C001Q1_TITLE_0",
+        "Q_QUEST_C001Q1_TITLE_1"
+      ],
       "VictoryTextList": [
         "Q_QUEST_C001Q1_TEXT_0",
         "Q_QUEST_C001Q1_TEXT_1"
@@ -358,6 +366,10 @@
       "VictoryVoiceList": [
         "C001Q1_VictoryVoice_1",
         "C001Q1_VictoryVoice_2"
+      ],
+      "ResolutionArtSpriteList": [
+        "C001Q1_QuestResolution_1",
+        "C001Q1_QuestResolution_2"
       ],
       "FateCardList": [
         {
@@ -386,7 +398,6 @@
       "IconSprite": "C001Q2QuestIcon",
       "ArtSprite": "C001Q2QuestArt",
       "DefeatVoice": "Defeat",
-      "ResolutionArtSprite": "C001Q2QuestResolution",
       "Stages": [
         {
           "Id": "C001Q2L1",
@@ -423,7 +434,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         },
         {
           "Id": "C001Q2L2",
@@ -467,7 +479,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         },
         {
           "Id": "C001Q2L4",
@@ -510,7 +523,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         }
       ],
       "SauronDeck": [
@@ -680,12 +694,19 @@
           "PlayOnce": false
         }
       ],
+      "VictoryBGM": "mus_mapmenu",
       "VictoryCount": 1,
+      "VictoryTitleList": [
+        "Q_QUEST_C001Q2_TITLE_0"
+      ],
       "VictoryTextList": [
         "Q_QUEST_C001Q2_TEXT_0"
       ],
       "VictoryVoiceList": [
         "C001Q2_VictoryVoice_1"
+      ],
+      "ResolutionArtSpriteList": [
+        "C001Q2_QuestResolution_1"
       ],
       "FateCardList": [
         {
@@ -722,7 +743,6 @@
       "IconSprite": "C001Q3QuestIcon",
       "ArtSprite": "C001Q3QuestArt",
       "DefeatVoice": "Defeat",
-      "ResolutionArtSprite": "C001Q3QuestResolution",
       "Stages": [
         {
           "Id": "C001Q3L1",
@@ -756,7 +776,8 @@
           "ChoiceSpriteList": [
             "C001Q3L1_ChoiceSprite_1",
             "C001Q3L1_ChoiceSprite_2"
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         },
         {
           "Id": "C001Q3L2A",
@@ -794,7 +815,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         },
         {
           "Id": "C001Q3L2B",
@@ -827,7 +849,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         },
         {
           "Id": "C001Q3L3A",
@@ -871,7 +894,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         },
         {
           "Id": "C001Q3L3B",
@@ -915,7 +939,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         },
         {
           "Id": "C001Q3L4",
@@ -959,7 +984,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         },
         {
           "Id": "C001Q3L5",
@@ -1003,7 +1029,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         }
       ],
       "SauronDeck": [
@@ -1233,12 +1260,19 @@
           "PlayOnce": false
         }
       ],
+      "VictoryBGM": "mus_mapmenu",
       "VictoryCount": 1,
+      "VictoryTitleList": [
+        "Q_QUEST_C001Q3_TITLE_0"
+      ],
       "VictoryTextList": [
         "Q_QUEST_C001Q3_TEXT_0"
       ],
       "VictoryVoiceList": [
         "C001Q3_VictoryVoice_1"
+      ],
+      "ResolutionArtSpriteList": [
+        "C001Q3_QuestResolution_1"
       ],
       "FateCardList": [
         {
@@ -1275,7 +1309,6 @@
       "IconSprite": "C001Q4QuestIcon",
       "ArtSprite": "C001Q4QuestArt",
       "DefeatVoice": "Defeat",
-      "ResolutionArtSprite": "C001Q4QuestResolution",
       "Stages": [
         {
           "Id": "C001Q4L1",
@@ -1316,7 +1349,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         },
         {
           "Id": "C001Q4L2",
@@ -1363,7 +1397,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         },
         {
           "Id": "C001Q4L3",
@@ -1400,7 +1435,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         }
       ],
       "SauronDeck": [
@@ -1605,12 +1641,19 @@
           "PlayOnce": false
         }
       ],
+      "VictoryBGM": "mus_mapmenu",
       "VictoryCount": 1,
+      "VictoryTitleList": [
+        "Q_QUEST_C001Q4_TITLE_0"
+      ],
       "VictoryTextList": [
         "Q_QUEST_C001Q4_TEXT_0"
       ],
       "VictoryVoiceList": [
         "C001Q4_VictoryVoice_1"
+      ],
+      "ResolutionArtSpriteList": [
+        "C001Q4_QuestResolution_1"
       ],
       "FateCardList": [
         {
@@ -1647,7 +1690,6 @@
       "IconSprite": "C001Q5QuestIcon",
       "ArtSprite": "C001Q5QuestArt",
       "DefeatVoice": "Defeat",
-      "ResolutionArtSprite": "C001Q5QuestResolution",
       "Stages": [
         {
           "Id": "C001Q5L1",
@@ -1685,7 +1727,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         },
         {
           "Id": "C001Q5L2",
@@ -1731,7 +1774,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         },
         {
           "Id": "C001Q5L3",
@@ -1766,7 +1810,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         },
         {
           "Id": "C001Q5L4",
@@ -1802,7 +1847,8 @@
           "ChoiceSpriteList": [
             "",
             ""
-          ]
+          ],
+          "ChoiceSpriteTitleList": []
         }
       ],
       "SauronDeck": [
@@ -1977,7 +2023,12 @@
           "PlayOnce": false
         }
       ],
+      "VictoryBGM": "mus_mapmenu",
       "VictoryCount": 2,
+      "VictoryTitleList": [
+        "Q_QUEST_C001Q5_TITLE_0",
+        "Q_QUEST_C001Q5_TITLE_1"
+      ],
       "VictoryTextList": [
         "Q_QUEST_C001Q5_TEXT_0",
         "Q_QUEST_C001Q5_TEXT_1"
@@ -1985,6 +2036,10 @@
       "VictoryVoiceList": [
         "C001Q5_VictoryVoice_1",
         "C001Q5_VictoryVoice_2"
+      ],
+      "ResolutionArtSpriteList": [
+        "C001Q5_QuestResolution_1",
+        "C001Q5_QuestResolution_2"
       ],
       "FateCardList": [
         {
