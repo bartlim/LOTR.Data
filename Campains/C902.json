@@ -220,7 +220,8 @@
       ],
       "FateCardList": [],
       "ThreatCardList": [],
-      "AIBehavior": "AggressiveAI"
+      "AIBehavior": "AggressiveAI",
+      "IsFinalQuest": false
     },
     {
       "Id": "C902Q2",
@@ -322,7 +323,8 @@
       "ResolutionArtSpriteList": [],
       "FateCardList": [],
       "ThreatCardList": [],
-      "AIBehavior": "AggressiveAI"
+      "AIBehavior": "AggressiveAI",
+      "IsFinalQuest": false
     },
     {
       "Id": "C902Q3",
@@ -424,7 +426,8 @@
       "ResolutionArtSpriteList": [],
       "FateCardList": [],
       "ThreatCardList": [],
-      "AIBehavior": "AggressiveAI"
+      "AIBehavior": "AggressiveAI",
+      "IsFinalQuest": false
     },
     {
       "Id": "C902Q4",
@@ -526,13 +529,14 @@
       "ResolutionArtSpriteList": [],
       "FateCardList": [],
       "ThreatCardList": [],
-      "AIBehavior": "AggressiveAI"
+      "AIBehavior": "AggressiveAI",
+      "IsFinalQuest": false
     },
     {
       "Id": "C902Q5",
       "IconSprite": "Sprites/Quest/icon_q1",
       "ArtSprite": "Sprites/Quest/quest_1",
-      "DefeatVoice": null,
+      "DefeatVoice": "Defeat",
       "Stages": [
         {
           "Id": "C902Q5L1",
@@ -614,7 +618,7 @@
           "PlayOnce": false
         }
       ],
-      "VictoryBGM": null,
+      "VictoryBGM": "mus_cave",
       "VictoryCount": 1,
       "VictoryTitleList": [
         "Q_QUEST_C902Q5_TITLE_0"
@@ -625,10 +629,13 @@
       "VictoryVoiceList": [
         "C902Q5_VictoryVoice_1"
       ],
-      "ResolutionArtSpriteList": [],
+      "ResolutionArtSpriteList": [
+        "C902Q5_QuestResolution_1"
+      ],
       "FateCardList": [],
       "ThreatCardList": [],
-      "AIBehavior": "AggressiveAI"
+      "AIBehavior": "AggressiveAI",
+      "IsFinalQuest": true
     }
   ]
 }
