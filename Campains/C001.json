@@ -2023,7 +2023,7 @@
           "PlayOnce": false
         }
       ],
-      "VictoryBGM": null,
+      "VictoryBGM": "mus_mapmenu",
       "VictoryCount": 2,
       "VictoryTitleList": [
         "Q_QUEST_C001Q5_TITLE_0",
@@ -2037,7 +2037,10 @@
         "C001Q5_VictoryVoice_1",
         "C001Q5_VictoryVoice_2"
       ],
-      "ResolutionArtSpriteList": [],
+      "ResolutionArtSpriteList": [
+        "C001Q5_QuestResolution_1",
+        "C001Q5_QuestResolution_2"
+      ],
       "FateCardList": [
         {
           "Id": "RefreshingWaters",
