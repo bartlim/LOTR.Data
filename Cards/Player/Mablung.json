@@ -4,7 +4,7 @@
     "Owner": "Player",
     "CardType": 0,
     "ShopType": "HeroPack_RangersOfGondor",
-    "Cost": 4,
+    "Cost": 3,
     "QuestPoints": 0,
     "Attack": 2,
     "Willpower": 1,
@@ -20,8 +20,7 @@
     "AttackSFX": "event_attack_sword_e",
     "DeathVFX": "Effect_Death3",
     "DeathSFX": "die_both_e",
-    "FlavorText": "But the Captains of the West were well warned by their scouts, skilled men from Henneth Annûn led by Mablung… \n—<i>The Return of the King</i>",
-    "CannotTriggerReason": null,
+    "CannotTriggerReason": "",
     "ArtistName": "Beth Sobel",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -40,6 +39,7 @@
   },
   "Localization": {
     "Title": "‰Mablung   ",
-    "Text": "<b>Ranged</b>. <b>Arrival</b>: Exhaust a \nnon-unique Enemy"
+    "Text": "<b>Ranged</b>. <b>Arrival</b>: Exhaust a \nnon-unique Enemy",
+    "FlavorText": ""
   }
 }
