@@ -4,7 +4,7 @@
     "Owner": "Player",
     "CardType": 0,
     "ShopType": "Valor",
-    "Cost": 3,
+    "Cost": 2,
     "QuestPoints": 0,
     "Attack": 1,
     "Willpower": 0,
@@ -20,7 +20,7 @@
     "AttackSFX": "event_attack_feet_e",
     "DeathVFX": "Effect_Death3",
     "DeathSFX": "die_both_e",
-    "FlavorText": "\"Ghân-buri-Ghân will not lead you into trap.\" \n—Ghân-buri-Ghân, <i>The Return of the King</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Piya Wannachaiwong",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,6 +31,7 @@
     "CameoScale": 0.9,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
     "ComboList": [],
     "ArtworkMD5": "7b1f89b982d1d5fb8013981cc20872cb",
     "BannerMD5": null,
@@ -38,6 +39,7 @@
   },
   "Localization": {
     "Title": "‰Ghân-buri-Ghân",
-    "Text": "<line-height=100%><b>Stealth</b>. Gain +1 <size=120%><sprite=5></size> \nfor each Objective in play"
+    "Text": "<line-height=100%><b>Stealth</b>. Gain +1 <size=120%><sprite=5></size> \nfor each Objective in play",
+    "FlavorText": ""
   }
 }
