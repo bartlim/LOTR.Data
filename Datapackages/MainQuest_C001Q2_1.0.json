@@ -367,7 +367,9 @@
     "VictoryVoiceList": [
       "C001Q2_VictoryVoice_1"
     ],
-    "ResolutionArtSpriteList": [],
+    "ResolutionArtSpriteList": [
+      "C001Q2_QuestResolution_1"
+    ],
     "FateCardList": [
       {
         "Id": "CuttingTheWebs",
@@ -398,9 +400,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180904072953085",
+  "Version": "20180904073106761",
   "Key": "MainQuest",
   "SubKey": "C001Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q2_20180904072953085"
+  "InternalKey": "MainQuest_C001Q2_20180904073106761"
 }
