@@ -356,13 +356,18 @@
     ],
     "Sequences": [],
     "Stories": [],
+    "VictoryBGM": null,
     "VictoryCount": 1,
+    "VictoryTitleList": [
+      "Q_QUEST_C001Q2_TITLE_0"
+    ],
     "VictoryTextList": [
       "Q_QUEST_C001Q2_TEXT_0"
     ],
     "VictoryVoiceList": [
       "C001Q2_VictoryVoice_1"
     ],
+    "ResolutionArtSpriteList": [],
     "FateCardList": [
       {
         "Id": "CuttingTheWebs",
@@ -393,9 +398,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180830051901474",
+  "Version": "20180904072953085",
   "Key": "MainQuest",
   "SubKey": "C001Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q2_20180830051901474"
+  "InternalKey": "MainQuest_C001Q2_20180904072953085"
 }
