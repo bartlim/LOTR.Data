@@ -4,7 +4,7 @@
     "Owner": "Player",
     "CardType": 4,
     "ShopType": "Valor",
-    "Cost": 1,
+    "Cost": 0,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "He gave a shout and slashed at the spiders in front of him. They quickly gave way…\n—<i>The Hobbit</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Adam Lane",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -31,12 +31,15 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
+    "ComboList": [],
     "ArtworkMD5": "b5290e228e747a6134e2c756e4abbbf9",
     "BannerMD5": null,
     "IconMD5": "4e5d5a5c17546aca3ded54d75e9553a8"
   },
   "Localization": {
     "Title": "A Friend in Need",
-    "Text": "Cancel damage from the next Enemy attack"
+    "Text": "Cancel damage from the next Enemy attack",
+    "FlavorText": ""
   }
 }
