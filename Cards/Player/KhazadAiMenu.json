@@ -20,7 +20,6 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "<i>Khazâd ai-mênu!</i> An axe swung and swept back. Two Orcs fell headless. The rest fled.\r\n—<i>The Two Towers</i>",
     "CannotTriggerReason": "",
     "ArtistName": "Igor Kieryluk",
     "Status": "Ready",
@@ -40,6 +39,7 @@
   },
   "Localization": {
     "Title": "Khazâd ai-mênu!",
-    "Text": "<line-height=100%>Give a <b><i>Dwarf</b></i> +2 <size=120%><sprite=0></size> this round; \nor +3 <size=120%><sprite=0></size> this round if wounded"
+    "Text": "<line-height=100%>Give a <b><i>Dwarf</b></i> +2 <size=120%><sprite=0></size> this round; \nor +3 <size=120%><sprite=0></size> this round if wounded.\nGain a <b>Surge</b> action",
+    "FlavorText": ""
   }
 }

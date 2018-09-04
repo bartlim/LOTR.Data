@@ -5317,21 +5317,15 @@
   },
   {
     "Id": "C_KHAZADAIMENU_FLAVOR",
-    "Text": "<i>Khazâd ai-mênu!</i> An axe swung and swept back. Two Orcs fell headless. The rest fled.\n—<i>The Two Towers</i>",
-    "Text_CN": null,
-    "Text_FR": null
+    "Text": ""
   },
   {
     "Id": "C_KHAZADAIMENU_TEXT",
-    "Text": "<line-height=100%>Give a <b><i>Dwarf</b></i> +2 <size=120%><sprite=0></size>; \nor +3 <size=120%><sprite=0></size> if wounded",
-    "Text_CN": null,
-    "Text_FR": null
+    "Text": "<line-height=100%>Give a <b><i>Dwarf</b></i> +2 <size=120%><sprite=0></size> this round; \nor +3 <size=120%><sprite=0></size> this round if wounded.\nGain a <b>Surge</b> action"
   },
   {
     "Id": "C_KHAZADAIMENU_TITLE",
-    "Text": "Khazâd ai-mênu!",
-    "Text_CN": null,
-    "Text_FR": null
+    "Text": "Khazâd ai-mênu!"
   },
   {
     "Id": "C_KINGSFOIL_FLAVOR",
