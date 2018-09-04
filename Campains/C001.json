@@ -694,7 +694,7 @@
           "PlayOnce": false
         }
       ],
-      "VictoryBGM": null,
+      "VictoryBGM": "mus_mapmenu",
       "VictoryCount": 1,
       "VictoryTitleList": [
         "Q_QUEST_C001Q2_TITLE_0"
@@ -705,7 +705,9 @@
       "VictoryVoiceList": [
         "C001Q2_VictoryVoice_1"
       ],
-      "ResolutionArtSpriteList": [],
+      "ResolutionArtSpriteList": [
+        "C001Q2_QuestResolution_1"
+      ],
       "FateCardList": [
         {
           "Id": "CuttingTheWebs",
