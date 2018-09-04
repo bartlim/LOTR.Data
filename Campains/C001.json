@@ -353,7 +353,7 @@
           "PlayOnce": false
         }
       ],
-      "VictoryBGM": "mus_mapmenu",
+      "VictoryBGM": null,
       "VictoryCount": 2,
       "VictoryTitleList": [
         "Q_QUEST_C001Q1_TITLE_0",
@@ -367,10 +367,7 @@
         "C001Q1_VictoryVoice_1",
         "C001Q1_VictoryVoice_2"
       ],
-      "ResolutionArtSpriteList": [
-        "C001Q1_QuestResolution_1",
-        "C001Q1_QuestResolution_2"
-      ],
+      "ResolutionArtSpriteList": null,
       "FateCardList": [
         {
           "Id": "TheGuiltOfDwarves",
@@ -694,7 +691,7 @@
           "PlayOnce": false
         }
       ],
-      "VictoryBGM": "mus_mapmenu",
+      "VictoryBGM": null,
       "VictoryCount": 1,
       "VictoryTitleList": [
         "Q_QUEST_C001Q2_TITLE_0"
@@ -705,9 +702,7 @@
       "VictoryVoiceList": [
         "C001Q2_VictoryVoice_1"
       ],
-      "ResolutionArtSpriteList": [
-        "C001Q2_QuestResolution_1"
-      ],
+      "ResolutionArtSpriteList": null,
       "FateCardList": [
         {
           "Id": "CuttingTheWebs",
@@ -1260,7 +1255,7 @@
           "PlayOnce": false
         }
       ],
-      "VictoryBGM": "mus_mapmenu",
+      "VictoryBGM": null,
       "VictoryCount": 1,
       "VictoryTitleList": [
         "Q_QUEST_C001Q3_TITLE_0"
@@ -1271,9 +1266,7 @@
       "VictoryVoiceList": [
         "C001Q3_VictoryVoice_1"
       ],
-      "ResolutionArtSpriteList": [
-        "C001Q3_QuestResolution_1"
-      ],
+      "ResolutionArtSpriteList": null,
       "FateCardList": [
         {
           "Id": "ForageForSupplies",
@@ -1641,7 +1634,7 @@
           "PlayOnce": false
         }
       ],
-      "VictoryBGM": "mus_mapmenu",
+      "VictoryBGM": null,
       "VictoryCount": 1,
       "VictoryTitleList": [
         "Q_QUEST_C001Q4_TITLE_0"
@@ -1652,9 +1645,7 @@
       "VictoryVoiceList": [
         "C001Q4_VictoryVoice_1"
       ],
-      "ResolutionArtSpriteList": [
-        "C001Q4_QuestResolution_1"
-      ],
+      "ResolutionArtSpriteList": null,
       "FateCardList": [
         {
           "Id": "StaggeringBlow",
@@ -1827,7 +1818,7 @@
             "WardensOfLorien",
             "UnderTheWatchfulEye",
             "ChieftainUfthak",
-            "VeteranPatrol",
+            "DolGuldurOrcs",
             "GoblinWarlord",
             "MirkwoodPatrol",
             "OrcMarauder"
@@ -2023,7 +2014,7 @@
           "PlayOnce": false
         }
       ],
-      "VictoryBGM": "mus_mapmenu",
+      "VictoryBGM": null,
       "VictoryCount": 2,
       "VictoryTitleList": [
         "Q_QUEST_C001Q5_TITLE_0",
@@ -2037,10 +2028,7 @@
         "C001Q5_VictoryVoice_1",
         "C001Q5_VictoryVoice_2"
       ],
-      "ResolutionArtSpriteList": [
-        "C001Q5_QuestResolution_1",
-        "C001Q5_QuestResolution_2"
-      ],
+      "ResolutionArtSpriteList": null,
       "FateCardList": [
         {
           "Id": "RefreshingWaters",
