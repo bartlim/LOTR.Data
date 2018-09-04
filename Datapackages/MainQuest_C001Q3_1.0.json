@@ -561,13 +561,18 @@
     ],
     "Sequences": [],
     "Stories": [],
+    "VictoryBGM": null,
     "VictoryCount": 1,
+    "VictoryTitleList": [
+      "Q_QUEST_C001Q3_TITLE_0"
+    ],
     "VictoryTextList": [
       "Q_QUEST_C001Q3_TEXT_0"
     ],
     "VictoryVoiceList": [
       "C001Q3_VictoryVoice_1"
     ],
+    "ResolutionArtSpriteList": [],
     "FateCardList": [
       {
         "Id": "ForageForSupplies",
@@ -598,9 +603,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180830051906942",
+  "Version": "20180904072957660",
   "Key": "MainQuest",
   "SubKey": "C001Q3",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q3_20180830051906942"
+  "InternalKey": "MainQuest_C001Q3_20180904072957660"
 }
