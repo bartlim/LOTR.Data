@@ -420,8 +420,7 @@
               "Threshold": 3
             }
           ],
-          "AIBehavior": "AggressiveAI",
-          "IsFinalQuest": false
+          "AIBehavior": "AggressiveAI"
         },
         {
           "Id": "FliesAndSpiders",
@@ -778,8 +777,7 @@
               "Threshold": 3
             }
           ],
-          "AIBehavior": "PassiveAI",
-          "IsFinalQuest": false
+          "AIBehavior": "PassiveAI"
         },
         {
           "Id": "LostInMirkwood",
@@ -1276,8 +1274,7 @@
               "Threshold": 3
             }
           ],
-          "AIBehavior": "AggressiveAI",
-          "IsFinalQuest": false
+          "AIBehavior": "AggressiveAI"
         },
         {
           "Id": "JourneyDownTheAnduin",
@@ -1676,8 +1673,7 @@
               "Threshold": 3
             }
           ],
-          "AIBehavior": "AggressiveAI",
-          "IsFinalQuest": false
+          "AIBehavior": "AggressiveAI"
         },
         {
           "Id": "ConflictAtTheCarrock",
@@ -1999,8 +1995,7 @@
               "Threshold": 3
             }
           ],
-          "AIBehavior": "AggressiveAI",
-          "IsFinalQuest": false
+          "AIBehavior": "AggressiveAI"
         }
       ]
     },
@@ -2359,7 +2354,7 @@
               "PlayOnce": false
             }
           ],
-          "VictoryBGM": "mus_mapmenu",
+          "VictoryBGM": null,
           "VictoryCount": 2,
           "VictoryTitleList": [
             "Q_QUEST_C001Q1_TITLE_0",
@@ -2373,10 +2368,7 @@
             "C001Q1_VictoryVoice_1",
             "C001Q1_VictoryVoice_2"
           ],
-          "ResolutionArtSpriteList": [
-            "C001Q1_QuestResolution_1",
-            "C001Q1_QuestResolution_2"
-          ],
+          "ResolutionArtSpriteList": null,
           "FateCardList": [
             {
               "Id": "TheGuiltOfDwarves",
@@ -2397,8 +2389,7 @@
               "Threshold": 3
             }
           ],
-          "AIBehavior": "PassiveAI",
-          "IsFinalQuest": false
+          "AIBehavior": "PassiveAI"
         },
         {
           "Id": "C001Q2",
@@ -2701,7 +2692,7 @@
               "PlayOnce": false
             }
           ],
-          "VictoryBGM": "mus_mapmenu",
+          "VictoryBGM": null,
           "VictoryCount": 1,
           "VictoryTitleList": [
             "Q_QUEST_C001Q2_TITLE_0"
@@ -2712,9 +2703,7 @@
           "VictoryVoiceList": [
             "C001Q2_VictoryVoice_1"
           ],
-          "ResolutionArtSpriteList": [
-            "C001Q2_QuestResolution_1"
-          ],
+          "ResolutionArtSpriteList": null,
           "FateCardList": [
             {
               "Id": "CuttingTheWebs",
@@ -2743,8 +2732,7 @@
               "Threshold": 3
             }
           ],
-          "AIBehavior": "PassiveAI",
-          "IsFinalQuest": false
+          "AIBehavior": "PassiveAI"
         },
         {
           "Id": "C001Q3",
@@ -3268,7 +3256,7 @@
               "PlayOnce": false
             }
           ],
-          "VictoryBGM": "mus_mapmenu",
+          "VictoryBGM": null,
           "VictoryCount": 1,
           "VictoryTitleList": [
             "Q_QUEST_C001Q3_TITLE_0"
@@ -3279,9 +3267,7 @@
           "VictoryVoiceList": [
             "C001Q3_VictoryVoice_1"
           ],
-          "ResolutionArtSpriteList": [
-            "C001Q3_QuestResolution_1"
-          ],
+          "ResolutionArtSpriteList": null,
           "FateCardList": [
             {
               "Id": "ForageForSupplies",
@@ -3310,8 +3296,7 @@
               "Threshold": 3
             }
           ],
-          "AIBehavior": "AggressiveAI",
-          "IsFinalQuest": false
+          "AIBehavior": "AggressiveAI"
         },
         {
           "Id": "C001Q4",
@@ -3650,7 +3635,7 @@
               "PlayOnce": false
             }
           ],
-          "VictoryBGM": "mus_mapmenu",
+          "VictoryBGM": null,
           "VictoryCount": 1,
           "VictoryTitleList": [
             "Q_QUEST_C001Q4_TITLE_0"
@@ -3661,9 +3646,7 @@
           "VictoryVoiceList": [
             "C001Q4_VictoryVoice_1"
           ],
-          "ResolutionArtSpriteList": [
-            "C001Q4_QuestResolution_1"
-          ],
+          "ResolutionArtSpriteList": null,
           "FateCardList": [
             {
               "Id": "StaggeringBlow",
@@ -3692,8 +3675,7 @@
               "Threshold": 3
             }
           ],
-          "AIBehavior": "AggressiveAI",
-          "IsFinalQuest": false
+          "AIBehavior": "AggressiveAI"
         },
         {
           "Id": "C001Q5",
@@ -3837,7 +3819,7 @@
                 "WardensOfLorien",
                 "UnderTheWatchfulEye",
                 "ChieftainUfthak",
-                "VeteranPatrol",
+                "DolGuldurOrcs",
                 "GoblinWarlord",
                 "MirkwoodPatrol",
                 "OrcMarauder"
@@ -4033,7 +4015,7 @@
               "PlayOnce": false
             }
           ],
-          "VictoryBGM": "mus_mapmenu",
+          "VictoryBGM": null,
           "VictoryCount": 2,
           "VictoryTitleList": [
             "Q_QUEST_C001Q5_TITLE_0",
@@ -4047,10 +4029,7 @@
             "C001Q5_VictoryVoice_1",
             "C001Q5_VictoryVoice_2"
           ],
-          "ResolutionArtSpriteList": [
-            "C001Q5_QuestResolution_1",
-            "C001Q5_QuestResolution_2"
-          ],
+          "ResolutionArtSpriteList": null,
           "FateCardList": [
             {
               "Id": "RefreshingWaters",
@@ -4079,8 +4058,7 @@
               "Threshold": 3
             }
           ],
-          "AIBehavior": "AggressiveAI",
-          "IsFinalQuest": false
+          "AIBehavior": "AggressiveAI"
         }
       ]
     },
@@ -5150,8 +5128,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": [],
           "ThreatCardList": [],
-          "AIBehavior": "AggressiveAI",
-          "IsFinalQuest": false
+          "AIBehavior": "AggressiveAI"
         },
         {
           "Id": "C901Q2",
@@ -5247,8 +5224,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": [],
           "ThreatCardList": [],
-          "AIBehavior": "AggressiveAI",
-          "IsFinalQuest": false
+          "AIBehavior": "AggressiveAI"
         },
         {
           "Id": "C901Q3",
@@ -5336,8 +5312,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": [],
           "ThreatCardList": [],
-          "AIBehavior": "AggressiveAI",
-          "IsFinalQuest": false
+          "AIBehavior": "AggressiveAI"
         },
         {
           "Id": "C901Q4",
@@ -5456,8 +5431,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": [],
           "ThreatCardList": [],
-          "AIBehavior": "AggressiveAI",
-          "IsFinalQuest": false
+          "AIBehavior": "AggressiveAI"
         },
         {
           "Id": "C901Q5",
@@ -5545,8 +5519,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": [],
           "ThreatCardList": [],
-          "AIBehavior": "AggressiveAI",
-          "IsFinalQuest": false
+          "AIBehavior": "AggressiveAI"
         }
       ]
     },
@@ -5772,8 +5745,7 @@
           ],
           "FateCardList": [],
           "ThreatCardList": [],
-          "AIBehavior": "AggressiveAI",
-          "IsFinalQuest": false
+          "AIBehavior": "AggressiveAI"
         },
         {
           "Id": "C902Q2",
@@ -5875,8 +5847,7 @@
           "ResolutionArtSpriteList": [],
           "FateCardList": [],
           "ThreatCardList": [],
-          "AIBehavior": "AggressiveAI",
-          "IsFinalQuest": false
+          "AIBehavior": "AggressiveAI"
         },
         {
           "Id": "C902Q3",
@@ -5978,8 +5949,7 @@
           "ResolutionArtSpriteList": [],
           "FateCardList": [],
           "ThreatCardList": [],
-          "AIBehavior": "AggressiveAI",
-          "IsFinalQuest": false
+          "AIBehavior": "AggressiveAI"
         },
         {
           "Id": "C902Q4",
@@ -6081,8 +6051,7 @@
           "ResolutionArtSpriteList": [],
           "FateCardList": [],
           "ThreatCardList": [],
-          "AIBehavior": "AggressiveAI",
-          "IsFinalQuest": false
+          "AIBehavior": "AggressiveAI"
         },
         {
           "Id": "C902Q5",
@@ -6186,8 +6155,7 @@
           ],
           "FateCardList": [],
           "ThreatCardList": [],
-          "AIBehavior": "AggressiveAI",
-          "IsFinalQuest": true
+          "AIBehavior": "AggressiveAI"
         }
       ]
     },
@@ -6558,8 +6526,7 @@
               "Threshold": 3
             }
           ],
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         },
         {
           "Id": "DemoIDTest",
@@ -6644,8 +6611,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": [],
           "ThreatCardList": [],
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         },
         {
           "Id": "Demo051618Quest03",
@@ -6730,8 +6696,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": [],
           "ThreatCardList": [],
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         },
         {
           "Id": "Demo051618Quest04",
@@ -6816,8 +6781,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": [],
           "ThreatCardList": [],
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         },
         {
           "Id": "Demo051618Quest05",
@@ -6902,8 +6866,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": [],
           "ThreatCardList": [],
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         }
       ]
     },
@@ -7087,8 +7050,7 @@
               "Threshold": 3
             }
           ],
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         },
         {
           "Id": "Shadows of MirkwoodQuest02",
@@ -7247,8 +7209,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         },
         {
           "Id": "Shadows of MirkwoodQuest03",
@@ -7404,8 +7365,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         },
         {
           "Id": "Shadows of MirkwoodQuest04",
@@ -7490,8 +7450,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         },
         {
           "Id": "Shadows of MirkwoodQuest05",
@@ -7576,8 +7535,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         }
       ]
     },
@@ -7670,8 +7628,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         },
         {
           "Id": "temp_1Quest02",
@@ -7756,8 +7713,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         },
         {
           "Id": "temp_1Quest03",
@@ -7842,8 +7798,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         },
         {
           "Id": "temp_1Quest04",
@@ -7928,8 +7883,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         },
         {
           "Id": "temp_1Quest05",
@@ -8014,8 +7968,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         }
       ]
     },
@@ -8157,8 +8110,7 @@
               "Threshold": 3
             }
           ],
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         },
         {
           "Id": "ThreeCocoonTesterQuest02",
@@ -8243,8 +8195,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         },
         {
           "Id": "ThreeCocoonTesterQuest03",
@@ -8329,8 +8280,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         },
         {
           "Id": "ThreeCocoonTesterQuest04",
@@ -8415,8 +8365,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         },
         {
           "Id": "ThreeCocoonTesterQuest05",
@@ -8501,8 +8450,7 @@
           "ResolutionArtSpriteList": null,
           "FateCardList": null,
           "ThreatCardList": null,
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         }
       ]
     },
@@ -8654,8 +8602,7 @@
               "Threshold": 2
             }
           ],
-          "AIBehavior": null,
-          "IsFinalQuest": false
+          "AIBehavior": null
         }
       ]
     }
