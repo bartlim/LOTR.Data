@@ -4,7 +4,7 @@
     "Owner": "Player",
     "CardType": 1,
     "ShopType": "HeroPack_PrinceOfMirkwood",
-    "Cost": 2,
+    "Cost": 1,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "…longer and stouter than the bows of Mirkwood, and strung with a string of elf-hair. \n—<i>The Fellowship of the Ring</i>",
+    "CannotTriggerReason": "",
     "ArtistName": "Sara Biddle",
     "Status": "Ready",
     "CardOffsetX": 1.0,
@@ -39,6 +39,7 @@
   },
   "Localization": {
     "Title": "Bow of the Galadhrim",
-    "Text": "Gain +1 <size=120%><sprite=0></size> and <b>Ranged</b>"
+    "Text": "Gain +1 <size=120%><sprite=0></size> and <b>Ranged</b>",
+    "FlavorText": ""
   }
 }
