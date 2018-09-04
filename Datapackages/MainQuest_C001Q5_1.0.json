@@ -365,7 +365,7 @@
           "WardensOfLorien",
           "UnderTheWatchfulEye",
           "ChieftainUfthak",
-          "VeteranPatrol",
+          "DolGuldurOrcs",
           "GoblinWarlord",
           "MirkwoodPatrol",
           "OrcMarauder"
@@ -399,10 +399,7 @@
       "C001Q5_VictoryVoice_1",
       "C001Q5_VictoryVoice_2"
     ],
-    "ResolutionArtSpriteList": [
-      "C001Q5_QuestResolution_1",
-      "C001Q5_QuestResolution_2"
-    ],
+    "ResolutionArtSpriteList": null,
     "FateCardList": [
       {
         "Id": "RefreshingWaters",
@@ -433,9 +430,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180904073546747",
+  "Version": "20180904210911488",
   "Key": "MainQuest",
   "SubKey": "C001Q5",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q5_20180904073546747"
+  "InternalKey": "MainQuest_C001Q5_20180904210911488"
 }
