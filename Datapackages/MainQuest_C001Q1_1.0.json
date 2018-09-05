@@ -392,7 +392,7 @@
       "C001Q1_VictoryVoice_1",
       "C001Q1_VictoryVoice_2"
     ],
-    "ResolutionArtSpriteList": null,
+    "ResolutionArtSpriteList": [],
     "FateCardList": [
       {
         "Id": "TheGuiltOfDwarves",
@@ -415,9 +415,9 @@
     ],
     "AIBehavior": "PassiveAI"
   },
-  "Version": "20180904210851370",
+  "Version": "20180905021042293",
   "Key": "MainQuest",
   "SubKey": "C001Q1",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q1_20180904210851370"
+  "InternalKey": "MainQuest_C001Q1_20180905021042293"
 }
