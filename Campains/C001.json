@@ -367,7 +367,7 @@
         "C001Q1_VictoryVoice_1",
         "C001Q1_VictoryVoice_2"
       ],
-      "ResolutionArtSpriteList": null,
+      "ResolutionArtSpriteList": [],
       "FateCardList": [
         {
           "Id": "TheGuiltOfDwarves",
@@ -702,7 +702,7 @@
       "VictoryVoiceList": [
         "C001Q2_VictoryVoice_1"
       ],
-      "ResolutionArtSpriteList": null,
+      "ResolutionArtSpriteList": [],
       "FateCardList": [
         {
           "Id": "CuttingTheWebs",
@@ -1266,7 +1266,7 @@
       "VictoryVoiceList": [
         "C001Q3_VictoryVoice_1"
       ],
-      "ResolutionArtSpriteList": null,
+      "ResolutionArtSpriteList": [],
       "FateCardList": [
         {
           "Id": "ForageForSupplies",
@@ -1645,7 +1645,7 @@
       "VictoryVoiceList": [
         "C001Q4_VictoryVoice_1"
       ],
-      "ResolutionArtSpriteList": null,
+      "ResolutionArtSpriteList": [],
       "FateCardList": [
         {
           "Id": "StaggeringBlow",
@@ -2028,7 +2028,10 @@
         "C001Q5_VictoryVoice_1",
         "C001Q5_VictoryVoice_2"
       ],
-      "ResolutionArtSpriteList": null,
+      "ResolutionArtSpriteList": [
+        "C001Q5_QuestResolution_1",
+        "C001Q5_QuestResolution_2"
+      ],
       "FateCardList": [
         {
           "Id": "RefreshingWaters",
