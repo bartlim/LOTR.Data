@@ -388,7 +388,8 @@
           "Threshold": 3
         }
       ],
-      "AIBehavior": "PassiveAI"
+      "AIBehavior": "PassiveAI",
+      "IsFinalQuest": false
     },
     {
       "Id": "C001Q2",
@@ -731,7 +732,8 @@
           "Threshold": 3
         }
       ],
-      "AIBehavior": "PassiveAI"
+      "AIBehavior": "PassiveAI",
+      "IsFinalQuest": false
     },
     {
       "Id": "C001Q3",
@@ -1295,7 +1297,8 @@
           "Threshold": 3
         }
       ],
-      "AIBehavior": "AggressiveAI"
+      "AIBehavior": "AggressiveAI",
+      "IsFinalQuest": false
     },
     {
       "Id": "C001Q4",
@@ -1674,7 +1677,8 @@
           "Threshold": 3
         }
       ],
-      "AIBehavior": "AggressiveAI"
+      "AIBehavior": "AggressiveAI",
+      "IsFinalQuest": false
     },
     {
       "Id": "C001Q5",
@@ -2060,7 +2064,8 @@
           "Threshold": 3
         }
       ],
-      "AIBehavior": "AggressiveAI"
+      "AIBehavior": "AggressiveAI",
+      "IsFinalQuest": true
     }
   ]
 }
