@@ -396,11 +396,12 @@
         "Threshold": 3
       }
     ],
-    "AIBehavior": "PassiveAI"
+    "AIBehavior": "PassiveAI",
+    "IsFinalQuest": false
   },
-  "Version": "20180905021047307",
+  "Version": "20180905021838641",
   "Key": "MainQuest",
   "SubKey": "C001Q2",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q2_20180905021047307"
+  "InternalKey": "MainQuest_C001Q2_20180905021838641"
 }
