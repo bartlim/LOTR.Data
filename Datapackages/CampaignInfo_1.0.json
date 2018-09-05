@@ -2359,7 +2359,7 @@
               "PlayOnce": false
             }
           ],
-          "VictoryBGM": null,
+          "VictoryBGM": "mus_mapmenu",
           "VictoryCount": 2,
           "VictoryTitleList": [
             "Q_QUEST_C001Q1_TITLE_0",
@@ -2373,7 +2373,10 @@
             "C001Q1_VictoryVoice_1",
             "C001Q1_VictoryVoice_2"
           ],
-          "ResolutionArtSpriteList": [],
+          "ResolutionArtSpriteList": [
+            "C001Q1_QuestResolution_1",
+            "C001Q1_QuestResolution_2"
+          ],
           "FateCardList": [
             {
               "Id": "TheGuiltOfDwarves",
@@ -2698,7 +2701,7 @@
               "PlayOnce": false
             }
           ],
-          "VictoryBGM": null,
+          "VictoryBGM": "mus_mapmenu",
           "VictoryCount": 1,
           "VictoryTitleList": [
             "Q_QUEST_C001Q2_TITLE_0"
@@ -2709,7 +2712,9 @@
           "VictoryVoiceList": [
             "C001Q2_VictoryVoice_1"
           ],
-          "ResolutionArtSpriteList": [],
+          "ResolutionArtSpriteList": [
+            "C001Q2_QuestResolution_1"
+          ],
           "FateCardList": [
             {
               "Id": "CuttingTheWebs",
@@ -3263,7 +3268,7 @@
               "PlayOnce": false
             }
           ],
-          "VictoryBGM": null,
+          "VictoryBGM": "mus_mapmenu",
           "VictoryCount": 1,
           "VictoryTitleList": [
             "Q_QUEST_C001Q3_TITLE_0"
@@ -3274,7 +3279,9 @@
           "VictoryVoiceList": [
             "C001Q3_VictoryVoice_1"
           ],
-          "ResolutionArtSpriteList": [],
+          "ResolutionArtSpriteList": [
+            "C001Q3_QuestResolution_1"
+          ],
           "FateCardList": [
             {
               "Id": "ForageForSupplies",
@@ -3643,7 +3650,7 @@
               "PlayOnce": false
             }
           ],
-          "VictoryBGM": null,
+          "VictoryBGM": "mus_mapmenu",
           "VictoryCount": 1,
           "VictoryTitleList": [
             "Q_QUEST_C001Q4_TITLE_0"
@@ -3654,7 +3661,9 @@
           "VictoryVoiceList": [
             "C001Q4_VictoryVoice_1"
           ],
-          "ResolutionArtSpriteList": [],
+          "ResolutionArtSpriteList": [
+            "C001Q4_QuestResolution_1"
+          ],
           "FateCardList": [
             {
               "Id": "StaggeringBlow",
@@ -4024,7 +4033,7 @@
               "PlayOnce": false
             }
           ],
-          "VictoryBGM": null,
+          "VictoryBGM": "mus_mapmenu",
           "VictoryCount": 2,
           "VictoryTitleList": [
             "Q_QUEST_C001Q5_TITLE_0",
