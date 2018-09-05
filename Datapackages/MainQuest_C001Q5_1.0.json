@@ -399,7 +399,10 @@
       "C001Q5_VictoryVoice_1",
       "C001Q5_VictoryVoice_2"
     ],
-    "ResolutionArtSpriteList": null,
+    "ResolutionArtSpriteList": [
+      "C001Q5_QuestResolution_1",
+      "C001Q5_QuestResolution_2"
+    ],
     "FateCardList": [
       {
         "Id": "RefreshingWaters",
@@ -430,9 +433,9 @@
     ],
     "AIBehavior": "AggressiveAI"
   },
-  "Version": "20180904210911488",
+  "Version": "20180905021103376",
   "Key": "MainQuest",
   "SubKey": "C001Q5",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q5_20180904210911488"
+  "InternalKey": "MainQuest_C001Q5_20180905021103376"
 }
