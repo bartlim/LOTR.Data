@@ -20,7 +20,7 @@
     "AttackSFX": "",
     "DeathVFX": "",
     "DeathSFX": "",
-    "FlavorText": "",
+    "CannotTriggerReason": "",
     "ArtistName": "",
     "Status": "",
     "CardOffsetX": 1.0,
@@ -31,6 +31,7 @@
     "CameoScale": 1.0,
     "CombatValue": 0,
     "ResolutionValue": 0,
+    "CanBePlayedDuringTravel": false,
     "ComboList": [],
     "ArtworkMD5": null,
     "BannerMD5": null,
@@ -38,6 +39,7 @@
   },
   "Localization": {
     "Title": "Add 5 Threat",
-    "Text": "Add 5 Threat"
+    "Text": "Add 5 Threat",
+    "FlavorText": "added threat"
   }
 }
