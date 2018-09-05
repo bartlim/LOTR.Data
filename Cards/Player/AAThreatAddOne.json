@@ -3,8 +3,8 @@
     "Id": "AAThreatAddOne",
     "Owner": "Player",
     "CardType": 4,
-    "ShopType": "",
-    "Cost": 0,
+    "ShopType": "Special",
+    "Cost": 1,
     "QuestPoints": 0,
     "Attack": 0,
     "Willpower": 0,
@@ -22,7 +22,7 @@
     "DeathSFX": "",
     "CannotTriggerReason": "",
     "ArtistName": "",
-    "Status": "",
+    "Status": "WIP",
     "CardOffsetX": 1.0,
     "CardOffsetY": 1.0,
     "CardScale": 1.0,
@@ -40,6 +40,6 @@
   "Localization": {
     "Title": "Add 1 Threat",
     "Text": "add 1 threat",
-    "FlavorText": "threat added"
+    "FlavorText": ""
   }
 }
