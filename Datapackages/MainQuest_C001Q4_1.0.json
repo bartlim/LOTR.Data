@@ -418,7 +418,9 @@
     "VictoryVoiceList": [
       "C001Q4_VictoryVoice_1"
     ],
-    "ResolutionArtSpriteList": [],
+    "ResolutionArtSpriteList": [
+      "C001Q4_QuestResolution_1"
+    ],
     "FateCardList": [
       {
         "Id": "StaggeringBlow",
@@ -450,9 +452,9 @@
     "AIBehavior": "AggressiveAI",
     "IsFinalQuest": false
   },
-  "Version": "20180905021848305",
+  "Version": "20180905035817315",
   "Key": "MainQuest",
   "SubKey": "C001Q4",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q4_20180905021848305"
+  "InternalKey": "MainQuest_C001Q4_20180905035817315"
 }
