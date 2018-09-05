@@ -431,11 +431,12 @@
         "Threshold": 3
       }
     ],
-    "AIBehavior": "AggressiveAI"
+    "AIBehavior": "AggressiveAI",
+    "IsFinalQuest": true
   },
-  "Version": "20180905021103376",
+  "Version": "20180905021853445",
   "Key": "MainQuest",
   "SubKey": "C001Q5",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q5_20180905021103376"
+  "InternalKey": "MainQuest_C001Q5_20180905021853445"
 }
