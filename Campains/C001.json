@@ -56,7 +56,10 @@
             "",
             ""
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q1L1_CHOICE_1",
+            "Q_STAGE_C001Q1L1_CHOICE_2"
+          ]
         },
         {
           "Id": "C001Q1L2",
@@ -113,7 +116,10 @@
             "",
             ""
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q1L2_CHOICE_1",
+            "Q_STAGE_C001Q1L2_CHOICE_2"
+          ]
         },
         {
           "Id": "C001Q1L3",
@@ -158,7 +164,10 @@
             "",
             ""
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q1L3_CHOICE_1",
+            "Q_STAGE_C001Q1L3_CHOICE_2"
+          ]
         },
         {
           "Id": "C001Q1L4",
@@ -193,167 +202,263 @@
             "",
             ""
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q1L4_CHOICE_1",
+            "Q_STAGE_C001Q1L4_CHOICE_2"
+          ]
         }
       ],
       "SauronDeck": [
         {
           "Id": "HatchlingSpider",
           "Amount": 3,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "WatchersInTheDark",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "DarkSorcery",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Despair",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "DrivenByShadow",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "EyesOfTheForest",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "ForestSpider",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GatheringGloom",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "MirkwoodFlock",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "PursuedByShadow",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "SpiesofShadow",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "TreacherousFog",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "UnderTheShadow",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Unwavering",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Veteran",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Enfeebled",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "EvilStorm",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GreedyFingers",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "LowOnSupplies",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "PoisonedBySpiders",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "SpiderGuard",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "ThickWebs",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "UnderTheWatchfulEye",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "WatchfulEyes",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GiantSpider",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "HiveGuardian",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "KingSpider",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "MirkwoodBroodmother",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "SpidersOfMirkwood",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "TheNecromancersReach",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "TurnedAround",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         }
       ],
-      "VictoryBGM": "mus_mapmenu",
+      "VictoryBGM": "mus_mirkwood",
       "VictoryCount": 2,
       "VictoryTitleList": [
         "Q_QUEST_C001Q1_TITLE_0",
@@ -436,7 +541,10 @@
             "",
             ""
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q2L1_CHOICE_1",
+            "Q_STAGE_C001Q2L1_CHOICE_2"
+          ]
         },
         {
           "Id": "C001Q2L2",
@@ -481,7 +589,10 @@
             "",
             ""
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q2L2_CHOICE_1",
+            "Q_STAGE_C001Q2L2_CHOICE_2"
+          ]
         },
         {
           "Id": "C001Q2L4",
@@ -525,177 +636,279 @@
             "",
             ""
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q2L4_CHOICE_1",
+            "Q_STAGE_C001Q2L4_CHOICE_2"
+          ]
         }
       ],
       "SauronDeck": [
         {
           "Id": "HatchlingSpider",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "WatchersInTheDark",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "DarkSorcery",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Despair",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "DrivenByShadow",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "EyesOfTheForest",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "ForestSpider",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GatheringGloom",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "MirkwoodFlock",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "PursuedByShadow",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "UnderTheShadow",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Veteran",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "ViciousSpeed",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Enfeebled",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "EvilStorm",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GreedyFingers",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "LowOnSupplies",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "PoisonedBySpiders",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "SpiderGuard",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "ThickWebs",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Tribulation",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "UnderTheWatchfulEye",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "WatchfulEyes",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "AccursedForest",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Exhaustion",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GiantSpider",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "HiveGuardian",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "KingSpider",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "MirkwoodBroodmother",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "SpidersOfMirkwood",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "TheNecromancersReach",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "UngoliantsBrood",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "VileSpawn",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         }
       ],
-      "VictoryBGM": "mus_mapmenu",
+      "VictoryBGM": "mus_spookyforest",
       "VictoryCount": 1,
       "VictoryTitleList": [
         "Q_QUEST_C001Q2_TITLE_0"
@@ -779,7 +992,10 @@
             "C001Q3L1_ChoiceSprite_1",
             "C001Q3L1_ChoiceSprite_2"
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q3L1_CHOICE_1",
+            "Q_STAGE_C001Q3L1_CHOICE_2"
+          ]
         },
         {
           "Id": "C001Q3L2A",
@@ -818,7 +1034,10 @@
             "",
             ""
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q3L2A_CHOICE_1",
+            "Q_STAGE_C001Q3L2A_CHOICE_2"
+          ]
         },
         {
           "Id": "C001Q3L2B",
@@ -852,7 +1071,10 @@
             "",
             ""
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q3L2B_CHOICE_1",
+            "Q_STAGE_C001Q3L2B_CHOICE_2"
+          ]
         },
         {
           "Id": "C001Q3L3A",
@@ -897,7 +1119,10 @@
             "",
             ""
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q3L3A_CHOICE_1",
+            "Q_STAGE_C001Q3L3A_CHOICE_2"
+          ]
         },
         {
           "Id": "C001Q3L3B",
@@ -942,7 +1167,10 @@
             "",
             ""
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q3L3B_CHOICE_1",
+            "Q_STAGE_C001Q3L3B_CHOICE_2"
+          ]
         },
         {
           "Id": "C001Q3L4",
@@ -987,7 +1215,10 @@
             "",
             ""
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q3L4_CHOICE_1",
+            "Q_STAGE_C001Q3L4_CHOICE_2"
+          ]
         },
         {
           "Id": "C001Q3L5",
@@ -1032,237 +1263,375 @@
             "",
             ""
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q3L5_CHOICE_1",
+            "Q_STAGE_C001Q3L5_CHOICE_2"
+          ]
         }
       ],
       "SauronDeck": [
         {
           "Id": "BlackForestBats",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "WatchersInTheDark",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "CreatureOfDarkness",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Despair",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "DolGuldurArcher",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "DrivenByShadow",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "EyesOfTheForest",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "ForestSpider",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GoblinScavenger",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "LostInTheWilderness",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "MirkwoodFlock",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "RangingGoblin",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "RockAdder",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "SpiesofShadow",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "TreacherousFog",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "UnderTheShadow",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "UnevenGround",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Unwavering",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Veteran",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "ViciousSpeed",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "DarkSorcery",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "EvilStorm",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Flanked",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "FoulWeather",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GoblinPursuer",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "StragglingGoblin",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Hummerhorns",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Hunted",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "LowOnSupplies",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "MuckAdder",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "SpiderGuard",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "WatchfulEyes",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Exhaustion",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GoblinSniper",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GoblinTaskmaster",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "HarriedByFire",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "KingSpider",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "MirkwoodPatrol",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "OrcBeastmaster",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "VeteranPatrol",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Wargs",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "WildBear",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GoblinWarlord",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GreedyFingers",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "PackOfWargs",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         }
       ],
-      "VictoryBGM": "mus_mapmenu",
+      "VictoryBGM": "mus_dungeon",
       "VictoryCount": 1,
       "VictoryTitleList": [
         "Q_QUEST_C001Q3_TITLE_0"
@@ -1353,7 +1722,10 @@
             "",
             ""
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q4L1_CHOICE_1",
+            "Q_STAGE_C001Q4L1_CHOICE_2"
+          ]
         },
         {
           "Id": "C001Q4L2",
@@ -1401,7 +1773,10 @@
             "",
             ""
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q4L2_CHOICE_1",
+            "Q_STAGE_C001Q4L2_CHOICE_2"
+          ]
         },
         {
           "Id": "C001Q4L3",
@@ -1439,212 +1814,335 @@
             "",
             ""
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q4L3_CHOICE_1",
+            "Q_STAGE_C001Q4L3_CHOICE_2"
+          ]
         }
       ],
       "SauronDeck": [
         {
           "Id": "BlackForestBats",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "WatchersInTheDark",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "CreatureOfDarkness",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Despair",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "DolGuldurArcher",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "DrivenByShadow",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "EastBightPatrol",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GatheringGloom",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GoblinScavenger",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "MirkwoodFlock",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "PursuedByShadow",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "SpiesofShadow",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "SpookedHorses",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "TowerPatrol",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "TreacherousFog",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "UnderTheShadow",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Unwavering",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Veteran",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "ViciousSpeed",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "DarkSorcery",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Enfeebled",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Flanked",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "StragglingGoblin",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Hunted",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "LowOnSupplies",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Tribulation",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "AccursedForest",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "DolGuldurOrcs",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GoblinSniper",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GoblinTaskmaster",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "HarriedByFire",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "MirkwoodPatrol",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "OrcBeastmaster",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "OrcMarauder",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "PrisonGuard",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "TheNecromancersReach",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "VeteranPatrol",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "EliteDolGuldurOrcs",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GoblinWarlord",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GreedyFingers",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         }
       ],
-      "VictoryBGM": "mus_mapmenu",
+      "VictoryBGM": "mus_orcmarch",
       "VictoryCount": 1,
       "VictoryTitleList": [
         "Q_QUEST_C001Q4_TITLE_0"
@@ -1732,7 +2230,10 @@
             "",
             ""
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q5L1_CHOICE_1",
+            "Q_STAGE_C001Q5L1_CHOICE_2"
+          ]
         },
         {
           "Id": "C001Q5L2",
@@ -1779,7 +2280,10 @@
             "",
             ""
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q5L2_CHOICE_1",
+            "Q_STAGE_C001Q5L2_CHOICE_2"
+          ]
         },
         {
           "Id": "C001Q5L3",
@@ -1815,7 +2319,10 @@
             "",
             ""
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q5L3_CHOICE_1",
+            "Q_STAGE_C001Q5L3_CHOICE_2"
+          ]
         },
         {
           "Id": "C001Q5L4",
@@ -1852,182 +2359,287 @@
             "",
             ""
           ],
-          "ChoiceSpriteTitleList": []
+          "ChoiceSpriteTitleList": [
+            "Q_STAGE_C001Q5L4_CHOICE_1",
+            "Q_STAGE_C001Q5L4_CHOICE_2"
+          ]
         }
       ],
       "SauronDeck": [
         {
           "Id": "BlackForestBats",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "WatchersInTheDark",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "CreatureOfDarkness",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Despair",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "DolGuldurArcher",
           "Amount": 3,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "DrivenByShadow",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "EyesOfTheForest",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GatheringGloom",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GrowingDarkness",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "MirkwoodFlock",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "RangingGoblin",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "RockAdder",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "SpiesofShadow",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "TreacherousFog",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Unwavering",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Veteran",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "DarkSorcery",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Enfeebled",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "EvilStorm",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "FoulWeather",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GoblinPursuer",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Hummerhorns",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Hunted",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "LowOnSupplies",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "MuckAdder",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Tribulation",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "UnderTheWatchfulEye",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "WatchfulEyes",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "AccursedForest",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "Exhaustion",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GoblinSniper",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "HarriedByFire",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "PursuitOnTheShore",
           "Amount": 2,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         },
         {
           "Id": "GreedyFingers",
           "Amount": 1,
-          "PlayOnce": false
+          "PlayOnce": false,
+          "MinThreatLevel": 0,
+          "MinDifficulty": 0,
+          "MaxDifficulty": 0
         }
       ],
-      "VictoryBGM": "mus_mapmenu",
+      "VictoryBGM": "mus_thewilderlands",
       "VictoryCount": 2,
       "VictoryTitleList": [
         "Q_QUEST_C001Q5_TITLE_0",
