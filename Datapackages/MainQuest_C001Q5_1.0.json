@@ -1,283 +1,280 @@
 {
   "DataSet": {
     "Title": "C001Q5",
-    "SauronDeckInfo": {
-      "Id": null,
-      "DeckList": [
-        {
-          "Id": "BlackForestBats",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "WatchersInTheDark",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "CreatureOfDarkness",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Despair",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "DolGuldurArcher",
-          "Quantity": 3,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "DrivenByShadow",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "EyesOfTheForest",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "GatheringGloom",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "GrowingDarkness",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "MirkwoodFlock",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "RangingGoblin",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "RockAdder",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "SpiesofShadow",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "TreacherousFog",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Unwavering",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Veteran",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "DarkSorcery",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Enfeebled",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "EvilStorm",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "FoulWeather",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "GoblinPursuer",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Hummerhorns",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Hunted",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "LowOnSupplies",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "MuckAdder",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Tribulation",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "UnderTheWatchfulEye",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "WatchfulEyes",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "AccursedForest",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "Exhaustion",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "GoblinSniper",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "HarriedByFire",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "PursuitOnTheShore",
-          "Quantity": 2,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        },
-        {
-          "Id": "GreedyFingers",
-          "Quantity": 1,
-          "PlayOnce": false,
-          "MinThreatLevel": 0,
-          "MinDifficulty": 1,
-          "MaxDifficulty": 4
-        }
-      ]
-    },
+    "SauronDeck": [
+      {
+        "Id": "BlackForestBats",
+        "Amount": 2,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "WatchersInTheDark",
+        "Amount": 2,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "CreatureOfDarkness",
+        "Amount": 2,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "Despair",
+        "Amount": 2,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "DolGuldurArcher",
+        "Amount": 3,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "DrivenByShadow",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "EyesOfTheForest",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "GatheringGloom",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "GrowingDarkness",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "MirkwoodFlock",
+        "Amount": 2,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "RangingGoblin",
+        "Amount": 2,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "RockAdder",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "SpiesofShadow",
+        "Amount": 2,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "TreacherousFog",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "Unwavering",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "Veteran",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "DarkSorcery",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "Enfeebled",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "EvilStorm",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "FoulWeather",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "GoblinPursuer",
+        "Amount": 2,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "Hummerhorns",
+        "Amount": 2,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "Hunted",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "LowOnSupplies",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "MuckAdder",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "Tribulation",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "UnderTheWatchfulEye",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "WatchfulEyes",
+        "Amount": 2,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "AccursedForest",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "Exhaustion",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "GoblinSniper",
+        "Amount": 2,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "HarriedByFire",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "PursuitOnTheShore",
+        "Amount": 2,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      },
+      {
+        "Id": "GreedyFingers",
+        "Amount": 1,
+        "PlayOnce": false,
+        "MinThreatLevel": 0,
+        "MinDifficulty": 1,
+        "MaxDifficulty": 4
+      }
+    ],
     "Stages": [
       {
         "Title": "C001Q5L1",
@@ -434,9 +431,9 @@
     "AIBehavior": "AggressiveAI",
     "IsFinalQuest": true
   },
-  "Version": "20180905035822212",
+  "Version": "20180912140901215",
   "Key": "MainQuest",
   "SubKey": "C001Q5",
   "RequiredClientVersion": "1.0",
-  "InternalKey": "MainQuest_C001Q5_20180905035822212"
+  "InternalKey": "MainQuest_C001Q5_20180912140901215"
 }
